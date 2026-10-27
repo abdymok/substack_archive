@@ -8,6 +8,14 @@
 :root{color-scheme:light;--ink:#171717;--muted:#666;--line:#d7d7d7;--paper:#fff;--soft:#f5f5f2;--accent:#2459c4}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.48 Georgia,"Times New Roman",serif}
 header,main{max-width:1180px;margin:auto;padding:22px}
+.brand{font:13px/1.4 system-ui,sans-serif;letter-spacing:.02em;margin:0 0 12px}
+.brand a{color:inherit;text-decoration:none}
+.brand-y{color:#c62828}
+.result h3 a,.post-link{color:inherit;text-decoration:underline;text-decoration-color:#aaa;text-underline-offset:3px}
+.result h3 a:hover,.post-link:hover{color:var(--accent)}
+.result-url{font:12px/1.45 system-ui,sans-serif;overflow-wrap:anywhere;margin:4px 0;color:var(--muted)}
+.result-url a{color:inherit}
+.summary{margin:7px 0}
 header{border-bottom:1px solid var(--line)}h1{font-size:clamp(26px,4vw,40px);font-weight:normal;line-height:1.08;margin:0 0 8px}h2{font-size:22px;font-weight:normal;margin:28px 0 12px}p{margin:8px 0}.small,.muted{color:var(--muted);font:13px/1.5 system-ui,sans-serif}
 button,input,select{font:14px system-ui,sans-serif;border:1px solid #aaa;border-radius:2px;padding:9px;background:white;color:var(--ink)}
 button{cursor:pointer}button.primary{background:var(--accent);color:white;border-color:var(--accent)}button:disabled{opacity:.45;cursor:wait}
@@ -26,6 +34,7 @@ footer{border-top:1px solid var(--line);max-width:1180px;margin:20px auto;paddin
 </head>
 <body>
 <header>
+<p class="brand"><a href="https://abdymok.substack.com/" target="_blank" rel="noopener noreferrer" aria-label="ukraine@war on Substack">abd<span class="brand-y">y</span>mok</a></p>
 <h1>ukraine@war archive explorer</h1>
 <p>Search the annual Markdown archive, review posting patterns, and export a working post inventory.</p>
 <p class="small">Source repository: <a href="https://github.com/abdymok/substack_archive">abdymok/substack_archive</a>. This page reads the current default-branch files when you load it. October 2026 and later additions appear after the relevant Markdown file is updated and the page is refreshed.</p>
@@ -46,7 +55,7 @@ footer{border-top:1px solid var(--line);max-width:1180px;margin:20px auto;paddin
 <section id="posts" class="panel hidden">
 <h2>Post inventory</h2>
 <div class="controls"><input id="postFilter" type="search" placeholder="Filter rows…" style="flex:1;min-width:180px"><select id="postYear"><option value="">All years</option></select></div>
-<div class="tablewrap"><table><thead><tr><th>Date</th><th>Title</th><th>Subtitle</th><th>Words</th><th>Topics</th><th>Source match</th></tr></thead><tbody id="postRows"></tbody></table></div>
+<div class="tablewrap"><table><thead><tr><th>Date</th><th>Title</th><th>Subtitle</th><th>URL</th><th>Words</th><th>Topics</th><th>Source match</th></tr></thead><tbody id="postRows"></tbody></table></div>
 <p class="small">CSV export includes all parsed posts and source metadata where a match is available. Word counts are computed from Markdown text after removing common markup and image/link URLs.</p>
 </section>
 <section id="frequency" class="panel hidden">
@@ -76,7 +85,7 @@ footer{border-top:1px solid var(--line);max-width:1180px;margin:20px auto;paddin
 <p>For a rigorous, publishable index, the candidate list should be curated in a separate alias register with canonical name, aliases, type, confidence and supporting post references.</p>
 </section>
 </main>
-<footer class="small">A client-side research aid. No source files are modified by this page. Exports are generated in your browser.</footer>
+<footer class="small">A client-side research aid. No source files are modified by this page. Exports are generated in your browser. <span class="brand"><a href="https://abdymok.substack.com/" target="_blank" rel="noopener noreferrer" aria-label="ukraine@war on Substack">abd<span class="brand-y">y</span>mok</a></span></footer>
 <script>
 (() => {
 'use strict';
@@ -181,8 +190,20 @@ function matchMetadata(){
      if(!p.subtitle && csvSubtitle && csvSubtitle.toLowerCase()!==p.title.toLowerCase() && !/^Day\\s+\\w+/i.test(csvSubtitle)) p.subtitle=csvSubtitle;
      p.post_id=m.post_id||'';p.published=m.is_published||'';p.audience=m.audience||'';p.type=m.type||'';
      p.metadata_match=dated.length?'Matched by date':'Matched by title';
-   } else {p.post_id='';p.published='';p.audience='';p.type='';}
+   } else {p.post_id='';p.published='';p.audience='';p.type='';p.post_url='';}
+   const slug=(p.post_id.split('.').slice(1).join('.')).trim();
+   p.post_url=(String(p.published).toLowerCase()==='true' && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug))?'https://abdymok.substack.com/p/'+slug:'';
+   p.summary=makeSummary(p.body);
  }
+}
+function makeSummary(body){
+ const clean=stripMarkdown(body||'').replace(/\s+/g,' ').trim();
+ if(!clean)return '';
+ const first=clean.match(/^.{35,260}?(?:[.!?](?=\s|$)|$)/);
+ let summary=(first?first[0]:clean.slice(0,220)).trim();
+ if(summary.length>240)summary=summary.slice(0,237).replace(/\s+\S*$/,'')+'…';
+ else if(clean.length>summary.length && !/[.!?…]$/.test(summary))summary=summary.replace(/[,:;\s]+$/,'')+'…';
+ return summary;
 }
 function buildEntities(){
  const map=new Map();
@@ -223,12 +244,12 @@ function renderStats(){
 function renderPosts(){
  const q=$('postFilter').value.toLowerCase(),y=$('postYear').value;
  const filtered=posts.filter(p=>(!y||String(p.year)===y)&&(!q||[p.date,p.title,p.subtitle,p.body,p.topics.join(' ')].join(' ').toLowerCase().includes(q)));
- $('postRows').innerHTML=filtered.slice(0,5000).map(p=>`<tr><td>${escapeHtml(p.date)}</td><td class="title">${escapeHtml(p.title)}</td><td>${escapeHtml(p.subtitle)}</td><td>${p.word_count.toLocaleString()}</td><td class="topics">${p.topics.map(t=>`<span class="pill">${escapeHtml(t)}</span>`).join('')}</td><td>${escapeHtml(p.metadata_match)}</td></tr>`).join('');
+ $('postRows').innerHTML=filtered.slice(0,5000).map(p=>`<tr><td>${escapeHtml(p.date)}</td><td class="title">${p.post_url?`<a class="post-link" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(p.title)}</a>`:escapeHtml(p.title)}</td><td>${escapeHtml(p.subtitle)}</td><td>${p.post_url?`<a class="post-link" href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener noreferrer">Substack</a>`:'—'}</td><td>${p.word_count.toLocaleString()}</td><td class="topics">${p.topics.map(t=>`<span class="pill">${escapeHtml(t)}</span>`).join('')}</td><td>${escapeHtml(p.metadata_match)}</td></tr>`).join('');
 }
 function renderSearch(){
  const q=$('q').value.trim().toLowerCase(),y=$('year').value,t=$('topic').value;
  const results=posts.filter(p=>(!y||String(p.year)===y)&&(!t||p.topics.includes(t))&&(!q||[p.date,p.title,p.subtitle,p.body].join(' ').toLowerCase().includes(q)));
- $('searchResults').innerHTML=`<p class="small">${results.length.toLocaleString()} matching posts${results.length>100?' · showing first 100':''}</p>`+results.slice(0,100).map(p=>`<article class="result"><h3>${escapeHtml(p.title)}</h3><div class="meta">${escapeHtml(p.date)} · ${p.word_count.toLocaleString()} words · ${escapeHtml(p.source)}${p.day?' · '+escapeHtml('Day '+p.day):''}</div>${p.subtitle?`<div>${escapeHtml(p.subtitle)}</div>`:''}<div class="snippet">${escapeHtml(p.body.slice(0,500))}${p.body.length>500?'…':''}</div><div>${p.topics.map(t=>`<span class="pill">${escapeHtml(t)}</span>`).join('')}</div></article>`).join('');
+ $('searchResults').innerHTML=`<p class="small">${results.length.toLocaleString()} matching posts${results.length>100?' · showing first 100':''}</p>`+results.slice(0,100).map(p=>`<article class="result"><h3>${p.post_url?`<a href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(p.title)}</a>`:escapeHtml(p.title)}</h3><div class="meta">${escapeHtml(p.date)} · ${p.word_count.toLocaleString()} words · ${escapeHtml(p.source)}${p.day?' · '+escapeHtml('Day '+p.day):''}</div>${p.subtitle?`<div>${escapeHtml(p.subtitle)}</div>`:''}${p.post_url?`<div class="result-url"><a href="${escapeHtml(p.post_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(p.post_url)}</a></div>`:''}${p.summary?`<div class="summary">${escapeHtml(p.summary)}</div>`:''}<div>${p.topics.map(t=>`<span class="pill">${escapeHtml(t)}</span>`).join('')}</div></article>`).join('');
 }
 function renderEntities(){
  const q=$('entityFilter').value.toLowerCase(),t=$('entityType').value;
@@ -273,9 +294,9 @@ async function load(){
  $('status').textContent=`Loaded ${posts.length.toLocaleString()} parsed posts from ${new Set(posts.map(p=>p.year)).size} year files. ${metadata.length.toLocaleString()} metadata rows read.`+(loadErrors.length?' Issues: '+loadErrors.join(' · '):' All annual files parsed.');
  $('load').disabled=false;
 }
-function postCSVRows(){return posts.map(p=>[p.date,p.title,p.subtitle,p.word_count,p.topics.join('; '),p.post_id,p.published,p.audience,p.type,p.metadata_match,p.source,p.source_line,p.day])}
+function postCSVRows(){return posts.map(p=>[p.date,p.title,p.subtitle,p.post_url,p.summary,p.word_count,p.topics.join('; '),p.post_id,p.published,p.audience,p.type,p.metadata_match,p.source,p.source_line,p.day])}
 $('load').addEventListener('click',load);
-$('exportPosts').addEventListener('click',()=>download('ukraine-war-post-inventory.csv',postCSVRows(),['date','title','subtitle','word_count_approx','key_topics_keyword_tags','post_id','is_published','audience','type','metadata_match','source_file','source_line','day_number']));
+$('exportPosts').addEventListener('click',()=>download('ukraine-war-post-inventory.csv',postCSVRows(),['date','title','subtitle','post_url','summary_excerpt','word_count_approx','key_topics_keyword_tags','post_id','is_published','audience','type','metadata_match','source_file','source_line','day_number']));
 $('exportEntities').addEventListener('click',()=>download('ukraine-war-entity-candidates.csv',entities.map(e=>[e.name,e.type,e.count,e.refs]),['candidate','heuristic_type','post_count','sample_post_references']));
 $('searchBtn').addEventListener('click',renderSearch);$('q').addEventListener('keydown',e=>{if(e.key==='Enter')renderSearch()});
 ['postFilter','postYear'].forEach(id=>$(id).addEventListener(id==='postFilter'?'input':'change',renderPosts));
