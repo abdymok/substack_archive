@@ -52,7 +52,7 @@ TEXT_SUBTITLES = {
 244:"The largest air attack",
 248:"Prisoners, borders, and balloons",
 251:"Missiles across Ukraine",
-252:"Samuel Charap and the White House",
+252:"Samuel Charap's White House visits",
 255:"The economy, measured",
 259:"Taiwan's democratic success",
 260:"A decade of revolution",
