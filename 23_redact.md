@@ -678,6 +678,8 @@ We’ve come a long way since Day 26 of Russia’s full-out invasion, but not ne
 
 *Date: 2023-02-23 | Status: Published | Audience: only_paid*
 
+*The sham democracy*
+
 [Image]
 
 No sooner than I had recalled 1982 Ronald’s speech in Berlin did Timothy Snyder slap up a bunch of Thomas Mann quotes on Twitter[1](#footnote-1).
@@ -759,6 +761,8 @@ Looking on the bright side, all these experts hate themselves for *doing their j
 ## Day 2 Year 2 
 
 *Date: 2023-02-24 | Status: Published | Audience: only_paid*
+
+*Foreign flaks and photos*
 
 [Image]
 
@@ -956,6 +960,8 @@ And let’s introduce MP Kira Rudyk to Kevin McCarthy, Speaker of the House and 
 
 *Date: 2023-03-03 | Status: Published | Audience: only_paid*
 
+*A quiet pause from war*
+
 A recent surge in linkery to some of this site’s more pointed comment on Kyiv’s [corporate lapdogs](https://abdymok.substack.com/p/something-memorable) and [demagogue paste-up artists](https://abdymok.substack.com/p/rats-on-a-journey) might lead to a conclusion that all that goes on here is potshot-taking and the raking of muck, when nothing could be further from the truth: regular readers of [ukraine@war](https://abdymok.substack.com/) will attest that most material posted here is [gently evocative](https://abdymok.substack.com/p/a-man-in-full), [quietly reverent](https://abdymok.substack.com/p/ukraines-spherical-cow), and more often than not focused on [building community](https://abdymok.substack.com/p/setting-the-plate-clear), on [uniting rather than dividing](https://abdymok.substack.com/p/countdown-to-disaster).
 
 We’ve taken a break from day-to-day war analysis because it tires our brain. As of this writing, Phase 3 of the bloody mess continues[1](#footnote-1). Stefan [churns out](https://www.facebook.com/stefan.korshak) reports about the tactical military situation almost daily.
@@ -1070,6 +1076,8 @@ Intelligence officials suspect Ukraine partisans behind Nord Stream bombings, ra
 
 *Date: 2023-03-09 | Status: Published | Audience: only_paid*
 
+*Radar, missiles, and running*
+
 I just read the ATA, so you don’t have to[1](#footnote-1).
 
 Andrew [lists](https://www.nytimes.com/2023/03/08/world/europe/russia-ukraine-war-groups.html?smid=url-share) Russian Volunteer Corps, Bypol, Bratsvo, Honor and Tradition and Order among pro-Ukrainian groups possibly engaged in anti-Russia fuckery.
@@ -1108,6 +1116,8 @@ Boom! @03.55. Probably am anti-missile batteries popping off.
 
 *Date: 2023-03-09 | Status: Published | Audience: only_paid*
 
+*Running through the missile alert*
+
 I decided to run during the missile alert. To be on the safe side, I didn’t listen to music. About halfway on the leg from Mist Metro Bridge to Paton Bridge there was a very loud explosion. Sounded like a Jdam. Plumes of black smoke floated over the Dnipro.
 
 The time of impact was 05.50, give or take a couple of seconds. We know what was hit, but we have to keep the info hush hush for now.
@@ -1129,6 +1139,8 @@ We recall almost being blown to smithereens by a Kh-101 on Day 230, October 10, 
 ## Day 15 Year 2 
 
 *Date: 2023-03-10 | Status: Published | Audience: only_paid*
+
+*The Kinzhal over Kyiv*
 
 [Image]
 
@@ -1535,6 +1547,8 @@ As an otherwise impeccably “pro-European” Czech diplomat once put it:
 
 *Date: 2023-03-25 | Status: Published | Audience: only_paid*
 
+*TikTok legionnaires*
+
 A western publication has decided to expose, finally, some of the TikTok legionnaires whom we have been undressing for, er, at least a year[1](#footnote-1)[2](#footnote-2)[3](#footnote-3).
 
 The future of America’s stereotypical Mad Max is not Ukrainian.
@@ -1614,6 +1628,8 @@ I think about the mess differently, because my intellectual political baggage is
 ## Poem of the Day 
 
 *Date: 2023-03-30 | Status: Published | Audience: only_paid*
+
+*Metaphysical theme park*
 
 [Image]
 
@@ -1759,7 +1775,7 @@ And, finally, my hero “Псіхолаг“ (Psychologist) from the Kalinoŭski
 
 *Date: 2023-03-31 | Status: Published | Audience: only_paid*
 
-* *
+*The Fisherman's market*
 
 [Image]
 
@@ -2523,6 +2539,8 @@ In other news, colorful sunrises and sunsets along the Dnipro.
 
 *Date: 2023-05-04 | Status: Published | Audience: only_paid*
 
+*Dragon, the parable*
+
 [Image]
 
 The only reason the dragon is not destroying the enemy yet is his love of war. He has not yet had his fill of battle and has not finished savoring his own feats of bravery.
@@ -3117,6 +3135,8 @@ There is no such thing as a bluff in a gun fight. We are after high speed with a
 
 *Date: 2023-05-21 | Status: Published | Audience: only_paid*
 
+*Summer, and F-16s*
+
 [Image]
 
 Gosh, summer has arrived. It’s nice right now: the cat and I are swimming backstroke in a big big pool of quiet. Herself is at a seminar about [the color yellow in culture](https://www.facebook.com/naive.art.studio/posts/pfbid02vaHnu4DW4kyxYzwsUGgm9jfpeTrEcuDLJZ3Cayciv47rmBKVVUxMVeNcDWMkmzQGl), and it looks like cupcake is out dancing. The roads are slow with sedans pulling caravans full of blond children to plant potatoes. The city is overrun now and again, this weekend by hundreds of doe-eyed, dreadlocked wastrels here to get baked and jump around to [music](https://www.instagram.com/strichka_festival/). The vines are beginning to ripen, because the sun is finally out. The dogs, they pant.
@@ -3622,6 +3642,8 @@ Practicing philosopher [Vladimir Pastukhov](https://ru.wikipedia.org/wiki/%D0%9F
 
 *Date: 2023-06-02 | Status: Published | Audience: only_paid*
 
+*The May attack recap*
+
 [Image]
 
 And the May 1 - June 1 recap:
@@ -3669,6 +3691,8 @@ As for RDK, I would refer Sam and Alya to the project’s kick-off presser eight
 ## Day 466
 
 *Date: 2023-06-04 | Status: Published | Audience: only_paid*
+
+*Ethnonationalism, raids, and war*
 
 [Image]
 
@@ -3754,6 +3778,8 @@ Here’s the [soundtrack](https://soundcloud.com/drandrewford/asides-on-the-oboe
 ## Day 468-ish
 
 *Date: 2023-06-06 | Status: Published | Audience: only_paid*
+
+*After the Kakhovka dam*
 
 [Image]
 
@@ -3917,6 +3943,8 @@ Now they stare straight ahead, motionless, due northeast, not even turning aroun
 
 *Date: 2023-06-10 | Status: Published | Audience: only_paid*
 
+*Conserve letters: Zaporizhia*
+
 Noble sinners arouse our sympathy initially, but less so as our journey continues. — [Dante Alighieri](https://en.wikipedia.org/wiki/Dante_Alighieri)
 
 [Image]
@@ -4055,6 +4083,8 @@ According to [practicing philosopher Vladimir Pastukhov](https://t.me/v_pastukho
 ## Day 477
 
 *Date: 2023-06-16 | Status: Published | Audience: only_paid*
+
+*Missiles over Kyiv*
 
 [Image]
 
@@ -4223,6 +4253,8 @@ ATACMs are nice, but we need the third A to end this bloody mess.
 ## Day 485 
 
 *Date: 2023-06-23 | Status: Published | Audience: only_paid*
+
+*Cobblestones and Prigozhin*
 
 [Image]
 
@@ -4404,6 +4436,8 @@ Russia “came apart at the seams” last year. That was Day 150ish, when we all
 
 *Date: 2023-06-28 | Status: Published | Audience: only_paid*
 
+*David Petraeus explains Ukraine*
+
 [Video: https://youtu.be/GFxakdHPdnw]
 
 Remember David? He’s the general turned CIA director who jogged too much and [lost his moral compass](https://en.wikipedia.org/wiki/All_In:_The_Education_of_General_David_Petraeus). U.S. President Barack Obama fired him for the faux pas in 2012, the same year he picked Mike Flynn as the 18th [director of the Defense Intelligence Agency](https://en.wikipedia.org/wiki/Director_of_the_Defense_Intelligence_Agency).
@@ -4508,6 +4542,8 @@ Too bad no Ukrainians attending the gathering, if there were any, were given the
 
 *Date: 2023-07-03 | Status: Published | Audience: only_paid*
 
+*The death of Victoria Amelina*
+
 Remember Keith, the Ukraine expert who wrote [this](https://www.lrb.co.uk/the-paper/v36/n17/keith-gessen/why-not-kill-them-all) bullshit nine years ago[1](#footnote-1).
 
 [Image]
@@ -4601,6 +4637,8 @@ The last time I encountered David, Russia’s GRU had transformed him into an In
 ## Day 499
 
 *Date: 2023-07-07 | Status: Published | Audience: only_paid*
+
+*Five hundred days*
 
 [Image]
 
@@ -4753,6 +4791,8 @@ Ukrainians Die as America Dawdles. *Fears of ‘escalation’ leave Russia feeli
 ## Day 503 
 
 *Date: 2023-07-11 | Status: Published | Audience: only_paid*
+
+*NATO's worst-of-both-worlds*
 
 It’s hard not to agree with Marie-Josée.
 
@@ -5166,6 +5206,8 @@ Looking on the bright side, reporting improved after Russia attempted to decapit
 ## Day 517
 
 *Date: 2023-07-25 | Status: Published | Audience: only_paid*
+
+*Belarus, Europe's North Korea*
 
 [Image]
 
@@ -5619,6 +5661,8 @@ Western policymakers specializing in eastern Europe, especially the older ones, 
 
 *Date: 2023-08-02 | Status: Published | Audience: only_paid*
 
+*The imbalance of promises*
+
 Ukrainians today are divided now into those who fight and who actively help the army, those in the rear who try to make ends meet between anxiety attacks, those who live as if nothing has happened, and the people who take bribes, buy up real estate and think about prolonging their political careers.
 
 The above illustrates the lopsidedness we complained about the other day[1](#footnote-1), the imbalance swell-sounding promises Z makes versus the unremitting dysfunction of state institutions (executive branch, parliament, courts) which are needed to provide the *agency* he so desperately seeks on the international stage. Otherwise, we’re just another banana republic with an oversized army.
@@ -5768,6 +5812,8 @@ Dog Days in 1884 heyday of statistical mechanics.
 ## Day 531
 
 *Date: 2023-08-08 | Status: Published | Audience: only_paid*
+
+*Conspicuous consumption*
 
 [Image]
 
@@ -6389,6 +6435,8 @@ Actually, Kyiv has great relations with Tapei, but most people, including Lawren
 
 *Date: 2023-09-06 | Status: Published | Audience: only_paid*
 
+*Cellar labels and politics*
+
 [Image]
 
 Gosh, so much has been going on.
@@ -6430,6 +6478,8 @@ I think this was the same Newsweek that told us around Day 510ish about the hund
 ## Day 561
 
 *Date: 2023-09-07 | Status: Published | Audience: only_paid*
+
+*Konstiantynivka, Rostov, and coercion*
 
 [Image]
 
@@ -6726,6 +6776,8 @@ Isabelle’s [Instagram](https://www.instagram.com/ikhurshudyan/).
 
 *Date: 2023-09-21 | Status: Published | Audience: only_paid*
 
+*The designer's ego*
+
 On the occasion of having read yet another fawning blowjob for [Bruce Mau](https://www.brucemaudesign.com/), I began Day 573’s post by annotating [An Incomplete Manifest for Growth](https://brucemaustudio.com/projects/an-incomplete-manifesto-for-growth/), without giving him credit[1](#footnote-1). Sorry about that.
 
 Here’s one more.
@@ -6771,6 +6823,8 @@ How young is “incredibly young” anyway? Screaming toddlers flinging feces an
 ## Day 576
 
 *Date: 2023-09-22 | Status: Published | Audience: only_paid*
+
+*Biden's empty metaphors*
 
 Metaphors about Ukraine as frosting to tart up attempts to make ending a genocide politically correct. Stop working on them.
 
@@ -6821,6 +6875,8 @@ We’ll end today’s post with a third annotation to Bruce’s 36-point [Incomp
 ## Day 577
 
 *Date: 2023-09-23 | Status: Published | Audience: only_paid*
+
+*Photographers in a war zone*
 
 [Image]
 
@@ -7140,6 +7196,8 @@ And, finally, Andreas [@bloomberg](https://www.bloomberg.com/opinion/articles/20
 
 *Date: 2023-10-04 | Status: Published | Audience: only_paid*
 
+*MAGA chaos*
+
 [Image]
 
 Confusion and some uncertainty in Kyiv about the country’s main benefactor, USA, where MAGA extremists are “chasing the dragon of the chaos drug they love so much,” according to political strategist Rick Wilson.
@@ -7246,6 +7304,8 @@ In other words, American lawmakers need to be either reprogrammed or rejected, l
 
 *Date: 2023-10-06 | Status: Published | Audience: only_paid*
 
+*No long-term development scenario*
+
 [Image]
 
 Today’s cartoon is apropos of yesterday’s post, which was based on a collection of unhappy observations, including my own[1](#footnote-1).
@@ -7317,6 +7377,8 @@ Miles [@RollingStone](https://www.rollingstone.com/culture/culture-commentary/el
 ## Day 593 
 
 *Date: 2023-10-09 | Status: Published | Audience: only_paid*
+
+*Mourning beyond borders*
 
 I have an increasingly limited bandwidth for death and destruction. The gruesome surprise attack on Israeli civilians Saturday morning shut me down completely. Same on Day 592.
 
@@ -7537,6 +7599,8 @@ As always, we’ll end this post with something positive: enemy losses.
 ## Day 598
 
 *Date: 2023-10-14 | Status: Published | Audience: only_paid*
+
+*War reporters, still*
 
 [Image]
 
@@ -8122,6 +8186,8 @@ Ukraine is famous for its jornoism, especially dispatches from foreign flaks. Li
 
 *Date: 2023-11-03 | Status: Published | Audience: only_paid*
 
+*Bad haircut, better photographs*
+
 [Image]
 
 [Image]
@@ -8260,6 +8326,8 @@ Z might address the nation to explain that there will be no quick military victo
 
 *Date: 2023-11-07 | Status: Published | Audience: only_paid*
 
+*Human error at the top*
+
 [Image]
 
 Stephan [wraps up](https://www.kyivpost.com/analysis/23733) the situation in Ukraine, concluding:
@@ -8303,6 +8371,8 @@ And looking on the bright side — we always try to look on the bright side — 
 ## Day 623 
 
 *Date: 2023-11-08 | Status: Published | Audience: only_paid*
+
+*The battlefield stalemate*
 
 [Image]
 
@@ -8481,6 +8551,8 @@ The moral of this story is that we should deeply suspicious all articles [The Wa
 ## Day 629
 
 *Date: 2023-11-14 | Status: Published | Audience: only_paid*
+
+*Living eighteen months ahead*
 
 [Image]
 
@@ -9036,6 +9108,8 @@ Right, so postings to this site will be lightly muffled and sprinkled with the c
 
 *Date: 2023-12-03 | Status: Published | Audience: only_paid*
 
+*Soup for depression*
+
 [Image]
 
 Stop with the pills and kvetching, already. There’s an effective way to good-bye depression: soup. I don’t do restaurant reviews, because I rarely eat in them. But [Чичико](https://www.facebook.com/chichiko.moderngeorgiancuisine/posts/pfbid02RvSZ56C4nVzAFQys1X977gNatCS6sW1kXJ6DfvsVCaHUW2qrHV4TBJGedEzxu9Fdl) has the best Харчо in Kyiv. So far.
@@ -9397,6 +9471,8 @@ I gave up on House Speaker Mike Johnson the other day after he confessed to rece
 
 *Date: 2023-12-13 | Status: Published | Audience: only_paid*
 
+*Promises, missiles, and cocktails*
+
 [Image]
 
 There are lots of nice places in Kyiv where you can trip your brains out. This is one of them. Drinks are cheap and the ambience is weird.
@@ -9478,6 +9554,8 @@ We applaud the decision to cancel Masha’s prize, for what we think should be o
 ## Day 660 
 
 *Date: 2023-12-15 | Status: Published | Audience: only_paid*
+
+*The Senate's Ukraine vote*
 
 ***Suspension of the rules*** is a procedure generally used to quickly pass non-controversial bills in the United States House of Representatives. It will probably be used to pass Biden’s supplemental funding bill ([like it was for passing the NDAA yesterday](https://www.defense.gov/News/News-Stories/Article/Article/3618367/congress-passes-fiscal-2024-defense-spending-bill-pay-raise-for-service-members/)), incorporating continued assistance to Ukraine, Israel and Taiwan and changes to Team USA’s border security.
 
@@ -9608,6 +9686,8 @@ We all remember “[Operation Y](https://abdymok.substack.com/p/operation-y-cont
 ## Day 664 
 
 *Date: 2023-12-20 | Status: Published | Audience: only_paid*
+
+*Zelenskyy's word salad*
 
 [Image]
 
@@ -9860,6 +9940,8 @@ I apologize for spoiling the saintly image with a halo which jingo jornos see ju
 ## Day 674
 
 *Date: 2023-12-29 | Status: Published | Audience: only_paid*
+
+*The largest air attack*
 
 [Image]
 
