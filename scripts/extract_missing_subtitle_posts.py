@@ -100,3 +100,5 @@ if md.exists():
 
 OUT.write_text(json.dumps({"workbook":BOOK.name,"sheet":ws.title,"header_row":header,"blank_count":len(targets),"posts":targets},ensure_ascii=False,indent=2),encoding="utf-8")
 print(f"blank_rows={len(targets)}; with_text={sum(bool(x.get('text','').strip()) for x in targets)}; without_text={sum(not x.get('text','').strip() for x in targets)}")
+
+# Trigger extraction workflow after workflow installation.
