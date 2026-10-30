@@ -2,8 +2,6 @@
 
 ## Final status
 
-<badge>Complete</badge>
-
 - Starting workbook: 1,070 posts.
 - October updates: **30** nonblank existing subtitle values applied, Day 1696 left intentionally blank, and verified Day 1709 row added.
 - Additional subtitle recoveries: **192**.
