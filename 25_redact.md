@@ -138,6 +138,8 @@ It’s the warmest winter in the history of Kyiv, so far. More than 52 warm-day 
 
 *Date: 2025-01-07 | Status: Published | Audience: only_paid*
 
+*Four systemic failures*
+
 [Keith has postponed his visit.](https://www.reuters.com/world/us/trumps-ukraine-envoy-postpones-kyiv-trip-until-after-inauguration-2025-01-06/) He obvi got the memo.
 
 1. Fortifications (not built, built too late, built very poorly in wrong places)[1](#footnote-1)
@@ -297,6 +299,8 @@ The blast left bodies strewn across a road alongside injured residents. Public t
 
 *Date: 2025-01-10 | Status: Published | Audience: only_paid*
 
+*Three questions for strangers*
+
 [Image]
 
 Unlike the filtering I’ve been relying on, which runs incoming Ukraine-related bullshit against massively complex algorithms derived from existing spam – a heroic but inherently sisyphean effort demanding constant refinement – I now require all information from people I don’t know (or to whom I have been referred) to answer three simple questions correctly.
@@ -354,6 +358,8 @@ A drone smacked into a high-rise residential building in Kyiv last night. More p
 ## Day 1055
 
 *Date: 2025-01-13 | Status: Published | Audience: only_paid*
+
+*One in ten absent*
 
 [Image]
 
@@ -640,6 +646,8 @@ Mostly daily updates on the 2022 Russian invasion of Ukraine.](https://stefankor
 ## Day 1062 
 
 *Date: 2025-01-20 | Status: Published | Audience: only_paid*
+
+*Trump's promises, Kyiv's flattery*
 
 Kissing Donald’s rump is all the rage in Kyiv these days, according to [CNN](http://cnn.com), which peeks at Z’s latest flagrant acts of obsequiousness[1](#footnote-1).
 
@@ -1252,6 +1260,8 @@ Have a great weekend!
 ## Day 1075
 
 *Date: 2025-02-01 | Status: Published | Audience: only_paid*
+
+*Odesa under ballistic attack*
 
 [Video: https://youtu.be/QJlpjo6z4jM]
 
@@ -2766,6 +2776,8 @@ Yesterday the temperature was 19C.
 
 *Date: 2025-03-13 | Status: Published | Audience: only_paid*
 
+*Truce versus ceasefire*
+
 [Image]
 
 There was also a [meteorite sighting](https://t.me/glavcomua/94225) last night.
@@ -2960,6 +2972,8 @@ Such bullshit. Get rid of Marco, too.
 
 *Date: 2025-03-18 | Status: Published | Audience: only_paid*
 
+*A Munich moment*
+
 [Image]
 
 Russia is blitzing on the battlefield ahead of truce talks which might freeze fronts. Meanwhile, the White House says we are on 10th yardline of peace. Today Vova and Donald will divvy up assets (Ukraine’s) and attempt to push the ball (peace) into the endzone.
@@ -2997,6 +3011,8 @@ Madyar posts another vidrep.
 ## Day 1120
 
 *Date: 2025-03-19 | Status: Published | Audience: only_paid*
+
+*Negotiations and the elephant*
 
 [Image]
 
@@ -3821,6 +3837,8 @@ Have a great weekend!
 
 *Date: 2025-04-05 | Status: Published | Audience: only_paid*
 
+*Arsonists recruited online*
+
 [Image]
 
 The sign reads, “Don’t torch cars belonging to Ukrainian soldiers. Turn the enemy in to the local office of the State Security Service.” A second public service announcement urging citizens to rat on would-be saboteurs popped up seconds later.
@@ -3871,6 +3889,8 @@ Kh-101 cruise missile launched by Russian strategic bombers were also launched t
 
 *Date: 2025-04-07 | Status: Published | Audience: only_paid*
 
+*Missiles and silence*
+
 [Image]
 
 Only one of the six ballistic missiles (green) fired at Ukraine on Sunday was intercepted.
@@ -3896,6 +3916,8 @@ It’s unclear how much longer Team USA will continue faking the peace process.
 ## Day 1140 
 
 *Date: 2025-04-08 | Status: Published | Audience: only_paid*
+
+*Tariffs and conspicuous consumption*
 
 [Image]
 
@@ -3938,6 +3960,8 @@ Z, meanwhile, said nothing in daily pep talk. Same old same old.
 ## Day 1141
 
 *Date: 2025-04-09 | Status: Published | Audience: only_paid*
+
+*Spring/Summer ukraine@war*
 
 The Spring/Summer 2025 edition of [ukraine@war](https://abdymok.substack.com/) features stories about spontaneous mass combustion, er, confusion.
 
@@ -4179,6 +4203,8 @@ Today’s disaster in Sumy follows a similar strike in Z’s hometown Kryvyi Rih
 
 *Date: 2025-04-14 | Status: Published | Audience: only_paid*
 
+*Spring in Kyiv, again*
+
 [Image]
 
 Annual Bad Boy w/ Dante picture.
@@ -4352,6 +4378,8 @@ And so it goes.
 
 *Date: 2025-04-18 | Status: Published | Audience: only_paid*
 
+*Little Marco's peace theory*
+
 [Video: https://youtu.be/wrFve9M2cAE]
 
 [Image]
@@ -4363,6 +4391,8 @@ Little Marco thinks (or thought) Team USA could talk Team Russia into stopping i
 ## Day 1153 
 
 *Date: 2025-04-21 | Status: Published | Audience: only_paid*
+
+*Signal chats and religious rot*
 
 We grant zero credence to knowledge claims by Donald. It’s pure brain rot.
 
@@ -4537,6 +4567,8 @@ On the running jacket, lots of it, bombs or no bombs. Time trials next week.
 ## Day 1157 
 
 *Date: 2025-04-25 | Status: Published | Audience: only_paid*
+
+*The finish line, again*
 
 Little Marco in the Oval Office said yesterday that Team USA has shown Team Ukraine and Team Russia “the finish line” and its now up to the sides to get there.
 
@@ -4950,6 +4982,8 @@ The second round is May 18.
 
 *Date: 2025-05-06 | Status: Published | Audience: only_paid*
 
+*Zvanne bridge, destroyed again*
+
 A couple of corrections on yesterday’s post.
 
 [Image]
@@ -5066,6 +5100,8 @@ Finally, this vid from [Skala](http://425skala.com) illustrating the futility of
 
 *Date: 2025-05-09 | Status: Published | Audience: only_paid*
 
+*Parade without invaders*
+
 [Image]
 
 Casey, the influencer, gets Donald’s nod for US Surgeon General.
@@ -5164,6 +5200,8 @@ First time trial of the year.
 
 *Date: 2025-05-13 | Status: Published | Audience: only_paid*
 
+*Russia's imperial roots*
+
 [Image]
 
 Team Russia “is ready for serious talks with Ukraine **in order to remove the initial reasons for the conflict** and establish long-term lasting peace for the historical future…”
@@ -5255,6 +5293,8 @@ In other news, Z has announced plans to attend Leo’s sermon this weekend at th
 
 *Date: 2025-05-15 | Status: Published | Audience: only_paid*
 
+*Witkoff's intuition*
+
 [Image]
 
 In March, on [Day 1123](https://abdymok.substack.com/p/day-1123) and [Day 1125](https://abdymok.substack.com/p/day-1123), we wondered whether Donald’s special envoy to Russia was an aspirin tablet or a hockey puck. [The Atlantic](http://theatlantic.com) published a zillion-word profile about Steven yesterday, largely confirming the latter[1](#footnote-1).
@@ -5324,6 +5364,8 @@ And, finally, today is traditional Ukrainian (Yyshyvanka) Day, when everyone wal
 ## Day 1178
 
 *Date: 2025-05-16 | Status: Published | Audience: only_paid*
+
+*Toretsk's rising death toll*
 
 Toretsk, smack dab in the middle of Donetsk region, was previously home to 30,000 people.
 
@@ -5619,6 +5661,8 @@ And why is Donald scooping this?
 ## Day 1188
 
 *Date: 2025-05-26 | Status: Published | Audience: only_paid*
+
+*Kyiv's birthday under attack*
 
 Kyiv celebrated its 1,543rd birthday over the weekend.
 
@@ -5916,6 +5960,8 @@ Here’s Madyar’s latest fpv drone kill report.
 
 *Date: 2025-06-03 | Status: Published | Audience: only_paid*
 
+*Russia's center of gravity*
+
 Andriy is [reportedly](https://t.me/c/1287513171/23446) en route to Washington, D.C. to brief US officials about the latest op and pick up tickets to Donald’s military parade on June 14.
 
 We hope he is bringing along a translator.
@@ -6090,6 +6136,8 @@ We are all wondering if Joe at DNI last week failed to tell Gabby to pre-inform 
 
 *Date: 2025-06-06 | Status: Published | Audience: only_paid*
 
+*Three rescuers killed*
+
 > A CNN producer reported hearing at least two explosions. — [CNN](https://edition.cnn.com/2025/06/05/europe/russia-launches-retaliatory-strike-on-kyiv-latam-hnk-intl) (Kyiv, June 6, 2025)
 
 [Image]
@@ -6141,6 +6189,8 @@ Have a great weekend!
 ## Day 1202
 
 *Date: 2025-06-09 | Status: Published | Audience: only_paid*
+
+*Los Angeles, and martial law*
 
 [Video: https://youtu.be/hSntO4mq57A]
 
@@ -6498,6 +6548,8 @@ And [ISW](https://www.understandingwar.org/backgrounder/russian-offensive-campai
 
 *Date: 2025-06-19 | Status: Published | Audience: only_paid*
 
+*Running and cyber warfare*
+
 [Image]
 
 When in doubt, run.
@@ -6622,6 +6674,8 @@ Putin is plenty smart enough to understand and master the reality of his immedia
 
 *Date: 2025-06-24 | Status: Published | Audience: only_paid*
 
+*NATO summit disappoints*
+
 [Image]
 
 Except when it comes to Ukraine, where Russia continues to lob ballistic missiles at residential areas with impunity.
@@ -6725,6 +6779,8 @@ Intelligence gathering and analysis for living can be fun for a couple of years 
 ## Day 1219
 
 *Date: 2025-06-26 | Status: Published | Audience: only_paid*
+
+*Bendukidze Lane*
 
 [Image]
 
@@ -7215,6 +7271,8 @@ And, finally, Tulsi. As always, not a good look.
 
 *Date: 2025-07-10 | Status: Published | Audience: only_paid*
 
+*488 more alerts than days*
+
 [Image]
 
 Russia's morning tantrum: nastiness level 12/10. The usual triple threat—Shaheds, ballistics, cruise missiles. Because why pick just one way to ruin everyone's day?
@@ -7248,6 +7306,8 @@ Sigh. Looks like Keith is missing a tooth.
 ## Day 1234
 
 *Date: 2025-07-11 | Status: Published | Audience: only_paid*
+
+*Whitaker's NATO appointment*
 
 Some headlines this morning.
 
@@ -7313,6 +7373,8 @@ Have a great weekend. Support independent artists!
 
 *Date: 2025-07-14 | Status: Published | Audience: only_paid*
 
+*Drone warfare, misunderstood*
+
 [Image]
 
 Running too much, so I rested on Sunday and read what Kyiv was like in 1939, including about the arrest of the Polist consulate’s staff in September of that year.
@@ -7358,6 +7420,8 @@ For more info, contact [Brave1](https://brave1.gov.ua/en/).
 ## Day 1238
 
 *Date: 2025-07-15 | Status: Published | Audience: only_paid*
+
+*Whitaker's star turn*
 
 [Image]
 
@@ -7442,6 +7506,8 @@ This explains why I’m no good at push ups.
 ## Day 1240
 
 *Date: 2025-07-17 | Status: Published | Audience: only_paid*
+
+*Dobropillia under attack*
 
 [Image]
 
@@ -7809,6 +7875,8 @@ Pekhno has maps. The end of the report shows Pokrovsk at sunrise:
 
 *Date: 2025-07-30 | Status: Published | Audience: only_paid*
 
+*Government ignores advice*
+
 Let’s kick this off with a scream of despair:
 
 > […] Our government doesn't listen to those who are smarter and more experienced than it. Advice from smarter people irritates the government and shows its level, and it gets offended. Secondly, you can lead a horse to water, but you can't make it drink. It's the same with the government. You can advise it or criticize it, but it doesn't want to hear advice and listen to criticism, because it believes that it is the smartest, and Ukraine began in 2019. The Dunning-Kruger effect in all its glory. Although sometimes it reacts to criticism to stop the rating from falling. Our government reacts to fluctuations in the rating. And thirdly, I tried. I gave advice and ideas. I suggested solutions. I formulated step-by-step action plans. But the result was zero, because I am not loyal and I am talking about the mistakes of the authorities. And our authorities do not need smart people who point out mistakes. Our authorities need loyal sycophants who silently support everything. …Volodymyr Oleksandrovych does not want to hear advice, but wants to hear that he is right. […] — [Березовый Сок](https://t.me/BerezaJuice/57141) (Telegram, July 30, 2025)
@@ -7877,6 +7945,8 @@ Ending on a positive note, here’s **Lesson #10** from Valeriy Zaluzhny[1](#foo
 
 *Date: 2025-07-31 | Status: Published | Audience: only_paid*
 
+*Missiles and foreign correspondents*
+
 There's a lot that can go wrong with an American miliblogger in Ukraine.
 
 That's what I thought when I noticed [Sarah](https://x.com/SarahAshtonLV) spotting kamikaze drones in Kyiv early this morning, cringing through attacks [before Russia's missiles creamed a four-story building in Solomiansky district and a nine-story residential building in Sviatoshysnky district](https://www.reuters.com/world/russian-air-strike-kyiv-kills-six-officials-say-2025-07-31/). The pics are awful.
@@ -7917,6 +7987,8 @@ I had planned to write about unflattering details, more of them, involving Z’s
 
 *Date: 2025-07-31 | Status: Published | Audience: only_paid*
 
+*Cardboard kids return*
+
 [Image]
 
 The Rada says it will broadcast the plenary session [live](https://www.youtube.com/@radatvchannel) starting at 12.00, that is, er, three minutes from now.
@@ -7928,6 +8000,8 @@ The public is invited to [Mariinskyi Park](https://en.wikipedia.org/wiki/Mariins
 ## Day 1255 
 
 *Date: 2025-08-01 | Status: Published | Audience: only_paid*
+
+*The golden toilet mafia*
 
 Victory for the cardboard kids! Yesterday they took down the golden toilet mafia from their protest spot outside parliament - striking at the corrupt bigshots in their tacky towers that blight Mariinsky Park, where presidential insiders live large.
 
@@ -7958,6 +8032,8 @@ The big news yesterday isn’t that Team Russia continues its attempts to erase 
 ## Day 1258
 
 *Date: 2025-08-04 | Status: Published | Audience: only_paid*
+
+*Crickets and diplomacy*
 
 [Image]
 
@@ -8060,6 +8136,8 @@ And it turns out Z was in Kharkiv yesterday oozing confidence. Hopefully, he hoo
 ## Day 1260 
 
 *Date: 2025-08-06 | Status: Published | Audience: only_paid*
+
+*53 broken promises*
 
 [Image]
 
@@ -8176,6 +8254,8 @@ Vladimir Pastukhov, [Telegram](https://t.me/v_pastukhov/1592) (August 6, 2025)
 
 *Date: 2025-08-08 | Status: Published | Audience: only_paid*
 
+*The Neverland summit*
+
 [Video: https://youtu.be/k9KgoN04ddk]
 
 Setting aside Donald's perpetual idiocracy, the Steven-Vova summit produced one concrete result: hints of a potential Donald-Vova tête-à-tête. Two theories emerge: either Steven delivered an irresistible offer (possibly unrelated to Ukraine), or Vova threw Donald a diplomatic lifeline—an "air truce" to save face.
@@ -8219,6 +8299,8 @@ Have a great weekend!
 ## Day 1265
 
 *Date: 2025-08-11 | Status: Published | Audience: only_paid*
+
+*Alaska, and the ceasefire*
 
 [Image]
 
@@ -8375,6 +8457,8 @@ History doesn't repeat, but it sure does rhyme. And right now, it's rhyming in R
 
 *Date: 2025-08-14 | Status: Published | Audience: only_paid*
 
+*Stabilizing means still fighting*
+
 [Image]
 
 #### "Stabilizing" - Ukraine's New Word for "Still Fighting for Our Lives"
@@ -8414,6 +8498,8 @@ In not unrelated news, the boys and girls at [The Financial Times](http://ft.com
 ## Day 1269
 
 *Date: 2025-08-15 | Status: Published | Audience: only_paid*
+
+*Gunia Universe opens*
 
 [Image]
 
@@ -8553,6 +8639,8 @@ The future is bright.
 ## Day 1272 
 
 *Date: 2025-08-18 | Status: Published | Audience: only_paid*
+
+*Crimea and Donbas are Ukraine*
 
 We celebrate 34 years of independence next week.
 
@@ -9383,6 +9471,8 @@ I asked AI to give me a list of successful and attempted assassinations since 20
 ## Day 1286 
 
 *Date: 2025-09-01 | Status: Published | Audience: only_paid*
+
+*Parubiy's assassination*
 
 [Image]
 
@@ -10232,6 +10322,8 @@ But then again, when your training teaches you that complex problems require dec
 
 *Date: 2025-09-22 | Status: Published | Audience: only_paid*
 
+*Putin's four-dimensional chess*
+
 [Image]
 
 So here's the story according to Bloomberg's unnamed "[people close to the Kremlin](https://www.bloomberg.com/news/articles/2025-09-20/putin-decides-russia-can-step-up-ukraine-attacks-and-trump-won-t-act)" (who are definitely real and not just Putin's press secretary with a fake mustache): Vlad met Trump in Alaska, decided the orange man won't lift a finger for Ukraine, and is now bombing the shit out of everything because *strategy*.
@@ -10496,6 +10588,8 @@ It’s Friday again! Have a great weekend!
 
 *Date: 2025-09-29 | Status: Published | Audience: only_paid*
 
+*Moldova and Poland's drones*
+
 [Image]
 
 Sunday morning was, er, loud.
@@ -10644,6 +10738,8 @@ Frank O’Hara, [Animals](https://www.frankohara.org/writing/) (1950)
 
 *Date: 2025-10-02 | Status: Published | Audience: only_paid*
 
+*Russia's eastern dependency*
+
 What a lovely story!
 
 [Video: https://youtu.be/ch2eArHFm8c]
@@ -10703,6 +10799,8 @@ Tornberg’s nostalgic for ‘90s internet—ICQ’s “talk to random strangers
 ## Day 1318 
 
 *Date: 2025-10-03 | Status: Published | Audience: only_paid*
+
+*Lubny under attack*
 
 [Image]
 
@@ -10795,6 +10893,8 @@ Song of the week: Choke enough
 ## Day 1321 
 
 *Date: 2025-10-06 | Status: Published | Audience: only_paid*
+
+*Tomahawks and red lines*
 
 [Image]
 
@@ -10952,6 +11052,8 @@ Democratic Sen. Jeff Merkley of Oregon [warned](https://edition.cnn.com/us/live-
 
 *Date: 2025-10-09 | Status: Published | Audience: only_paid*
 
+*Maps over cheerful pedagogy*
+
 Walking past a placard reading “**WRATH: OUR TRUTH**” in downtown Kyiv this morning, I had two thoughts in quick succession:
 
 First: interactive education should abandon kindergarten’s “everybody’s happy nowadays[1](#footnote-1)” approach and focus entirely on maps. Drop students into utterly alien environments—Chicago, Portland—armed only with digitized maps. Time how long it takes them to orient themselves in these baffling wayfinding systems, each more chaotic than the next. Then have them create accurate interactive experiences of these places and share them with the world.
@@ -11012,6 +11114,8 @@ Looking on the bright side, Finnish President Alexander will meet w/ Donald at t
 
 *Date: 2025-10-10 | Status: Published | Audience: only_paid*
 
+*Kyiv loses power*
+
 Our *turning off the lights post* on [Day 1323](https://abdymok.substack.com/p/day-1323) was prophetic, because, er, Russia did just that early this morning at around 2 a.m..
 
 A Russian drone smashed into the 17-storey residential building across from Zvyrinetska Metro in Pechersk district.
@@ -11065,6 +11169,8 @@ Have a great weekend!
 ## Day 1327
 
 *Date: 2025-10-12 | Status: Published | Audience: only_paid*
+
+*A building faces sunrise*
 
 [Image]
 
@@ -11218,6 +11324,8 @@ The patient is dead. Stop designing better thermometers.
 ## Day 1330 
 
 *Date: 2025-10-15 | Status: Published | Audience: only_paid*
+
+*The Kupyansk offensive*
 
 I had planned to write about the 32-year old [crypto wallet wheeler-dealer](https://t.me/gunpKyiv/11788) for Ukraine’s top law-enforcement and military leaders who was shot **dead in the head** the other day in downtown Kyiv.
 
@@ -11414,6 +11522,8 @@ A Song on the End of the World (Czesław Miłosz, [Poetry Foundation](https://ww
 
 *Date: 2025-10-18 | Status: Published | Audience: everyone | Type: podcast*
 
+*Reconstitution of events*
+
 [Image]
 
 Very yellow and “Reconstitution of Events,” the name given to an installation by Mykhailo from Zarkapattia.
@@ -11526,7 +11636,7 @@ Sigh.
 
 *Date: 2025-10-22 | Status: Published | Audience: everyone | Type: podcast*
 
-* *
+*Air raids and medieval Kyiv*
 
 I shouldn’t make light of air alerts. As I write this, there are reports of strikes—direct and indirect hits—including a dormitory in Darnytsky district, a building in Pechersk district and a garage coop in Solomiansky district. Russia is also bombing Konotop in Sumy region and Dnipro.
 
@@ -11731,6 +11841,8 @@ On the Ukraine jacket, the Coalition of the Willing is meeting today in London. 
 
 *Date: 2025-10-27 | Status: Published | Audience: only_paid*
 
+*The absurdist war economy*
+
 Don’t take the elevator.
 
 [Image]
@@ -11833,6 +11945,8 @@ Looking on the bright side, Madyar says we are shooting down lots of Russian dro
 
 *Date: 2025-10-29 | Status: Published | Audience: only_paid*
 
+*Crimea's oil depot*
+
 It’s cold, rainy and wet. The big news is Ukraine hit the ATAN oil storage base again near Simferopol in occupied Crimea. Lots of smoke.
 
 ---
@@ -11888,6 +12002,8 @@ A joylessness vacuum, **devoid of pleasure, delight, or happiness** — characte
 ## Day 1345 
 
 *Date: 2025-10-30 | Status: Published | Audience: everyone | Type: podcast*
+
+*Energy generation under attack*
 
 This morning’s massive air attack targeted energy generation and distribution facilities all over the country.
 
@@ -12030,6 +12146,8 @@ Have a great weekend!
 
 *Date: 2025-11-03 | Status: Published | Audience: only_paid*
 
+*Withdraw from Pokrovsk*
+
 [Image]
 
 > I will try to say this with as little emotion as possible:
@@ -12107,6 +12225,8 @@ Matt was US acting US Attorney General after Trump fired Sessions in 2018.
 ## Day 1351 
 
 *Date: 2025-11-05 | Status: Published | Audience: only_paid*
+
+*Russian casualties, New York art*
 
 [Image]
 
@@ -12273,6 +12393,8 @@ A Shahed UAV smashed into a residential building, killing three, including two k
 ## Day 1356
 
 *Date: 2025-11-10 | Status: Published | Audience: only_paid*
+
+*Blackouts are not normal*
 
 [Lights flicker in Kyiv.](https://www.theguardian.com/world/2025/nov/09/volodymyr-zelenskyy-why-should-i-be-afraid-donald-trump) Z grins. “It’s normal,” he says, framing blackouts as quaint quirks. Every word polished, every gesture rehearsed. He denies tension with Trump, praises King Charles, radiates calm moral authority. *“So why should we be afraid?”*
 
@@ -12588,6 +12710,8 @@ Which brings us to the silver lining in all this: if you’re an actual journali
 
 *Date: 2025-11-18 | Status: Published | Audience: only_paid*
 
+*Variables, scope, persistence*
+
 [Image]
 
 I should write something on this site every once in awhile.
@@ -12679,6 +12803,8 @@ Calls for the president’s chief of staff Andriy Yermak to resign are getting l
 ## Day 1366 
 
 *Date: 2025-11-20 | Status: Published | Audience: only_paid*
+
+*The anti-corruption investigation*
 
 [Image]
 
@@ -12943,6 +13069,8 @@ Best to avoid unlovely bargains altogether.
 
 *Date: 2025-11-25 | Status: Published | Audience: only_paid*
 
+*Miami's peace circus*
+
 [Image]
 
 Certain licensees of the leading-edge publishing platforms appear to have shat themselves during this weekend’s peace circus in Geneva. The body typeface of the peace framework was switched to Sans 12 point – partly out of misty nostalgia for the salad days of diplomacy, when I still had a sense of humor, but mainly to needle those who blanch at active measures, which have successfully made Witkoff, Kushner, JD Vance, and Dan Driscoll look like the clown car they are.
@@ -12999,6 +13127,8 @@ Others meanwhile are grousing that the update below is actually a braised pork r
 
 *Date: 2025-11-26 | Status: Published | Audience: only_paid*
 
+*Witkoff's Moscow butt dial*
+
 [Image]
 
 Black pepper, a wooden salad bowl, a whisk, salad tongs and Steven Witkoff butt dialing someone in Moscow.
@@ -13050,6 +13180,8 @@ It is a shiny piece of shit. Tomorrow I will return it.
 ## Day 1373 
 
 *Date: 2025-11-27 | Status: Published | Audience: only_paid*
+
+*Thanksgiving and Tushino*
 
 [Image]
 
@@ -13159,6 +13291,8 @@ Have a great weekend!
 
 *Date: 2025-11-28 | Status: Published | Audience: only_paid*
 
+*Yermak under investigation*
+
 [Image]
 
 Could be a loud weekend. Ready for takeoff:
@@ -13195,6 +13329,8 @@ A senior source said “planning is carrying on” but the government doesn’t 
 
 *Date: 2025-12-01 | Status: Published | Audience: only_paid*
 
+*Witkoff and Kushner in Moscow*
+
 [Image]
 
 It *was* a loud weekend.
@@ -13226,6 +13362,8 @@ The just-give-Russia-what-it-wants-and-the-war-will-end peace framework plan is 
 ## Day 1378 
 
 *Date: 2025-12-02 | Status: Published | Audience: only_paid*
+
+*November's air defense totals*
 
 [Image]
 
@@ -13327,6 +13465,8 @@ So it goes.
 
 *Date: 2025-12-04 | Status: Published | Audience: only_paid*
 
+*Operation Midas detectives*
+
 The big news yesterday was the release of Ruslan Magamedrasulov, the detective from Ukraine’s National Anti-corruption Bureau of Ukraine (NABU), from pre-trial confinement, where he spent 145 days[1](#footnote-1).
 
 Ruslan was involved in [Operation Midas](https://en.wikipedia.org/wiki/Operation_Midas), the investigation of back-office shenanigans involving the President’s Office. Detectives collected over 1,000 hours of recordings documenting kickback schemes.
@@ -13364,6 +13504,8 @@ Sigh.
 ## Day 1381
 
 *Date: 2025-12-05 | Status: Published | Audience: only_paid*
+
+*Putin wants all of Donbas*
 
 [Image]
 
@@ -13415,6 +13557,8 @@ Have a great weekend!
 
 *Date: 2025-12-08 | Status: Published | Audience: only_paid*
 
+*Europe's civilizational erasure*
+
 [Image]
 
 ---
@@ -13448,6 +13592,8 @@ It’s a strategy built on nostalgia for a past that never existed, contempt for
 ## Day 1385
 
 *Date: 2025-12-09 | Status: Published | Audience: only_paid*
+
+*The open society's unfinished business*
 
 [Image]
 
@@ -13493,6 +13639,8 @@ Z is in Rome today. Maybe he’ll meet with the pope!
 
 *Date: 2025-12-10 | Status: Published | Audience: only_paid*
 
+*The peace plan nobody read*
+
 [Image]
 
 Pope Leo is sticking up for Ukraine. His remarks came after a sit-down with Z about Trump bloviating about European impotency.
@@ -13536,6 +13684,8 @@ This looks like fun:
 ## Day 1387
 
 *Date: 2025-12-11 | Status: Published | Audience: only_paid*
+
+*The window has closed*
 
 [Image]
 
@@ -13585,6 +13735,8 @@ And yet—somehow—Ukraine hasn’t collapsed. Which tells you everything about
 ## Day 1388 
 
 *Date: 2025-12-12 | Status: Published | Audience: only_paid*
+
+*Kyiv goes dark*
 
 Team USA has logged over thirty hours this week on peace plan mechanics. Trump is sick of meetings for the sake of meetings. There’s talk of a Paris gathering tomorrow—Americans, Europeans, Ukrainians—while Kyiv goes dark.
 
@@ -13762,6 +13914,8 @@ I enjoyed Anne’s [The Longest Suicide Note in American History](https://archiv
 ## Day 1395
 
 *Date: 2025-12-19 | Status: Published | Audience: only_paid*
+
+*Europe's ninety-billion loan*
 
 European taxpayers on the hook for EUR 90 billion to keep Ukraine solvent in 2026/27.
 
@@ -13956,6 +14110,8 @@ Drone warfare.
 
 *Date: 2025-12-25 | Status: Published | Audience: only_paid*
 
+*The twenty-point plan*
+
 [Image]
 
 Melting coldness around a heart with human warmth: this year’s ice sculpture.
@@ -13977,6 +14133,8 @@ There is no “wise use of time” when your negotiating partner’s opening pos
 ## Day 1402 
 
 *Date: 2025-12-26 | Status: Published | Audience: only_paid*
+
+*Odesa's cold winter*
 
 [Image]
 
@@ -14015,6 +14173,8 @@ Have a great weekend!
 ## Day 1403
 
 *Date: 2025-12-27 | Status: Published | Audience: everyone | Type: podcast*
+
+*A fragment of the argument*
 
 Scrolling through news after waking up around 4:30 a.m….
 
@@ -14069,6 +14229,8 @@ Looking on the bright side, here’s a pic of Howard Buffett (son on Warren Buff
 ## Day 1406
 
 *Date: 2025-12-30 | Status: Published | Audience: only_paid*
+
+*Vyshhorod, Minsk, and resilience*
 
 [Image]
 
