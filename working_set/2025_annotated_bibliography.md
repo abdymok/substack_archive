@@ -106,8 +106,8 @@ A report on the difficulties and controversies surrounding mobilisation. Useful 
 
 A contemporaneous account of Russian drone attacks in Odesa and reported civilian harm. Useful as a dated incident record. For casualty figures and damage, retain attribution to the named local authorities and update against later official information. Linked on 21 March.
 
-### 19. The New York Times. “Ukraine's Air Defenses Struggle as Russian Strikes Intensify.” May 2025.
-[Le Monde report on the same pressure](https://www.lemonde.fr/international/article/2025/05/26/en-ukraine-la-defense-antiaerienne-peine-a-faire-face-a-l-intensification-des-frappes-russes_6608414_3210.html)
+### 19. Le Monde. “En Ukraine, la défense antiaérienne peine à faire face à l’intensification des frappes russes.” 26 May 2025.
+[Le Monde report](https://www.lemonde.fr/international/article/2025/05/26/en-ukraine-la-defense-antiaerienne-peine-a-faire-face-a-l-intensification-des-frappes-russes_6608414_3210.html)
 
 The archive links reporting on the growing strain on Ukrainian air defence as Russian attacks intensify. The Le Monde article is a useful European account of the problem. It should be read with attention to interceptor availability, the mix of incoming weapons, geographic coverage, and the difference between a system's technical capability and the resources available to operate it. Linked on 26 May.
 
