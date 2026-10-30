@@ -33,7 +33,7 @@ jobs:
           output.mkdir(parents=True, exist_ok=True)
           text = source.read_text(encoding="utf-8")
 
-          image_re = re.compile(r'!\\[([^\\]]*)\\]\\((https?://[^)]+)\\)')
+          image_re = re.compile(r'!\[([^\]]*)\]\((https?://[^)]+)\)')
           matches = list(image_re.finditer(text))
           if not matches:
               raise SystemExit("No embedded image URLs found.")
@@ -41,9 +41,9 @@ jobs:
           records = []
           for number, match in enumerate(matches, 1):
               before = text[:match.start()]
-              day_matches = list(re.finditer(r'^## (Day \\d+|Year \\d+|Public Service Announcement.*)$', before, re.M))
+              day_matches = list(re.finditer(r'^## (Day \d+|Year \d+|Public Service Announcement.*)$', before, re.M))
               day = day_matches[-1].group(1) if day_matches else ""
-              date_matches = list(re.finditer(r'^\\*\\*Date:\\*\\*\\s*(.*?)\\s*$', before, re.M))
+              date_matches = list(re.finditer(r'^\*\*Date:\*\*\s*(.*?)\s*$', before, re.M))
               date = date_matches[-1].group(1).strip() if date_matches else ""
               url = match.group(2)
               ext = Path(urlparse(url).path).suffix.lower() or ".jpg"
