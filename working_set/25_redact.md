@@ -2820,7 +2820,7 @@ Ukraine’s Kursk op is shrinking, [according to Commander-in-Chief Oleksandr Sy
 
 [Image]
 
-> In the most difficult situation, my priority was and remains to save the lives of Ukrainian soldiers. For this, the Defense Forces units, if necessary, maneuver to more advantageous lines. First of all, the unmanned component is involved, as well as artillery fire weapons. I gave all the necessary orders for this. As of 6 p.m., in the Kursk direction, our troops had repelled eight enemy assaults. Despite increased pressure from the Russian-North Korean army, we will maintain defense in Kursk region as long as it is appropriate and necessary. — Syrskyi ([Telegram](https://t.me/osirskiy/1099), March 12, 2025)
+> In the most difficult situation, my priority was and remains to save the lives of Ukrainian soldiers. For this, the Defense Forces units, if necessary, maneuver to more advantageous lines. First of all, the unmanned component is involved, as well as artillery fire weapons. I gave all the necessary orders for this. As of 6 p.m., in the Kursk direction, our troops had repelled eight enemy assaults. Despite increased pressure from the Russian-North Korean army, we will maintain defense in Kursk region as long as it is appropriate and necessary. — Syrsky ([Telegram](https://t.me/osirskiy/1099), March 12, 2025)
 
 ---
 
@@ -3056,7 +3056,7 @@ Z, currently in Finland, said he’s waiting for Donald’s team to provide deta
 
 *Operation Restore Sanity*
 
-**Kropyvnytskyi** s a city in central Ukraine, situated on the [Inhul River](https://en.wikipedia.org/wiki/Inhul). It serves as the administrative center of [Kirovohrad Oblast](https://en.wikipedia.org/wiki/Kirovohrad_Oblast). Population: 219,676 (2022 estimate). The video shows the aftermath of a Russian drone attack (more than 30 Shahed drones) on residential areas of the city last night.
+**Kropyvnytsky** s a city in central Ukraine, situated on the [Inhul River](https://en.wikipedia.org/wiki/Inhul). It serves as the administrative center of [Kirovohrad Oblast](https://en.wikipedia.org/wiki/Kirovohrad_Oblast). Population: 219,676 (2022 estimate). The video shows the aftermath of a Russian drone attack (more than 30 Shahed drones) on residential areas of the city last night.
 
 **Engels-2** is a strategic bomber military airbase in Russia located 14 kilometres (8.7 mi) east of [Saratov](https://en.wikipedia.org/wiki/Saratov). Engels is a major bomber operations base, and is Russia's sole operating location for the [Tupolev Tu-160](https://en.wikipedia.org/wiki/Tupolev_Tu-160) strategic bomber. The mushroom cloud in the video above shows the massive release of heat and energy from an detonation of warehouses at the airbase.
 
@@ -6572,7 +6572,7 @@ Looking on the bright side, Joe’s boss, Tulsi, [who resents intelligence as mu
 
 ---
 
-On the Ukraine jacket, the death toll in Kyiv from the Russian air strike on the night of June 16–17, 2025, was confirmed to be **28 people killed** with around **134 injured**. Most of the fatalities (23) occurred when a missile struck a nine-story residential building in the Solomianskyi district, causing it to collapse.
+On the Ukraine jacket, the death toll in Kyiv from the Russian air strike on the night of June 16–17, 2025, was confirmed to be **28 people killed** with around **134 injured**. Most of the fatalities (23) occurred when a missile struck a nine-story residential building in the Solomiansky district, causing it to collapse.
 
 [Video: https://youtu.be/SBqOLUJEgC0]
 
@@ -7993,7 +7993,7 @@ I had planned to write about unflattering details, more of them, involving Z’s
 
 The Rada says it will broadcast the plenary session [live](https://www.youtube.com/@radatvchannel) starting at 12.00, that is, er, three minutes from now.
 
-The public is invited to [Mariinskyi Park](https://en.wikipedia.org/wiki/Mariinskyi_Park) at 11.00. People will prob migrate to the Ivan Franko Drama Theatre when it gets dark.
+The public is invited to [Mariinsky Park](https://en.wikipedia.org/wiki/Mariinskyi_Park) at 11.00. People will prob migrate to the Ivan Franko Drama Theatre when it gets dark.
 
 ---
 
@@ -9404,7 +9404,7 @@ I asked AI to give me a list of successful and attempted assassinations since 20
 - **Yuriy Verbytsky** (January 22) - Euromaidan activist, tortured and killed
 - **Vyacheslav Veremiy** (February 19) - Journalist, shot in Kyiv
 - **Olga Moroz** (March 15) - Newspaper editor, killed in apartment
-- **Sashko Bilyi** (March 24) - Right Sector leader, shot by police
+- **Sashko Bily** (March 24) - Right Sector leader, shot by police
 - **Vasyl Sergiyenko** (April 4) - Journalist/activist, tortured and killed
 - **Andrea Rocchelli & Andrei Mironov** (May 24) - Journalists, killed near Slovyansk
 
