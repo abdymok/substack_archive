@@ -6652,7 +6652,7 @@ I left off yesterday adding to my post that Z had blurted out his fondness for A
 
 “Him” is Z. That Z has started referring to himself in the third person is not a promising sign.
 
-In other words, Yermak is to Z as [le Grand Colbert](https://www.hetwebsite.net/het/profiles/colbert.htm) was tothe Sun King, Louis IV. This is a clownish, populist position.
+In other words, Yermak is to Z as [le Grand Colbert](https://www.hetwebsite.net/het/profiles/colbert.htm) was to the Sun King, Louis IV. This is a clownish, populist position.
 
 Don’t criticize me (or my contrôleur général) because that’s tantamount to criticizing Ukraine, which is fighting courageously for democratic values, its survival, et cetera.
 
@@ -6710,7 +6710,7 @@ This morning our war map looks much the same as last week.
 
 [Image]
 
-Stefan stopped giving us updates more than 100 days ago, altho his words are available at [Kyiv Post](https://www.kyivpost.com/search?q=Stefan+Korshak).
+Stefan stopped giving us updates more than 100 days ago, although his words are available at [Kyiv Post](https://www.kyivpost.com/search?q=Stefan+Korshak).
 
 [Stefan Korshak's FB posts
 
