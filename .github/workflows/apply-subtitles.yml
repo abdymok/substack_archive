@@ -1,0 +1,43 @@
+name: Complete missing post subtitles
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/apply_subtitles_from_text.py"
+      - ".github/workflows/apply-subtitles.yml"
+      - "subtitle_recovery_patch_2026-10-30.csv"
+      - "october_subtitle_patch_2026.csv"
+      - "1070_posts_with_war_day_fixed.xlsx"
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install openpyxl
+      - run: python scripts/apply_subtitles_from_text.py
+      - name: Commit completed workbook and audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 1070_posts_with_war_day_fixed.xlsx SUBTITLE_COMPLETION_AUDIT_2026-10-30.md
+          if git diff --cached --quiet; then
+            echo "No workbook changes to commit"
+          else
+            git commit -m "Fill missing subtitles from archived post texts"
+            git push
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: completed-subtitle-workbook
+          path: |
+            1070_posts_with_war_day_fixed.xlsx
+            SUBTITLE_COMPLETION_AUDIT_2026-10-30.md
+          if-no-files-found: error
+          retention-days: 7
