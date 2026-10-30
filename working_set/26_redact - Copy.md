@@ -5774,7 +5774,7 @@ Without "dramatic change" to force structure, procurement, and inter-service coo
 **URL:** https://abdymok.substack.com/p/day-1518  
 **Type:** newsletter | **Audience:** only_paid
 
-There is an old saying in the Kyrvyi Rih — though perhaps I invented it just now — that that a man who perfects the art of kneeling will eventually forget how to stand..
+There is an old saying in the Kryvyi Rih — though perhaps I invented it just now — that that a man who perfects the art of kneeling will eventually forget how to stand..
 
 Z is a practical man. He understands that dignity, like a good overcoat, must sometimes be pawned when winter is very cold. And the winter in the Dnipropetrovsk region has been very cold indeed, for many years now.
 
@@ -7151,7 +7151,7 @@ Tymur Mindich telling Defense Minister Rustem Umerov that *“our factory will s
 
 Mindich asking for *“one phone call”* to force acceptance of bulletproof vests sitting in a warehouse.
 
-Oleksandr Tsukerman and Vasyl Veselyi sitting in an apartment selecting the supervisory board of Sense Bank while calling candidates to verify loyalty.
+Oleksandr Tsukerman and Vasyl Vesely sitting in an apartment selecting the supervisory board of Sense Bank while calling candidates to verify loyalty.
 
 The Ukrainian cabinet approving nearly that exact list forty days later.
 
@@ -8002,9 +8002,9 @@ Naturally, history laughs.
 
 The house at *Будинок із вежею на Рейтарській* — also known as the Shlenzkevich House, and later, with proper Kyiv absurdity, as the House of Tarapunka’s Tower — seems to have been built precisely to mock the idea that buildings are passive things.
 
-First it belonged to a noblewoman. Then to a cavalry captain. Then to a merchant of the first guild, which sounds less like a profession than a title in a Gogol story. Then to a man named Sokolnikov. Then, in 1912, it was purchased by the wife of a barrister, Hanna Shlenzkevich, who commissioned the architect Oleksandr Verbytskyi to build something suitably ambitious for the highest point of Old Kyiv.
+First it belonged to a noblewoman. Then to a cavalry captain. Then to a merchant of the first guild, which sounds less like a profession than a title in a Gogol story. Then to a man named Sokolnikov. Then, in 1912, it was purchased by the wife of a barrister, Hanna Shlenzkevich, who commissioned the architect Oleksandr Verbytsky to build something suitably ambitious for the highest point of Old Kyiv.
 
-And Verbytskyi, apparently in no mood for modesty, built a house that could not enter a room quietly.
+And Verbytsky, apparently in no mood for modesty, built a house that could not enter a room quietly.
 
 It has a turret. It has a spire. It has mascarons — stone faces frozen in permanent astonishment, which is the correct expression for anyone living through Kyiv’s twentieth century. It has floral ornament, garlands, volutes, decorative vases, curving lines of late modernism and enough ornamental confidence to suggest that the Austro-Hungarian Empire may have sent emotional support from Vienna.
 
@@ -9061,7 +9061,7 @@ And the more insistently officials speak about the faucet, the more people begin
 *Map updated (June 2, 2026)*
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/4c7df956-5e12-4d66-ba32-edf00844573b_1920x1080.jpeg)  
-*Zircon (c/o Militarnyi )*
+*Zircon (c/o Militarny )*
 
 The boys and girls from Kyiv’s Reuters bureau were out snapping [pics](https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/).
 
@@ -10637,7 +10637,7 @@ Preliminary damage report:
 
 - Darnytsky district: A 9-story residential building partially collapsed — destruction from the 1st to the 6th floor.
 
-- Pechersk: Strikes recorded in the courtyards of the Frantsuzkyi Kvartal, Bulvar Fontaniv, and Trinity residential complexes. Dozens of cars destroyed or damaged; a private clinic destroyed.
+- Pechersk: Strikes recorded in the courtyards of the Frantsuzky Kvartal, Bulvar Fontaniv, and Trinity residential complexes. Dozens of cars destroyed or damaged; a private clinic destroyed.
 
 - Desniansky district: An apartment building damaged; people remain trapped under the rubble.
 
@@ -12629,7 +12629,7 @@ Ten months is an abstraction until you sit with what’s happening in the meanti
 
 This is the texture of the “winter humanitarian crisis” Z himself has been warning about—a phrase that sounds like boilerplate until you notice Russian strikes are landing on energy and logistics infrastructure roughly every two or three days, aimed at leaving Ukrainians without heat and light before the cold sets in. It is also, not incidentally, the backdrop to Z’s own offer to negotiate an energy truce directly with Putin: not a sign of confidence, but a request for time the missiles aren’t giving him.
 
-The numbers bear this out district by district. Compiled from Kyiv Military State Administration/Kyiv City State Administration Telegram channels and open-source reporting, recorded strike hits across Kyiv since February 24, 2022 range from 38 in Pecherskyi to 104 in Shevchenkivsky—and in most districts, a disproportionate share of that total has landed in the last two years alone.
+The numbers bear this out district by district. Compiled from Kyiv Military State Administration/Kyiv City State Administration Telegram channels and open-source reporting, recorded strike hits across Kyiv since February 24, 2022 range from 38 in Pechersky to 104 in Shevchenkivsky—and in most districts, a disproportionate share of that total has landed in the last two years alone.
 
 None of this is happening because the danger is ambiguous. It is happening in plain view, on television, discussed by talk-show hosts and their guests with the flat fluency of people describing weather. That fluency is its own symptom: when the discussion of no available interceptors settles into the same register as advice about running shoes, the sycophancy described above has done its work twice over—once on the institutions, and once on how ordinary catastrophe gets talked about.
 
@@ -15456,7 +15456,7 @@ What troubles Magda, and me, is that a war is a poor venue for a startup pitch. 
 
 Magda concludes that Ukraine needs ‘less Hollywood. Or even 95 Kvartal.’ For readers abroad, 95 Kvartal is the comedy studio that gave us Z and is the sort of thing a country can only say about itself with a straight face once. Indeed.
 
-Kyiv has spent the past week under sustained drone and missile fire. Yesterday morning, during a Yellow air alert, Russia sent two UAVs at the Pivdennyi Bridge, both striking near its support structure. During cleanup operations afterward, I saw the jet engines myself. But you needn’t take my word for it. The video below shows the drones striking the bridge (which was attacked again about five minutes ago —I heard the explosion and [saw the pictures](https://t.me/Pravda_Gerashchenko/145323)).
+Kyiv has spent the past week under sustained drone and missile fire. Yesterday morning, during a Yellow air alert, Russia sent two UAVs at the Pivdenny Bridge, both striking near its support structure. During cleanup operations afterward, I saw the jet engines myself. But you needn’t take my word for it. The video below shows the drones striking the bridge (which was attacked again about five minutes ago —I heard the explosion and [saw the pictures](https://t.me/Pravda_Gerashchenko/145323)).
 
 Sometimes the hardware is less ambiguous than the placards. The bridge joins the Right Bank of the Dnipro to the Left, and some 100,000–150,000 passenger crossings are made over it each day (an estimate).
 
