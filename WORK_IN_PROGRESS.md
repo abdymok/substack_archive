@@ -114,3 +114,12 @@ Conclusion: the repository has no earlier committed copy of the fixed workbook, 
 - The October mapping above is now verified by the user's listing and follow-up. Apply all known mappings, preserve separate continuation rows, and add the Day 1709 row with its verified subtitle and URL.
 
 The GitHub connector can read the checkpoint and text files but does not support binary workbook downloads. The library copy named `1070_posts_with_war_day_fixed_subtitles.xlsx` is not the current fixed workbook and has 259 blanks; do not use it as a substitute for the GitHub working workbook, which was audited at 57 blanks. The correct workbook bytes still need to be made available for local editing before the workbook can safely be updated.
+
+
+## Patch prepared — 2026-10-30
+
+- Created `october_subtitle_patch_2026.csv` on `main` in commit `ee7af9f70dd9daaae828c34f0602817e35d98ae2`.
+- The patch contains 31 existing-row instructions for Days 1681–1708 (including separate continuation rows and the intentional blank for Day 1696), plus the verified Day 1709 row.
+- Matching keys include date, day_of_war, existing title, and canonical URL. The patch does not rewrite or normalize any existing URL.
+- Re-fetched the actual fixed workbook from GitHub as base64 and confirmed its blob SHA remains `1a7a38e3e62571151985f8e2294748faf347bd26`. However, the available connector/runtime has no safe binary handoff from that base64 response into a local spreadsheet editor. The workbook has therefore NOT been modified.
+- Do not claim the master workbook is complete. Apply the patch to the fixed workbook when its binary bytes can be made available to a spreadsheet editor, then audit row count, blanks, and URL preservation.
