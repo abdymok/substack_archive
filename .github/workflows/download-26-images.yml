@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: download-26-images
+  cancel-in-progress: false
+
 jobs:
   download-images:
     runs-on: ubuntu-latest
@@ -16,7 +20,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Download embedded images
+      - name: Download embedded images (keep going on individual failures)
         shell: bash
         run: |
           python - <<'PY'
@@ -49,10 +53,9 @@ jobs:
               ext = Path(urlparse(url).path).suffix.lower() or ".jpg"
               if ext not in {".jpg", ".jpeg", ".png", ".gif", ".webp", ".avif"}:
                   ext = ".jpg"
-              filename = f"{number:03d}{ext}"
               records.append({
                   "number": number,
-                  "filename": filename,
+                  "filename": f"{number:03d}{ext}",
                   "day_or_section": day,
                   "date": date,
                   "alt_text": match.group(1),
@@ -65,44 +68,69 @@ jobs:
 
           def download(record):
               target = output / record["filename"]
-              request = urllib.request.Request(
-                  record["url"],
-                  headers={"User-Agent": "Mozilla/5.0 (compatible; archive-image-backup/1.0)"}
-              )
-              last_error = None
+              if target.exists() and target.stat().st_size > 0:
+                  return {"bytes": target.stat().st_size, "status": "already_saved", "error": ""}
+
+              headers = {
+                  "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126.0 Safari/537.36",
+                  "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+                  "Referer": "https://abdymok.substack.com/",
+              }
+              last_error = ""
               for attempt in range(4):
+                  temp = target.with_suffix(target.suffix + ".part")
                   try:
+                      request = urllib.request.Request(record["url"], headers=headers)
                       with urllib.request.urlopen(request, timeout=60) as response:
                           data = response.read()
                       if not data:
                           raise ValueError("Empty response")
-                      target.write_bytes(data)
-                      return len(data)
+                      temp.write_bytes(data)
+                      temp.replace(target)
+                      return {"bytes": len(data), "status": "downloaded", "error": ""}
                   except Exception as exc:
-                      last_error = exc
-                      time.sleep(2 ** attempt)
-              raise RuntimeError(f"Failed image {record['number']}: {last_error}")
+                      last_error = f"{type(exc).__name__}: {exc}"
+                      if temp.exists():
+                          temp.unlink()
+                      if attempt < 3:
+                          time.sleep((2 ** attempt) * 2)
+              return {"bytes": 0, "status": "failed", "error": last_error}
 
-          with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
-              sizes = list(pool.map(download, records))
+          results = [None] * len(records)
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+              futures = {pool.submit(download, record): i for i, record in enumerate(records)}
+              for future in concurrent.futures.as_completed(futures):
+                  results[futures[future]] = future.result()
 
           manifest = output / "manifest.csv"
+          fields = ["number", "filename", "day_or_section", "date", "alt_text", "url", "bytes", "status", "error"]
           with manifest.open("w", newline="", encoding="utf-8-sig") as f:
-              writer = csv.DictWriter(
-                  f,
-                  fieldnames=["number", "filename", "day_or_section", "date", "alt_text", "url", "bytes"]
-              )
+              writer = csv.DictWriter(f, fieldnames=fields)
               writer.writeheader()
-              for record, size in zip(records, sizes):
-                  writer.writerow({**record, "bytes": size})
+              for record, result in zip(records, results):
+                  writer.writerow({**record, **result})
 
-          print(f"Downloaded {len(records)} images ({sum(sizes):,} bytes) into {output}")
+          downloaded = sum(r["status"] == "downloaded" for r in results)
+          already_saved = sum(r["status"] == "already_saved" for r in results)
+          failed = sum(r["status"] == "failed" for r in results)
+          total_bytes = sum(r["bytes"] for r in results)
+          print(f"Image references: {len(records)}")
+          print(f"New downloads: {downloaded}")
+          print(f"Already saved: {already_saved}")
+          print(f"Failed: {failed}")
+          print(f"Bytes represented by saved files: {total_bytes:,}")
+          print(f"Manifest: {manifest}")
+          print("Individual failures are recorded; continuing to commit successful downloads.")
           PY
 
-      - name: Commit image copies
+      - name: Commit successful image copies and manifest
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add working_set/26_images
-          git commit -m "Add image copies from 26_redact archive" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No new image files or manifest changes to commit."
+          else
+            git commit -m "Add available image copies from 26_redact"
+            git push
+          fi
