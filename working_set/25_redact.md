@@ -817,7 +817,7 @@ There are contingency plans.
 
 ---
 
-## 1066
+## Day 1066
 
 *Date: 2025-01-24 | Status: Published | Audience: only_paid*
 
@@ -3475,7 +3475,7 @@ Have a great weekend!
 
 ---
 
-## Day 1129 (contd)
+## Day 1129ish
 
 *Date: 2025-03-28 | Status: Published | Audience: only_paid*
 
@@ -4374,7 +4374,7 @@ And so it goes.
 
 ---
 
-## Day 1150 (update)
+## Day 1150ish
 
 *Date: 2025-04-18 | Status: Published | Audience: only_paid*
 
@@ -7983,7 +7983,7 @@ I had planned to write about unflattering details, more of them, involving Z’s
 
 ---
 
-## Day 1254 (contd) 
+## Day 1254ish
 
 *Date: 2025-07-31 | Status: Published | Audience: only_paid*
 
@@ -9272,7 +9272,7 @@ As of 8.30 a.m. emergency workers in Kyiv say eight people were killed, includin
 
 ---
 
-## Day 1282 (contd) 
+## Day 1282ish
 
 *Date: 2025-08-28 | Status: Published | Audience: only_paid*
 
@@ -11773,7 +11773,7 @@ It turns out pictoplasma has [a page](https://conference.pictoplasma.com/2025/se
 
 ---
 
-## Legacy of Ashes 
+## Day 1339
 
 *Date: 2025-10-24 | Status: Published | Audience: everyone | Type: podcast*
 
