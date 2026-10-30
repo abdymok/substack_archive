@@ -86,11 +86,11 @@ On the Ukraine jacket, this:
 
 *Carpet bombing Ukraine *
 
-Based on feedback and some peyote-fuelled epiphanies on the mountainside at dawn, let me direct your attention to [Ukraine24](https://u24.gov.ua/), the official international celebrity-based fundraising platform of Ukraine. Not to be confused with another official war-related government program, [Telemarathon](https://www.youtube.com/watch?v=WY8sDvZdWEA), which almost noone watches and The New York Times writes about today[1](#footnote-1).
+Based on feedback and some peyote-fuelled epiphanies on the mountainside at dawn, let me direct your attention to [Ukraine24](https://u24.gov.ua/), the official international celebrity-based fundraising platform of Ukraine. Not to be confused with another official war-related government program, [Telemarathon](https://www.youtube.com/watch?v=WY8sDvZdWEA), which almost no one watches and The New York Times writes about today[1](#footnote-1).
 
 Z is on the opening page of Ukraine24 wearing pajamas.
 
-I don’t have great hopes for it becoming a reliable longterm source of funding and procurement freed of the sentimental histrionics and pre-emptive ridicule of any opposing view germane to charitable foundations, many of which popped up after February 24, 2022, to taking grim pleasure responding to every atrocity carried out in the name of *racism*, to forming – with a sort of shuddering inevitability – into a lockstep mosh pit in which the most cynical predictions of last fall – about those who would dare to advance a purchasing agenda on the back of inconceivable human tragedy – have become not only true, but somehow above criticism.
+I don’t have great hopes for it becoming a reliable long-term source of funding and procurement freed of the sentimental histrionics and pre-emptive ridicule of any opposing view germane to charitable foundations, many of which popped up after February 24, 2022, to taking grim pleasure responding to every atrocity carried out in the name of *racism*, to forming – with a sort of shuddering inevitability – into a lockstep mosh pit in which the most cynical predictions of last fall – about those who would dare to advance a purchasing agenda on the back of inconceivable human tragedy – have become not only true, but somehow above criticism.
 
 Conversely, I expect Ukraine24’s ambassadors to remain free of the gloomy handwringing that characterizes some expert Ukraine pundits, among whom, now and again, a flurry of concern arises over What Must Be Done about whatever bile currently poisons the postings and comment sections of online media. It shouldn’t be in the least surprising that xenophobic idiots and bots driven by bloodlust and malformed patriotism are sharing their opinions every chance they can get. Yes, there is unchecked hate speech. Great crimson swathes of it. Same as it ever was. Let them rant and screed and ‘fisk’ and bleat. As with any echo chamber, no one outside it is listening.
 
@@ -517,7 +517,7 @@ Walking above Vydubychi, Great and Blue Tits, zipping by like tiny ФОПs.
 If there’s one thing fat burner [Bohdan Nayahlo](https://twitter.com/BohdanNahaylo) fails to grasp about public reluctance to subscribe to [The Kyiv Post](http://kyivpost.com), it’s not the price, which is pretty reasonable — zero[1](#footnote-1). It’s not that still, after all these years, no one can make head or tail of the pitch, ‘[Australia – Let Ukraine Have Your “Retired” Taipan Helicopters’](https://www.kyivpost.com/opinion/26548); it’s not that the magazine paid [Luc Chenier](https://www.youtube.com/watch?v=9jj0LGdcCAA&t=17s) money to copy-paste lickspittle toadying from Niche Media Group Ltd to theirs ([SARMs vs. Steroids: Unveiling the Science Behind Muscle Enhancement](https://www.kyivpost.com/post/21075)); it’s not the still-searing resentment of ever having to have read correspondent-at-large [John Jay Smart](https://twitter.com/officejjsmart). It is perhaps the following link, which calls out from every Kyiv Post page:
 
 > [Spotlight](https://www.kyivpost.com/category/biz-spotlight)  
-> [Advertisments and Partnerships[2](#footnote-2)]
+> [Advertisements and Partnerships[2](#footnote-2)]
 
 [Image]
 
@@ -1944,7 +1944,7 @@ On the Team USA jacket, Uncle Joe [is scheduled to meet](https://www.bloomberg.c
 
 *2024 budget implementation*
 
-No one cares what Macron says. The French are irrelevent, irrelevent, irrelevent, until they start delivering more weapons. Government support to Ukraine, by donor country GDP, including and excluding EU share, puts France [at the bottom of the jar,](https://app.23degrees.io/view/F1tc2gv8QzFCs1ij-bar-stacked-horizontal-figure_3_4_csv_v2-1) between Italy and Romania.
+No one cares what Macron says. The French are irrelevant, irrelevant, irrelevant, until they start delivering more weapons. Government support to Ukraine, by donor country GDP, including and excluding EU share, puts France [at the bottom of the jar,](https://app.23degrees.io/view/F1tc2gv8QzFCs1ij-bar-stacked-horizontal-figure_3_4_csv_v2-1) between Italy and Romania.
 
 ---
 
@@ -2559,7 +2559,7 @@ Z blurted out during his interview with French jornos that there would be no *de
 
 When the Z was asked if Ukraine is planning large-scale forced conscription, he said that this effort has been ongoing since the start of *total war* and takes place every few months.
 
-> "There is an appropriate number of people who are mobilized monthly and quarterly. And these numbers are all monitored by the General Staff of the Armed Forces of Ukraine, and they fluctuate,” Z said, adding that there furter mobilization steps envisaged by the General Staff.
+> "There is an appropriate number of people who are mobilized monthly and quarterly. And these numbers are all monitored by the General Staff of the Armed Forces of Ukraine, and they fluctuate,” Z said, adding that there further mobilization steps envisaged by the General Staff.
 
 Knowledge is information that has causal power. Unfortunately, Z doesn’t have near enough information between his ears to provide a more cogent explanation about figuring out ETS (expiration term of service).
 
@@ -3805,7 +3805,7 @@ On the Team USA jacket, meanwhile, Gen Cavoli in Congress:
 
 [Image]
 
-Speaker Mike could care less about the stakes. He is preoccupied with the acts of obeisance he will be expected to perform this Friday at Trump’s beano at Mar-a-Lago. They are expected to make an “[integrity announcment](https://www.nytimes.com/2024/04/10/us/politics/mike-johnson-trump.html).”
+Speaker Mike could care less about the stakes. He is preoccupied with the acts of obeisance he will be expected to perform this Friday at Trump’s beano at Mar-a-Lago. They are expected to make an “[integrity announcement](https://www.nytimes.com/2024/04/10/us/politics/mike-johnson-trump.html).”
 
 ---
 
@@ -4658,13 +4658,13 @@ I ran during this morning’s cruise-missile attack and wondered whether my feet
 
 [Image]
 
-Ethnogenisis is not science and Gumilev’s *passionarity* theory is not popular in Ukraine. Neither is Charles, who in the early 2000s took a sabbatical from the [FT](http://ft.com) to produce a loopy film, titled “Piar,” commissioned by Kuchma’s son-in-law oligarch, Viktor Pinchuk. But that’s another story, titled “[The coverage is all that matters](https://archive.kyivpost.com/article/content/ukraine-politics/gongadze-film-causes-controversy-10748.html).”
+Ethnogenesis is not science and Gumilev’s *passionarity* theory is not popular in Ukraine. Neither is Charles, who in the early 2000s took a sabbatical from the [FT](http://ft.com) to produce a loopy film, titled “Piar,” commissioned by Kuchma’s son-in-law oligarch, Viktor Pinchuk. But that’s another story, titled “[The coverage is all that matters](https://archive.kyivpost.com/article/content/ukraine-politics/gongadze-film-causes-controversy-10748.html).”
 
 [Image]
 
 Anyway, I was sidetracked by *passionarity*.
 
-> According to Gumilev, *passionarity* is a factor of an ethnos's negentropy, which resists the inevitable tendency toward entropy — the dead equilibrium to which all closed physical systems are liable. However, ethnoi too are susceptible to the law of gradual exhaustion of passionarity. First of all, the tendency for passionarians to perish prematurely in times of war explains why these persons rarely reproduce and pass on their passionary genes. Moreover, during peacetime, passionarians are apt to miss their callings and are forced into marginal status, alienated from societies in which moderate and cautious people enjoy greater success. Thus, the fate of every ethnos is a gradual loss of *passionarity* and a multistage degradation into passivity and extinction. — [Ideas Against Ideocracy: Non-Marxist Thought of the Late Soviet Period](https://books.google.com.ua/books?id=PCE8EAAAQBAJ&pg=PA40&lpg=PA40&dq=passionarians&source=bl&ots=9m_OgC9tEc&sig=ACfU3U372MjjEUgmo7Vyc0QeZ_y4t7UQ2A&hl=en&sa=X&ved=2ahUKEwiK4ru29vqFAxWA_rsIHXFzClAQ6AF6BAgrEAM#v=onepage&q=passionarians&f=false) (*The Philosphy of Ethnicity*, page 41. Mikhail Epstein)
+> According to Gumilev, *passionarity* is a factor of an ethnos's negentropy, which resists the inevitable tendency toward entropy — the dead equilibrium to which all closed physical systems are liable. However, ethnoi too are susceptible to the law of gradual exhaustion of passionarity. First of all, the tendency for passionarians to perish prematurely in times of war explains why these persons rarely reproduce and pass on their passionary genes. Moreover, during peacetime, passionarians are apt to miss their callings and are forced into marginal status, alienated from societies in which moderate and cautious people enjoy greater success. Thus, the fate of every ethnos is a gradual loss of *passionarity* and a multistage degradation into passivity and extinction. — [Ideas Against Ideocracy: Non-Marxist Thought of the Late Soviet Period](https://books.google.com.ua/books?id=PCE8EAAAQBAJ&pg=PA40&lpg=PA40&dq=passionarians&source=bl&ots=9m_OgC9tEc&sig=ACfU3U372MjjEUgmo7Vyc0QeZ_y4t7UQ2A&hl=en&sa=X&ved=2ahUKEwiK4ru29vqFAxWA_rsIHXFzClAQ6AF6BAgrEAM#v=onepage&q=passionarians&f=false) (*The Philosophy of Ethnicity*, page 41. Mikhail Epstein)
 
 [Image]
 
@@ -5043,7 +5043,7 @@ Meanwhile, Vovchansk is in flames. Nothing will be left of it. Speculation is ri
 
 Yesterday’s [controversial decision](https://nv.ua/ukr/ukraine/events/osuv-horticya-ocholiv-yuriy-sodol-za-shcho-yogo-kritikuyut-50420101.html) to put Gen Yuriy Sodol in charge of Khortytsia operational-strategic group (the eastern front) is, er, not exactly a morale booster. Neither are Z’s morning pep talks, which are chock full of counterfactual hooey[4](#footnote-4).
 
-Which leaves us with Mariana Bezuhla, Parliament Deputy, member of the Rada’s Committee on Defense and National Secuirty, who attempts (and fails) to boost *esprit de corps* by [reflecting](https://t.me/marybezuhla/1576) on Z’s five-year political career on her Telegram channel.
+Which leaves us with Mariana Bezuhla, Parliament Deputy, member of the Rada’s Committee on Defense and National Security, who attempts (and fails) to boost *esprit de corps* by [reflecting](https://t.me/marybezuhla/1576) on Z’s five-year political career on her Telegram channel.
 
 > The president is not from the system, he destroyed the system. This is probably Z's greatest achievement.
 >
@@ -6006,7 +6006,7 @@ Regular running at a heart rate that is [70 to 85 percent](http://www.runnerswor
 
 [Image]
 
-Which brings me the the map of foward lines of own troops (FLOTs).
+Which brings me the the map of forward lines of own troops (FLOTs).
 
 [Image]
 
@@ -6380,7 +6380,7 @@ Maybe he should focus exclusively on other stuff.
 
 Neither as a spectacle of entertainment, nor as a thing to get involved in, I’ve never understood American national politics. I think we went as a family to vote in 1976 at the local firehouse, but in memory this exercise in democracy was a tediously orderly affair.
 
-A couple weeks later, I was in Moscow celebrating Thanksgiving at Spaso House in what turned out to be an scandal. The party coincided with the appointment of Malcom Toon as US ambassador to the USSR. Security the next day tried to find out who slept in his unoccupied bed.
+A couple weeks later, I was in Moscow celebrating Thanksgiving at Spaso House in what turned out to be an scandal. The party coincided with the appointment of Malcolm Toon as US ambassador to the USSR. Security the next day tried to find out who slept in his unoccupied bed.
 
 **I ask you:** Whom do you choose for US president, an inveterate liar and convicted felon or an octogenarian who loses his train of thought?
 
@@ -7096,7 +7096,7 @@ Looking on the bright side, kind of, George F. Will tells us JD isn’t averse t
 
 [Image]
 
-JD will no doubt fall in love with himself for *doing his job,* for connecting the dots assigned him in a Whac-A-Mole foreign policy devised to delight brownshirt billionaires, for tapping out weak derision of a nonexistent MAGA status quo, for casting the pro-business, pro-globalization, Obama/Clinton/Biden-manqué liberals as all that stands in the way of the perfection of the market, for laboring at a tone of such inelegance and witlessness it will feel like a year-long vist to Orwell’s [Room 101](https://www.youtube.com/watch?v=M3U83QLoATU). He will deliver speeches about it, hoping, one assumes, to reclaim some self esteem after reducing himself to the orange clown’s most important bootlicker.
+JD will no doubt fall in love with himself for *doing his job,* for connecting the dots assigned him in a Whac-A-Mole foreign policy devised to delight brownshirt billionaires, for tapping out weak derision of a nonexistent MAGA status quo, for casting the pro-business, pro-globalization, Obama/Clinton/Biden-manqué liberals as all that stands in the way of the perfection of the market, for laboring at a tone of such inelegance and witlessness it will feel like a year-long visit to Orwell’s [Room 101](https://www.youtube.com/watch?v=M3U83QLoATU). He will deliver speeches about it, hoping, one assumes, to reclaim some self esteem after reducing himself to the orange clown’s most important bootlicker.
 
 ---
 
@@ -7188,7 +7188,7 @@ This is what [Vovchansk](https://www.google.com/maps/place/vovchansk/data=!4m2!3
 
 [Video: https://youtu.be/4ea7vVZT-H8]
 
-I listened through most of his rants “articulating the isolationist wing skepticism of US involvment in the Russia-Ukraine war.”
+I listened through most of his rants “articulating the isolationist wing skepticism of US involvement in the Russia-Ukraine war.”
 
 You should, too.
 
@@ -7291,7 +7291,7 @@ As an Irish citizen, I’m not eligible to vote the 2024 presidential election, 
 
 The candidate — his sons Eric and Don Jr and VP pick James David — have left us a lot to unpack in recent days.
 
-Hours before Donald’s marathon rant at the Republican Convension on Thursday, Z [told the BBC](https://www.bbc.com/news/articles/cxe25prezgzo) that “there will be lots of hard work” if Team USA re-elects Donald, but he noted that Ukrainians are hard workers.
+Hours before Donald’s marathon rant at the Republican Convention on Thursday, Z [told the BBC](https://www.bbc.com/news/articles/cxe25prezgzo) that “there will be lots of hard work” if Team USA re-elects Donald, but he noted that Ukrainians are hard workers.
 
 Wonderful.
 
@@ -7319,7 +7319,7 @@ Rendezvous with death are common on battlefields, where soldiers fight to contro
 
 [Video: https://youtu.be/4m4zGJn6hgM]
 
-The phrase *willing to die on this hill* has been used over the centuries, figuratively, to defend an argument, not usually to attack someone else’s. Poets, especially war poets, like it, becuase it conveys how sad they feel about being snuffed out.
+The phrase *willing to die on this hill* has been used over the centuries, figuratively, to defend an argument, not usually to attack someone else’s. Poets, especially war poets, like it, because it conveys how sad they feel about being snuffed out.
 
 ---
 
@@ -7333,7 +7333,7 @@ Yesterday, practicing philosopher Volodymyr Pastukhov used the *dying on this hi
 >
 > But other scenarios are possible.
 >
-> Putin is already interested in peace, but on his own terms. Z also seems to be all about peace, but, of course, also only on his own terms. According to the laws of mathematics, the word “peace” can be pulled out of brackets and we can focus on the conditions of the forumla. Any pause in the war with Russia retaining the occupied territories today suits Putin, as it preserves his power over Russia. But this does not suit Z, as it almost inevitably leads to his loss of power in Ukraine. Conversely, any pause in the war with Russia losing its occupied territories (even without Crimea) is more likely to lead to a revolution or coup d'état in Russia, which, of course, does not suit Putin and benefits Z, who in this case still gets a chance to retain his power.
+> Putin is already interested in peace, but on his own terms. Z also seems to be all about peace, but, of course, also only on his own terms. According to the laws of mathematics, the word “peace” can be pulled out of brackets and we can focus on the conditions of the formula. Any pause in the war with Russia retaining the occupied territories today suits Putin, as it preserves his power over Russia. But this does not suit Z, as it almost inevitably leads to his loss of power in Ukraine. Conversely, any pause in the war with Russia losing its occupied territories (even without Crimea) is more likely to lead to a revolution or coup d'état in Russia, which, of course, does not suit Putin and benefits Z, who in this case still gets a chance to retain his power.
 >
 > Thus, in addition to the war between Russia and Ukraine, which has many options for ending, we have a political duel between two leaders (Putin and Z) who have become hostages of this war. For them, this conflict is a zero-sum game. Peace on Putin's terms (with preservation of at least part of the occupied territories) - Z leaves almost immediately. Peace on Z's terms (i.e. without territorial concessions from Ukraine) - Putin leaves not immediately, but inevitably. For both, political fate has long been a bet in the casino of death, and both exercise political leadership of their countries in the style of gambling.
 >
@@ -9000,7 +9000,7 @@ In other news, if your approach to debate is to decide that the other person is 
 
 [Image]
 
-In recent years I have grown to resent the EUC: the seat, the drag-and-drop, speed tilt-back and BMS cut-out. The electric unicycle is of course indispensible for some exhibitionists, but for navigating downtown Kyiv it’s like using chopsticks to pull books off of shelves. It is irritating to have to constantly dismount at traffic lights and twist around in your tight-fitting neon green flourescent hot pants. The physics of being on one wheel is inherently unstable, like most of the tattoo artists who ride them.
+In recent years I have grown to resent the EUC: the seat, the drag-and-drop, speed tilt-back and BMS cut-out. The electric unicycle is of course indispensable for some exhibitionists, but for navigating downtown Kyiv it’s like using chopsticks to pull books off of shelves. It is irritating to have to constantly dismount at traffic lights and twist around in your tight-fitting neon green fluorescent hot pants. The physics of being on one wheel is inherently unstable, like most of the tattoo artists who ride them.
 
 ---
 
@@ -9023,7 +9023,7 @@ A possible third question might be, “What the fuck is wrong with you and your 
 
 The big pink blob continues growing larger.
 
-> Ukraine faces the anihilation of its entire southern group of forces in the region, not just the capture of Pokrovsk. As of this writing, the only option is to evacuate as many people as possible as quickly as possible.
+> Ukraine faces the annihilation of its entire southern group of forces in the region, not just the capture of Pokrovsk. As of this writing, the only option is to evacuate as many people as possible as quickly as possible.
 
 If you don’t believe me, ask [Stanislav](https://x.com/AseyevStanislav).
 
@@ -9755,7 +9755,7 @@ Military forces are trained — and required — to act in a cohesive and organi
 
 [1](#footnote-anchor-1)
 
-It’s nuts that editors of foreign media outlets operating in Ukraine continue to push the send button on articles based soley on anonymous high-ranking military sources.
+It’s nuts that editors of foreign media outlets operating in Ukraine continue to push the send button on articles based solely on anonymous high-ranking military sources.
 
 [2](#footnote-anchor-2)
 
@@ -9878,11 +9878,11 @@ It’s time for Jamie to go home. He’s gone from citing anonymous high ranking
 
 [Image]
 
-Which brings me to Malcom at [The Washington Post](http://wapo.st).
+Which brings me to Malcolm at [The Washington Post](http://wapo.st).
 
 [Image]
 
-Last time I checked, serving two decades in the U.S. military was an invidious distinction. We all remember Malcom guzzling beer in Lviv and pointing at the sky[1](#footnote-1).
+Last time I checked, serving two decades in the U.S. military was an invidious distinction. We all remember Malcolm guzzling beer in Lviv and pointing at the sky[1](#footnote-1).
 
 ---
 
@@ -10936,7 +10936,7 @@ Which brings me to Dutchess.
 
 [Image]
 
-Dutchess was a Dutch Shepard x Malinois. Very protective, fierce, often diabolical. A great frisbee catcher, running companion and deer chaser, she died of old age (16).
+Dutchess was a Dutch Shepherd x Malinois. Very protective, fierce, often diabolical. A great frisbee catcher, running companion and deer chaser, she died of old age (16).
 
 ---
 
@@ -10958,7 +10958,7 @@ The wording of the **Oath of Allegiance to the Ukrainian people** taken by Ukrai
 
 > "I swear allegiance to the Ukrainian people, to defend Ukraine, its independence and territorial integrity, to obey the orders of my commanders and superiors, and to fulfill my military duty with honor and dignity."
 
-There is no Ukranian Uniform Code of Military Justice, per se, just chaos.
+There is no Ukrainian Uniform Code of Military Justice, per se, just chaos.
 
 The [Oath of Enlistment](https://en.wikipedia.org/wiki/United_States_Armed_Forces_oath_of_enlistment) for the US military is as follows:
 
@@ -11273,7 +11273,7 @@ U.S. Secretary of Defense Lloyd J. Austin III first briefed Z in person about th
 
 *Date: 2024-10-24 | Status: Published | Audience: only_paid*
 
-*Bouyancy driven plumes*
+*Buoyancy driven plumes*
 
 [Image]
 
@@ -11301,7 +11301,7 @@ Maria and Volodymyr touched on this the other day.
 
 [Video: https://youtu.be/bY0s9Xv1MAE]
 
-Successful disruptor presidents are leaders who have significantly transformed their countries positively through unconventional policies, bold reforms or innovative approaches. Z, who peforms well in simple situations and in front of a teleprompter, fails in complicated situations, when functioning democratic institutions are required.
+Successful disruptor presidents are leaders who have significantly transformed their countries positively through unconventional policies, bold reforms or innovative approaches. Z, who performs well in simple situations and in front of a teleprompter, fails in complicated situations, when functioning democratic institutions are required.
 
 In the 11th year of war, Ukraine needs:
 
@@ -11682,7 +11682,7 @@ The sacking Ukraine’s top general Commander-in-Chief Valery Zaluzhny in late 2
 
 [Image]
 
-Zaluzhny had been arguing for more new military recruits. Z resisted, saying he wasn’t conviced Ukraine had enough money to equip, train and arms them. Z sacked Zaluzhny and his team in February 2024. Parliament belatedly passed confusing changes to laws regulating forced conscription. US House Speaker Mike dithered, and Emmuanuel floated the idea of sending in the French Legion to help.
+Zaluzhny had been arguing for more new military recruits. Z resisted, saying he wasn’t convinced Ukraine had enough money to equip, train and arms them. Z sacked Zaluzhny and his team in February 2024. Parliament belatedly passed confusing changes to laws regulating forced conscription. US House Speaker Mike dithered, and Emmanuel floated the idea of sending in the French Legion to help.
 
 Team USA’s Tiger Team told Ukraine at the start of the year that its job was simple: preserve national unity, increase troop strength, build defensive fall-back positions and procure/produce military stuff. The President’s Office, which de facto controls Parliament, the Cabinet of Ministers, Police, Judiciary, SBU State Security Service and Prosecutor’s Office, failed to accomplish any of these tasks. Instead, brainstorming on Bankova produced *The Peace Formula*, *The Victory Plan*, *Plan B* and the latest, whatever, dubbed *The Action Plan* (for domestic use).
 
@@ -11764,7 +11764,7 @@ Next I listened to the 2-year anniversary after-action review of the exercise. I
 
 [Video: https://youtu.be/Im1NztWBaHI]
 
-Rebecca is on Kamala’s transition team and David is slumming around Budapest. If Donald wins the election this week, the team’s reunion might be postponed. They might all leave goverment service and join Alexander at the University of Virginia, or Colin at Stanford University, or wind up in jail.
+Rebecca is on Kamala’s transition team and David is slumming around Budapest. If Donald wins the election this week, the team’s reunion might be postponed. They might all leave government service and join Alexander at the University of Virginia, or Colin at Stanford University, or wind up in jail.
 
 [Image]
 
@@ -12275,7 +12275,7 @@ And, finally, this morning’s shoot-down tally.
 
 [Image]
 
-Hook [rose through the ranks](https://www.nytimes.com/2020/08/06/us/politics/iran-us-brian-hook.html) of US State Department’ ranks during the late 2000s. His claim to fame is not flinching (or telling Donald to flinch) after Saudi Crown Prince Mohammed bin Salman chopped up journalist Jamal Khashoggi into little pieces at Saudia Arabia’s consulate in Instanbul.
+Hook [rose through the ranks](https://www.nytimes.com/2020/08/06/us/politics/iran-us-brian-hook.html) of US State Department’ ranks during the late 2000s. His claim to fame is not flinching (or telling Donald to flinch) after Saudi Crown Prince Mohammed bin Salman chopped up journalist Jamal Khashoggi into little pieces at Saudia Arabia’s consulate in Istanbul.
 
 Hook went to work for the private equity firm Cerberus Capital Management (Feinberg, et al) after Donald lost the US 2020 presidential election[1](#footnote-1).
 
@@ -13269,7 +13269,7 @@ Later in the day at [Pochayna market](https://www.youtube.com/watch?v=m2foFys4-4
 
 [Image]
 
-My friend from Taiwan via Austria, meanwhile, picks up at least five old gas masks, two antique sickles, a Soviet typewriter, several desk calenders and a gramophone operated by rotating the cylinder with a hand crank. The seller throws in some vinyl records to sweeten the deal.
+My friend from Taiwan via Austria, meanwhile, picks up at least five old gas masks, two antique sickles, a Soviet typewriter, several desk calendars and a gramophone operated by rotating the cylinder with a hand crank. The seller throws in some vinyl records to sweeten the deal.
 
 [Image]
 
@@ -13465,7 +13465,7 @@ I did not listen to to end of Petro’s monologue, which is in English.
 
 Yuriy’s report, in Ukrainian, titled “The Chaos of Donetsk’s Operational and Tactical Group,” should be pumped into the brains of the dozens of military experts and analysts opining on our military predicament from wherever.
 
-[Nine policy recommendations](https://www.atlanticcouncil.org/blogs/new-atlanticist/a-winning-strategy-to-end-russias-war-against-ukraine/) from Michagan caught my eye, as did a story on [the wire](https://en.interfax.com.ua/news/general/1031881.html).
+[Nine policy recommendations](https://www.atlanticcouncil.org/blogs/new-atlanticist/a-winning-strategy-to-end-russias-war-against-ukraine/) from Michigan caught my eye, as did a story on [the wire](https://en.interfax.com.ua/news/general/1031881.html).
 
 > BRUSSELS. Dec 4 (Interfax-Ukraine) – Ukraine has to make hard decisions about **further mobilization** of its citizens to repel Russian aggression, but these measures are critical, U.S. Secretary of State Antony Blinken has said.
 >
@@ -13511,7 +13511,7 @@ He [says](https://x.com/lexfridman/status/1864452340067033197) he understands th
 
 I’m only amused by anything Lex has to say about Ukraine, or what most of his podcast guests think and *have* said — with zilch pushback — about our little war. The [Trey Yingst](https://x.com/TreyYingst) approach to genocidal acts is almost as unhip as [Shawn Ryan](https://www.youtube.com/results?search_query=shawn+ryan+show)’s Christianity shtick. Lex’s *[produkt](https://www.youtube.com/results?search_query=lex+fridman)* is somewhere in the middle.
 
-> Podcast platforms have become more than just entertainment. They are now serious venues for complex discussions, political dialogue, and cross-cultural understanding. Lex Fridman’s willingness to travel to an active war zone for an honest conversation speaks volumes about the power of genuine dialogue. — [After Joe Rogan’s Rejection, Lex Fridman Offers To Host Ukranian President On His Podcast](https://abdymok.substack.com/publish/post/152607928) ([Total Pro Sports](https://www.totalprosports.com/), December 2, 2024)
+> Podcast platforms have become more than just entertainment. They are now serious venues for complex discussions, political dialogue, and cross-cultural understanding. Lex Fridman’s willingness to travel to an active war zone for an honest conversation speaks volumes about the power of genuine dialogue. — [After Joe Rogan’s Rejection, Lex Fridman Offers To Host Ukrainian President On His Podcast](https://abdymok.substack.com/publish/post/152607928) ([Total Pro Sports](https://www.totalprosports.com/), December 2, 2024)
 
 Platforming MAGA people who are clueless about what they are talking about is a bad look, always. [Why should anyone take seriously what Vivek thinks is a good deal to end the Russia-Ukraine war?](https://www.youtube.com/watch?v=Q8Qk_3a3lUw&t=7628s) Same goes for giving Lavrov an opportunity to rant hooey justifying the pointless deaths of millions. If Lex does go to Moscow to chat up Vova, he should make a citizen’s arrest or die trying, maybe of [Carlson](https://www.youtube.com/watch?v=nmgDf6QiCps).
 
@@ -13525,7 +13525,7 @@ Almost all Bet-Davis says is either deliberately false or misleading.
 
 ---
 
-Looking on the postive side, Jake tells us Team USA has learned a lot from the fighting.
+Looking on the positive side, Jake tells us Team USA has learned a lot from the fighting.
 
 [Video: https://youtu.be/GyNbBg9o3MI]
 
@@ -13749,7 +13749,7 @@ What could go wrong?
 
 ---
 
-As of this writing, 0800, groups of missiles have entered Ukraine’s airspace from the north and south and are flying all over the place blowing up energy facilities airfields and transporation hubs. At least five MiG 31s launched Dagger (Kinzhal) missiles and about half the residents of Odesa and Ternopil regions have already been blacked out.
+As of this writing, 0800, groups of missiles have entered Ukraine’s airspace from the north and south and are flying all over the place blowing up energy facilities airfields and transportation hubs. At least five MiG 31s launched Dagger (Kinzhal) missiles and about half the residents of Odesa and Ternopil regions have already been blacked out.
 
 [Image]
 
