@@ -352,3 +352,5 @@ f"- Blank cells retained: {len(remaining)}",
 ]+[f"- Row {rr}: {rowkey(rr)[0]} · Day {rowkey(rr)[1]} · {rowkey(rr)[2]}" for rr in remaining]+[""]
 Path("SUBTITLE_COMPLETION_AUDIT_2026-10-30.md").write_text("\n".join(audit),encoding="utf-8")
 print(f"rows={ws.max_row-header}; filled={len(filled)}; blanks={remaining}; max_words={max(word_count(x) for x in filled.values())}")
+
+# Trigger workbook update workflow after installation.
