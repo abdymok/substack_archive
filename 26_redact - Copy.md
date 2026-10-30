@@ -8,6 +8,7 @@
 
 ## Day 1408
 
+**Subtitle:** A year to forget
 **Date:** 2026-01-01  
 **URL:** https://abdymok.substack.com/p/day-1408  
 **Type:** newsletter | **Audience:** only_paid
@@ -62,6 +63,7 @@ Very nice!
 
 ## Day 1409
 
+**Subtitle:** Causation and presidential rhetoric
 **Date:** 2026-01-02  
 **URL:** https://abdymok.substack.com/p/day-1409  
 **Type:** newsletter | **Audience:** only_paid
@@ -93,6 +95,7 @@ When states abandon “the function of structuring reality,” the repressed eve
 
 ## Day 1410
 
+**Subtitle:** Kharkiv, and a new chief
 **Date:** 2026-01-03  
 **URL:** https://abdymok.substack.com/p/day-1410  
 **Type:** newsletter | **Audience:** only_paid
@@ -132,6 +135,7 @@ Have a lovely weekend!
 
 ## Day 1412
 
+**Subtitle:** Budanov takes the office
 **Date:** 2026-01-05  
 **URL:** https://abdymok.substack.com/p/day-1412  
 **Type:** newsletter | **Audience:** only_paid
@@ -372,6 +376,7 @@ The difference? Truman, not Trump, was in charge and Berliners knew the world wa
 
 ## Day 1417
 
+**Subtitle:** Lviv's IRBM and dawn patrol
 **Date:** 2026-01-10  
 **URL:** https://abdymok.substack.com/p/day-1417  
 **Type:** newsletter | **Audience:** only_paid
@@ -397,6 +402,7 @@ Sigh.
 
 ## Day 1418
 
+**Subtitle:** Pink, birds, and Lincoln
 **Date:** 2026-01-11  
 **URL:** https://abdymok.substack.com/p/day-1418  
 **Type:** newsletter | **Audience:** only_paid
@@ -416,7 +422,7 @@ The nutter Keith [compared Z to Abraham Lincoln](https://www.youtube.com/shorts/
 
 ## Day 1418 (contd)
 
-**Subtitle:** Know your heating plant, fauna and flora
+**Subtitle:** Heating plant, fauna, flora
 
 **Date:** 2026-01-11  
 **URL:** https://abdymok.substack.com/p/day-1418-contd  
@@ -487,6 +493,7 @@ Saboteurs early this morning torched two sedans in the parking lot of the swanky
 
 ## Day 1420
 
+**Subtitle:** Woodpeckers and misplaced meaning
 **Date:** 2026-01-13  
 **URL:** https://abdymok.substack.com/p/day-1420  
 **Type:** newsletter | **Audience:** only_paid
@@ -640,6 +647,7 @@ Other pics are [here.](https://t.me/lossolomas_kyiv/91407?single)
 
 ## Day 1423
 
+**Subtitle:** Kyiv's heat and power
 **Date:** 2026-01-16  
 **URL:** https://abdymok.substack.com/p/day-1423  
 **Type:** newsletter | **Audience:** only_paid
@@ -1017,7 +1025,7 @@ We end this post with our overnight oats this morning.
 
 ## Day 1429
 
-**Subtitle:** Groundhog Day must end—starting with Z
+**Subtitle:** Groundhog Day, starting with Z
 
 **Date:** 2026-01-23  
 **URL:** https://abdymok.substack.com/p/day-1429  
@@ -1145,6 +1153,7 @@ Which brings us back to Davos. It’s a grotesque circus where the systematic de
 
 ## Day 1432
 
+**Subtitle:** Lukashenko's birthday message
 **Date:** 2026-01-26  
 **URL:** https://abdymok.substack.com/p/day-1432  
 **Type:** newsletter | **Audience:** only_paid
@@ -1249,7 +1258,7 @@ We’re all about maintenance these days, having realized that the only way to m
 
 ## Day 1434
 
-**Subtitle:** Air raid sirens are not snooze buttons
+**Subtitle:** Sirens are not snooze buttons
 
 **Date:** 2026-01-28  
 **URL:** https://abdymok.substack.com/p/day-1434  
@@ -1460,6 +1469,7 @@ Ladder of Causality
 
 ## Day 1438
 
+**Subtitle:** Irish monks and Kyiv's heat
 **Date:** 2026-02-01  
 **URL:** https://abdymok.substack.com/p/day-1438  
 **Type:** newsletter | **Audience:** only_paid
@@ -1491,6 +1501,7 @@ Actually, no. Not *that* grim. The forecast says it'll warm up by week's end. Be
 
 ## Day 1440
 
+**Subtitle:** A hundred days ahead
 **Date:** 2026-02-02  
 **URL:** https://abdymok.substack.com/p/day-1440  
 **Type:** newsletter | **Audience:** only_paid
@@ -1611,7 +1622,7 @@ Bumped into a gang of icebreakers yesterday. They were very cheerful. The large 
 
 ## Day 1443
 
-**Subtitle:** How the Cold Was Made: A Kyiv Resident’s Guide to the Arctic Squid Game
+**Subtitle:** Kyiv's winter, badly managed
 
 **Date:** 2026-02-04  
 **URL:** https://abdymok.substack.com/p/day-1443  
@@ -2121,7 +2132,7 @@ Har, har.
 
 ## Day 1450
 
-**Subtitle:** P→Q,¬P⇏¬Q—and perhaps no story.
+**Subtitle:** Logic and the missing story
 
 **Date:** 2026-02-12  
 **URL:** https://abdymok.substack.com/p/day-1450  
@@ -2825,6 +2836,7 @@ In Semihory the Kaidash family once fought for years over a pear tree until the 
 
 ## Day 1464
 
+**Subtitle:** Missiles and the Paris summit
 **Date:** 2026-02-26  
 **URL:** https://abdymok.substack.com/p/day-1464  
 **Type:** newsletter | **Audience:** only_paid
@@ -2875,6 +2887,7 @@ But the deeper problem is this: Desch’s piece is addressed, implicitly, to Wes
 
 ## Day 1465
 
+**Subtitle:** The coincidences have tail numbers
 **Date:** 2026-02-27  
 **URL:** https://abdymok.substack.com/p/day-1465  
 **Type:** newsletter | **Audience:** only_paid
@@ -3046,6 +3059,7 @@ As I recall, he was best buddies with Yermak, the disgraced ex chief of Z’s of
 
 ## Day 1470
 
+**Subtitle:** Strategy documents, execution absent
 **Date:** 2026-03-04  
 **URL:** https://abdymok.substack.com/p/day-1470  
 **Type:** newsletter | **Audience:** only_paid
@@ -3503,7 +3517,7 @@ On the Ukraine jacket, Kim spent [quality time](https://www.nytimes.com/2026/03/
 
 ## Day 1477
 
-**Subtitle:** The Boys Who Ate the Mirror
+**Subtitle:** The boys and the mirror
 
 **Date:** 2026-03-11  
 **URL:** https://abdymok.substack.com/p/day-1477  
@@ -3704,7 +3718,7 @@ My neighbor from Semihory would have said that it resembles something else: the 
 
 ## Day 1478
 
-**Subtitle:** Cards. Chess. Clowns. But Never Wrestling.
+**Subtitle:** Cards, chess, clowns
 
 **Date:** 2026-03-12  
 **URL:** https://abdymok.substack.com/p/day-1478  
@@ -3936,6 +3950,7 @@ And then he would have waited, patiently, like a man whose mitochondria were, al
 
 ## Day 1482
 
+**Subtitle:** The Paton Bridge may fall
 **Date:** 2026-03-16  
 **URL:** https://abdymok.substack.com/p/day-1482  
 **Type:** newsletter | **Audience:** only_paid
@@ -5064,7 +5079,7 @@ Alternately: “[Day 30, Phase 2](https://abdymok.substack.com/p/day-30-phase-2)
 
 ## Day 1503
 
-**Subtitle:** On naming things plainly and what follows
+**Subtitle:** Naming things plainly
 
 **Date:** 2026-04-06  
 **URL:** https://abdymok.substack.com/p/day-1503  
@@ -5384,6 +5399,7 @@ The Paris tag hangs in the light. The tulips are open. The paska is on the table
 
 ## Day 1511
 
+**Subtitle:** Promotion as verdict
 **Date:** 2026-04-14  
 **URL:** https://abdymok.substack.com/p/day-1511  
 **Type:** newsletter | **Audience:** only_paid
@@ -5663,6 +5679,7 @@ Apparently, a woman looking at herself in a mirror during wartime is more danger
 
 ## Day 1515
 
+**Subtitle:** A week before lilacs
 **Date:** 2026-04-18  
 **URL:** https://abdymok.substack.com/p/day-1515  
 **Type:** newsletter | **Audience:** only_paid
@@ -5789,7 +5806,7 @@ He was not wrong. He was simply early.
 
 ## Day 1519
 
-**Subtitle:** A pattern that explains too much
+**Subtitle:** A pattern explaining too much
 
 **Date:** 2026-04-23  
 **URL:** https://abdymok.substack.com/p/day-1519  
@@ -6043,6 +6060,7 @@ Kyiv wasn’t the target this time around.
 
 ## Hebdomada
 
+**Subtitle:** The pattern beneath chaos
 **Date:** 2026-04-25  
 **URL:** https://abdymok.substack.com/p/hebdomada  
 **Type:** newsletter | **Audience:** only_paid
@@ -6813,6 +6831,7 @@ Have a great weekend!
 
 ## Day 1527 (contd)
 
+**Subtitle:** Mindich and Umerov recordings
 **Date:** 2026-05-01  
 **URL:** https://abdymok.substack.com/p/day-1527-contd  
 **Type:** newsletter | **Audience:** only_paid
@@ -7490,6 +7509,7 @@ On the war jacket, hours after Z renewed ceasefire calls, Russia launched an ove
 
 ## Day 1534
 
+**Subtitle:** Evacuate Kyiv, Zakharova says
 **Date:** 2026-05-07  
 **URL:** https://abdymok.substack.com/p/day-1534  
 **Type:** newsletter | **Audience:** only_paid
@@ -7890,6 +7910,7 @@ Reportedly, pieces of paper were signed.
 
 ## Day 1542
 
+**Subtitle:** Palantir visits Kyiv
 **Date:** 2026-05-15  
 **URL:** https://abdymok.substack.com/p/day-1542  
 **Type:** newsletter | **Audience:** only_paid
@@ -9031,6 +9052,7 @@ And the more insistently officials speak about the faucet, the more people begin
 
 ## Day 1560
 
+**Subtitle:** Zircon over Ukrainian cities
 **Date:** 2026-06-02  
 **URL:** https://abdymok.substack.com/p/1560  
 **Type:** newsletter | **Audience:** only_paid
@@ -9161,7 +9183,7 @@ The question is whether the men losing that argument can afford to hear it.
 
 ## Day 1563
 
-**Subtitle:** On Alder Trees, Raptors, and the War Jacket
+**Subtitle:** Alders, raptors, war jacket
 
 **Date:** 2026-06-05  
 **URL:** https://abdymok.substack.com/p/day-1563  
@@ -9685,6 +9707,7 @@ What Z’s government is counting on — what every government counts on, when i
 
 ## Day 1575
 
+**Subtitle:** A pawn shop with flags
 **Date:** 2026-06-17  
 **URL:** https://abdymok.substack.com/p/day-1575  
 **Type:** newsletter | **Audience:** only_paid
@@ -9897,7 +9920,7 @@ There is also a case to be made — not here, but somewhere — for reviving the
 
 ## The Map Keeps Getting Larger
 
-**Subtitle:** A Preamble to the ukraine@war Archive, 2021–2026
+**Subtitle:** A preamble to the archive
 
 **Date:** 2026-06-23  
 **URL:** https://abdymok.substack.com/p/the-map-keeps-getting-larger  
@@ -10196,7 +10219,7 @@ For the longer version — the *vyroshchuvaty* chronology, Paris, Oman, the SZRU
 
 ## Day 1583
 
-**Subtitle:** The Eagle Is in the Mail
+**Subtitle:** The eagle in the mail
 
 **Date:** 2026-06-24  
 **URL:** https://abdymok.substack.com/p/day-1583  
@@ -10406,6 +10429,7 @@ Roman Chervinsky. Planted in 2019 (YouTube [interview](https://www.youtube.com/w
 
 ## Day 1585
 
+**Subtitle:** Balush and the archive
 **Date:** 2026-06-26  
 **URL:** https://abdymok.substack.com/p/day-1585  
 **Type:** newsletter | **Audience:** only_paid
@@ -10631,7 +10655,7 @@ Maybe they’ll team up and serve together in the same Ukrainian military unit s
 
 ## Day 1592
 
-**Subtitle:** The alcoholic's vest and other emergencies
+**Subtitle:** The alcoholic's vest
 
 **Date:** 2026-07-03  
 **URL:** https://abdymok.substack.com/p/day-1592  
@@ -10919,7 +10943,7 @@ So it goes: a license to build interceptors, a couple of years off, timed to out
 
 ## Day 1597
 
-**Subtitle:** 25 Days Left to Fix It
+**Subtitle:** Twenty-five days to fix
 
 **Date:** 2026-07-10  
 **URL:** https://abdymok.substack.com/p/day-1597-e52  
@@ -11554,7 +11578,7 @@ None of them finished.
 
 ## Public Service Announcement
 
-**Subtitle:** I gave 700,000 words to Gemini.
+**Subtitle:** 700,000 words to Gemini
 
 **Date:** 2026-07-22  
 **URL:** https://abdymok.substack.com/p/public-service-announcement  
@@ -12111,7 +12135,7 @@ On the war jacket, Z is in London today en route to DC.
 
 ## Day 1616
 
-**Subtitle:** Sit on my lap, I'll give you a ride
+**Subtitle:** A ride on my lap
 
 **Date:** 2026-07-28  
 **URL:** https://abdymok.substack.com/p/day-1616  
@@ -12801,7 +12825,7 @@ The society-compensates-for-the-state model works when the thing being built is 
 
 ## Day 1631
 
-**Subtitle:** Russia fires, Ukraine counts (and vice versa)
+**Subtitle:** Russia fires, Ukraine counts
 
 **Date:** 2026-08-12  
 **URL:** https://abdymok.substack.com/p/day-1631  
@@ -15089,7 +15113,7 @@ Have a great weekend!
 
 ## Day 1678
 
-**Subtitle:** The drone that brings a friend
+**Subtitle:** A drone brings a friend
 
 **Date:** 2026-09-28  
 **URL:** https://abdymok.substack.com/p/day-1678  
@@ -15155,7 +15179,7 @@ The other brings a friend.
 
 ## Day 1679
 
-**Subtitle:** Ukraine is not Z, and neither are the ducks
+**Subtitle:** Ukraine, Z, and the ducks
 
 **Date:** 2026-09-29  
 **URL:** https://abdymok.substack.com/p/day-1679  
@@ -16426,7 +16450,7 @@ Kyiv had to live in the world outside it.
 
 ## Day 1695
 
-**Subtitle:** Self-portrait at 6:10 AM, October 15, 2026
+**Subtitle:** Self-portrait at 6:10 AM
 
 **Date:** 2026-10-15  
 **URL:** https://abdymok.substack.com/p/day-1695  
@@ -16479,6 +16503,7 @@ Have a great weekend. Stay safe, stay tuned!
 
 ## Day 1698
 
+**Subtitle:** Infrastructure page updated
 **Date:** 2026-10-18  
 **URL:** https://abdymok.substack.com/p/day-1698  
 **Type:** newsletter | **Audience:** everyone
@@ -16864,7 +16889,7 @@ And the people of all those other towns are waiting for theirs to be told.
 
 ## Day 1707
 
-**Subtitle:** For White House morons watching Newsmax
+**Subtitle:** The People on the Land
 
 **Date:** 2026-10-27  
 **URL:** https://abdymok.substack.com/p/day-1707  
