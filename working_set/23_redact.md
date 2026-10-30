@@ -4,7 +4,7 @@
 
 ---
 
-## This is (still) 'ukraine@war' 
+## Day 312
 
 *Date: 2023-01-01 | Status: Published | Audience: only_paid*
 
@@ -28,7 +28,7 @@ I’m re-committing to this site this year because I want to find new ways to us
 
 ---
 
-## Brilliant New Advance in Letters
+## Day 313
 
 *Date: 2023-01-02 | Status: Published | Audience: only_paid*
 
@@ -46,7 +46,7 @@ My favorite Twitter accounts involving Ukraine belong to [Iuliia](https://twitte
 
 ---
 
-## Hands-off Radical De-regulation
+## Day 315
 
 *Date: 2023-01-04 | Status: Published | Audience: only_paid*
 
@@ -78,7 +78,7 @@ As long as the state’s share of GDP hovers around 40%, Ukrainians will remain 
 
 ---
 
-## Survival Mode Thinking
+## Day 316
 
 *Date: 2023-01-05 | Status: Published | Audience: only_paid*
 
@@ -120,7 +120,7 @@ That the entire country has essentially been **one big war zone** for almost nin
 
 ---
 
-## Think. Adapt. Anticipate.
+## Day 317
 
 *Date: 2023-01-06 | Status: Published | Audience: only_paid*
 
@@ -154,7 +154,7 @@ Dog Squadron motto. [ASG](https://en.wikipedia.org/wiki/Asymmetric_Warfare_Group
 
 ---
 
-## Metacognitive Gratification
+## Day 318
 
 *Date: 2023-01-07 | Status: Published | Audience: only_paid*
 
@@ -198,7 +198,7 @@ Z and the Golden Pyramid Guy. *Coming out with Dmytro Gordon* (April 6, 2019)
 
 ---
 
-## The End of Print
+## Day 320
 
 *Date: 2023-01-09 | Status: Published | Audience: only_paid*
 
@@ -222,7 +222,7 @@ It would be interesting to establish the point in history – no doubt somewhere
 
 ---
 
-## Day 320-ish
+## Day 321
 
 *Date: 2023-01-10 | Status: Published | Audience: only_paid*
 
@@ -252,7 +252,7 @@ About two thirds of the way through this smug, precious, longwinded yet towering
 
 ---
 
-## Burying the Lede
+## Day 330
 
 *Date: 2023-01-19 | Status: Published | Audience: only_paid*
 
@@ -286,7 +286,7 @@ Joe Biden. [Reuters](https://reut.rs/3ib4LsU) (January 6, 2022)
 
 ---
 
-## Getting Killed for Nothing 
+## Day 332
 
 *Date: 2023-01-21 | Status: Published | Audience: only_paid*
 
@@ -330,7 +330,7 @@ A great recipe for getting killed for nothing.
 
 ---
 
-## Blame is a Necessary Cause
+## Day 333
 
 *Date: 2023-01-22 | Status: Published | Audience: only_paid*
 
@@ -372,7 +372,7 @@ Many foreign journalists in Ukraine suffer from something called ‘impostor syn
 
 ---
 
-## The Ukraine of Why
+## Day 335
 
 *Date: 2023-01-24 | Status: Published | Audience: only_paid*
 
@@ -400,7 +400,7 @@ Reasoning with uncertainty (war) isn’t the same as reasoning with cause and ef
 
 ---
 
-## Unclear. Ambiguous. Anonymous. Classified.
+## Day 344
 
 *Date: 2023-02-02 | Status: Published | Audience: only_paid*
 
@@ -436,7 +436,7 @@ Alas, American policy makers remain confused, especially House Armed Services Ch
 
 ---
 
-## The 36-page Egg 
+## Day 350
 
 *Date: 2023-02-08 | Status: Published | Audience: only_paid*
 
@@ -480,7 +480,7 @@ Which brings us back to the egg. [It’s 36 pages long](https://oig.usaid.gov/si
 
 ---
 
-## Mosh Pit of Gloom
+## Day 357
 
 *Date: 2023-02-15 | Status: Published | Audience: only_paid*
 
@@ -534,7 +534,7 @@ Moral of the story: Aleksandra’s sources are unreliable.
 
 ---
 
-## Fungible Ukraine 
+## Day 361
 
 *Date: 2023-02-19 | Status: Published | Audience: only_paid*
 
@@ -594,7 +594,7 @@ Russia’s state wire service TASS quoted Hersh as [saying](https://t.me/tass_ag
 
 ---
 
-## Fear not the Swamp
+## Day 362
 
 *Date: 2023-02-20 | Status: Published | Audience: only_paid*
 
@@ -644,7 +644,7 @@ Tomorrow, we’ll mark the ninth anniversary of the [massacre](https://abdymok.b
 
 ---
 
-## Enclaves of Our Non-normality
+## Day 363
 
 *Date: 2023-02-21 | Status: Published | Audience: only_paid*
 
@@ -716,7 +716,7 @@ While death claims all in the end, it is the struggle to survive that defines li
 
 ---
 
-## Day 1 Year 2 
+## Day 366
 
 *Date: 2023-02-24 | Status: Published | Audience: only_paid*
 
@@ -758,7 +758,7 @@ Looking on the bright side, all these experts hate themselves for *doing their j
 
 ---
 
-## Day 2 Year 2 
+## Day 366ish
 
 *Date: 2023-02-24 | Status: Published | Audience: only_paid*
 
@@ -782,7 +782,7 @@ And Chien-Chi published an [album](https://www.mirrormedia.mg/projects/ccc_ukrai
 
 ---
 
-## Day 3 Year 2 
+## Day 367
 
 *Date: 2023-02-25 | Status: Published | Audience: only_paid*
 
@@ -820,7 +820,7 @@ Spring is next week, so I will get the bicycle in shape over the weekend. Walkin
 
 ---
 
-## Day 5 Year 2 
+## Day 369
 
 *Date: 2023-02-27 | Status: Published | Audience: only_paid*
 
@@ -850,7 +850,7 @@ The big news in Kyiv this week is that it’s no longer winter. Spring starts on
 
 ---
 
-## Day 6 Year 2 
+## Day 370
 
 *Date: 2023-02-28 | Status: Published | Audience: only_paid*
 
@@ -888,7 +888,7 @@ Ukraine’s aisles of anti-corruption *bricolage* teem with generations of yello
 
 ---
 
-## Day 7 Year 2 
+## Day 371
 
 *Date: 2023-03-01 | Status: Published | Audience: only_paid*
 
@@ -922,7 +922,7 @@ He may look tough and talk tough but people who know Maksym say he is warm and l
 
 ---
 
-## Day 8 Year 2 
+## Day 372
 
 *Date: 2023-03-02 | Status: Published | Audience: only_paid*
 
@@ -956,7 +956,7 @@ And let’s introduce MP Kira Rudyk to Kevin McCarthy, Speaker of the House and 
 
 ---
 
-## Day 9 Year 2 
+## Day 373
 
 *Date: 2023-03-03 | Status: Published | Audience: only_paid*
 
@@ -976,7 +976,7 @@ Looking on the bright side, running season has started.
 
 ---
 
-## Day 10 Year 2 
+## Day 374
 
 *Date: 2023-03-04 | Status: Published | Audience: only_paid*
 
@@ -1002,7 +1002,7 @@ I forget how, exactly, we got Slavomir out of jail, but Ales and [Garry](https:/
 
 ---
 
-## Day 12 Year 2 
+## Day 377
 
 *Date: 2023-03-07 | Status: Published | Audience: only_paid*
 
@@ -1024,7 +1024,7 @@ Yuck.
 
 ---
 
-## Day 13 Year 2 
+## Day 378
 
 *Date: 2023-03-08 | Status: Published | Audience: only_paid*
 
@@ -1072,7 +1072,7 @@ Intelligence officials suspect Ukraine partisans behind Nord Stream bombings, ra
 
 ---
 
-## Day 14 Year 2 
+## Day 379
 
 *Date: 2023-03-09 | Status: Published | Audience: only_paid*
 
@@ -1112,7 +1112,7 @@ Boom! @03.55. Probably am anti-missile batteries popping off.
 
 ---
 
-## Day 14 Year 2 (cont'd) 
+## Day 379ish
 
 *Date: 2023-03-09 | Status: Published | Audience: only_paid*
 
@@ -1136,7 +1136,7 @@ We recall almost being blown to smithereens by a Kh-101 on Day 230, October 10, 
 
 ---
 
-## Day 15 Year 2 
+## Day 380
 
 *Date: 2023-03-10 | Status: Published | Audience: only_paid*
 
@@ -1168,7 +1168,7 @@ Which reminds me of taking a different photograph in tricky light [a couple of y
 
 ---
 
-## Inertial Ukraine 
+## Day 380
 
 *Date: 2023-03-10 | Status: Published | Audience: only_paid*
 
@@ -1201,7 +1201,7 @@ I include the key 10 points, leaving out the the *inertial scenarios* blah blah,
 
 ---
 
-## Timoptic for Turkmen
+## Day 382
 
 *Date: 2023-03-12 | Status: Published | Audience: only_paid*
 
@@ -1255,7 +1255,7 @@ Toronto TV did a piece about the unit after the Kharkiv counteroffensive this fa
 
 ---
 
-## Day Whatever 
+## Day 384
 
 *Date: 2023-03-14 | Status: Published | Audience: only_paid*
 
@@ -1279,7 +1279,7 @@ I listened to the pep talk, which made me queasy. Don’t be like Michael.
 
 ---
 
-## Balusha Turns 10
+## Day 384ish
 
 *Date: 2023-03-14 | Status: Published | Audience: only_paid*
 
@@ -1291,7 +1291,7 @@ Happy Birthday!
 
 ---
 
-## Behind Enemy Lines
+## Day 385
 
 *Date: 2023-03-15 | Status: Published | Audience: only_paid*
 
@@ -1317,7 +1317,7 @@ Happy Birthday!
 
 ---
 
-## They Will All Be Dragons Again
+## Day 386
 
 *Date: 2023-03-16 | Status: Published | Audience: only_paid*
 
@@ -1345,7 +1345,7 @@ Not to be outdone by [Parler, Rumble, Gab and Odysee](https://www.theguardian.co
 
 ---
 
-## Pessimizing Ukraine
+## Day 388
 
 *Date: 2023-03-18 | Status: Published | Audience: only_paid*
 
@@ -1393,7 +1393,7 @@ The purpose was to put to rest debate over the "disappearances" that had been th
 
 ---
 
-## Grade 1 Ukraine Strain
+## Day 390
 
 *Date: 2023-03-20 | Status: Published | Audience: only_paid*
 
@@ -1437,7 +1437,7 @@ Under the circumstances, legalizing recreational Psilocybin and marijuana is pro
 
 ---
 
-## Messrs. Xi and Putin 
+## Day 391
 
 *Date: 2023-03-21 | Status: Published | Audience: only_paid*
 
@@ -1485,7 +1485,7 @@ We wrote about this more than a year ago when celebrating the 25th anniversary o
 
 ---
 
-## Something Went Wrong
+## Day 393
 
 *Date: 2023-03-23 | Status: Published | Audience: only_paid*
 
@@ -1519,7 +1519,7 @@ If in the warzone of Ukraine your instinct is to cut loose and part with whateve
 
 ---
 
-## Lesson Learned
+## Day 394
 
 *Date: 2023-03-24 | Status: Published | Audience: only_paid*
 
@@ -1543,7 +1543,7 @@ As an otherwise impeccably “pro-European” Czech diplomat once put it:
 
 ---
 
-## Imposter Syndrome
+## Day 395
 
 *Date: 2023-03-25 | Status: Published | Audience: only_paid*
 
@@ -1581,7 +1581,7 @@ Moral of the story is to practice detachment. Stay away from Tootsie Club and do
 
 ---
 
-## Ukrainesplaining©
+## Day 399
 
 *Date: 2023-03-29 | Status: Published | Audience: only_paid*
 
@@ -1625,7 +1625,7 @@ I think about the mess differently, because my intellectual political baggage is
 
 ---
 
-## Poem of the Day 
+## Day 400
 
 *Date: 2023-03-30 | Status: Published | Audience: only_paid*
 
@@ -1751,7 +1751,7 @@ Czeslaw Milosz
 
 ---
 
-## Day 400 
+## Day 440ish
 
 *Date: 2023-03-30 | Status: Published | Audience: only_paid*
 
@@ -1833,7 +1833,7 @@ From the [PDF archive](https://archive.kyivpost.com/PDF-archive/issue).
 
 ---
 
-## Look Over There 
+## Day 407
 
 *Date: 2023-04-06 | Status: Published | Audience: only_paid*
 
@@ -2193,7 +2193,7 @@ For people stuck in Kyiv, the [Botanical Garden](https://en.wikipedia.org/wiki/H
 
 ---
 
-## 422
+## Day 422
 
 *Date: 2023-04-21 | Status: Published | Audience: only_paid*
 
@@ -2263,7 +2263,7 @@ It appears that Ukraine’s goat with teeth has been singled out by [autonomous 
 
 ---
 
-## Day 422-ish
+## Day 422ish
 
 *Date: 2023-04-21 | Status: Published | Audience: only_paid*
 
@@ -2653,7 +2653,7 @@ We are allowed us to offload aspects of the war in memory from these wacko artic
 
 ---
 
-## Day 440-ish
+## Day 440ish
 
 *Date: 2023-05-09 | Status: Published | Audience: only_paid*
 
@@ -3775,7 +3775,7 @@ Here’s the [soundtrack](https://soundcloud.com/drandrewford/asides-on-the-oboe
 
 ---
 
-## Day 468-ish
+## Day 468ish
 
 *Date: 2023-06-06 | Status: Published | Audience: only_paid*
 
@@ -4674,7 +4674,7 @@ My plans for the next 500 days are uncertain. There’s a beano of NATO leaders 
 
 ---
 
-## 500 ДЗЁН ВАЙНЫ
+## Day 500
 
 *Date: 2023-07-08 | Status: Published | Audience: only_paid*
 
@@ -5689,7 +5689,7 @@ The people who want Team USA to act more resolutely to end fascistic Russia’s 
 
 ---
 
-## Days of Dog Star
+## Day 530
 
 *Date: 2023-08-07 | Status: Published | Audience: only_paid*
 
