@@ -4,33 +4,34 @@
 
 - Link occurrences: 5438.
 - Distinct URL strings: 4219.
-- Distinct source domains: 855.
+- Original source domains: 855.
 - Posts represented: 976.
-- Publisher aliases are consolidated in the publisher-level comparison (for example, `nyt.com` + `nytimes.com`, `wapo.st` + `washingtonpost.com`, and `twitter.com` + `x.com`). Original domains remain in the domain registry and link-level data.
-- Classification is domain-based. Unrecognized domains remain `other / unclassified`.
+- Publisher aliases are consolidated in the publisher-level comparison. Original domains and URLs remain in the link-level data for audit.
+- Classification is domain-based. Domains not confidently identified remain `other / unclassified`.
 - Counts are link occurrences, not unique articles or readership.
+- Manual review pass 1 reclassified 311 link occurrences across high-frequency domains. This reduced the unclassified set from 587 domains / 1,036 occurrences to 534 domains / 725 occurrences.
 
 ## Annual totals
 
-| Year | Links | Distinct URLs | Source domains |
-|---|---:|---:|---:|
-| 2023 | 1248 | 998 | 289 |
-| 2024 | 1717 | 1335 | 347 |
-| 2025 | 1341 | 1123 | 303 |
-| 2026 | 1132 | 951 | 264 |
+| Year | Links |
+|---|---:|
+| 2023 | 1248 |
+| 2024 | 1717 |
+| 2025 | 1341 |
+| 2026 | 1132 |
 
 ## Category mix by year
 
 | Category | 2023 | 2024 | 2025 | 2026 | Total |
 |---|---:|---:|---:|---:|---:|
-| personal archive | 232 | 158 | 108 | 283 | 781 |
-| other / unclassified | 237 | 334 | 271 | 194 | 1036 |
-| social media | 146 | 227 | 225 | 151 | 749 |
-| Ukrainian media | 56 | 102 | 43 | 38 | 239 |
-| news | 386 | 701 | 457 | 261 | 1805 |
-| reference | 124 | 126 | 159 | 139 | 548 |
-| official sources | 29 | 34 | 45 | 39 | 147 |
-| research | 38 | 35 | 33 | 27 | 133 |
+| Ukrainian media | 59 | 116 | 50 | 45 | 270 |
+| news | 403 | 741 | 504 | 271 | 1919 |
+| official sources | 30 | 42 | 54 | 41 | 167 |
+| other / unclassified | 176 | 223 | 174 | 152 | 725 |
+| personal archive | 240 | 159 | 109 | 294 | 802 |
+| reference | 135 | 148 | 179 | 147 | 609 |
+| research | 45 | 54 | 41 | 28 | 168 |
+| social media | 160 | 234 | 230 | 154 | 778 |
 
 ## Leading normalized publishers by year
 
@@ -96,9 +97,9 @@
 
 ## Classification caveats
 
-- Publisher aliases are normalized only where the mapping is reasonably clear. Original domains are retained for audit.
-- Multi-purpose platforms such as Google, YouTube and Substack are classified by domain, not by the specific content of each page.
-- Unclassified domains: 586 publishers/domains, 1036 link occurrences. These should be reviewed before drawing strong conclusions about category proportions.
+- Classification describes the source domain, not the reliability or quality of an individual article.
+- Multi-purpose platforms and services (including Google, Substack, YouTube, Perplexity and Rev) are classified by their role as a platform or reference service, not by the content of every linked page.
+- Some domains remain unclassified because the link context is insufficient or the site does not fit the current categories. Review continues from the most frequently linked domains downward.
 - This is a descriptive source index, not a rating of accuracy, credibility or importance.
 
 ## Dataset files
