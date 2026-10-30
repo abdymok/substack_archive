@@ -170,7 +170,7 @@ The companion account of how the counteroffensive unfolded on the ground over th
 A small cluster of contemporaneous Ukrainian reports on the proceedings against Chervinsky. Useful for following the domestic legal case that later became central to the Washington Post's Nord Stream reporting. Treat the news reports as records of procedural developments, not as substitutes for court documents or findings on the underlying allegations.
 
 ### 30. Ministry of Defence of Ukraine. “Recruiting instead of conscription: Rustem Umerov approves concept of military personnel policy.” 5 November 2023.
-[Ministry of Defence announcement](https://www.mil.gov.ua/news/2023/11/05/rekruting-zamist-prizovu-rustem-umerov-zatverdiv-konczepcziyu-vijskovoi-kadровoi-politiki-minoboroni/)
+[Ministry of Defence announcement](https://www.mil.gov.ua/news/2023/11/05/rekruting-zamist-prizovu-rustem-umerov-zatverdiv-konczepcziyu-vijskovoi-kadrovoi-politiki-minoboroni/)
 
 An official announcement of a new military personnel-policy concept, useful for documenting the government's stated direction on recruitment and staffing. As a ministry announcement, it records policy intent; it does not establish how quickly or fully the policy was implemented. Linked on 5 November.
 
