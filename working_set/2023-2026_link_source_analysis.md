@@ -9,7 +9,7 @@
 - Publisher aliases are consolidated in the publisher-level comparison. Original domains and URLs remain in the link-level data for audit.
 - Classification is domain-based. Domains not confidently identified remain `other / unclassified`.
 - Counts are link occurrences, not unique articles or readership.
-- Manual review has reclassified 395 link occurrences across high-frequency domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 511 domains / 643 occurrences.
+- Manual review has reclassified 460 link occurrences across the highest-frequency domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 480 domains / 576 occurrences.
 
 ## Annual totals
 
@@ -24,14 +24,14 @@
 
 | Category | 2023 | 2024 | 2025 | 2026 | Total |
 |---|---:|---:|---:|---:|---:|
-| Ukrainian media | 64 | 117 | 50 | 46 | 277 |
-| news | 409 | 746 | 512 | 275 | 1942 |
-| official sources | 33 | 44 | 56 | 41 | 174 |
-| other / unclassified | 148 | 194 | 154 | 147 | 643 |
-| personal archive | 240 | 159 | 112 | 294 | 805 |
-| reference | 139 | 149 | 179 | 147 | 614 |
-| research | 51 | 71 | 48 | 28 | 198 |
-| social media | 164 | 237 | 230 | 154 | 785 |
+| Ukrainian media | 64 | 124 | 53 | 46 | 287 |
+| news | 412 | 760 | 515 | 277 | 1964 |
+| official sources | 33 | 48 | 56 | 41 | 178 |
+| other / unclassified | 138 | 156 | 144 | 138 | 576 |
+| personal archive | 243 | 160 | 112 | 294 | 809 |
+| reference | 140 | 150 | 180 | 150 | 620 |
+| research | 52 | 77 | 49 | 30 | 208 |
+| social media | 166 | 242 | 232 | 156 | 796 |
 
 ## Leading normalized publishers by year
 
