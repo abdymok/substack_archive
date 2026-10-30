@@ -599,7 +599,7 @@ I am a big fan of radical feminism!
 
 ---
 
-## Day 3,650
+## Day 695
 
 *Date: 2024-01-19 | Status: Published | Audience: only_paid*
 
@@ -12679,7 +12679,7 @@ Clayton is priceless in a vapid kind of way. He’ll be back with updates.
 
 ---
 
-## Day 1003 (contd) 
+## Day 1002ish
 
 *Date: 2024-11-21 | Status: Published | Audience: everyone*
 
@@ -12727,7 +12727,7 @@ What my ai friend sez:
 
 ---
 
-## Day 1003ish
+## Day 1003
 
 *Date: 2024-11-22 | Status: Published | Audience: only_paid*
 
@@ -13981,7 +13981,7 @@ Many people have asked me where/how they can buy one. Unfortunately, as with [Ve
 
 ---
 
-## Day 1031 (contd)
+## Day 1031ish
 
 *Date: 2024-12-20 | Status: Published | Audience: only_paid*
 
