@@ -9,7 +9,7 @@
 - Publisher aliases are consolidated in the publisher-level comparison. Original domains and URLs remain in the link-level data for audit.
 - Classification is domain-based. Domains not confidently identified remain `other / unclassified`.
 - Counts are link occurrences, not unique articles or readership.
-- Manual review has reclassified 460 link occurrences across the highest-frequency domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 480 domains / 576 occurrences.
+- Four manual review passes have reclassified 523 link occurrences among the most frequently linked domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 448 domains / 513 occurrences.
 
 ## Annual totals
 
@@ -24,14 +24,14 @@
 
 | Category | 2023 | 2024 | 2025 | 2026 | Total |
 |---|---:|---:|---:|---:|---:|
-| Ukrainian media | 64 | 124 | 53 | 46 | 287 |
-| news | 412 | 760 | 515 | 277 | 1964 |
-| official sources | 33 | 48 | 56 | 41 | 178 |
-| other / unclassified | 138 | 156 | 144 | 138 | 576 |
-| personal archive | 243 | 160 | 112 | 294 | 809 |
-| reference | 140 | 150 | 180 | 150 | 620 |
-| research | 52 | 77 | 49 | 30 | 208 |
-| social media | 166 | 242 | 232 | 156 | 796 |
+| Ukrainian media | 64 | 124 | 55 | 46 | 289 |
+| news | 420 | 760 | 522 | 282 | 1984 |
+| official sources | 36 | 51 | 58 | 47 | 192 |
+| other / unclassified | 126 | 149 | 126 | 112 | 513 |
+| personal archive | 243 | 164 | 114 | 295 | 816 |
+| reference | 140 | 150 | 184 | 161 | 635 |
+| research | 52 | 77 | 50 | 33 | 212 |
+| social media | 167 | 242 | 232 | 156 | 797 |
 
 ## Leading normalized publishers by year
 
@@ -46,8 +46,8 @@
 | YouTube | social media | 47 | 46 |
 | X / Twitter | social media | 45 | 45 |
 | Telegram | social media | 26 | 26 |
+| Reuters | news | 24 | 19 |
 | The Atlantic | news | 24 | 15 |
-| Reuters | news | 23 | 18 |
 | Kyiv Post | Ukrainian media | 21 | 15 |
 
 ### 2024
