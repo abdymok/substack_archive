@@ -1,0 +1,35 @@
+name: Spell-check working_set 26_redact
+
+on:
+  push:
+    paths:
+      - ".github/workflows/spellcheck-26.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install codespell
+        run: python -m pip install --disable-pip-version-check codespell
+      - name: Scan the working Markdown file
+        shell: bash
+        run: |
+          set +e
+          codespell --quiet-level=2 "working_set/26_redact - Copy.md" > /tmp/codespell-report.txt 2>&1
+          status=$?
+          set -e
+          cp /tmp/codespell-report.txt working_set/26_spellcheck_candidates.txt
+          echo "Codespell exit status: $status"
+          echo "Candidate count: $(wc -l < /tmp/codespell-report.txt)"
+          cat /tmp/codespell-report.txt
+      - name: Upload candidate report
+        uses: actions/upload-artifact@v4
+        with:
+          name: 26-spellcheck-candidates
+          path: working_set/26_spellcheck_candidates.txt
+          if-no-files-found: error
