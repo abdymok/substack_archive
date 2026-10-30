@@ -280,7 +280,7 @@ Monday began with an air alert. Ballistic and cruise missiles. Kyiv was not amon
 - **Kryvyi Rih.** There are reports of a hit to a shopping center. Information about the damage and victims is being clarified. No official reaction yet.
 - **Zaporizhia.** A combined attack with cruise and ballistic missiles was carried out. There were five explosions in total. The missiles hit residential areas. Two victims are known - a man and a woman.
 - **Kherson.** At night there was an attack on the territory of a plant and an infrastructure facility. This was reported by the head of the region Oleksandr Prokudin.
-- **Khmelnytskyi.** There were explosions. There are also reports of power outages in the city. In addition, explosions (possibly as a result of air defense) were recorded in Shepetivka and Starokonstantinov.
+- **Khmelnytsky.** There were explosions. There are also reports of power outages in the city. In addition, explosions (possibly as a result of air defense) were recorded in Shepetivka and Starokonstantinov.
 
   ---
 
@@ -611,7 +611,7 @@ Ten years ago today, it was snowing in ultra-violent Kyiv.
 
 [Image]
 
-More than 1,000 were injured on Hrushevskoho Street in the center of the capital on January 19-20. On January 22, the first Maidan activists were killed – Armenian Serhiy Nihoian and Belarusian Mykhailo Zhyznevskyi. Roman Senyk, a participant in the protest, was seriously injured and died in hospital on January 25.
+More than 1,000 were injured on Hrushevskoho Street in the center of the capital on January 19-20. On January 22, the first Maidan activists were killed – Armenian Serhiy Nihoian and Belarusian Mykhailo Zhyznevsky. Roman Senyk, a participant in the protest, was seriously injured and died in hospital on January 25.
 
 Recently, Ukraine’s government asserted ownership of one [timeline of events](https://war.ukraine.ua/the-histrory-of-russian-aggression-in-ukraine/#year-2014).
 
@@ -9141,7 +9141,7 @@ Data on the damage and casualties are being clarified.
 
 Actually, no. Team USA simply does not trust Ukraine’s self-aggrandizing duopolistic chain of command headed by an emotionally challenged supreme commander-in-chief who is seldom consistent and easily carried away.
 
-Which brings me to the [reported dismissal](https://www.reuters.com/world/europe/head-ukraines-power-transmission-network-sacked-broadcaster-says-2024-09-02/) yesterday of the head of Ukraine's state grid operator Ukrenergo, Volodymyr Kudrytskyi, for allegedly failing to safeguard energy facilities from Russian attacks. Ukraine top energy officials are widely regarded as either inept or incorrigibly corrupt. Kudrytsky had been one of the few exceptions.
+Which brings me to the [reported dismissal](https://www.reuters.com/world/europe/head-ukraines-power-transmission-network-sacked-broadcaster-says-2024-09-02/) yesterday of the head of Ukraine's state grid operator Ukrenergo, Volodymyr Kudrytsky, for allegedly failing to safeguard energy facilities from Russian attacks. Ukraine top energy officials are widely regarded as either inept or incorrigibly corrupt. Kudrytsky had been one of the few exceptions.
 
 ---
 
