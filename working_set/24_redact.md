@@ -387,7 +387,7 @@ Vladimir Putin had counted on the West, headquartered in Washington, D.C., to be
 
 ---
 
-The [beano in Davos](https://www.cnbc.com/2024/01/09/zelenskyy-blinken-israeli-president-will-go-to-davos.html) next week is shaping up nicely.
+The [beano in Davos](https://www.cnbc.com/2024/01/09/Z-blinken-israeli-president-will-go-to-davos.html) next week is shaping up nicely.
 
 [1](#footnote-anchor-1)
 
@@ -655,7 +655,7 @@ Manifest arbitrariness. The only fixed point in this otherwise deeply fragmentar
 
 - [arrest of a well-known investment banker on his way to Davos to sell a cement factory](https://www.bloomberg.com/news/articles/2024-01-18/ukraine-detains-investment-banker-who-complained-of-corruption),
 - [more than two dozen government agents ordered to dig up dirt on journalists,](https://bihus.info/shhonajmenshe-30-lyudej-braly-uchast-v-operacziyi-stezhennya-za-bihus-info-novi-detali/)
-- [Z invites T to kyiv](https://www.politico.eu/article/volodymyr-zelenskyy-invite-donald-trump-ukraine/).
+- [Z invites T to kyiv](https://www.politico.eu/article/volodymyr-Z-invite-donald-trump-ukraine/).
 
 I’m still coughing out whatever is left in my lungs from that weird virus that assaulted me last week.
 
@@ -1138,7 +1138,7 @@ According to Dikiy, Ukraine’s law-enforcement agencies are equipped to neutral
 
 > Draft dodgers are like frightened rats. They become especially dangerous when they band together into packs. …Under martial law, the authorities have sufficient grants of authority to handle them. There are many strong men in the rear who can protect the population from agent provocatuers… Authorities can handle small groups of them legally. But If these draft dodgers gather in large numbers we will have to deal with them *extra legem*, that is, my fellow ATO veterans and I will be forced to take matters into our own hands. Believe me, if that happens, nothing will be left of them. — Evhen Dikiy, ATO veteran
 
-It was [reported](https://www.theguardian.com/world/2024/jan/30/volodymyr-zelenskiy-asked-top-general-to-step-down-but-he-refused) on Mondaythat President Z asked Commander-in-Chief Valery Zaluzhny to resign, allegedly over differences of [opinion](https://www.msn.com/en-us/news/world/zelensky-to-oust-ukraine-s-top-general-amid-tension-over-new-mobilization/ar-BB1hxnro?ocid=socialshare&cvid=c81f65ec436846cab4b94f803ef30845&ei=48) on mobilization numbers.
+It was [reported](https://www.theguardian.com/world/2024/jan/30/volodymyr-zelenskiy-asked-top-general-to-step-down-but-he-refused) on Mondaythat President Z asked Commander-in-Chief Valery Zaluzhny to resign, allegedly over differences of [opinion](https://www.msn.com/en-us/news/world/Z-to-oust-ukraine-s-top-general-amid-tension-over-new-mobilization/ar-BB1hxnro?ocid=socialshare&cvid=c81f65ec436846cab4b94f803ef30845&ei=48) on mobilization numbers.
 
 We don’t take seriously reports from [The Washington Post](http://wapo.st) because they published an *exclusive report* alleging Colonel Roman Chervinsky helped blow up natural gas pipelines underneath the Baltic Sea[2](#footnote-2).
 
@@ -1284,7 +1284,7 @@ Only are closing in on the 10-year anniversary of the start of Russia’s invasi
 
 [Image]
 
-It is unsettling at best to see someone once considered a [hero](https://english.nv.ua/life/zelenskyy-is-incredibly-genuine-sean-penn-promotes-his-superpower-documentary-on-jimmy-kimmel-live-50360446.html) descend into [madness](https://www.pravda.com.ua/eng/articles/2024/02/7/7440698/), yet curiously unsatisfying to see the product of his idiocy cleanly and elegantly [blown to smithereens](https://time.com/6329188/ukraine-volodymyr-zelensky-interview/). Maybe because I’m in Kyiv.
+It is unsettling at best to see someone once considered a [hero](https://english.nv.ua/life/Z-is-incredibly-genuine-sean-penn-promotes-his-superpower-documentary-on-jimmy-kimmel-live-50360446.html) descend into [madness](https://www.pravda.com.ua/eng/articles/2024/02/7/7440698/), yet curiously unsatisfying to see the product of his idiocy cleanly and elegantly [blown to smithereens](https://time.com/6329188/ukraine-volodymyr-Z-interview/). Maybe because I’m in Kyiv.
 
 The weeks-long tragicomic dismissal of Ukraine’s commander-in-chief has been dictated by purely political, indeed very delicate, considerations. That’s unfortunate. Z appears less concerned with the reaction of society to his decision to sack a top general than with transitioning the entire country to *total war*.
 
@@ -1847,7 +1847,7 @@ Lately, I have been receiving lots of requests for tips about bicycling in and a
 
 ---
 
-On the Ukraine jacket, I watched a bizarre Bret Bair [chit chat w/ Z](https://www.foxnews.com/media/ukrainian-president-zelenskyy-sits-down-fox-anchor-bret-baier-war-nears-two-year-mark).
+On the Ukraine jacket, I watched a bizarre Bret Bair [chit chat w/ Z](https://www.foxnews.com/media/ukrainian-president-Z-sits-down-fox-anchor-bret-baier-war-nears-two-year-mark).
 
 > Baier will also spotlight the FOX News correspondents who have covered the war from the beginning, including colleagues Benjamin Hall, Pierre Zakrzewski and Oleksandra Kuvshynova. [Zakrzewski and Kuvshynova were killed](https://www.foxnews.com/world/fox-news-cameraman-pierre-zakrzewski-killed-ukraine) and Hall was severely wounded when their van was hit by a Russian projectile near the beginning of the war.
 
@@ -2244,7 +2244,7 @@ It is difficult to be pessimistic on a sunny spring day after surviving the tent
 
 [1](#footnote-anchor-1)
 
-[Z in bind over how to draft more troops as Russian forces advance](https://www.washingtonpost.com/world/2024/03/04/ukraine-mobilization-zelensky-russia/) ([The Washington Post](http://wapo.st), March 4, 2024)
+[Z in bind over how to draft more troops as Russian forces advance](https://www.washingtonpost.com/world/2024/03/04/ukraine-mobilization-Z-russia/) ([The Washington Post](http://wapo.st), March 4, 2024)
 
 ---
 
@@ -2358,7 +2358,7 @@ A major European city, Odesa, was hit with a ballistic missile in broad daylight
 
 [Video: https://youtu.be/J1S1N1mMihQ]
 
-Z’s motorcade arrived in Odesa on Wednesday just before the latest strike, which killed five more people, for a meeting with Greek Prime Minister Kyriakos Mitsotakis, who was in the vicinity of the blast and had a great view of the “[mushroom cloud](https://edition.cnn.com/2024/03/06/europe/russia-missile-odesa-greece-russia-zelensky-intl/index.html)” (as filmed by a member of the Greek PM’s delegation on his smartphone below).
+Z’s motorcade arrived in Odesa on Wednesday just before the latest strike, which killed five more people, for a meeting with Greek Prime Minister Kyriakos Mitsotakis, who was in the vicinity of the blast and had a great view of the “[mushroom cloud](https://edition.cnn.com/2024/03/06/europe/russia-missile-odesa-greece-russia-Z-intl/index.html)” (as filmed by a member of the Greek PM’s delegation on his smartphone below).
 
 Ukraine's Defence Forces [have denied](https://www.pravda.com.ua/eng/news/2024/03/6/7445297/) the strike on Odesa was planned to coincide with Z's visit, but nobody believes that.
 
@@ -2523,7 +2523,7 @@ In the Senate, meanwhile…
 
 [Image]
 
-On the Ukraine jacket, Z [told](https://www.bfmtv.com/international/europe/ukraine/vos-enfants-ne-vont-pas-mourir-en-ukraine-zelensky-repond-a-macron-sur-l-envoi-de-troupes_AV-202403110812.html) French broadcaster BFM TV and Le Monde that the situation is better now than during the last three months, whatever that means. He also [informed](https://www.lemonde.fr/en/international/article/2024/03/11/volodymyr-zelensky-your-children-are-not-going-to-die-in-ukraine_6608329_4.html) his French fans that their children would not die fighting in Ukraine.
+On the Ukraine jacket, Z [told](https://www.bfmtv.com/international/europe/ukraine/vos-enfants-ne-vont-pas-mourir-en-ukraine-Z-repond-a-macron-sur-l-envoi-de-troupes_AV-202403110812.html) French broadcaster BFM TV and Le Monde that the situation is better now than during the last three months, whatever that means. He also [informed](https://www.lemonde.fr/en/international/article/2024/03/11/volodymyr-Z-your-children-are-not-going-to-die-in-ukraine_6608329_4.html) his French fans that their children would not die fighting in Ukraine.
 
 On the Russian jacket, lots oil refineries on fire. Depots in Orlov and Nizhny Novogorod regions went up in smoke. Ukrainian drones also struck targets in Kursk, Belgorod, Moscow, Leningrad, Bryansk and Tula regions.
 
@@ -2772,7 +2772,7 @@ The main differences between nerves and and sinews lies in their anatomical stru
 
 [Image]
 
-Where were we? Trump [mocked](https://www.polskieradio.pl/395/7785/Artykul/3350967,trump-mocks-zelensky-as-greatest-salesman-in-history) Z in Ohio over the weekend as european leaders took turns confusing *nerves of war* with *sinews of peace[1](#footnote-1).*
+Where were we? Trump [mocked](https://www.polskieradio.pl/395/7785/Artykul/3350967,trump-mocks-Z-as-greatest-salesman-in-history) Z in Ohio over the weekend as european leaders took turns confusing *nerves of war* with *sinews of peace[1](#footnote-1).*
 
 [Image]
 
@@ -3271,7 +3271,7 @@ Silence, and respect. Anything else is grave-robbing.
 
 [Image]
 
-Wut? This is unsettling. David found himself in a mood to write something *moving* and [once again](https://www.washingtonpost.com/opinions/2024/03/29/ignatius-zelensky-interview-ukraine-aid-russia/) has the unmitigated fucking gall to [repurpose a greasy clown](https://www.washingtonpost.com/opinions/2024/03/29/ignatius-zelensky-interview-ukraine-aid-russia/) into content for readers of [The Washington Post](http://wapo.st) (words only: he had no luck, hold steady now, *‘Googling around for a picture’),* flattering himself as one who cares while *movingly* reminding the audience that it’s okay now to feel good about Z and his confused ambitions for survival[1](#footnote-1).
+Wut? This is unsettling. David found himself in a mood to write something *moving* and [once again](https://www.washingtonpost.com/opinions/2024/03/29/ignatius-Z-interview-ukraine-aid-russia/) has the unmitigated fucking gall to [repurpose a greasy clown](https://www.washingtonpost.com/opinions/2024/03/29/ignatius-Z-interview-ukraine-aid-russia/) into content for readers of [The Washington Post](http://wapo.st) (words only: he had no luck, hold steady now, *‘Googling around for a picture’),* flattering himself as one who cares while *movingly* reminding the audience that it’s okay now to feel good about Z and his confused ambitions for survival[1](#footnote-1).
 
 Didn’t ask about [Chervinsky](https://www.5.ua/ru/kyev/zasedanye-suda-po-delu-chervynskoho-transliatsyia-323895.html).
 
@@ -3281,7 +3281,7 @@ CNN ran the above pic to illustrate an op-ed about Ukraine[2](#footnote-2). I do
 
 [1](#footnote-anchor-1)
 
-[Z: We are trying to find some way not to retreat](https://www.washingtonpost.com/opinions/2024/03/29/ignatius-zelensky-interview-ukraine-aid-russia/) ([The Washington Post](http://wapo.st), March 29, 2024)
+[Z: We are trying to find some way not to retreat](https://www.washingtonpost.com/opinions/2024/03/29/ignatius-Z-interview-ukraine-aid-russia/) ([The Washington Post](http://wapo.st), March 29, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -3627,7 +3627,7 @@ Turns out he also specializes in *miscoding*.
 
 [2](#footnote-anchor-2)
 
-[With no way out of a worsening war, Z’s options look bad or worse](https://www.washingtonpost.com/world/2024/04/06/ukraine-war-zelensky-options/) ([The Washington Post](http://wapo.st), April 6, 2024)
+[With no way out of a worsening war, Z’s options look bad or worse](https://www.washingtonpost.com/world/2024/04/06/ukraine-war-Z-options/) ([The Washington Post](http://wapo.st), April 6, 2024)
 
 ---
 
@@ -4342,7 +4342,7 @@ And, finally, what Americans think.
 
 [3](#footnote-anchor-3)
 
-[‘March or April’: How Z gave Johnson a deadline for military aid.](https://www.politico.com/news/2024/04/26/march-or-april-how-zelenskyy-gave-johnson-a-deadline-for-military-aid-00154584) *A December meeting between the speaker and Ukrainian president influenced Johnson’s decision to approve military aid for Ukraine* ([Politico](http://politico.com), April 27, 2024)
+[‘March or April’: How Z gave Johnson a deadline for military aid.](https://www.politico.com/news/2024/04/26/march-or-april-how-Z-gave-johnson-a-deadline-for-military-aid-00154584) *A December meeting between the speaker and Ukrainian president influenced Johnson’s decision to approve military aid for Ukraine* ([Politico](http://politico.com), April 27, 2024)
 
 ---
 
@@ -5113,7 +5113,7 @@ This is what fascistic Russia’s genocidal campaign looks like.
 
 [Image]
 
-[Reuters](https://www.youtube.com/watch?v=-NAhynhiXzk) and [The New York Times](https://www.nytimes.com/2024/05/21/world/europe/ukraine-zelensky-interview.html?searchResultPosition=2) sat down with the president for wide-ranging, self-serving (for Z) interviews marking the end of his five years as president[1](#footnote-1).
+[Reuters](https://www.youtube.com/watch?v=-NAhynhiXzk) and [The New York Times](https://www.nytimes.com/2024/05/21/world/europe/ukraine-Z-interview.html?searchResultPosition=2) sat down with the president for wide-ranging, self-serving (for Z) interviews marking the end of his five years as president[1](#footnote-1).
 
 In both interviews, Z remarks that he is most happy spending time with his 11-year old daughter and 19-year old son, who is learning Spanish. [I joined the army at 17 during the Cold War](https://abdymok.substack.com/p/alright?utm_source=publication-search) and was surprised the latter had not already enlisted.
 
@@ -5257,7 +5257,7 @@ As of Monday morning, small groups of Russian groups were reportedly [sneaking a
 
 ---
 
-In keeping with the continuing sluggishness of international press, the transcript/translation of Z’s [pow wow with The New York Times](https://www.nytimes.com/2024/05/21/world/europe/zelensky-interview-times-transcript.html?searchResultPosition=3) was finally published and illustrated by a photo of Ukraine’s president gesticulating.
+In keeping with the continuing sluggishness of international press, the transcript/translation of Z’s [pow wow with The New York Times](https://www.nytimes.com/2024/05/21/world/europe/Z-interview-times-transcript.html?searchResultPosition=3) was finally published and illustrated by a photo of Ukraine’s president gesticulating.
 
 It seems already to have evaporated from foreign press accounts, but the snippet below is continuing to make the rounds:
 
@@ -5680,7 +5680,7 @@ And finally, Chien-Chi Chang’s [Under the Banner. No Escape](https://www.mirro
 
 [1](#footnote-anchor-1)
 
-[Z Shares Emotional Moment With U.S. Veteran at D-Day Ceremony](https://www.nytimes.com/2024/06/06/world/europe/zelensky-d-day-veteran.html). *The veteran, Melvin Hurwitz, embraced the Ukrainian president and called him “the savior of the people.” Mr. Z told Mr. Hurwitz that he and his fellow World War II veterans had “saved Europe”* ([The New York Times](http://nyt.com), June 6, 2024)
+[Z Shares Emotional Moment With U.S. Veteran at D-Day Ceremony](https://www.nytimes.com/2024/06/06/world/europe/Z-d-day-veteran.html). *The veteran, Melvin Hurwitz, embraced the Ukrainian president and called him “the savior of the people.” Mr. Z told Mr. Hurwitz that he and his fellow World War II veterans had “saved Europe”* ([The New York Times](http://nyt.com), June 6, 2024)
 
 ---
 
@@ -5804,7 +5804,7 @@ Ukraine has lost of about 10 GW of capacity in various electricity generation ar
 
 [Image]
 
-The last thing we want is to get in the habit of carping and moaning about shitty articles appearing in the western press about our unenviable predicament. But we’ll make a small exception with the [AP dispatch](https://www.latimes.com/world-nation/story/2024-06-11/zelenskyy-appeals-for-help-with-ukraines-energy-network-as-recovery-conference-opens) appearing in the [Los Angeles Times](http://latimes.com) on June 11[1](#footnote-1) that leaves out completely the part about Z *talking out his ass* at the [beano in Berlin](https://www.urc-international.com/)[2](#footnote-2).
+The last thing we want is to get in the habit of carping and moaning about shitty articles appearing in the western press about our unenviable predicament. But we’ll make a small exception with the [AP dispatch](https://www.latimes.com/world-nation/story/2024-06-11/Z-appeals-for-help-with-ukraines-energy-network-as-recovery-conference-opens) appearing in the [Los Angeles Times](http://latimes.com) on June 11[1](#footnote-1) that leaves out completely the part about Z *talking out his ass* at the [beano in Berlin](https://www.urc-international.com/)[2](#footnote-2).
 
 It is not *news* that Z makes *appeals*. That he doesn’t have a clue about what he’s talking about *is*. This is what we want professional journalists to explore in depth.
 
@@ -5832,7 +5832,7 @@ So, good for him!
 
 [1](#footnote-anchor-1)
 
-[Z appeals for help restoring Ukraine’s besieged energy network](https://www.latimes.com/world-nation/story/2024-06-11/zelenskyy-appeals-for-help-with-ukraines-energy-network-as-recovery-conference-opens) ([The Los Angeles Times](http://latimes.com), June 11, 2024)
+[Z appeals for help restoring Ukraine’s besieged energy network](https://www.latimes.com/world-nation/story/2024-06-11/Z-appeals-for-help-with-ukraines-energy-network-as-recovery-conference-opens) ([The Los Angeles Times](http://latimes.com), June 11, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -5923,7 +5923,7 @@ And, finally, Yuriy posts this video from the front around Lyptsi in Kharkiv reg
 
 [2](#footnote-anchor-2)
 
-[Ukraine wants peace but can’t trust Russia](https://www.politico.eu/article/volodymyr-zelenskyy-war-in-ukraine-summit-on-peace-negotiations-russia-vladimir-putin/). *One thing is clear ahead of this weekend’s peace summit — everyone wants the peace that best fits their interests* ([Politico](http://politico.eu), June 14, 2024)
+[Ukraine wants peace but can’t trust Russia](https://www.politico.eu/article/volodymyr-Z-war-in-ukraine-summit-on-peace-negotiations-russia-vladimir-putin/). *One thing is clear ahead of this weekend’s peace summit — everyone wants the peace that best fits their interests* ([Politico](http://politico.eu), June 14, 2024)
 
 ---
 
@@ -6368,7 +6368,7 @@ Maybe he should focus exclusively on other stuff.
 
 [1](#footnote-anchor-1)
 
-[Amid war setbacks and complaints, Ukraine changes another top general](https://www.washingtonpost.com/world/2024/06/26/ukraine-army-sodol-zelensky-syrsky/). *The criticism, and replacement, of a top general suggests splits opening inside the military amid setbacks in the battle against Russia* ([The Washington Post](http://wapo.st), June 26, 2024)
+[Amid war setbacks and complaints, Ukraine changes another top general](https://www.washingtonpost.com/world/2024/06/26/ukraine-army-sodol-Z-syrsky/). *The criticism, and replacement, of a top general suggests splits opening inside the military amid setbacks in the battle against Russia* ([The Washington Post](http://wapo.st), June 26, 2024)
 
 ---
 
@@ -6464,7 +6464,7 @@ Looking on the positive side, [Russian KIA counts](https://russian-casualties.in
 
 [4](#footnote-anchor-4)
 
-[Z lays out how Ukraine can win, if the West loses its fear of Putin](https://www.inquirer.com/opinion/zelensky-ukraine-war-interview-trudy-rubin-20240630.html). *“It is impossible to help Ukraine with one hand and shake Putin’s hand with the other.”* ([The Philadelphia Inquirer](https://www.inquirer.com/), July 1, 2024)
+[Z lays out how Ukraine can win, if the West loses its fear of Putin](https://www.inquirer.com/opinion/Z-ukraine-war-interview-trudy-rubin-20240630.html). *“It is impossible to help Ukraine with one hand and shake Putin’s hand with the other.”* ([The Philadelphia Inquirer](https://www.inquirer.com/), July 1, 2024)
 
 ---
 
@@ -6522,7 +6522,7 @@ The factory that makes toilet paper in Kyiv region might have to close down beca
 
 Po-faced and a bit snide at first, this Substack is picking up slow speed before gallumphing to a springy sunlight-on-hot-chrome apex, then splitting into rusty metal ringlets that roll and roll and gradually wobble off the shelves like discounted hula hoops.
 
-Here in the land of borshch-eating never-surrender monkeys (last week Z’s government issued another batch of sanctioned merch including the [Z Classic Tee](https://www.duhvoli.com/shortsleeves/p/zelensky-classic-tee-u24)) they’ve been selling radioactive berries and mushrooms for years.
+Here in the land of borshch-eating never-surrender monkeys (last week Z’s government issued another batch of sanctioned merch including the [Z Classic Tee](https://www.duhvoli.com/shortsleeves/p/Z-classic-tee-u24)) they’ve been selling radioactive berries and mushrooms for years.
 
 ---
 
@@ -6550,7 +6550,7 @@ So. Lots of uncertainty.
 
 ---
 
-Trust in Z among Ukrainians has decreased significantly this year, [according to surveys](https://www.kiis.com.ua/?lang=ukr&cat=reports&id=1335&page=1). Confidence in Z abroad has also declined, according to [Pew Research Center](https://www.pewresearch.org/global/2024/07/02/confidence-in-zelenskyy-and-support-for-ukraine/).
+Trust in Z among Ukrainians has decreased significantly this year, [according to surveys](https://www.kiis.com.ua/?lang=ukr&cat=reports&id=1335&page=1). Confidence in Z abroad has also declined, according to [Pew Research Center](https://www.pewresearch.org/global/2024/07/02/confidence-in-Z-and-support-for-ukraine/).
 
 [Image]
 
@@ -6876,7 +6876,7 @@ Kolodka is the surgeon holding the brick in Brendan’s [In One Image](https://w
 
 ---
 
-And, almost finally, [this](https://www.politico.com/news/2024/07/09/zelenskyy-ukraine-trump-00167228):
+And, almost finally, [this](https://www.politico.com/news/2024/07/09/Z-ukraine-trump-00167228):
 
 > **Asked about the prospect that former President Donald Trump could be reelected, the Ukrainian leader took a pragmatic approach: He dodged.**
 >
@@ -7359,7 +7359,7 @@ Yesterday, practicing philosopher Volodymyr Pastukhov used the *dying on this hi
 >
 > And we respect today's tough but strong decision. We will always be thankful for President Biden's leadership. He supported our country during the most dramatic moment in history, assisted us in preventing Putin from occupying our country, and has continued to support us throughout this terrible war.
 >
-> The current situation in Ukraine and all of Europe is no less challenging, and we sincerely hope that America's continued strong leadership will prevent Russian evil from succeeding or making its aggression pay off. - [Z](https://x.com/ZelenskyyUa/status/1815144292182348062)
+> The current situation in Ukraine and all of Europe is no less challenging, and we sincerely hope that America's continued strong leadership will prevent Russian evil from succeeding or making its aggression pay off. - [Z](https://x.com/ZUa/status/1815144292182348062)
 
 ---
 
@@ -7881,7 +7881,7 @@ Z blames battlefield setbacks on the failure of partners to equip three of 14 ne
 
 [1](#footnote-anchor-1)
 
-[The Uneasy Alliance Between Kamala Harris and Z](https://time.com/7005282/kamala-harris-ukraine-volodymyr-zelensky-alliance/) ([Time](https://time.com/7005282/kamala-harris-ukraine-volodymyr-zelensky-alliance/), July 31, 2024)
+[The Uneasy Alliance Between Kamala Harris and Z](https://time.com/7005282/kamala-harris-ukraine-volodymyr-Z-alliance/) ([Time](https://time.com/7005282/kamala-harris-ukraine-volodymyr-Z-alliance/), July 31, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -8782,7 +8782,7 @@ Today’s song of the day: Smile More Often by Rolliks
 
 *Looking to the East *
 
-[Narenda is in town](https://www.hindustantimes.com/india-news/narendra-modi-ukraine-visit-live-updates-volodymyr-zelensky-pm-modi-kyiv-latest-news-today-101724381460188.html). Maybe he and Z can chat about the revival of democratic institutions in India.
+[Narenda is in town](https://www.hindustantimes.com/india-news/narendra-modi-ukraine-visit-live-updates-volodymyr-Z-pm-modi-kyiv-latest-news-today-101724381460188.html). Maybe he and Z can chat about the revival of democratic institutions in India.
 
 Roman has all the details.
 
@@ -9275,7 +9275,7 @@ Looking on the bright side, Z says Ireland is rooting for us.
 
 [Image]
 
-Ukraine’s Peace Formula is part of the Victory Plan and vice versa. We don’t know all the details, but the Kursk incursion part of the puzzle, maybe. So is the reshufflement of Ukraine’s executive branch, which is designed to generate *[new energy](https://www.lemonde.fr/en/international/article/2024/09/04/new-energy-zelensky-explains-ukraine-government-reshuffle_6724776_4.html)*, whatever that means. Don’t ask [Le Monde](https://www.lemonde.fr/en/international/article/2024/09/04/new-energy-zelensky-explains-ukraine-government-reshuffle_6724776_4.html).
+Ukraine’s Peace Formula is part of the Victory Plan and vice versa. We don’t know all the details, but the Kursk incursion part of the puzzle, maybe. So is the reshufflement of Ukraine’s executive branch, which is designed to generate *[new energy](https://www.lemonde.fr/en/international/article/2024/09/04/new-energy-Z-explains-ukraine-government-reshuffle_6724776_4.html)*, whatever that means. Don’t ask [Le Monde](https://www.lemonde.fr/en/international/article/2024/09/04/new-energy-Z-explains-ukraine-government-reshuffle_6724776_4.html).
 
 Commander-in-Chief of Ukraine’s Armed Forces Oleksandr Syrysky, whose pupils look oddly dilated, tells Christiana that invaders stopped advancing towards Pokrovsk six days ago.
 
@@ -9405,7 +9405,7 @@ In other news, Lucy at [The Guardian](http://theguardian.com) is getting a lot o
 
 [2](#footnote-anchor-2)
 
-[The Z Story review – you can feel the humanity radiating from the Ukrainian president](https://www.theguardian.com/tv-and-radio/article/2024/sep/04/the-zelensky-story-review-you-can-feel-the-humanity-radiating-from-the-ukrainian-president) **(**[The Guardian](http://theguardian.com). September 4, 2024**)**
+[The Z Story review – you can feel the humanity radiating from the Ukrainian president](https://www.theguardian.com/tv-and-radio/article/2024/sep/04/the-Z-story-review-you-can-feel-the-humanity-radiating-from-the-ukrainian-president) **(**[The Guardian](http://theguardian.com). September 4, 2024**)**
 
 ---
 
@@ -9497,7 +9497,7 @@ Kamala on Ukraine during [her debate](https://abcnews.go.com/Politics/harris-tru
 
 > […] I believe the reason that Donald Trump says that this war would be over within 24 hours is because he would just give it up. And that's not who we are as Americans. Let's understand what happened here. I actually met with Z a few days before Russia invaded, tried through force to change territorial boundaries to defy one of the most important international rules and norms, which is the importance of sovereignty and territorial integrity. And I met with President Z. I shared with him American intelligence about how he could defend himself. Days later I went to NATO's eastern flank, to Poland and Romania. And through the work that I and others did we brought 50 countries together to support Ukraine in its righteous defense. And because of our support, because of the air defense, the ammunition, the artillery, the javelins, the Abrams tanks that we have provided, Ukraine stands as an independent and free country. If Donald Trump were president, Putin would be sitting in Kyiv right now. And understand what that would mean. Because Putin's agenda is not just about Ukraine. Understand why the European allies and our NATO allies are so thankful that you are no longer president and that we understand the importance of the greatest military alliance the world has ever known, which is NATO. And what we have done to preserve the ability of Z and the Ukrainians to fight for their Independence. Otherwise, Putin would be sitting in Kyiv with his eyes on the rest of Europe. Starting with Poland. And why don't you tell the 800,000 Polish Americans right here in Pennsylvania how quickly you would give up for the sake of favor and what you think is a friendship with what is known to be a dictator who would eat you for lunch.
 
-Z in February 2022 at the Munich Security Conference [reportedly](https://time.com/7005282/kamala-harris-ukraine-volodymyr-zelensky-alliance/) wanted Team USA to impose sanctions on Russia before the invasion, which he did not think would happen, despite the evidence Kamala presented to him in person.
+Z in February 2022 at the Munich Security Conference [reportedly](https://time.com/7005282/kamala-harris-ukraine-volodymyr-Z-alliance/) wanted Team USA to impose sanctions on Russia before the invasion, which he did not think would happen, despite the evidence Kamala presented to him in person.
 
 [Image]
 
@@ -9747,7 +9747,7 @@ And here is David at [The Washington Post](http://wapo.st) wondering if Ukraine 
 
 [Image]
 
-Bitching about the lack of drones might be considered treason, but if Ukraine is fighting “a ceaseless drone war” then Kyiv and its partners should be able, at least, to provide enough of them. The reason Ukraine does not have enough soldiers is because Z [told us](https://english.nv.ua/nation/zelenskyy-no-need-to-mobilize-half-a-million-people-exact-number-required-not-disclosed-50406882.html) there was no reason to mobilize more. As regards attrition as the *sine qua non* of this war, we are reminded of the mechanism by which enemy disorganization and ineffectiveness are measured: the change of entropy.
+Bitching about the lack of drones might be considered treason, but if Ukraine is fighting “a ceaseless drone war” then Kyiv and its partners should be able, at least, to provide enough of them. The reason Ukraine does not have enough soldiers is because Z [told us](https://english.nv.ua/nation/Z-no-need-to-mobilize-half-a-million-people-exact-number-required-not-disclosed-50406882.html) there was no reason to mobilize more. As regards attrition as the *sine qua non* of this war, we are reminded of the mechanism by which enemy disorganization and ineffectiveness are measured: the change of entropy.
 
 Our entropy-based model shows how much information Jamie and David are missing[3](#footnote-3).
 
@@ -9960,7 +9960,7 @@ Our third white male is Professor Snyder, who says *unpredictability* is the sec
 
 [Image]
 
-This sounds like a takeaway from Sean Penn, whose forays into Ukraine have produced unexpected consequences and [bad propaganda](https://www.rollingstone.com/tv-movies/tv-movie-reviews/superpower-sean-penn-volodymyr-zelensky-ukraine-documentary-vanity-project-1234830068/).
+This sounds like a takeaway from Sean Penn, whose forays into Ukraine have produced unexpected consequences and [bad propaganda](https://www.rollingstone.com/tv-movies/tv-movie-reviews/superpower-sean-penn-volodymyr-Z-ukraine-documentary-vanity-project-1234830068/).
 
 [Image]
 
@@ -9996,7 +9996,7 @@ Russian KIA estimates have been especially high the last couple of days.
 
 [3](#footnote-anchor-3)
 
-[Z has a gamechanging plan to win peace](https://www.theguardian.com/commentisfree/2024/sep/21/volodymyr-zelenskyy-peace-jpe-biden-kharkiv-ukraine-russia). *For it to work, Biden must back it – fast* ([The Guardian](http://theguardian.com), September 21, 2024)
+[Z has a gamechanging plan to win peace](https://www.theguardian.com/commentisfree/2024/sep/21/volodymyr-Z-peace-jpe-biden-kharkiv-ukraine-russia). *For it to work, Biden must back it – fast* ([The Guardian](http://theguardian.com), September 21, 2024)
 
 [4](#footnote-anchor-4)
 
@@ -10197,7 +10197,7 @@ One landed in my neighborhood. Two dozen cars were burnt to a crisp. Lots of bro
 
 [3](#footnote-anchor-3)
 
-[Volodymyr Z Has a Plan for Ukraine’s Victory](https://www.newyorker.com/news/the-new-yorker-interview/volodymyr-zelensky-has-a-plan-for-ukraines-victory). *The Ukrainian President on how to end the war with Russia, the empty rhetoric of Vladimir Putin, and what the U.S. election could mean for the fate of his country* ([The New Yorker](http://newyorker.com), September 22, 2024)
+[Volodymyr Z Has a Plan for Ukraine’s Victory](https://www.newyorker.com/news/the-new-yorker-interview/volodymyr-Z-has-a-plan-for-ukraines-victory). *The Ukrainian President on how to end the war with Russia, the empty rhetoric of Vladimir Putin, and what the U.S. election could mean for the fate of his country* ([The New Yorker](http://newyorker.com), September 22, 2024)
 
 [4](#footnote-anchor-4)
 
@@ -10219,7 +10219,7 @@ Woke up early early this morning to find out how Z did w/ Uncle Joe and Kamala.
 
 [Image]
 
-… was the first bunch words I skimmed. The [second](https://www.nytimes.com/2024/09/26/us/ukraine-zelensky-washington-congress.html) was something about Z losing star power on Capitol Hill[2](#footnote-2).
+… was the first bunch words I skimmed. The [second](https://www.nytimes.com/2024/09/26/us/ukraine-Z-washington-congress.html) was something about Z losing star power on Capitol Hill[2](#footnote-2).
 
 The decision to leak a US intelligence assessment to [The New York Times](http://nyt.com) about a controversial key aspect of Z’s Victory Plan might be more significant than the actual assessment, which may or may not be cockeyed.
 
@@ -10353,7 +10353,7 @@ This explains why the article about how JD’s religious conversion caught my ey
 
 [Image]
 
-I also listened to Zanny driving around the Donbas basin, with Ollie and Arkady in tow, marvelling at how flat and confusing everything is[2](#footnote-2). There is a second podcast, titled [The desperation apparent in Volodymyr Z’s American visit](https://www.economist.com/podcasts/2024/09/27/the-desperation-apparent-in-volodymyr-zelenskys-american-visit)**,** that I skipped.
+I also listened to Zanny driving around the Donbas basin, with Ollie and Arkady in tow, marvelling at how flat and confusing everything is[2](#footnote-2). There is a second podcast, titled [The desperation apparent in Volodymyr Z’s American visit](https://www.economist.com/podcasts/2024/09/27/the-desperation-apparent-in-volodymyr-Zs-american-visit)**,** that I skipped.
 
 ---
 
@@ -10666,7 +10666,7 @@ I agree with Oleksandra and do not understand why Ukraine has not yet been given
 
 [Image]
 
-So, [HarperCollins](https://www.google.com.ua/books/edition/The_Showman/gmyUzwEACAAJ?hl=en) this year proposed itself as the only publisher of the condensed (or large-print) version of the *ur*-text of eye-witness Z publicism. One year earlier, [A Message from Ukraine](https://www.amazon.com/Message-Ukraine-Speeches-2019-2022-ebook/dp/B0BGX2HNJ9) contained a preface foretelling the context of the incised line breaks and verse settings. And, before that, there was George Will’s op-ed urging us to [Be Thankful for Z’s Magnificent Resistance to Suppression](https://www.washingtonpost.com/opinions/2022/11/23/zelensky-resistance-ukraine-war/).
+So, [HarperCollins](https://www.google.com.ua/books/edition/The_Showman/gmyUzwEACAAJ?hl=en) this year proposed itself as the only publisher of the condensed (or large-print) version of the *ur*-text of eye-witness Z publicism. One year earlier, [A Message from Ukraine](https://www.amazon.com/Message-Ukraine-Speeches-2019-2022-ebook/dp/B0BGX2HNJ9) contained a preface foretelling the context of the incised line breaks and verse settings. And, before that, there was George Will’s op-ed urging us to [Be Thankful for Z’s Magnificent Resistance to Suppression](https://www.washingtonpost.com/opinions/2022/11/23/Z-resistance-ukraine-war/).
 
 [Image]
 
@@ -10792,7 +10792,7 @@ A shout out to all my friends living in the tropical depression that is Florida.
 
 [Image]
 
-> "They fucked up in 2014," Woodward quoted Biden saying to a close friend in December 2023, according to the [Associated Press](https://apnews.com/article/donald-trump-biden-putin-war-ukraine-russia-zelenskyy-ce9c59f689d3f438264a64b2bfa0aa39), who obtained a copy of Woodward's book [“War”] before its publishing date of October 15. "Barack never took [Russian President Vladimir Putin] seriously." Biden is also quoted as telling the friend that the White House "never should have let Putin just walk in there" and that Washington "did nothing" when Russia invaded.
+> "They fucked up in 2014," Woodward quoted Biden saying to a close friend in December 2023, according to the [Associated Press](https://apnews.com/article/donald-trump-biden-putin-war-ukraine-russia-Z-ce9c59f689d3f438264a64b2bfa0aa39), who obtained a copy of Woodward's book [“War”] before its publishing date of October 15. "Barack never took [Russian President Vladimir Putin] seriously." Biden is also quoted as telling the friend that the White House "never should have let Putin just walk in there" and that Washington "did nothing" when Russia invaded.
 
 [Image]
 
@@ -11231,7 +11231,7 @@ Anne wrote a nice essay[1](#footnote-1).
 
 *A third plan for war*
 
-The gulf between reality and propaganda continues to widen. Our 5-point [Victory Plan,](https://edition.cnn.com/2024/10/16/europe/zelensky-ukraine-victory-plan/index.html) first addressed to leaders in the West, has largely been rejected, and the so-called [Peace Formula](https://war.ukraine.ua/faq/zelenskyys-10-point-peace-plan/) mostly disregarded. Ukraine’s leaders have spent much of 2024 promoting the loopy projects.
+The gulf between reality and propaganda continues to widen. Our 5-point [Victory Plan,](https://edition.cnn.com/2024/10/16/europe/Z-ukraine-victory-plan/index.html) first addressed to leaders in the West, has largely been rejected, and the so-called [Peace Formula](https://war.ukraine.ua/faq/Zs-10-point-peace-plan/) mostly disregarded. Ukraine’s leaders have spent much of 2024 promoting the loopy projects.
 
 [Image]
 
@@ -11644,7 +11644,7 @@ On Tuesday, the Verkhovna Rada voted to mobilize an additional 160,000 conscript
 
 In Kharkiv, meanwhile, last night Russia dropped a FAB 500 — a 500-kilogram (1,100 lb) general purpose bomb with a high-explosive warhead — on a 9-storey residential building, injuring dozens and killing several.
 
-Z [tweeted](https://x.com/ZelenskyyUa/status/1851742621955182743) about the strike, carping about “delayed decisions” of partners. He said their prognostigation means more Russian bombs will be dropped on Ukraine.
+Z [tweeted](https://x.com/ZUa/status/1851742621955182743) about the strike, carping about “delayed decisions” of partners. He said their prognostigation means more Russian bombs will be dropped on Ukraine.
 
 > That is why we must stop Russia together — and do so with all possible force.
 
@@ -11652,7 +11652,7 @@ I agree. To that end, Z should complain less, maybe concentrate less on partners
 
 [1](#footnote-anchor-1)
 
-[With Limited Options, Z Seeks a Path Forward for Ukraine](https://www.nytimes.com/2024/10/29/world/europe/ukraine-zelensky-russia-war.html). *A muted response to Ukraine’s “victory plan” and steep challenges on the battlefield leave Kyiv searching for a Plan B* ([The New York Times](http://nyt.com), October 29, 2024)
+[With Limited Options, Z Seeks a Path Forward for Ukraine](https://www.nytimes.com/2024/10/29/world/europe/ukraine-Z-russia-war.html). *A muted response to Ukraine’s “victory plan” and steep challenges on the battlefield leave Kyiv searching for a Plan B* ([The New York Times](http://nyt.com), October 29, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -12040,7 +12040,7 @@ Mint a million copies.
 
 [1](#footnote-anchor-1)
 
-[Orbán bën thirrje për një armëpushim të shpejtë në Ukrainë, qorton Z: Marrëzi](https://www.syri.net/bote/737627/orban-ben-thirrje-per-nje-armepushim-te-shpejte-ne-ukraine-qorton-zelensky-marrezi/) ([Syri.net](http://syri.net), November 7, 2024)
+[Orbán bën thirrje për një armëpushim të shpejtë në Ukrainë, qorton Z: Marrëzi](https://www.syri.net/bote/737627/orban-ben-thirrje-per-nje-armepushim-te-shpejte-ne-ukraine-qorton-Z-marrezi/) ([Syri.net](http://syri.net), November 7, 2024)
 
 ---
 
@@ -12239,7 +12239,7 @@ If there is no alternative, the gesture can’t even be made. Morality is not pa
 
 At sunrise sections of Kyiv’s Pechersky District resemble a gigantic military community center/army exchange service with soldiers shlepping to and from military hospitals, command posts, grocery stores and coffee kiosks.
 
-> The talk is now [all about Donald Trump](https://www.economist.com/europe/2024/11/07/why-volodymyr-zelensky-may-welcome-donald-trumps-victory) and the waiting game. Will his new administration tilt Ukraine’s way or Russia’s? Can he impose a ceasefire? Will elections follow? For now, there are two dates on Kyiv politicos’ lips: January 20th 2025, the date of Mr Trump’s inauguration, the first moment for any possible ceasefire and lifting of military law, and May 25th, the earliest mooted date for an election. — [The Economist](https://www.economist.com/europe/2024/11/12/volodymyr-zelensky-faces-a-power-struggle-in-2025) (November 12, 2024)
+> The talk is now [all about Donald Trump](https://www.economist.com/europe/2024/11/07/why-volodymyr-Z-may-welcome-donald-trumps-victory) and the waiting game. Will his new administration tilt Ukraine’s way or Russia’s? Can he impose a ceasefire? Will elections follow? For now, there are two dates on Kyiv politicos’ lips: January 20th 2025, the date of Mr Trump’s inauguration, the first moment for any possible ceasefire and lifting of military law, and May 25th, the earliest mooted date for an election. — [The Economist](https://www.economist.com/europe/2024/11/12/volodymyr-Z-faces-a-power-struggle-in-2025) (November 12, 2024)
 
 But the early birds I walk past are not thinking about this. They go about their business as anti-air defense guns boom in the background, shooting down (we hope!) Russian cruise missiles, North Korean ballistic missiles and Iranian drones.
 
@@ -14037,7 +14037,7 @@ The only way to end the war is to punch Vova in the face, and Donald isn’t the
 
 Thank heaven for the activists – masters of Ukraine boosterism whose fantasies of a better way come tumbling down on vlogs, during seminars and in newspaper articles with hardcore obsequiousness. They are admirable. They are energetic. They work up a sweat at the edges of convention, then smash on through with the earnest fecklessness required for [The Washington Post](http://wapo.st).
 
-The defective ammo story has been kicking around for, er, the last two months, but having just watched another fawning blowjob for Z (that sound you hear is the knees of [Stuart Ramsay](https://news.sky.com/story/emotional-zelenskyy-opens-up-on-peace-sacrifice-and-family-in-exclusive-interview-13263437) hitting the floor as he genuflects before the great man), there’s no time like the present for at least $500 million worth of mortar rounds which fizzle and don’t go pop[1](#footnote-1).
+The defective ammo story has been kicking around for, er, the last two months, but having just watched another fawning blowjob for Z (that sound you hear is the knees of [Stuart Ramsay](https://news.sky.com/story/emotional-Z-opens-up-on-peace-sacrifice-and-family-in-exclusive-interview-13263437) hitting the floor as he genuflects before the great man), there’s no time like the present for at least $500 million worth of mortar rounds which fizzle and don’t go pop[1](#footnote-1).
 
 [Image]
 
@@ -14103,7 +14103,7 @@ Footage and pictures emerging hours after the crash purportedly show holes in th
 
 [1](#footnote-anchor-1)
 
-[Z’s slow shift toward negotiating for Ukraine’s future](https://www.washingtonpost.com/world/2024/12/23/ukraine-zelensky-russia-war-negotiations/). A *new U.S. president and battlefield realities appear to be pushing Z, who had long insisted on fighting for every inch of occupied land, to the table* ([The Washington Post](http://wapo.st), December 24, 2024)
+[Z’s slow shift toward negotiating for Ukraine’s future](https://www.washingtonpost.com/world/2024/12/23/ukraine-Z-russia-war-negotiations/). A *new U.S. president and battlefield realities appear to be pushing Z, who had long insisted on fighting for every inch of occupied land, to the table* ([The Washington Post](http://wapo.st), December 24, 2024)
 
 [2](#footnote-anchor-2)
 
