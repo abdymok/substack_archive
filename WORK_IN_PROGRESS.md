@@ -123,3 +123,13 @@ The GitHub connector can read the checkpoint and text files but does not support
 - Matching keys include date, day_of_war, existing title, and canonical URL. The patch does not rewrite or normalize any existing URL.
 - Re-fetched the actual fixed workbook from GitHub as base64 and confirmed its blob SHA remains `1a7a38e3e62571151985f8e2294748faf347bd26`. However, the available connector/runtime has no safe binary handoff from that base64 response into a local spreadsheet editor. The workbook has therefore NOT been modified.
 - Do not claim the master workbook is complete. Apply the patch to the fixed workbook when its binary bytes can be made available to a spreadsheet editor, then audit row count, blanks, and URL preservation.
+
+
+## 2026-10-30 reconciliation continuation
+
+- Rebuilt a full 1,071-row CSV from `1070_posts_with_war_day.csv`, applied the October subtitle patch and verified Day 1709 row, then added 191 additional subtitle values using exact canonical URL slug + publication date + published metadata record matching.
+- Day 380 is correctly represented as `Day 15 Year 2` and `Inertial Ukraine`; both distinct posts retained.
+- Remaining unresolved blanks: 227; Day 1696 is the one intentional blank. See `SUBTITLE_RECONCILIATION_AUDIT_2026-10-30.md`.
+- Reconciled CSV: `1071_posts_with_war_day_reconciled_2026-10-30.csv`.
+- Additional recovery patch: `subtitle_recovery_patch_2026-10-30.csv`.
+- This deliverable is CSV, not XLSX; workbook binary was not rewritten.
