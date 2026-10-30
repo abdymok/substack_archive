@@ -3,23 +3,25 @@
 ## Outcome
 
 - Starting workbook: 1,070 posts.
-- October patch: 30 nonblank existing subtitle values applied; 1 blank patch row retained; one verified Day 1709 row added.
-- Newly recovered from the published Substack metadata export: **191** subtitles.
-- New recovery method: exact canonical URL slug + exact publication date + `is_published=true` + one unique nonblank subtitle record. No title-only guesses.
-- 2023–2025 redacted archive files (`23_redact.md`, `24_redact.md`, `25_redact.md`) were reviewed as supporting source material. They did not justify additional safe fills among the remaining blanks.
-- Day 380 is confirmed as two separate posts: `Day 15 Year 2` (blank subtitle) and `Inertial Ukraine` / `Win the war, go extinct`. The reconciled CSV preserves both titles and URLs correctly.
+- October patch: 30 nonblank existing subtitle values applied; one blank patch row retained; one verified Day 1709 row added.
+- Newly recovered in this pass: **192** subtitles from published Substack metadata, with archive corroboration where available.
+- 191 rows matched by exact canonical URL slug + exact publication date + `is_published=true` + one unique nonblank metadata record.
+- One additional row (workbook row 49, Day 400) matched by exact date + title + unique published metadata record, independently corroborated by `23_redact.md`. This is necessary because the two March 30 posts appear in a different order in the source CSV and workbook.
+- No title-only guesses were used.
+- 2023–2025 redacted archive files (`23_redact.md`, `24_redact.md`, `25_redact.md`) were reviewed. Remaining same-day title mismatches were not filled unless a unique post match was supported.
+- Day 380 is two separate posts: `Day 15 Year 2` (blank subtitle) and `Inertial Ukraine` / `Win the war, go extinct`. The source-order CSV preserves both titles and URLs.
 - Day 1696 remains intentionally blank.
 
 ## New file totals
 
-- Rows in reconciled CSV: **1071**.
-- Subtitles filled by this additional pass: **191**.
-- Remaining unresolved blanks from the prior audit: **227**.
-- Plus one intentional blank (Day 1696), for **228** blank subtitle cells in total.
+- Rows in reconciled CSV: **1,071**.
+- Additional subtitle fills: **192**.
+- Remaining unresolved blanks from the prior audit: **226**.
+- Plus one intentional blank (Day 1696), for **227** blank subtitle cells in total.
 
 ## Remaining unresolved blanks by year
 
-- 2023: 42
+- 2023: 41
 - 2024: 76
 - 2025: 84
 - 2026: 25
@@ -35,7 +37,6 @@
 | 33 | 2023-03-09 | 379 | Day 379ish |
 | 34 | 2023-03-10 | 380 | Day 380 |
 | 47 | 2023-03-25 | 395 | Day 395 |
-| 49 | 2023-03-30 | 400 | Day 400 |
 | 51 | 2023-03-31 | 401 | Day 401 |
 | 69 | 2023-05-04 | 435 | Day 434 |
 | 83 | 2023-05-21 | 452 | Day 452 |
@@ -258,8 +259,8 @@
 
 ## Files
 
-- `1071_posts_with_war_day_reconciled_2026-10-30.csv`: full 1,071-row reconciled dataset, including October updates and Day 1709.
-- `subtitle_recovery_patch_2026-10-30.csv`: the 191 additional source-backed subtitle fills, with source post IDs.
+- `1071_posts_with_war_day_reconciled_2026-10-30.csv`: full 1,071-row dataset in the source CSV's row order, with October updates, Day 1709, and the 191 strict URL/date metadata fills. It is not a row-for-row replacement of the XLSX.
+- `subtitle_recovery_patch_2026-10-30.csv`: the 192 additional fills keyed to workbook row numbers, with source post IDs and matching basis.
 - `SUBTITLE_RECONCILIATION_AUDIT_2026-10-30.md`: this audit.
 
-The reconciled CSV is a CSV deliverable, not a replacement XLSX. It opens directly in Excel or LibreOffice. No XLSX binary was rewritten in this pass.
+The reconciled CSV opens in Excel or LibreOffice, but it is not an XLSX replacement. The original XLSX binary has not been rewritten.
