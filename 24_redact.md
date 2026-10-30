@@ -144,6 +144,8 @@ Russia’s attacks have killed dozens and wounded hundreds over the last several
 
 *Date: 2024-01-04 | Status: Published | Audience: only_paid*
 
+*Prisoners, borders, and balloons*
+
 [Image]
 
 On the Ukraine jacket, [prisoner of war exchange](https://www.reuters.com/world/europe/russia-ukraine-stage-big-pow-exchange-after-uae-mediation-2024-01-03/):
@@ -266,6 +268,8 @@ As of this writing early Monday morning, at least a dozen Ту-95МС strategic 
 
 *Date: 2024-01-08 | Status: Published | Audience: only_paid*
 
+*Missiles across Ukraine*
+
 [Image]
 
 Monday began with an air alert. Ballistic and cruise missiles. Kyiv was not among the targets. Kharkiv, Krivyi Rih, Zaporizhia and Dnipro were hit. Photos of the damage will be posted to the internet in the upcoming hours, along with a report from the Air Force about how many missiles were fired and intercepted.
@@ -309,6 +313,8 @@ US lawmakers have yet to agree on a supplemental bill that links tighter border 
 ## Day 685
 
 *Date: 2024-01-09 | Status: Published | Audience: only_paid*
+
+*Samuel Charap's White House visits*
 
 [Video: https://youtu.be/QnccxyatrD0]
 
@@ -420,6 +426,8 @@ Elections here are not scheduled until the war ends. Like Argentina, Ukraine is 
 ## Day 688 
 
 *Date: 2024-01-12 | Status: Published | Audience: only_paid*
+
+*The economy, measured*
 
 [Image]
 
@@ -557,6 +565,8 @@ These are the times of Khmelnytsky, Petliura, Bandera and Zaluzhny. What Z *feel
 
 *Date: 2024-01-18 | Status: Published | Audience: only_paid*
 
+*Taiwan's democratic success*
+
 In the way of argumentative cantankerousness, one of my grievances is governance as represented by Z, upon whose unshaven head I empty the vial of Taiwan’s continued democratic success. This might be why Ukraine’s flag flies in Tapei City, but not the other way around.
 
 [Image]
@@ -592,6 +602,8 @@ I am a big fan of radical feminism!
 ## Day 3,650
 
 *Date: 2024-01-19 | Status: Published | Audience: only_paid*
+
+*A decade of revolution*
 
 [Image]
 
@@ -685,6 +697,8 @@ That’s because we want to be running miles at this pace by September.
 
 *Date: 2024-01-22 | Status: Published | Audience: only_paid*
 
+*Ten years of war*
+
 [Image]
 
 The numbers add up: 365 + 365 = 730 + 2,920 = ten years since the start of the war (February 20, 2014), and the second anniversary of the start of **The Great War** on February 23/24, 2022[1](#footnote-1). **That’s a total of 3,650 days of war**.
@@ -706,6 +720,8 @@ Happy [Unity Day](https://egypt.mfa.gov.ua/en/news/43971-22-sichnya-deny-soborno
 ## Day 699
 
 *Date: 2024-01-23 | Status: Published | Audience: only_paid*
+
+*41 enemy projectiles*
 
 [Image]
 
@@ -752,6 +768,8 @@ Polls show continued declining public trust in Z, who is a political corpse[1](#
 ## Day 700 
 
 *Date: 2024-01-24 | Status: Published | Audience: only_paid*
+
+*Phase Three continues*
 
 We are still smack in the middle of Phase 3.
 
@@ -1046,6 +1064,8 @@ Or maybe [this](https://www.facebook.com/karl.volokh/posts/pfbid08SZueckF3KYzSu2
 
 *Date: 2024-01-30 | Status: Published | Audience: only_paid*
 
+*Zaluzhny, and the rumors*
+
 Z’s heart might in the right place. But his brain is scrambled. This will not help future forced conscription and prosecution of the war. Ukraine’s silly, unreliable ally, meanwhile, has also been unhelpful. US lawmakers, led by MAGA maniacs, don’t appear eager to vote for further military assistance.
 
 **Ejecting Zaluzhny**
@@ -1067,6 +1087,8 @@ We got the answer to the second question yesterday evening. Most Ukrainians woul
 ## Day 707 
 
 *Date: 2024-01-31 | Status: Published | Audience: only_paid*
+
+*The commander-in-chief's response*
 
 [Image]
 
@@ -1138,6 +1160,8 @@ The Aidar Battalion in which Zhenya served during 2014 was a rag tag bunch. The 
 
 *Date: 2024-02-02 | Status: Published | Audience: only_paid*
 
+*Imminent is not inevitable*
+
 [Image]
 
 Ukraine’s top leaders continue to misunderstand the difference in meaning between *imminent* and *inevitable*. These are synonyms with a difference: An event that is “imminent” is about to happen, occur or take place very soon, especially an event (like a decree dismissing the commander-in-chief of Ukraine’s Armed Forces). An “inevitable” event is something that’s impossible to avoid or prevent, for example, death.
@@ -1162,6 +1186,8 @@ And we don’t need these daily 6-minute pep talks. Maybe outsource them to a sp
 
 *Date: 2024-02-05 | Status: Published | Audience: only_paid*
 
+*Mike Johnson's phone calls*
+
 [Image]
 
 Not a good look these days for US Speaker Mike, who speed-walks in the capitol [faking smartphone calls](https://www.nytimes.com/2024/02/02/us/politics/mike-johnson-speaker-phone.html?searchResultPosition=1) in order to avoid questions. The entire MAGA-moron wing of the GOP is in big, big trouble. These lawmakers can no longer claim to support Ukraine and Trump: it’s an either or proposition.
@@ -1183,6 +1209,8 @@ The weather has been weird. I thought yesterday that winter is over, but I just 
 ## Day 713
 
 *Date: 2024-02-06 | Status: Published | Audience: only_paid*
+
+*Surveillance of journalists*
 
 [Image]
 
@@ -1224,6 +1252,8 @@ More than 1,000 more dead Russian invaders.
 
 *Date: 2024-02-07 | Status: Published | Audience: only_paid*
 
+*Another morning of missiles*
+
 [Image]
 
 Russia attacked again early this morning with more than two dozen X-101/X-555/X-55 cruise missiles, three Kalibr cruise missiles and 15 Shahed-type attack UAVs.
@@ -1249,6 +1279,8 @@ Only are closing in on the 10-year anniversary of the start of Russia’s invasi
 ## Day 715 
 
 *Date: 2024-02-08 | Status: Published | Audience: only_paid*
+
+*The end of Zaluzhny*
 
 [Image]
 
@@ -1359,6 +1391,8 @@ David Frum ([Twitter](https://twitter.com/davidfrum/status/1755573556568535176),
 ## Day 717
 
 *Date: 2024-02-10 | Status: Published | Audience: only_paid*
+
+*The intelligence committee visits*
 
 [Image]
 
@@ -1509,6 +1543,8 @@ Mike probably wants to chit chat about the idiotic linkage of the measure to bor
 ## Day 722 
 
 *Date: 2024-02-15 | Status: Published | Audience: only_paid*
+
+*Another morning in the metro*
 
 [Image]
 
@@ -1859,6 +1895,8 @@ Words matter. Not making sense is a bad idea in the middle of a war.
 
 *Date: 2024-02-26 | Status: Published | Audience: only_paid*
 
+*Wagnergate and the CIA*
+
 The feature published in [The New York Times](http://nyt.com) about turbulent ties between the CIA and Ukraine’s 5th Directorate is interesting for the info that was edited out[1](#footnote-1), for example Wagnergate[2](#footnote-2). Also, no mention of supplements, sex or magnitism.
 
 [Image]
@@ -1943,6 +1981,8 @@ On the macroeconomic jacket, I lingered on page 28 of Ukraine Economic Outlook�
 ## Day 735 
 
 *Date: 2024-02-28 | Status: Published | Audience: only_paid*
+
+*Mike Johnson's White House meeting*
 
 The dense fog between Speaker Mike’s ears appeared to lift ever so slightly during the beano in the White House on Tuesday.
 
@@ -2415,6 +2455,8 @@ That means we are stuck in the situation outlined in former Commander-in-Chief V
 
 *Date: 2024-03-10 | Status: Published | Audience: only_paid*
 
+*The Pope's white flag*
+
 The pope [says](https://www.reuters.com/world/europe/pope-says-ukraine-should-have-courage-white-flag-negotiations-2024-03-09/) we should raise the white flag and negotiate with putin.
 
 [Image]
@@ -2467,6 +2509,8 @@ And, finally, Russia [reportedly](https://gazeta.ua/ru/articles/np/_veroyatnoe-u
 
 *Date: 2024-03-12 | Status: Published | Audience: only_paid*
 
+*The Senate's Ukraine warning*
+
 [Image]
 
 [Tebowing](https://tebowing.com/).
@@ -2504,6 +2548,8 @@ Berliner Zeitung published a [nice story](https://www.berliner-zeitung.de/mensch
 ## Day 748 
 
 *Date: 2024-03-13 | Status: Published | Audience: only_paid*
+
+*No demobilization during war*
 
 [Image]
 
@@ -2944,6 +2990,8 @@ It’s 05:25 on Friday. I’ll continue this post after the latest barrage of mi
 
 *Date: 2024-03-24 | Status: Published | Audience: only_paid*
 
+*Moscow's conspiracy theories*
+
 [Image]
 
 Lots of missiles the last couple of days. Kyiv Region Military Administration [says](https://t.me/kyivoda/15492) they shot down 10 missiles this morning.
@@ -2969,6 +3017,8 @@ And, finally, [this](https://www.reuters.com/world/us/us-house-democrats-offer-p
 ## Day 761
 
 *Date: 2024-03-25 | Status: Published | Audience: only_paid*
+
+*Tsirkon over Kyiv*
 
 [Image]
 
@@ -3011,6 +3061,8 @@ Well, er, not that posh. Let’s just say posher than [Borshchahivka](https://en
 ## Day 762
 
 *Date: 2024-03-26 | Status: Published | Audience: only_paid*
+
+*Cheap Hokas, expensive war*
 
 [Image]
 
@@ -3287,6 +3339,8 @@ Yuriy has all the details:
 
 *Date: 2024-04-01 | Status: Published | Audience: only_paid*
 
+*Havana Syndrome and Wagnergate*
+
 [Image]
 
 Is there any connection between [Wagnergate](https://abdymok.substack.com/p/coming-to-a-theater-near-you), [Tootsie Club](https://en.tootsie.kiev.ua/) and Ukraine’s subjectivity[1](#footnote-1)?
@@ -3370,6 +3424,8 @@ Yep.
 ## Day 770 
 
 *Date: 2024-04-03 | Status: Published | Audience: only_paid*
+
+*Havana Syndrome's spy trail*
 
 [Image]
 
@@ -3695,6 +3751,8 @@ Total volume of financing of the UAH state budget in 2023 amounted to UAH 2.1 tr
 
 *Date: 2024-04-10 | Status: Published | Audience: only_paid*
 
+*Mike Johnson treads carefully*
+
 [Image]
 
 Isn’t ready to go yet? What the fuck has Speaker Mike been *doing* for six months?
@@ -3887,6 +3945,8 @@ Finally, street fighting with Humvees. The 57th? Wait for it:
 
 *Date: 2024-04-16 | Status: Published | Audience: only_paid*
 
+*Why Israel gets protection*
+
 [Image]
 
 Half the fun of riding a bicycle is when it rains.
@@ -3912,6 +3972,8 @@ This is indeed a big moment for Mike, who delayed consideration of aid to Ukrai
 ## Day 784 
 
 *Date: 2024-04-17 | Status: Published | Audience: only_paid*
+
+*Chernihiv and the missing billions*
 
 The big news this morning is Russia’s missile attack on downtown [Chernihiv](https://www.google.com/maps/place/Chernihiv,+Chernihiv+Oblast,+14000/@51.3845418,31.2146062,8.75z/data=!4m6!3m5!1s0x46d5488971ee3597:0x2a2348d3e76038b5!8m2!3d51.4982!4d31.2893499!16zL20vMDJwMW1k?entry=ttu), about a 3.5-hour (fast) bicycle ride north of Kyiv.
 
@@ -4037,6 +4099,8 @@ Have a wonderful weekend!
 
 *Date: 2024-04-20 | Status: Published | Audience: only_paid*
 
+*The cherry blossoms survive*
+
 [Image]
 
 Daniel C. Dennett is dead. There will be lots of obits. [Here](https://www.nytimes.com/2024/04/19/books/daniel-dennett-dead.html) is one. [Here](https://arstechnica.com/science/2024/04/philosopher-daniel-dennett-dead-at-82/) is a better one. I thought of him under the Sakuras.
@@ -4064,6 +4128,8 @@ I am growing increasingly tired of Z blabbing about what western democracies sho
 ## Day 789
 
 *Date: 2024-04-22 | Status: Published | Audience: only_paid*
+
+*Johnson's aid vote*
 
 [Image]
 
@@ -4221,6 +4287,8 @@ Have a wonderful weekend!
 
 *Date: 2024-04-28 | Status: Published | Audience: only_paid*
 
+*Missiles over Ukraine*
+
 Some 34 air-, ground- and sea-launched missiles yesterday morning:
 
 - Nine X-101/X-555 cruise missiles from Tu-95 MS strategic aviation aircraft (launch area Saratov region - Russian Federation),
@@ -4281,6 +4349,8 @@ And, finally, what Americans think.
 ## Day 796
 
 *Date: 2024-04-29 | Status: Published | Audience: only_paid*
+
+*Electronic warfare tested*
 
 [Image]
 
@@ -4370,6 +4440,8 @@ We decided not to write about this on [Day 792](https://abdymok.substack.com/p/d
 
 *Date: 2024-05-01 | Status: Published | Audience: only_paid*
 
+*The Ocheretyne salient*
+
 [Image]
 
 The invaders are advancing in eastern Ukraine. This could last most of May, maybe into June.
@@ -4409,6 +4481,8 @@ Donate to his unit!
 ## Day 799
 
 *Date: 2024-05-02 | Status: Published | Audience: only_paid*
+
+*Fortifications, blindness, and morale*
 
 Enemy kill rates are rising. Always a morale booster.
 
@@ -4457,6 +4531,8 @@ Yesterday, Z decided to sack at least one *miscoding* expert, Mssr Illia Vitiuk,
 ## Day 800
 
 *Date: 2024-05-03 | Status: Published | Audience: only_paid*
+
+*Eight hundred days*
 
 [Image]
 
@@ -4700,6 +4776,8 @@ https://tinyurl.com/2x9cr2aj
 ## Day 810 
 
 *Date: 2024-05-13 | Status: Published | Audience: only_paid*
+
+*Russia pushes toward Kharkiv*
 
 [Image]
 
@@ -5119,6 +5197,8 @@ Have a great weekend!
 
 *Date: 2024-05-26 | Status: Published | Audience: only_paid*
 
+*Kyiv Day under fire*
+
 [Image]
 
 Most of the missiles during today’s first missile attack were aimed at Khmelnytsky. As of this writing (10.30), Russians were still shooting missiles at Khmelnytsky, Zhytomyr and the capital.
@@ -5282,6 +5362,8 @@ Stefaniia is a Ukrainian journalist who leaving the Reuters news bureau in Kyiv 
 
 *Date: 2024-05-30 | Status: Published | Audience: only_paid*
 
+*Missiles, F-16s, and sleep*
+
 Ukraine’s Air Force shot down this morning seven of 11 X-101/X-555 cruise missiles launched from Russian strategic bombers and all 32 Iranian Shahed drones buzzing around Khmelnytsky, Dnipro, Kirovohrad, Zaporizhia, Odesa, Kherson, Vinnytsia and Kyiv regions. None of the eight S-300/S-400 anti-aircraft guided missiles aimed at Kharkiv region were intercepted.
 
 [Image]
@@ -5367,6 +5449,8 @@ Don’t get me wrong. The rumours cited by Birnbaum are, of course, unimpeachabl
 ## Day 831
 
 *Date: 2024-06-03 | Status: Published | Audience: only_paid*
+
+*Electricity rationing returns*
 
 [Image]
 
@@ -5759,6 +5843,8 @@ So, good for him!
 ## Day 842 
 
 *Date: 2024-06-14 | Status: Published | Audience: only_paid*
+
+*The war's eleventh year*
 
 [Image]
 
@@ -6192,6 +6278,8 @@ Kellogg and Fleitz authored a paper, titled “[America First, Russia, & Ukraine
 
 *Date: 2024-06-26 | Status: Published | Audience: only_paid*
 
+*Prisoners, ammunition, and law*
+
 [Image]
 
 On the flip side of the card is [Article 75 of the Geneva Convention.](https://ihl-databases.icrc.org/en/ihl-treaties/api-1977/article-75#:~:text=Any%20person%20arrested%2C%20detained%20or,these%20measures%20have%20been%20taken.) Someone hung the butt on Reiterska.
@@ -6548,6 +6636,8 @@ Turned out Tucker [lied](https://t.me/tayni_deputata/9473).
 
 *Date: 2024-07-05 | Status: Published | Audience: only_paid*
 
+*Yermak's power, Z's voice*
+
 [Image]
 
 The wall mural taking shape reminds me of Lane 8 Survive, ft Channy from Poliça.
@@ -6669,6 +6759,8 @@ This, er, is bullshit.
 ## Day 866ish
 
 *Date: 2024-07-08 | Status: Published | Audience: only_paid*
+
+*Okhmatdyt under attack*
 
 No sooner had I posted the last installment of our little war chronicle did Russia launch dozens of missiles at various cities in Ukraine, including Kyiv.
 
@@ -7259,7 +7351,7 @@ Yesterday, practicing philosopher Volodymyr Pastukhov used the *dying on this hi
 
 *Date: 2024-07-22 | Status: Published | Audience: only_paid*
 
-* *
+*Biden's decision*
 
 [Image]
 
@@ -7370,6 +7462,8 @@ Whatever happens next, the frame seems be shifting, ever so slightly, thanks, in
 ## Day 882 
 
 *Date: 2024-07-24 | Status: Published | Audience: only_paid*
+
+*War profiteering at home*
 
 [Image]
 
@@ -7640,6 +7734,8 @@ Unfortunately, something has to give. In order to accomplish Z’s goals, Ukrain
 ## Day 888 
 
 *Date: 2024-07-30 | Status: Published | Audience: only_paid*
+
+*Commanders and discipline*
 
 Ukraine has no Uniform Code of Military Justice. There are no Article 15s. That may explain, in part, why commanders of the 80th Halytska Separate Airborne Assault Brigade [complained publicly](https://m.censor.net/en/video_news/3502116/komandyra_80brygady_ishkulova_hochut_znyaty_z_posady) about plans to replace their commander Colonel Emil Ishkulov. Maybe [Shawn Ryan](https://www.youtube.com/@ShawnRyanShow) will do a podcast about the soap opera. Until then, we are forced to rely on sweaty Mariana Bezuhla, a member of parliament and a lightning rod for war-related confusion, for details.
 
@@ -7920,6 +8016,8 @@ I had been unaware of speed-dating and the [Bumble dating app](https://bumble.co
 ## Day 895 
 
 *Date: 2024-08-06 | Status: Published | Audience: only_paid*
+
+*Kickbacks on fortifications*
 
 [Image]
 
@@ -8732,6 +8830,8 @@ And, finally, it appears someone has flown the coop.
 
 *Date: 2024-08-26 | Status: Published | Audience: only_paid*
 
+*Anticipating the next attack*
+
 We don’t want our words to become a war-cry, an imperfect substitute for a clenched fist. So, we use maps and videos.
 
 [Image]
@@ -8957,6 +9057,8 @@ Apparently not.
 
 *Date: 2024-08-31 | Status: Published | Audience: only_paid*
 
+*Pokrovsk and Kursk*
+
 [Image]
 
 Posters of Azov regiment soldiers, most of whom were killed in early 2022, on Sophia Square in Kyiv.
@@ -8980,6 +9082,8 @@ Blast from the past: 15 years ago, start of school.
 ## Day 922
 
 *Date: 2024-09-02 | Status: Published | Audience: only_paid*
+
+*Pokrovsk packs its bags*
 
 [Image]
 
@@ -9076,6 +9180,8 @@ And, finally, this hagiography, "[The Iron General: Lessons of Humanity](https:/
 ## Day 924
 
 *Date: 2024-09-04 | Status: Published | Audience: only_paid*
+
+*Long-range weapons, short leash*
 
 [Image]
 
@@ -9498,6 +9604,8 @@ On military matters, it might be better for Z to talk less and be thought a fool
 
 *Date: 2024-09-14 | Status: Published | Audience: only_paid*
 
+*Ukraine's long-range argument*
+
 > “Anyone who just sees on a map where Russia is striking from, where Russia is preparing forces and holding reserves, where it has military facilities and using logistics - anyone who sees all of that obviously understands what Ukraine's long-range capability is for. We spoke at length about this with Anthony Blinken and David Lammy - the US Secretary of State and the British Foreign Secretary.... I hope that after our conversation, there can no longer be a single unanswered question about why Ukraine needs sufficient long-range capability,” Z said.
 
 No one wants to give Ukraine’s president the secret codes to operate sophisticated weapons systems.
@@ -9726,6 +9834,8 @@ No one wants to give Russian spies in Ukraine access to TERCOM datasets, which e
 
 *Date: 2024-09-19 | Status: Published | Audience: only_paid*
 
+*Crimea under international rule*
+
 [Image]
 
 The first thing that caught my eye this morning was this:
@@ -9944,6 +10054,8 @@ Strategic ambiguity should not be confused with strategic ambivalence, which ref
 
 *Date: 2024-09-25 | Status: Published | Audience: only_paid*
 
+*Ukraine's failed 2024 mission*
+
 [Image]
 
 Ukraine’s delegation at the UNSC yesterday looked miserable. More fresh vegetables should be on the menu.
@@ -10018,6 +10130,8 @@ And, finally, the second interview with retired military intelligence operator O
 ## Day 946
 
 *Date: 2024-09-26 | Status: Published | Audience: only_paid*
+
+*The Victory Plan backfires*
 
 [Image]
 
@@ -10231,6 +10345,8 @@ Methylene dioxyamphetamine came to mind. And the Hotel Moskva, where I spent wee
 
 *Date: 2024-09-30 | Status: Published | Audience: only_paid*
 
+*Religion, strategy, and Vance*
+
 We spent most of the weekend thinking about explanatory knowledge, which burbled up a couple hundred thousand years ago, along with religion as an example of a collection of memes which an be reproduced but are basically not true.
 
 This explains why the article about how JD’s religious conversion caught my eye. Remember JD? He’s the American politician [who does not care](https://www.yahoo.com/news/dont-care-jd-vance-ukraine-183115792.html) about Ukraine[1](#footnote-1).
@@ -10410,6 +10526,8 @@ Same goes for the [Poisoned Drink Game](https://www.darksidedisplays.com/poisone
 
 *Date: 2024-10-04 | Status: Published | Audience: only_paid*
 
+*AI war lab and energy*
+
 The AI war lab in Ukaine Alex is helping create might resemble a big ice cube if Z fails to get his act together before temperatures drop below zero.
 
 [Video: https://youtu.be/ArWlsMZjLk0]
@@ -10462,6 +10580,8 @@ Have a great weekend!
 
 *Date: 2024-10-07 | Status: Published | Audience: only_paid*
 
+*The draft-dodging business*
+
 [Image]
 
 Ukraine’s billion-dollar dodge-the-draft business is [booming](https://www.scmp.com/news/world/russia-central-asia/article/3281193/ukraine-seizes-us6-million-cash-jewellery-official-accused-helping-draft-dodgers). The going price for a bone spur diagnosis is in the $10-$15K range.
@@ -10489,6 +10609,8 @@ In [fluid dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics), a **Mach wave
 ## Day 958
 
 *Date: 2024-10-08 | Status: Published | Audience: only_paid*
+
+*NATO membership, postponed*
 
 [Image]
 
@@ -10757,6 +10879,8 @@ There is a lot wrong with Keith’s essay. As I recall, he was one of the many j
 ## Day 964
 
 *Date: 2024-10-14 | Status: Published | Audience: only_paid*
+
+*Blackouts and stair-running*
 
 [Image]
 
@@ -11065,6 +11189,8 @@ With only a couple of weeks before the 2024 US Presidential Election, the last t
 
 *Date: 2024-10-22 | Status: Published | Audience: only_paid*
 
+*The front keeps moving*
+
 Jehovah’s witnesses lugging their bible course kits to [Golden Gate](https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv), where they will stand around smiling at people until about 18.00. Last time I checked, they work in shifts.
 
 [Image]
@@ -11102,6 +11228,8 @@ Anne wrote a nice essay[1](#footnote-1).
 ## Day 973 
 
 *Date: 2024-10-23 | Status: Published | Audience: only_paid*
+
+*A third plan for war*
 
 The gulf between reality and propaganda continues to widen. Our 5-point [Victory Plan,](https://edition.cnn.com/2024/10/16/europe/zelensky-ukraine-victory-plan/index.html) first addressed to leaders in the West, has largely been rejected, and the so-called [Peace Formula](https://war.ukraine.ua/faq/zelenskyys-10-point-peace-plan/) mostly disregarded. Ukraine’s leaders have spent much of 2024 promoting the loopy projects.
 
@@ -11617,6 +11745,8 @@ Yesterday’s post chronicles the conscription problem and who caused it[2](#foo
 ## Day 985
 
 *Date: 2024-11-04 | Status: Published | Audience: only_paid*
+
+*Tiger Team's accurate forecast*
 
 [Image]
 
@@ -12383,6 +12513,8 @@ The second funniest thing (after the OIG report) I read this morning was this:
 
 *Date: 2024-11-19 | Status: Published | Audience: only_paid*
 
+*Hlukhiv and the missile war*
+
 Russia attacked a dormitory yesterday in Hlukhiv, Sumy region, killing and wounding scores. As of this writing the death toll had increased to eight, including children.
 
 ---
@@ -12550,6 +12682,8 @@ Clayton is priceless in a vapid kind of way. He’ll be back with updates.
 ## Day 1003 (contd) 
 
 *Date: 2024-11-21 | Status: Published | Audience: everyone*
+
+*Russia tests a new missile*
 
 How much time does Team USA need to *assess* what this is?
 
@@ -13243,6 +13377,8 @@ I never knew Olaf was so short.
 
 *Date: 2024-12-04 | Status: Published | Audience: only_paid*
 
+*A Christmas list*
+
 [Image]
 
 **My Christmas List:**
@@ -13460,6 +13596,8 @@ Turns out that was just a conspiracy theory amplified by Team Russia, Team China
 ## Day 1021
 
 *Date: 2024-12-10 | Status: Published | Audience: only_paid*
+
+*The mortar shell scandal*
 
 [Image]
 
@@ -13847,6 +13985,8 @@ Many people have asked me where/how they can buy one. Unfortunately, as with [Ve
 
 *Date: 2024-12-20 | Status: Published | Audience: only_paid*
 
+*Missiles over central Kyiv*
+
 [Image]
 
 Turns out Russia erased [a couple of buildings in downtown Kyiv](https://www.google.com/maps/place/Antonovycha+St,+74,+Kyiv,+Kyiv+Oblast,+02000/@50.4281788,30.5163824,260a,35y,222.51h,44.93t/data=!3m1!1e3!4m6!3m5!1s0x40d4cf1e65341df9:0x84ec37d23abe33f!8m2!3d50.4261288!4d30.5140672!16s%2Fg%2F11fz9zlk19?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) across from the big Catholic church on Antonovych St. (that has been under repair for decades). One person was killed, scores wounded. There are no military facilities in area.
@@ -13860,6 +14000,8 @@ We must ask ourselves what the fuck Team USA and Team Europe are doing to stop t
 ## Day 1034
 
 *Date: 2024-12-23 | Status: Published | Audience: only_paid*
+
+*Trump's Pentagon picks*
 
 On Saturday I took a look at the damage caused by the missile attack on Friday.
 
@@ -13972,6 +14114,8 @@ In quantum physics, according to the [Born rule](https://en.wikipedia.org/wiki/B
 ## Day 1038
 
 *Date: 2024-12-27 | Status: Published | Audience: only_paid*
+
+*Azerbaijan's downed airliner*
 
 [Image]
 
