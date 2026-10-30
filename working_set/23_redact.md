@@ -880,11 +880,11 @@ Not that that’s been an issue lately, but still.
 
 Even more galling, duh, is when it works. Amidst the above-mentioned paraphernalia frenzy I’ve found myself falling head over heels for articles about corruption and the [crashingly unsexy](https://kyivindependent.com/opinion/andrii-borovyk-a-year-of-war-how-is-ukraine-transforming-right-now) Andriy Borovyk, who champions Ukraine’s form-follows-function fuzz, all designed quite smartly, built to last and affordable.
 
-Ukraine’s aisles of anti-corruption *bricolage* teem with generations of yellow and blue gadgets that all interlock and look really neat and just make sense to some upstart peckerwood flak at [The Washington Post](https://www.washingtonpost.com/opinions/2023/02/27/ukraine-war-zelensky-fighting-corruption/)[1](#footnote-1). I sometimes pause while my brain froths away over some junk (no matter the context) and I think, you know, this would be much easier with a snappy new open-bolt, blowback-operated submachine gun.
+Ukraine’s aisles of anti-corruption *bricolage* teem with generations of yellow and blue gadgets that all interlock and look really neat and just make sense to some upstart peckerwood flak at [The Washington Post](https://www.washingtonpost.com/opinions/2023/02/27/ukraine-war-Z-fighting-corruption/)[1](#footnote-1). I sometimes pause while my brain froths away over some junk (no matter the context) and I think, you know, this would be much easier with a snappy new open-bolt, blowback-operated submachine gun.
 
 [1](#footnote-anchor-1)
 
-[Z takes on Ukraine’s top internal enemy](https://www.washingtonpost.com/opinions/2023/02/27/ukraine-war-zelensky-fighting-corruption/). (The Washington Post, February 27, 2023)
+[Z takes on Ukraine’s top internal enemy](https://www.washingtonpost.com/opinions/2023/02/27/ukraine-war-Z-fighting-corruption/). (The Washington Post, February 27, 2023)
 
 ---
 
@@ -1923,9 +1923,9 @@ Not so fast, said deputy head of the President’s Office Mykhailo Podoliak.
 
 > "The basis for real negotiations with (Russia) is the complete withdrawal of Russian armed groups beyond the internationally recognised borders of Ukraine in 1991. Including #Crimea," he said, according to [Reuters](https://www.reuters.com/world/europe/ukraine-sends-conflicting-signals-crimea-talks-idea-2023-04-06/). "There is no question of any territorial concessions or bargaining of our sovereign rights."
 
-Timila Tasheva, Z’s envoy on Crimea, says Ukraine [will give Russia a choice](https://www.politico.eu/article/ukraine-russia-crimea-war-peace-volodymyr-zelenskyy/) on how to leave Crimea.
+Timila Tasheva, Z’s envoy on Crimea, says Ukraine [will give Russia a choice](https://www.politico.eu/article/ukraine-russia-crimea-war-peace-volodymyr-Z/) on how to leave Crimea.
 
-> “To minimize Ukrainian military losses, minimize threats to civilians who live in occupied territories, as well as the destruction of civilian infrastructure, Ukraine plans to give Russia a choice on how to leave Crimea. If they don’t agree to leave voluntarily, Ukraine will continue to liberate its land by military means,” Tasheva [said](https://www.politico.eu/article/ukraine-russia-crimea-war-peace-volodymyr-zelenskyy/).
+> “To minimize Ukrainian military losses, minimize threats to civilians who live in occupied territories, as well as the destruction of civilian infrastructure, Ukraine plans to give Russia a choice on how to leave Crimea. If they don’t agree to leave voluntarily, Ukraine will continue to liberate its land by military means,” Tasheva [said](https://www.politico.eu/article/ukraine-russia-crimea-war-peace-volodymyr-Z/).
 
 According to Vitaliy Portnikov, Putin’s objective remains the same: to obliterate Ukraine. Kyiv doesn’t rule out peace talks, but they are unlikely if the goal of the exercise doesn’t change.
 
@@ -2359,7 +2359,7 @@ Shane is from The Daily Beast via WSJ. Isabelle specialized in sports before WAP
 
 Remember this from one year *before* the all-out invasion?
 
-> Why close allies of [Z](https://www.washingtonpost.com/politics/2019/12/13/trump-promised-zelensky-white-house-meeting-more-than-dozen-other-leaders-got-one-instead/?itid=lk_inline_manual_3) have suddenly decided to open up about one of the longest-running dramas from the Trump era — the blitz of meetings, messages and public statements by Russia’s agents of influence in Ukraine — is a mystery. The Washington Post’s David Stern got the ball rolling on January 30, 2021 in an article, titled “[Ukraine stayed quiet during Trump-era pressures. Now it’s sharing some Giuliani tales.](https://www.washingtonpost.com/world/europe/ukraine-giuliani-biden-hunter/2021/01/29/592cecd6-54f7-11eb-acc5-92d2819a1ccb_story.html)”
+> Why close allies of [Z](https://www.washingtonpost.com/politics/2019/12/13/trump-promised-Z-white-house-meeting-more-than-dozen-other-leaders-got-one-instead/?itid=lk_inline_manual_3) have suddenly decided to open up about one of the longest-running dramas from the Trump era — the blitz of meetings, messages and public statements by Russia’s agents of influence in Ukraine — is a mystery. The Washington Post’s David Stern got the ball rolling on January 30, 2021 in an article, titled “[Ukraine stayed quiet during Trump-era pressures. Now it’s sharing some Giuliani tales.](https://www.washingtonpost.com/world/europe/ukraine-giuliani-biden-hunter/2021/01/29/592cecd6-54f7-11eb-acc5-92d2819a1ccb_story.html)”
 >
 > This is the same David Stern who teamed up with Kenneth Vogel in January 2017 to [write about](https://www.politico.com/story/2017/01/ukraine-sabotage-trump-backfire-233446) how Ukraine interfered in the the 2016 U.S. presidential election against Trump. And this is the same David Stern who a month later helped [whitewash](https://abdymok.medium.com/killing-the-story-64bd0f6840e8) the release of more than 280,000 text messages written by the daughter of Trump’s 2016 election campaign manager Paul Manafort[2](#footnote-2).
 
@@ -2553,7 +2553,7 @@ In other news, The Atlantic has dedicated another issue to Ukraine. Bono did the
 
 [Image]
 
-Anne and Jeffrey’s essay, titled [The Counteroffensive](https://www.theatlantic.com/magazine/archive/2023/06/counteroffensive-ukraine-zelensky-crimea/673781/), is worth reading. It leaves out the part about Ukraine being incapable of governing itself, but that’s okay. We’ll discuss that problem after the war.
+Anne and Jeffrey’s essay, titled [The Counteroffensive](https://www.theatlantic.com/magazine/archive/2023/06/counteroffensive-ukraine-Z-crimea/673781/), is worth reading. It leaves out the part about Ukraine being incapable of governing itself, but that’s okay. We’ll discuss that problem after the war.
 
 Oh, and this just in from American diplomats (the same ones who instructed us about handwashing during the Covid pandemic):
 
@@ -2901,7 +2901,7 @@ Timothy and Isabelle, a sports writer at [The Washington Post](http://wapo.st), 
 
 [Video: https://youtu.be/k4dfqZ8-Olo]
 
-What’s truly amazing, though, is that it took The Washington Post **two weeks** to transcribe, transcribe (and lightly edit) their [groupthink pow wow](https://www.washingtonpost.com/world/2023/05/13/zelensky-washington-post-interview-transcript/) with Z on May 1.
+What’s truly amazing, though, is that it took The Washington Post **two weeks** to transcribe, transcribe (and lightly edit) their [groupthink pow wow](https://www.washingtonpost.com/world/2023/05/13/Z-washington-post-interview-transcript/) with Z on May 1.
 
 What is wrong with these flaks?
 
@@ -3189,7 +3189,7 @@ That’s the first paragraph from Luke’s [million-word reportage](https://www.
 
 But I digress.
 
-For at least nine years and the last 453 days we have spent more time than ever in the proximity of military advisors and foreign war correspondents. What began as a vague dislike quickly ramped up to mean, squinting displeasure at their existence. BBC’s John Simpson (nicknamed, *Cachou,* French for *booger*) was the worst. He was caught licking the cheese again [this year](https://www.thesohoagency.co.uk/news/john-simpson-interviews-president-zelensky), even after promoting Crimea as a great vacation spot[2](#footnote-2).
+For at least nine years and the last 453 days we have spent more time than ever in the proximity of military advisors and foreign war correspondents. What began as a vague dislike quickly ramped up to mean, squinting displeasure at their existence. BBC’s John Simpson (nicknamed, *Cachou,* French for *booger*) was the worst. He was caught licking the cheese again [this year](https://www.thesohoagency.co.uk/news/john-simpson-interviews-president-Z), even after promoting Crimea as a great vacation spot[2](#footnote-2).
 
 There is also Jason Jay Smart, an American cheese licker who signs his op-eds *Thank you*[3](#footnote-3)*.*
 
@@ -3704,7 +3704,7 @@ This made me laugh, too:
 
 [Video: https://youtu.be/VIGO1bTZA10]
 
-And, of course, Emma’s chit chat with Z [here](https://www.wsj.com/video/series/in-depth-features/wsj-exclusive-an-interview-with-ukraine-volodymyr-zelensky/DF7422A2-778B-403B-83ED-3F9490192C1A). James was there, but not on camera.
+And, of course, Emma’s chit chat with Z [here](https://www.wsj.com/video/series/in-depth-features/wsj-exclusive-an-interview-with-ukraine-volodymyr-Z/DF7422A2-778B-403B-83ED-3F9490192C1A). James was there, but not on camera.
 
 In other news, Chien-Chi Chang has hotfooted his way back to Ukraine.
 
@@ -4716,7 +4716,7 @@ In this sense, if recent history is any guide, Team USA specializes in *not* ach
 
 In the last three decades, the United States has toppled four regimes through force of arms. Three of the targeted countries are currently basket cases of civil war and terrorism. None of the wars spawned after 9/11 ended well.
 
-We can also knock Z down a couple of pegs. Here is one (1) excerpt from Vsevolod Samokhvalov’s review of *[The Z Effect](https://www.hurstpublishers.com/book/the-zelensky-effect/)*, New Perspectives on Eastern Europe and Eurasia, a 404-page hagiography c/o Hurst Publishers by Olga Onuch and Henry Hale.
+We can also knock Z down a couple of pegs. Here is one (1) excerpt from Vsevolod Samokhvalov’s review of *[The Z Effect](https://www.hurstpublishers.com/book/the-Z-effect/)*, New Perspectives on Eastern Europe and Eurasia, a 404-page hagiography c/o Hurst Publishers by Olga Onuch and Henry Hale.
 
 > Хоч Зеленський справді відіграв величезну символічну і значущу роль у війні, об’єднавши націю і змобілізувавши міжнародну спільноту для підтримки України, **книжка замовчує численні свідчення про випадки, коли його вчинки були, в найкращому разі, неідеальними**. **Рішення зменшити деякі програми військових закупівель на користь будівництва доріг могло здаватися розумним, але виявилося стратегічною помилкою**. **Неналежне приготування сил територіяльної оборони призвело до сотень смертей погано озброєних бійців і швидкого проходу російських військ із Криму на південь України, що вилилося в російську окупацію Херсона і трагедію Маріуполя. Небажання повідомити українцям про справжню загрозу повномасштабного російського вторгнення можна вважати за величезну помилку, яка спричинила загибель багатьох мирних мешканців**. Це вкрай серйозні питання, яких наразі майже не озвучують публічно, бо українці вкотре демонструють надзвичайний рівень самодисципліни, зрілости й подиву гідної здатности навчатися на власних історичних помилках (брак єдности поклав край декільком українським державним проєктам). Але також було би помилкою зображувати ставлення українського суспільства до президента Зеленського як до абсолютного авторитета, об’єкта обожнювання і безперечного лідера[3](#footnote-3).
 
@@ -4836,7 +4836,7 @@ The pissing match today over whether NATO should declare war on Russia is not pr
 
 How the effort is packaged politically is not in my field of expertise, so I won’t offer any advice other than re-stating the obvious: Ukraine is not a piano[1](#footnote-1).
 
-This brings me to Wagner PMC, which Putin used in 2014 to start the war Western intelligence agencies wanted us to believe was a pro-Russian grassroots rebellion. It wasn’t. Nine years later, the pugnacious President of Ukraine, the same one who denied scuppering an op to arrest Wagner PMC fighters[2](#footnote-2), is on Twitter [telling leaders of NATO member states](https://twitter.com/ZelenskyyUa/status/1678707674811187200) to get their collective act together.
+This brings me to Wagner PMC, which Putin used in 2014 to start the war Western intelligence agencies wanted us to believe was a pro-Russian grassroots rebellion. It wasn’t. Nine years later, the pugnacious President of Ukraine, the same one who denied scuppering an op to arrest Wagner PMC fighters[2](#footnote-2), is on Twitter [telling leaders of NATO member states](https://twitter.com/ZUa/status/1678707674811187200) to get their collective act together.
 
 \*\*\*
 
@@ -6647,7 +6647,7 @@ Strange things happen when you’ve gone too far, been up too long, worked too h
 
 ---
 
-In keeping with the notion that everything ever imagined can somehow be turned into evidence of the unquestionable perfection of Z, a new up-close [docudrama](https://edition.cnn.com/2023/09/18/entertainment/sean-penn-zelensky-superpower-review/index.html) casts a loving revisionist glance back at the muddled ideas of Ukraine’s leader which were an ironic source of inspiration when a Russian horde attempted to decapitate Kyiv.
+In keeping with the notion that everything ever imagined can somehow be turned into evidence of the unquestionable perfection of Z, a new up-close [docudrama](https://edition.cnn.com/2023/09/18/entertainment/sean-penn-Z-superpower-review/index.html) casts a loving revisionist glance back at the muddled ideas of Ukraine’s leader which were an ironic source of inspiration when a Russian horde attempted to decapitate Kyiv.
 
 Meanwhile, I remembered **the most ludicrous scheme ever** to energize a dwindling internet gold rush (complete with manifestos, slogans and Gueveran imagery) that didn’t receive much warmth, or even kindness.
 
@@ -6748,7 +6748,7 @@ Richard, Andrew and Farnraz @nyt waited until paragraph 8 in their reportage to 
 
 The self-aggrandizing cluelessness of most foreign flaks continues to astound and confound ordinary Ukrainians.
 
-Over @cnn, Wolf quizzes Z about Trump’s (non) plan to end the bloodletting in one day, as per an idiotic excerpt of the pow wow [released](https://clips-mp4-aka.warnermediacdn.com/cnn/clips/2023-09/1316107-86be1ee3a71d412da1211a0b4acd620f/mp4/cms3-CNN-zelensky-trump-fair-deal-putin-reaction-tsr-intv-vpx-primary-308143-1316107-1920x1080_8000k.mp4) on September 20.
+Over @cnn, Wolf quizzes Z about Trump’s (non) plan to end the bloodletting in one day, as per an idiotic excerpt of the pow wow [released](https://clips-mp4-aka.warnermediacdn.com/cnn/clips/2023-09/1316107-86be1ee3a71d412da1211a0b4acd620f/mp4/cms3-CNN-Z-trump-fair-deal-putin-reaction-tsr-intv-vpx-primary-308143-1316107-1920x1080_8000k.mp4) on September 20.
 
 [Image]
 
@@ -6764,7 +6764,7 @@ Maybe it would be a good idea for NYT, WAPO and CNN to give their bureau chiefs 
 
 [1](#footnote-anchor-1)
 
-[Ukraine’s Fight Is the World’s, Z Tells U.N. Assembly](https://www.nytimes.com/2023/09/19/world/europe/zelensky-ukraine-united-nations.html?auth=login-google1tap&login=google1tap). *Painting Vladimir Putin’s Russia as a nation that seeks to dominate others, President Volodymyr Z cast his appeal for broad support as a matter of global security* ([The New York Times](http://nyt.com). June 20, 2023)
+[Ukraine’s Fight Is the World’s, Z Tells U.N. Assembly](https://www.nytimes.com/2023/09/19/world/europe/Z-ukraine-united-nations.html?auth=login-google1tap&login=google1tap). *Painting Vladimir Putin’s Russia as a nation that seeks to dominate others, President Volodymyr Z cast his appeal for broad support as a matter of global security* ([The New York Times](http://nyt.com). June 20, 2023)
 
 [2](#footnote-anchor-2)
 
@@ -6798,7 +6798,7 @@ Everything’s been all *Ukrainian* around here lately: potato pancakes, selecti
 
 ---
 
-This just in from Julia at [Puck](https://puck.news/mr-zelensky-goes-to-washington/):
+This just in from Julia at [Puck](https://puck.news/mr-Z-goes-to-washington/):
 
 [Image]
 
@@ -7144,7 +7144,7 @@ I took some pictures during the walk from the top of the hill to the island.
 
 [Image]
 
-Ukraine’s most obnoxious detractors don’t visit, because they fear being punched in the face, repeatedly, upon arrival. [So they gaslight the country from a safe distance](https://www.politico.eu/article/billionaire-elon-musk-mocks-ukraine-president-zelenskyy-asking-aid-with-meme/), led by Elon and his creepy cohorts, including Tucker Carlson, Joe Rogan, Russel Brand, Vivek Ramaswamy, Andrew Tate, Rand Paul, Ian Miles Cheong, Donald Trump Jr., J.D. Vance, Scott Ridder, Jeffrey Sachs, David Sachs, Jordan Peterson, Robert F. Kennedy, Jr., Ben Shapiro and other members of the anti-Ukraine fan club. The list is long.
+Ukraine’s most obnoxious detractors don’t visit, because they fear being punched in the face, repeatedly, upon arrival. [So they gaslight the country from a safe distance](https://www.politico.eu/article/billionaire-elon-musk-mocks-ukraine-president-Z-asking-aid-with-meme/), led by Elon and his creepy cohorts, including Tucker Carlson, Joe Rogan, Russel Brand, Vivek Ramaswamy, Andrew Tate, Rand Paul, Ian Miles Cheong, Donald Trump Jr., J.D. Vance, Scott Ridder, Jeffrey Sachs, David Sachs, Jordan Peterson, Robert F. Kennedy, Jr., Ben Shapiro and other members of the anti-Ukraine fan club. The list is long.
 
 Deep-seated personality flaws predispose these greasy clowns to be available to Russia for propaganda purposes. The misfits make great targets for spreading bullshit. The pattern that seems to underlie the most enthusiastic Ukraine bashers is that they all have severely damaged personalities and sex-related problems. The overlap between Putin’s pals and convicted offenders should be studied carefully.
 
@@ -8152,7 +8152,7 @@ This is the second memo to the world authored by Zaluzhny. The first, titled “
 
 ---
 
-Several readers have asked me about Simon’s “dark” portrait of Z [appearing](https://time.com/6329188/ukraine-volodymyr-zelensky-interview/) in [Time Magazine](http://timemagazine.com). I am loathe to comment other than to share two observations.
+Several readers have asked me about Simon’s “dark” portrait of Z [appearing](https://time.com/6329188/ukraine-volodymyr-Z-interview/) in [Time Magazine](http://timemagazine.com). I am loathe to comment other than to share two observations.
 
 > "I've always considered writing the most hateful kind of work. I suspect it's a bit like fucking, which is only fun for amateurs. Old whores don't do much giggling[4](#footnote-4) — Hunter S. Thomphson
 
@@ -8232,7 +8232,7 @@ It’s as if every time Andy dives into an experience of Ukraine and tries to fi
 
 Well, excuse me. The sun is shining and I’m going for a long run.
 
-Lucky for all of us, Andy almost always gets the story wrong. Last time I checked, there was no functioning conscription system in Ukraine. Z [dismissed](https://kyivindependent.com/zelensky-enlistment-offices-chiefs-to-be-dismissed-across-ukraine/) all the heads of military enlistment offices across the country in early August. The plan is to recruit — not draft — eligible candidates to fill the ranks[1](#footnote-1).
+Lucky for all of us, Andy almost always gets the story wrong. Last time I checked, there was no functioning conscription system in Ukraine. Z [dismissed](https://kyivindependent.com/Z-enlistment-offices-chiefs-to-be-dismissed-across-ukraine/) all the heads of military enlistment offices across the country in early August. The plan is to recruit — not draft — eligible candidates to fill the ranks[1](#footnote-1).
 
 [Image]
 
@@ -8300,7 +8300,7 @@ Z might address the nation to explain that there will be no quick military victo
 
 [1](#footnote-anchor-1)
 
-[Volodymyr Z’s Struggle to Keep Ukraine in the Fight](https://time.com/6329188/ukraine-volodymyr-zelensky-interview/) (Time Magazine, October 30, 2023)
+[Volodymyr Z’s Struggle to Keep Ukraine in the Fight](https://time.com/6329188/ukraine-volodymyr-Z-interview/) (Time Magazine, October 30, 2023)
 
 [2](#footnote-anchor-2)
 
@@ -8356,7 +8356,7 @@ I asked several friends in Kyiv if they agree. Most do not. They reminded me of 
 
 [Image]
 
-And looking on the bright side — we always try to look on the bright side — Z [says](https://www.boursier.com/actualites/reuters/zelensky-estime-irresponsable-la-tenue-d-elections-en-temps-de-guerre-345952.html) it would be irresponsible to hold elections this spring when his 5-year term expires.
+And looking on the bright side — we always try to look on the bright side — Z [says](https://www.boursier.com/actualites/reuters/Z-estime-irresponsable-la-tenue-d-elections-en-temps-de-guerre-345952.html) it would be irresponsible to hold elections this spring when his 5-year term expires.
 
 [1](#footnote-anchor-1)
 
@@ -8384,7 +8384,7 @@ The zero line has moved very little since January 1, 2023.
 
 [Image]
 
-Z disagrees that the war has reached a World War I-style “stalemate.[1](#footnote-1)” He says we should think about today — not tomorrow — **and only about that**. Z’s advisors, granted anonymity by a journalist with access to the President’s Office, [say](https://time.com/6329188/ukraine-volodymyr-zelensky-interview/) he is delusional.
+Z disagrees that the war has reached a World War I-style “stalemate.[1](#footnote-1)” He says we should think about today — not tomorrow — **and only about that**. Z’s advisors, granted anonymity by a journalist with access to the President’s Office, [say](https://time.com/6329188/ukraine-volodymyr-Z-interview/) he is delusional.
 
 - Ukraine’s foreign minister says we can expect the worst winter in history[2](#footnote-2).
 - Ukraine’s finance minister today says we’re $29 billion short on external financing for the 2024 State Budget[3](#footnote-3).
@@ -8650,7 +8650,7 @@ Unfortunately, the deadline was over last year or the year before that[1](#footn
 
 [Image]
 
-Oh, and Andriy. Remember him[3](#footnote-3)? Looking like the Serbs [will release him](https://censor.net/en/news/3455689/serbia_refused_to_extradite_exssu_general_naumov_because_of_zelenskyys_words_about_traitor_soon_naumov).
+Oh, and Andriy. Remember him[3](#footnote-3)? Looking like the Serbs [will release him](https://censor.net/en/news/3455689/serbia_refused_to_extradite_exssu_general_naumov_because_of_Zs_words_about_traitor_soon_naumov).
 
 ---
 
@@ -9146,7 +9146,7 @@ On the Belarus jacket, enjoyed Nexta’s weekly wrap-up, Пробел!
 
 [1](#footnote-anchor-1)
 
-[The AP Interview: Ukraine’s Z says the war with Russia is in a new phase as winter looms](https://apnews.com/article/zelenskyy-ukraine-russia-war-interview-winter-75f1f785b17452fc23819d459e6ab64b) ([The Associated Press](http://ap.com), December 1, 2023)
+[The AP Interview: Ukraine’s Z says the war with Russia is in a new phase as winter looms](https://apnews.com/article/Z-ukraine-russia-war-interview-winter-75f1f785b17452fc23819d459e6ab64b) ([The Associated Press](http://ap.com), December 1, 2023)
 
 [2](#footnote-anchor-2)
 
@@ -9579,7 +9579,7 @@ And, finally, this:
 
 [Image]
 
-On Thursday, Z slipped into his black pajamas and [visited](https://www.straitstimes.com/world/europe/ukraines-zelensky-on-surprise-visit-to-germany) the Security Promotion Group of Ukraine based in Wiesbaden. Where he pops up next is anyone’s guess.
+On Thursday, Z slipped into his black pajamas and [visited](https://www.straitstimes.com/world/europe/ukraines-Z-on-surprise-visit-to-germany) the Security Promotion Group of Ukraine based in Wiesbaden. Where he pops up next is anyone’s guess.
 
 ---
 
@@ -9687,7 +9687,7 @@ We all remember “[Operation Y](https://abdymok.substack.com/p/operation-y-cont
 
 *Date: 2023-12-20 | Status: Published | Audience: only_paid*
 
-*Zelenskyy's word salad*
+*Z's word salad*
 
 [Image]
 
