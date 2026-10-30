@@ -3571,7 +3571,7 @@ Alex Raufoglu’s [Tweet](https://twitter.com/ralakbar/status/166326125669277696
 
 *Date: 2023-05-31 | Status: Published | Audience: only_paid*
 
-*Simplicity, quality, consistency [sic]*
+*Simplicity, quality, consistancy [sic]*
 
 [Image]
 
