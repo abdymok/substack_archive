@@ -162,7 +162,7 @@ Dog Squadron motto. [ASG](https://en.wikipedia.org/wiki/Asymmetric_Warfare_Group
 
 [Image]
 
-*I am remembering the last time I ate a marshmellow, or it’s completely fictional, because I don’t eat marshmellows, or it’s in the future, because I’m imagining eating a marshmellow after Ukraine wins the war. .*
+*I am remembering the last time I ate a marshmallow, or it’s completely fictional, because I don’t eat marshmallows, or it’s in the future, because I’m imagining eating a marshmallow after Ukraine wins the war. .*
 
 It’s not a funny situation.
 
@@ -190,7 +190,7 @@ Maybe Ukraine’s leaders are just trying to tell us that we’re on the right s
 
 Z told us before he ran for president that he occasionally talks with a supernatural entity. God was the word he used. He said then that these conversations are too intimate to divulge publicly[1](#footnote-1).
 
-Maybe the war has changed his mind? Perhaps he has eaten too many marshmellows?
+Maybe the war has changed his mind? Perhaps he has eaten too many marshmallows?
 
 [1](#footnote-anchor-1)
 
@@ -236,7 +236,7 @@ In other news, I came across this annoying paragraph in an op-ed published on Ja
 
 [Image]
 
-About two thirds of the way through this smug, precious, longwinded yet toweringly unresolved argument – through which [Foreign Policy](https://www.foreignaffairs.com/ukraine/long-war-ukraine-russia-protracted-conflict?utm_medium=social&fbclid=IwAR3AoHVaizlfYb22DjJpBd9YZvRsmcaE9DGykppSc_9aWBRY5eZyaoSsgdc) hacks continue to assert in dainty rhetorical strokes that only one legitimate form of engagement, i.e. Russia containment, remains, that being the sort favored by the cold-eyed strategists of the next American empire; so chipper, so blithely cruel – I concluded that nothing in this life would give me greater pleasure than to sock Ivo and James in the jaw.
+About two thirds of the way through this smug, precious, long-winded yet toweringly unresolved argument – through which [Foreign Policy](https://www.foreignaffairs.com/ukraine/long-war-ukraine-russia-protracted-conflict?utm_medium=social&fbclid=IwAR3AoHVaizlfYb22DjJpBd9YZvRsmcaE9DGykppSc_9aWBRY5eZyaoSsgdc) hacks continue to assert in dainty rhetorical strokes that only one legitimate form of engagement, i.e. Russia containment, remains, that being the sort favored by the cold-eyed strategists of the next American empire; so chipper, so blithely cruel – I concluded that nothing in this life would give me greater pleasure than to sock Ivo and James in the jaw.
 
 [1](#footnote-anchor-1)
 
@@ -1497,7 +1497,7 @@ In the gaping void that is the revenue model for English-language *news* content
 
 [Image]
 
-Malcom [explains](https://twitter.com/MalcolmNance/status/1638602411441790981):
+Malcolm [explains](https://twitter.com/MalcolmNance/status/1638602411441790981):
 
 [Image]
 
@@ -1555,7 +1555,7 @@ The future of America’s stereotypical Mad Max is not Ukrainian.
 
 [Image]
 
-I am happy that Malcom, who is a complete jackass, made the final cut in the [NYT feature](https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html) (which used the same screengrab of James Vasquez appearing here *exactly* 365 days ago).
+I am happy that Malcolm, who is a complete jackass, made the final cut in the [NYT feature](https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html) (which used the same screengrab of James Vasquez appearing here *exactly* 365 days ago).
 
 In April 2022, we concluded:
 
@@ -1603,7 +1603,7 @@ The part about Z being a *mystery* (15:39) made me laugh.
 
 Oh, puhleaze.
 
-I’m a big fan of Tim, but a critic, as well, especially when he exagerates the influence of Polish intellectuals and civil society movements on what happened in Ukraine and Belarus during the late 80s and 90s[2](#footnote-2).
+I’m a big fan of Tim, but a critic, as well, especially when he exaggerates the influence of Polish intellectuals and civil society movements on what happened in Ukraine and Belarus during the late 80s and 90s[2](#footnote-2).
 
 During the months leading up to the invasion, *subjectiveness or subjectivity* (*субъектность)* [of Ukraine]was used repeatedly as an artificial discursive term by Z to describe power-relations and social actions required for conducting foreign policy[3](#footnote-3). Unfortunately for Ukrainians, the president confused subjectiveness with sovereignty and no one bothered to explain to him the difference.
 
@@ -2067,7 +2067,7 @@ A friend stationed temporarily in Sloviansk called yesterday to say happy Easter
 
 Looking at the effect of the floods, it’s clear we were unbelievably lucky compared to others in Brovary — there were emergency rescues in nearby towns. Some people are still without running water or electricity, and damage to roads, homes and businesses will take months to dry up.
 
-Right up the road across the highway, the incredibly accommodating Fisherman’s Market had finished renovating their yard just in time to see the work destroyed, along with angling gear, appliances and much else, including live bait. Their earthen pavillion – and these are *fastidiously* tidy marketeers – is now a football field of mud puddles littered with ruined stalls and waterlogged merchandise.
+Right up the road across the highway, the incredibly accommodating Fisherman’s Market had finished renovating their yard just in time to see the work destroyed, along with angling gear, appliances and much else, including live bait. Their earthen pavilion – and these are *fastidiously* tidy marketeers – is now a football field of mud puddles littered with ruined stalls and waterlogged merchandise.
 
 Later on, I ran to the newly renovated River Port building ([Київський річковий порт та вокзал](https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D1%96%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB)) to rejuvenate in the sweet electric glow of academia (er, to check on American University’s renovation plans).
 
@@ -2219,7 +2219,7 @@ Here’s a passage from that post:
 
 ---
 
-In other news, Jens is [bumbing around Kyiv](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-04-21-23/index.html).
+In other news, Jens is [bumming around Kyiv](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-04-21-23/index.html).
 
 ---
 
@@ -2591,13 +2591,13 @@ TB2s are expensive, costing up to $5 million.
 
 [Image]
 
-In other friendly-fire “news,” Jason Jay Smart from the Kyiv Post, also known as Ukraine’s Goat with Teeth[1](#footnote-1), [chatted up](https://www.kyivpost.com/videos/16624) Malcom Nance about the much smaller uav that crashed into the Kremlin in Moscow early on Wednesday morning.
+In other friendly-fire “news,” Jason Jay Smart from the Kyiv Post, also known as Ukraine’s Goat with Teeth[1](#footnote-1), [chatted up](https://www.kyivpost.com/videos/16624) Malcolm Nance about the much smaller uav that crashed into the Kremlin in Moscow early on Wednesday morning.
 
 [Image]
 
-Sniggering like a demented janitor paging through a stroke mag found in the trash, Malcom burbles along during the 6-minute chit chat, finding, big surprise, all critical observation not previously imagined under his unfortunate hairline can be repurposed into nod-alongs for an ocean of idiots nodding right along.
+Sniggering like a demented janitor paging through a stroke mag found in the trash, Malcolm burbles along during the 6-minute chit chat, finding, big surprise, all critical observation not previously imagined under his unfortunate hairline can be repurposed into nod-alongs for an ocean of idiots nodding right along.
 
-Neither Jason Jay or Malcom know much about Russia and Ukraine and drones, so you would be better off skipping their convo and doing something productive.
+Neither Jason Jay or Malcolm know much about Russia and Ukraine and drones, so you would be better off skipping their convo and doing something productive.
 
 Like running **☺**
 
@@ -3195,7 +3195,7 @@ There is also Jason Jay Smart, an American cheese licker who signs his op-eds *T
 
 [Image]
 
-Cheese lickers hang out with other cheese lickers, like Malcom Nance. They are oily people, who are constantly bragging about their relationships status. Cheese lickers like to interview one another, not caring about the rest of the world vomiting around them.
+Cheese lickers hang out with other cheese lickers, like Malcolm Nance. They are oily people, who are constantly bragging about their relationships status. Cheese lickers like to interview one another, not caring about the rest of the world vomiting around them.
 
 [Video: https://youtu.be/RIQWHRz8mdA]
 
@@ -3571,7 +3571,7 @@ Alex Raufoglu’s [Tweet](https://twitter.com/ralakbar/status/166326125669277696
 
 *Date: 2023-05-31 | Status: Published | Audience: only_paid*
 
-*Simplicity, quality, consistancy [sic]*
+*Simplicity, quality, consistency [sic]*
 
 [Image]
 
@@ -4234,7 +4234,7 @@ ATACMs are nice, but we need the third A to end this bloody mess.
 
 [1](#footnote-anchor-1)
 
-[2023 Military Campain Prosects](https://abdymok.substack.com/p/2023-military-campaign-propects?utm_source=%2Fsearch%2Fzaluzhny&utm_medium=reader2). *The Ukrainian view* (September 12, 2022)
+[2023 Military Campaign Prospects](https://abdymok.substack.com/p/2023-military-campaign-propects?utm_source=%2Fsearch%2Fzaluzhny&utm_medium=reader2). *The Ukrainian view* (September 12, 2022)
 
 [2](#footnote-anchor-2)
 
@@ -4392,7 +4392,7 @@ This above is an excerpt from an article I read on Monday.
 
 It translates roughly to:
 
-> Morever, Ukraine also lacks reform in the sphere of government presentations. Our delegates are literally torturing people for their own money with an unstructured delusion that maximally emphasizes all the flaws of the current government: the professional and institutional weakness of the government, superficiality in assessments and planning, the enormous influence of big business on the state, respectively, corruption and scheming***[1](#footnote-1)***.
+> Moreover, Ukraine also lacks reform in the sphere of government presentations. Our delegates are literally torturing people for their own money with an unstructured delusion that maximally emphasizes all the flaws of the current government: the professional and institutional weakness of the government, superficiality in assessments and planning, the enormous influence of big business on the state, respectively, corruption and scheming***[1](#footnote-1)***.
 
 The passage is almost the exact opposite of an upbeat [rant](https://twitter.com/Mylovanov/status/1671483415437234176) about what a swell country Ukraine is tweeted on the eve of the [London Ukraine Recovery Conference](https://www.urc-international.com/).
 
@@ -4926,7 +4926,7 @@ Uncle Joe below elaborates clearly the goals of U.S. military assistance to Ukra
 
 [Video: https://youtu.be/EW27exsGJ8s]
 
-Unwavering (declarations of) support and bilateral agreements (with/for Ukraine) are not the same as committments to Ukraine. Rinse, repeat. That’s reality. Maybe Z will explain this to Ukrainians to tamper down expectations.
+Unwavering (declarations of) support and bilateral agreements (with/for Ukraine) are not the same as commitments to Ukraine. Rinse, repeat. That’s reality. Maybe Z will explain this to Ukrainians to tamper down expectations.
 
 Looking on the bright side, Russian soldiers are being urged to fight for the honor their dead colleagues. There is no political or historical goal for them to die for. Definitely not a morale booster.
 
@@ -6042,7 +6042,7 @@ Below is their 14-minute advertorial for the Kastuś Kalinoŭski regiment. Warni
 
 [Video: https://youtu.be/ADUC2CA-imQ]
 
-CIA Director William Burns and White House National Security Advisor Jake Sullivan sound resolute about Uncle Joe’s promise to help us kill the maximum number Russian invaders as quickly as possible. The capacity (or incapacity) of our American friends to send sufficient quantities of surface-to-air missiles and long-range ammunition while simultaneously attempting to avert nuclear Armagedon is not fully understood.
+CIA Director William Burns and White House National Security Advisor Jake Sullivan sound resolute about Uncle Joe’s promise to help us kill the maximum number Russian invaders as quickly as possible. The capacity (or incapacity) of our American friends to send sufficient quantities of surface-to-air missiles and long-range ammunition while simultaneously attempting to avert nuclear Armageddon is not fully understood.
 
 According to Newsweek, at least one platoon of CIA agents has been tasked to manage the mess. This is, er, not reassuring.
 
@@ -6092,7 +6092,7 @@ That’s good news.
 
 [Image]
 
-#### “Counteroffensive1 has lost its lustre2 as a significant3 communication4 paradigm5...and has redefined itself6 as a IPSO7 strategy of callibrated coercion8.”
+#### “Counteroffensive1 has lost its lustre2 as a significant3 communication4 paradigm5...and has redefined itself6 as a IPSO7 strategy of calibrated coercion8.”
 
 1. It’s large, this word: it holds much; it is flexible. The shapes of its letters – their arrangement into text – means more than design or linguistics or semantics. Indeed the term offers a broad arena for new ideas.
 2. Easy to think of Propaganda 101 here: if you say counteroffensive long enough, significance will emerge.
@@ -6100,7 +6100,7 @@ That’s good news.
 4. Piar.
 5. Not a means, you see, a conduit, a route, a method, or a tool. A *paradigm.*
 6. I see this guy named counteroffensive in the shower one morning, the lightning bolt of epiphany striking as he rubs the suds from his eyes, *That’s It! I’ll redefine myself – she’ll have to notice me!*
-7. One risks shooting fish in a barrel: callibrated. Yes. Having doffed the winded clothing of unmeaningful language and ideas, of those dusty thousands of years evolving nuance, striding the trenches between rows of Dragon’s teeth, borne along after carpet bombing, the squidgy half-healed shrapnel scars are a warning to deep thinkers from tarting up crap to make autohagiographies more sellable[1](#footnote-1).
+7. One risks shooting fish in a barrel: calibrated. Yes. Having doffed the winded clothing of unmeaningful language and ideas, of those dusty thousands of years evolving nuance, striding the trenches between rows of Dragon’s teeth, borne along after carpet bombing, the squidgy half-healed shrapnel scars are a warning to deep thinkers from tarting up crap to make autohagiographies more sellable[1](#footnote-1).
 8. Such longing to defend Ukraine’s territorial integrity! I wonder which is worse, the *I Move Things Around in my Go Bag and Tweet a lot, or I Quote Clausewitz and Hegel and Can’t Form a Lucid Sentence and That is the Art* *of War* school.
 
 **Western war planners! Where is your cortex?**
@@ -6235,7 +6235,7 @@ In other news, Catholics around the world are shaking their heads after the late
 
 It takes a special kind of stupid to say what the Pope said, much less think it. We consign the leader of 1 billion+ to the smelly sock drawer.
 
-On the domestic front, Z gave an one-hour weird and fawning TV interview to Наталія Мосейчук (@1+1), who dilligently reposted bits of it on her [Instagram page](https://www.instagram.com/moseichuk.official/).
+On the domestic front, Z gave an one-hour weird and fawning TV interview to Наталія Мосейчук (@1+1), who diligently reposted bits of it on her [Instagram page](https://www.instagram.com/moseichuk.official/).
 
 [Video: https://youtu.be/g\_jbz7w-Rks]
 
@@ -6662,7 +6662,7 @@ I’ve refashioned it into the Poem of the Day.
 # See <URL:http://info.webcrawler.com/mak/projects/robots/robots.html>
 #
 #
-# In addtion to the following information, the following meta tag
+# In addition to the following information, the following meta tag
 # can also be used
 # <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 #
@@ -6834,7 +6834,7 @@ Ew!
 
 ---
 
-Turns out Russia yesterday sent 43 cruise missiles, including five (5) targetting Kyiv and environs. These were all shot down. Damage from falling debris ignited areas of Darnitsky and Sviatoshynsky districts of the capital.
+Turns out Russia yesterday sent 43 cruise missiles, including five (5) targeting Kyiv and environs. These were all shot down. Damage from falling debris ignited areas of Darnitsky and Sviatoshynsky districts of the capital.
 
 [Image]
 
@@ -6858,7 +6858,7 @@ I understand that some people believe in God, but I don't understand how they ma
 
 Polish President Andrzej Duda, Prime Minister Mateusz Morawiecki and Deputy Prime Minister Jarosław Kaczyński are seeking to maintain their majority in the legislature ([Sejm](https://en.wikipedia.org/wiki/Sejm_of_the_Republic_of_Poland) and [Senate](https://en.wikipedia.org/wiki/Senate_of_the_Republic_of_Poland)). Elections are October 15. We hope they lose.
 
-Meanwhile, [Law and Justice](https://en.wikipedia.org/wiki/Law_and_Justice) leaders have threatened to cut off military assistance to Ukraine, unless Z caves into demands favoring ultra-conservative farmers, who have banded together in what looks like Poland’s verson of America’s Freedom Caucus.
+Meanwhile, [Law and Justice](https://en.wikipedia.org/wiki/Law_and_Justice) leaders have threatened to cut off military assistance to Ukraine, unless Z caves into demands favoring ultra-conservative farmers, who have banded together in what looks like Poland’s version of America’s Freedom Caucus.
 
 I could say lots of nasty things about Polish political leaders, but I won’t, because it’s Friday, the sun is shining and I’m in a good mood.
 
@@ -7964,7 +7964,7 @@ On Day 608, we accused editors at The Washington Post of **incompetence** for pu
 
 [Video: https://youtu.be/qz62eg5mrx0]
 
-The article, “based on on interviews with more than two dozen current and former Ukrainian, U.S. and Western intelligence and security officials who spoke on the condition of anonymity citing security concerns as well as the sensitivity of the subject,” is, er, **full of errors.**  At least that’s what Valeriy Kondratiuk says. He headed the counterintelligence department at Ukraine’s State Secuirty Service in 2014 and later the Defense Intelligency Agency (2015-2016) and Foreign Intelligence Service (2020).
+The article, “based on on interviews with more than two dozen current and former Ukrainian, U.S. and Western intelligence and security officials who spoke on the condition of anonymity citing security concerns as well as the sensitivity of the subject,” is, er, **full of errors.**  At least that’s what Valeriy Kondratiuk says. He headed the counterintelligence department at Ukraine’s State Security Service in 2014 and later the Defense Intelligence Agency (2015-2016) and Foreign Intelligence Service (2020).
 
 Who, namely, pitched the idea to write about the relationship between Ukraine’s secret services and the CIA during an ongoing war? The two flaks on the byline are Isabelle Khurshudyan, the newspaper’s Ukraine bureau chief, and Greg Miller, an investigative journalist for The Washington Post based in London.
 
@@ -8222,7 +8222,7 @@ Looking on the positive side, we are all lucky to be alive in a country where th
 
 [Image]
 
-Yet Andy [@nyt](http://nyt.com) has published a depressing story about depressed Ukrainians, who sound a lot like depressed expat shitposters I’ve bumped into recently on social media. You know, the ones who swap war stories and their idiotic opinions about BIPOC and Israel’s war with Hamas. They include flabby ex-diplomats and burnt out veterans of foreign (mostly unsuccessful American) military campaigns, who enjoy “fighting” eachother on X and in Kyiv’s hipster bars, alas, instead of doing PT and putting their sought-after essential trench-clearing skills to good use.
+Yet Andy [@nyt](http://nyt.com) has published a depressing story about depressed Ukrainians, who sound a lot like depressed expat shitposters I’ve bumped into recently on social media. You know, the ones who swap war stories and their idiotic opinions about BIPOC and Israel’s war with Hamas. They include flabby ex-diplomats and burnt out veterans of foreign (mostly unsuccessful American) military campaigns, who enjoy “fighting” each other on X and in Kyiv’s hipster bars, alas, instead of doing PT and putting their sought-after essential trench-clearing skills to good use.
 
 [Image]
 
@@ -8530,7 +8530,7 @@ On the other hand, writing and revising copy entwined in the barbed wire of bull
 
 Isabelle and Shane’s article about Chervinsky orchestrating the explosion of a $16 billion undersea gas pipeline[1](#footnote-1) should be read while keeping in mind all the mistakes Isabelle and Greg made in their 4,000-word masterpiece about CIA fuckery with Ukraine, titled “[Ukrainian spies with deep ties to CIA wage shadow war against Russia](https://www.washingtonpost.com/world/2023/10/23/ukraine-cia-shadow-war-russia/),” which we picked apart on Day 608[2](#footnote-2) and thoroughly debunked on Day 611[3](#footnote-3) .
 
-> The article, “based on on interviews with more than two dozen current and former Ukrainian, U.S. and Western intelligence and security officials who spoke on the condition of anonymity citing security concerns as well as the sensitivity of the subject,” is, er, **full of errors.** At least that’s what Valeriy Kondratiuk says. He headed the counterintelligence department at Ukraine’s State Secuirty Service in 2014 and later the Defense Intelligency Agency (2015-2016) and Foreign Intelligence Service (2020).
+> The article, “based on on interviews with more than two dozen current and former Ukrainian, U.S. and Western intelligence and security officials who spoke on the condition of anonymity citing security concerns as well as the sensitivity of the subject,” is, er, **full of errors.** At least that’s what Valeriy Kondratiuk says. He headed the counterintelligence department at Ukraine’s State Security Service in 2014 and later the Defense Intelligence Agency (2015-2016) and Foreign Intelligence Service (2020).
 
 The moral of this story is that we should deeply suspicious all articles [The Washington Post](http://wapo.st) publishes about intelligence, or lack thereof, related to Ukraine during wartime.
 
@@ -8540,7 +8540,7 @@ The moral of this story is that we should deeply suspicious all articles [The Wa
 
 [2](#footnote-anchor-2)
 
-[Day 608](https://abdymok.substack.com/p/day-608). *Inital denial authority* (October 23, 2023)
+[Day 608](https://abdymok.substack.com/p/day-608). *Initial denial authority* (October 23, 2023)
 
 [3](#footnote-anchor-3)
 
@@ -8558,7 +8558,7 @@ The moral of this story is that we should deeply suspicious all articles [The Wa
 
 *Cher* robber baron, you see, we understand that business is about living 18 months in the future, of drawing conclusions about macroeconomic policies that don’t exist.
 
-> On June 20, 2020, during the Rendevous program aired by TV Channel 5, former Prime Minister Oleksiy Honcharuk said the release of a recorded conversation about macroeconomic policy was a manipulation, a “special operation,” conducted to sow discord among members of Z!Team. Honcharuk said a member of parliament, Oleksandr Dubinsky, and his colleagues were behind the stunt, which led to Honcharuk’s dismissal and a shakeup of government[1](#footnote-1).
+> On June 20, 2020, during the Rendezvous program aired by TV Channel 5, former Prime Minister Oleksiy Honcharuk said the release of a recorded conversation about macroeconomic policy was a manipulation, a “special operation,” conducted to sow discord among members of Z!Team. Honcharuk said a member of parliament, Oleksandr Dubinsky, and his colleagues were behind the stunt, which led to Honcharuk’s dismissal and a shakeup of government[1](#footnote-1).
 
 Yeah, well almost three years later, Ukraine’s State Security Service has figured out that Dubinsky is a Russian agent, nom de guerre Buratino (Pinocchio). Kyiv’s Pechersky District Court remanded the MP, who denies any wrongdoing, [to pre-trial custody for 60 days](https://t.me/dubinskypro/14936) (until January 12) on suspicion of treason.
 
@@ -8885,7 +8885,7 @@ Today marks the 90th anniversary of that disaster.
 
 [Image]
 
-Remember Day 639[1](#footnote-1)? That’s when we mentioned cryptoanarchism, alluding to grants of authority over state-sponsored crypto wallets, which, er, remain under the thumbs and pinkies of public servants employed at Ukraine’s [Ministry of Digital Tranformation](https://thedigital.gov.ua/).
+Remember Day 639[1](#footnote-1)? That’s when we mentioned cryptoanarchism, alluding to grants of authority over state-sponsored crypto wallets, which, er, remain under the thumbs and pinkies of public servants employed at Ukraine’s [Ministry of Digital Transformation](https://thedigital.gov.ua/).
 
 [Image]
 
@@ -9130,9 +9130,9 @@ We read the AP *exclusive* report featuring the interview with Z[1](#footnote-1)
 
 [Image]
 
-That Z is/was/will be ready to hold elections is *irrelevent*. The Constitution says he *cis not allowed* hold elections during martial law (and he can’t change the Constitution during martial law). Ukraine’s civil society explain [here.](https://ti-ukraine.org/en/news/ukrainian-civil-society-is-against-holding-elections-during-war/)
+That Z is/was/will be ready to hold elections is *irrelevant*. The Constitution says he *is not allowed* hold elections during martial law (and he can’t change the Constitution during martial law). Ukraine’s civil society explain [here.](https://ti-ukraine.org/en/news/ukrainian-civil-society-is-against-holding-elections-during-war/)
 
-[The decision on Friday to prevent Poroshenko](https://en.interfax.com.ua/news/general/951401.html) fom leaving Ukraine to attend meetings in the United States and Europe reminds me of one more own goal. Z’s doucherocket Serhiy Leshchenko gives a ridiculous, self-destructive explanation below.
+[The decision on Friday to prevent Poroshenko](https://en.interfax.com.ua/news/general/951401.html) from leaving Ukraine to attend meetings in the United States and Europe reminds me of one more own goal. Z’s doucherocket Serhiy Leshchenko gives a ridiculous, self-destructive explanation below.
 
 [Video: https://youtu.be/aBuF2EnlEko]
 
@@ -9240,7 +9240,7 @@ And, finally, this:
 
 [Video: https://youtu.be/QWLawnQ1NnU]
 
-Almost 25 minutes into the vlog post, Isabelle from [The Washington Post](http://wapo.st) appears and answers patty-cake questions about her newspaper’s dubious coverage of the war. It was difficult to understand what Isabelle was trying to say because she failed to decline adjectives and nouns or conjugate verbs. In Russian, altho it sounded Serbianish.
+Almost 25 minutes into the vlog post, Isabelle from [The Washington Post](http://wapo.st) appears and answers patty-cake questions about her newspaper’s dubious coverage of the war. It was difficult to understand what Isabelle was trying to say because she failed to decline adjectives and nouns or conjugate verbs. In Russian, although it sounded Serbianish.
 
 [1](#footnote-anchor-1)
 
@@ -9264,7 +9264,7 @@ In such a situation, discord in Ukraine’s political leadership is extremely in
 
 Z takes risks. But if he’s driven to quash imaginary political rivals serving in the military, driven by the fussing of cockroaches in his unshaven head, the perdimonocle he arranges could more damaging than last year’s first “meat assaults.”
 
-Now everything is very very cold and the situation slippery, with politicians on both sides of the lake on collision courses with eachother. We cannot predict who will ultimately emerge victorious from their respective cement-headed fisticuffs. All wars pass through inflection points. Now is precisely such a moment — no less, but no more.
+Now everything is very very cold and the situation slippery, with politicians on both sides of the lake on collision courses with each other. We cannot predict who will ultimately emerge victorious from their respective cement-headed fisticuffs. All wars pass through inflection points. Now is precisely such a moment — no less, but no more.
 
 ---
 
@@ -9327,7 +9327,7 @@ Andy at [The New York Times](http://nyt.com) tells us the situation is grim and 
 
 Making matters worse, MAGA maniacs in the US House [are warning](https://www.bloomberg.com/news/articles/2023-12-08/gop-hardliners-threaten-speaker-johnson-over-ukraine-funding) Speaker Mike Johnson that any attempt to pass Ukraine aid before the US stems migrant crossings at its southern border would foment a rebellion on his right flank.
 
-Mike, as we learned yesterday, is in direct contact with God, who has appointed him to be a modern-day Moses. The situation may not be hopeless if you believe in devine intervention[2](#footnote-2).
+Mike, as we learned yesterday, is in direct contact with God, who has appointed him to be a modern-day Moses. The situation may not be hopeless if you believe in divine intervention[2](#footnote-2).
 
 Other messiah-related news: [this](https://www.pravda.com.ua/articles/2023/12/9/7432238/) by Mykhailo Dubyniansky[3](#footnote-3):
 
@@ -9371,7 +9371,7 @@ Ouch.
 
 [Video: https://youtu.be/t982qjxY4EI]
 
-Staff at the newspaper involved in “putting the package together” might consider resignation. This is the same The Washington Post that [concocted a fairytale](https://www.washingtonpost.com/national-security/2023/11/11/nordstream-bombing-ukraine-chervinsky/) blaming Colonel Roman Chervinsky for blowing up gas pipelines underneath the Artic Ocean.
+Staff at the newspaper involved in “putting the package together” might consider resignation. This is the same The Washington Post that [concocted a fairytale](https://www.washingtonpost.com/national-security/2023/11/11/nordstream-bombing-ukraine-chervinsky/) blaming Colonel Roman Chervinsky for blowing up gas pipelines underneath the Arctic Ocean.
 
 We continue to urge Ukraine lovers to **ignore experts and stay away from analysts**, especially ones contacted by this newspaper, where journalists don’t even bother to name the analysts they cite. Anglophiles and heroin merchants don’t count[2](#footnote-2)[3](#footnote-3) .
 
@@ -9799,7 +9799,7 @@ Next year we will have to struggle not so much with so much that is relevant, bu
 
 [Image]
 
-Actually, no. There will be peace only after the western leaders capitulate to Putin and agrees to discussions. If they give up, the opinions of Ukraine’s political establishment will be irrelevent, because they will have zero agency. Indeed, Ukraine will have probably ceased to exist. We’ll all be evading capture in our expensive invisibility cloaks, digging an elaborate labyrinth of root cellars somewhere in the countryside.
+Actually, no. There will be peace only after the western leaders capitulate to Putin and agrees to discussions. If they give up, the opinions of Ukraine’s political establishment will be irrelevant, because they will have zero agency. Indeed, Ukraine will have probably ceased to exist. We’ll all be evading capture in our expensive invisibility cloaks, digging an elaborate labyrinth of root cellars somewhere in the countryside.
 
 Z or Kvartal 95 or the half dozen irreplaceable managers of the President’s Office, who six months ago inflated expectations and egg prices only to later blame others, will become increasingly irrelevant, hopefully more helpful and less annoying.
 
