@@ -1105,7 +1105,7 @@ Herе’s Valentyn talking about partisan warfare.
 
 [Video: https://youtu.be/sgfy9lans1s]
 
-Vasyl, on the other hand, was a Red Army foot soldier. He wrote about the surreal experience fighting in the middle of Ukraine (not far away from Z’s hometown Krivyi Rih).
+Vasyl, on the other hand, was a Red Army foot soldier. He wrote about the surreal experience fighting in the middle of Ukraine (not far away from Z’s hometown Kryvyi Rih).
 
 Layers of years and events in Minsk long ago eroded away in my feverish mind, but some unforgettable conversations with Taras and Bykaŭ from time to time rise up very vividly. They are the foundation of the edifice my fate has been built on. I know all too well that I can't forget them, and the observations can't be drowned in Mukuzani.
 
@@ -7469,7 +7469,7 @@ Keith and his entourage will be with us for an entire week. Ugh.
 
 The President’s Office has no doubt carefully prepared briefings and enthusiastic officials to conceal widespread contempt for Z’s idiotarian style of governance and military management.
 
-Russia smashed Krivyi Rih, Kharkiv, Vinnytsia, Zaporizhia and Odesa last night. Keith can visit and tell local residents Donald’s that paid-for anti-aircraft missiles are on the way finally, kind of. He can visit local hospitals, comfort the wounded and newly homeless. Photo ops abound. Def visit Sumy.
+Russia smashed Kryvyi Rih, Kharkiv, Vinnytsia, Zaporizhia and Odesa last night. Keith can visit and tell local residents Donald’s that paid-for anti-aircraft missiles are on the way finally, kind of. He can visit local hospitals, comfort the wounded and newly homeless. Photo ops abound. Def visit Sumy.
 
 ---
 
