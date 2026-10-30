@@ -1,0 +1,108 @@
+name: Download 26_redact images
+
+on:
+  push:
+    paths:
+      - ".github/workflows/download-26-images.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  download-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download embedded images
+        shell: bash
+        run: |
+          python - <<'PY'
+          import csv
+          import concurrent.futures
+          import re
+          import time
+          import urllib.request
+          from pathlib import Path
+          from urllib.parse import urlparse
+
+          source = Path("working_set/26_redact - Copy.md")
+          output = Path("working_set/26_images")
+          output.mkdir(parents=True, exist_ok=True)
+          text = source.read_text(encoding="utf-8")
+
+          image_re = re.compile(r'!\\[([^\\]]*)\\]\\((https?://[^)]+)\\)')
+          matches = list(image_re.finditer(text))
+          if not matches:
+              raise SystemExit("No embedded image URLs found.")
+
+          records = []
+          for number, match in enumerate(matches, 1):
+              before = text[:match.start()]
+              day_matches = list(re.finditer(r'^## (Day \\d+|Year \\d+|Public Service Announcement.*)$', before, re.M))
+              day = day_matches[-1].group(1) if day_matches else ""
+              date_matches = list(re.finditer(r'^\\*\\*Date:\\*\\*\\s*(.*?)\\s*$', before, re.M))
+              date = date_matches[-1].group(1).strip() if date_matches else ""
+              url = match.group(2)
+              ext = Path(urlparse(url).path).suffix.lower() or ".jpg"
+              if ext not in {".jpg", ".jpeg", ".png", ".gif", ".webp", ".avif"}:
+                  ext = ".jpg"
+              filename = f"{number:03d}{ext}"
+              records.append({
+                  "number": number,
+                  "filename": filename,
+                  "day_or_section": day,
+                  "date": date,
+                  "alt_text": match.group(1),
+                  "url": url,
+              })
+
+          urls = [r["url"] for r in records]
+          if len(set(urls)) != len(urls):
+              raise SystemExit("Duplicate image URLs found; stopping to avoid ambiguous copies.")
+
+          def download(record):
+              target = output / record["filename"]
+              request = urllib.request.Request(
+                  record["url"],
+                  headers={"User-Agent": "Mozilla/5.0 (compatible; archive-image-backup/1.0)"}
+              )
+              last_error = None
+              for attempt in range(4):
+                  try:
+                      with urllib.request.urlopen(request, timeout=60) as response:
+                          data = response.read()
+                      if not data:
+                          raise ValueError("Empty response")
+                      target.write_bytes(data)
+                      return len(data)
+                  except Exception as exc:
+                      last_error = exc
+                      time.sleep(2 ** attempt)
+              raise RuntimeError(f"Failed image {record['number']}: {last_error}")
+
+          with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+              sizes = list(pool.map(download, records))
+
+          manifest = output / "manifest.csv"
+          with manifest.open("w", newline="", encoding="utf-8-sig") as f:
+              writer = csv.DictWriter(
+                  f,
+                  fieldnames=["number", "filename", "day_or_section", "date", "alt_text", "url", "bytes"]
+              )
+              writer.writeheader()
+              for record, size in zip(records, sizes):
+                  writer.writerow({**record, "bytes": size})
+
+          print(f"Downloaded {len(records)} images ({sum(sizes):,} bytes) into {output}")
+          PY
+
+      - name: Commit image copies
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add working_set/26_images
+          git commit -m "Add image copies from 26_redact archive" || echo "No changes to commit"
+          git push
