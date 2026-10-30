@@ -14144,7 +14144,7 @@ Dusting of snow this morning.
 
 Kim Barker has a lovely article w/ pictures about how miserable life is in Odesa this winter, especially for the elderly and disabled[1](#footnote-1).
 
-Z in his Christmas Day pep talk said he and his team talked for an hour with Steven Witkoff and Jared Kushner about next steps and the timing of peace framework plans. Putin will def not agree to any framework that might restore Ukraine’s viability after the fighting stops. Talking continues regardless of this fact.
+Z in his Christmas Day pep talk said he and his team talked for an hour with Steven Witkoff and Jared Kushner about next steps and the timing of peace framework plans. Putin will def not agree to any framework that might restore Ukraine’s viability after the fighting stops. Talking continues irregardless of this fact.
 
 Parties to the conflict are now discussing DMZs, zones of influence, ADBZs, free trade zones, etc., presidential elections, referendums, etc. For this there are at least two reasons: desperation and a complete absence of options. Some try to counteract these by crusting proposals in security guarantees, or by cramming them with prosperity roadmaps, or by floating them in demilitarized zones, but these solutions—like reckless bling bling or a bald man’s rug—do little more than shine light on the problem.
 
