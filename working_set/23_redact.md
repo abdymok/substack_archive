@@ -2705,7 +2705,7 @@ An organized criminal gang guards the tulips in [Spivoche Pole](https://spivoche
 
 [Image]
 
-Another option — but I should prob agree with security first — is running around Pecherska Lavra at dawn. There are plenty of paths there for a good 10K route and impressive scenery. If that doesn’t work, we’ll check out the flights of stairs along the outside of the compound’s walls to Dniproskyi Descent, which can be used to either circle back or for getting to Park of Eternal Glory (a slightly longer run).
+Another option — but I should prob agree with security first — is running around Pecherska Lavra at dawn. There are plenty of paths there for a good 10K route and impressive scenery. If that doesn’t work, we’ll check out the flights of stairs along the outside of the compound’s walls to Dniprosky Descent, which can be used to either circle back or for getting to Park of Eternal Glory (a slightly longer run).
 
 ---
 
