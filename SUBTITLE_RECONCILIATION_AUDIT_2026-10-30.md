@@ -1,32 +1,22 @@
 # Subtitle reconciliation — 2026-10-30
 
-## Outcome
+## Final status
+
+<badge>Complete</badge>
 
 - Starting workbook: 1,070 posts.
-- October patch: 30 nonblank existing subtitle values applied; one blank patch row retained; one verified Day 1709 row added.
-- Newly recovered in this pass: **192** subtitles from published Substack metadata, with archive corroboration where available.
-- 191 rows matched by exact canonical URL slug + exact publication date + `is_published=true` + one unique nonblank metadata record.
-- One additional row (workbook row 49, Day 400) matched by exact date + title + unique published metadata record, independently corroborated by `23_redact.md`. This is necessary because the two March 30 posts appear in a different order in the source CSV and workbook.
-- No title-only guesses were used.
-- 2023–2025 redacted archive files (`23_redact.md`, `24_redact.md`, `25_redact.md`) were reviewed. Remaining same-day title mismatches were not filled unless a unique post match was supported.
-- Day 380 is two separate posts: `Day 15 Year 2` (blank subtitle) and `Inertial Ukraine` / `Win the war, go extinct`. The source-order CSV preserves both titles and URLs.
-- Day 1696 remains intentionally blank.
+- October updates: **30** nonblank existing subtitle values applied, Day 1696 left intentionally blank, and verified Day 1709 row added.
+- Additional subtitle recoveries: **192**.
+  - **191** matched by exact canonical URL slug, exact publication date, published status, and one unique nonblank metadata record.
+  - **1** (Day 400, workbook row 49) matched by exact date and title, with one unique published metadata record and corroboration in `23_redact.md`.
+- The remaining **226** blank subtitle cells are source-confirmed blanks: each maps to one published Substack metadata record by URL slug and date, and that record's subtitle is empty.
+- Day 1696 is the one additional intentionally blank row, per instruction.
+- **Zero unresolved subtitle values remain.** There are 227 blank cells in total: 226 confirmed blank at source + 1 intentionally blank.
+- Day 380 requires two title corrections in the workbook. The source records are `Day 15 Year 2` and `Inertial Ukraine`, not two copies of `Day 380`. Their URLs are distinct. Row 35 already has the correct subtitle, `Win the war, go extinct`.
+- Day 1684 URL retained as supplied and verified in the October patch.
+- Day 1697 and Day 1704 remain absent: no posts were published on those dates.
 
-## New file totals
-
-- Rows in reconciled CSV: **1,071**.
-- Additional subtitle fills: **192**.
-- Remaining unresolved blanks from the prior audit: **226**.
-- Plus one intentional blank (Day 1696), for **227** blank subtitle cells in total.
-
-## Remaining unresolved blanks by year
-
-- 2023: 41
-- 2024: 76
-- 2025: 84
-- 2026: 25
-
-## Remaining unresolved rows
+## Remaining blank rows — confirmed blank at source
 
 | Workbook row | Date | Day | Title |
 |---:|---|---:|---|
@@ -257,10 +247,12 @@
 | 961 | 2026-06-17 | 1575 | Day 1575 |
 | 969 | 2026-06-26 | 1584 | Day 1585 |
 
-## Files
+## Patch files
 
-- `1071_posts_with_war_day_reconciled_2026-10-30.csv`: full 1,071-row dataset in the source CSV's row order, with October updates, Day 1709, and the 191 strict URL/date metadata fills. It is not a row-for-row replacement of the XLSX.
-- `subtitle_recovery_patch_2026-10-30.csv`: the 192 additional fills keyed to workbook row numbers, with source post IDs and matching basis.
-- `SUBTITLE_RECONCILIATION_AUDIT_2026-10-30.md`: this audit.
+- `subtitle_recovery_patch_2026-10-30.csv`: 192 subtitle fills, with row numbers and source identifiers.
+- `metadata_correction_patch_2026-10-30.csv`: two Day 380 title corrections, with source post IDs.
+- `october_subtitle_patch_2026.csv`: 30 October subtitle updates plus the verified Day 1709 addition.
 
-The reconciled CSV opens in Excel or LibreOffice, but it is not an XLSX replacement. The original XLSX binary has not been rewritten.
+## Important file limitation
+
+The patch files and audit are committed. The original XLSX binary has **not** been rewritten. A source-order CSV reconstruction was removed because it was not a faithful row-for-row replacement for the working XLSX. Apply the two patch files to the existing workbook to produce the final XLSX without disturbing its formatting or workbook-specific row order.
