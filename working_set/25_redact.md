@@ -52,7 +52,7 @@ I’ll try to scare the shit out of him if our paths cross, physically, or we ca
 
 [1](#footnote-anchor-1)
 
-[Z Expresses Hope for 2025, but Russia Presses On With Attacks](https://www.nytimes.com/2025/01/01/world/europe/ukraine-russia-war-zelensky.html).I*n his New Year’s address, President Volodymyr Z of Ukraine urged continued U.S. support* ([The New York Times](http://nyt.com), January 1, 2025)
+[Z Expresses Hope for 2025, but Russia Presses On With Attacks](https://www.nytimes.com/2025/01/01/world/europe/ukraine-russia-war-Z.html).I*n his New Year’s address, President Volodymyr Z of Ukraine urged continued U.S. support* ([The New York Times](http://nyt.com), January 1, 2025)
 
 [2](#footnote-anchor-2)
 
@@ -114,7 +114,7 @@ Artificial intelligence cannot understand the nuances of language as people do, 
 
 I listened to the original version of the conversation, in which both Z and Lex said nothing especially interesting in Russian, Ukrainian or English.
 
-It wasn’t the “wild ride of a conversation” advertised by Lex. Just boring: bullshit in, bullshit out. France 24 has all [the details](https://www.france24.com/en/europe/20250105-zelensky-trump-peace-russia-ukraine-war).
+It wasn’t the “wild ride of a conversation” advertised by Lex. Just boring: bullshit in, bullshit out. France 24 has all [the details](https://www.france24.com/en/europe/20250105-Z-trump-peace-russia-ukraine-war).
 
 ---
 
@@ -1087,7 +1087,7 @@ The president in his daily pep talk did not mention:
 
 1. [combat immunity](https://defence.org.ua/en/combat-immunity-as-one-of-the-guarantees-of-protection-of-the-rights-of-servicemen-and-certain-issues-of-the-military-justice-system-in-ukraine/),
 2. [takeover of Ukraine’s Defense Procurement Agency](https://www.reuters.com/world/europe/top-ukrainian-defence-official-sacked-amid-infighting-over-procurement-2025-01-28/), and
-3. [talks w/ Team USA about ending the war in 24 hours](https://www.france24.com/en/live-news/20250128-putin-says-talks-with-ukraine-possible-but-not-with-zelensky).
+3. [talks w/ Team USA about ending the war in 24 hours](https://www.france24.com/en/live-news/20250128-putin-says-talks-with-ukraine-possible-but-not-with-Z).
 
 The plight of about 300,000 Ukrainian refugees in the United States aren’t on the cue cards, yet, either, and no, Z probably won’t come to the defense of Denmark, which opposes the hostile takeover of Greenland.
 
@@ -1627,7 +1627,7 @@ So far, the story has been about Donald’s submission to strongmen of the sort 
 
 Puhlease.
 
-Ukraine’s piar campaign this week also included a Patty-Cake interview with Shaun from [The Guardian](https://www.theguardian.com/world/2025/feb/11/zelenskyy-europe-cannot-guarantee-ukraines-security-without-america).
+Ukraine’s piar campaign this week also included a Patty-Cake interview with Shaun from [The Guardian](https://www.theguardian.com/world/2025/feb/11/Z-europe-cannot-guarantee-ukraines-security-without-america).
 
 [Video: https://youtu.be/BOy6r6F26cY]
 
@@ -1913,7 +1913,7 @@ Elon [writes on X](https://x.com/elonmusk/status/1892613981426102465) that Z’s
 >
 > “In reality, he is despised by the people of Ukraine, which is why he has refused to hold an election.”
 
-Elon challenged [Z](https://www.telegraph.co.uk/volodymyr-zelenskyy/) to call an election and claimed Donald is justified in freezing the Ukrainian leader out of peace talks.
+Elon challenged [Z](https://www.telegraph.co.uk/volodymyr-Z/) to call an election and claimed Donald is justified in freezing the Ukrainian leader out of peace talks.
 
 > “President Trump is right to ignore him and solve for peace independent of the disgusting, massive graft machine feeding off the dead bodies of Ukrainian soldiers,” he tweets.
 
@@ -2003,7 +2003,7 @@ Met a 25-year old soldier on medical leave from the front fixing his torn ligame
 
 ---
 
-Franklin at [The Atlantic](https://www.theatlantic.com/ideas/archive/2025/02/zelensky-resistance-trump-putin/681812/) hagiographizes Z[1](#footnote-1).
+Franklin at [The Atlantic](https://www.theatlantic.com/ideas/archive/2025/02/Z-resistance-trump-putin/681812/) hagiographizes Z[1](#footnote-1).
 
 > When the history of the era is written, Z will be seen as the global leader of the anti-authoritarian resistance, who refused to accept the terms that the powerful sought to impose on his nation. He clarified the terms of the struggle with his heroic example.
 
@@ -2039,7 +2039,7 @@ The title of the clip is, er, perhaps, too suggestive.
 
 [1](#footnote-anchor-1)
 
-[A Man Who Actually Stands Up to Trump](https://www.theatlantic.com/ideas/archive/2025/02/zelensky-resistance-trump-putin/681812/). *Z’s very presence reprimands everyone who surrendered to Trump* ([The Atlantic](http://theatlantic.com), February 25, 2025)
+[A Man Who Actually Stands Up to Trump](https://www.theatlantic.com/ideas/archive/2025/02/Z-resistance-trump-putin/681812/). *Z’s very presence reprimands everyone who surrendered to Trump* ([The Atlantic](http://theatlantic.com), February 25, 2025)
 
 [2](#footnote-anchor-2)
 
@@ -2339,11 +2339,11 @@ As of this writing, Donald says he wants Z to perform a public act of genuflexio
 
 [Image]
 
-JD on Monday [said](https://www.foxnews.com/media/vance-reveals-where-things-broke-apart-during-white-house-zelenskyy-blowup) the "door is open" for Z if he is "willing to seriously talk peace."
+JD on Monday [said](https://www.foxnews.com/media/vance-reveals-where-things-broke-apart-during-white-house-Z-blowup) the "door is open" for Z if he is "willing to seriously talk peace."
 
 > "If you want real security guarantees, if you want to actually ensure that [Russian leader] Vladimir Putin does not invade Ukraine again, the very best security guarantee is to give Americans economic upside in the future of Ukraine," JD said on Fox News' "Hannity." "That is a way better security guarantee than 20,000 troops from some random country that hasn't fought a war in 30 or 40 years."
 
-[According to Axios](https://www.axios.com/2025/03/04/jd-vance-trump-zelensky-ukraine-russia-fox-news), JD said Z "showed a clear unwillingness to engage in the peace process" that Trump has said is "the policy of the American people and of their president." He also accused Z of showing "a certain sense of entitlement" at the Oval Office.
+[According to Axios](https://www.axios.com/2025/03/04/jd-vance-trump-Z-ukraine-russia-fox-news), JD said Z "showed a clear unwillingness to engage in the peace process" that Trump has said is "the policy of the American people and of their president." He also accused Z of showing "a certain sense of entitlement" at the Oval Office.
 
 We might learn more about Team USA’s plans for Z and Ukraine during Donald’s address to a joint session of Congress this evening. If there are any.
 
@@ -2550,7 +2550,7 @@ Last week Russia killed more than a dozen residents of Kostiantynivka, Donetsk r
 
 [Image]
 
-Four more people were killed and 38 wounded when [a bomb hit the Central Hotel in Kryvyi Rih](https://www.nytimes.com/2025/03/06/world/europe/ukraine-russia-strikes-zelensky.html), Z’s home town, on March 5. Today is a a day of mourning in the city.
+Four more people were killed and 38 wounded when [a bomb hit the Central Hotel in Kryvyi Rih](https://www.nytimes.com/2025/03/06/world/europe/ukraine-russia-strikes-Z.html), Z’s home town, on March 5. Today is a a day of mourning in the city.
 
 ---
 
@@ -2690,7 +2690,7 @@ Mohammed ordered Jamal, a journalist critical of his rule, [to be chopped up int
 
 Heat-seeking-missile-for-Donald’s-ass Marco is also in Jeddah for discussions with Z’s potent managers about ending Russia’s invasion of Ukraine.
 
-> “What we want to know is, are they interested entering some sort of peace conversation and general outlines of the kinds of things they could consider, recognizing that it has been a costly and bloody war for the Ukrainians. They have suffered greatly, and their people have suffered greatly. And it’s hard in the aftermath of something like that to even talk about concessions, but that’s the only way this is going to end and prevent more suffering. …I’m not going to set any conditions on what they have to or need to do. I think we want to listen to see how far they’re willing to go and then compare that to what the Russians want and see how far apart we truly are.” - [Marco](https://apnews.com/article/russia-ukraine-war-zelenskyy-rubio-us-saudi-arabia-8f1b9d30915d6e0590dab7e54fe02475)[1](#footnote-1)
+> “What we want to know is, are they interested entering some sort of peace conversation and general outlines of the kinds of things they could consider, recognizing that it has been a costly and bloody war for the Ukrainians. They have suffered greatly, and their people have suffered greatly. And it’s hard in the aftermath of something like that to even talk about concessions, but that’s the only way this is going to end and prevent more suffering. …I’m not going to set any conditions on what they have to or need to do. I think we want to listen to see how far they’re willing to go and then compare that to what the Russians want and see how far apart we truly are.” - [Marco](https://apnews.com/article/russia-ukraine-war-Z-rubio-us-saudi-arabia-8f1b9d30915d6e0590dab7e54fe02475)[1](#footnote-1)
 
 The plan for achieving peace in Ukraine, according to Marco:
 
@@ -3284,7 +3284,7 @@ The latest round of talks between the US and Russia is taking place in the Saudi
 
 And this:
 
-> Some senior Trump administration officials bristled at criticisms of the White House made by Z in an [interview](https://time.com/7270880/zelensky-trump-putin-ukraine-endgame-interview/) with Time magazine — in particular, the Ukrainian president’s claim that senior U.S. officials appear to be taking Putin’s word over the guidance of the U.S. intelligence community.
+> Some senior Trump administration officials bristled at criticisms of the White House made by Z in an [interview](https://time.com/7270880/Z-trump-putin-ukraine-endgame-interview/) with Time magazine — in particular, the Ukrainian president’s claim that senior U.S. officials appear to be taking Putin’s word over the guidance of the U.S. intelligence community.
 >
 > “**I believe Russia has managed to influence some people on the White House team through information**,” Z said in an article published Monday.
 >
@@ -5436,7 +5436,7 @@ Former US Ambo Bridget sez[1](#footnote-1):
 
 > […] I have proudly served five presidents ― Republicans and Democrats ― to make sure the United States is the strongest, greatest country that the world has ever known.
 >
-> I respect the president’s right and responsibility to determine U.S. foreign policy ― with proper checks and balances by U.S. Congress. It is the role of America’s Foreign Service to execute that policy. Unfortunately, the policy since the beginning of the Trump administration has been to [put pressure on the victim](https://www.freep.com/story/news/world/2025/02/28/trump-zelenskyy-clash-oval-office-ukraine/80848220007/), Ukraine, rather than on the aggressor, Russia. […]
+> I respect the president’s right and responsibility to determine U.S. foreign policy ― with proper checks and balances by U.S. Congress. It is the role of America’s Foreign Service to execute that policy. Unfortunately, the policy since the beginning of the Trump administration has been to [put pressure on the victim](https://www.freep.com/story/news/world/2025/02/28/trump-Z-clash-oval-office-ukraine/80848220007/), Ukraine, rather than on the aggressor, Russia. […]
 >
 > As such, I could no longer in good faith carry out the administration’s policy and felt it was my duty to step down. After nearly three decades serving our country, I [resigned](https://www.cnn.com/2025/04/12/europe/ukraine-us-ambassador-resignation-intl-latam) as our ambassador to Ukraine.
 
@@ -5642,7 +5642,7 @@ And why is Donald scooping this?
 
 > “My phone conversation today with President Putin of Russia was a very good and productive one. We agreed to an immediate Ceasefire on all Energy and Infrastructure, with an understanding that we will be working quickly to have a Complete Ceasefire and, ultimately, an END to this very horrible War between Russia and Ukraine.” — March 18, 2025, [post on social media](https://x.com/TrumpDailyPosts/status/1902070224649678873)
 
-> “You could say that I was very angry, pissed off, when … Putin started getting into Z’s credibility, because that’s not going in the right location … New leadership means you’re not going to have a deal for a long time.” — March 30, 2025, [remarks to NBC News](https://www.nbcnews.com/politics/donald-trump/trump-angry-putin-zelenskyy-iran-sanctions-rcna198729)
+> “You could say that I was very angry, pissed off, when … Putin started getting into Z’s credibility, because that’s not going in the right location … New leadership means you’re not going to have a deal for a long time.” — March 30, 2025, [remarks to NBC News](https://www.nbcnews.com/politics/donald-trump/trump-angry-putin-Z-iran-sanctions-rcna198729)
 
 > “HOPEFULLY RUSSIA AMD UKRAINE WILL MAKE A DEAL THIS WEEK. BOTH WILL THEN START TO DO BIG BUSINESS WITH THE UNITED STATES OF AMERICA, WHICH IS THRIVING, AND MAKE A FORTUNE!” — April 20, 2025, [social media post](https://truthsocial.com/@realDonaldTrump/posts/114372126396548824)
 
@@ -5902,7 +5902,7 @@ No one wants to confront China if Donald and Pete are leading the charge.
 
 ---
 
-Same old same old from Z, whose office is reeling in panic following the murder of former MP Andriy Portnov, who [reportedly](https://censor.net/ua/news/3554886/portnov-zustrichavsya-z-zelenskym-ta-yiogo-komandoyu) met with the president and his team in Kyiv days before being gunned down in Spain.
+Same old same old from Z, whose office is reeling in panic following the murder of former MP Andriy Portnov, who [reportedly](https://censor.net/ua/news/3554886/portnov-zustrichavsya-z-Zm-ta-yiogo-komandoyu) met with the president and his team in Kyiv days before being gunned down in Spain.
 
 But that’s another story.
 
@@ -6054,7 +6054,7 @@ Madyar posts a anti-Russia drone report from the zero line.
 
 [2](#footnote-anchor-2)
 
-[The game plan of Z's powerful chief of staff](https://www.politico.eu/article/andriy-yermak-zelenskyy-chief-of-staff-ukraine-profile/). *Z's chief of staff is accused of being a ruthless political operator. What are his ambitions?* ([Politico](http://politico.eu), June 3, 2025)
+[The game plan of Z's powerful chief of staff](https://www.politico.eu/article/andriy-yermak-Z-chief-of-staff-ukraine-profile/). *Z's chief of staff is accused of being a ruthless political operator. What are his ambitions?* ([Politico](http://politico.eu), June 3, 2025)
 
 [3](#footnote-anchor-3)
 
@@ -7489,7 +7489,7 @@ Ordinarily, INR would have provided *insight*, but the bureau is being gutted.
 
 The White House pushed back on the reports.
 
-> “The Financial Times is notorious for taking words wildly out of context to get clicks because their paper is dying,” said White House Press Secretary Karoline Leavitt in a statement to [Newsweek](https://www.newsweek.com/trump-zelensky-moscow-st-petersburg-putin-russia-strikes-2099034).
+> “The Financial Times is notorious for taking words wildly out of context to get clicks because their paper is dying,” said White House Press Secretary Karoline Leavitt in a statement to [Newsweek](https://www.newsweek.com/trump-Z-moscow-st-petersburg-putin-russia-strikes-2099034).
 
 We seldom agree with Karoline about anything, but this is an exception.
 
@@ -7709,7 +7709,7 @@ The greasy clowns have pushed the horses and now the whole circus is about to co
 
 [1](#footnote-anchor-1)
 
-[Anger builds in Ukraine as Z signs law targeting corruption watchdogs](https://www.politico.eu/article/ukraine-corruption-law-protests-volodymyr-zelenskyy/). *Protesters mass in Kyiv for the first time since Russia’s full-scale invasion in 2022* ([Politico](http://politico.eu), July 22, 2025)
+[Anger builds in Ukraine as Z signs law targeting corruption watchdogs](https://www.politico.eu/article/ukraine-corruption-law-protests-volodymyr-Z/). *Protesters mass in Kyiv for the first time since Russia’s full-scale invasion in 2022* ([Politico](http://politico.eu), July 22, 2025)
 
 ---
 
@@ -7811,7 +7811,7 @@ Pekhno has the latest frontline brief.
 
 [1](#footnote-anchor-1)
 
-[A Man Who Actually Stands Up to Trump](https://www.theatlantic.com/ideas/archive/2025/02/zelensky-resistance-trump-putin/681812/). *Z’s very presence reprimands everyone who surrendered to Trump* ([The Atlantic](http://theatlantic.com), February 24, 2025)
+[A Man Who Actually Stands Up to Trump](https://www.theatlantic.com/ideas/archive/2025/02/Z-resistance-trump-putin/681812/). *Z’s very presence reprimands everyone who surrendered to Trump* ([The Atlantic](http://theatlantic.com), February 24, 2025)
 
 [2](#footnote-anchor-2)
 
@@ -7829,7 +7829,7 @@ Pekhno has the latest frontline brief.
 
 I just listened to Luke compare Kyiv to Berlin during the Cold War.
 
-> *"It seems like Kyiv is the most important city in Europe. It feels to me like Berlin felt during the Cold War. It's the place where the future of Europe will be decided, either whether the Russians win and prevail and we're in a new age of conquest and imperialism, or actually whether the enlightenment ideal of humankind, of decency and freedom, whether that prevails. I don't know the answer, but, for now, I'm strangely happy to be here…"* ([The Guardian](https://www.theguardian.com/news/audio/2025/jul/29/protests-against-zelenskyy-as-drones-torment-ukraine-podcast), July 29, 2025)
+> *"It seems like Kyiv is the most important city in Europe. It feels to me like Berlin felt during the Cold War. It's the place where the future of Europe will be decided, either whether the Russians win and prevail and we're in a new age of conquest and imperialism, or actually whether the enlightenment ideal of humankind, of decency and freedom, whether that prevails. I don't know the answer, but, for now, I'm strangely happy to be here…"* ([The Guardian](https://www.theguardian.com/news/audio/2025/jul/29/protests-against-Z-as-drones-torment-ukraine-podcast), July 29, 2025)
 
 Naturally, I checked. 57. Which means during the height of Cold War Berlin, Luke was, er:
 
@@ -8103,7 +8103,7 @@ Henry and Andriy want us to celebrate Ukraine’s laboratory of democracy @[Le P
 
 [Image]
 
-> La rue s'est mobilisée. La presse ukrainienne a grondé. [Les alliés occidentaux de l'Ukraine se sont inquiétés](https://archive.ph/o/CLoRY/https://www.lepoint.fr/monde/corruption-zelensky-seme-le-trouble-24-07-2025-2595024_24.php). Mais tout ce débat, loin de conduire à la cacophonie et à la crise qu'espéraient les ennemis du dehors, a débouché sur un compromis. (ibid)
+> La rue s'est mobilisée. La presse ukrainienne a grondé. [Les alliés occidentaux de l'Ukraine se sont inquiétés](https://archive.ph/o/CLoRY/https://www.lepoint.fr/monde/corruption-Z-seme-le-trouble-24-07-2025-2595024_24.php). Mais tout ce débat, loin de conduire à la cacophonie et à la crise qu'espéraient les ennemis du dehors, a débouché sur un compromis. (ibid)
 
 Le passage sur les "170 réformes en trois ans" mérite une mention spéciale pour son lyrisme comptable. BHL énumère ces réformes avec l'enthousiasme d'un commercial vantant les mérites d'un aspirateur révolutionnaire. Digitalisation de l'économie ! Décentralisation des infrastructures ! Armée de drones financée par crowdfunding ! On croirait lire un communiqué de presse gouvernemental relu par Ronsard. Cette capacité à transformer des mesures administratives en épopée héroïque relève du pur talent littéraire – dommage que la réalité soit généralement plus prosaïque que les envolées lyriques de notre Cicéron des plateaux télé.
 
@@ -8473,7 +8473,7 @@ The Financial Times [reveals](https://archive.ph/UnXEv#selection-1889.0-2555.152
 
 Meanwhile, the actual war grinds on. ISW [reports](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-august-13-2025) Russia suffered 60,000 casualties in July alone—Vova's response is moving 27,000 troops to priority sectors and manufacturing 79,000 strike drones this year. Russian forces infiltrate near Pokrovsk while systematically destroying Ukrainian evacuation routes. Ukraine's sole advantage—deep strikes—is precisely what any Donald "air truce" would eliminate.
 
-Tom Cooper's Ukrainian military sources [describe](https://xxtomcooperxx.substack.com/p/zelensky-shield) systematic military degeneration under Z, with excellent tactical analysis becoming mere "what if" scenarios. Children walk through combat zones to reach evacuation points while 1,150 more need emergency evacuation from Dobropillia.
+Tom Cooper's Ukrainian military sources [describe](https://xxtomcooperxx.substack.com/p/Z-shield) systematic military degeneration under Z, with excellent tactical analysis becoming mere "what if" scenarios. Children walk through combat zones to reach evacuation points while 1,150 more need emergency evacuation from Dobropillia.
 
 [Image]
 
@@ -8602,7 +8602,7 @@ I think it was Day 1109 when we plugged deep sea ballerinas into the equation. A
 3. Return of Russian language, UOC MP.
 4. et cetera.
 
-[Z is flying](https://www.nytimes.com/live/2025/08/17/us/trump-news) to the US capitol [to hash out the details](https://www.theguardian.com/world/2025/aug/16/zelenskyy-to-meet-trump-on-monday-putin-alaska-summit-briefing) with Donald on Monday. He will be chaperoned by European leaders.
+[Z is flying](https://www.nytimes.com/live/2025/08/17/us/trump-news) to the US capitol [to hash out the details](https://www.theguardian.com/world/2025/aug/16/Z-to-meet-trump-on-monday-putin-alaska-summit-briefing) with Donald on Monday. He will be chaperoned by European leaders.
 
 ---
 
@@ -9112,7 +9112,7 @@ Which brings me directly to John, again, who today [opines](https://www.washingt
 
 *Incoherent?* More like psychotic.
 
-And back to [award-winning Keith](https://x.com/ZelenskyyUa/status/1960023126336500058), who, we recall, re-raised his hand in 2003 and played a critical role in the disastrous US occupation of Iraq as the director of operations of the Coalition Provisional Authority.
+And back to [award-winning Keith](https://x.com/ZUa/status/1960023126336500058), who, we recall, re-raised his hand in 2003 and played a critical role in the disastrous US occupation of Iraq as the director of operations of the Coalition Provisional Authority.
 
 That didn't end well.
 
@@ -9566,7 +9566,7 @@ Karol reminds me of a vampire.
 
 Two weeks ago, Putin and Trump convened in Alaska to “end the war.” It produced exactly what one would expect from three hours of cameras and handshakes: nothing. Since then, Moscow has treated Ukraine to another missile deluge while Xi, Putin, and a gout-ridden Lukashenko waddled across Beijing red carpets. Xi spoke of a “more just international order.” Translation: fuck the current one. Lukashenko, barely able to shuffle a hundred feet, has been demoted from Europe’s last dictator to geopolitical slapstick.
 
-The contrast is instructive. The West confuses diplomacy with stagecraft—[Macron with his summits](https://www.lemonde.fr/en/international/article/2025/09/01/macron-and-starmer-will-co-chair-paris-summit-on-ukraine-security-guarantees-with-zelensky_6744932_4.html), Starmer with his [“security guarantees.](https://www.bbc.com/news/articles/cx2qr08l1yko)” Russia answers with missile diplomacy and the strategic flick of the thermostat. CNN, in its infinite solemnity, warns that “[winter is coming](https://edition.cnn.com/2025/09/02/politics/winter-is-coming-for-ukraine-what-it-will-take-to-keep-the-lights-on),” as though blackouts were meteorology rather than deliberate war crimes measured in degrees Celsius.
+The contrast is instructive. The West confuses diplomacy with stagecraft—[Macron with his summits](https://www.lemonde.fr/en/international/article/2025/09/01/macron-and-starmer-will-co-chair-paris-summit-on-ukraine-security-guarantees-with-Z_6744932_4.html), Starmer with his [“security guarantees.](https://www.bbc.com/news/articles/cx2qr08l1yko)” Russia answers with missile diplomacy and the strategic flick of the thermostat. CNN, in its infinite solemnity, warns that “[winter is coming](https://edition.cnn.com/2025/09/02/politics/winter-is-coming-for-ukraine-what-it-will-take-to-keep-the-lights-on),” as though blackouts were meteorology rather than deliberate war crimes measured in degrees Celsius.
 
 [Image]
 
@@ -10414,7 +10414,7 @@ The drones still fly. The purges accelerate. And somewhere in Odesa, people wait
 
 [1](#footnote-anchor-1)
 
-[In Z’s party, frustrations keep growing](https://www.politico.eu/article/volodymyr-zelenskyy-ukraine-servant-of-the-people-party/). *As the screws tighten, it’s no longer just the Ukrainian leader’s partisan rivals who worry about a creeping monopolization of power* ([Politico](http://politico.com), September 23, 2025)
+[In Z’s party, frustrations keep growing](https://www.politico.eu/article/volodymyr-Z-ukraine-servant-of-the-people-party/). *As the screws tighten, it’s no longer just the Ukrainian leader’s partisan rivals who worry about a creeping monopolization of power* ([Politico](http://politico.com), September 23, 2025)
 
 [2](#footnote-anchor-2)
 
@@ -10468,7 +10468,7 @@ The answer is that the clothes disappear entirely. And everyone pretends not to 
 
 [1](#footnote-anchor-1)
 
-[Z’s new clothes](https://abdymok.substack.com/p/zelenskys-new-clothes) (November 30, 2021)
+[Z’s new clothes](https://abdymok.substack.com/p/Zs-new-clothes) (November 30, 2021)
 
 ---
 
@@ -11253,9 +11253,9 @@ Pastukhov writes about the death of the rules-based order. This article is basic
 *Great power thuggery*
 
 - **Sept 25, 2019 — United Nations / New York (joint appearance / meeting).** [The Guardian](https://www.theguardian.com/us-news/2019/sep/25/trump-zelenskiy-ukraine-meeting-un?utm_source=chatgpt.com)
-- **Feb 28, 2025 — Oval Office, White House, Washington D.C.** [Wikipedia+1](https://en.wikipedia.org/wiki/2025_Trump%E2%80%93Zelenskyy_Oval_Office_meeting?utm_source=chatgpt.com)
-- **Apr 26, 2025 — Vatican (at events surrounding Pope Francis’s funeral).** [Wikipedia+1](https://en.wikipedia.org/wiki/2025_Trump%E2%80%93Zelenskyy_Oval_Office_meeting?utm_source=chatgpt.com)
-- **Jun 25, 2025 — On the sidelines of the NATO summit in The Hague.** [PBS](https://www.pbs.org/newshour/world/trump-meets-with-zelenskyy-at-nato-summit-says-ukraine-war-is-a-mess-for-putin?utm_source=chatgpt.com)
+- **Feb 28, 2025 — Oval Office, White House, Washington D.C.** [Wikipedia+1](https://en.wikipedia.org/wiki/2025_Trump%E2%80%93Z_Oval_Office_meeting?utm_source=chatgpt.com)
+- **Apr 26, 2025 — Vatican (at events surrounding Pope Francis’s funeral).** [Wikipedia+1](https://en.wikipedia.org/wiki/2025_Trump%E2%80%93Z_Oval_Office_meeting?utm_source=chatgpt.com)
+- **Jun 25, 2025 — On the sidelines of the NATO summit in The Hague.** [PBS](https://www.pbs.org/newshour/world/trump-meets-with-Z-at-nato-summit-says-ukraine-war-is-a-mess-for-putin?utm_source=chatgpt.com)
 - **Sep 23, 2025 — United Nations General Assembly, New York.** [Reuters+1](https://www.reuters.com/world/live-zelenskiy-address-un-general-assembly-trump-signals-backing-ukraine-war-2025-09-24/?utm_source=chatgpt.com)
 
 And, again, this Friday, **Oct 17, 2025 — Oval Office, White House, Washington D.C.**  [BBC](https://www.bbc.com/news/articles/c93xpqgzkv0o)
@@ -12096,7 +12096,7 @@ Volodymyr [writes](https://x.com/VBP_politics/status/1983942290792952023):
 >
 > Gone are the dreams of a victory parade on Khreshchatyk or a cup of coffee on Yalta’s embankment. The war is now about something else entirely – about who will collapse first from sheer exhaustion.
 >
-> [@ZelenskyyUa](https://x.com/ZelenskyyUa) believes in long-range missiles; [#Putin](https://x.com/hashtag/Putin?src=hashtag_click) still believes in Gerasimov and in the submission of the Russian people, ready to die without complaint in endless “meat assaults.” Europe believes in money, and that it will have enough to grind down, with Ukrainian hands, as many Russians as Putin can herd to the front. The real resource war is only beginning now. Welcome to its new phase – one run not by parade-ground generals, but by rear-echelon draft officers (in [#Ukraine](https://x.com/hashtag/Ukraine?src=hashtag_click), the TCC chiefs), a world of blackouts and petrol queues, drug shortages, and endless nighttime sirens on both sides of the front line. In fact, this is now the central front line of the war. We don’t know precisely what Z and the Europeans told Trump, but it seems they convinced him that this “second front” could be broken through. I can find no other explanation for Washington’s return to the concept of “peace after a ceasefire.”
+> [@ZUa](https://x.com/ZUa) believes in long-range missiles; [#Putin](https://x.com/hashtag/Putin?src=hashtag_click) still believes in Gerasimov and in the submission of the Russian people, ready to die without complaint in endless “meat assaults.” Europe believes in money, and that it will have enough to grind down, with Ukrainian hands, as many Russians as Putin can herd to the front. The real resource war is only beginning now. Welcome to its new phase – one run not by parade-ground generals, but by rear-echelon draft officers (in [#Ukraine](https://x.com/hashtag/Ukraine?src=hashtag_click), the TCC chiefs), a world of blackouts and petrol queues, drug shortages, and endless nighttime sirens on both sides of the front line. In fact, this is now the central front line of the war. We don’t know precisely what Z and the Europeans told Trump, but it seems they convinced him that this “second front” could be broken through. I can find no other explanation for Washington’s return to the concept of “peace after a ceasefire.”
 >
 > Let’s set aside, for now, the question of what exactly triggered [@realDonaldTrump](https://x.com/realDonaldTrump), and look instead at what underlies the confidence of Z and the Europeans that they can win this war:
 >
@@ -12138,7 +12138,7 @@ Have a great weekend!
 
 [3](#footnote-anchor-3)
 
-[Z Is Winning Trump Voters Over.](https://www.wsj.com/opinion/zelensky-is-winning-trump-voters-over-72d5f6c1?mod=Searchresults&pos=1&page=1) *Polling shows Ukraine re-emerging as a Republican priority* ([The Wall Street Journal](http://wsj.com), October 31, 2025)
+[Z Is Winning Trump Voters Over.](https://www.wsj.com/opinion/Z-is-winning-trump-voters-over-72d5f6c1?mod=Searchresults&pos=1&page=1) *Polling shows Ukraine re-emerging as a Republican priority* ([The Wall Street Journal](http://wsj.com), October 31, 2025)
 
 ---
 
@@ -12396,7 +12396,7 @@ A Shahed UAV smashed into a residential building, killing three, including two k
 
 *Blackouts are not normal*
 
-[Lights flicker in Kyiv.](https://www.theguardian.com/world/2025/nov/09/volodymyr-zelenskyy-why-should-i-be-afraid-donald-trump) Z grins. “It’s normal,” he says, framing blackouts as quaint quirks. Every word polished, every gesture rehearsed. He denies tension with Trump, praises King Charles, radiates calm moral authority. *“So why should we be afraid?”*
+[Lights flicker in Kyiv.](https://www.theguardian.com/world/2025/nov/09/volodymyr-Z-why-should-i-be-afraid-donald-trump) Z grins. “It’s normal,” he says, framing blackouts as quaint quirks. Every word polished, every gesture rehearsed. He denies tension with Trump, praises King Charles, radiates calm moral authority. *“So why should we be afraid?”*
 
 [Image]
 
@@ -12500,7 +12500,7 @@ For the same reason as Pam Bondi[5](#footnote-5).
 
 [4](#footnote-anchor-4)
 
-[The Z-Trump Ticket](https://abdymok.substack.com/p/the-zelensky-trump-ticket?utm_source=publication-search). *Disparaged disruptors team up to help Mother Russia* (June 23, 2020)
+[The Z-Trump Ticket](https://abdymok.substack.com/p/the-Z-trump-ticket?utm_source=publication-search). *Disparaged disruptors team up to help Mother Russia* (June 23, 2020)
 
 [5](#footnote-anchor-5)
 
@@ -12658,7 +12658,7 @@ Roman Chervinsky’s observation that Kremlin rats have taken up residence on Ba
 
 [Video: https://youtu.be/LV-fdQKi48E]
 
-**Hero of the Week** goes to [Ruslan Mahamedrasulov](https://www.gmfus.org/news/ukraines-corruption-scandal-part-two-how-zelenskyy-can-get-ahead-it) (Русан Магамедрасулов), a senior NABU detective who was instrumental in the 15-month sting operation, dubbed “Midas.” We hope he is released immediately.
+**Hero of the Week** goes to [Ruslan Mahamedrasulov](https://www.gmfus.org/news/ukraines-corruption-scandal-part-two-how-Z-can-get-ahead-it) (Русан Магамедрасулов), a senior NABU detective who was instrumental in the 15-month sting operation, dubbed “Midas.” We hope he is released immediately.
 
 **Photo Essay of the Week** goes to Tyler Hicks of *The New York Times*, for [documenting](https://www.nytimes.com/2025/11/13/world/europe/ukraine-russia-pokrovsk.html) the agonizing fall of Pokrovsk—where I once purchased an enormous watermelon in 2002, in happier times.
 
@@ -12686,7 +12686,7 @@ My aging, perforated brain this weekend re-wrapped itself around (came to accept
 
 [Image]
 
-About two-thirds of the way through [this sanctimonious drivel](https://www.theguardian.com/world/2025/nov/16/zelenskyy-pledges-to-clean-up-ukraine-energy-sector-amid-corruption-scandal)—in which Harding and Rankin solemnly intone that Z is “under pressure to prove to European allies that he is serious about tackling corruption”—I recalled Harding’s [slavish interview](https://www.youtube.com/watch?v=ZyHvrjHnVIg) with Z mere days before this $100m scandal exploded. That puff piece contained precisely zero questions about the industrial-scale graft that was apparently an open secret to everyone except Luke, intrepid Guardian correspondent[1](#footnote-1).
+About two-thirds of the way through [this sanctimonious drivel](https://www.theguardian.com/world/2025/nov/16/Z-pledges-to-clean-up-ukraine-energy-sector-amid-corruption-scandal)—in which Harding and Rankin solemnly intone that Z is “under pressure to prove to European allies that he is serious about tackling corruption”—I recalled Harding’s [slavish interview](https://www.youtube.com/watch?v=ZyHvrjHnVIg) with Z mere days before this $100m scandal exploded. That puff piece contained precisely zero questions about the industrial-scale graft that was apparently an open secret to everyone except Luke, intrepid Guardian correspondent[1](#footnote-1).
 
 The whiplash is almost comical. Last week: heroic wartime leader, defender of democracy, no follow-ups necessary. This week: “worst scandal of his presidency,” though do note the impressive verbal gymnastics required to avoid saying anything that might puncture the narrative. Even now, even here, we get the usual therapeutic framing—it’s not about corruption, you see, it’s about Ukraine’s “struggle and fight against corruption.”
 
@@ -12702,7 +12702,7 @@ Which brings us to the silver lining in all this: if you’re an actual journali
 
 [1](#footnote-anchor-1)
 
-[Z pledges to clean up Ukraine’s energy sector amid corruption scandal](https://www.theguardian.com/world/2025/nov/16/zelenskyy-pledges-to-clean-up-ukraine-energy-sector-amid-corruption-scandal). *President to overhaul state energy firms after $100m kickback scheme alleged by anti-corruption investigators* ([The Guardian](http://theguardian.co.uk), November 17, 2025)
+[Z pledges to clean up Ukraine’s energy sector amid corruption scandal](https://www.theguardian.com/world/2025/nov/16/Z-pledges-to-clean-up-ukraine-energy-sector-amid-corruption-scandal). *President to overhaul state energy firms after $100m kickback scheme alleged by anti-corruption investigators* ([The Guardian](http://theguardian.co.uk), November 17, 2025)
 
 ---
 
@@ -13093,7 +13093,7 @@ And this bit:
 
 ---
 
-Sigh. Just remembered how Andrew [rendered](https://www.nytimes.com/2025/11/23/world/europe/ukraine-zelensky-war-russia.html?searchResultPosition=3) this:
+Sigh. Just remembered how Andrew [rendered](https://www.nytimes.com/2025/11/23/world/europe/ukraine-Z-war-russia.html?searchResultPosition=3) this:
 
 [Image]
 
@@ -13215,7 +13215,7 @@ I listened to Kim Barker and David Sanger from [The New York Times](https://www.
 
 Kim understates the *Coffee, Cocktails & Crime* aspect of the story—the slush fund management style of governance adopted after repelling Russian invaders around Kyiv in early 2022. She [was in Ternopil](https://www.nytimes.com/video/world/europe/100000010538311/the-aftermath-of-a-deadly-strike-in-western-ukraine.html) after Russian missile flattened a residential building last week and can relate better than David, who takes the opportunity to model a suit and read from a teleprompter.
 
-Simon, Z’s hagiographer, writes a zillion words (3,800+) for [The Atlantic](https://www.theatlantic.com/national-security/2025/11/ukraine-peace-push-russia-trump-zelensky/685045/) without mentioning once that our president and his chief of staff, Andriy Yermak, along with ex Defense Minister turned National Security and Defense Council Secretary Rustem Umerov, have been, er, enriching themselves in back office schemes while their country is existentially threatened[1](#footnote-1).
+Simon, Z’s hagiographer, writes a zillion words (3,800+) for [The Atlantic](https://www.theatlantic.com/national-security/2025/11/ukraine-peace-push-russia-trump-Z/685045/) without mentioning once that our president and his chief of staff, Andriy Yermak, along with ex Defense Minister turned National Security and Defense Council Secretary Rustem Umerov, have been, er, enriching themselves in back office schemes while their country is existentially threatened[1](#footnote-1).
 
 And this just in from The Economist[2](#footnote-2).
 
@@ -13227,7 +13227,7 @@ Capital won’t return if Russia might attack again? Try this: capital won’t r
 
 [1](#footnote-anchor-1)
 
-[Inside Trump’s Latest Push for Peace in Ukraine](https://www.theatlantic.com/national-security/2025/11/ukraine-peace-push-russia-trump-zelensky/685045/). *The most consistent thing about Trump’s 10-month search for an end to the war in Ukraine has been his inconsistency* ([The Atlantic](http://theatlantic.com), November 27, 2025)
+[Inside Trump’s Latest Push for Peace in Ukraine](https://www.theatlantic.com/national-security/2025/11/ukraine-peace-push-russia-trump-Z/685045/). *The most consistent thing about Trump’s 10-month search for an end to the war in Ukraine has been his inconsistency* ([The Atlantic](http://theatlantic.com), November 27, 2025)
 
 [2](#footnote-anchor-2)
 
@@ -13311,9 +13311,9 @@ Ukrainian anti-corruption agents showed up this morning. at the apartment of And
 
 ---
 
-[PLANNING IS CONTINUING](https://www.thejournal.ie/zelenskyy-visit-to-ireland-uncertain-6884098-Nov2025/) for the visit by Z to Ireland next week, but recent developments mean the government does not know if it will actually go ahead.
+[PLANNING IS CONTINUING](https://www.thejournal.ie/Z-visit-to-ireland-uncertain-6884098-Nov2025/) for the visit by Z to Ireland next week, but recent developments mean the government does not know if it will actually go ahead.
 
-*The Journal* [reported on 7 November](https://www.thejournal.ie/zelenskyy-possible-visit-to-dublin-in-coming-months-6867838-Nov2025/) that officials were working on a plan for the Ukrainian leader to come here, with early December earmarked as a possibility.
+*The Journal* [reported on 7 November](https://www.thejournal.ie/Z-possible-visit-to-dublin-in-coming-months-6867838-Nov2025/) that officials were working on a plan for the Ukrainian leader to come here, with early December earmarked as a possibility.
 
 The two-day visit, understood to begin 2 December, would be a significant security event with thousands of gardaí expected to be on duty across the capital when Z arrives.
 
@@ -13515,11 +13515,11 @@ Meanwhile, a [leaked call](https://www.politico.eu/article/european-leaders-warn
 
 Then there’s the newly released [2025 U.S. National Security Strategy](https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf) — tea spilled, everyone. Big red flag for Europe: according to the document, Washington now wants the continent to “take more responsibility for its own defense” while the U.S. pivots to Portland. It paints Europe as losing its civilizational backbone, overregulated, demographically and economically shaky — and in need of someone to shake it awake.
 
-**But here’s the twist Europe won’t say out loud:** while publicly wringing hands about American abandonment, they’ve been privately tolerating Ukrainian corruption for years. [The New York Times just dropped](https://www.nytimes.com/2025/01/31/world/europe/ukraine-zelensky-corruption.html) a forensic autopsy showing how Z’s government systematically dismantled the oversight mechanisms Western donors demanded — stacking supervisory boards with loyalists, leaving seats strategically empty, rewriting company charters to keep outside experts from “poking around.”
+**But here’s the twist Europe won’t say out loud:** while publicly wringing hands about American abandonment, they’ve been privately tolerating Ukrainian corruption for years. [The New York Times just dropped](https://www.nytimes.com/2025/01/31/world/europe/ukraine-Z-corruption.html) a forensic autopsy showing how Z’s government systematically dismantled the oversight mechanisms Western donors demanded — stacking supervisory boards with loyalists, leaving seats strategically empty, rewriting company charters to keep outside experts from “poking around.”
 
 [Image]
 
-The money shot? [$100 million kickback scheme](https://www.nytimes.com/2025/01/31/world/europe/ukraine-zelensky-corruption.html) at Ukraine’s nuclear power company. Z’s inner circle accused of laundering it. Contractors paying 15 percent grift tax. His government blamed the supervisory board for not stopping it — *after* neutering that same board.
+The money shot? [$100 million kickback scheme](https://www.nytimes.com/2025/01/31/world/europe/ukraine-Z-corruption.html) at Ukraine’s nuclear power company. Z’s inner circle accused of laundering it. Contractors paying 15 percent grift tax. His government blamed the supervisory board for not stopping it — *after* neutering that same board.
 
 Norway’s special envoy to Ukraine, unfiltered: “We do care about good governance, but we have to accept that risk. Because it’s war.”
 
