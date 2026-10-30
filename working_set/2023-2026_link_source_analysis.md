@@ -9,7 +9,7 @@
 - Publisher aliases are consolidated in the publisher-level comparison. Original domains and URLs remain in the link-level data for audit.
 - Classification is domain-based. Domains not confidently identified remain `other / unclassified`.
 - Counts are link occurrences, not unique articles or readership.
-- Manual review pass 1 reclassified 311 link occurrences across high-frequency domains. This reduced the unclassified set from 587 domains / 1,036 occurrences to 534 domains / 725 occurrences.
+- Manual review has reclassified 395 link occurrences across high-frequency domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 511 domains / 643 occurrences.
 
 ## Annual totals
 
@@ -24,14 +24,14 @@
 
 | Category | 2023 | 2024 | 2025 | 2026 | Total |
 |---|---:|---:|---:|---:|---:|
-| Ukrainian media | 59 | 116 | 50 | 45 | 270 |
-| news | 403 | 741 | 504 | 271 | 1919 |
-| official sources | 30 | 42 | 54 | 41 | 167 |
-| other / unclassified | 176 | 223 | 174 | 152 | 725 |
-| personal archive | 240 | 159 | 109 | 294 | 802 |
-| reference | 135 | 148 | 179 | 147 | 609 |
-| research | 45 | 54 | 41 | 28 | 168 |
-| social media | 160 | 234 | 230 | 154 | 778 |
+| Ukrainian media | 64 | 117 | 50 | 46 | 277 |
+| news | 409 | 746 | 512 | 275 | 1942 |
+| official sources | 33 | 44 | 56 | 41 | 174 |
+| other / unclassified | 148 | 194 | 154 | 147 | 643 |
+| personal archive | 240 | 159 | 112 | 294 | 805 |
+| reference | 139 | 149 | 179 | 147 | 614 |
+| research | 51 | 71 | 48 | 28 | 198 |
+| social media | 164 | 237 | 230 | 154 | 785 |
 
 ## Leading normalized publishers by year
 
@@ -78,7 +78,7 @@
 | Reuters | news | 42 | 40 |
 | Archive.ph | reference | 35 | 34 |
 | The Atlantic | news | 32 | 10 |
-| The Guardian | news | 29 | 25 |
+| The Guardian | news | 32 | 26 |
 
 ### 2026
 
@@ -98,7 +98,7 @@
 ## Classification caveats
 
 - Classification describes the source domain, not the reliability or quality of an individual article.
-- Multi-purpose platforms and services (including Google, Substack, YouTube, Perplexity and Rev) are classified by their role as a platform or reference service, not by the content of every linked page.
+- Multi-purpose platforms and services are classified by their role as a platform or reference service, not by the content of every linked page.
 - Some domains remain unclassified because the link context is insufficient or the site does not fit the current categories. Review continues from the most frequently linked domains downward.
 - This is a descriptive source index, not a rating of accuracy, credibility or importance.
 
