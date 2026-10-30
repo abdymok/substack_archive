@@ -1824,7 +1824,7 @@ As of 05:45, the map looks like this:
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/adae35db-d715-445a-95c7-06a94f8e0dd5_2560x1755.jpeg)
 
-The anti-air guns are blazing outside, so there might be something wrong with the map. It’s dark and snowing hard, so the flashes are not visible. Hopefully, whoever is tracking this will update with missile trajectories before I leave for wind sprints in Kyiv’s mystic triange.
+The anti-air guns are blazing outside, so there might be something wrong with the map. It’s dark and snowing hard, so the flashes are not visible. Hopefully, whoever is tracking this will update with missile trajectories before I leave for wind sprints in Kyiv’s mystic triangle.
 
 One object of the exercise, as I understand it, is to cut Kyiv off from energy supplies from the Rivne atomic energy station.
 
@@ -2029,7 +2029,7 @@ Naftogaz, Energoatom, Ukrenergos, Ukrhydroenergo, and Lisy Ukrainy (Forests of U
 The heating has not.
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/189a8559-9564-426b-a5fd-3ebbaaa8dbcb_2560x1483.webp)  
-*Energoatom spends UAH 150 millon on heat packages*
+*Energoatom spends UAH 150 million on heat packages*
 
 Near future. After the worst has passed. After winter has broken.
 
@@ -6224,7 +6224,7 @@ Mobilization is simultaneously failing. Ukraine has 1.6 million eligible citizen
 When the ombudswoman tried to implement systemic change—to establish clear term limits for service—she encountered resistance at every level. Commanders ignore written orders. Vague authority means zero accountability. She has written 10 formal requirements for compliance. There are no teeth. As she noted: “We lack instruments to punish commanders who don’t follow the ombudswoman’s lawful requirements.”
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/345c4188-c40c-486a-a0b1-334bc899831b_3024x3409.jpeg)  
-*Photo c/o abdymok (Escape the Labrynth, April 28, 2026)*
+*Photo c/o abdymok (Escape the Labyrinth, April 28, 2026)*
 
 Consider, too, endemic corruption. [Operation Midas](https://en.wikipedia.org/wiki/Operation_Midas) documented substantial schemes in the energy sector, implicating networks close to the center of political power. Senior figures associated with the presidential administration found themselves dismissed, investigated, or removed. One may call this a purge, a reform, or coincidence. What one cannot call it is irrelevant.
 
@@ -14518,7 +14518,7 @@ It is a beautiful morning in Kyiv, which is a sentence that means nothing and ev
 
 The sky is the color it is supposed to be. The chestnuts have started falling from the trees. A woman in front of the Shevchenko memorial is teaching her Malinois not to bite me.
 
-Not that I’m afraid of them. I grew up with a Dutch Shepard.
+Not that I’m afraid of them. I grew up with a Dutch Shepherd.
 
 That last part is not a metaphor.
 
@@ -16242,7 +16242,7 @@ A bunch of guys wearing black hoodies planning their next crime at Golden Gate t
 ![](https://substack-post-media.s3.amazonaws.com/public/images/fe5bbd2a-521a-423b-8b18-744f09ab629a_2048x747.jpeg)  
 *Photo c/o abdymok (October 11, 2026)*
 
-I include this photo only to point out that yesterday when I looked directly left over Holosiivsky Park I saw a firey ball of something falling down on village of Chabany, est. population 5,000. Southwest of me.
+I include this photo only to point out that yesterday when I looked directly left over Holosiivsky Park I saw a fiery ball of something falling down on village of Chabany, est. population 5,000. Southwest of me.
 
 # The energy truce that isn’t
 
@@ -16293,7 +16293,7 @@ Twenty-two days to the midterms. Congress can hold the purse and the hearings. I
 
 ## Day 1692ish
 
-**Subtitle:** Momento mori
+**Subtitle:** Memento mori
 
 **Date:** 2026-10-12  
 **URL:** https://abdymok.substack.com/p/milestone-moment  
