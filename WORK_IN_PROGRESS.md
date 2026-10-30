@@ -89,3 +89,18 @@ Day 1709 — “Caught in the nets” appeared in the listing, but no canonical 
 ## Resume prompt
 
 “Read `WORK_IN_PROGRESS.md` in `abdymok/substack_archive`, obtain the current `1070_posts_with_war_day_fixed.xlsx`, and continue from the checkpoint. Do not repeat the 190-subtitle recovery. Apply the complete October subtitle mapping, preserve corrected day labels and existing URLs, keep separate continuation rows, leave Day 1696 blank, and do not add Day 1709 without a verified canonical URL.”
+
+
+## Recovery investigation — 2026-10-30
+
+The no-upload recovery attempt checked the repository history and all practical text sources:
+
+- GitHub file history for `1070_posts_with_war_day_fixed.xlsx` contains exactly one commit: `db08330515faaecf785ed4819a0a44b852f21a28` (2026-10-29, “Add files via upload”). The workbook was added in that commit; there is no earlier version of that path to restore.
+- The fixed workbook is 64,281 bytes. The separate `1070_posts_with_war_day.xlsx` is 412,650 bytes, but its contents are also binary and cannot be materialized or edited through the currently available GitHub connector.
+- `1070_posts_with_war_day.csv` is a distinct baseline, not a safe substitute for the fixed workbook: 1,070 data rows, 449 blank subtitle cells.
+- `posts.csv` contains 1,801 records and 1,292 nonblank subtitles. Exact date/title matching finds 195 candidates among the baseline's blank subtitle cells. This is consistent with the earlier report of 190 recoveries plus a small number of rows that may already have been populated in the fixed workbook, but it does not reconstruct the fixed workbook's full 57-blank state.
+- The 2023–2025 archive markdown files contain 562 date/subtitle headings. Of these, 513 match a row by date and day number, and all 513 matching baseline rows already have subtitles. The remaining 49 are mismatched or additional archive entries and must not be applied speculatively.
+- The 2026 markdown files are larger than the GitHub connector can return as text; the connector returns empty content for those files. The October mapping above remains the reliable source for those entries.
+- No workbook has been overwritten, and no incomplete CSV has been substituted for it.
+
+Conclusion: the repository has no earlier committed copy of the fixed workbook, and the currently available connector cannot materialize its binary contents for editing. The original fixed workbook therefore cannot be safely reconstructed to its known 57-blank state from the accessible sources alone. Keep the fixed workbook untouched. A true completion still requires a route that makes the existing workbook's bytes available for local spreadsheet editing; do not claim the baseline CSV is an equivalent replacement.
