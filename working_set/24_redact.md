@@ -272,7 +272,7 @@ As of this writing early Monday morning, at least a dozen Ту-95МС strategic 
 
 [Image]
 
-Monday began with an air alert. Ballistic and cruise missiles. Kyiv was not among the targets. Kharkiv, Krivyi Rih, Zaporizhia and Dnipro were hit. Photos of the damage will be posted to the internet in the upcoming hours, along with a report from the Air Force about how many missiles were fired and intercepted.
+Monday began with an air alert. Ballistic and cruise missiles. Kyiv was not among the targets. Kharkiv, Kryvyi Rih, Zaporizhia and Dnipro were hit. Photos of the damage will be posted to the internet in the upcoming hours, along with a report from the Air Force about how many missiles were fired and intercepted.
 
 *Preliminarily*:
 
@@ -8888,7 +8888,7 @@ The tragedy of the current mess is that our post-revolution *passionarians* sinc
 
 [Image]
 
-On the war jacket, [Krivyi Rih](https://t.me/c/1646540589/38559), [one day later](https://www.radiosvoboda.org/a/news-kryvyj-rih-udar-po-hotelju/33093412.html). You are borderline suicidal to check into a hotel frequented by foreign journalists in frontline eastern Ukraine. Maybe change the security protocols?
+On the war jacket, [Kryvyi Rih](https://t.me/c/1646540589/38559), [one day later](https://www.radiosvoboda.org/a/news-kryvyj-rih-udar-po-hotelju/33093412.html). You are borderline suicidal to check into a hotel frequented by foreign journalists in frontline eastern Ukraine. Maybe change the security protocols?
 
 [1](#footnote-anchor-1)
 
