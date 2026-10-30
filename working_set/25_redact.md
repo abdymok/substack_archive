@@ -735,7 +735,7 @@ The big news is that Masha is back exposing mansplaining, telling us the war has
 
 [Image]
 
-The last time we encountered Masha and Ukraine on the same page was, er, Day 448[1](#footnote-1). Her brother Keith wrote something idiotic for [The Harriman Institute](https://harriman.columbia.edu/do-russians-really-support-the-war-in-ukraine-by-keith-gessen) at Columbia Univeristy this month, but I couldn’t bring myself to read it[2](#footnote-2). I hope they don’t let him teach anything there.
+The last time we encountered Masha and Ukraine on the same page was, er, Day 448[1](#footnote-1). Her brother Keith wrote something idiotic for [The Harriman Institute](https://harriman.columbia.edu/do-russians-really-support-the-war-in-ukraine-by-keith-gessen) at Columbia University this month, but I couldn’t bring myself to read it[2](#footnote-2). I hope they don’t let him teach anything there.
 
 Hanna has an article appearing in on January 20 in [RUSI](http://rusi.org), titled “From Budapest Memorandum to Ukraine Compact: A Conundrum of Guarantees,” concluding that the two dozen or so friendship agreements Z and his top managers arranged last year “introduce an overlapping puzzle of security commitments without any concomitant guarantees.” That sounds about right.
 
@@ -1109,7 +1109,7 @@ Vasyl, on the other hand, was a Red Army foot soldier. He wrote about the surrea
 
 Layers of years and events in Minsk long ago eroded away in my feverish mind, but some unforgettable conversations with Taras and Bykaŭ from time to time rise up very vividly. They are the foundation of the edifice my fate has been built on. I know all too well that I can't forget them, and the observations can't be drowned in Mukuzani.
 
-(Here I deliberately avoid saying anything about Belarus, on the occasion of Sasha’s umpteenth power grap there. Too depressing).
+(Here I deliberately avoid saying anything about Belarus, on the occasion of Sasha’s umpteenth power grab there. Too depressing).
 
 Anyway, Roman’s interivew reminded me one of Bykaŭ’s well-known novels, [Мёртвым не баліць](https://knihi.com/Vasil_Bykau/Miortvym_nie_balic.html) (The Dead Feel no Pain), which is about how members of the secret police transformed themselves into heroes after the war.
 
@@ -1383,7 +1383,7 @@ Donald wants the other half?
 
 *Golden Age of Brown Noses*
 
-About two thirds of the way through [their smug, precious, longwinded yet toweringly idiotic press conference,](https://www.youtube.com/watch?v=rlF9BfYxW0E) by two of the the smarmiest living humans – during which Donald re-asserts that Russia would not have invaded Ukraine and Hamas would not have attacked Israel had he been president, that being the sort counterfactual wu now applauded by the cold eyed strategists of the next American empire — so chipper, so blithely moronic – I concluded that both men should be replaced.
+About two thirds of the way through [their smug, precious, long-winded yet toweringly idiotic press conference,](https://www.youtube.com/watch?v=rlF9BfYxW0E) by two of the the smarmiest living humans – during which Donald re-asserts that Russia would not have invaded Ukraine and Hamas would not have attacked Israel had he been president, that being the sort counterfactual wu now applauded by the cold eyed strategists of the next American empire — so chipper, so blithely moronic – I concluded that both men should be replaced.
 
 Donald’s “Riviera of the Middle East” development plan announced yesterday sounds even weirder than the proposal under which Ukraine pays America for weapons and ammo in rare earth minerals.
 
@@ -1807,7 +1807,7 @@ Donald’s logic: If Team Ukraine had surrendered before being invaded by land, 
 
 ---
 
-Before Scott’s rare earth minerals offer and [MSC](https://en.wikipedia.org/wiki/Munich_Security_Conference), Z and his potent mangers had almost been brought to the "point of agreement" with a plan that had long been an "open secret" for everyone: a ceasefire along the existing line of confrontation, holding elections (after which, according to the scriptwriters, unpopular Z was supposed to disappear) and then long, infinite "peace squabbles."
+Before Scott’s rare earth minerals offer and [MSC](https://en.wikipedia.org/wiki/Munich_Security_Conference), Z and his potent managers had almost been brought to the "point of agreement" with a plan that had long been an "open secret" for everyone: a ceasefire along the existing line of confrontation, holding elections (after which, according to the scriptwriters, unpopular Z was supposed to disappear) and then long, infinite "peace squabbles."
 
 [Image]
 
@@ -1959,7 +1959,7 @@ Wonderful. Mike, Steven and Scott told American TV talkshow hosts over the weeke
 
 > [O]n February 20th it was stunned to receive another, the “disastrous”, draft. The process had been taken over by Howard Lutnick, the freshly installed commerce secretary. Disregard all previous negotiations, Ukraine was told, and get used to the idea of transferring resources with little tangible in return. Take it, or leave it—and lose the war. — [Donald Trump makes Ukraine an offer it can’t refuse](https://www.economist.com/europe/2025/02/23/donald-trump-makes-ukraine-an-offer-it-cant-refuse). *A proposed economic deal would be punitive. Saying “no” could be worse* ([The Economist](http://econonomist.com), February 23, 2025)
 
-Steven, who has never been to Kyiv, [blurted out a bunch of Kremlin bullshit](https://edition.cnn.com/2025/02/23/politics/video/sotu-steve-witkoff-optimistic-over-russia-ukraine-war) on Sunday during his pow wow with CNN, suggesting Vova had somehow been provoked into first invading Ukraine 11 years ago and then again three years ago. The landscaper opined that that the [Instanbul protocols](https://www.nytimes.com/interactive/2024/06/15/world/europe/ukraine-russia-ceasefire-deal.html) can serve as a guideline for reaching a peace deal. No, they can’t. Something is obvi wrong with Steven.
+Steven, who has never been to Kyiv, [blurted out a bunch of Kremlin bullshit](https://edition.cnn.com/2025/02/23/politics/video/sotu-steve-witkoff-optimistic-over-russia-ukraine-war) on Sunday during his pow wow with CNN, suggesting Vova had somehow been provoked into first invading Ukraine 11 years ago and then again three years ago. The landscaper opined that that the [Istanbul protocols](https://www.nytimes.com/interactive/2024/06/15/world/europe/ukraine-russia-ceasefire-deal.html) can serve as a guideline for reaching a peace deal. No, they can’t. Something is obvi wrong with Steven.
 
 Marco, meanwhile, is pretending to be in charge of negotiations between Teams USA and Russia over the fate of Ukraine. He is delusional.
 
@@ -2241,7 +2241,7 @@ Z does not have this. Neither do Keir and Emmanuel. But Donald does. And Vova is
 
 [1](#footnote-anchor-1)
 
-[Lost in translation](https://abdymok.substack.com/p/lost-in-translation?utm_source=publication-search). *Imminent inevitability in Ukraine’s underpants* (Februrary 4, 2022)
+[Lost in translation](https://abdymok.substack.com/p/lost-in-translation?utm_source=publication-search). *Imminent inevitability in Ukraine’s underpants* (February 4, 2022)
 
 ---
 
@@ -2626,7 +2626,7 @@ This morning [I listened to Nate](https://www.youtube.com/watch?v=BNS9ccyYXH4) t
 
 ---
 
-Just waiting for a flat tire. It’s bicycle season again and we’re back in the saddle. I switched up coverings on the front and back wheels because Schwable’s GreenGuard™ has showed up in spots through the back worn tread.
+Just waiting for a flat tire. It’s bicycle season again and we’re back in the saddle. I switched up coverings on the front and back wheels because Schwalbe’s GreenGuard™ has showed up in spots through the back worn tread.
 
 [Image]
 
@@ -3647,7 +3647,7 @@ Yuri posts a vid of an expensive bunker/death trap no one wants to use. Ukraine 
 
 *Date: 2025-04-02 | Status: Published | Audience: only_paid*
 
-*Acryllic intellects *
+*Acrylic intellects *
 
 [Our hockey puck](https://abdymok.substack.com/p/day-1124), Steven, has reappeared, kind of. He is reportedly hosting Putin’s envoy Kirill in Washington, DC this week[1](#footnote-1). Ukraine is on the menu.
 
@@ -4079,7 +4079,7 @@ On Thursday, Z sounded off about his talks with US Treasury Secretary Scott in K
 
 > “I think Mr. [Scott] Bessent’s problem is in his approach. And what he came with, and he said: you have to sign this now... Tapping his finger on the agreement and saying ‘We have to sign it now. ’ To this I could only tell him, ‘Stop tapping your finger and let's talk about the subject.’ He probably expected a different dialogue, but I do not consider Ukraine a third-rate country. I believe that we should communicate as equals, despite the fact that I am the president and he is not the president. I believe that he is an American citizen, I am a citizen of Ukraine. And we must behave with respect for each other. This is what, I believe, I demonstrated to him during the dialogue, which he probably did not like in some sense,” Z said.
 
-Althoug Scott is my favorite among Donald’s cabinet picks, Team USA’s tariff debacle made Americans $6 trillion poorer. So Scott is culpable. Z and his team of potent managers, including Olha and Iuliia, are basically hacks. We can only hope Howard [US Commerce Secretary Lutnick] is not involved in any shape or form. Z’s attempts to regain a degree of authority against the background of unremitting fuck ups usually fail, at Ukraine’s expense, so we expect the worse.
+Although Scott is my favorite among Donald’s cabinet picks, Team USA’s tariff debacle made Americans $6 trillion poorer. So Scott is culpable. Z and his team of potent managers, including Olha and Iuliia, are basically hacks. We can only hope Howard [US Commerce Secretary Lutnick] is not involved in any shape or form. Z’s attempts to regain a degree of authority against the background of unremitting fuck ups usually fail, at Ukraine’s expense, so we expect the worse.
 
 > A plan presented in March would allow the [U.S. to draw profits from Ukrainian projects](https://archive.ph/o/VSYyI/https://www.wsj.com/world/trumps-new-ukraine-proposal-looks-like-an-offer-it-must-refuse-df63193c) across metals, oil, gas and other natural resources, as well as infrastructure projects including ports and pipelines.
 >
@@ -4604,7 +4604,7 @@ Z has returned to Ukraine from Johannesberg, according to his press secretary, w
 
 ---
 
-I think I pulled a muscle in my shoulder during a dead hang this week, but our stride remains unchanged: wide and metronomic. Occassionally, my vision grays at the edges when I read about Pete and the tip of the spear he is so busy dulling, but there is no timpani of heart booming in my ears.
+I think I pulled a muscle in my shoulder during a dead hang this week, but our stride remains unchanged: wide and metronomic. Occasionally, my vision grays at the edges when I read about Pete and the tip of the spear he is so busy dulling, but there is no timpani of heart booming in my ears.
 
 ---
 
@@ -5076,7 +5076,7 @@ I caught up with the scene kids easily but stopped because I didn’t want to lo
 
 [Video: https://youtu.be/M3jqOaB0eyo]
 
-Instead of saying Russia refuses to stop invading, this insufferable prick continues to play the bothsides game. Strategic nonesense is not a policy. The war will end when someone punches Putin in the face, and obvi he won’t be JD or Donald.
+Instead of saying Russia refuses to stop invading, this insufferable prick continues to play the bothsides game. Strategic nonsense is not a policy. The war will end when someone punches Putin in the face, and obvi he won’t be JD or Donald.
 
 ---
 
@@ -5496,7 +5496,7 @@ Russia’s Foreign Ministry [listed ‘root causes’ in nauseating detail](http
 
 I raced home yesterday in order to watch US Senate hearings (Homeland Security, Foreign Relations committees) **LIVE**.
 
-It turns out that Team USA’s ICE queen Kristi does not know what Habeus Corpus is, and Little Marco thinks Donald is making progress ending Russia’s invasion of Ukraine!
+It turns out that Team USA’s ICE queen Kristi does not know what Habeas Corpus is, and Little Marco thinks Donald is making progress ending Russia’s invasion of Ukraine!
 
 [Video: https://youtu.be/T4enZPiKgiM]
 
@@ -6006,7 +6006,7 @@ Karol will def attend Donald’s [beano](https://www.theguardian.com/commentisfr
 
 [1](#footnote-anchor-1)
 
-[2023 Military Campaign Propects](https://www.ukrinform.ua/rubric-ato/3566162-ak-zabezpeciti-voennu-kampaniu-u-2023-roci-ukrainskij-poglad.html). *The Ukrainian view* (September 7, 2022)
+[2023 Military Campaign Prospects](https://www.ukrinform.ua/rubric-ato/3566162-ak-zabezpeciti-voennu-kampaniu-u-2023-roci-ukrainskij-poglad.html). *The Ukrainian view* (September 7, 2022)
 
 ---
 
@@ -6080,7 +6080,7 @@ Madyar posts a anti-Russia drone report from the zero line.
 
 *Our flat-less tire *
 
-The [Schwable Marathon](https://velosiped.com/ru/pokrishka-schwalbe-marathon-performance-greenguard-e-25-275x165-650x42b-44-584-bbrt-ec-11100680?srsltid=AfmBOoopzJPkKhyBerz2931sZlDkzu07XXxu2LCswr4g58xLPzBRa0AX) on the front wheel is noticeably worn down, with the some grooves in the tread becoming increasingly shallow. It’s gotten to the point where parts of the thick GreenGuard™ puncture protection belt have become visible, leading me to worry about an imminent blowout.
+The [Schwalbe Marathon](https://velosiped.com/ru/pokrishka-schwalbe-marathon-performance-greenguard-e-25-275x165-650x42b-44-584-bbrt-ec-11100680?srsltid=AfmBOoopzJPkKhyBerz2931sZlDkzu07XXxu2LCswr4g58xLPzBRa0AX) on the front wheel is noticeably worn down, with the some grooves in the tread becoming increasingly shallow. It’s gotten to the point where parts of the thick GreenGuard™ puncture protection belt have become visible, leading me to worry about an imminent blowout.
 
 [Image]
 
@@ -6306,7 +6306,7 @@ At least Americans who voted for Donald can’t say they didn’t know what to e
 
 ---
 
-Yesterday I watched Pete’s [miserable performance](https://www.c-span.org/program/house-committee/defense-secretary-and-joint-chiefs-chair-testify-on-2026-budget-request/660976) in Congress. He winced everytime lawmakers said “Ukraine.” The [hearing](https://breakingdefense.com/2025/06/house-appropriators-press-hegseth-for-fy26-spending-plans-marking-up-without-answers/) was the first time I got a peek at the Chairman of the Joint Chiefs of Staff, General Caine, who reminded me of Rumsfeld (US Secretary of Defense 1975-1977 and 2001-2006). US Senators are scheduled to defenestrate both again today. Won’t be pretty.
+Yesterday I watched Pete’s [miserable performance](https://www.c-span.org/program/house-committee/defense-secretary-and-joint-chiefs-chair-testify-on-2026-budget-request/660976) in Congress. He winced every time lawmakers said “Ukraine.” The [hearing](https://breakingdefense.com/2025/06/house-appropriators-press-hegseth-for-fy26-spending-plans-marking-up-without-answers/) was the first time I got a peek at the Chairman of the Joint Chiefs of Staff, General Caine, who reminded me of Rumsfeld (US Secretary of Defense 1975-1977 and 2001-2006). US Senators are scheduled to defenestrate both again today. Won’t be pretty.
 
 [1](#footnote-anchor-1)
 
@@ -6684,7 +6684,7 @@ Since Donald took office, the situation has only gotten worse. Over the last fiv
 
 [Image]
 
-Acccording to Dan, the NATO summit starting today will be a big let down[1](#footnote-1).
+According to Dan, the NATO summit starting today will be a big let down[1](#footnote-1).
 
 [Image]
 
@@ -6784,7 +6784,7 @@ Intelligence gathering and analysis for living can be fun for a couple of years 
 
 [Image]
 
-It occurred to me early this morning looking due west from the 21st floor of my flophouse that it was in June 2004 when we met Kakha Bendukidze during Mikheil Saakashvili’s suprise visit to Kyiv. Legendary flak Ed Barnes was in tow on a fact-finding mission involving ballistic missiles and North Korea. But that’s another story.
+It occurred to me early this morning looking due west from the 21st floor of my flophouse that it was in June 2004 when we met Kakha Bendukidze during Mikheil Saakashvili’s surprise visit to Kyiv. Legendary flak Ed Barnes was in tow on a fact-finding mission involving ballistic missiles and North Korea. But that’s another story.
 
 Anyway, the flophouse is oriented so its main windows face perpendicular to the axis of Bendukidze Lane, which runs for a block north-to-south. The street name would not have existed but for the Rose (2004) and Orange (2005) revolutions. Kyiv City Council named it after Kakha in 2015 after the Revolution of Dignity and the building was erected two years later.
 
@@ -6824,7 +6824,7 @@ On the running jacket, Kilian gives a pre-race Western States 100 interview.
 
 *Date: 2025-06-27 | Status: Published | Audience: only_paid*
 
-*Experiementing with endorphins*
+*Experimenting with endorphins*
 
 [Image]
 
@@ -7879,7 +7879,7 @@ Pekhno has maps. The end of the report shows Pokrovsk at sunrise:
 
 Let’s kick this off with a scream of despair:
 
-> […] Our government doesn't listen to those who are smarter and more experienced than it. Advice from smarter people irritates the government and shows its level, and it gets offended. Secondly, you can lead a horse to water, but you can't make it drink. It's the same with the government. You can advise it or criticize it, but it doesn't want to hear advice and listen to criticism, because it believes that it is the smartest, and Ukraine began in 2019. The Dunning-Kruger effect in all its glory. Although sometimes it reacts to criticism to stop the rating from falling. Our government reacts to fluctuations in the rating. And thirdly, I tried. I gave advice and ideas. I suggested solutions. I formulated step-by-step action plans. But the result was zero, because I am not loyal and I am talking about the mistakes of the authorities. And our authorities do not need smart people who point out mistakes. Our authorities need loyal sycophants who silently support everything. …Volodymyr Oleksandrovych does not want to hear advice, but wants to hear that he is right. […] — [Березовый Сок](https://t.me/BerezaJuice/57141) (Telegram, July 30, 2025)
+> […] Our government doesn't listen to those who are smarter and more experienced than it. Advice from smarter people irritates the government and shows its level, and it gets offended. Secondly, you can lead a horse to water, but you can't make it drink. It's the same with the government. You can advise it or criticize it, but it doesn't want to hear advice and listen to criticism, because it believes that it is the smartest, and Ukraine began in 2019. The Dunning-Kruger effect in all its glory. Althoughh sometimes it reacts to criticism to stop the rating from falling. Our government reacts to fluctuations in the rating. And thirdly, I tried. I gave advice and ideas. I suggested solutions. I formulated step-by-step action plans. But the result was zero, because I am not loyal and I am talking about the mistakes of the authorities. And our authorities do not need smart people who point out mistakes. Our authorities need loyal sycophants who silently support everything. …Volodymyr Oleksandrovych does not want to hear advice, but wants to hear that he is right. […] — [Березовый Сок](https://t.me/BerezaJuice/57141) (Telegram, July 30, 2025)
 
 Sigh.
 
@@ -8318,7 +8318,7 @@ Meanwhile, [Maks](https://en.wikipedia.org/wiki/Max_Korzh) hopped up and down in
 
 [Video: https://youtu.be/PkiAf2l-DEw]
 
-A painful reminder of the strain of nihilism and mysogyny infecting many uneducated young white adults in this part of the world.
+A painful reminder of the strain of nihilism and misogyny infecting many uneducated young white adults in this part of the world.
 
 ---
 
@@ -10986,7 +10986,7 @@ Two articles I read:
 
 Today is [Ed](https://www.facebook.com/ed.barnes.980/)’s birthday!
 
-And this gem, [Evesdropping on Hell](https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/wwii/eavesdropping.pdf). *Historical Guide to Western Communications Intelligence and the Holocaust, 1939-1945*
+And this gem, [Eavesdropping on Hell](https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/wwii/eavesdropping.pdf). *Historical Guide to Western Communications Intelligence and the Holocaust, 1939-1945*
 
 [1](#footnote-anchor-1)
 
@@ -11024,7 +11024,7 @@ The stalemate, in other words, is not a failure of strategy to be overcome. It i
 
 ---
 
-Sophie Watson, whoever she is, writes [a bunch of words](https://www.kyivpost.com/post/61625) about a [SECRET memo](https://x.com/CIADirector/status/1975531562419823029) released by CIA Director John Ratcliffe from 2016. Sophie failes to point out that American spies in Ukraine at the time, in Kyiv, at least, were regarded as lazy, incompetent and overfed. No one took their gossipy memos about ultra-competitive Ukraine-style politics seriously.
+Sophie Watson, whoever she is, writes [a bunch of words](https://www.kyivpost.com/post/61625) about a [SECRET memo](https://x.com/CIADirector/status/1975531562419823029) released by CIA Director John Ratcliffe from 2016. Sophie fails to point out that American spies in Ukraine at the time, in Kyiv, at least, were regarded as lazy, incompetent and overfed. No one took their gossipy memos about ultra-competitive Ukraine-style politics seriously.
 
 ---
 
@@ -11369,7 +11369,7 @@ I met him a couple of times at the [Algonquin](https://en.wikipedia.org/wiki/Alg
 
 ---
 
-Practicing philosopher Volodymyr Pastukhov now has an English-language [Telegram account](https://t.me/pastukhov_eng), altho he hasn’t posted this, yet:
+Practicing philosopher Volodymyr Pastukhov now has an English-language [Telegram account](https://t.me/pastukhov_eng), although he hasn’t posted this, yet:
 
 > The era of the “Holy Alliance,” when Russia was, as it is commonly written, “Europe’s gendarme” (though I prefer the term “overseer of Europe” in the name and at the behest of pan-European reaction), is undoubtedly the “gold standard” of relations between Russia and Europe for Putin and his clan. In short, there was a time when it wasn’t Europe that “bent” Russia to suit itself, but Russia that “bent” Europe to suit its own vision of “political happiness,” and many would like to see that happen again.
 >
@@ -12870,7 +12870,7 @@ I liked [this statement,](https://www.facebook.com/nikita.poturaev/posts/pfbid0r
 >
 > Glory to Ukraine!
 
-I support any initiative abide by Ukraine’s Constitution, although I am uncomfortable associating myself with Mykyta in any ther way, shape or form.
+I support any initiative abide by Ukraine’s Constitution, although I am uncomfortable associating myself with Mykyta in any other way, shape or form.
 
 ---
 
@@ -13695,7 +13695,7 @@ Trump says we have a ***massive corruption situation**:*
 
 **I still haven’t read the 20-point peace plan worked out by Ukraine, Europe and Team USA**. It’s secret. There are rumors part of it provides for chopping contested areas along with 1,200-kilometer front-line into zones: a demilitarized zone, an occupied zone devoid of heavy weapons, et cetera. This won’t work for the same reasons the OSCE SMM failed a decade ago. Russia will continue invading until someone punches Putin in the face.
 
-[Acording to ZN](https://zn.ua/ukr/WORLD/novij-mirnij-plan-trampa-do-choho-primushujut-ukrajinu-analiz-chotirokh-dokumentiv.html), Trump is looking at four documents:
+[According to ZN](https://zn.ua/ukr/WORLD/novij-mirnij-plan-trampa-do-choho-primushujut-ukrajinu-analiz-chotirokh-dokumentiv.html), Trump is looking at four documents:
 
 - Agreement between Ukraine, Russia, the United States of America and Europe (20 points),
 - Framework assurances on security for Ukraine (3 points),
@@ -14144,7 +14144,7 @@ Dusting of snow this morning.
 
 Kim Barker has a lovely article w/ pictures about how miserable life is in Odesa this winter, especially for the elderly and disabled[1](#footnote-1).
 
-Z in his Christmas Day pep talk said he and his team talked for an hour with Steven Witkoff and Jared Kushner about next steps and the timing of peace framework plans. Putin will def not agree to any framework that might restore Ukraine’s viability after the fighting stops. Talking continues irregardless of this fact.
+Z in his Christmas Day pep talk said he and his team talked for an hour with Steven Witkoff and Jared Kushner about next steps and the timing of peace framework plans. Putin will def not agree to any framework that might restore Ukraine’s viability after the fighting stops. Talking continues regardless of this fact.
 
 Parties to the conflict are now discussing DMZs, zones of influence, ADBZs, free trade zones, etc., presidential elections, referendums, etc. For this there are at least two reasons: desperation and a complete absence of options. Some try to counteract these by crusting proposals in security guarantees, or by cramming them with prosperity roadmaps, or by floating them in demilitarized zones, but these solutions—like reckless bling bling or a bald man’s rug—do little more than shine light on the problem.
 
