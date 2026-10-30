@@ -327,7 +327,7 @@ Have a great weekend!
 ---
 
 
-## Day 1416 (contd)
+## Day 1416ish
 
 **Subtitle:** Welcome to the blockade
 
@@ -420,7 +420,7 @@ The nutter Keith [compared Z to Abraham Lincoln](https://www.youtube.com/shorts/
 ---
 
 
-## Day 1418 (contd)
+## Day 1418ish
 
 **Subtitle:** Heating plant, fauna, flora
 
@@ -1838,7 +1838,7 @@ I’m out the door at 06:30. Will update after I get back around 08:30.
 ---
 
 
-## Day 1446 (contd)
+## Day 1446ish
 
 **Subtitle:** very, very good talks
 
@@ -3294,7 +3294,7 @@ Our timeline, he will tell us, is ours and ours alone to control.
 ---
 
 
-## Week in Review
+## Day 1473
 
 **Subtitle:** Day 1468 to Day 1472
 
@@ -6058,7 +6058,7 @@ Kyiv wasn’t the target this time around.
 ---
 
 
-## Hebdomada
+## Day 1522ish
 
 **Subtitle:** The pattern beneath chaos
 **Date:** 2026-04-25  
@@ -6829,7 +6829,7 @@ Have a great weekend!
 ---
 
 
-## Day 1527 (contd)
+## Day 1528
 
 **Subtitle:** Mindich and Umerov recordings
 **Date:** 2026-05-01  
@@ -7094,7 +7094,7 @@ Have a great weekend!
 ---
 
 
-## Day 1528
+## Day 1529
 
 **Subtitle:** The shortcut state
 
@@ -9856,7 +9856,7 @@ Have a great weekend!
 ---
 
 
-## Day 1581
+## Day 1580
 
 **Subtitle:** Summer solstice
 
@@ -9918,7 +9918,7 @@ There is also a case to be made — not here, but somewhere — for reviving the
 ---
 
 
-## The Map Keeps Getting Larger
+## Day 1581
 
 **Subtitle:** A preamble to the archive
 
@@ -10156,7 +10156,7 @@ The wolf in the Botanical Garden was never found. The trackers eventually went h
 ---
 
 
-## Day 1582
+## Day 1581ish
 
 **Subtitle:** Bracketing the elephant
 
@@ -15788,7 +15788,7 @@ This is new. I’m debating whether or not to continue it. Datacenter destructio
 ---
 
 
-## Day 1684 (contd)
+## Day 1684ish
 
 **Subtitle:** Popcorn chrysanthemums
 
@@ -16175,7 +16175,7 @@ The site can also be installed as a progressive web app (PWA) on your phone or d
 ---
 
 
-## Day 1691 (contd)
+## Day 1691ish
 
 **Subtitle:** Washington hands Moscow the table
 
@@ -16291,7 +16291,7 @@ Twenty-two days to the midterms. Congress can hold the purse and the hearings. I
 ---
 
 
-## Milestone Moment
+## Day 1692ish
 
 **Subtitle:** Momento mori
 
@@ -16395,7 +16395,7 @@ Team USA may yet cut the feed. For now, the feed is reportedly still on. The rec
 ---
 
 
-## Day 1694 (contd)
+## Day 1694ish
 
 **Subtitle:** The Soup is Hot
 
@@ -16545,7 +16545,7 @@ Included a map in the gallery from March 8, 2022 of Russia-occupied areas of Kyi
 ---
 
 
-## Day 1699 (contd)
+## Day 1699ish
 
 **Subtitle:** Pawn shop with flags
 
