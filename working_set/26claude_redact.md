@@ -170,7 +170,7 @@ Sunset.
 
 ## Day 1413
 
-*Date: 2026-01-06 | Status: Published | Audience: everyone*
+*Date: 2026-01-06 | Status: Published | Audience: everyone | Type: podcast*
 
 *The Willing and the Unable*
 
@@ -244,7 +244,7 @@ There is the ice we navigate each morning on the downhill route to wherever we m
 
 ## Day 1415
 
-*Date: 2026-01-08 | Status: Published | Audience: everyone*
+*Date: 2026-01-08 | Status: Published | Audience: everyone | Type: podcast*
 
 *The dice keep rolling*
 
@@ -732,7 +732,7 @@ Trump’s managed in one year to destroy the order and weaken America’s abilit
 
 ## Day 1426
 
-*Date: 2026-01-20 | Status: Published | Audience: everyone*
+*Date: 2026-01-20 | Status: Published | Audience: everyone | Type: podcast*
 
 *Brass fittings won't shine themselves*
 
@@ -1500,7 +1500,7 @@ Here’s the aftermath of the Russian drone strike on a bus carrying Ukrainian m
 
 ## Day 1441
 
-*Date: 2026-02-03 | Status: Published | Audience: everyone*
+*Date: 2026-02-03 | Status: Published | Audience: everyone | Type: podcast*
 
 *Water from corpses*
 
@@ -2094,7 +2094,7 @@ Perhaps, gentlemen, fewer sources. More thought.
 
 ## Day 1451
 
-*Date: 2026-02-13 | Status: Published | Audience: everyone*
+*Date: 2026-02-13 | Status: Published | Audience: everyone | Type: podcast*
 
 *Week in Review*
 
@@ -3176,7 +3176,7 @@ Our timeline, he will tell us, is ours and ours alone to control.
 
 ## Day 1473
 
-*Date: 2026-03-07 | Status: Published | Audience: everyone*
+*Date: 2026-03-07 | Status: Published | Audience: everyone | Type: podcast*
 
 *Day 1468 to Day 1472*
 
@@ -5357,7 +5357,7 @@ Wars, in the end, do not only destroy. They also assign vocabulary. And once a n
 
 ## Day 1513
 
-*Date: 2026-04-16 | Status: Published | Audience: everyone*
+*Date: 2026-04-16 | Status: Published | Audience: everyone | Type: podcast*
 
 *Smoke over the sunrise*
 
@@ -12275,7 +12275,7 @@ The same abdication scales down as easily as it scales up. In Kherson, Russian d
 
 ## Day 1626
 
-*Date: 2026-08-07 | Status: Published | Audience: everyone*
+*Date: 2026-08-07 | Status: Published | Audience: everyone | Type: podcast*
 
 *Not much left of Lyman*
 
@@ -14117,7 +14117,7 @@ It’ll keep changing. I’ll come back to it.
 
 ## Day 1671
 
-*Date: 2026-09-21 | Status: Published | Audience: everyone*
+*Date: 2026-09-21 | Status: Published | Audience: everyone | Type: podcast*
 
 *The 41st square*
 
@@ -15704,7 +15704,7 @@ Twenty-two days to the midterms. Congress can hold the purse and the hearings. I
 
 ## Day 1692ish
 
-*Date: 2026-10-12 | Status: Published | Audience: everyone*
+*Date: 2026-10-12 | Status: Published | Audience: everyone | Type: podcast*
 
 *Memento mori*
 
