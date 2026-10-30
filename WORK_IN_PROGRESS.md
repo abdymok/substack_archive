@@ -104,3 +104,13 @@ The no-upload recovery attempt checked the repository history and all practical 
 - No workbook has been overwritten, and no incomplete CSV has been substituted for it.
 
 Conclusion: the repository has no earlier committed copy of the fixed workbook, and the currently available connector cannot materialize its binary contents for editing. The original fixed workbook therefore cannot be safely reconstructed to its known 57-blank state from the accessible sources alone. Keep the fixed workbook untouched. A true completion still requires a route that makes the existing workbook's bytes available for local spreadsheet editing; do not claim the baseline CSV is an equivalent replacement.
+
+
+## Follow-up — 2026-10-30
+
+- Day 1696: the user explicitly confirmed that there is no subtitle. Keep the subtitle cell blank as an intentional no-subtitle, not an unresolved gap.
+- Day 1709: the user supplied and confirmed the canonical URL: https://abdymok.substack.com/p/day-1709. Use the clean URL without tracking parameters.
+- Day 1709 metadata: date 2026-10-29; day of war 1709; title “Day 1709” / post title “Caught in the nets”; subtitle not yet recovered. Add this as a new October row when the October rows are incorporated. Do not invent a subtitle.
+- The October mapping above is now verified by the user's listing and follow-up. Apply all known mappings, preserve separate continuation rows, and add the Day 1709 row with its verified URL.
+
+The GitHub connector can read the checkpoint and text files but does not support binary workbook downloads. The library copy named `1070_posts_with_war_day_fixed_subtitles.xlsx` is not the current fixed workbook and has 259 blanks; do not use it as a substitute for the GitHub working workbook, which was audited at 57 blanks. The correct workbook bytes still need to be made available for local editing before the workbook can safely be updated.
