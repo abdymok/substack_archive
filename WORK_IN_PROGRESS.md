@@ -127,9 +127,9 @@ The GitHub connector can read the checkpoint and text files but does not support
 
 ## 2026-10-30 reconciliation continuation
 
-- Rebuilt a full 1,071-row CSV from `1070_posts_with_war_day.csv`, applied the October subtitle patch and verified Day 1709 row, then added 191 additional subtitle values using exact canonical URL slug + publication date + published metadata record matching.
+- Rebuilt a full 1,071-row CSV from `1070_posts_with_war_day.csv`, applied the October subtitle patch and verified Day 1709 row, then added 192 additional subtitle values using exact canonical URL slug + publication date + published metadata record matching.
 - Day 380 is correctly represented as `Day 15 Year 2` and `Inertial Ukraine`; both distinct posts retained.
-- Remaining unresolved blanks: 227; Day 1696 is the one intentional blank. See `SUBTITLE_RECONCILIATION_AUDIT_2026-10-30.md`.
+- Remaining unresolved blanks: 226; Day 1696 is the one intentional blank. See `SUBTITLE_RECONCILIATION_AUDIT_2026-10-30.md`.
 - Reconciled CSV: `1071_posts_with_war_day_reconciled_2026-10-30.csv`.
 - Additional recovery patch: `subtitle_recovery_patch_2026-10-30.csv`.
 - This deliverable is CSV, not XLSX; workbook binary was not rewritten.
