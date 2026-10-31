@@ -1,6 +1,6 @@
 normalized_publisher,category,source_domains,link_occurrences,unique_urls,unique_posts,years
 ukraine@war (Substack),personal archive,abdymok.substack.com,721,505,405,2023;2024;2025;2026
-The New York Times,news,nyt.com;nytimes.com,403,218,219,2023;2024;2025;2026
+The New York Times,news,nyt.com;nytimes.com,404,219,220,2023;2024;2025;2026
 Wikipedia,reference,en.wikipedia.org,290,265,196,2023;2024;2025;2026
 YouTube,social media,youtu.be;youtube.com,250,233,168,2023;2024;2025;2026
 The Washington Post,news,wapo.st;washingtonpost.com,225,99,111,2023;2024;2025;2026
@@ -31,7 +31,7 @@ Office of the President of Ukraine,official sources,president.gov.ua,29,29,26,20
 Censor.NET,Ukrainian media,censor.net,28,27,24,2023;2024;2025;2026
 Foreign Affairs,news,foreignaffairs.com,27,14,14,2023;2024;2025;2026
 ZN.ua,Ukrainian media,zn.ua,26,18,16,2023;2024;2025;2026
-BBC,news,bbc.co.uk;bbc.com,25,22,20,2023;2024;2025;2026
+BBC,news,bbc.co.uk;bbc.com,24,22,20,2023;2024;2025;2026
 DeepStateMap,research,deepstatemap.live,22,20,20,2023;2024;2025
 Fox News,news,foxnews.com,21,14,16,2024;2025
 Internet Archive / Wayback Machine,reference,web.archive.org,21,20,13,2023;2024;2025;2026
