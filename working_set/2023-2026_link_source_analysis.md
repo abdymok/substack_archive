@@ -60,7 +60,7 @@
 |---|---|---:|---:|
 | ukraine@war (Substack) | personal archive | 158 | 127 |
 | The New York Times | news | 147 | 73 |
-| The Washington Post | news | 110 | 40 |
+| The Washington Post | news | 111 | 40 |
 | Wikipedia | reference | 80 | 76 |
 | Telegram | social media | 68 | 66 |
 | YouTube | social media | 62 | 58 |
