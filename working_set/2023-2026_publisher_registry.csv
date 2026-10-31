@@ -47,6 +47,8 @@ The New Voice of Ukraine,Ukrainian media,english.nv.ua;nv.ua,14,14,13,2024;2025;
 axios.com,news,axios.com,13,11,10,2023;2024;2025;2026
 KonMari,business / commercial,konmari.com,13,13,13,2025;2026
 nypost.com,news,nypost.com,13,8,7,2024;2025;2026
+Ukraine Economic Outlook,research,ueoweekly.substack.com;ukraine-economic-outlook.com,13,8,11,2023;2024
+The White House,official sources,wh.gov;whitehouse.gov,12,9,12,2023;2024;2025;2026
 Ukrinform,Ukrainian media,ukrinform.net;ukrinform.ua,12,8,10,2024;2025;2026
 Google Books / Google,reference,google.com.ua,11,11,11,2023;2024;2026
 nbcnews.com,news,nbcnews.com,11,11,10,2023;2024;2025;2026
@@ -55,8 +57,6 @@ truthsocial.com,social media,truthsocial.com,11,11,8,2025;2026
 abcnews.go.com,news,abcnews.go.com,10,9,7,2023;2024;2025
 C-SPAN,news,c-span.org,10,10,10,2023;2024;2025
 newsweek.com,news,newsweek.com,10,8,7,2023;2024;2025
-The White House,official sources,whitehouse.gov,10,8,10,2023;2024;2025;2026
-Ukraine Economic Outlook,research,ukraine-economic-outlook.com,10,6,8,2023;2024
 US Department of State,official sources,state.gov,10,8,8,2023;2024;2025;2026
 nabu.gov.ua,official sources,nabu.gov.ua,9,8,7,2023;2025;2026
 newsukraine.rbc.ua,news,newsukraine.rbc.ua,9,9,7,2024;2025
@@ -175,7 +175,6 @@ Texty.org.ua,Ukrainian media,texty.org.ua,3,3,3,2024;2026
 The Spectator,news,spectator.co.uk,3,2,1,2024
 thedailybeast.com,news,thedailybeast.com,3,3,2,2023;2024
 ua.usembassy.gov,official sources,ua.usembassy.gov,3,3,3,2024;2025;2026
-ueoweekly.substack.com,news,ueoweekly.substack.com,3,2,3,2024
 UN Human Rights Monitoring Mission in Ukraine,official sources,ukraine.ohchr.org,3,3,3,2025
 Urban Dictionary,reference,urbandictionary.com,3,3,1,2023
 US Congress,official sources,congress.gov,3,3,2,2023;2026
@@ -278,7 +277,6 @@ Veranda on the River,business / commercial,veranda.ua,2,2,1,2023
 VÉRITÉ,personal / creative,veriteofficial.com,2,1,2,2023;2024
 Vogue Ukraine,Ukrainian media,vogue.ua,2,2,1,2025
 Western States Endurance Run,official sources,wser.org,2,1,2,2025
-wh.gov,official sources,wh.gov,2,1,2,2025
 World Economic Forum,research,weforum.org,2,2,2,2024;2026
 WorldCat,reference,worldcat.org,2,2,1,2026
 Yahoo Finance,news,finance.yahoo.com,2,2,1,2026
