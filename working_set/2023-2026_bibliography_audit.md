@@ -31,7 +31,7 @@ The 2023 categories and annotations are retained from the original HTML template
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `fa7f01fa22e97c09ac0f6bf440185aa9d052e7cc`
+- Latest HTML commit: `2b6012d2980af0625c0720047088b194df46be21`
 - Verified: 308 entries; 57 / 94 / 100 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
@@ -113,7 +113,7 @@ The initial normalized registry overused the category `news` for sources that ar
 
 Examples of corrections:
 
-- **Research and analysis:** Project Syndicate (commentary and policy essays), Emptywheel (independent investigative analysis), The Cipher Brief (national-security analysis), and the Centre for Defence Strategies (`defence.org.ua`). The latter's own site identifies its material as research and analytical reports: https://defence.org.ua/en/research/ .
+- **Research and analysis:** Project Syndicate (commentary and policy essays), Emptywheel (independent investigative analysis), The Cipher Brief (national-security analysis), the Centre for Defence Strategies (`defence.org.ua`), and Ukraine Economic Outlook (including its Substack publication). The latter's own site identifies its material as research and analytical reports: https://defence.org.ua/en/research/ .
 - **Reference and archives:** C-SPAN (primary video and hearing archive) and the Poetry Foundation (literary reference).
 - **Platforms, specialist publications and other:** Mindscape / Preposterous Universe (podcast), iRunFar (specialist running publication), Men's Health, BBC Sky at Night, Prospect, Western States Endurance Run, MSN and Yahoo News (aggregators), plus other non-news entities.
 - **Ukrainian media:** LIGA.net (`news.liga.net`), UNITED24 Media (`united24media.com`), RBC-Ukraine (`newsukraine.rbc.ua`) and Euromaidan Press (`euromaidanpress.com`).
@@ -127,9 +127,9 @@ These are link occurrences across the entire source-year dataset, not publisher-
 
 | Category | 2023 | 2024 | 2025 | 2026 |
 |---|---:|---:|---:|---:|
-| News | 413 | 739 | 478 | 270 |
+| News | 413 | 736 | 478 | 270 |
 | Ukrainian media | 65 | 130 | 65 | 51 |
-| Research | 53 | 78 | 64 | 32 |
+| Research | 53 | 81 | 64 | 32 |
 | Official sources | 36 | 51 | 58 | 47 |
 | Reference | 145 | 154 | 187 | 163 |
 | Social media | 167 | 243 | 238 | 157 |
@@ -160,3 +160,5 @@ Added specific examples and editorial context for four further 2025 publishers a
 - **2026:** Bloomberg (Days 1512 and 1570, Budanov's profile and Hal Brands's drone analysis); Financial Times (Days 1415 and 1539, the Budanov appointment and Yermak investigation); The Wall Street Journal and POLITICO (Day 1539, reporting on the Yermak investigation); The Atlantic (Day 1553, macro-level claims about Russia's position versus lived conditions).
 
 The new annotations explicitly preserve the author's criticism of a source's framing where present. A BBC URL/title mismatch in Day 1121 is flagged in the bibliography and is not silently corrected.
+
+- Reclassified the Ukraine Economic Outlook Substack publication as research and analysis and normalized its display name; its three 2024 links are now grouped with the organization's other research references.
