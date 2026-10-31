@@ -45,3 +45,8 @@ Day 440ish clarification: the NYT date correction concerns the separate May 9, 2
 
 
 Day 501: verified and restored the Hurst publisher URL for *The Zelensky Effect* in the post copy, annual linked-reference CSV, normalized link dataset, Z review queue and one-day-source appendix.
+
+
+## Link reconciliation
+
+The annual linked-reference CSVs and normalized dataset match exactly: 5,438 link occurrences and 5,050 distinct day-plus-URL pairs, with zero missing or extra pairs. Recomputed recurring counts match the HTML (58, 94, 100, 57; 309 total). The one-day appendix matches all 819 one-day source-year groups, with zero missing or extra records.
