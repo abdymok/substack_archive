@@ -201,7 +201,7 @@ Comments.ua,Ukrainian media,azart.comments.ua,2,2,1,2024
 Council of the European Union,official sources,consilium.europa.eu,2,2,2,2023;2025
 counteroffensive.news,news,counteroffensive.news,2,2,2,2026
 defence.org.ua,other / unclassified,defence.org.ua,2,2,2,2025
-Detachment A,reference / archive,detachment-a.org,2,2,2,2023;2026
+Detachment A,reference,detachment-a.org,2,2,2,2023;2026
 dia.mil,official sources,dia.mil,2,1,2,2023;2025
 Dodo Socks,business / commercial,dodosocks.com,2,2,2,2025;2026
 EU Neighbours East,official sources,euneighbourseast.eu,2,2,1,2025
@@ -248,7 +248,7 @@ RT,news,rt.com,2,2,2,2025
 rumble.com,social media,rumble.com,2,2,2,2025;2026
 Runner’s World,news,runnersworld.com,2,1,2,2023;2024
 Samtiden,news,samtiden.no,2,2,1,2026
-SideStack,reference / archive,sidestack.io,2,2,2,2025;2026
+SideStack,reference,sidestack.io,2,2,2,2025;2026
 Stripe,business / commercial,stripe.com,2,2,2,2024;2025
 Sud.ua,Ukrainian media,sud.ua,2,2,2,2023;2026
 Süddeutsche Zeitung,news,sueddeutsche.de,2,2,2,2025
@@ -322,7 +322,7 @@ atncorp.com,other / unclassified,atncorp.com,1,1,1,2023
 auchan.fr,other / unclassified,auchan.fr,1,1,1,2025
 auchan.ua,other / unclassified,auchan.ua,1,1,1,2025
 azov.org.ua,other / unclassified,azov.org.ua,1,1,1,2025
-AZQuotes,reference / archive,azquotes.com,1,1,1,2023
+AZQuotes,reference,azquotes.com,1,1,1,2023
 banking.senate.gov,official sources,banking.senate.gov,1,1,1,2025
 bbc.co.uk,other / unclassified,bbc.co.uk,1,1,1,2024
 BBG Watch,news,bbgwatch.com,1,1,1,2023
@@ -475,10 +475,10 @@ hercul.com.ua,other / unclassified,hercul.com.ua,1,1,1,2024
 heritage.org,other / unclassified,heritage.org,1,1,1,2025
 himes.house.gov,official sources,himes.house.gov,1,1,1,2024
 hindustantimes.com,news,hindustantimes.com,1,1,1,2024
-Historic UK,reference / archive,historic-uk.com,1,1,1,2023
+Historic UK,reference,historic-uk.com,1,1,1,2023
 history.catholic.edu,research,history.catholic.edu,1,1,1,2025
 holosameryky.com,other / unclassified,holosameryky.com,1,1,1,2024
-HolyBooks,reference / archive,holybooks.com,1,1,1,2023
+HolyBooks,reference,holybooks.com,1,1,1,2023
 hpsnz.org.nz,other / unclassified,hpsnz.org.nz,1,1,1,2025
 hrc.org,other / unclassified,hrc.org,1,1,1,2024
 Hromadske,Ukrainian media,hromadske.ua,1,1,1,2025
@@ -606,7 +606,7 @@ news.yahoo.com,news,news.yahoo.com,1,1,1,2024
 newspapers.com,news,newspapers.com,1,1,1,2023
 nih.gov,official sources,nih.gov,1,1,1,2024
 ninajankowicz.com,other / unclassified,ninajankowicz.com,1,1,1,2024
-Nizkor Project,reference / archive,nizkor.com,1,1,1,2023
+Nizkor Project,reference,nizkor.com,1,1,1,2023
 notesfromkyiv.substack.com,other / unclassified,notesfromkyiv.substack.com,1,1,1,2026
 Novaya Gazeta Europe,news,novayagazeta.eu,1,1,1,2023
 novolipki.com,other / unclassified,novolipki.com,1,1,1,2024
@@ -622,7 +622,7 @@ olayasport.com,other / unclassified,olayasport.com,1,1,1,2025
 olx.ua,other / unclassified,olx.ua,1,1,1,2025
 olympics.com,other / unclassified,olympics.com,1,1,1,2026
 on.soundcloud.com,other / unclassified,on.soundcloud.com,1,1,1,2024
-Online Library of Liberty,reference / archive,oll.libertyfund.org,1,1,1,2023
+Online Library of Liberty,reference,oll.libertyfund.org,1,1,1,2023
 online.ua,other / unclassified,online.ua,1,1,1,2024
 opendatabot.ua,other / unclassified,opendatabot.ua,1,1,1,2024
 opensecrets.org,other / unclassified,opensecrets.org,1,1,1,2024
@@ -639,9 +639,9 @@ patreon.com,other / unclassified,patreon.com,1,1,1,2026
 paypal.com,other / unclassified,paypal.com,1,1,1,2024
 pdhpe.net,other / unclassified,pdhpe.net,1,1,1,2025
 pewresearch.org,research,pewresearch.org,1,1,1,2024
-Philip Jones Griffiths Foundation,reference / archive,philipjonesgriffiths.org,1,1,1,2023
+Philip Jones Griffiths Foundation,reference,philipjonesgriffiths.org,1,1,1,2023
 philsci-archive.pitt.edu,research,philsci-archive.pitt.edu,1,1,1,2024
-PlantUML,reference / archive,plantuml.com,1,1,1,2023
+PlantUML,reference,plantuml.com,1,1,1,2023
 play.google.com,other / unclassified,play.google.com,1,1,1,2026
 poetrysociety.org,other / unclassified,poetrysociety.org,1,1,1,2025
 pokernews.com,news,pokernews.com,1,1,1,2025
@@ -688,7 +688,7 @@ Sarah Ashton-Cirillo (Substack),personal archive,sarahashtoncirillo.substack.com
 sas.upenn.edu,research,sas.upenn.edu,1,1,1,2025
 sciplus.com,other / unclassified,sciplus.com,1,1,1,2023
 scmp.com,other / unclassified,scmp.com,1,1,1,2024
-Scottish Poetry Library,reference / archive,scottishpoetrylibrary.org.uk,1,1,1,2023
+Scottish Poetry Library,reference,scottishpoetrylibrary.org.uk,1,1,1,2023
 scribd.com,other / unclassified,scribd.com,1,1,1,2024
 scrippsnews.com,news,scrippsnews.com,1,1,1,2025
 search.google.com,other / unclassified,search.google.com,1,1,1,2024
@@ -703,12 +703,12 @@ simonandschuster.com,other / unclassified,simonandschuster.com,1,1,1,2024
 simple.wikipedia.org,other / unclassified,simple.wikipedia.org,1,1,1,2025
 singjupost.com,news,singjupost.com,1,1,1,2024
 skydio.com,other / unclassified,skydio.com,1,1,1,2024
-SlangDefine,reference / archive,slangdefine.org,1,1,1,2023
+SlangDefine,reference,slangdefine.org,1,1,1,2023
 slate.com,other / unclassified,slate.com,1,1,1,2025
 sluga-narodu.com,other / unclassified,sluga-narodu.com,1,1,1,2023
 sluganaroda.fandom.com,other / unclassified,sluganaroda.fandom.com,1,1,1,2025
 smartass.club,other / unclassified,smartass.club,1,1,1,2025
-Socialist Modernism,reference / archive,socialistmodernism.com,1,1,1,2023
+Socialist Modernism,reference,socialistmodernism.com,1,1,1,2023
 solar-center.stanford.edu,research,solar-center.stanford.edu,1,1,1,2024
 soundcloud.com,social media,soundcloud.com,1,1,1,2023
 space.com,other / unclassified,space.com,1,1,1,2025
@@ -720,7 +720,7 @@ spravkainform.com.ua,other / unclassified,spravkainform.com.ua,1,1,1,2024
 stateoig.gov,official sources,stateoig.gov,1,1,1,2023
 static.heritage.org,other / unclassified,static.heritage.org,1,1,1,2025
 static.project2025.org,other / unclassified,static.project2025.org,1,1,1,2025
-Statistics How To,reference / archive,statisticshowto.com,1,1,1,2023
+Statistics How To,reference,statisticshowto.com,1,1,1,2023
 stockanalysis.com,other / unclassified,stockanalysis.com,1,1,1,2026
 store.magnumphotos.com,other / unclassified,store.magnumphotos.com,1,1,1,2025
 storymaps.arcgis.com,other / unclassified,storymaps.arcgis.com,1,1,1,2024
@@ -737,7 +737,7 @@ teufelsberg-berlin.de,other / unclassified,teufelsberg-berlin.de,1,1,1,2025
 tf1info.fr,other / unclassified,tf1info.fr,1,1,1,2024
 The Conversation,news,theconversation.com,1,1,1,2023
 The Lancet,research,thelancet.com,1,1,1,2023
-The Literature Page,reference / archive,literaturepage.com,1,1,1,2023
+The Literature Page,reference,literaturepage.com,1,1,1,2023
 The Mozart Group,business / commercial,themozartgroup.com,1,1,1,2023
 The New European,news,theneweuropean.co.uk,1,1,1,2023
 The Poetry Hour,personal / creative,thepoetryhour.com,1,1,1,2023
@@ -755,7 +755,7 @@ theyoungones.fandom.com,other / unclassified,theyoungones.fandom.com,1,1,1,2026
 ti-ukraine.org,other / unclassified,ti-ukraine.org,1,1,1,2023
 timemagazine.com,news,timemagazine.com,1,1,1,2023
 timesofisrael.com,news,timesofisrael.com,1,1,1,2026
-Topographic Map,reference / archive,en-us.topographic-map.com,1,1,1,2023
+Topographic Map,reference,en-us.topographic-map.com,1,1,1,2023
 totalprosports.com,other / unclassified,totalprosports.com,1,1,1,2024
 traxys.com,other / unclassified,traxys.com,1,1,1,2025
 tribune.com.pk,news,tribune.com.pk,1,1,1,2026
@@ -800,7 +800,7 @@ VICE,news,vice.com,1,1,1,2023
 vimeo.com,social media,vimeo.com,1,1,1,2025
 visir.is,other / unclassified,visir.is,1,1,1,2024
 vladimirbpastukhov.substack.com,other / unclassified,vladimirbpastukhov.substack.com,1,1,1,2026
-vLex,reference / archive,vlex.com,1,1,1,2023
+vLex,reference,vlex.com,1,1,1,2023
 voanews.com,news,voanews.com,1,1,1,2024
 vodokanal.kyiv.ua,other / unclassified,vodokanal.kyiv.ua,1,1,1,2026
 vsn.ua,other / unclassified,vsn.ua,1,1,1,2025
@@ -814,7 +814,7 @@ webportal.nrada.gov.ua,official sources,webportal.nrada.gov.ua,1,1,1,2026
 weekendreading.net,other / unclassified,weekendreading.net,1,1,1,2023
 westplainsdailyquill.net,news,westplainsdailyquill.net,1,1,1,2024
 wikimapia.org,other / unclassified,wikimapia.org,1,1,1,2024
-Wikipedia (Polish),reference / archive,pl.wikipedia.org,1,1,1,2023
+Wikipedia (Polish),reference,pl.wikipedia.org,1,1,1,2023
 witkoff.com,other / unclassified,witkoff.com,1,1,1,2025
 Work/Craft/Life,personal / creative,workcraftlife.com,1,1,1,2023
 World Health Organization,official sources,who.int,1,1,1,2023
