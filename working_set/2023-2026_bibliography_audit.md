@@ -36,10 +36,10 @@ This convention applies to source/article dates in the annual annotated bibliogr
 | Year | Recurring external publishers | Category breakdown |
 |---|---:|---|
 | 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
-| 2024 | 94 | 37 international news; 15 Ukrainian media; 11 research; 8 official; 11 reference; 12 platforms, specialist publications and other |
-| 2025 | 99 | 35 international news; 12 Ukrainian media; 10 research; 11 official; 13 reference; 17 platforms, specialist publications and other; 1 state media |
+| 2024 | 95 | 37 international news; 15 Ukrainian media; 11 research; 8 official; 11 reference; 13 platforms, specialist publications and other |
+| 2025 | 100 | 35 international news; 12 Ukrainian media; 10 research; 11 official; 13 reference; 18 platforms, specialist publications and other; 1 state media |
 | 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
-| **Total annual entries** | **307** | A publisher recurring in more than one year appears once in each relevant year. |
+| **Total annual entries** | **309** | A publisher recurring in more than one year appears once in each relevant year. |
 
 The category breakdown in this table follows the curated HTML section headings. The separate category-year CSV is a link-occurrence analysis using the finer categories in the normalized source registry, so its category totals are not expected to match the number of curated publisher entries.
 
@@ -49,15 +49,15 @@ The 2023 categories and annotations are retained from the original HTML template
 
 ## Source-classification checkpoint — 31 October 2026
 
-The normalized link dataset now reconciles to 5,438 link occurrences, 4,218 distinct URL strings, 854 original source domains and 976 posts with at least one link. The personal-archive category contains 821 occurrences. Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The current residual is 306 domains / 306 occurrences in other / unclassified, almost entirely one-off domains. The latest two passes reviewed 146 high-frequency and readily identifiable domains, including specialist media, commercial brands and services, reference archives, social profiles, research organizations, Ukrainian media and official institutions. A malformed NYT publisher URL was also corrected and merged into the existing NYT domain record.
+The normalized link dataset now reconciles to 5,438 link occurrences, 4,218 distinct URL strings, 854 original source domains and 976 posts with at least one link. The personal-archive category contains 821 occurrences. Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The current residual is 306 domains / 306 occurrences in other / unclassified. Every remaining unclassified domain occurs only once. The latest two passes reviewed 146 high-frequency and readily identifiable domains, including specialist media, commercial brands and services, reference archives, social profiles, research organizations, Ukrainian media and official institutions. A malformed NYT publisher URL was also corrected and merged into the existing NYT domain record.
 
-The current source-classification files are the authoritative machine-readable comparison: normalized links, source registry, publisher registry, source-year table and category-year table. The HTML bibliography remains the curated 307 publisher-year reading guide; it is not a list of all 854 domains.
+The current source-classification files are the authoritative machine-readable comparison: normalized links, source registry, publisher registry, source-year table and category-year table. The HTML bibliography remains the curated 309 publisher-year reading guide; it is not a list of all 854 domains.
 
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `104a92f77529c754dc7188f8360b36c3161b1cd7`
-- Verified: 307 entries; 57 / 94 / 99 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The verified annual totals are 57 / 94 / 99 / 57.
+- Latest HTML commit: `14060a875a977b45a3620c470b77229273ac4161`
+- Verified: 309 entries; 57 / 95 / 100 / 57 by year. Added the recurring Substack platform entry to 2024 and the MSD corporate-source entry to 2025. Normalized the White House short-domain alias and the Ukraine Economic Outlook Substack domain in the source registry. The verified annual totals are 57 / 95 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
 
