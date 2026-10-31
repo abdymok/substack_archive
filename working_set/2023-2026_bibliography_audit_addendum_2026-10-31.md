@@ -39,3 +39,6 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 ## Z-substitution update
 
 Two further canonical URLs were verified against Washington Post publisher pages and restored in the Day 425 and Day 446 post copies, 2023 linked-reference CSV, normalized link dataset and Z review queue. The queue now records 5 verified cases and 110 candidates still pending. No global replacement was used.
+
+
+Day 440ish clarification: the NYT date correction concerns the separate May 9, 2023 Day 440ish post. Its footnote was corrected from March 28 to March 25 and the malformed NYT homepage URL was replaced with the verified article URL. The March 30 Day 440ish label/slug mismatch remains open as a separate author-confirmation question.
