@@ -1,7 +1,7 @@
 # Annotated bibliography: Ukraine and the war, 2024
 
 *Working draft · v0.1 · compiled from the 2024 Substack archive and its linked-reference dataset*
-
+\n\n**Citation dates:** use the original publication timestamp converted to Kyiv time (Europe/Kyiv), not a later update or syndication date. If no reliable timestamp is available, retain the publisher’s original displayed date and flag material ambiguity. The Substack post date remains separate.
 ## Scope and method
 
 The 2024 archive contains 300 posts and 1,717 linked-reference records, spanning 348 distinct URL hostnames before publisher normalization. This bibliography is a selective guide to sources relevant to the war, Ukraine's political and military position, international support, accountability, and the information environment. It is not a list of every link in the archive.
