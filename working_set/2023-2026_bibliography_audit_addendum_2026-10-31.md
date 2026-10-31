@@ -16,7 +16,7 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 
 ## Remaining work
 
-1. Review the 19 provisional Archive.ph attributions and resolve the Day 1135 Susan Crawford item. Correct the Day 1133 destination mismatch only after recovering the canonical NYT URL.
+1. Review the 12 medium-confidence Archive.ph attributions and resolve the Day 1135 Susan Crawford item. Correct the Day 1133 destination mismatch only after recovering the canonical NYT URL.
 2. Finish timestamp checks for Day 775 (Washington Post original versus update date), Day 843 (POLITICO), Day 1108 (NYT café story), Day 1205 (NYT McConnell story), and Day 1373 (The Economist). Day 1042 Axios is annotated December 30; exact time remains unavailable.
 3. Recover the canonical NYT destination for Day 1121. Do not guess or insert a reconstructed URL.
 4. Obtain author confirmation on the Day 440ish label versus its Day 400 slug and numeric metadata.
