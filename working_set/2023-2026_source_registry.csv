@@ -213,7 +213,7 @@ consilium.europa.eu,Council of the European Union,official sources,2,2,2,2023;20
 counteroffensive.news,counteroffensive.news,news,2,2,2,2026,publisher-name heuristic
 defence-ua.com,Defense Express,Ukrainian media,2,2,1,2024,manual domain review
 defence.org.ua,defence.org.ua,other / unclassified,2,2,2,2025,domain not confidently identified
-detachment-a.org,Detachment A,reference / archive,2,2,2,2023;2026,manual review: historical veterans and intelligence archive
+detachment-a.org,Detachment A,reference,2,2,2,2023;2026,manual review: historical veterans and intelligence archive
 dia.mil,dia.mil,official sources,2,1,2,2023;2025,government/military domain
 dodosocks.com,Dodo Socks,business / commercial,2,2,2,2025;2026,manual review: Ukrainian retail brand
 ec.europa.eu,European Commission,official sources,2,1,1,2024,manual domain review
@@ -268,7 +268,7 @@ rumble.com,rumble.com,social media,2,2,2,2025;2026,known platform
 runnersworld.com,Runner’s World,news,2,1,2,2023;2024,manual domain review
 samtiden.no,Samtiden,news,2,2,1,2026,manual domain review
 sfstandard.com,The San Francisco Standard,news,2,1,1,2024,manual domain review
-sidestack.io,SideStack,reference / archive,2,2,2,2025;2026,manual review: Substack directory
+sidestack.io,SideStack,reference,2,2,2,2025;2026,manual review: Substack directory
 snyder.substack.com,Timothy Snyder (Substack),social media,2,2,2,2023;2024,manual domain review
 stripe.com,Stripe,business / commercial,2,2,2,2024;2025,manual review: payments company
 sud.ua,Sud.ua,Ukrainian media,2,2,2,2023;2026,manual domain review
@@ -341,7 +341,7 @@ atncorp.com,atncorp.com,other / unclassified,1,1,1,2023,domain not confidently i
 auchan.fr,auchan.fr,other / unclassified,1,1,1,2025,domain not confidently identified
 auchan.ua,auchan.ua,other / unclassified,1,1,1,2025,domain not confidently identified
 azov.org.ua,azov.org.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-azquotes.com,AZQuotes,reference / archive,1,1,1,2023,manual review: quotation database
+azquotes.com,AZQuotes,reference,1,1,1,2023,manual review: quotation database
 banking.senate.gov,banking.senate.gov,official sources,1,1,1,2025,government/military domain
 bbc.co.uk,bbc.co.uk,other / unclassified,1,1,1,2024,domain not confidently identified
 bbgwatch.com,BBG Watch,news,1,1,1,2023,manual review: media and broadcasting watchdog site
@@ -437,7 +437,7 @@ efile.fara.gov,efile.fara.gov,official sources,1,1,1,2024,government/military do
 egypt.mfa.gov.ua,egypt.mfa.gov.ua,official sources,1,1,1,2024,government/military domain
 elevenlabs.io,elevenlabs.io,other / unclassified,1,1,1,2025,domain not confidently identified
 eloquentmadness.wordpress.com,eloquentmadness.wordpress.com,news,1,1,1,2024,publisher-name heuristic
-en-us.topographic-map.com,Topographic Map,reference / archive,1,1,1,2023,manual review: map and geographic reference service
+en-us.topographic-map.com,Topographic Map,reference,1,1,1,2023,manual review: map and geographic reference service
 en.lb.ua,en.lb.ua,other / unclassified,1,1,1,2024,domain not confidently identified
 en.people.cn,en.people.cn,other / unclassified,1,1,1,2024,domain not confidently identified
 en.tutiempo.net,en.tutiempo.net,other / unclassified,1,1,1,2025,domain not confidently identified
@@ -495,10 +495,10 @@ hercul.com.ua,hercul.com.ua,other / unclassified,1,1,1,2024,domain not confident
 heritage.org,heritage.org,other / unclassified,1,1,1,2025,domain not confidently identified
 himes.house.gov,himes.house.gov,official sources,1,1,1,2024,government/military domain
 hindustantimes.com,hindustantimes.com,news,1,1,1,2024,publisher-name heuristic
-historic-uk.com,Historic UK,reference / archive,1,1,1,2023,manual review: British history reference site
+historic-uk.com,Historic UK,reference,1,1,1,2023,manual review: British history reference site
 history.catholic.edu,history.catholic.edu,research,1,1,1,2025,research/think-tank or academic domain
 holosameryky.com,holosameryky.com,other / unclassified,1,1,1,2024,domain not confidently identified
-holybooks.com,HolyBooks,reference / archive,1,1,1,2023,manual review: religious and historical text archive
+holybooks.com,HolyBooks,reference,1,1,1,2023,manual review: religious and historical text archive
 hpsnz.org.nz,hpsnz.org.nz,other / unclassified,1,1,1,2025,domain not confidently identified
 hrc.org,hrc.org,other / unclassified,1,1,1,2024,domain not confidently identified
 hromadske.radio,hromadske.radio,other / unclassified,1,1,1,2025,domain not confidently identified
@@ -573,7 +573,7 @@ lidskae.by,lidskae.by,other / unclassified,1,1,1,2025,domain not confidently ide
 life-bridge-ukraine.com,life-bridge-ukraine.com,other / unclassified,1,1,1,2025,domain not confidently identified
 ligo.org,ligo.org,other / unclassified,1,1,1,2026,domain not confidently identified
 link.springer.com,link.springer.com,other / unclassified,1,1,1,2024,domain not confidently identified
-literaturepage.com,The Literature Page,reference / archive,1,1,1,2023,manual review: public-domain literature archive
+literaturepage.com,The Literature Page,reference,1,1,1,2023,manual review: public-domain literature archive
 live.euronext.com,live.euronext.com,other / unclassified,1,1,1,2026,domain not confidently identified
 livemint.com,Mint,news,1,1,1,2023,manual domain review
 livenowfox.com,livenowfox.com,other / unclassified,1,1,1,2025,domain not confidently identified
@@ -626,7 +626,7 @@ news.yahoo.com,news.yahoo.com,news,1,1,1,2024,publisher-name heuristic
 newspapers.com,newspapers.com,news,1,1,1,2023,publisher-name heuristic
 nih.gov,nih.gov,official sources,1,1,1,2024,government/military domain
 ninajankowicz.com,ninajankowicz.com,other / unclassified,1,1,1,2024,domain not confidently identified
-nizkor.com,Nizkor Project,reference / archive,1,1,1,2023,manual review: Holocaust documentation archive
+nizkor.com,Nizkor Project,reference,1,1,1,2023,manual review: Holocaust documentation archive
 notesfromkyiv.substack.com,notesfromkyiv.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
 novayagazeta.eu,Novaya Gazeta Europe,news,1,1,1,2023,manual review: independent Russian-language news outlet
 novolipki.com,novolipki.com,other / unclassified,1,1,1,2024,domain not confidently identified
@@ -639,7 +639,7 @@ odni.gov,odni.gov,official sources,1,1,1,2024,government/military domain
 ogburger.kyiv.ua,OG Burger,business / commercial,1,1,1,2023,manual review: Kyiv restaurant
 oglobo.globo.com,oglobo.globo.com,other / unclassified,1,1,1,2025,domain not confidently identified
 olayasport.com,olayasport.com,other / unclassified,1,1,1,2025,domain not confidently identified
-oll.libertyfund.org,Online Library of Liberty,reference / archive,1,1,1,2023,manual review: digital library of political and economic texts
+oll.libertyfund.org,Online Library of Liberty,reference,1,1,1,2023,manual review: digital library of political and economic texts
 olx.ua,olx.ua,other / unclassified,1,1,1,2025,domain not confidently identified
 olympics.com,olympics.com,other / unclassified,1,1,1,2026,domain not confidently identified
 on.soundcloud.com,on.soundcloud.com,other / unclassified,1,1,1,2024,domain not confidently identified
@@ -659,10 +659,10 @@ patreon.com,patreon.com,other / unclassified,1,1,1,2026,domain not confidently i
 paypal.com,paypal.com,other / unclassified,1,1,1,2024,domain not confidently identified
 pdhpe.net,pdhpe.net,other / unclassified,1,1,1,2025,domain not confidently identified
 pewresearch.org,pewresearch.org,research,1,1,1,2024,organization-name heuristic
-philipjonesgriffiths.org,Philip Jones Griffiths Foundation,reference / archive,1,1,1,2023,manual review: photographer's archive and foundation
+philipjonesgriffiths.org,Philip Jones Griffiths Foundation,reference,1,1,1,2023,manual review: photographer's archive and foundation
 philsci-archive.pitt.edu,philsci-archive.pitt.edu,research,1,1,1,2024,research/think-tank or academic domain
-pl.wikipedia.org,Wikipedia (Polish),reference / archive,1,1,1,2023,manual review: encyclopedia
-plantuml.com,PlantUML,reference / archive,1,1,1,2023,manual review: software documentation and diagramming tool
+pl.wikipedia.org,Wikipedia (Polish),reference,1,1,1,2023,manual review: encyclopedia
+plantuml.com,PlantUML,reference,1,1,1,2023,manual review: software documentation and diagramming tool
 play.google.com,play.google.com,other / unclassified,1,1,1,2026,domain not confidently identified
 poetrysociety.org,poetrysociety.org,other / unclassified,1,1,1,2025,domain not confidently identified
 pokernews.com,pokernews.com,news,1,1,1,2025,publisher-name heuristic
@@ -712,7 +712,7 @@ sarahashtoncirillo.substack.com,Sarah Ashton-Cirillo (Substack),personal archive
 sas.upenn.edu,sas.upenn.edu,research,1,1,1,2025,research/think-tank or academic domain
 sciplus.com,sciplus.com,other / unclassified,1,1,1,2023,domain not confidently identified
 scmp.com,scmp.com,other / unclassified,1,1,1,2024,domain not confidently identified
-scottishpoetrylibrary.org.uk,Scottish Poetry Library,reference / archive,1,1,1,2023,manual review: poetry library and archive
+scottishpoetrylibrary.org.uk,Scottish Poetry Library,reference,1,1,1,2023,manual review: poetry library and archive
 scribd.com,scribd.com,other / unclassified,1,1,1,2024,domain not confidently identified
 scrippsnews.com,scrippsnews.com,news,1,1,1,2025,publisher-name heuristic
 search.google.com,search.google.com,other / unclassified,1,1,1,2024,domain not confidently identified
@@ -727,12 +727,12 @@ simonandschuster.com,simonandschuster.com,other / unclassified,1,1,1,2024,domain
 simple.wikipedia.org,simple.wikipedia.org,other / unclassified,1,1,1,2025,domain not confidently identified
 singjupost.com,singjupost.com,news,1,1,1,2024,publisher-name heuristic
 skydio.com,skydio.com,other / unclassified,1,1,1,2024,domain not confidently identified
-slangdefine.org,SlangDefine,reference / archive,1,1,1,2023,manual review: slang dictionary
+slangdefine.org,SlangDefine,reference,1,1,1,2023,manual review: slang dictionary
 slate.com,slate.com,other / unclassified,1,1,1,2025,domain not confidently identified
 sluga-narodu.com,sluga-narodu.com,other / unclassified,1,1,1,2023,domain not confidently identified
 sluganaroda.fandom.com,sluganaroda.fandom.com,other / unclassified,1,1,1,2025,domain not confidently identified
 smartass.club,smartass.club,other / unclassified,1,1,1,2025,domain not confidently identified
-socialistmodernism.com,Socialist Modernism,reference / archive,1,1,1,2023,manual review: architecture and heritage archive
+socialistmodernism.com,Socialist Modernism,reference,1,1,1,2023,manual review: architecture and heritage archive
 solar-center.stanford.edu,solar-center.stanford.edu,research,1,1,1,2024,research/think-tank or academic domain
 soundcloud.com,soundcloud.com,social media,1,1,1,2023,known platform
 space.com,space.com,other / unclassified,1,1,1,2025,domain not confidently identified
@@ -744,7 +744,7 @@ spravkainform.com.ua,spravkainform.com.ua,other / unclassified,1,1,1,2024,domain
 stateoig.gov,stateoig.gov,official sources,1,1,1,2023,government/military domain
 static.heritage.org,static.heritage.org,other / unclassified,1,1,1,2025,domain not confidently identified
 static.project2025.org,static.project2025.org,other / unclassified,1,1,1,2025,domain not confidently identified
-statisticshowto.com,Statistics How To,reference / archive,1,1,1,2023,manual review: statistics reference and education site
+statisticshowto.com,Statistics How To,reference,1,1,1,2023,manual review: statistics reference and education site
 stockanalysis.com,stockanalysis.com,other / unclassified,1,1,1,2026,domain not confidently identified
 store.magnumphotos.com,store.magnumphotos.com,other / unclassified,1,1,1,2025,domain not confidently identified
 storymaps.arcgis.com,storymaps.arcgis.com,other / unclassified,1,1,1,2024,domain not confidently identified
@@ -821,7 +821,7 @@ vice.com,VICE,news,1,1,1,2023,manual domain review
 vimeo.com,vimeo.com,social media,1,1,1,2025,known platform
 visir.is,visir.is,other / unclassified,1,1,1,2024,domain not confidently identified
 vladimirbpastukhov.substack.com,vladimirbpastukhov.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-vlex.com,vLex,reference / archive,1,1,1,2023,manual review: legal research database
+vlex.com,vLex,reference,1,1,1,2023,manual review: legal research database
 voanews.com,voanews.com,news,1,1,1,2024,publisher-name heuristic
 vodokanal.kyiv.ua,vodokanal.kyiv.ua,other / unclassified,1,1,1,2026,domain not confidently identified
 vsn.ua,vsn.ua,other / unclassified,1,1,1,2025,domain not confidently identified
