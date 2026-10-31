@@ -226,3 +226,12 @@ All 57 publisher link/post counts in the original 2023 section match the 2023 li
 - Day 680: the Reuters link is the January 3 Russia–Ukraine POW exchange report; the New York Times link is the January 3 fact-check of Mike Johnson's border and fentanyl claims; the two other Reuters links concern Chinese balloons over Taiwan and the Taiwanese election. The destinations match the post's surrounding text.
 - No correction was needed in the bibliography or original posts for these sampled links. This is a spot-check of these two posts, not a complete audit of all 2024 links.
 - Verification references: BBC News Ukraine, January 3, 2024; The New York Times, January 3, 2024; Reuters, January 3, 2024.
+
+
+### 2024 representative-link and source-date verification — Day 707, January 31
+
+- Read `working_set/posts/2024/2024-01-31_day-707.md` and checked both the Financial Times and Kyiv International Institute of Sociology references.
+- The FT URL resolves to “Volodymyr Zelenskyy prepares to replace Ukraine’s top general”; the article was circulating on January 30, 2024, and matches the post's discussion of the Zaluzhnyi dispute. The bibliography now identifies this example in its FT annotation.
+- The KIIS URL resolves to “Trust in military commanders and attitude to the possible resignation of V. Zaluzhnyi.” KIIS dates the release 20.12.2023 and states that the survey fieldwork ran December 4–10, 2023. The archived Day 707 footnote says “December 2003,” a clear year typo. The bibliography now flags the discrepancy. The original post and linked-reference CSV remain unchanged.
+- Verification sources: KIIS original release (https://www.kiis.com.ua/?lang=eng&cat=reports&id=1338&page=1); Financial Times article URL and contemporaneous January 30, 2024 references.
+- No publisher counts changed. HTML commit: 7505eab2b751a678946945c9a8e7587049fdbd9e.
