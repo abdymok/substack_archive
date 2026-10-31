@@ -379,3 +379,9 @@ The original article text and commentary were otherwise preserved. No link count
 - One definite link-target problem remains unresolved: in the March 20 post, the sentence “I enjoyed this article from The New York Times about Donald Jr. visiting Serbia” points to the same BBC URL used in the preceding sentence about the Israel-Hamas truce. Independent contemporaneous references identify the NYT article as “Donald Trump Jr. mixes business and politics in Serbia, as protests there rage,” published March 19, 2025, but I have not recovered a verified canonical NYT URL. I have not substituted a guessed link. This needs the original article URL or a verified publisher link before correction.
 - March archive file `2025-03-28_day-1129-contd.md` is a continuation companion to the same-day Day 1129 file; no metadata change was made.
 - This is a spot-check, not exhaustive verification of every March URL. Evidence for the misdirected NYT link and article identity: `turn683343search0`, `turn683343search1`, `turn683343search4`, `turn683343search12`, `turn937326search1`.
+
+
+### April 2025 checks
+
+- April 24 Day 1156 internal link labelled Day 1137 now points to the Day 1137 canonical slug, verified from that post's front matter. No post text or date changed.
+- Sampled linked sources from April 1–30, including Axios, Project Syndicate, WSJ, Prospect, Economist, Bloomberg, BBC, The Times, Reuters, NYT and Kyiv Post. No additional confirmed citation-date error was established in this sample. This is not exhaustive URL verification.
