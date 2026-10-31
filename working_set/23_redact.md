@@ -326,7 +326,7 @@ A great recipe for getting killed for nothing.
 
 [1](#footnote-anchor-1)
 
-[Allies Fail to Agree on Sending Tanks to Ukraine](https://www.nytimes.com/2023/01/20/world/europe/ukraine-germany-us-tanks.html?fbclid=IwAR1RrOz8Ppg82uyLr_WNsVwqAgp9teZ2XgOxtpCY4BlU7MONzp252N5yVWo) (The New York Times, January 20, 2022)
+[Allies Fail to Agree on Sending Tanks to Ukraine](https://www.nytimes.com/2023/01/20/world/europe/ukraine-germany-us-tanks.html?fbclid=IwAR1RrOz8Ppg82uyLr_WNsVwqAgp9teZ2XgOxtpCY4BlU7MONzp252N5yVWo) (The New York Times, January 20, 2023)
 
 ---
 
@@ -2679,7 +2679,7 @@ The state of the garden and fruit orchard will be a central theme of a new serie
 
 [2](#footnote-anchor-2)
 
-[Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker.](https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html?searchResultPosition=1) *People who would not be allowed anywhere near the battlefield in a U.S.-led war are active on the Ukrainian front, with ready access to American weapons* ([The New York Times](http://nyt,.com), March 28, 2023)
+[Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker.](https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html?searchResultPosition=1) *People who would not be allowed anywhere near the battlefield in a U.S.-led war are active on the Ukrainian front, with ready access to American weapons* ([The New York Times](http://nyt.com), March 25, 2023)
 
 [3](#footnote-anchor-3)
 
