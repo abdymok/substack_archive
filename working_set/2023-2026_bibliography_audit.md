@@ -533,6 +533,6 @@ The original article text and commentary were otherwise preserved. No link count
 
 - Corrected Day 859's Philadelphia Inquirer footnote for “Z lays out how Ukraine can win, if the West loses its fear of Putin” from July 1 to June 30, 2024. The publisher's page explicitly gives “Published June 30, 2024, 5:00 a.m. ET”; the article URL also carries the 20240630 date. The archive post date remains July 1.
 - The July 8 Washington Post report on Ukrainian attacks against Russian supply lines was checked against the publisher page and is correctly dated July 8, 2024.
-- The July 15 Philadelphia Inquirer article date is confirmed by the publisher page; no change was required to the archive's July 1 article footnote beyond the correction above.
+- The July 16 Financial Times report on Orbán's letter and Trump's proposed peace-broker role is consistent with same-day reporting by Anadolu Agency and CNN; the archive's July 16 footnote is retained.
 - This is the beginning of the July review, not a complete July audit.
 - Original-post commit: 8938be08a5eb512ff521ab22d9cee2ceaade4204. Verification sources: [Philadelphia Inquirer article](https://www.inquirer.com/opinion/zelensky-ukraine-war-interview-trudy-rubin-20240630.html); [Washington Post July 8 report](https://www.washingtonpost.com/world/2024/07/08/ukraine-intercepts-russia-kharkiv-supplies/).
