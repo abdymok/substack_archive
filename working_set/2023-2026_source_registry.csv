@@ -184,7 +184,7 @@ spectator.co.uk,The Spectator,news,3,2,1,2024,manual domain review
 texty.org.ua,Texty.org.ua,Ukrainian media,3,3,3,2024;2026,known Ukrainian publisher
 thedailybeast.com,thedailybeast.com,news,3,3,2,2023;2024,publisher-name heuristic
 ua.usembassy.gov,ua.usembassy.gov,official sources,3,3,3,2024;2025;2026,government/military domain
-ueoweekly.substack.com,ueoweekly.substack.com,news,3,2,3,2024,publisher-name heuristic
+ueoweekly.substack.com,Ukraine Economic Outlook,research,3,2,3,2024,manual review: Ukraine-focused economic analysis newsletter
 ukraine.ohchr.org,UN Human Rights Monitoring Mission in Ukraine,official sources,3,3,3,2025,manual domain review
 ukrinform.net,Ukrinform,Ukrainian media,3,3,3,2024;2025,known Ukrainian publisher
 urbandictionary.com,Urban Dictionary,reference,3,3,1,2023,manual domain review
@@ -296,7 +296,7 @@ veriteofficial.com,VÉRITÉ,personal / creative,2,1,2,2023;2024,manual review: m
 vogue.ua,Vogue Ukraine,Ukrainian media,2,2,1,2025,manual domain review
 war.ukraine.ua,Ukraine.ua,official sources,2,2,2,2024,manual domain review
 weforum.org,World Economic Forum,research,2,2,2,2024;2026,manual domain review
-wh.gov,wh.gov,official sources,2,1,2,2025,government/military domain
+wh.gov,The White House,official sources,2,1,2,2025,manual alias normalization: White House short domain
 worldcat.org,WorldCat,reference,2,2,1,2026,manual domain review
 wser.org,Western States Endurance Run,official sources,2,1,2,2025,manual review: official race organizer site
 ...,...,other / unclassified,1,1,1,2026,domain not confidently identified
