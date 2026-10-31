@@ -451,3 +451,8 @@ The original article text and commentary were otherwise preserved. No link count
 - Sampled linked sources across February 1–27, including Reuters (January 30 energy-assistance report), Bloomberg (February 1 grid-outage report), The Atlantic (February 3 energy-truce analysis), NYT (February 4 peace-talks report and February 10 Kyiv cold report), Наші гроші (February 3 procurement investigation), FT (February 5 Kyiv winter feature and February 11 elections report), Foreign Affairs (February 26 essay), and the Guardian (February 20 intelligence-history investigation). The Reuters January 30 URL and publisher timestamp agree with the January 31 Kyiv-local footnote convention; no correction made.
 - The February 18 file's title/front matter identify Day 1456 but its legacy canonical slug is `/p/day-1546`; the February 22 file identifies Day 1460 but its canonical slug is `/p/day-1459`. These slug/title discrepancies were not changed because the front matter explicitly records those URLs. Day 1443's `day_of_war` field is 1442 while its title and URL say Day 1443; retained as a metadata discrepancy rather than silently normalised.
 - This is a spot-check, not exhaustive verification of every February URL.
+
+
+### Additional January 2026 date correction
+
+- Corrected the February 1 Day 1438 post's Reuters footnote for “US energy assistance for Ukraine stalls as winter bites” from January 31 to January 30, 2026. The Reuters URL, Reuters page and contemporaneous syndications all date the report January 30. Unlike the Kyiv-local date convention in some other reports, this article was already published on January 30 in both the publisher and local time zones.
