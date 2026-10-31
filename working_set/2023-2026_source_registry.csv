@@ -212,7 +212,7 @@ cnbc.com,CNBC,news,2,2,2,2024,manual domain review
 consilium.europa.eu,Council of the European Union,official sources,2,2,2,2023;2025,government/military domain
 counteroffensive.news,counteroffensive.news,news,2,2,2,2026,publisher-name heuristic
 defence-ua.com,Defense Express,Ukrainian media,2,2,1,2024,manual domain review
-defence.org.ua,defence.org.ua,other / unclassified,2,2,2,2025,domain not confidently identified
+defence.org.ua,Center for Defence Strategies,research,2,2,2,2025,manual review: Ukrainian security and defence think tank
 detachment-a.org,Detachment A,reference,2,2,2,2023;2026,manual review: historical veterans and intelligence archive
 dia.mil,dia.mil,official sources,2,1,2,2023;2025,government/military domain
 dodosocks.com,Dodo Socks,business / commercial,2,2,2,2025;2026,manual review: Ukrainian retail brand
@@ -230,7 +230,7 @@ gem.wiki,GEM Wiki,reference,2,2,2,2024;2026,manual domain review
 globenewswire.com,globenewswire.com,news,2,2,1,2024,publisher-name heuristic
 goodreads.com,Goodreads,reference,2,2,2,2025;2026,manual domain review
 gutenberg.org,Project Gutenberg,reference,2,1,2,2025;2026,manual domain review
-hetwebsite.net,hetwebsite.net,other / unclassified,2,1,2,2024,domain not confidently identified
+hetwebsite.net,History of Economic Thought Website,reference,2,1,2,2024,manual review: scholarly history-of-economics reference archive
 hopkinsmedicine.org,Johns Hopkins Medicine,official sources,2,1,2,2023;2024,manual domain review
 icrc.org,International Committee of the Red Cross,official sources,2,1,1,2026,manual domain review
 ihl-databases.icrc.org,International Committee of the Red Cross,official sources,2,2,2,2023;2024,manual domain review
@@ -300,64 +300,64 @@ wh.gov,wh.gov,official sources,2,1,2,2025,government/military domain
 worldcat.org,WorldCat,reference,2,2,1,2026,manual domain review
 wser.org,Western States Endurance Run,official sources,2,1,2,2025,manual review: official race organizer site
 ...,...,other / unclassified,1,1,1,2026,domain not confidently identified
-@jamiewrit,@jamiewrit,other / unclassified,1,1,1,2023,domain not confidently identified
+@jamiewrit,Jamie Dettmer,social media,1,1,1,2023,manual review: journalist social profile
 @keithgessen,Keith Gessen,social media,1,1,1,2023,manual review: individual social profile
-@markusua,@markusua,other / unclassified,1,1,1,2024,domain not confidently identified
+@markusua,Markus (social profile),social media,1,1,1,2024,manual review: individual social profile
 @nytimes,@nytimes,news,1,1,1,2023,publisher-name heuristic
-@tabletochki,@tabletochki,other / unclassified,1,1,1,2023,domain not confidently identified
-@tatarigami,@tatarigami,other / unclassified,1,1,1,2025,domain not confidently identified
+@tabletochki,Tabletochki,social media,1,1,1,2023,manual review: individual social profile
+@tatarigami,Tatarigami,social media,1,1,1,2025,manual review: military analyst social profile
 161.ru,161.ru,news,1,1,1,2023,manual review: Russian regional news outlet
-425skala.com,425skala.com,other / unclassified,1,1,1,2025,domain not confidently identified
-44.ua,44.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-5.ua,5.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-abc3340.com,abc3340.com,other / unclassified,1,1,1,2026,domain not confidently identified
+425skala.com,425th Separate Assault Regiment Skala,official sources,1,1,1,2025,manual review: Ukrainian military unit site
+44.ua,44.ua,Ukrainian media,1,1,1,2024,manual review: Kyiv local news site
+5.ua,5 Kanal,Ukrainian media,1,1,1,2024,manual review: Ukrainian television news publisher
+abc3340.com,ABC 33/40,news,1,1,1,2026,manual review: local US television news publisher
 abcnews.com,abcnews.com,news,1,1,1,2026,publisher-name heuristic
-academic.oup.com,academic.oup.com,other / unclassified,1,1,1,2026,domain not confidently identified
-achievement.org,achievement.org,other / unclassified,1,1,1,2024,domain not confidently identified
-acleddata.com,acleddata.com,other / unclassified,1,1,1,2026,domain not confidently identified
-adsport.store,adsport.store,other / unclassified,1,1,1,2024,domain not confidently identified
+academic.oup.com,Oxford University Press Academic,research,1,1,1,2026,manual review: scholarly books and journals platform
+achievement.org,American Academy of Achievement,official sources,1,1,1,2024,manual review: nonprofit educational and interview archive
+acleddata.com,ACLED,research,1,1,1,2026,manual review: conflict-event data and research organization
+adsport.store,AD Sport,business / commercial,1,1,1,2024,manual review: sports retail store
 afsoc.af.mil,afsoc.af.mil,official sources,1,1,1,2025,government/military domain
-afterilovaisk.com,afterilovaisk.com,other / unclassified,1,1,1,2024,domain not confidently identified
-agbull.com,agbull.com,other / unclassified,1,1,1,2026,domain not confidently identified
-alerts.in.ua,alerts.in.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-allpoetry.com,allpoetry.com,other / unclassified,1,1,1,2024,domain not confidently identified
-americanrifleman.org,americanrifleman.org,other / unclassified,1,1,1,2023,domain not confidently identified
-anduril.com,anduril.com,other / unclassified,1,1,1,2025,domain not confidently identified
-anewz.tv,anewz.tv,other / unclassified,1,1,1,2025,domain not confidently identified
-antikvar.ua,antikvar.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-antilogicalism.com,antilogicalism.com,other / unclassified,1,1,1,2025,domain not confidently identified
-ap.org,ap.org,other / unclassified,1,1,1,2023,domain not confidently identified
-app.23degrees.io,app.23degrees.io,other / unclassified,1,1,1,2024,domain not confidently identified
-apps.apple.com,apps.apple.com,other / unclassified,1,1,1,2024,domain not confidently identified
+afterilovaisk.com,After Ilovaisk,research,1,1,1,2024,manual review: documentary and oral-history project
+agbull.com,Ag Bull Trading,news,1,1,1,2026,manual review: commodities and energy market news
+alerts.in.ua,Alerts.in.ua,reference,1,1,1,2026,manual review: Ukrainian air-alert aggregation and map service
+allpoetry.com,All Poetry,social media,1,1,1,2024,manual review: user-generated poetry platform
+americanrifleman.org,American Rifleman,news,1,1,1,2023,manual review: specialist firearms magazine
+anduril.com,Anduril Industries,business / commercial,1,1,1,2025,manual review: defence technology company
+anewz.tv,AnewZ,news,1,1,1,2025,manual review: international news broadcaster
+antikvar.ua,Antikvar,Ukrainian media,1,1,1,2026,manual review: Ukrainian art and culture publication
+antilogicalism.com,Antilogicalism,personal / creative,1,1,1,2025,manual review: personal philosophy and literature blog
+ap.org,Associated Press,news,1,1,1,2023,manual review: international news agency
+app.23degrees.io,23degrees,reference,1,1,1,2024,manual review: data visualization platform
+apps.apple.com,Apple App Store,business / commercial,1,1,1,2024,manual review: software marketplace
 argusmedia.com,argusmedia.com,news,1,1,1,2026,publisher-name heuristic
-arstechnica.com,arstechnica.com,other / unclassified,1,1,1,2024,domain not confidently identified
-arthuss.com.ua,arthuss.com.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-arxiv.org,arxiv.org,other / unclassified,1,1,1,2026,domain not confidently identified
-as-coa.org,as-coa.org,other / unclassified,1,1,1,2024,domain not confidently identified
-aspi.com.ua,aspi.com.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-atlasobscura.com,atlasobscura.com,other / unclassified,1,1,1,2024,domain not confidently identified
+arstechnica.com,Ars Technica,news,1,1,1,2024,manual review: technology and science publication
+arthuss.com.ua,ArtHuss,business / commercial,1,1,1,2025,manual review: Ukrainian art-book publisher and retailer
+arxiv.org,arXiv,research,1,1,1,2026,manual review: scholarly preprint repository
+as-coa.org,Americas Society / Council of the Americas,research,1,1,1,2024,manual review: policy and regional research organization
+aspi.com.ua,ASPI,Ukrainian media,1,1,1,2024,manual review: Ukrainian news publisher
+atlasobscura.com,Atlas Obscura,news,1,1,1,2024,"manual review: travel, culture and place publication"
 atm.mmu.ac.uk,atm.mmu.ac.uk,research,1,1,1,2025,research/think-tank or academic domain
-atncorp.com,atncorp.com,other / unclassified,1,1,1,2023,domain not confidently identified
-auchan.fr,auchan.fr,other / unclassified,1,1,1,2025,domain not confidently identified
-auchan.ua,auchan.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-azov.org.ua,azov.org.ua,other / unclassified,1,1,1,2025,domain not confidently identified
+atncorp.com,ATN Corporation,business / commercial,1,1,1,2023,manual review: thermal imaging and optics manufacturer
+auchan.fr,Auchan,business / commercial,1,1,1,2025,manual review: retailer
+auchan.ua,Auchan,business / commercial,1,1,1,2025,manual review: Ukrainian retailer
+azov.org.ua,12th Special Forces Brigade Azov,official sources,1,1,1,2025,manual review: official Ukrainian military unit site
 azquotes.com,AZQuotes,reference,1,1,1,2023,manual review: quotation database
 banking.senate.gov,banking.senate.gov,official sources,1,1,1,2025,government/military domain
-bbc.co.uk,bbc.co.uk,other / unclassified,1,1,1,2024,domain not confidently identified
+bbc.co.uk,BBC,news,1,1,1,2024,manual review: public-service broadcaster
 bbgwatch.com,BBG Watch,news,1,1,1,2023,manual review: media and broadcasting watchdog site
-behance.net,behance.net,other / unclassified,1,1,1,2024,domain not confidently identified
-benzinga.com,benzinga.com,other / unclassified,1,1,1,2026,domain not confidently identified
-berliner-woche.de,berliner-woche.de,other / unclassified,1,1,1,2024,domain not confidently identified
-berliner-zeitung.de,berliner-zeitung.de,other / unclassified,1,1,1,2024,domain not confidently identified
-bihus.info,bihus.info,other / unclassified,1,1,1,2024,domain not confidently identified
-binance.com,binance.com,other / unclassified,1,1,1,2025,domain not confidently identified
-bluettipower.com,bluettipower.com,other / unclassified,1,1,1,2026,domain not confidently identified
+behance.net,Behance,social media,1,1,1,2024,manual review: creative portfolio platform
+benzinga.com,Benzinga,news,1,1,1,2026,manual review: financial news publisher
+berliner-woche.de,Berliner Woche,news,1,1,1,2024,manual review: Berlin local newspaper
+berliner-zeitung.de,Berliner Zeitung,news,1,1,1,2024,manual review: German newspaper
+bihus.info,Bihus.Info,Ukrainian media,1,1,1,2024,manual review: Ukrainian investigative journalism outlet
+binance.com,Binance,business / commercial,1,1,1,2025,manual review: cryptocurrency exchange and financial platform
+bluettipower.com,BLUETTI,business / commercial,1,1,1,2026,manual review: power-station manufacturer and retailer
 bnn-news.com,bnn-news.com,news,1,1,1,2025,publisher-name heuristic
-book-online.com.ua,book-online.com.ua,other / unclassified,1,1,1,2023,domain not confidently identified
-boursier.com,boursier.com,other / unclassified,1,1,1,2023,domain not confidently identified
-breakingdefense.com,breakingdefense.com,other / unclassified,1,1,1,2025,domain not confidently identified
-bright-products.com,bright-products.com,other / unclassified,1,1,1,2026,domain not confidently identified
-brooklyneagle.com,brooklyneagle.com,other / unclassified,1,1,1,2026,domain not confidently identified
+book-online.com.ua,Book-Online,reference,1,1,1,2023,manual review: online book text archive
+boursier.com,Boursier.com,news,1,1,1,2023,manual review: French financial news publisher
+breakingdefense.com,Breaking Defense,news,1,1,1,2025,manual review: specialist defence publication
+bright-products.com,Bright Products,business / commercial,1,1,1,2026,manual review: product manufacturer and retailer
+brooklyneagle.com,Brooklyn Eagle,news,1,1,1,2026,manual review: local newspaper
 brucemaudesign.com,brucemaudesign.com,other / unclassified,1,1,1,2023,domain not confidently identified
 bubsnaturals.com,bubsnaturals.com,other / unclassified,1,1,1,2025,domain not confidently identified
 bumble.com,bumble.com,other / unclassified,1,1,1,2024,domain not confidently identified
