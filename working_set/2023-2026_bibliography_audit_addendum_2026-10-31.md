@@ -73,3 +73,12 @@ Day 620: restored the Kyiv Independent canonical URL for its August 11, 2023 rep
 ## Day 1133 repair
 
 Recovered the canonical NYT URL for “Trump’s Ukraine Betrayal Is a Reality Check for Taiwan” from the linked copy on WorldNews.bg: `https://www.nytimes.com/2025/04/01/opinion/taiwan-china-trump.html`. Replaced the incorrect Archive.ph/Bloomberg destination in the Day 1133 post and synchronized the 2025 linked-reference CSV and normalized dataset. The Archive.ph ledger retains the original URL and records the mismatch as corrected in the post. P21 is closed. The post-level review now has 19 reviewed/preserved/corrected cases and 2 open cases: Day 440ish and Day 1121.
+
+
+## Final synchronization checks
+
+- Day 370's visible title is corrected to “Zelensky takes on Ukraine’s top internal enemy” in the post and source datasets.
+- Day 501's book title is corrected to “The Zelensky Effect” in the post, annual link CSV, normalized dataset and one-day-source appendix CSV.
+- Day 1133's post now points to the canonical NYT URL. P21 is closed, with the original Archive.ph/Bloomberg mismatch retained as a corrected-in-post audit record.
+- Annual linked-reference reconciliation rerun after these changes: 5,438 occurrences and 5,050 distinct day-plus-URL pairs, zero missing and zero extra versus the normalized dataset.
+- Current outstanding review counts: Archive.ph 58 high-confidence, 12 medium-confidence, 1 unresolved; post-level 19 reviewed/preserved/corrected, 2 open; Z queue 11 verified rows across 10 archive days, 104 pending.
