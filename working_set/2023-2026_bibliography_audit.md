@@ -209,3 +209,11 @@ All 57 publisher link/post counts in the original 2023 section match the 2023 li
 - The original post's hyperlink instead points to a *Wall Street Journal* story about Russian plans to buy Iranian ballistic missiles. This is a genuine URL/title mismatch, not a redirect or an ambiguous publisher label.
 - Updated the 2024 *Washington Post* bibliography entry to link to the verified intended article and to state explicitly that the original post's URL is wrong. The original post and source CSV were not changed. Counts remain 110 links across 45 posts.
 - Verification source: the Washington Post article itself, found by exact-title search. HTML commit: `f8c36f9369e42c86be610f22c5a947850447d0bc`.
+
+
+### 2024 representative-link and citation-date verification — Financial Times, Day 696
+
+- Read `working_set/posts/2024/2024-01-20_day-696.md` and checked the linked FT article, “‘Active defence’: how Ukraine plans to survive 2024” (`https://www.ft.com/content/d2f3b209-22a1-4fb1-bdfe-0ccf7fb0e5fa`).
+- The FT page confirms the article title. Contemporary references identify it as published January 19, 2024; the archive post is dated January 20, 2024. The post's footnote incorrectly gives the article date as January 20, 2023.
+- Updated the 2024 Financial Times bibliography annotation to flag the year error and distinguish the publisher's publication date from the archive post date. The original post and link dataset were not changed. Counts remain 47 links across 20 posts.
+- Verification references: Financial Times article page; contemporary references dated January 19–20, 2024. HTML commit: cadcefe7c341287817a30ecd7daacd9f6f8c08c4.
