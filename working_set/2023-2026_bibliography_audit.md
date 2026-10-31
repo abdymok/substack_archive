@@ -625,3 +625,11 @@ The original article text and commentary were otherwise preserved. No link count
 ### Kyiv-time conversion check: Day 905 (August 2024)
 
 The Nord Stream investigation is a useful example of why the adopted convention matters. The Wall Street Journal displays its original publication timestamp as August 14, 2024, 9:00 p.m. ET. Kyiv was seven hours ahead, making the first-publication date August 15 at 04:00. The archive's August 15 citation is correct. The earlier audit's proposed change to August 14 has been reversed in the post and in this log.
+
+### Day 1121 NYT/BBC link attribution correction — 31 October 2026
+
+- The author supplied the canonical New York Times URL for the March 19, 2025 article “Donald Trump Jr. mixes business and politics in Serbia, as protests there rage”: https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html.
+- Corrected the Day 1121 archived post and its 2025 linked-reference CSV row. The link text remains unchanged; only the destination URL was repaired.
+- The mistaken BBC URL (`cwyg28wd1k3o`) remains correctly attached to the separate sentence about the Israel–Hamas truce. The second BBC link (`c62z1w1y2neo`) is the report on UK-hosted planning for a proposed European peacekeeping force. The bibliography annotations have been separated accordingly; the earlier description of the `cwyg28wd1k3o` URL as a Russia–Ukraine limited-ceasefire report was incorrect.
+- Updated 2025 and aggregate source counts: New York Times 2025 = 89 links / 53 URLs / 52 posts; BBC 2025 = 13 links / 12 URLs / 10 posts. Aggregate publisher registry: New York Times 404 links / 219 URLs / 220 posts; BBC 24 links / 22 URLs / 20 posts. The `bbc.com` source-domain registry row is 23 links / 21 URLs / 19 posts; the `nytimes.com` row is 269 links / 218 URLs / 200 posts.
+- The consolidated HTML now identifies the corrected NYT source and no longer describes the BBC link as a New York Times mismatch. The large normalized-links CSV could not be fetched through the current GitHub file reader because of its size; it remains to be regenerated or reconciled from the annual linked-reference files during final dataset QA.
