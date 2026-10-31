@@ -21,8 +21,8 @@ Counts are link occurrences and distinct posts, not unique articles, readership,
 | Year | Recurring external publishers | Category breakdown |
 |---|---:|---|
 | 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
-| 2024 | 94 | 39 international news; 14 Ukrainian media; 10 research; 8 official; 10 reference; 13 platforms, specialist publications and other |
-| 2025 | 100 | 39 international news; 10 Ukrainian media; 9 research; 12 official; 13 reference; 17 platforms, specialist publications and other |
+| 2024 | 94 | 38 international news; 15 Ukrainian media; 10 research; 8 official; 10 reference; 13 platforms, specialist publications and other |
+| 2025 | 100 | 36 international news; 12 Ukrainian media; 9 research; 12 official; 13 reference; 17 platforms, specialist publications and other; 1 state media |
 | 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
 | **Total annual entries** | **308** | A publisher recurring in more than one year appears once in each relevant year. |
 
@@ -31,8 +31,8 @@ The 2023 categories and annotations are retained from the original HTML template
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `d3e35ee22325f89448474ba3911d59937a99e7d2`
-- Verified: 308 entries; 57 / 94 / 100 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed.
+- Latest HTML commit: `14e62db02b0326090b87fcd66021e50ce746452f`
+- Verified: 308 entries; 57 / 94 / 100 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
 
@@ -116,7 +116,8 @@ Examples of corrections:
 - **Research and analysis:** Project Syndicate (commentary and policy essays), Emptywheel (independent investigative analysis), The Cipher Brief (national-security analysis), and the Centre for Defence Strategies (`defence.org.ua`). The latter's own site identifies its material as research and analytical reports: https://defence.org.ua/en/research/ .
 - **Reference and archives:** C-SPAN (primary video and hearing archive) and the Poetry Foundation (literary reference).
 - **Platforms, specialist publications and other:** Mindscape / Preposterous Universe (podcast), iRunFar (specialist running publication), Men's Health, BBC Sky at Night, Prospect, Western States Endurance Run, MSN and Yahoo News (aggregators), plus other non-news entities.
-- **Ukrainian media:** LIGA.net (`news.liga.net`) and UNITED24 Media (`united24media.com`).
+- **Ukrainian media:** LIGA.net (`news.liga.net`), UNITED24 Media (`united24media.com`), RBC-Ukraine (`newsukraine.rbc.ua`) and Euromaidan Press (`euromaidanpress.com`).
+- **State media:** RT is separated from independent international news. It is listed in the 2025 bibliography because it recurs in two posts that year.
 
 The annual HTML heading previously called “Social media and other” is now “Platforms, specialist publications and other” to describe its contents more accurately. The underlying data registry retains separate `social media` and `other / unclassified` labels.
 
@@ -127,12 +128,20 @@ These are link occurrences across the entire source-year dataset, not publisher-
 | Category | 2023 | 2024 | 2025 | 2026 |
 |---|---:|---:|---:|---:|
 | News | 414 | 745 | 489 | 271 |
-| Ukrainian media | 64 | 124 | 56 | 50 |
+| Ukrainian media | 64 | 128 | 65 | 50 |
 | Research | 53 | 78 | 64 | 32 |
 | Official sources | 36 | 51 | 58 | 47 |
 | Reference | 145 | 154 | 187 | 163 |
 | Social media | 167 | 243 | 238 | 157 |
 | Other / unclassified | 126 | 154 | 135 | 117 |
+| State media | 0 | 0 | 2 | 0 |
 | Personal archive | 243 | 168 | 114 | 295 |
 
 The category-year file was recalculated from the revised source-year table. Annual totals remain 1,248 (2023), 1,717 (2024), 1,341 (2025) and 1,132 (2026).
+
+
+### Additional source corrections
+
+- Reclassified RBC-Ukraine and Euromaidan Press as Ukrainian media, including their English-language domains.
+- Added a distinct `state media` category for RT rather than folding a Russian state broadcaster into independent international news.
+- Normalized publisher display names for RBC-Ukraine, Euromaidan Press, LIGA.net, UNITED24 Media, Poetry Foundation, the Centre for Defence Strategies, Mindscape and The New York Post.
