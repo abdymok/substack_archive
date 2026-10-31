@@ -506,3 +506,11 @@ The original article text and commentary were otherwise preserved. No link count
 - Replaced 15 Google redirect URLs in the September 7 post's source notes with direct destination URLs, removing tracking parameters where present.
 - Sampled September 3–4 Guardian and NYT coverage of the Kyiv intelligence-service shootout, September 15 Reuters jet-drone reporting, September 25 Atlantic commentary, and September 28–29 Reuters and NYT coverage of the National Academy of Sciences strike. The September 29 NYT URL contains the publisher's own `urkaine` slug spelling and is retained; matching indexed copies use the same URL. No other confirmed date correction emerged in this sample.
 - This is a spot-check, not exhaustive verification of every September URL.
+
+
+### October 2026 archive-link and citation checks (through October 28)
+
+- Removed tracking parameters from 13 links across October 3, 6, 8 and 19 posts (9, 1, 2 and 1 respectively). Destination URLs were retained.
+- Checked the October 27 Day 1707 Oleshky source sequence. The White House announcement is dated October 23 and initially said the localized ceasefire would begin October 29; the later Ukrainian General Staff and Reuters reporting documents the October 27 start. The post explicitly records that the initial announcement gave a different date, so no correction was needed. Reuters' October 26 resident interview and October 27 ceasefire report match their footnote dates.
+- Sampled the October 2 NYT winter-planning report, October 7 Reuters Kyiv attack coverage, October 10 NYT negotiations report, October 11 Guardian jet-drone report, October 21 Axios/Guardian Hubbard coverage, October 24 NYT moral-whiplash article, and October 26–27 Oleshky coverage. No confirmed citation-date correction emerged in this sample.
+- October 4–5 posts have legacy URL/title numbering differences (October 4 title Day 1684 at `/p/day-1685`; October 5 title Day 1685 at `/p/day-1685-737`). These were retained as recorded in front matter. This is a spot-check, not exhaustive verification of every October URL.
