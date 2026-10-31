@@ -217,3 +217,12 @@ All 57 publisher link/post counts in the original 2023 section match the 2023 li
 - The FT page confirms the article title. Contemporary references identify it as published January 19, 2024; the archive post is dated January 20, 2024. The post's footnote incorrectly gives the article date as January 20, 2023.
 - Updated the 2024 Financial Times bibliography annotation to flag the year error and distinguish the publisher's publication date from the archive post date. The original post and link dataset were not changed. Counts remain 47 links across 20 posts.
 - Verification references: Financial Times article page; contemporary references dated January 19–20, 2024. HTML commit: cadcefe7c341287817a30ecd7daacd9f6f8c08c4.
+
+
+### 2024 opening-week link spot-check — Days 679–680
+
+- Read the archived posts for January 3 and 4, 2024 (`working_set/posts/2024/2024-01-03_day-679.md` and `2024-01-04_day-680.md`) and compared their linked headlines/context with the destinations.
+- Day 679: the BBC Ukrainian link is the January 3 report that former SBU official Andriy Naumov was released from a Serbian prison; the Yahoo News link concerns Serbia's refusal of Ukraine's extradition request; the New York Times footnote is the January 3 Telemarathon report. The link targets and surrounding text are consistent.
+- Day 680: the Reuters link is the January 3 Russia–Ukraine POW exchange report; the New York Times link is the January 3 fact-check of Mike Johnson's border and fentanyl claims; the two other Reuters links concern Chinese balloons over Taiwan and the Taiwanese election. The destinations match the post's surrounding text.
+- No correction was needed in the bibliography or original posts for these sampled links. This is a spot-check of these two posts, not a complete audit of all 2024 links.
+- Verification references: BBC News Ukraine, January 3, 2024; The New York Times, January 3, 2024; Reuters, January 3, 2024.
