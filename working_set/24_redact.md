@@ -184,7 +184,7 @@ Let me draw your attention to an op-ed written by [William Galston](https://en.w
 
 [Image]
 
-[The Washington Post](http://wapo.st) story Galston is referring to is [Ukraine Marines recount deadly mission to free towns east of Dnieper River](https://www.wsj.com/world/russia-moves-forward-with-plans-to-buy-iranian-ballistic-missiles-cf3560e4?page=1) written by [Lizzie Johnson](https://www.washingtonpost.com/people/lizzie-johnson/?itid=ai_top_johnsonl3) and Serhiy Korolchuk, a local producer for [The Washington Post](http://wapo.st), which is contemplating the closure of their Kyiv bureau because, er, they are running out of money and are clueless. The last thing you want to do these days is write an op-ed about Ukraine based on a story by Lizzie and Serhiy, especially if your expertise on Ukraine is zilch.
+[The Washington Post](http://wapo.st) story Galston is referring to is [Ukraine Marines recount deadly mission to free towns east of Dnieper River](https://www.washingtonpost.com/world/2024/01/04/kherson-marines-ukraine-villages-russia/) written by [Lizzie Johnson](https://www.washingtonpost.com/people/lizzie-johnson/?itid=ai_top_johnsonl3) and Serhiy Korolchuk, a local producer for [The Washington Post](http://wapo.st), which is contemplating the closure of their Kyiv bureau because, er, they are running out of money and are clueless. The last thing you want to do these days is write an op-ed about Ukraine based on a story by Lizzie and Serhiy, especially if your expertise on Ukraine is zilch.
 
 So much for Galston’s ceasefire argument.
 
@@ -238,7 +238,7 @@ The movie sucks. Sean is in love with himself and Z is also in love with himself
 
 [2](#footnote-anchor-2)
 
-[Russia Moves Forward With Plans to Buy Iranian Ballistic Missiles](https://www.wsj.com/world/russia-moves-forward-with-plans-to-buy-iranian-ballistic-missiles-cf3560e4?page=1). *Moscow in recent weeks has also begun receiving ballistic missiles from North Korea* ([The Wall Street Journal](http://wsj.com), January 4, 2024)
+[Russia Moves Forward With Plans to Buy Iranian Ballistic Missiles](https://www.washingtonpost.com/world/2024/01/04/kherson-marines-ukraine-villages-russia/). *Moscow in recent weeks has also begun receiving ballistic missiles from North Korea* ([The Wall Street Journal](http://wsj.com), January 4, 2024)
 
 ---
 
