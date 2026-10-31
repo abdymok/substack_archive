@@ -93,7 +93,7 @@ ap.org,other / unclassified,2023,1,1,1
 archive.org,reference,2023,1,1,1
 atncorp.com,other / unclassified,2023,1,1,1
 axios.com,news,2023,1,1,1
-AZQuotes,reference / archive,2023,1,1,1
+AZQuotes,reference,2023,1,1,1
 Babel,Ukrainian media,2023,1,1,1
 BBG Watch,news,2023,1,1,1
 BelTA,state media,2023,1,1,1
@@ -124,7 +124,7 @@ DeepStateMap,research,2023,1,1,1
 Defense One,news,2023,1,1,1
 Der Spiegel,news,2023,1,1,1
 Derek Hudson,personal / creative,2023,1,1,1
-Detachment A,reference / archive,2023,1,1,1
+Detachment A,reference,2023,1,1,1
 dia.mil,official sources,2023,1,1,1
 Diane Francis (Substack),personal archive,2023,1,1,1
 dictionary.cambridge.org,reference,2023,1,1,1
@@ -147,8 +147,8 @@ glavred.net,other / unclassified,2023,1,1,1
 Google Books,reference,2023,1,1,1
 groups.csail.mit.edu,research,2023,1,1,1
 Hello Poetry,social media,2023,1,1,1
-Historic UK,reference / archive,2023,1,1,1
-HolyBooks,reference / archive,2023,1,1,1
+Historic UK,reference,2023,1,1,1
+HolyBooks,reference,2023,1,1,1
 Hurst Publishers,business / commercial,2023,1,1,1
 independent.co.uk,news,2023,1,1,1
 Institute for Human Sciences (IWM),research,2023,1,1,1
@@ -193,17 +193,17 @@ Nashi Groshi,Ukrainian media,2023,1,1,1
 Nature Nibble,personal / creative,2023,1,1,1
 nbcnews.com,news,2023,1,1,1
 newspapers.com,news,2023,1,1,1
-Nizkor Project,reference / archive,2023,1,1,1
+Nizkor Project,reference,2023,1,1,1
 Novaya Gazeta Europe,news,2023,1,1,1
 nsarchive.gwu.edu,research,2023,1,1,1
 nsarchive2.gwu.edu,research,2023,1,1,1
 OG Burger,business / commercial,2023,1,1,1
-Online Library of Liberty,reference / archive,2023,1,1,1
+Online Library of Liberty,reference,2023,1,1,1
 parleypolicy.com,research,2023,1,1,1
 parliament.uk,other / unclassified,2023,1,1,1
-Philip Jones Griffiths Foundation,reference / archive,2023,1,1,1
+Philip Jones Griffiths Foundation,reference,2023,1,1,1
 Phillips O’Brien (Substack),social media,2023,1,1,1
-PlantUML,reference / archive,2023,1,1,1
+PlantUML,reference,2023,1,1,1
 podcasts.apple.com,social media,2023,1,1,1
 Polit.ru,news,2023,1,1,1
 puck.news,news,2023,1,1,1
@@ -221,16 +221,16 @@ Runner’s World,news,2023,1,1,1
 Sam F. (Substack),personal archive,2023,1,1,1
 Sarah Ashton-Cirillo (Substack),personal archive,2023,1,1,1
 sciplus.com,other / unclassified,2023,1,1,1
-Scottish Poetry Library,reference / archive,2023,1,1,1
+Scottish Poetry Library,reference,2023,1,1,1
 Secrets Machine,personal / creative,2023,1,1,1
 Seymour Hersh (Substack),social media,2023,1,1,1
-SlangDefine,reference / archive,2023,1,1,1
+SlangDefine,reference,2023,1,1,1
 sluga-narodu.com,other / unclassified,2023,1,1,1
-Socialist Modernism,reference / archive,2023,1,1,1
+Socialist Modernism,reference,2023,1,1,1
 soundcloud.com,social media,2023,1,1,1
 Spivoche,business / commercial,2023,1,1,1
 stateoig.gov,official sources,2023,1,1,1
-Statistics How To,reference / archive,2023,1,1,1
+Statistics How To,reference,2023,1,1,1
 straitstimes.com,news,2023,1,1,1
 Strength at Home,research,2023,1,1,1
 Sud.ua,Ukrainian media,2023,1,1,1
@@ -239,7 +239,7 @@ Techiia Foundation,official sources,2023,1,1,1
 The Cipher Brief,news,2023,1,1,1
 The Conversation,news,2023,1,1,1
 The Lancet,research,2023,1,1,1
-The Literature Page,reference / archive,2023,1,1,1
+The Literature Page,reference,2023,1,1,1
 The Mozart Group,business / commercial,2023,1,1,1
 The New European,news,2023,1,1,1
 The Poetry Hour,personal / creative,2023,1,1,1
@@ -251,7 +251,7 @@ Thread Reader App,social media,2023,1,1,1
 ti-ukraine.org,other / unclassified,2023,1,1,1
 timemagazine.com,news,2023,1,1,1
 Timothy Snyder (Substack),social media,2023,1,1,1
-Topographic Map,reference / archive,2023,1,1,1
+Topographic Map,reference,2023,1,1,1
 Truth Hounds,research,2023,1,1,1
 u24.gov.ua,official sources,2023,1,1,1
 UK Parliament Committees,official sources,2023,1,1,1
@@ -267,10 +267,10 @@ Velmart,business / commercial,2023,1,1,1
 VÉRITÉ,personal / creative,2023,1,1,1
 Viasna Human Rights Centre,research,2023,1,1,1
 VICE,news,2023,1,1,1
-vLex,reference / archive,2023,1,1,1
+vLex,reference,2023,1,1,1
 warpp.info,other / unclassified,2023,1,1,1
 weekendreading.net,other / unclassified,2023,1,1,1
-Wikipedia (Polish),reference / archive,2023,1,1,1
+Wikipedia (Polish),reference,2023,1,1,1
 Work/Craft/Life,personal / creative,2023,1,1,1
 World Health Organization,official sources,2023,1,1,1
 World Politics Review,news,2023,1,1,1
@@ -857,7 +857,7 @@ rumble.com,social media,2025,1,1,1
 sas.upenn.edu,research,2025,1,1,1
 scrippsnews.com,news,2025,1,1,1
 sestry-feldman.com,other / unclassified,2025,1,1,1
-SideStack,reference / archive,2025,1,1,1
+SideStack,reference,2025,1,1,1
 silpo.ua,other / unclassified,2025,1,1,1
 simple.wikipedia.org,other / unclassified,2025,1,1,1
 slate.com,other / unclassified,2025,1,1,1
@@ -1014,7 +1014,7 @@ content.time.com,other / unclassified,2026,1,1,1
 dailyutahchronicle.com,news,2026,1,1,1
 deepstatemap.substack.com,other / unclassified,2026,1,1,1
 defence-blog.com,other / unclassified,2026,1,1,1
-Detachment A,reference / archive,2026,1,1,1
+Detachment A,reference,2026,1,1,1
 Die Zeit,news,2026,1,1,1
 digitalstate.gov.ua,official sources,2026,1,1,1
 dni.gov,official sources,2026,1,1,1
@@ -1114,7 +1114,7 @@ russianwarreport.substack.com,news,2026,1,1,1
 sec.gov,official sources,2026,1,1,1
 Semafor,news,2026,1,1,1
 shephardmedia.com,news,2026,1,1,1
-SideStack,reference / archive,2026,1,1,1
+SideStack,reference,2026,1,1,1
 specialkhersoncat.substack.com,other / unclassified,2026,1,1,1
 spglobal.com,other / unclassified,2026,1,1,1
 Stefan Korshak (Substack),social media,2026,1,1,1
