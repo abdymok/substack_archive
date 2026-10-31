@@ -5,14 +5,15 @@
 - Link occurrences: **5438**.
 - Distinct URL strings: **4218**.
 - Original source domains: **854**.
-- Normalized publishers: **825**.
-- Annual post-day labels represented: **3816** publisher-day counts are not additive; the archive has **976** distinct year/day labels with links.
-- The four-year post index contains 1,070 individual Markdown files. The link-level CSV records the archive day and date, not a unique post filename, so `unique_post_days` is the defensible count in source-level tables. It must not be described as a count of individual Markdown files.
+- Normalized publishers: **824**.
+- Distinct year/day labels with links: **976**.
+- The four-year post index contains 1,070 individual Markdown files. The link-level CSV records archive day and date, not a unique post filename, so source-level `unique_post_days` counts distinct archive day labels, not individual Markdown files.
 - Publisher aliases are consolidated in the publisher-level comparison. Original domains and URLs remain in the link-level data for audit.
 - Classification is domain-based. Domains not confidently identified remain `other / unclassified`.
 - Counts are link occurrences, not unique articles, readership, or influence.
-- Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to **306 occurrences** across the four years. Each remaining unclassified domain occurs once.
-- Two normalized publisher labels had conflicting row-level categories. They are resolved explicitly: BelTA is classified as state media; Nashi Groshi as Ukrainian media. The original row-level assignments remain visible in `normalized_links.csv`.
+- Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to **306 occurrences**. Each remaining unclassified domain occurs once.
+- Two publisher labels had conflicting row-level categories. They are resolved explicitly: BelTA is state media; Nashi Groshi is Ukrainian media. Original row-level assignments remain visible in `normalized_links.csv`.
+- Google Books aliases previously labelled `Google Books / Google` and `Google Books` are now consolidated as `Google Books`.
 
 ## Annual totals
 
@@ -103,15 +104,15 @@
 
 ## Recurring source selection
 
-A publisher is recurring in a year when it appears on at least two distinct archive day labels in that year. Personal-archive sources are excluded. Grouping is by normalized publisher and year, **not by publisher + category**; this prevents a publisher such as BelTA from being split into two one-off rows and omitted from the recurring-source list.
+A publisher is recurring in a year when it appears on at least two distinct archive day labels in that year. Personal-archive sources are excluded. Grouping is by normalized publisher and year, not by publisher + category. This prevents BelTA from being split into two one-off rows and omitted from the recurring-source list.
 
-| Year | Recurring external publishers |
+| Year | Recurring external sources |
 |---|---:|
 | 2023 | 58 |
-| 2024 | 95 |
+| 2024 | 94 |
 | 2025 | 100 |
 | 2026 | 57 |
-| **Total publisher-year entries** | **310** |
+| **Total source-year entries** | **309** |
 
 ## Classification caveats
 
