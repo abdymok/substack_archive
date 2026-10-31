@@ -32,4 +32,4 @@ Joe Biden. [Reuters](https://reut.rs/3ib4LsU) (January 6, 2022)
 
 [2](#footnote-anchor-2)
 
-[U.S. Warms to Helping Ukraine Target Crimea](https://www.nytimes.com/2023/01/18/us/politics/ukraine-crimea-military.html). *The Biden administration is considering the argument that Kyiv needs the power to strike at the Ukrainian peninsula annexed by Russia in 2014.* ([The New York Times](http://@nytimes). January 18, 2022)
+[U.S. Warms to Helping Ukraine Target Crimea](https://www.nytimes.com/2023/01/18/us/politics/ukraine-crimea-military.html). *The Biden administration is considering the argument that Kyiv needs the power to strike at the Ukrainian peninsula annexed by Russia in 2014.* ([The New York Times](https://www.nytimes.com/2023/01/18/us/politics/ukraine-crimea-military.html). January 18, 2022)
