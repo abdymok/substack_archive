@@ -191,3 +191,12 @@ This removes one duplicate publisher-year entry from 2025. The annual publisher 
 ### 2023 verification
 
 All 57 publisher link/post counts in the original 2023 section match the 2023 linked-reference file. Its one external example link is also present in that file. The original prose descriptions remain intact; their date wording and editorial annotations can receive a separate review.
+
+
+### 2024 publisher-description cleanup — 31 October 2026
+
+- Replaced the six remaining generic opening labels in the 2024 section (The Washington Post, Financial Times, CNN, Bloomberg, POLITICO Europe and Foreign Affairs) with source-specific descriptions of each publication's institutional/editorial character.
+- The existing post-level annotations, criticism/caveats, representative links, dates and counts were retained.
+- Recounted the 2024 section after the edit: 94 publisher entries; remaining generic “News publisher.” openings: 0.
+- This is descriptive cleanup, not a new claim that every 2024 source or representative link has been independently re-verified.
+- HTML commit: `ffed96b8831261e4d116f5a595d6e944ed08bb6c`.
