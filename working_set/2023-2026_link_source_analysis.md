@@ -5,6 +5,7 @@
 - Link occurrences: 5438.
 - Distinct URL strings: 4218.
 - Original source domains: 854.
+- Normalized publishers: 827.
 - Posts represented: 976.
 - Publisher aliases are consolidated in the publisher-level comparison. Original domains and URLs remain in the link-level data for audit.
 - Classification is domain-based. Domains not confidently identified remain `other / unclassified`.
