@@ -400,3 +400,10 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected the June 20 Day 1213 post's New York Times footnote for “This Oregon Native Went to Kyiv as a Volunteer. He Died in a Russian Attack” from June 18 to June 19, 2025. The linked NYT URL is dated June 19, and an independent Ukrainian human-rights report cites the NYT article with that same June 19 date. This was a one-day footnote error.
 - Other sampled checks included the June 3 Atlantic drone-warfare essay, June 3 Politico Hegseth report, June 5 CNN and Reuters Kyiv attack coverage, June 10 NYT Romania investigation, June 11 NYT McConnell/Hegseth report (footnoted June 12, retained as an edition-date distinction), June 17 Reuters dispatches, June 19 Politico Yermak article, June 24 Guardian NATO preview, June 24 Politico intelligence appointment report, and June 30 NYT Hong Kong report. No other confirmed date correction emerged in this sample.
 - This is a spot-check, not exhaustive verification of every June URL. Evidence for the corrected NYT date: `turn678394search11`, `turn678394search0`.
+
+
+### July 2025 checks
+
+- Corrected the July 31 Day 1254 post's Day 1005 cross-reference year from November 24, 2025 to November 24, 2024. The Day 1005 file's front matter and subtitle verify the date.
+- Sampled Politico, WSJ, NYT, Financial Times, The Guardian, Vogue, Reuters and CNN links from July 1–31. The NYT July 10 URL / July 12 footnote is retained as an online-versus-edition date distinction. No other confirmed date or internal-link correction emerged in this sample.
+- This is a spot-check, not exhaustive verification of every July URL.
