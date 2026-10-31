@@ -1,7 +1,7 @@
 source_domain,normalized_publisher,category,link_occurrences,unique_urls,unique_posts,years,classification_basis
 abdymok.substack.com,ukraine@war (Substack),personal archive,721,505,405,2023;2024;2025;2026,exact domain rule
 en.wikipedia.org,Wikipedia,reference,290,265,196,2023;2024;2025;2026,reference/archive/search domain
-nytimes.com,The New York Times,news,268,217,199,2023;2024;2025;2026,known news publisher
+nytimes.com,The New York Times,news,269,218,200,2023;2024;2025;2026,known news publisher
 youtube.com,YouTube,social media,249,232,167,2023;2024;2025;2026,known platform
 t.me,Telegram,social media,172,168,142,2023;2024;2025;2026,known platform
 washingtonpost.com,The Washington Post,news,137,97,95,2023;2024;2025;2026,known news publisher
@@ -32,7 +32,7 @@ president.gov.ua,Office of the President of Ukraine,official sources,29,29,26,20
 censor.net,Censor.NET,Ukrainian media,28,27,24,2023;2024;2025;2026,known Ukrainian publisher
 foreignaffairs.com,Foreign Affairs,news,27,14,14,2023;2024;2025;2026,known news publisher
 zn.ua,ZN.ua,Ukrainian media,26,18,16,2023;2024;2025;2026,known Ukrainian publisher
-bbc.com,BBC,news,24,21,19,2023;2024;2025;2026,known news publisher
+bbc.com,BBC,news,23,21,19,2023;2024;2025;2026,known news publisher
 deepstatemap.live,DeepStateMap,research,22,20,20,2023;2024;2025,manual domain review
 en.tootsie.kiev.ua,Tootsie Club,business / commercial,22,1,21,2023;2024;2025;2026,manual review: Kyiv nightlife venue
 interfax.com.ua,Interfax-Ukraine,Ukrainian media,22,18,19,2023;2024;2025;2026,known Ukrainian publisher
