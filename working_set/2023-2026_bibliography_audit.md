@@ -470,3 +470,10 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected the April 6 Day 1503 post's internal link labelled Day 1149. It incorrectly pointed to `/p/day-1449`; the Day 1149 post's front matter confirms the canonical URL `/p/day-1149`.
 - Sampled April sources included the April 14 Bloomberg Budanov profile, April 21 NYT “Donnyland” report, April 28 Oboronka Flamingo analysis, and April 27 Ukrainska Pravda report on military ombudswoman findings. The NYT “Donnyland” footnote is dated April 22 while the URL and contemporaneous copies identify April 21; retained pending a clearer distinction between online and edition date. No confirmed citation-date correction was made in April.
 - This is a spot-check, not exhaustive verification of every April URL.
+
+
+### May 2026 archive-reference and citation checks
+
+- Corrected the May 4 Day 1530 post's internal reference to the May 2 post. It had called the linked post Day 1528 and dated it May 20; the target's front matter identifies its title as Day 1529, subtitle “The shortcut state,” and date May 2, 2026. The canonical legacy URL `/p/day-1528` was retained.
+- Sampled May links and dated citations from Reuters, CNN, WSJ, Bloomberg, The New York Times, The Guardian, Politico, Die Zeit, ISW, CEPA, EUobserver and The Economist. The reviewed May 14 Kyiv attack Reuters URL and May 23 Kyiv attack Reuters URL agree with the event dates referenced in their respective posts. No further confirmed citation-date correction emerged in this sample.
+- Several posts use legacy slugs that differ from the title's Day number (for example, May 2 title Day 1529 with `/p/day-1528`; May 4 title Day 1531 with `/p/day-1530`). Canonical front-matter URLs were not rewritten. This is a spot-check, not exhaustive verification of every May URL.
