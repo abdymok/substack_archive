@@ -672,3 +672,32 @@ Updated the four affected individual post files and synchronized `23_redact.md`.
 ### Additional 2025 date correction — 31 October 2026
 
 - **Day 1226 — POLITICO, “Trump allies caught off guard by Pentagon’s Ukraine weapons freeze”: July 2, 2025.** Corrected the individual post's footnote from July 3 to July 2. The original POLITICO article URL and same-day bibliographic records identify July 2; July 3 was the Substack post date, not the article date. The annual `25_redact.md` copy already carried July 2 and required no change.
+
+
+### Post-level publisher annotation pass — 31 October 2026
+
+Expanded the 2025 and 2026 publisher descriptions with further checks against the individual posts. The annotations now record how a source is used, where the author disputes its framing, and where a link is only a record of a statement or report.
+
+**2025 additions:**
+- **Financial Times:** Day 1052 on Trump's retreat from his 24-hour pledge and Day 1366 on the reported US-Russia draft peace plan.
+- **The Economist:** Day 1097 on the proposed minerals deal and Day 1318ish on Russian grey-zone tactics and the conventional stalemate.
+- **The Wall Street Journal:** Day 1133 on the Trump family's bitcoin-mining venture and Day 1237, where the author criticizes the paper's account of drone warfare.
+- **POLITICO:** Days 1218 and 1226 on Nicholas Kass's appointment to the National Intelligence Council and the Pentagon's Ukraine weapons pause.
+- **POLITICO Europe:** Days 1052 and 1246 on Romania's rerun election and the first large Kyiv protests against the law targeting anti-corruption watchdogs.
+- **Roll Call:** Days 1050, 1055 and 1185 use Factbase transcripts as primary records of Trump's statements about Ukraine, NATO and ending the war.
+- **The Washington Post:** Days 1126 and 1293 on the Riyadh talks and National Guard sanitation duties in Washington.
+- Existing post-level notes for the New York Times, Reuters, The Atlantic, The Guardian, CNN, AP and BBC were retained.
+
+**2026 additions:**
+- **Associated Press:** Days 1498 and 1631 on Fire Point's advisory board and the data behind Ukraine's strikes inside Russia.
+- **Foreign Affairs:** Days 1464 and 1484 on Michael Desch's argument that Ukraine is losing and David Petraeus's analysis of autonomous warfare.
+- **TIME:** Days 1553 and 1611 on the macro narrative of Ukrainian ingenuity and a tribute to Lindsey Graham.
+- **The Economist:** Day 1555, where the author challenges its diagnosis of Ukraine's institutional problems.
+- **POLITICO and POLITICO Europe:** Days 1616 and 1475 on Ukraine's outreach to MAGA and Brussels' public rebuke over the Budapest-Kyiv dispute.
+- **NPR:** Days 1433 and 1590 on winter power cuts and the summer heatwave.
+- **Axios:** Days 1700 and 1702 on the proposed Oslo meeting and Witkoff's meeting with Putin.
+- Existing post-level notes for the New York Times, Reuters, The Guardian, CNN, The Washington Post, The Wall Street Journal, Financial Times, The Atlantic and Bloomberg were retained.
+
+Also corrected the Day 1226 POLITICO footnote to July 2, 2025, the original article date, rather than the July 3 Substack post date. The individual post was updated. The annual `25_redact.md` already carried the correct date.
+
+This remains a selected-source editorial pass, not an exhaustive line-by-line review of all 157 publisher-year entries. Remaining work is concentrated on lower-frequency sources, category and alias review, representative-link QA, final structural checks and a rendered browser preview.
