@@ -477,3 +477,10 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected the May 4 Day 1530 post's internal reference to the May 2 post. It had called the linked post Day 1528 and dated it May 20; the target's front matter identifies its title as Day 1529, subtitle “The shortcut state,” and date May 2, 2026. The canonical legacy URL `/p/day-1528` was retained.
 - Sampled May links and dated citations from Reuters, CNN, WSJ, Bloomberg, The New York Times, The Guardian, Politico, Die Zeit, ISW, CEPA, EUobserver and The Economist. The reviewed May 14 Kyiv attack Reuters URL and May 23 Kyiv attack Reuters URL agree with the event dates referenced in their respective posts. No further confirmed citation-date correction emerged in this sample.
 - Several posts use legacy slugs that differ from the title's Day number (for example, May 2 title Day 1529 with `/p/day-1528`; May 4 title Day 1531 with `/p/day-1530`). Canonical front-matter URLs were not rewritten. This is a spot-check, not exhaustive verification of every May URL.
+
+
+### June 2026 archive-reference and citation checks
+
+- Corrected two internal archive links. In the June 19 Day 1577 post, the link labelled Day 934 pointed to Day 943; it now points to Day 934's canonical URL. In the June 23 long-form “The Map Keeps Getting Larger,” the year-end 2024 reference labelled Day 1038 pointed to the Day 1037 slug `/p/day-1036`; it now points to Day 1038's canonical `/p/day-1038` URL.
+- Sampled June references included Reuters' June 1 Kyiv smoke report, the June 10 NYT logistics-strike report, Bloomberg Opinion's June 12 drone analysis, the June 15 Pechersk Lavra fire coverage, the June 17 Irish Independent G7 report, and the June 28 NYT Kazakhstan mining investigation. No additional confirmed citation-date correction emerged in this sample.
+- This is a spot-check, not exhaustive verification of every June URL.
