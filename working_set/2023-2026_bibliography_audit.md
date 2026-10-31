@@ -414,3 +414,10 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected the August 11 Day 1265 post's Day 1125 footnote date from March 25 to March 24, 2025. The canonical Day 1125 post front matter identifies March 24, and its subtitle matches the cited item.
 - Sampled August links including the July 24 Le Point report, August 13 ISW assessment, August 14 Bloomberg summit-security report, August 14 Guardian Hegseth report, August 19 NYT Trump item, August 20 Reuters Lavrov report, August 21 NYT Rubio article, August 22 CNN report, August 26 NYT cabinet article and August 22 FT commentary. The August 27 NYT article URL / August 27 footnote is retained as an edition-date convention.
 - The August 28 continuation file remains separate from the main Day 1282 post. No other confirmed date correction emerged in this sample. This is a spot-check, not exhaustive URL verification.
+
+
+### September 2025 citation-date correction and checks
+
+- Corrected the September 8 Day 1293 post's Washington Post footnote for “National Guard troops deployed in D.C. add sanitation, landscaping duties” from September 5 to August 27, 2025. The article page, publisher sitemap and contemporaneous citations all identify August 27.
+- Other sampled checks included September 2 Reuters reporting on Putin and Xi, September 2 Financial Times analysis, September 4 CNN reporting, September 16 Foreign Affairs and NYT opinion pieces, September 23 Politico and NYT stories, and September 26 Interfax-Ukraine reporting. No further confirmed date correction emerged in this sample.
+- This is a spot-check, not exhaustive verification of every September URL. Evidence for the corrected Washington Post date: `turn440035search0`, `turn440035search3`, `turn440035search1`.
