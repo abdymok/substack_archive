@@ -1983,7 +1983,7 @@ Mykhailo is talking about the *undeliveries* of long-range weapons we’ve been 
 
 [1](#footnote-anchor-1)
 
-[U.S. doubts Ukraine counteroffensive will yield big gains, leaked document says](https://www.washingtonpost.com/national-security/2023/04/10/leaked-documents-ukraine-counteroffensive/). *It’s a marked departure from the Biden administration’s public pronouncements about the vitality of Ukraine’s army and is likely to embolden critics calling for negotiations to end the war* (The Washington Post, April 11, 2023)
+[U.S. doubts Ukraine counteroffensive will yield big gains, leaked document says](https://www.washingtonpost.com/national-security/2023/04/10/leaked-documents-ukraine-counteroffensive/). *It’s a marked departure from the Biden administration’s public pronouncements about the vitality of Ukraine’s army and is likely to embolden critics calling for negotiations to end the war* (The Washington Post, April 10, 2023)
 
 [2](#footnote-anchor-2)
 
@@ -2621,7 +2621,7 @@ Our brains are constantly constructing a set of predictions for what's going to 
 
 It’s flabbergasting to compare stories by war-adjacent Russophiles versus what Ukrainians actually experienced nine years ago as we attempt to minimize the error between bullshit narratives and what, in fact, is taking place now.
 
-Two wordy whatevers appearing the same day come to mind: [Senior Ukrainian officials fear counterattack may not live up to hype](https://www.washingtonpost.com/world/2023/05/06/ukraine-counteroffensive-expectations-hype-russia/) (The Washington Post, May 5, 2023) and [As Putin Bides His Time, Ukraine Faces a Ticking Clock](https://www.nytimes.com/2023/05/06/world/europe/ukraine-counteroffensive-russia.html) (The New York Times, May 5, 2023). Isabelle and Andrew, Ukraine bureau chiefs, respectively, are on the bylines. Six co-authors, two contributors, all non- Ukrainians.
+Two wordy whatevers appearing the same day come to mind: [Senior Ukrainian officials fear counterattack may not live up to hype](https://www.washingtonpost.com/world/2023/05/06/ukraine-counteroffensive-expectations-hype-russia/) (The Washington Post, May 6, 2023) and [As Putin Bides His Time, Ukraine Faces a Ticking Clock](https://www.nytimes.com/2023/05/06/world/europe/ukraine-counteroffensive-russia.html) (The New York Times, May 6, 2023). Isabelle and Andrew, Ukraine bureau chiefs, respectively, are on the bylines. Six co-authors, two contributors, all non- Ukrainians.
 
 Lets compare nut graphs:
 
@@ -3515,7 +3515,7 @@ Human misery in Russia and Belarus is so appalling nowadays that if we allowed o
 
 [2](#footnote-anchor-2)
 
-[A Russian Deserter’s Flight to Norway Presents a Fraught Dilemma for His Host.](https://www.nytimes.com/2023/05/28/world/europe/andrei-medvedev-wagner-russia-norway-ukraine.html) *Andrei Medvedev fought with Russia’s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.* (May 27, 2023)
+[A Russian Deserter’s Flight to Norway Presents a Fraught Dilemma for His Host.](https://www.nytimes.com/2023/05/28/world/europe/andrei-medvedev-wagner-russia-norway-ukraine.html) *Andrei Medvedev fought with Russia’s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.* (May 28, 2023)
 
 [3](#footnote-anchor-3)
 
@@ -3714,11 +3714,11 @@ He’s the [PHILIP JONES GRIFFITHS AWARD WNNER for 2022](https://philipjonesgrif
 
 [1](#footnote-anchor-1)
 
-[‘Everything Changed’: The War Arrives on Russians’ Doorstep.](https://www.nytimes.com/2023/06/03/world/europe/belgorod-russia-ukraine-war.html)*With cross-border strikes, residents of the Russian region of Belgorod are starting to understand the horrors of war being waged at their doorstep* (The New York Times. June 4, 2023)
+[‘Everything Changed’: The War Arrives on Russians’ Doorstep.](https://www.nytimes.com/2023/06/03/world/europe/belgorod-russia-ukraine-war.html)*With cross-border strikes, residents of the Russian region of Belgorod are starting to understand the horrors of war being waged at their doorstep* (The New York Times. June 3, 2023)
 
 [2](#footnote-anchor-2)
 
-[Use of NATO arms for attack in Russia raises doubts about Kyiv’s controls](https://www.washingtonpost.com/national-security/2023/06/03/nato-weapons-russia/) (The Washington Post. June 4, 2023)
+[Use of NATO arms for attack in Russia raises doubts about Kyiv’s controls](https://www.washingtonpost.com/national-security/2023/06/03/nato-weapons-russia/) (The Washington Post. June 3, 2023)
 
 [3](#footnote-anchor-3)
 
