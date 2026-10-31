@@ -38,7 +38,7 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 
 ## Z-substitution update
 
-Two further canonical URLs were verified against Washington Post publisher pages and restored in the Day 425 and Day 446 post copies, 2023 linked-reference CSV, normalized link dataset and Z review queue. The queue now records 7 verified cases and 108 candidates still pending. No global replacement was used.
+Two further canonical URLs were verified against Washington Post publisher pages and restored in the Day 425 and Day 446 post copies, 2023 linked-reference CSV, normalized link dataset and Z review queue. The queue now records 8 verified cases and 107 candidates still pending. No global replacement was used.
 
 
 Day 440ish clarification: the NYT date correction concerns the separate May 9, 2023 Day 440ish post. Its footnote was corrected from March 28 to March 25 and the malformed NYT homepage URL was replaced with the verified article URL. The March 30 Day 440ish label/slug mismatch remains open as a separate author-confirmation question.
@@ -53,3 +53,6 @@ The annual linked-reference CSVs and normalized dataset match exactly: 5,438 lin
 
 
 Day 647: restored the AP canonical Zelenskyy article URL and exact headline in the post copy, 2023 linked-reference CSV, normalized link dataset and Z review queue.
+
+
+Day 574: restored the canonical New York Times article title and URL and corrected the annotation from June 20 to September 19, 2023. The post, annual linked-reference CSV, normalized dataset, date ledger and Z review queue are synchronized.
