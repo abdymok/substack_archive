@@ -364,3 +364,10 @@ The original article text and commentary were otherwise preserved. No link count
 - January archive files include gaps and irregular Day numbers (including Day 1061/1062 absent from the file sequence and Day 1066 without the `_day-` marker). No Day metadata was inferred or changed from those filenames.
 - Original-post correction commit: `04e9eaa16e2b3d07660ee9977d4b580d2fd3f41e`; bibliography commit: `55c8cbbe89e2587d79d497eb58e1ae68a4cbeaba`. Evidence: `turn787742search0`, `turn787742search2`, `turn787742search6`, `turn787742search12`.
 - This is a spot-check, not exhaustive verification of every January URL.
+
+
+### February 2025 citation-date spot-check
+
+- Checked dated publisher references in the February 1–28 posts. No confirmed footnote-date correction was established in this sample. The February 6 NYT conservative-Christian outreach report, February 12 Economist analysis, February 13 Guardian interview and commentary, February 23 Economist minerals-deal analysis, February 22 FT Bessent op-ed, February 25 Atlantic essay and February 26 Economist mobilization report were checked against their linked dates and footnotes. Online-versus-edition distinctions were retained.
+- The February 27 filename carries the anomalous Day label `1012` (`2025-02-27_day-1012-f02.md`) amid the 1090–1101 sequence. It is preserved pending reconciliation against the master Day list; no inferred replacement was made.
+- This is a spot-check, not exhaustive verification of every February URL.
