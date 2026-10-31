@@ -283,3 +283,11 @@ The original article text and commentary were otherwise preserved. No link count
 
 - Corrected the Day 738 (March 2) footnote for Anne Applebaum's Atlantic essay, “Why Is Trump Trying to Make Ukraine Lose?” The article was published February 29, 2024, as confirmed by the author's Atlantic archive and contemporaneous author-page listing. The post footnote had used March 2, the date of the archive post. Corrected the source publication date; the post date remains March 2.
 - Original-post commit: bacbdb4a3248dbe6925846e8707495deebe70241. Verification: Anne Applebaum's article page and Atlantic archive listing, `turn292241search0` and `turn292241search2`.
+
+
+### April 2024 citation-date correction — Day 786
+
+- Corrected the Day 786 (April 19) Politico footnote for “How Johnson and Biden locked arms on Ukraine.” The article URL is dated April 18, 2024, and contemporaneous republication/source listings confirm April 18. The archived footnote had used April 19, the date of the post. The post date and text remain unchanged.
+- Day 773's Washington Post article “With no way out of a worsening war, Zelensky’s options look bad or worse” is correctly dated April 6, 2024. Day 775's Washington Post article “When a top Republican says Russian propaganda has infected the GOP” shows an April 7 URL and an April 7 updated date on the current publisher page; the archived footnote says April 6. Because the page now shows an update date, not a separately visible original publication timestamp, this is retained as a date ambiguity rather than changed.
+- Day 772's Bloomberg gambling-addiction article is dated April 3 on Bloomberg's page; the footnote is correct. The April 28 FT item is dated April 27, matching its footnote. Day 797's FT military briefing is also dated April 26, matching its footnote.
+- Original-post commit: 3ead13a54b008308271157a2cb44acbf6e623557. Verification: Politico article and contemporaneous listing, `turn989433news30` and `turn989433search5`; Washington Post page `turn174872view0`; Bloomberg page `turn211510search2`; FT citations in the archived post.
