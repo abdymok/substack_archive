@@ -463,3 +463,10 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected the March 3 Day 1469 post's NYT footnote for “The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder” from March 3 to March 2, 2026. The publisher URL, NYT publication timestamp (March 2, 2 p.m. ET) and contemporaneous listings confirm March 2. The post's March 3 date remains unchanged.
 - Sampled March sources included Politico's March 6 Orbán dispute report, NYT's March 5 Minab school investigation, the March 11 Washington Post Hegseth-photographer report, the March 11 Ukrainska Pravda Paton Bridge investigation, Reuters' March 25 interview with Zelenskyy, The Atlantic's March 26 Iran-war analysis, and the March 30 NYT Kyiv-winter investigation. No other confirmed footnote-date correction emerged in this sample.
 - This is a spot-check, not exhaustive verification of every March URL.
+
+
+### April 2026 citation and archive-link checks
+
+- Corrected the April 6 Day 1503 post's internal link labelled Day 1149. It incorrectly pointed to `/p/day-1449`; the Day 1149 post's front matter confirms the canonical URL `/p/day-1149`.
+- Sampled April sources included the April 14 Bloomberg Budanov profile, April 21 NYT “Donnyland” report, April 28 Oboronka Flamingo analysis, and April 27 Ukrainska Pravda report on military ombudswoman findings. The NYT “Donnyland” footnote is dated April 22 while the URL and contemporaneous copies identify April 21; retained pending a clearer distinction between online and edition date. No confirmed citation-date correction was made in April.
+- This is a spot-check, not exhaustive verification of every April URL.
