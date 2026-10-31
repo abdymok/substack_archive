@@ -1,7 +1,7 @@
 # Annotated bibliography: Ukraine and the war, 2025
 
 *Working draft · v0.1 · compiled from the 2025 Substack archive and linked-reference dataset*
-
+\n\n**Citation dates:** use the original publication timestamp converted to Kyiv time (Europe/Kyiv), not a later update or syndication date. If no reliable timestamp is available, retain the publisher’s original displayed date and flag material ambiguity. The Substack post date remains separate.
 ## Scope and method
 
 The 2025 Markdown archive contains 280 posts. Its linked-reference CSV contains 1,341 link occurrences across 303 URL hostnames, before publisher normalization. This is a selective bibliography of sources that illuminate the war, Ukraine's military and political position, international support, diplomacy, accountability, and the information environment.
