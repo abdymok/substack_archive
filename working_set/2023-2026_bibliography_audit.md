@@ -254,3 +254,12 @@ Following source verification, the three confirmed errors below have now been co
 3. **Day 707, January 31 — KIIS date.** Corrected the footnote from “December 2003” to “December 20, 2023,” the date shown on KIIS's original release. The release reports survey fieldwork on December 4–10, 2023.
 
 The original article text and commentary were otherwise preserved. No link counts or publisher classifications changed. The bibliography annotations now describe the corrections as completed, not outstanding. Primary verification: Washington Post article (https://www.washingtonpost.com/world/2024/01/04/kherson-marines-ukraine-villages-russia/); KIIS original release (https://kiis.com.ua/?cat=reports&id=1338&lang=eng&page=1); contemporaneous FT coverage (https://www.pravda.com.ua/eng/news/2024/01/19/7438042/). Source-post commits: b2a4bf2df22e0ad39c67ffcd8c5c09a355f67250, 27a5ab2700c0ef772509d34dd8855fcf283f7c73, 734c830bfb06c83f9e355e22b3f67aa4863bdb3d. Bibliography commit: 0322c90e29f88810059b8343518096a44f6bc818.
+
+
+### February 2024 citation-date check — Day 729
+
+- Checked the February 22 post's Politico footnote, “Trump allies prepare to infuse ‘Christian nationalism’ in second administration.” The URL itself is dated `/2024/02/20/`; the syndicated Yahoo News copy carries the same headline and byline and was updated February 21. The post's footnote had said February 22, 2024. Corrected the Politico publication date to February 20, 2024.
+- The correction is limited to the publication date. The post date remains February 22. The Politico page blocked direct retrieval during this check, so the date is corroborated by the original URL's date path and the syndicated copy rather than a directly readable Politico timestamp.
+- Other sampled links in Days 729, 733, 735 and 736 matched their cited subjects/titles and dates: the NYT CIA feature (February 25), Finance.ua macroeconomic infographic (February 20), and Euromaidan Press report on LP's cancelled Lithuanian concert (February 28). The Politico item is the only correction in this batch.
+- Verification references: syndicated Yahoo copy (https://www.yahoo.com/news/trump-allies-prepare-infuse-christian-100000260.html); Politico URL https://www.politico.com/news/2024/02/20/donald-trump-allies-christian-nationalism-00142086; NYT, Finance.ua and Euromaidan Press pages.
+- Original-post correction commit: 8a2ef202a0d0230ebd36b8913e889b546734ac67.
