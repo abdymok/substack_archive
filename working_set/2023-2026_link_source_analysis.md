@@ -9,7 +9,7 @@
 - Publisher aliases are consolidated in the publisher-level comparison. Original domains and URLs remain in the link-level data for audit.
 - Classification is domain-based. Domains not confidently identified remain `other / unclassified`.
 - Counts are link occurrences, not unique articles or readership.
-- Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 306 domains / 306 occurrences. The remaining set is almost entirely single-occurrence domains.
+- Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 306 domains / 306 occurrences. Every remaining unclassified domain occurs only once.
 
 ## Annual totals
 
