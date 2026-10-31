@@ -526,3 +526,13 @@ The original article text and commentary were otherwise preserved. No link count
 - The Politico article “Ukraine wants peace but can’t trust Russia” is linked in Day 843 with a June 14 date; secondary citations give June 13. This was left unchanged pending confirmation of the publisher's original timestamp rather than guessing.
 - This is a date-focused spot-check, not exhaustive verification of every June URL.
 - Original-post commit: 8041e9f008f723b4cd4a6a04c27e4d9c16a61e8e. Verification sources: [NYT reconstruction resignation report](https://www.nytimes.com/2024/06/10/world/europe/ukraine-reconstruction-resignation.html); [NYT Putin cease-fire report](https://www.nytimes.com/2024/06/14/world/europe/russia-ukraine-putin-cease-fire.html); [Guardian Sodol report](https://www.theguardian.com/world/article/2024/jun/24/zelenskiy-replaces-commander-leading-war-on-russia-in-eastern-ukraine); [Guardian publication timestamp](https://www.theguardian.com/world/russia/2024/jun/24/all).
+
+
+
+### July 2024 citation-date spot-check — Day 859
+
+- Corrected Day 859's Philadelphia Inquirer footnote for “Z lays out how Ukraine can win, if the West loses its fear of Putin” from July 1 to June 30, 2024. The publisher's page explicitly gives “Published June 30, 2024, 5:00 a.m. ET”; the article URL also carries the 20240630 date. The archive post date remains July 1.
+- The July 8 Washington Post report on Ukrainian attacks against Russian supply lines was checked against the publisher page and is correctly dated July 8, 2024.
+- The July 15 Philadelphia Inquirer article date is confirmed by the publisher page; no change was required to the archive's July 1 article footnote beyond the correction above.
+- This is the beginning of the July review, not a complete July audit.
+- Original-post commit: 8938be08a5eb512ff521ab22d9cee2ceaade4204. Verification sources: [Philadelphia Inquirer article](https://www.inquirer.com/opinion/zelensky-ukraine-war-interview-trudy-rubin-20240630.html); [Washington Post July 8 report](https://www.washingtonpost.com/world/2024/07/08/ukraine-intercepts-russia-kharkiv-supplies/).
