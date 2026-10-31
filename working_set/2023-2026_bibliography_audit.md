@@ -498,3 +498,11 @@ The original article text and commentary were otherwise preserved. No link count
 - Replaced Google redirect URLs with their direct destination URLs in three posts: August 1 (12 links), August 21 (23 links), and August 28 (17 links). Tracking parameters were stripped where they were present; destination paths were preserved.
 - Sampled August sources included the August 3 Washington Post Shtilerman op-ed, August 4 Reuters Fire Point report, August 5 Washington Post missile-barrage report, August 17 ZN.ua investigation, August 19 Guardian and Financial Times Fedorov coverage, and the August 28–31 Financial Times references. No confirmed citation-date correction emerged in this sample.
 - The August 31 Day 1649 post's `day_of_war` field is 1650 while title and URL identify Day 1649. Retained as a metadata discrepancy pending independent reconciliation. This is a spot-check, not exhaustive verification of every August URL.
+
+
+### September 2026 citation-date and link cleanup
+
+- Corrected the September 7 Day 1657 post's New York Times footnote for “In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts” from September 7 to September 6, 2026. The NYT page identifies September 6 as its publication date; the print edition also appeared September 6.
+- Replaced 15 Google redirect URLs in the September 7 post's source notes with direct destination URLs, removing tracking parameters where present.
+- Sampled September 3–4 Guardian and NYT coverage of the Kyiv intelligence-service shootout, September 15 Reuters jet-drone reporting, September 25 Atlantic commentary, and September 28–29 Reuters and NYT coverage of the National Academy of Sciences strike. The September 29 NYT URL contains the publisher's own `urkaine` slug spelling and is retained; matching indexed copies use the same URL. No other confirmed date correction emerged in this sample.
+- This is a spot-check, not exhaustive verification of every September URL.
