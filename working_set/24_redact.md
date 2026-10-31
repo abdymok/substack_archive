@@ -2342,7 +2342,7 @@ I leave you with today’s presidential pep talk.
 
 [2](#footnote-anchor-2)
 
-[Ukraine’s first lady declines State of the Union invitation](https://www.washingtonpost.com/national-security/2024/03/05/state-of-the-union-olena-zelenska-yulia-navalnaya/). *The White House had intended for Olena Zelenska to sit near first lady Jill Biden and Russian opposition figure Yulia Navalnaya, who is viewed with some skepticism in Ukraine* ([The Washington Post](http://wapo.st), March 6, 2024)
+[Ukraine’s first lady declines State of the Union invitation](https://www.washingtonpost.com/national-security/2024/03/05/state-of-the-union-olena-zelenska-yulia-navalnaya/). *The White House had intended for Olena Zelenska to sit near first lady Jill Biden and Russian opposition figure Yulia Navalnaya, who is viewed with some skepticism in Ukraine* ([The Washington Post](http://wapo.st), March 5, 2024)
 
 ---
 
@@ -4342,7 +4342,7 @@ And, finally, what Americans think.
 
 [3](#footnote-anchor-3)
 
-[‘March or April’: How Z gave Johnson a deadline for military aid.](https://www.politico.com/news/2024/04/26/march-or-april-how-Z-gave-johnson-a-deadline-for-military-aid-00154584) *A December meeting between the speaker and Ukrainian president influenced Johnson’s decision to approve military aid for Ukraine* ([Politico](http://politico.com), April 27, 2024)
+[‘March or April’: How Z gave Johnson a deadline for military aid.](https://www.politico.com/news/2024/04/26/march-or-april-how-Z-gave-johnson-a-deadline-for-military-aid-00154584) *A December meeting between the speaker and Ukrainian president influenced Johnson’s decision to approve military aid for Ukraine* ([Politico](http://politico.com), April 26, 2024)
 
 ---
 
@@ -8065,7 +8065,7 @@ I helped create and direct MSD’s scientific network in Russia and Central Asia
 
 [1](#footnote-anchor-1)
 
-[Former Trump Adviser Kellyanne Conway Lobbies for Ukrainian Interests.](https://www.nytimes.com/2024/08/05/us/politics/kellyanne-conway-ukraine-lobbying.html) *The former campaign aide indicated in a Justice Department filing that she will be paid $50,000 a month by an oligarch to seek support for Ukraine* ([The New York Times](http://nyt.com), August 6, 2024)
+[Former Trump Adviser Kellyanne Conway Lobbies for Ukrainian Interests.](https://www.nytimes.com/2024/08/05/us/politics/kellyanne-conway-ukraine-lobbying.html) *The former campaign aide indicated in a Justice Department filing that she will be paid $50,000 a month by an oligarch to seek support for Ukraine* ([The New York Times](http://nyt.com), August 5, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -8988,7 +8988,7 @@ In other news, if your approach to debate is to decide that the other person is 
 
 [2](#footnote-anchor-2)
 
-[Senior Ukrainian officials to present Biden admin with list of targets in Russia this week, lawmaker says](https://edition.cnn.com/2024/08/28/politics/ukrainian-officials-biden-administration-russia-targets/index.html) ([CNN](http://cnn.com), August 29, 2024)
+[Senior Ukrainian officials to present Biden admin with list of targets in Russia this week, lawmaker says](https://edition.cnn.com/2024/08/28/politics/ukrainian-officials-biden-administration-russia-targets/index.html) ([CNN](http://cnn.com), August 28, 2024)
 
 ---
 
@@ -10255,7 +10255,7 @@ Conditions for making an emergency landing are already obvious. Whatever the out
 
 [1](#footnote-anchor-1)
 
-[U.S. Intelligence Stresses Risks in Allowing Long-Range Strikes by Ukraine](https://www.nytimes.com/2024/09/26/us/politics/us-intelligence-stresses-risks-in-allowing-long-range-strikes-by-ukraine.html). I*intelligence agencies concluded that granting Ukraine’s request to use Western missiles against targets deep in Russia could prompt forceful retaliation while not fundamentally changing the course of the war* ([The New York Times](http://nyt.com), September 27, 2024)
+[U.S. Intelligence Stresses Risks in Allowing Long-Range Strikes by Ukraine](https://www.nytimes.com/2024/09/26/us/politics/us-intelligence-stresses-risks-in-allowing-long-range-strikes-by-ukraine.html). I*intelligence agencies concluded that granting Ukraine’s request to use Western missiles against targets deep in Russia could prompt forceful retaliation while not fundamentally changing the course of the war* ([The New York Times](http://nyt.com), September 26, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -10385,7 +10385,7 @@ Yeah, we can understand this impulse. And we agree than any cease-fire wouldn’
 
 [2](#footnote-anchor-2)
 
-[Crunch Time for Ukraine](https://www.economist.com/podcasts/2024/09/28/crunch-time-for-ukraine) ([The Economist](http://economist.com), September 27, 2024)
+[Crunch Time for Ukraine](https://www.economist.com/podcasts/2024/09/28/crunch-time-for-ukraine) ([The Economist](http://economist.com), September 28, 2024)
 
 [3](#footnote-anchor-3)
 
@@ -10568,7 +10568,7 @@ Have a great weekend!
 
 [1](#footnote-anchor-1)
 
-[Alex Karp Has Money and Power. So What Does He Want?](https://www.nytimes.com/2024/08/17/style/alex-karp-palantir.html) *In a rare in-depth interview, this billionaire man of mystery, the head of Palantir Technologies, talks about war, A.I. and America’s future* (The New York Times, October 4, 2024)
+[Alex Karp Has Money and Power. So What Does He Want?](https://www.nytimes.com/2024/08/17/style/alex-karp-palantir.html) *In a rare in-depth interview, this billionaire man of mystery, the head of Palantir Technologies, talks about war, A.I. and America’s future* (The New York Times, August 17, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -11027,7 +11027,7 @@ And, finally, good news:
 
 [1](#footnote-anchor-1)
 
-[Are Americans ready to give up on Ukraine?](https://www.washingtonpost.com/opinions/2024/10/15/ukraine-stalemate-putin-pompeo-peacetalks-negotiations/) *All the talk about a negotiated end to the war in Ukraine? It’s designed mostly to appeal to Americans* ([The Washington Post](http://wapo.st), October 16, 2024)
+[Are Americans ready to give up on Ukraine?](https://www.washingtonpost.com/opinions/2024/10/15/ukraine-stalemate-putin-pompeo-peacetalks-negotiations/) *All the talk about a negotiated end to the war in Ukraine? It’s designed mostly to appeal to Americans* ([The Washington Post](http://wapo.st), October 15, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -11221,7 +11221,7 @@ Anne wrote a nice essay[1](#footnote-1).
 
 [1](#footnote-anchor-1)
 
-[The Case Against Pessimism](https://www.realclearworld.com/2024/10/21/the_case_against_pessimism_1066648.html). *The West has to believe that democracy will prevail* ([The Atlantic](http://theatlantic.com), October 22, 2024)
+[The Case Against Pessimism](https://www.realclearworld.com/2024/10/21/the_case_against_pessimism_1066648.html). *The West has to believe that democracy will prevail* ([The Atlantic](http://theatlantic.com), October 21, 2024)
 
 ---
 
