@@ -8101,7 +8101,7 @@ Z talked about drones in his daily video. He did not mention fall-back defensive
 
 [1](#footnote-anchor-1)
 
-[Long Battle for a Ruined City Takes a Desperate Turn](https://www.nytimes.com/2024/08/06/world/europe/ukraine-war-donetsk-toretsk.html?searchResultPosition=12). *Ukrainian troops are engaged in a harsh struggle for Toretsk, a strategic city in eastern Ukraine that has been under relentless assault by Russian forces* ([The New York Times](http://nyt.com), August 5, 2024)
+[Long Battle for a Ruined City Takes a Desperate Turn](https://www.nytimes.com/2024/08/06/world/europe/ukraine-war-donetsk-toretsk.html?searchResultPosition=12). *Ukrainian troops are engaged in a harsh struggle for Toretsk, a strategic city in eastern Ukraine that has been under relentless assault by Russian forces* ([The New York Times](http://nyt.com), August 6, 2024)
 
 ---
 
@@ -8553,7 +8553,7 @@ On the war jacket, Pekhno has all the gory details and lots of maps.
 
 [1](#footnote-anchor-1)
 
-[A Drunken Evening, a Rented Yacht: The Real Story of the Nord Stream Pipeline Sabotage](https://www.wsj.com/world/europe/nord-stream-pipeline-explosion-real-story-da24839c). *Private businessmen funded the shoestring operation, which was overseen by a top general; President Z approved the plan, then tried unsuccessfully to call it off* ([The Wall Street Journal](http://wsj.com), August 15, 2024)
+[A Drunken Evening, a Rented Yacht: The Real Story of the Nord Stream Pipeline Sabotage](https://www.wsj.com/world/europe/nord-stream-pipeline-explosion-real-story-da24839c). *Private businessmen funded the shoestring operation, which was overseen by a top general; President Z approved the plan, then tried unsuccessfully to call it off* ([The Wall Street Journal](http://wsj.com), August 14, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -9209,7 +9209,7 @@ Russian KIA rates are rising, reaching up to 1,400 daily amid enemy cruise missi
 
 [1](#footnote-anchor-1)
 
-[See my video of a Kharkiv cemetery](https://www.washingtonpost.com/opinions/2024/09/03/ukraine-russia-escalation-bombing-civilians/). *Now tell me Ukraine shouldn’t strike back* ([The Washington Post](https://www.washingtonpost.com/opinions/2024/09/03/ukraine-russia-escalation-bombing-civilians/), September 4, 2024)
+[See my video of a Kharkiv cemetery](https://www.washingtonpost.com/opinions/2024/09/03/ukraine-russia-escalation-bombing-civilians/). *Now tell me Ukraine shouldn’t strike back* ([The Washington Post](https://www.washingtonpost.com/opinions/2024/09/03/ukraine-russia-escalation-bombing-civilians/), September 3, 2024)
 
 ---
 
@@ -10381,7 +10381,7 @@ Yeah, we can understand this impulse. And we agree than any cease-fire wouldn’
 
 [1](#footnote-anchor-1)
 
-[How JD Vance Found His Way to the Catholic Church](https://www.nytimes.com/2024/08/25/us/jd-vance-catholic-church-conversion.html). *In his 30s, the Republican vice-presidential nominee read works on theology, mysticism, and political and moral philosophy. And he discovered his faith* ([The New York Times](http://nyt.com), September 29, 2024)
+[How JD Vance Found His Way to the Catholic Church](https://www.nytimes.com/2024/08/25/us/jd-vance-catholic-church-conversion.html). *In his 30s, the Republican vice-presidential nominee read works on theology, mysticism, and political and moral philosophy. And he discovered his faith* ([The New York Times](http://nyt.com), August 25, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -10872,7 +10872,7 @@ There is a lot wrong with Keith’s essay. As I recall, he was one of the many j
 
 [2](#footnote-anchor-2)
 
-[Ukraine’s Waiting Game](https://www.newyorker.com/news/the-weekend-essay/ukraines-waiting-game). *In and around Kyiv, war has become part of daily life, even as the public grows weary of its costs* ([The New Yorker](http://newyorker.com), October 11, 2024)
+[Ukraine’s Waiting Game](https://www.newyorker.com/news/the-weekend-essay/ukraines-waiting-game). *In and around Kyiv, war has become part of daily life, even as the public grows weary of its costs* ([The New Yorker](http://newyorker.com), October 12, 2024)
 
 ---
 
@@ -14199,7 +14199,7 @@ Make something beautiful in 2025!
 
 [3](#footnote-anchor-3)
 
-[How Elon Musk Has Planted Himself Almost Literally at Trump’s Doorstep](https://www.nytimes.com/2024/12/30/us/politics/elon-musk-trump-mar-a-lago.html). *For much of the period since Election Day, the billionaire has been staying at a $2,000-a-night cottage at Mar-a-Lago, giving him easy access to the president-elect* ([The New York Times](http://nyt.com), December 31, 2024)
+[How Elon Musk Has Planted Himself Almost Literally at Trump’s Doorstep](https://www.nytimes.com/2024/12/30/us/politics/elon-musk-trump-mar-a-lago.html). *For much of the period since Election Day, the billionaire has been staying at a $2,000-a-night cottage at Mar-a-Lago, giving him easy access to the president-elect* ([The New York Times](http://nyt.com), December 30, 2024)
 
 ---
 
