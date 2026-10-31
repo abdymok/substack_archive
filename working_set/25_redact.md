@@ -175,7 +175,7 @@ Z, meanwhile, sounds like a damaged vinyl record that plays the same segment ove
 
 [3](#footnote-anchor-3)
 
-['Dozens' of Ukraine soldiers deserted while training in France, says French army official](https://www.lemonde.fr/en/international/article/2025/01/06/dozens-of-ukraine-soldiers-deserted-while-training-in-france-says-french-army-official_6736765_4.html). *Ukraine's land forces commander also admitted there were 'problems' with the unit known as 'Anne of Kyiv' after reports of desertions* ([Le Monde](http://lemonde.fr), January 7, 2025)
+['Dozens' of Ukraine soldiers deserted while training in France, says French army official](https://www.lemonde.fr/en/international/article/2025/01/06/dozens-of-ukraine-soldiers-deserted-while-training-in-france-says-french-army-official_6736765_4.html). *Ukraine's land forces commander also admitted there were 'problems' with the unit known as 'Anne of Kyiv' after reports of desertions* ([Le Monde](http://lemonde.fr), January 6, 2025)
 
 [4](#footnote-anchor-4)
 
@@ -2574,7 +2574,7 @@ Finally, bad news from Russia’s Kursk region, where Ukraine is losing round.
 
 [1](#footnote-anchor-1)
 
-[The Wi-Fi Code Is ‘TrumpLovesYou,’ but the Cafe’s Clients Aren’t Feeling It](https://www.nytimes.com/2025/03/04/world/europe/trump-ukraine-pizza-cafe.html?searchResultPosition=1). *At a pizza and coffee joint in Kyiv named for the U.S. president, patrons are having second thoughts about its moniker after President Trump suspended military aid to Ukraine* ([The New York Times](http://nyt.com), March 5, 2025)
+[The Wi-Fi Code Is ‘TrumpLovesYou,’ but the Cafe’s Clients Aren’t Feeling It](https://www.nytimes.com/2025/03/04/world/europe/trump-ukraine-pizza-cafe.html?searchResultPosition=1). *At a pizza and coffee joint in Kyiv named for the U.S. president, patrons are having second thoughts about its moniker after President Trump suspended military aid to Ukraine* ([The New York Times](http://nyt.com), March 4, 2025)
 
 ---
 
@@ -6366,7 +6366,7 @@ And wine!
 
 [1](#footnote-anchor-1)
 
-[McConnell Tells Hegseth America’s Reputation Is at Stake in Ukraine War](https://www.nytimes.com/2025/06/11/us/politics/hegseth-congress-defense.html). *A testy exchange between a senator who strongly supports Ukraine aid and the defense secretary revealed a deepening split among G.O.P. officials on the war* ([The New York Times](http://nyt.com), June 12, 2025)
+[McConnell Tells Hegseth America’s Reputation Is at Stake in Ukraine War](https://www.nytimes.com/2025/06/11/us/politics/hegseth-congress-defense.html). *A testy exchange between a senator who strongly supports Ukraine aid and the defense secretary revealed a deepening split among G.O.P. officials on the war* ([The New York Times](http://nyt.com), June 11, 2025)
 
 ---
 
@@ -13231,7 +13231,7 @@ Capital won’t return if Russia might attack again? Try this: capital won’t r
 
 [2](#footnote-anchor-2)
 
-[How to avoid an unjust peace in Ukraine](https://www.economist.com/leaders/2025/11/26/how-to-avoid-an-unjust-peace-in-ukraine). *If Ukraine and Europe want to control their destiny they must seize the initiative* ([The Economist](http://economist.com), November 27, 2025)
+[How to avoid an unjust peace in Ukraine](https://www.economist.com/leaders/2025/11/26/how-to-avoid-an-unjust-peace-in-ukraine). *If Ukraine and Europe want to control their destiny they must seize the initiative* ([The Economist](http://economist.com), November 26, 2025)
 
 ---
 
