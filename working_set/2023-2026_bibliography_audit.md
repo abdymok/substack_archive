@@ -31,7 +31,7 @@ The 2023 categories and annotations are retained from the original HTML template
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `5681759caa8e27c41a95584e176359e8bc09ac59`
+- Latest HTML commit: `fa7f01fa22e97c09ac0f6bf440185aa9d052e7cc`
 - Verified: 308 entries; 57 / 94 / 100 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
@@ -150,3 +150,13 @@ The category-year file was recalculated from the revised source-year table. Annu
 ### Publisher-name normalization
 
 Normalized recurring publisher labels that had been left as raw hostnames, including ABC News, NBC News, CBS News, Sky News, NewsNation, PBS, NPR, France 24, Deutsche Welle, Roll Call, Axios, The Hill, The Times, ABC News Australia, Newsweek, Yahoo News, The Counteroffensive and the Center for European Policy Analysis. The display labels were updated consistently in the HTML and in the source-year, source-domain and publisher registries. URLs themselves were not altered.
+
+
+### Additional post-level annotation pass — 31 October 2026
+
+Added specific examples and editorial context for four further 2025 publishers and five further 2026 publishers.
+
+- **2025:** Associated Press (Day 1104, mobilisation and AWOL figures); BBC (Days 1073 and 1121, RFK Jr.'s confirmation testimony and the proposed European peacekeeping force); Fox News (Day 1078, Tucker Carlson and the network's political association); Foreign Affairs (Day 1302, a direct critique of “Europe's Delayed Reckoning With Russia”).
+- **2026:** Bloomberg (Days 1512 and 1570, Budanov's profile and Hal Brands's drone analysis); Financial Times (Days 1415 and 1539, the Budanov appointment and Yermak investigation); The Wall Street Journal and POLITICO (Day 1539, reporting on the Yermak investigation); The Atlantic (Day 1553, macro-level claims about Russia's position versus lived conditions).
+
+The new annotations explicitly preserve the author's criticism of a source's framing where present. A BBC URL/title mismatch in Day 1121 is flagged in the bibliography and is not silently corrected.
