@@ -238,7 +238,7 @@ The movie sucks. Sean is in love with himself and Z is also in love with himself
 
 [2](#footnote-anchor-2)
 
-[Russia Moves Forward With Plans to Buy Iranian Ballistic Missiles](https://www.washingtonpost.com/world/2024/01/04/kherson-marines-ukraine-villages-russia/). *Moscow in recent weeks has also begun receiving ballistic missiles from North Korea* ([The Wall Street Journal](http://wsj.com), January 4, 2024)
+[Russia Moves Forward With Plans to Buy Iranian Ballistic Missiles](https://www.wsj.com/world/russia-moves-forward-with-plans-to-buy-iranian-ballistic-missiles-cf3560e4?page=1). *Moscow in recent weeks has also begun receiving ballistic missiles from North Korea* ([The Wall Street Journal](http://wsj.com), January 4, 2024)
 
 ---
 
