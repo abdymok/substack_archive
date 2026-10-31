@@ -127,8 +127,8 @@ These are link occurrences across the entire source-year dataset, not publisher-
 
 | Category | 2023 | 2024 | 2025 | 2026 |
 |---|---:|---:|---:|---:|
-| News | 414 | 745 | 489 | 271 |
-| Ukrainian media | 64 | 128 | 65 | 50 |
+| News | 413 | 739 | 478 | 270 |
+| Ukrainian media | 65 | 130 | 65 | 51 |
 | Research | 53 | 78 | 64 | 32 |
 | Official sources | 36 | 51 | 58 | 47 |
 | Reference | 145 | 154 | 187 | 163 |
