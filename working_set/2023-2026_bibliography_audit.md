@@ -10,9 +10,9 @@ The combined annual link files contain:
 
 - 5,438 link occurrences
 - 4,218 distinct URL strings
-- 854 original source domains
+- 853 original source domains
 - 976 posts with at least one link
-- 821 links classified as personal archive, excluded from the external-source bibliography
+- 824 links classified as personal archive, excluded from the external-source bibliography
 
 Counts are link occurrences and distinct posts, not unique articles, readership, or influence. Inclusion is not an endorsement or a reliability rating.
 
@@ -35,29 +35,29 @@ This convention applies to source/article dates in the annual annotated bibliogr
 
 | Year | Recurring external publishers | Category breakdown |
 |---|---:|---|
-| 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
-| 2024 | 95 | 37 international news; 15 Ukrainian media; 11 research; 8 official; 11 reference; 13 platforms, specialist publications and other |
+| 2023 | 57 | 21 international news; 7 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other; 1 state media |
+| 2024 | 93 | 37 international news; 15 Ukrainian media; 10 research; 8 official; 10 reference; 13 platforms, specialist publications and other |
 | 2025 | 100 | 35 international news; 12 Ukrainian media; 10 research; 11 official; 13 reference; 18 platforms, specialist publications and other; 1 state media |
 | 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
-| **Total annual entries** | **309** | A publisher recurring in more than one year appears once in each relevant year. |
+| **Total annual entries** | **307** | A publisher recurring in more than one year appears once in each relevant year. |
 
 The category breakdown in this table follows the curated HTML section headings. The separate category-year CSV is a link-occurrence analysis using the finer categories in the normalized source registry, so its category totals are not expected to match the number of curated publisher entries.
 
-The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same core categories, with a separate state-media category where relevant.
+The 2023 annotations retain the original HTML's editorial approach, with publisher aliases and counts reconciled against the normalized source registry. The 2024–2026 entries use the normalized source registry and the same core categories, with a separate state-media category where relevant.
 
 
 
 ## Source-classification checkpoint — 31 October 2026
 
-The normalized link dataset now reconciles to 5,438 link occurrences, 4,218 distinct URL strings, 854 original source domains, 827 normalized publishers and 976 posts with at least one link. The personal-archive category contains 821 occurrences. Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The current residual is 306 domains / 306 occurrences in other / unclassified. Every remaining unclassified domain occurs only once, so no unclassified source meets the two-post inclusion threshold for the curated bibliography. The latest two passes reviewed 146 high-frequency and readily identifiable domains, including specialist media, commercial brands and services, reference archives, social profiles, research organizations, Ukrainian media and official institutions. A malformed NYT publisher URL was also corrected and merged into the existing NYT domain record.
+The normalized link dataset now reconciles to 5,438 link occurrences, 4,218 distinct URL strings, 853 original source domains, 812 normalized publishers and 976 posts with at least one link. The personal-archive category contains 824 occurrences. The domain-alias map documents 134 source-domain to publisher mappings, including the 80 recurring domains reviewed in the latest normalization pass. The residual is 299 domains / 299 occurrences in other / unclassified. Every remaining unclassified domain occurs only once, so no unclassified source meets the two-post inclusion threshold for the curated bibliography. The canonical NYT publisher URL has been corrected and reconciled across the post, annual references, consolidated link dataset and derived registries.
 
-The current source-classification files are the authoritative machine-readable comparison: normalized links, source registry, publisher registry, source-year table and category-year table. The HTML bibliography remains the curated 309 publisher-year reading guide; it is not a list of all 854 domains.
+The current source-classification files are the authoritative machine-readable comparison: normalized links, source registry, publisher registry, source-year table and category-year table. The HTML bibliography remains the curated 307 publisher-year reading guide; it is not a list of all 853 domains.
 
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `92813483ef2fcbea3bfdf20a08e197effbd093a0`
-- Verified: 309 entries; 57 / 95 / 100 / 57 by year. Added the recurring Substack platform entry to 2024 and the MSD corporate-source entry to 2025. Normalized the White House short-domain alias and the Ukraine Economic Outlook Substack domain in the source registry. The verified annual totals are 57 / 95 / 100 / 57.
+- Latest HTML commit: `ca11b425cacd90ab42deb73e0a29fe3c347682e2`
+- Verified: 307 entries; 57 / 93 / 100 / 57 by year. Consolidated duplicate publisher labels in 2023 and 2024, merged the Ukraine Economic Outlook website and Substack references, merged Google Books aliases, and added BelTA as a separate state-media entry. Updated publisher counts against the normalized source-year table. The verified annual totals are 57 / 93 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
 
@@ -70,7 +70,7 @@ The pass sampled the individual 2024 Markdown posts, including Days 675, 679, 68
 **Citation issue flagged:** Day 681 (January 5, 2024) describes a link as a *Washington Post* story about Ukrainian marines east of the Dnipro, but the hyperlink points to a `wsj.com` URL whose slug concerns Russian plans to buy Iranian ballistic missiles. The bibliography flags this mismatch. Do not silently repair the link without checking the original source.
 
 
-**Self-link correction:** The three 2024 URLs previously grouped under the generic Substack label all resolve to the author's own `abdymok.substack.com` posts titled “Setting the Plate Clear”. They were reclassified as personal archive in `2023-2026_source_year.csv`, merged into the 2024 `ukraine@war (Substack)` row, and removed from the external bibliography. The 2024 external-publisher count first fell from 96 to 95 after the self-link correction. The remaining one-off TinyURL entry was then excluded under the two-post rule, leaving 94 recurring external publishers. The category-year table moves three occurrences from social media to personal archive. The raw `open.substack.com` domain remains classified as a platform in the all-years domain registry because it also carries other authors' links in other years.
+**Self-link correction:** The three 2024 URLs previously grouped under the generic Substack label all resolve to the author's own `abdymok.substack.com` posts titled “Setting the Plate Clear”. They were reclassified as personal archive in `2023-2026_source_year.csv`, merged into the 2024 `ukraine@war (Substack)` row, and removed from the external bibliography. The 2024 external-publisher count first fell from 96 to 95 after the self-link correction. The remaining one-off TinyURL entry was then excluded under the two-post rule. A later publisher-alias reconciliation found that the displayed HTML still split Google Books and Ukraine Economic Outlook into duplicate labels; merging those aliases brings the verified 2024 total to 93. The category-year table moves three occurrences from social media to personal archive. The raw `open.substack.com` domain remains classified as a platform in the all-years domain registry because it also carries other authors' links in other years.
 
 
 **Additional 2024 short-link correction:** One of the two links recorded under `tinyurl.com` points to the author's own Day 947 comment and has been moved into personal archive. The remaining TinyURL is labelled “NV” in the July 5 post, but its destination could not be verified. It remains a one-off in the source-year data and is excluded from the recurring-publisher bibliography because it appears in only one post.
@@ -152,17 +152,19 @@ These are link occurrences across the entire source-year dataset, not publisher-
 
 | Category | 2023 | 2024 | 2025 | 2026 |
 |---|---:|---:|---:|---:|
-| News | 413 | 733 | 475 | 270 |
-| Ukrainian media | 65 | 130 | 65 | 51 |
-| Research | 53 | 81 | 66 | 32 |
-| Official sources | 36 | 51 | 58 | 47 |
-| Reference | 145 | 156 | 187 | 163 |
-| Social media | 167 | 246 | 239 | 157 |
-| Other / unclassified | 126 | 152 | 135 | 117 |
-| State media | 0 | 0 | 2 | 0 |
-| Personal archive | 243 | 168 | 114 | 295 |
+| Business / commercial | 28 | 17 | 19 | 27 |
+| News | 425 | 748 | 506 | 271 |
+| Ukrainian media | 70 | 141 | 66 | 56 |
+| Research | 55 | 84 | 58 | 37 |
+| Official sources | 51 | 52 | 63 | 49 |
+| Reference | 155 | 153 | 186 | 164 |
+| Social media | 177 | 246 | 234 | 156 |
+| Other / unclassified | 22 | 108 | 93 | 76 |
+| Personal / creative | 15 | 2 | 1 | 0 |
+| State media | 2 | 0 | 1 | 0 |
+| Personal archive | 248 | 166 | 114 | 296 |
 
-The category-year file was recalculated from the revised source-year table. Annual totals remain 1,248 (2023), 1,717 (2024), 1,341 (2025) and 1,132 (2026).
+The category-year file was regenerated from the normalized link dataset. Annual totals remain 1,248 (2023), 1,717 (2024), 1,341 (2025) and 1,132 (2026).
 
 
 ### Additional source corrections
@@ -631,17 +633,17 @@ The Nord Stream investigation is a useful example of why the adopted convention 
 - The author supplied the canonical New York Times URL for the March 19, 2025 article “Donald Trump Jr. mixes business and politics in Serbia, as protests there rage”: https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html.
 - Corrected the Day 1121 archived post and its 2025 linked-reference CSV row. The link text remains unchanged; only the destination URL was repaired.
 - The mistaken BBC URL (`cwyg28wd1k3o`) remains correctly attached to the separate sentence about the Israel–Hamas truce. The second BBC link (`c62z1w1y2neo`) is the report on UK-hosted planning for a proposed European peacekeeping force. The bibliography annotations have been separated accordingly; the earlier description of the `cwyg28wd1k3o` URL as a Russia–Ukraine limited-ceasefire report was incorrect.
-- Updated 2025 and aggregate source counts: New York Times 2025 = 89 links / 53 URLs / 52 posts; BBC 2025 = 13 links / 12 URLs / 10 posts. Aggregate publisher registry: New York Times 404 links / 219 URLs / 220 posts; BBC 24 links / 22 URLs / 20 posts. The `bbc.com` source-domain registry row is 23 links / 21 URLs / 19 posts; the `nytimes.com` row is 269 links / 218 URLs / 200 posts.
-- The consolidated HTML now identifies the corrected NYT source and no longer describes the BBC link as a New York Times mismatch. The large normalized-links CSV could not be fetched through the current GitHub file reader because of its size; it remains to be regenerated or reconciled from the annual linked-reference files during final dataset QA.
+- Updated 2025 and aggregate source counts: New York Times 2025 = 89 links / 53 URLs / 52 posts; BBC 2025 = 13 links / 12 URLs / 10 posts. Aggregate publisher registry: New York Times 405 links / 219 URLs / 220 posts; BBC 24 links / 22 URLs / 20 posts. The `bbc.com` source-domain registry row is 23 links / 21 URLs / 19 posts; the `nytimes.com` row is 270 links / 218 URLs / 200 posts.
+- The consolidated HTML now identifies the corrected NYT source and no longer describes the BBC link as a New York Times mismatch. The consolidated normalized-links CSV was retrieved through GitHub's blob endpoint and regenerated from the annual linked-reference records. It now reconciles to 5,438 occurrences and 4,218 URL strings; the derived source, publisher, source-year and category-year registries were rebuilt from it.
 
 
 ### Archive.ph publisher attribution audit — 31 October 2026
 
 - Reconciled the annual linked-reference CSVs for 2025 and 2026: **71 Archive.ph link occurrences across 64 distinct Archive.ph URLs**. Repeated references are retained as occurrences in the source CSVs; the new attribution dataset groups them by distinct URL and records the occurrence count.
 - Added `working_set/2023-2026_archive_ph_attribution.csv`, with the archive URL, capture identifier, year, post day/date, link text, occurrence count, attributed publisher, any original URL exposed by an Archive.ph `/o/` redirect, confidence, and the evidence used.
-- Publisher attribution is marked high confidence where the archived post's own footnote or surrounding text names the publisher, or where the Archive.ph outbound redirect exposes the original URL. Ten distinct URLs remain explicitly unresolved rather than being assigned a publisher by guesswork: `NiYZJ`, `IKOWC`, `UA0eg`, `phtqt`, `I0IqJ`, `5GN8i`, `dlzn1`, `wQqVh`, `w9hEP`, and `8JtWx`.
+- Publisher attribution is marked high confidence where the archived post's own footnote or surrounding text names the publisher, or where the Archive.ph outbound redirect exposes the original URL. Eight additional attributions were resolved in the follow-up pass: `NiYZJ` (The New York Review of Books), `UA0eg` (The Wall Street Journal, medium confidence), `5GN8i` (Financial Times), `I0IqJ` and `wQqVh` (The Atlantic), `dlzn1` (Foreign Affairs), `w9hEP` (Office of the President of Ukraine), and `8JtWx` (Radio Free Europe / Radio Liberty). Two URLs remain unresolved rather than being assigned a publisher by guesswork: `IKOWC` (Susan Crawford item) and `phtqt` (report about Tulsi Gabbard).
 - Corrected a bibliography attribution error discovered during the audit: the Day 1099 article “Ukraine agrees minerals deal with US” is identified in the archived post's footnote as a **Financial Times** article dated 26 February 2025, not a New York Times article. Updated item 27 in `2025_annotated_bibliography.md` accordingly. The Archive.ph copy remains the available link in the archive; the original publisher URL was not present in the post footnote.
-- The Archive.ph website itself was not directly accessible to the browser verification tool. Attribution therefore relies on the archived post's own contextual footnotes and the original URLs embedded in outbound redirect links. The ten low-confidence entries remain open for source-page recovery or author clarification.
+- The Archive.ph website itself was not directly accessible to the browser verification tool. Attribution therefore relies on the archived post's own contextual footnotes and the original URLs embedded in outbound redirect links. The two low-confidence entries remain open for source-page recovery or author clarification. The attribution file now contains 71 occurrences across 64 normalized Archive.ph URL strings and 62 capture IDs; two capture IDs remain unresolved.
 
 
 ### Final publication-date follow-up — 31 October 2026
