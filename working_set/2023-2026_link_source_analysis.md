@@ -3,13 +3,13 @@
 ## Scope and method
 
 - Link occurrences: 5438.
-- Distinct URL strings: 4219.
-- Original source domains: 855.
+- Distinct URL strings: 4218.
+- Original source domains: 854.
 - Posts represented: 976.
 - Publisher aliases are consolidated in the publisher-level comparison. Original domains and URLs remain in the link-level data for audit.
 - Classification is domain-based. Domains not confidently identified remain `other / unclassified`.
 - Counts are link occurrences, not unique articles or readership.
-- Four manual review passes have reclassified 523 link occurrences among the most frequently linked domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 448 domains / 513 occurrences.
+- Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The unclassified set has fallen from 587 domains / 1,036 occurrences to 306 domains / 306 occurrences. The remaining set is almost entirely single-occurrence domains.
 
 ## Annual totals
 
@@ -24,14 +24,17 @@
 
 | Category | 2023 | 2024 | 2025 | 2026 | Total |
 |---|---:|---:|---:|---:|---:|
-| Ukrainian media | 64 | 124 | 55 | 46 | 289 |
-| news | 420 | 760 | 522 | 282 | 1984 |
-| official sources | 36 | 51 | 58 | 47 | 192 |
-| other / unclassified | 126 | 149 | 126 | 112 | 513 |
-| personal archive | 243 | 164 | 114 | 295 | 816 |
-| reference | 140 | 150 | 184 | 161 | 635 |
-| research | 52 | 77 | 50 | 33 | 212 |
-| social media | 167 | 242 | 232 | 156 | 797 |
+| business / commercial | 26 | 13 | 14 | 23 | 76 |
+| news | 431 | 761 | 519 | 279 | 1990 |
+| official sources | 43 | 51 | 60 | 47 | 201 |
+| other / unclassified | 31 | 130 | 109 | 87 | 357 |
+| personal / creative | 14 | 2 | 0 | 0 | 16 |
+| personal archive | 248 | 164 | 114 | 295 | 821 |
+| reference | 156 | 150 | 185 | 163 | 654 |
+| research | 61 | 78 | 53 | 36 | 228 |
+| social media | 170 | 242 | 232 | 156 | 800 |
+| state media | 1 | 0 | 0 | 0 | 1 |
+| Ukrainian media | 67 | 126 | 55 | 46 | 294 |
 
 ## Leading normalized publishers by year
 
