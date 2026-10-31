@@ -6464,7 +6464,7 @@ Looking on the positive side, [Russian KIA counts](https://russian-casualties.in
 
 [4](#footnote-anchor-4)
 
-[Z lays out how Ukraine can win, if the West loses its fear of Putin](https://www.inquirer.com/opinion/Z-ukraine-war-interview-trudy-rubin-20240630.html). *“It is impossible to help Ukraine with one hand and shake Putin’s hand with the other.”* ([The Philadelphia Inquirer](https://www.inquirer.com/), July 1, 2024)
+[Z lays out how Ukraine can win, if the West loses its fear of Putin](https://www.inquirer.com/opinion/Z-ukraine-war-interview-trudy-rubin-20240630.html). *“It is impossible to help Ukraine with one hand and shake Putin’s hand with the other.”* ([The Philadelphia Inquirer](https://www.inquirer.com/), June 30, 2024)
 
 ---
 
