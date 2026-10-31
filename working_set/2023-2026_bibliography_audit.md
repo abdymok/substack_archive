@@ -26,12 +26,12 @@ Counts are link occurrences and distinct posts, not unique articles, readership,
 | 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
 | **Total annual entries** | **308** | A publisher recurring in more than one year appears once in each relevant year. |
 
-The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same six broad headings.
+The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same core categories, with a separate state-media category where relevant.
 
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `14e62db02b0326090b87fcd66021e50ce746452f`
+- Latest HTML commit: `5681759caa8e27c41a95584e176359e8bc09ac59`
 - Verified: 308 entries; 57 / 94 / 100 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
@@ -145,3 +145,8 @@ The category-year file was recalculated from the revised source-year table. Annu
 - Reclassified RBC-Ukraine and Euromaidan Press as Ukrainian media, including their English-language domains.
 - Added a distinct `state media` category for RT rather than folding a Russian state broadcaster into independent international news.
 - Normalized publisher display names for RBC-Ukraine, Euromaidan Press, LIGA.net, UNITED24 Media, Poetry Foundation, the Centre for Defence Strategies, Mindscape and The New York Post.
+
+
+### Publisher-name normalization
+
+Normalized recurring publisher labels that had been left as raw hostnames, including ABC News, NBC News, CBS News, Sky News, NewsNation, PBS, NPR, France 24, Deutsche Welle, Roll Call, Axios, The Hill, The Times, ABC News Australia, Newsweek, Yahoo News, The Counteroffensive and the Center for European Policy Analysis. The display labels were updated consistently in the HTML and in the source-year, source-domain and publisher registries. URLs themselves were not altered.
