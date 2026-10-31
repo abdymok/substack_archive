@@ -397,7 +397,7 @@ That Donald thinks so indicates he is spending too much time at the club with Pa
 
 [2](#footnote-anchor-2)
 
-[Pardoned by Trump, Manafort Is Back and Looking for Foreign Work](https://www.nytimes.com/2025/01/12/us/politics/trump-manafort.html?searchResultPosition=1). *The president-elect’s 2016 campaign chairman, four years after receiving clemency, is testing the international market with a team of Trump-linked consultants* ([The New York Times](http://nyt.com), January 13, 2025)
+[Pardoned by Trump, Manafort Is Back and Looking for Foreign Work](https://www.nytimes.com/2025/01/12/us/politics/trump-manafort.html?searchResultPosition=1). *The president-elect’s 2016 campaign chairman, four years after receiving clemency, is testing the international market with a team of Trump-linked consultants* ([The New York Times](http://nyt.com), January 12, 2025)
 
 ---
 
@@ -3298,7 +3298,7 @@ Steven is hopeless.
 
 [1](#footnote-anchor-1)
 
-[Russia plays down swift progress in talks after Trump envoy’s optimism.](https://www.washingtonpost.com/world/2025/03/24/russia-us-talks-riyadh-ukraine-ceasefire/) *Trump’s envoy Steve Witkoff raised hopes of “real progress” on a Black Sea ceasefire in Monday’s peace talks in Riyadh* ([The Washington Post](https://www.washingtonpost.com/world/2025/03/24/russia-us-talks-riyadh-ukraine-ceasefire/), March 25, 2025)
+[Russia plays down swift progress in talks after Trump envoy’s optimism.](https://www.washingtonpost.com/world/2025/03/24/russia-us-talks-riyadh-ukraine-ceasefire/) *Trump’s envoy Steve Witkoff raised hopes of “real progress” on a Black Sea ceasefire in Monday’s peace talks in Riyadh* ([The Washington Post](https://www.washingtonpost.com/world/2025/03/24/russia-us-talks-riyadh-ukraine-ceasefire/), March 24, 2025)
 
 ---
 
@@ -6642,7 +6642,7 @@ Have a great weekend!
 
 [2](#footnote-anchor-2)
 
-[This Oregon Native Went to Kyiv as a Volunteer. He Died in a Russian Attack](https://www.nytimes.com/2025/06/19/world/europe/ukraine-russia-war-american-fred-grandy.html). *Fred Grandy was upset by the United States’ reversal in its support for Ukraine, his family said. This week, he was among the 28 people killed in a drone and missile assault* ([The New York Times](http://nyt.com), June 18, 2025)
+[This Oregon Native Went to Kyiv as a Volunteer. He Died in a Russian Attack](https://www.nytimes.com/2025/06/19/world/europe/ukraine-russia-war-american-fred-grandy.html). *Fred Grandy was upset by the United States’ reversal in its support for Ukraine, his family said. This week, he was among the 28 people killed in a drone and missile assault* ([The New York Times](http://nyt.com), June 19, 2025)
 
 ---
 
@@ -7058,7 +7058,7 @@ And Bridget is chatted up by David.
 
 [1](#footnote-anchor-1)
 
-[Trump allies caught off guard by Pentagon’s Ukraine weapons freeze](https://www.politico.com/news/2025/07/02/ukraine-weapons-freeze-elbridge-colby-00438156). *The decision left officials on both sides of the Atlantic scrambling to find out how long the pause might last* ([Politico](http://politico.com), July 3, 2025)
+[Trump allies caught off guard by Pentagon’s Ukraine weapons freeze](https://www.politico.com/news/2025/07/02/ukraine-weapons-freeze-elbridge-colby-00438156). *The decision left officials on both sides of the Atlantic scrambling to find out how long the pause might last* ([Politico](http://politico.com), July 2, 2025)
 
 [2](#footnote-anchor-2)
 
@@ -7413,7 +7413,7 @@ For more info, contact [Brave1](https://brave1.gov.ua/en/).
 
 [2](#footnote-anchor-2)
 
-[As Drone Warfare Evolves, Pentagon Sees Its Own Vulnerabilities](https://www.nytimes.com/2025/07/10/us/politics/us-military-drone-technology.html?searchResultPosition=3). *Israel and Ukraine have used drones against their adversaries in audacious ways that have helped the Pentagon see the need for new technology.* ([The New York Times](http://nyt.com), July 12, 2025)
+[As Drone Warfare Evolves, Pentagon Sees Its Own Vulnerabilities](https://www.nytimes.com/2025/07/10/us/politics/us-military-drone-technology.html?searchResultPosition=3). *Israel and Ukraine have used drones against their adversaries in audacious ways that have helped the Pentagon see the need for new technology.* ([The New York Times](http://nyt.com), July 10, 2025)
 
 ---
 
@@ -9178,7 +9178,7 @@ Unfortunately, surrender isn't an option—that would mean death or exile. So he
 
 [2](#footnote-anchor-2)
 
-[What, Exactly, Was That Cabinet Meeting?](https://www.nytimes.com/2025/08/26/us/politics/trump-cabinet-meeting.html) *As hours ticked by, President Trump played reality television host — “This has never been done before!” — as his cabinet members offered praise. It was a glimpse of how he runs his presidency* ([The New York Times](http://nyt.com), August 27, 2025)
+[What, Exactly, Was That Cabinet Meeting?](https://www.nytimes.com/2025/08/26/us/politics/trump-cabinet-meeting.html) *As hours ticked by, President Trump played reality television host — “This has never been done before!” — as his cabinet members offered praise. It was a glimpse of how he runs his presidency* ([The New York Times](http://nyt.com), August 26, 2025)
 
 [3](#footnote-anchor-3)
 
@@ -9765,7 +9765,7 @@ Which got me thinking about illiberalism and what US Supreme Court Justice Rober
 
 [1](#footnote-anchor-1)
 
-[National Guard troops deployed in D.C. add sanitation, landscaping duties](https://www.washingtonpost.com/national-security/2025/08/27/dc-national-guard-trash-removal-trump-takeover/). Service members say they’re glad to help the National Park Service. But some question if trash removal and groundskeeping are an appropriate use of the military (The Washington Post, September 5, 2025)
+[National Guard troops deployed in D.C. add sanitation, landscaping duties](https://www.washingtonpost.com/national-security/2025/08/27/dc-national-guard-trash-removal-trump-takeover/). Service members say they’re glad to help the National Park Service. But some question if trash removal and groundskeeping are an appropriate use of the military (The Washington Post, August 27, 2025)
 
 [2](#footnote-anchor-2)
 
@@ -10424,7 +10424,7 @@ The nuclear balance is collapsing! It’s time to react!
 
 [3](#footnote-anchor-3)
 
-[Trump Issues Warning Based on Unproven Link Between Tylenol and Autism](https://www.nytimes.com/2025/09/22/health/kennedy-autism-tylenol-trump.html). *Top U.S. health officials urged pregnant women not to use acetaminophen, the active ingredient in Tylenol, claiming it could cause autism, though studies have been inconclusive* ([The New York Times](http://nyt.com), September 23, 2025)
+[Trump Issues Warning Based on Unproven Link Between Tylenol and Autism](https://www.nytimes.com/2025/09/22/health/kennedy-autism-tylenol-trump.html). *Top U.S. health officials urged pregnant women not to use acetaminophen, the active ingredient in Tylenol, claiming it could cause autism, though studies have been inconclusive* ([The New York Times](http://nyt.com), September 22, 2025)
 
 ---
 
@@ -11887,7 +11887,7 @@ The video above and intervening two days have confirmed this diagnosis with depr
 
 [1](#footnote-anchor-1)
 
-[3 Years Ago It Was a Casting Agency. Now It Has $1 Billion in Drone Contracts](https://www.nytimes.com/2025/10/26/world/europe/ukraine-fire-point-drones-flamingo.html?searchResultPosition=2). Among the flood of Ukrainian defense start-ups, one stands out to both its supporters and its critics: the drone maker Fire Point. (The New York Times, August 26, 2025)
+[3 Years Ago It Was a Casting Agency. Now It Has $1 Billion in Drone Contracts](https://www.nytimes.com/2025/10/26/world/europe/ukraine-fire-point-drones-flamingo.html?searchResultPosition=2). Among the flood of Ukrainian defense start-ups, one stands out to both its supporters and its critics: the drone maker Fire Point. (The New York Times, October 26, 2025)
 
 [2](#footnote-anchor-2)
 
