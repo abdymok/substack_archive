@@ -31,10 +31,18 @@ The 2023 categories and annotations are retained from the original HTML template
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Commit: `0c50a004f334dd13cc7742bb0317cb3e213c25b9`
+- Latest HTML commit: `fa0601d2f7d3589001d3819ac8032f79e742381d`
 - Verified: 310 entries; 57 / 96 / 100 / 57 by year; 22 opening and closing section tags; no empty example links.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
-- Thirty high-use entries (ten per year for 2024, 2025 and 2026) have been enriched with notes drawn from the actual archive text and the existing annual research drafts. The other later-year annotations remain conservative source-role descriptions with representative links. They should be enriched in a further editorial pass rather than treated as equally detailed.
+- Forty-four entries in the 2024–2026 sections now have more specific annotations: 24 for 2024, ten for 2025 and ten for 2026. The 2024 additions draw on individual post files and linked-reference records, with examples from international news, Ukrainian media, research, polling and official sources. The remaining 2024–2026 annotations still need post-level enrichment; they should not be treated as equally detailed.
+
+### 2024 editorial pass: first batches
+
+Updated the 2024 section with post-level annotations for 14 additional publishers, bringing the number of enriched entries in that year to 24. The new notes cover The Washington Post, CNN, Financial Times, Bloomberg, Foreign Affairs, ZN.ua, POLITICO Europe, the Office of the President of Ukraine, Ukrainska Pravda, Interfax-Ukraine, Censor.NET, DeepStateMap, the Institute for the Study of War and the Kyiv International Institute of Sociology.
+
+The pass sampled the individual 2024 Markdown posts, including Days 675, 681, 696, 707, 743, 799, 820, 824, 849, 883, 897, 904, 924, 953, 958, 959 and 986. The source-level descriptions now distinguish reporting, official statements, survey evidence, operational mapping and policy argument, and note when the archive disputes a source rather than endorsing it.
+
+**Citation issue flagged:** Day 681 (January 5, 2024) describes a link as a *Washington Post* story about Ukrainian marines east of the Dnipro, but the hyperlink points to a `wsj.com` URL whose slug concerns Russian plans to buy Iranian ballistic missiles. The bibliography flags this mismatch. Do not silently repair the link without checking the original source.
 
 ## 2026 archive correction
 
