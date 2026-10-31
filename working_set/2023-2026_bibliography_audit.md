@@ -421,3 +421,11 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected the September 8 Day 1293 post's Washington Post footnote for “National Guard troops deployed in D.C. add sanitation, landscaping duties” from September 5 to August 27, 2025. The article page, publisher sitemap and contemporaneous citations all identify August 27.
 - Other sampled checks included September 2 Reuters reporting on Putin and Xi, September 2 Financial Times analysis, September 4 CNN reporting, September 16 Foreign Affairs and NYT opinion pieces, September 23 Politico and NYT stories, and September 26 Interfax-Ukraine reporting. No further confirmed date correction emerged in this sample.
 - This is a spot-check, not exhaustive verification of every September URL. Evidence for the corrected Washington Post date: `turn440035search0`, `turn440035search3`, `turn440035search1`.
+
+
+### October 2025 citation-date corrections and checks
+
+- Corrected the October 8 Day 1323 footnote for the 1988 NYT article “Magnitogorsk Journal; Russians Take a Stroll Down Easy Street, U.S.A.” from August 21 to August 12, 1988. The publisher URL and independent bibliography both give August 12.
+- Corrected the October 27 Day 1342 footnote for “3 Years Ago It Was a Casting Agency. Now It Has $1 Billion in Drone Contracts” from August 26 to October 26, 2025. The URL, publisher article date and contemporaneous copies all confirm October 26.
+- Other sampled checks included the October 2 Economist report, October 5 Reuters Tomahawk report, October 8 ISW assessment, October 14 ISW report, October 17 Financial Times piece, October 26 Guardian Kupyansk report and October 27 ISW assessment. No other confirmed citation-date correction emerged in this sample.
+- This is a spot-check, not exhaustive verification of every October URL. Evidence: `turn385062search0`, `turn564110search0`, `turn564110search1`, `turn564110search2`.
