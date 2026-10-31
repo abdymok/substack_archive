@@ -216,7 +216,7 @@ The wolf in the Botanical Garden was never found. The trackers eventually went h
 
 ¹⁷ [“Day 748,”](https://abdymok.substack.com/p/day-748) ukraine@war, March 13, 2024.
 
-¹⁸ Year-end 2024: [“Day 1038”](https://abdymok.substack.com/p/day-1036) and [“Day 1042,”](https://abdymok.substack.com/p/day-1042) ukraine@war, December 27–31, 2024.
+¹⁸ Year-end 2024: [“Day 1038”](https://abdymok.substack.com/p/day-1038) and [“Day 1042,”](https://abdymok.substack.com/p/day-1042) ukraine@war, December 27–31, 2024.
 
 ¹⁹ [“Day 1044,”](https://abdymok.substack.com/p/day-1044) ukraine@war, January 2, 2025. Butusov: Facebook, January 1, 2025. On the 155th Brigade: David Axe, Forbes, January 1, 2025; Le Monde, January 7, 2025.
 
