@@ -9,10 +9,10 @@ A publisher/source is included in a given year when it appears in **two or more 
 The combined annual link files contain:
 
 - 5,438 link occurrences
-- 4,219 distinct URL strings
-- 855 original source domains
+- 4,218 distinct URL strings
+- 854 original source domains
 - 976 posts with at least one link
-- 820 links classified as personal archive, excluded from the external-source bibliography
+- 821 links classified as personal archive, excluded from the external-source bibliography
 
 Counts are link occurrences and distinct posts, not unique articles, readership, or influence. Inclusion is not an endorsement or a reliability rating.
 
@@ -42,6 +42,14 @@ This convention applies to source/article dates in the annual annotated bibliogr
 | **Total annual entries** | **307** | A publisher recurring in more than one year appears once in each relevant year. |
 
 The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same core categories, with a separate state-media category where relevant.
+
+
+
+## Source-classification checkpoint — 31 October 2026
+
+The normalized link dataset now reconciles to 5,438 link occurrences, 4,218 distinct URL strings, 854 original source domains and 976 posts with at least one link. The personal-archive category contains 821 occurrences. Six manual review passes have reclassified 751 link occurrences among the most frequently linked domains. The current residual is 306 domains / 306 occurrences in other / unclassified, almost entirely one-off domains. The latest two passes reviewed 146 high-frequency and readily identifiable domains, including specialist media, commercial brands and services, reference archives, social profiles, research organizations, Ukrainian media and official institutions. A malformed NYT publisher URL was also corrected and merged into the existing NYT domain record.
+
+The current source-classification files are the authoritative machine-readable comparison: normalized links, source registry, publisher registry, source-year table and category-year table. The HTML bibliography remains the curated 307 publisher-year reading guide; it is not a list of all 854 domains.
 
 ## Current HTML draft
 
