@@ -200,3 +200,12 @@ All 57 publisher link/post counts in the original 2023 section match the 2023 li
 - Recounted the 2024 section after the edit: 94 publisher entries; remaining generic “News publisher.” openings: 0.
 - This is descriptive cleanup, not a new claim that every 2024 source or representative link has been independently re-verified.
 - HTML commit: `ffed96b8831261e4d116f5a595d6e944ed08bb6c`.
+
+
+### 2024 representative-link verification — Washington Post, Day 681
+
+- Read the original archived post, `working_set/posts/2024/2024-01-05_day-681.md`, and cross-checked the cited headline against the publisher's article.
+- Confirmed the intended story is Lizzie Johnson and Serhii Korolchuk, “Ukraine marines recount deadly mission to free towns east of Dnieper River,” *The Washington Post*, January 4, 2024: https://www.washingtonpost.com/world/2024/01/04/kherson-marines-ukraine-villages-russia/ .
+- The original post's hyperlink instead points to a *Wall Street Journal* story about Russian plans to buy Iranian ballistic missiles. This is a genuine URL/title mismatch, not a redirect or an ambiguous publisher label.
+- Updated the 2024 *Washington Post* bibliography entry to link to the verified intended article and to state explicitly that the original post's URL is wrong. The original post and source CSV were not changed. Counts remain 110 links across 45 posts.
+- Verification source: the Washington Post article itself, found by exact-title search. HTML commit: `f8c36f9369e42c86be610f22c5a947850447d0bc`.
