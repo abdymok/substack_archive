@@ -642,3 +642,18 @@ Day 843's separate POLITICO citation remains June 14, 2024. Secondary references
 Retained Kyiv-time ambiguities requiring original timestamps: Day 775 (Washington Post original versus update date), Day 843 (POLITICO), Day 1042 (Axios), Day 1108 (NYT Kyiv café article), Day 1205 (NYT McConnell article) and Day 1373 (The Economist). Day 813 retains May 15, 2024: the URL is dated May 14, while the post text and contemporaneous NYT edition identify May 15. Keep that online-publication/edition distinction visible.
 
 Machine-readable case log: `2023-2026_publication_date_review_remaining.csv`.
+
+
+### Archive.ph publisher attribution — 31 October 2026
+
+The 71 Archive.ph link occurrences (35 in 2025, 36 in 2026) are now recorded individually in `2023-2026_archive_ph_attribution.csv`. Current attribution status:
+
+- 49 high-confidence publisher attributions.
+- 19 provisional attributions based on explicit publisher names or source context in the post.
+- 3 unresolved: Susan Crawford (Day 1135), TLDR (Day 1447), and the American-alignment-with-Russia item (Day 1517).
+
+One high-confidence intended publisher is accompanied by a bad destination: Day 1133's post identifies a New York Times op-ed, “Trump’s Ukraine Betrayal Is a Reality Check for Taiwan,” but the Archive.ph link resolves to a Bloomberg 2024 Trump interview. This is recorded as a post-level link mismatch; the canonical NYT URL has not been guessed.
+
+The attributed set includes Financial Times, The Atlantic, The Wall Street Journal, The Washington Post, The New York Times, The New York Review of Books, The Times, The Irish Times, Die Zeit, Time, Der Spiegel, la Repubblica, Le Point, Bloomberg, Axios, Visual Capitalist, The Economist, Foreign Affairs, The Spectator Australia, Herald Sun, the Office of the President of Ukraine and Truth Social (platform/original post).
+
+The normalized source counts have not yet been reallocated. Do not rebuild annual publisher totals until the 19 provisional and 3 unresolved cases have been reviewed and the Day 1133 link mismatch is resolved.
