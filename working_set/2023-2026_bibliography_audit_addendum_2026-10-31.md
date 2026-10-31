@@ -9,7 +9,7 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 - All-years appendix: 819 one-day source-year entries, representing 938 link occurrences. The 306 one-off unclassified domains are included for later domain review.
 - Recurring platform/pointer index: 19 source-year entries covering Google, Google Books, Perplexity, Amazon, bit.ly, TinyURL, Archive.ph, Tootsie Club and Google NotebookLM. These remain included in the 309 recurring-source total.
 - Archive.ph attribution ledger: 71 occurrences, 58 high-confidence, 12 medium-confidence and 1 unresolved (Day 1135). Day 1447 is attributed to the Financial Times; Day 1517 is attributed to The Atlantic. Day 1133's intended NYT source is identified, but its Archive.ph destination resolves to an unrelated Bloomberg capture.
-- Post-level anomaly review: 21 grouped cases, 18 reviewed/preserved and 3 open: Day 440ish, Day 1121 (NYT label / BBC URL), and Day 1133 (NYT title / Bloomberg capture).
+- Post-level anomaly review: 21 grouped cases, 19 reviewed/preserved/corrected and 2 open: Day 440ish and Day 1121 (NYT label / BBC URL). Day 1133's NYT/Bloomberg mismatch has been repaired.
 - Day 1042 Axios annotation corrected to December 30, 2024, following the date displayed on the publisher page. The exact original publication time was not exposed in the accessible page text.
 - Day 1121's March 20 Kyiv date is supported by the NYT article's March 19, 2025 update at 7:45 p.m. ET (March 20, 02:45 in Kyiv). The canonical NYT URL remains unverified, so the BBC destination has not been replaced with a guessed URL.
 - Reader-facing HTML cleanup: internal audit phrases and correction-history wording removed; generic “linked item” anchors replaced; known tracking parameters stripped; Kyiv Independent/Musk attribution corrected. The 2024 Der Spiegel and RUSI representative links now point to articles rather than homepages.
@@ -66,5 +66,10 @@ Day 620: restored the Kyiv Independent canonical URL for its August 11, 2023 rep
 - Day 370: two Washington Post link-label rows now point to the canonical article, “Zelensky takes on Ukraine’s top internal enemy.” The post, annual references, normalized dataset and Z review queue are synchronized.
 - Archive.ph Day 1374: two references verified as The Atlantic’s “Ukraine Says It Won’t Give Up Land to Russia.”
 - Archive.ph Days 1496, 1539, 1562, 1612 and 1699: five publisher attributions upgraded to high confidence with canonical article evidence. Day 1496 and Day 1699 are The Atlantic; Days 1539, 1562 and 1612 are the Financial Times.
-- Archive.ph ledger now stands at 58 high-confidence, 12 medium-confidence and 1 unresolved out of 71 occurrences. Day 1135 is the sole unresolved publisher. Day 1133 remains a known destination mismatch.
+- Archive.ph ledger now stands at 58 high-confidence, 12 medium-confidence and 1 unresolved out of 71 occurrences. Day 1135 is the sole unresolved publisher. Day 1133's original Archive.ph/Bloomberg mismatch is documented as corrected in the post.
 - Z review queue: 11 verified rows across 10 archive days; 104 candidates remain pending.
+
+
+## Day 1133 repair
+
+Recovered the canonical NYT URL for “Trump’s Ukraine Betrayal Is a Reality Check for Taiwan” from the linked copy on WorldNews.bg: `https://www.nytimes.com/2025/04/01/opinion/taiwan-china-trump.html`. Replaced the incorrect Archive.ph/Bloomberg destination in the Day 1133 post and synchronized the 2025 linked-reference CSV and normalized dataset. The Archive.ph ledger retains the original URL and records the mismatch as corrected in the post. P21 is closed. The post-level review now has 19 reviewed/preserved/corrected cases and 2 open cases: Day 440ish and Day 1121.
