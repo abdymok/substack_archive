@@ -148,10 +148,10 @@ A record of Trump's repeated promise to end the war quickly. Useful as a baselin
 
 A contemporaneous account of the incoming administration's changing public timetable. Useful for following the gap between campaign rhetoric and the practical diplomacy that followed. Linked on 10 January.
 
-### 27. The New York Times. “Ukraine agrees minerals deal with US.” April 2025.
+### 27. The Financial Times. “Ukraine agrees minerals deal with US.” 26 February 2025.
 [Archive copy](https://archive.ph/N9QHB)
 
-A report on the negotiations over a U.S.-Ukraine minerals agreement. The deal became a major symbol of the new administration's transactional approach to support for Ukraine. The report should be read alongside the signed agreement itself and official explanations from both governments. Linked on 26 February; the archive revisited the agreement in May.
+A contemporaneous report on the negotiations over a U.S.-Ukraine minerals agreement. The deal became a major symbol of the new administration's transactional approach to support for Ukraine. Read it alongside the signed agreement and official explanations from both governments. Linked on 26 February. The archived post's footnote identifies the Financial Times as the original publisher.
 
 ### 28. The Kyiv Independent. “The full text of the US-Ukraine minerals agreement.” May 2025.
 [Agreement text](https://kyivindependent.com/the-full-text-of-the-us-ukraine-minerals-agreement/)
