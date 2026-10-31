@@ -83,11 +83,12 @@ The four existing annual Markdown files (`2023_annotated_bibliography.md` throug
 
 The consolidated HTML was updated after the earlier audit checkpoint.
 
-- Latest HTML commit: `2c805624b5c9ce3dc602b2874f1c169d56322d17`.
-- Latest HTML content SHA: `19f7faddf6b39ff5258baac022fd3717bd755b26`.
+- Latest HTML commit: `0cb2dc85c4746d9eccfd7d717198c6798d922668`.
+- Latest HTML content SHA: `50cd4b7438e01de7babc8abe06648335c6be3604`.
 - Recounted the HTML sections: 57 entries (2023), 94 (2024), 100 (2025), and 57 (2026); 308 annual entries in total.
 - Checked all four sections for the repeated generic news-publisher opening. None remain.
 - Rewrote 46 such openings in 2025 and 28 in 2026, and removed the last four in 2024. The new openings distinguish newsrooms, wire services, political publications, broadcasters, aggregators, specialist publications, advocacy outlets and independent projects. Existing link examples and year-specific notes were retained.
+- Added post-level context for five major 2025 publishers (The New York Times, Reuters, The Atlantic, The Guardian and CNN) and five 2026 publishers (The New York Times, Reuters, The Guardian, CNN and The Washington Post). These additions describe particular uses in the author's posts, including explicit criticism of reporting or framing, and distinguish a reported claim or projected capability from an established fact.
 - 2023's original 57 entries remain unchanged.
 
 ### Remaining work
@@ -97,3 +98,10 @@ The consolidated HTML was updated after the earlier audit checkpoint.
 3. Review raw-domain publisher names and aliases, including whether a platform or host is being mistaken for the originating publisher.
 4. Audit representative links, date spans, counts and title/URL mismatches.
 5. Re-run the count and structural checks after editorial changes, then prepare a rendered browser preview.
+
+
+### Post-level examples added in this pass
+
+**2025:** Day 1079 and Day 1204 for The New York Times; Days 1059 and 1254 for Reuters; Days 1100 and 1197 for The Atlantic; Days 1087 and 1342 for The Guardian; Days 1154 and 1293 for CNN. The annotations now record where the author challenges a framing, disputes details, or uses an article as a contemporaneous record.
+
+**2026:** Days 1423 and 1657 for The New York Times; Day 1624 for Reuters; Days 1421 and 1653 for The Guardian; Day 1546 for CNN; Day 1423 for The Washington Post. The notes distinguish outside reporting from the author's local account and interpretation, and preserve caveats around projections and unresolved claims.
