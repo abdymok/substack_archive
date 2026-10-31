@@ -1,34 +1,43 @@
-"category","year","link_occurrences","share_of_year"
-"news","2023","413","0.3309"
-"news","2024","733","0.4269"
-"news","2025","475","0.3542"
-"news","2026","270","0.2385"
-"official sources","2023","36","0.0288"
-"official sources","2024","51","0.0297"
-"official sources","2025","58","0.0433"
-"official sources","2026","47","0.0415"
-"other / unclassified","2023","126","0.1010"
-"other / unclassified","2024","152","0.0885"
-"other / unclassified","2025","135","0.1007"
-"other / unclassified","2026","117","0.1034"
-"personal archive","2023","243","0.1947"
-"personal archive","2024","168","0.0978"
-"personal archive","2025","114","0.0850"
-"personal archive","2026","295","0.2606"
-"reference","2023","145","0.1162"
-"reference","2024","156","0.0909"
-"reference","2025","187","0.1394"
-"reference","2026","163","0.1440"
-"research","2023","53","0.0425"
-"research","2024","81","0.0472"
-"research","2025","66","0.0492"
-"research","2026","32","0.0283"
-"social media","2023","167","0.1338"
-"social media","2024","246","0.1433"
-"social media","2025","239","0.1782"
-"social media","2026","157","0.1387"
-"state media","2025","2","0.0015"
-"Ukrainian media","2023","65","0.0521"
-"Ukrainian media","2024","130","0.0757"
-"Ukrainian media","2025","65","0.0485"
-"Ukrainian media","2026","51","0.0451"
+category,year,link_occurrences,share_of_year
+business / commercial,2023,26,0.0208
+business / commercial,2024,13,0.0076
+business / commercial,2025,14,0.0104
+business / commercial,2026,23,0.0203
+news,2023,431,0.3454
+news,2024,761,0.4432
+news,2025,519,0.3870
+news,2026,279,0.2465
+official sources,2023,43,0.0345
+official sources,2024,51,0.0297
+official sources,2025,60,0.0447
+official sources,2026,47,0.0415
+other / unclassified,2023,31,0.0248
+other / unclassified,2024,130,0.0757
+other / unclassified,2025,109,0.0813
+other / unclassified,2026,87,0.0769
+personal / creative,2023,14,0.0112
+personal / creative,2024,2,0.0012
+personal archive,2023,248,0.1987
+personal archive,2024,164,0.0955
+personal archive,2025,114,0.0850
+personal archive,2026,295,0.2606
+reference,2023,140,0.1122
+reference,2024,150,0.0874
+reference,2025,184,0.1372
+reference,2026,161,0.1422
+reference / archive,2023,16,0.0128
+reference / archive,2025,1,0.0007
+reference / archive,2026,2,0.0018
+research,2023,61,0.0489
+research,2024,78,0.0454
+research,2025,53,0.0395
+research,2026,36,0.0318
+social media,2023,170,0.1362
+social media,2024,242,0.1409
+social media,2025,232,0.1730
+social media,2026,156,0.1378
+state media,2023,1,0.0008
+Ukrainian media,2023,67,0.0537
+Ukrainian media,2024,126,0.0734
+Ukrainian media,2025,55,0.0410
+Ukrainian media,2026,46,0.0406
