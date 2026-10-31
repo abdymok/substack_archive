@@ -35,13 +35,13 @@ This convention applies to source/article dates in the annual annotated bibliogr
 
 | Year | Recurring external publishers | Category breakdown |
 |---|---:|---|
-| 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
-| 2024 | 95 | 37 international news; 15 Ukrainian media; 11 research; 8 official; 11 reference; 13 platforms, specialist publications and other |
-| 2025 | 100 | 35 international news; 12 Ukrainian media; 10 research; 11 official; 13 reference; 18 platforms, specialist publications and other; 1 state media |
-| 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
+| 2023 | 58 | 21 international news; 8 Ukrainian media; 5 research and analysis; 5 official sources; 8 reference and archives; 10 social media and other; 1 state media |
+| 2024 | 94 | 42 international news; 14 Ukrainian media; 10 research and analysis; 8 official sources; 8 reference and archives; 9 social media; 2 business and commercial; 1 platforms and pointers |
+| 2025 | 100 | 45 international news; 10 Ukrainian media; 8 research and analysis; 12 official sources; 12 reference and archives; 10 social media; 3 business and commercial |
+| 2026 to Oct. 28 | 57 | 27 international news; 8 Ukrainian media; 4 research and analysis; 4 official sources; 5 reference and archives; 7 social media; 2 business and commercial |
 | **Total annual entries** | **309** | A publisher recurring in more than one year appears once in each relevant year. |
 
-The category breakdown in this table follows the curated HTML section headings. The separate category-year CSV is a link-occurrence analysis using the finer categories in the normalized source registry, so its category totals are not expected to match the number of curated publisher entries.
+The category breakdown in this table follows the current curated HTML section headings. The separate category-year CSV is a link-occurrence analysis using the finer categories in the normalized source registry, so its category totals are not expected to match the number of curated publisher entries.
 
 The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same core categories, with a separate state-media category where relevant.
 
@@ -198,14 +198,14 @@ The final count reconciliation exposed two publishers split across multiple host
 - **Yahoo News:** consolidated `yahoo.com`, `uk.news.yahoo.com`, `news.yahoo.com` and `ca.news.yahoo.com`. The 2024 and 2025 entries now include all four links in their respective years.
 - **The White House:** consolidated `whitehouse.gov` and `wh.gov`. The 2025 HTML now has one publisher entry with six links across six posts, not two separate entries.
 
-This removes one duplicate publisher-year entry from 2025. The annual publisher counts are therefore 57 / 94 / 99 / 57, or **307 annual entries**. The source-year, publisher and category-year tables have been updated to match.
+This removes one duplicate publisher-year entry from the pre-consolidation 2025 draft. The current source-year CSV and consolidated HTML now agree at 58 / 94 / 100 / 57, or **309 annual entries**. The earlier 57 / 94 / 99 / 57 (307-entry) note was stale and is superseded by the reconciled machine-readable table and HTML counts.
 
 - Normalized the remaining raw domain labels in the annual bibliography, including the Stanford Encyclopedia of Philosophy, Office of the Director of National Intelligence, NABU, Internet Archive, Truth Social, KonMari, Apple Podcasts and Western States Endurance Run.
 
 
 ## Mechanical QA — 31 October 2026
 
-- Annual HTML entry counts: 57 (2023), 94 (2024), 99 (2025), 57 (2026), 307 total.
+- Annual HTML entry counts: 58 (2023), 94 (2024), 100 (2025), 57 (2026), 309 total.
 - All 2024–2026 link and post counts match the annual linked-reference files after publisher alias consolidation.
 - All 431 representative links in the 2024–2026 sections occur in the corresponding annual link files.
 - All 2024–2026 date spans match the underlying source records.
@@ -625,3 +625,35 @@ The original article text and commentary were otherwise preserved. No link count
 ### Kyiv-time conversion check: Day 905 (August 2024)
 
 The Nord Stream investigation is a useful example of why the adopted convention matters. The Wall Street Journal displays its original publication timestamp as August 14, 2024, 9:00 p.m. ET. Kyiv was seven hours ahead, making the first-publication date August 15 at 04:00. The archive's August 15 citation is correct. The earlier audit's proposed change to August 14 has been reversed in the post and in this log.
+
+### Archive-copy date synchronization — 31 October 2026
+
+The following source-date decisions from the audit log have now been synchronized in the Markdown archive copies on the draft branch:
+
+- Day 775: Washington Post, April 7, 2024 (the current publisher page exposes an April 7 update date; the original timestamp is not separately visible).
+- Day 947: New York Times, September 26, 2024.
+- Day 966: Washington Post, October 15, 2024.
+- Day 1042: New York Times, December 30, 2024.
+- Day 1237: New York Times, July 10, 2025.
+- Day 1049: Le Monde, January 6, 2025. The Le Monde archive index gives the original publication timestamp as 21:12 Paris time on January 6, which was 22:12 in Kyiv. The prior January 7 annotation was incorrect.
+
+Day 843's separate POLITICO citation remains June 14, 2024. Secondary references give June 13, but the publisher's original timestamp has not been recovered. A tentative June 13 edit was reversed; no date should be changed without the original timestamp.
+
+Retained Kyiv-time ambiguities requiring original timestamps: Day 775 (Washington Post original versus update date), Day 843 (POLITICO), Day 1042 (Axios), Day 1108 (NYT Kyiv café article), Day 1205 (NYT McConnell article) and Day 1373 (The Economist). Day 813 retains May 15, 2024: the URL is dated May 14, while the post text and contemporaneous NYT edition identify May 15. Keep that online-publication/edition distinction visible.
+
+Machine-readable case log: `2023-2026_publication_date_review_remaining.csv`.
+
+
+### Archive.ph publisher attribution — 31 October 2026
+
+The 71 Archive.ph link occurrences (35 in 2025, 36 in 2026) are now recorded individually in `2023-2026_archive_ph_attribution.csv`. Current attribution status:
+
+- 49 high-confidence publisher attributions.
+- 19 provisional attributions based on explicit publisher names or source context in the post.
+- 3 unresolved: Susan Crawford (Day 1135), TLDR (Day 1447), and the American-alignment-with-Russia item (Day 1517).
+
+One high-confidence intended publisher is accompanied by a bad destination: Day 1133's post identifies a New York Times op-ed, “Trump’s Ukraine Betrayal Is a Reality Check for Taiwan,” but the Archive.ph link resolves to a Bloomberg 2024 Trump interview. This is recorded as a post-level link mismatch; the canonical NYT URL has not been guessed.
+
+The attributed set includes Financial Times, The Atlantic, The Wall Street Journal, The Washington Post, The New York Times, The New York Review of Books, The Times, The Irish Times, Die Zeit, Time, Der Spiegel, la Repubblica, Le Point, Bloomberg, Axios, Visual Capitalist, The Economist, Foreign Affairs, The Spectator Australia, Herald Sun, the Office of the President of Ukraine and Truth Social (platform/original post).
+
+The normalized source counts have not yet been reallocated. Do not rebuild annual publisher totals until the 19 provisional and 3 unresolved cases have been reviewed and the Day 1133 link mismatch is resolved.
