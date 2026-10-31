@@ -393,3 +393,10 @@ The original article text and commentary were otherwise preserved. No link count
 - The May 30 Day 1192 post's WSJ link for “America Let Its Military-Industrial Might Wither. China’s Is Booming” now points to the article rather than a Google search page. The WSJ timestamp is May 29 at 11 p.m. ET; the archive footnote's May 30 date reflects Kyiv time.
 - Other sampled sources included NYT, TWZ, Reuters, The Guardian, Washington Post, Economist and Le Monde. No further confirmed date correction emerged in this sample. The May 15 and 16 filenames have Day labels 1157 and 1158 while their front matter identifies Days 1177 and 1178; these filename anomalies remain untouched.
 - This is a spot-check, not exhaustive verification. WSJ date evidence: `turn560009search2`, `turn560009search0`.
+
+
+### June 2025 citation-date spot-check
+
+- Corrected the June 20 Day 1213 post's New York Times footnote for “This Oregon Native Went to Kyiv as a Volunteer. He Died in a Russian Attack” from June 18 to June 19, 2025. The linked NYT URL is dated June 19, and an independent Ukrainian human-rights report cites the NYT article with that same June 19 date. This was a one-day footnote error.
+- Other sampled checks included the June 3 Atlantic drone-warfare essay, June 3 Politico Hegseth report, June 5 CNN and Reuters Kyiv attack coverage, June 10 NYT Romania investigation, June 11 NYT McConnell/Hegseth report (footnoted June 12, retained as an edition-date distinction), June 17 Reuters dispatches, June 19 Politico Yermak article, June 24 Guardian NATO preview, June 24 Politico intelligence appointment report, and June 30 NYT Hong Kong report. No other confirmed date correction emerged in this sample.
+- This is a spot-check, not exhaustive verification of every June URL. Evidence for the corrected NYT date: `turn678394search11`, `turn678394search0`.
