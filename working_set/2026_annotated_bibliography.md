@@ -2,9 +2,9 @@
 
 *Working draft · v0.1 · compiled from the 2026 linked-reference dataset through 28 October 2026*
 
-## Scope and an important archive limitation
+## Scope and method
 
-The 2026 linked-reference CSV contains 1,132 link occurrences across 264 URL hostnames, dated 1 January–28 October 2026, spanning 218 distinct post-day labels. The corresponding `working_set/26_redact.md` file is currently empty (zero bytes). This draft is therefore based on the linked-reference dataset, not a complete reading of the 2026 post texts.
+The 2026 linked-reference CSV contains 1,132 link occurrences across 264 URL hostnames, dated 1 January–28 October 2026, spanning 218 distinct post-day labels. The recovered `working_set/26_redact.md` contains 247 posts (approximately 1.29 MB of text), dated 1 January–28 October 2026. Individual post files are also present in `working_set/posts/2026/` (247 files). This draft was assembled primarily from the linked-reference dataset and requires a final reconciliation against the recovered post texts to ensure that annotations distinguish sources quoted, endorsed, challenged, or merely mentioned.
 
 That distinction matters. The CSV records the links and their surrounding link labels, but does not reliably preserve the argument made in the post, whether a source is being endorsed or criticized, or the full context in which it appears. This is consequently a provisional source guide, not yet the equivalent of the 2023–25 annotated bibliographies. It should be reconciled against the recovered 2026 Markdown archive before being treated as final.
 
