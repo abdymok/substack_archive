@@ -484,3 +484,10 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected two internal archive links. In the June 19 Day 1577 post, the link labelled Day 934 pointed to Day 943; it now points to Day 934's canonical URL. In the June 23 long-form “The Map Keeps Getting Larger,” the year-end 2024 reference labelled Day 1038 pointed to the Day 1037 slug `/p/day-1036`; it now points to Day 1038's canonical `/p/day-1038` URL.
 - Sampled June references included Reuters' June 1 Kyiv smoke report, the June 10 NYT logistics-strike report, Bloomberg Opinion's June 12 drone analysis, the June 15 Pechersk Lavra fire coverage, the June 17 Irish Independent G7 report, and the June 28 NYT Kazakhstan mining investigation. No additional confirmed citation-date correction emerged in this sample.
 - This is a spot-check, not exhaustive verification of every June URL.
+
+
+### July 2026 archive-reference and citation checks
+
+- Corrected the July 27 Day 1615 post's internal reference to the February 16 “Parabiosis of war” post. It was labelled Day 1546 but linked to `/p/day-1454`; the target's front matter confirms it is Day 1454, and the label now matches.
+- Sampled July sources included The Atlantic's June 30 analysis, NYT's June 29 rhetoric report, Economist's July 13 Fedorov profile, NYT's July 15 Hegseth report, NYT's July 28 Zelenskyy-Trump meeting report, Politico's July 27 MAGA courtship report, and The Guardian's July 30 Terminal Autonomy report. No confirmed citation-date correction emerged in this sample.
+- Several July posts have legacy slugs and Day-title numbering that do not match their filenames or `day_of_war` metadata (including July 8–10). Their explicit front matter was preserved; no inference-based renumbering was made. This is a spot-check, not exhaustive verification of every July URL.
