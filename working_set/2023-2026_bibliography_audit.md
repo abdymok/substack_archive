@@ -243,3 +243,14 @@ All 57 publisher link/post counts in the original 2023 section match the 2023 li
 - Day 728 (February 21): the WSJ URL resolves to “Ukraine’s Fate Rests on Speaker Johnson,” matching the opening link and argument. The Guardian link resolves to “Barely 10% of Europeans believe Ukraine can still defeat Russia, finds poll,” dated February 21, 2024, matching the post. The New York Times footnote URL resolves to “Hundreds of Ukrainian Troops Feared Captured or Missing in Chaotic Retreat,” dated February 20, 2024, matching the post's Avdiivka passage.
 - The separate New York Times “Nice maps” URL has a slug consistent with the February 17, 2024 Russia–Ukraine war map, and is used in the post as a map reference; the publisher page could not be independently opened during this check. Retain as provisionally consistent, not fully verified.
 - No errors found in the links that could be independently checked. Original posts and link dataset remain unchanged. This remains a representative spot-check, not a complete 2024 link audit.
+
+
+### Corrections applied to original 2024 archive posts — 31 October 2026
+
+Following source verification, the three confirmed errors below have now been corrected in the archived Markdown posts as well as described accurately in the consolidated bibliography:
+
+1. **Day 681, January 5 — Washington Post URL.** Replaced the unrelated WSJ URL (an article about Russian plans to buy Iranian ballistic missiles) attached to the Washington Post marines headline with the verified Washington Post article: https://www.washingtonpost.com/world/2024/01/04/kherson-marines-ukraine-villages-russia/ . The headline, authors and January 4, 2024 publication date match the publisher's page. The separate WSJ footnote about Iranian ballistic missiles was left intact.
+2. **Day 696, January 20 — Financial Times date.** Corrected the footnote publication date from January 20, 2023 to January 19, 2024. The FT article's date is corroborated by contemporaneous reporting on January 19, 2024.
+3. **Day 707, January 31 — KIIS date.** Corrected the footnote from “December 2003” to “December 20, 2023,” the date shown on KIIS's original release. The release reports survey fieldwork on December 4–10, 2023.
+
+The original article text and commentary were otherwise preserved. No link counts or publisher classifications changed. The bibliography annotations now describe the corrections as completed, not outstanding. Primary verification: Washington Post article (https://www.washingtonpost.com/world/2024/01/04/kherson-marines-ukraine-villages-russia/); KIIS original release (https://kiis.com.ua/?cat=reports&id=1338&lang=eng&page=1); contemporaneous FT coverage (https://www.pravda.com.ua/eng/news/2024/01/19/7438042/). Source-post commits: b2a4bf2df22e0ad39c67ffcd8c5c09a355f67250, 27a5ab2700c0ef772509d34dd8855fcf283f7c73, 734c830bfb06c83f9e355e22b3f67aa4863bdb3d. Bibliography commit: 0322c90e29f88810059b8343518096a44f6bc818.
