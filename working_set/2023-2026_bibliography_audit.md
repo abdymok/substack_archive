@@ -456,3 +456,10 @@ The original article text and commentary were otherwise preserved. No link count
 ### Additional January 2026 date correction
 
 - Corrected the February 1 Day 1438 post's Reuters footnote for “US energy assistance for Ukraine stalls as winter bites” from January 31 to January 30, 2026. The Reuters URL, Reuters page and contemporaneous syndications all date the report January 30. Unlike the Kyiv-local date convention in some other reports, this article was already published on January 30 in both the publisher and local time zones.
+
+
+### March 2026 citation-date spot-check
+
+- Corrected the March 3 Day 1469 post's NYT footnote for “The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder” from March 3 to March 2, 2026. The publisher URL, NYT publication timestamp (March 2, 2 p.m. ET) and contemporaneous listings confirm March 2. The post's March 3 date remains unchanged.
+- Sampled March sources included Politico's March 6 Orbán dispute report, NYT's March 5 Minab school investigation, the March 11 Washington Post Hegseth-photographer report, the March 11 Ukrainska Pravda Paton Bridge investigation, Reuters' March 25 interview with Zelenskyy, The Atlantic's March 26 Iran-war analysis, and the March 30 NYT Kyiv-winter investigation. No other confirmed footnote-date correction emerged in this sample.
+- This is a spot-check, not exhaustive verification of every March URL.
