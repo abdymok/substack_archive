@@ -16,6 +16,21 @@ The combined annual link files contain:
 
 Counts are link occurrences and distinct posts, not unique articles, readership, or influence. Inclusion is not an endorsement or a reliability rating.
 
+
+
+## Citation-date convention
+
+Use the date an item first appeared in **Kyiv time (Europe/Kyiv)**. Where the publisher exposes an original publication timestamp, convert that timestamp to Kyiv local time, including the applicable daylight-saving offset. Do not substitute a later update, correction, syndication or republication date. Where only a calendar date is exposed and no reliable timestamp can be established, retain the publisher's stated original publication date and flag any material ambiguity rather than guessing. The date of the Substack post that cites an item is a separate field and must not be confused with the item's publication date.
+
+This convention applies to source/article dates in the annual annotated bibliography and citation audit. Date ranges in the combined HTML that describe when a publisher was cited refer to the archive's post/link dates, not necessarily the publisher's publication dates.
+
+### 2023 citation corrections
+
+- Day 332: corrected the New York Times date for “Allies Fail to Agree on Sending Tanks to Ukraine” from January 20, 2022 to January 20, 2023. The linked article URL and publication date identify 2023; 2022 was a year transcription error.
+- Day 440ish: corrected the New York Times date for “Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker” from March 28 to March 25, 2023, and repaired the malformed publisher link (nyt,.com to nyt.com). The NYT URL and a contemporaneous State Department press-clips email both give March 25, 2023. The email records the article at 08:25 UTC, which was 10:25 in Kyiv, so the Kyiv calendar date is also March 25.
+- Other one-day differences in 2023 remain subject to the Kyiv-time rule. In particular, where a publisher page shows an update date rather than its original publication timestamp, the audit must retain the first-publication date converted to Kyiv time. Do not infer a correction from the URL date alone.
+- Original-post commit: 1e831255f9bafa4d9db4f5073d44d79e82ab9c4f. Verification: [NYT January 20, 2023 tank report](https://www.nytimes.com/2023/01/20/world/europe/ukraine-germany-us-tanks.html); [NYT March 25, 2023 “Stolen Valor” report](https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html); [contemporaneous press-clip reproduction with original timestamp](https://media.aflegal.org/wp-content/uploads/2025/05/14105802/FL-2025-00003-January-2025-Production.pdf).
+
 ## Annual entry counts
 
 | Year | Recurring external publishers | Category breakdown |
@@ -32,7 +47,7 @@ The 2023 categories and annotations are retained from the original HTML template
 
 - `working_set/2023-2026_annotated_bibliography.html`
 - Latest HTML commit: `104a92f77529c754dc7188f8360b36c3161b1cd7`
-- Verified: 307 entries; 57 / 94 / 99 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
+- Verified: 307 entries; 57 / 94 / 99 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The verified annual totals are 57 / 94 / 99 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
 
