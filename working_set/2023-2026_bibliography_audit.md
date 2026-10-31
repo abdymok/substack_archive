@@ -12,7 +12,7 @@ The combined annual link files contain:
 - 4,219 distinct URL strings
 - 855 original source domains
 - 976 posts with at least one link
-- 819 links classified as personal archive, excluded from the external-source bibliography
+- 820 links classified as personal archive, excluded from the external-source bibliography
 
 Counts are link occurrences and distinct posts, not unique articles, readership, or influence. Inclusion is not an endorsement or a reliability rating.
 
@@ -21,10 +21,10 @@ Counts are link occurrences and distinct posts, not unique articles, readership,
 | Year | Recurring external publishers | Category breakdown |
 |---|---:|---|
 | 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
-| 2024 | 95 | 42 international news; 14 Ukrainian media; 10 research; 8 official; 9 reference; 12 social media and other |
+| 2024 | 94 | 42 international news; 14 Ukrainian media; 10 research; 8 official; 8 reference; 12 social media and other |
 | 2025 | 100 | 46 international news; 10 Ukrainian media; 6 research; 12 official; 12 reference; 14 social media and other |
 | 2026 to Oct. 28 | 57 | 28 international news; 8 Ukrainian media; 3 research; 4 official; 5 reference; 9 social media and other |
-| **Total annual entries** | **309** | A publisher recurring in more than one year appears once in each relevant year. |
+| **Total annual entries** | **308** | A publisher recurring in more than one year appears once in each relevant year. |
 
 The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same six broad headings.
 
@@ -32,7 +32,7 @@ The 2023 categories and annotations are retained from the original HTML template
 
 - `working_set/2023-2026_annotated_bibliography.html`
 - Latest HTML commit: `7e6d06fd3d812af98a7865ee021a8ce27ff4dc86`
-- Verified: 309 entries; 57 / 95 / 100 / 57 by year; 22 opening and closing section tags; no empty example links.
+- Verified: 308 entries; 57 / 94 / 100 / 57 by year; 22 opening and closing section tags; no empty example links.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - Eighty entries in the 2024–2026 sections now have more specific annotations: 60 for 2024, ten for 2025 and ten for 2026. The 2024 additions draw on individual post files and linked-reference records, with examples from international news, Ukrainian media, research, polling and official sources. The remaining 2024–2026 annotations still need post-level enrichment; they should not be treated as equally detailed.
 
@@ -46,6 +46,9 @@ The pass sampled the individual 2024 Markdown posts, including Days 675, 679, 68
 
 
 **Self-link correction:** The three 2024 URLs previously grouped under the generic Substack label all resolve to the author's own `abdymok.substack.com` posts titled “Setting the Plate Clear”. They were reclassified as personal archive in `2023-2026_source_year.csv`, merged into the 2024 `ukraine@war (Substack)` row, and removed from the external bibliography. The 2024 external-publisher count therefore falls from 96 to 95. The category-year table moves three occurrences from social media to personal archive. The raw `open.substack.com` domain remains classified as a platform in the all-years domain registry because it also carries other authors' links in other years.
+
+
+**Additional 2024 short-link correction:** One of the two links recorded under `tinyurl.com` points to the author's own Day 947 comment and has been moved into personal archive. The remaining TinyURL is labelled “NV” in the July 5 post, but its destination could not be verified. It remains a one-off in the source-year data and is excluded from the recurring-publisher bibliography because it appears in only one post.
 
 ## 2026 archive correction
 
