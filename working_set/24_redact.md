@@ -8553,7 +8553,7 @@ On the war jacket, Pekhno has all the gory details and lots of maps.
 
 [1](#footnote-anchor-1)
 
-[A Drunken Evening, a Rented Yacht: The Real Story of the Nord Stream Pipeline Sabotage](https://www.wsj.com/world/europe/nord-stream-pipeline-explosion-real-story-da24839c). *Private businessmen funded the shoestring operation, which was overseen by a top general; President Z approved the plan, then tried unsuccessfully to call it off* ([The Wall Street Journal](http://wsj.com), August 14, 2024)
+[A Drunken Evening, a Rented Yacht: The Real Story of the Nord Stream Pipeline Sabotage](https://www.wsj.com/world/europe/nord-stream-pipeline-explosion-real-story-da24839c). *Private businessmen funded the shoestring operation, which was overseen by a top general; President Z approved the plan, then tried unsuccessfully to call it off* ([The Wall Street Journal](http://wsj.com), August 15, 2024)
 
 [2](#footnote-anchor-2)
 
