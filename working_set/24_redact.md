@@ -5748,7 +5748,7 @@ Mylovanov included[2](#footnote-2).
 
 [1](#footnote-anchor-1)
 
-[Reconstruction Official Resigns, Highlighting Tensions in Ukraine](https://www.nytimes.com/2024/06/10/world/europe/ukraine-reconstruction-resignation.html). *The departure of the official, who had pointed up mismanagement of funds, was a blow to government efforts to assuage allies’ concerns about how aid is spent* ([The New York Times](http://nyt.com), June 11, 2024)
+[Reconstruction Official Resigns, Highlighting Tensions in Ukraine](https://www.nytimes.com/2024/06/10/world/europe/ukraine-reconstruction-resignation.html). *The departure of the official, who had pointed up mismanagement of funds, was a blow to government efforts to assuage allies’ concerns about how aid is spent* ([The New York Times](http://nyt.com), June 10, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -5919,7 +5919,7 @@ And, finally, Yuriy posts this video from the front around Lyptsi in Kharkiv reg
 
 [1](#footnote-anchor-1)
 
-[Putin Makes Cease-Fire Offer With Sweeping Demands on Ukraine’s Territory](https://www.nytimes.com/2024/06/14/world/europe/russia-ukraine-putin-cease-fire.html). *Ukraine denounced the offer, saying that Mr. Putin was “afraid of real peace.” The Russian leader made the remarks one day before a peace summit organized by Kyiv* ([The New York Times](http://nyt.com), June 15, 2024) Sam is a Putin apologist and widely detested in Ukraine. Some might regard him as a Western sucker.
+[Putin Makes Cease-Fire Offer With Sweeping Demands on Ukraine’s Territory](https://www.nytimes.com/2024/06/14/world/europe/russia-ukraine-putin-cease-fire.html). *Ukraine denounced the offer, saying that Mr. Putin was “afraid of real peace.” The Russian leader made the remarks one day before a peace summit organized by Kyiv* ([The New York Times](http://nyt.com), June 14, 2024) Sam is a Putin apologist and widely detested in Ukraine. Some might regard him as a Western sucker.
 
 [2](#footnote-anchor-2)
 
@@ -6266,7 +6266,7 @@ Kellogg and Fleitz authored a paper, titled “[America First, Russia, & Ukraine
 
 [1](#footnote-anchor-1)
 
-[Z replaces commander leading war on Russia in eastern Ukraine](https://www.theguardian.com/world/article/2024/jun/24/zelenskiy-replaces-commander-leading-war-on-russia-in-eastern-ukraine). *Dismissal of Lt Gen Yuriy Sodol comes amid series of personnel changes by Ukrainian president* ([The Guardian](http://guardian.co.uk), June 25, 2024)
+[Z replaces commander leading war on Russia in eastern Ukraine](https://www.theguardian.com/world/article/2024/jun/24/zelenskiy-replaces-commander-leading-war-on-russia-in-eastern-ukraine). *Dismissal of Lt Gen Yuriy Sodol comes amid series of personnel changes by Ukrainian president* ([The Guardian](http://guardian.co.uk), June 24, 2024)
 
 [2](#footnote-anchor-2)
 
