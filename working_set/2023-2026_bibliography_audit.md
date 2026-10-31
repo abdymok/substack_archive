@@ -667,3 +667,8 @@ Updated the five individual post files and synchronized the affected 2024 and 20
 - **Still open:** Bloomberg's “We All Need to Keep Supporting Ukraine, Elon” has an October 3 URL path and an October 2 archive footnote. The original Bloomberg timestamp or page date was not recovered; no speculative correction was made.
 
 Updated the four affected individual post files and synchronized `23_redact.md`. These are targeted corrections; the remaining Bloomberg ambiguity is recorded rather than guessed.
+
+
+### Additional 2025 date correction — 31 October 2026
+
+- **Day 1226 — POLITICO, “Trump allies caught off guard by Pentagon’s Ukraine weapons freeze”: July 2, 2025.** Corrected the individual post's footnote from July 3 to July 2. The original POLITICO article URL and same-day bibliographic records identify July 2; July 3 was the Substack post date, not the article date. The annual `25_redact.md` copy already carried July 2 and required no change.
