@@ -41,6 +41,8 @@ This convention applies to source/article dates in the annual annotated bibliogr
 | 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
 | **Total annual entries** | **307** | A publisher recurring in more than one year appears once in each relevant year. |
 
+The category breakdown in this table follows the curated HTML section headings. The separate category-year CSV is a link-occurrence analysis using the finer categories in the normalized source registry, so its category totals are not expected to match the number of curated publisher entries.
+
 The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same core categories, with a separate state-media category where relevant.
 
 
