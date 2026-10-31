@@ -1,40 +1,41 @@
 category,year,link_occurrences,share_of_year
-business / commercial,2023,26,0.0208
-business / commercial,2024,13,0.0076
-business / commercial,2025,14,0.0104
-business / commercial,2026,23,0.0203
-news,2023,431,0.3454
-news,2024,761,0.4432
-news,2025,519,0.3870
-news,2026,279,0.2465
+business / commercial,2023,27,0.0216
+business / commercial,2024,15,0.0087
+business / commercial,2025,19,0.0142
+business / commercial,2026,25,0.0221
+news,2023,434,0.3478
+news,2024,766,0.4461
+news,2025,521,0.3885
+news,2026,283,0.2500
 official sources,2023,43,0.0345
-official sources,2024,51,0.0297
-official sources,2025,60,0.0447
+official sources,2024,52,0.0303
+official sources,2025,62,0.0462
 official sources,2026,47,0.0415
-other / unclassified,2023,31,0.0248
-other / unclassified,2024,130,0.0757
-other / unclassified,2025,109,0.0813
-other / unclassified,2026,87,0.0769
+other / unclassified,2023,24,0.0192
+other / unclassified,2024,110,0.0641
+other / unclassified,2025,96,0.0716
+other / unclassified,2026,76,0.0671
 personal / creative,2023,14,0.0112
 personal / creative,2024,2,0.0012
+personal / creative,2025,1,0.0007
 personal archive,2023,248,0.1987
 personal archive,2024,164,0.0955
 personal archive,2025,114,0.0850
 personal archive,2026,295,0.2606
-reference,2023,156,0.1250
-reference,2024,150,0.0874
+reference,2023,157,0.1258
+reference,2024,153,0.0891
 reference,2025,185,0.1380
-reference,2026,163,0.1440
+reference,2026,164,0.1449
 research,2023,61,0.0489
-research,2024,78,0.0454
-research,2025,53,0.0395
-research,2026,36,0.0318
-social media,2023,170,0.1362
-social media,2024,242,0.1409
-social media,2025,232,0.1730
+research,2024,80,0.0466
+research,2025,55,0.0410
+research,2026,39,0.0345
+social media,2023,172,0.1378
+social media,2024,245,0.1427
+social media,2025,233,0.1738
 social media,2026,156,0.1378
 state media,2023,1,0.0008
 Ukrainian media,2023,67,0.0537
-Ukrainian media,2024,126,0.0734
+Ukrainian media,2024,130,0.0757
 Ukrainian media,2025,55,0.0410
-Ukrainian media,2026,46,0.0406
+Ukrainian media,2026,47,0.0415
