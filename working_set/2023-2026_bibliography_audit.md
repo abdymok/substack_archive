@@ -35,13 +35,13 @@ This convention applies to source/article dates in the annual annotated bibliogr
 
 | Year | Recurring external publishers | Category breakdown |
 |---|---:|---|
-| 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
-| 2024 | 95 | 37 international news; 15 Ukrainian media; 11 research; 8 official; 11 reference; 13 platforms, specialist publications and other |
-| 2025 | 100 | 35 international news; 12 Ukrainian media; 10 research; 11 official; 13 reference; 18 platforms, specialist publications and other; 1 state media |
-| 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
+| 2023 | 58 | 21 international news; 8 Ukrainian media; 5 research and analysis; 5 official sources; 8 reference and archives; 10 social media and other; 1 state media |
+| 2024 | 94 | 42 international news; 14 Ukrainian media; 10 research and analysis; 8 official sources; 8 reference and archives; 9 social media; 2 business and commercial; 1 platforms and pointers |
+| 2025 | 100 | 45 international news; 10 Ukrainian media; 8 research and analysis; 12 official sources; 12 reference and archives; 10 social media; 3 business and commercial |
+| 2026 to Oct. 28 | 57 | 27 international news; 8 Ukrainian media; 4 research and analysis; 4 official sources; 5 reference and archives; 7 social media; 2 business and commercial |
 | **Total annual entries** | **309** | A publisher recurring in more than one year appears once in each relevant year. |
 
-The category breakdown in this table follows the curated HTML section headings. The separate category-year CSV is a link-occurrence analysis using the finer categories in the normalized source registry, so its category totals are not expected to match the number of curated publisher entries.
+The category breakdown in this table follows the current curated HTML section headings. The separate category-year CSV is a link-occurrence analysis using the finer categories in the normalized source registry, so its category totals are not expected to match the number of curated publisher entries.
 
 The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same core categories, with a separate state-media category where relevant.
 
@@ -198,14 +198,14 @@ The final count reconciliation exposed two publishers split across multiple host
 - **Yahoo News:** consolidated `yahoo.com`, `uk.news.yahoo.com`, `news.yahoo.com` and `ca.news.yahoo.com`. The 2024 and 2025 entries now include all four links in their respective years.
 - **The White House:** consolidated `whitehouse.gov` and `wh.gov`. The 2025 HTML now has one publisher entry with six links across six posts, not two separate entries.
 
-This removes one duplicate publisher-year entry from 2025. The annual publisher counts are therefore 57 / 94 / 99 / 57, or **307 annual entries**. The source-year, publisher and category-year tables have been updated to match.
+This removes one duplicate publisher-year entry from the pre-consolidation 2025 draft. The current source-year CSV and consolidated HTML now agree at 58 / 94 / 100 / 57, or **309 annual entries**. The earlier 57 / 94 / 99 / 57 (307-entry) note was stale and is superseded by the reconciled machine-readable table and HTML counts.
 
 - Normalized the remaining raw domain labels in the annual bibliography, including the Stanford Encyclopedia of Philosophy, Office of the Director of National Intelligence, NABU, Internet Archive, Truth Social, KonMari, Apple Podcasts and Western States Endurance Run.
 
 
 ## Mechanical QA — 31 October 2026
 
-- Annual HTML entry counts: 57 (2023), 94 (2024), 99 (2025), 57 (2026), 307 total.
+- Annual HTML entry counts: 58 (2023), 94 (2024), 100 (2025), 57 (2026), 309 total.
 - All 2024–2026 link and post counts match the annual linked-reference files after publisher alias consolidation.
 - All 431 representative links in the 2024–2026 sections occur in the corresponding annual link files.
 - All 2024–2026 date spans match the underlying source records.
