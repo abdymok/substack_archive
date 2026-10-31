@@ -56,7 +56,7 @@ The current source-classification files are the authoritative machine-readable c
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `14060a875a977b45a3620c470b77229273ac4161`
+- Latest HTML commit: `92813483ef2fcbea3bfdf20a08e197effbd093a0`
 - Verified: 309 entries; 57 / 95 / 100 / 57 by year. Added the recurring Substack platform entry to 2024 and the MSD corporate-source entry to 2025. Normalized the White House short-domain alias and the Ukraine Economic Outlook Substack domain in the source registry. The verified annual totals are 57 / 95 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
