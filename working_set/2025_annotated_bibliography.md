@@ -158,10 +158,10 @@ A report on the negotiations over a U.S.-Ukraine minerals agreement. The deal be
 
 A published text of the agreement, useful as a documentary source rather than relying on political summaries or headlines. The outlet is included here for access to the primary document; its editorial reporting should be assessed separately. Linked on 2 May.
 
-### 29. The BBC. Reporting on the proposed ceasefire and the subsequent dispute over its terms. March 2025.
+### 29. The BBC. Reporting on the Israel–Hamas ceasefire and its breakdown. March 2025.
 [BBC report](https://www.bbc.com/news/articles/cwyg28wd1k3o)
 
-A contemporaneous account of the competing interpretations and implementation disputes surrounding the proposed limited ceasefire. Useful for reconstructing the sequence of announcements and claims. A proposed pause, an agreed framework, and an observed cessation of attacks are not the same thing. Linked on 20 March.
+A contemporaneous report linked in the post’s comparison with Steven Witkoff’s role in brokering the Israel–Hamas truce. It records the status of that ceasefire at the time; the post uses it pointedly to question claims that Putin is acting in good faith. Linked on 20 March.
 
 ### 30. The Associated Press. “Things to know about the limited ceasefire between Russia and Ukraine brokered by the US.” March 2025.
 [AP explainer](https://apnews.com/article/ukraine-russia-us-limited-ceasefire-4f1d4a835c52e8a37716ea21b32ccb0b)
@@ -204,3 +204,14 @@ Before treating this bibliography as final:
 - Consider a companion bibliography for the year's non-war reading, cultural references, and personal sources.
 
 *Working selection, not exhaustive. Inclusion indicates relevance to the archive, not agreement with a source's claims.*
+
+
+### 32. The New York Times. “Donald Trump Jr. mixes business and politics in Serbia, as protests there rage.” 19 March 2025.
+[Report](https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html)
+
+A report on Donald Trump Jr.’s visit to Serbia amid political protests, linking the Trump family’s business and political networks to the country’s domestic political tensions. The archive uses it as a contemporary account of the visit and its political setting. Linked on 20 March.
+
+### 33. The BBC. Reporting on European military planning for a proposed peacekeeping force in Ukraine. March 2025.
+[BBC report](https://www.bbc.com/news/articles/c62z1w1y2neo)
+
+A contemporaneous report on the UK-hosted meeting of senior military officers from the proposed “Coalition of the Willing” and planning for a possible peacekeeping force. Useful as a record of the proposal and participating countries, not evidence that a force had been agreed or deployed. Linked on 20 March.
