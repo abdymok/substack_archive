@@ -407,3 +407,10 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected the July 31 Day 1254 post's Day 1005 cross-reference year from November 24, 2025 to November 24, 2024. The Day 1005 file's front matter and subtitle verify the date.
 - Sampled Politico, WSJ, NYT, Financial Times, The Guardian, Vogue, Reuters and CNN links from July 1–31. The NYT July 10 URL / July 12 footnote is retained as an online-versus-edition date distinction. No other confirmed date or internal-link correction emerged in this sample.
 - This is a spot-check, not exhaustive verification of every July URL.
+
+
+### August 2025 checks
+
+- Corrected the August 11 Day 1265 post's Day 1125 footnote date from March 25 to March 24, 2025. The canonical Day 1125 post front matter identifies March 24, and its subtitle matches the cited item.
+- Sampled August links including the July 24 Le Point report, August 13 ISW assessment, August 14 Bloomberg summit-security report, August 14 Guardian Hegseth report, August 19 NYT Trump item, August 20 Reuters Lavrov report, August 21 NYT Rubio article, August 22 CNN report, August 26 NYT cabinet article and August 22 FT commentary. The August 27 NYT article URL / August 27 footnote is retained as an edition-date convention.
+- The August 28 continuation file remains separate from the main Day 1282 post. No other confirmed date correction emerged in this sample. This is a spot-check, not exhaustive URL verification.
