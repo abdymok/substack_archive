@@ -263,3 +263,11 @@ The original article text and commentary were otherwise preserved. No link count
 - Other sampled links in Days 729, 733, 735 and 736 matched their cited subjects/titles and dates: the NYT CIA feature (February 25), Finance.ua macroeconomic infographic (February 20), and Euromaidan Press report on LP's cancelled Lithuanian concert (February 28). The Politico item is the only correction in this batch.
 - Verification references: syndicated Yahoo copy (https://www.yahoo.com/news/trump-allies-prepare-infuse-christian-100000260.html); Politico URL https://www.politico.com/news/2024/02/20/donald-trump-allies-christian-nationalism-00142086; NYT, Finance.ua and Euromaidan Press pages.
 - Original-post correction commit: 8a2ef202a0d0230ebd36b8913e889b546734ac67.
+
+
+### March 2024 citation-date check — Day 737
+
+- Checked the February 29 Washington Post feature, “Republicans used to back Ukraine. Then came middle fingers in Alabama,” cited in the March 1 Day 737 post. The Post's own article page and February 29 sitemap date the story February 29, 2024. The archived footnote incorrectly gives March 1, 2024. Corrected the footnote to February 29; the post date remains March 1.
+- Other sampled March references were checked against their titles and context. The March 2 NYT Avdiivka defenses feature is correctly identified and dated March 2; the March 4 Washington Post mobilization feature matches its linked slug, headline and subject; Foreign Affairs' “How to Pave the Way for Diplomacy to End the War in Ukraine” is dated March 5; the March 5 Washington Post Zelenska/SOTU story is dated March 5 (the post's March 6 footnote should be treated as a date discrepancy to correct in the next pass); and the March 15 Washington Post village report is dated March 16 on the publisher page despite the March 15 URL. These are publication-date distinctions, not headline/URL mismatches.
+- The Day 737 original-post correction commit is ce74bd83ea0bdce0d51e505a9a609251094c6797.
+- Verification: Washington Post article and February 29 sitemap; Foreign Affairs contemporaneous listing; Washington Post Zelenska and village article pages.
