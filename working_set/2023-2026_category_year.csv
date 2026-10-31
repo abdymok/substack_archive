@@ -1,41 +1,41 @@
-category,year,link_occurrences,share_of_year
-business / commercial,2023,27,0.0216
-business / commercial,2024,15,0.0087
-business / commercial,2025,19,0.0142
-business / commercial,2026,25,0.0221
-news,2023,434,0.3478
-news,2024,763,0.4444
-news,2025,521,0.3885
-news,2026,283,0.2500
-official sources,2023,43,0.0345
-official sources,2024,52,0.0303
-official sources,2025,62,0.0462
-official sources,2026,47,0.0415
-other / unclassified,2023,24,0.0192
-other / unclassified,2024,110,0.0641
-other / unclassified,2025,96,0.0716
-other / unclassified,2026,76,0.0671
-personal / creative,2023,14,0.0112
-personal / creative,2024,2,0.0012
-personal / creative,2025,1,0.0007
-personal archive,2023,248,0.1987
-personal archive,2024,164,0.0955
-personal archive,2025,114,0.0850
-personal archive,2026,295,0.2606
-reference,2023,157,0.1258
-reference,2024,153,0.0891
-reference,2025,185,0.1380
-reference,2026,164,0.1449
-research,2023,61,0.0489
-research,2024,83,0.0483
-research,2025,55,0.0410
-research,2026,39,0.0345
-social media,2023,172,0.1378
-social media,2024,245,0.1427
-social media,2025,233,0.1738
-social media,2026,156,0.1378
-state media,2023,1,0.0008
-Ukrainian media,2023,67,0.0537
-Ukrainian media,2024,130,0.0757
-Ukrainian media,2025,55,0.0410
-Ukrainian media,2026,47,0.0415
+"category","year","link_occurrences","share_of_year"
+"personal archive","2023","248","0.1987"
+"news","2023","434","0.3478"
+"social media","2023","172","0.1378"
+"business / commercial","2023","27","0.0216"
+"research","2023","61","0.0489"
+"Ukrainian media","2023","67","0.0537"
+"reference","2023","157","0.1258"
+"personal / creative","2023","14","0.0112"
+"official sources","2023","43","0.0345"
+"state media","2023","1","0.0008"
+"other / unclassified","2023","24","0.0192"
+"other / unclassified","2024","110","0.0641"
+"social media","2024","245","0.1427"
+"official sources","2024","52","0.0303"
+"news","2024","763","0.4444"
+"business / commercial","2024","15","0.0087"
+"reference","2024","153","0.0891"
+"Ukrainian media","2024","130","0.0757"
+"personal archive","2024","164","0.0955"
+"research","2024","83","0.0483"
+"personal / creative","2024","2","0.0012"
+"news","2025","521","0.3885"
+"Ukrainian media","2025","55","0.0410"
+"social media","2025","233","0.1738"
+"personal archive","2025","114","0.0850"
+"other / unclassified","2025","96","0.0716"
+"reference","2025","185","0.1380"
+"official sources","2025","62","0.0462"
+"research","2025","55","0.0410"
+"business / commercial","2025","19","0.0142"
+"personal / creative","2025","1","0.0007"
+"news","2026","283","0.2500"
+"official sources","2026","47","0.0415"
+"reference","2026","164","0.1449"
+"personal archive","2026","295","0.2606"
+"Ukrainian media","2026","47","0.0415"
+"social media","2026","156","0.1378"
+"business / commercial","2026","25","0.0221"
+"other / unclassified","2026","76","0.0671"
+"research","2026","39","0.0345"
