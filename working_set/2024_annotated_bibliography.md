@@ -185,7 +185,7 @@ A retrospective argument about the negotiations and diplomatic possibilities ear
 An argument for a more limited and pragmatic approach to the war's possible end state. Useful for understanding one influential strand of the Western policy debate after the U.S. election. It is a prescriptive essay, not a neutral forecast or an account of what Ukrainians would accept. Linked on 5 November.
 
 ### 33. The New Yorker. “Volodymyr Z Has a Plan for Ukraine's Victory.” September 2024.
-[Interview](https://www.newyorker.com/news/the-new-yorker-interview/volodymyr-Z-has-a-plan-for-ukraines-victory)
+[Interview](https://www.newyorker.com/news/the-new-yorker-interview/volodymyr-zelensky-has-a-plan-for-ukraines-victory)
 
 A major interview with the Ukrainian president ahead of his presentation of the Victory Plan to Western leaders. It is a primary source for the president's public case and a useful companion to the official text of the plan. Distinguish what the president says the plan requires from what allies subsequently agree to do. Linked on 26 September.
 
