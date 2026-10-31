@@ -625,3 +625,20 @@ The original article text and commentary were otherwise preserved. No link count
 ### Kyiv-time conversion check: Day 905 (August 2024)
 
 The Nord Stream investigation is a useful example of why the adopted convention matters. The Wall Street Journal displays its original publication timestamp as August 14, 2024, 9:00 p.m. ET. Kyiv was seven hours ahead, making the first-publication date August 15 at 04:00. The archive's August 15 citation is correct. The earlier audit's proposed change to August 14 has been reversed in the post and in this log.
+
+### Archive-copy date synchronization — 31 October 2026
+
+The following source-date decisions from the audit log have now been synchronized in the Markdown archive copies on the draft branch:
+
+- Day 775: Washington Post, April 7, 2024 (the current publisher page exposes an April 7 update date; the original timestamp is not separately visible).
+- Day 947: New York Times, September 26, 2024.
+- Day 966: Washington Post, October 15, 2024.
+- Day 1042: New York Times, December 30, 2024.
+- Day 1237: New York Times, July 10, 2025.
+- Day 1049: Le Monde, January 6, 2025. The Le Monde archive index gives the original publication timestamp as 21:12 Paris time on January 6, which was 22:12 in Kyiv. The prior January 7 annotation was incorrect.
+
+Day 843's separate POLITICO citation remains June 14, 2024. Secondary references give June 13, but the publisher's original timestamp has not been recovered. A tentative June 13 edit was reversed; no date should be changed without the original timestamp.
+
+Retained Kyiv-time ambiguities requiring original timestamps: Day 775 (Washington Post original versus update date), Day 843 (POLITICO), Day 1042 (Axios), Day 1108 (NYT Kyiv café article), Day 1205 (NYT McConnell article) and Day 1373 (The Economist). Day 813 retains May 15, 2024: the URL is dated May 14, while the post text and contemporaneous NYT edition identify May 15. Keep that online-publication/edition distinction visible.
+
+Machine-readable case log: `2023-2026_publication_date_review_remaining.csv`.
