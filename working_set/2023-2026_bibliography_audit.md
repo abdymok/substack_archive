@@ -271,3 +271,9 @@ The original article text and commentary were otherwise preserved. No link count
 - Other sampled March references were checked against their titles and context. The March 2 NYT Avdiivka defenses feature is correctly identified and dated March 2; the March 4 Washington Post mobilization feature matches its linked slug, headline and subject; Foreign Affairs' “How to Pave the Way for Diplomacy to End the War in Ukraine” is dated March 5; the March 5 Washington Post Zelenska/SOTU story is dated March 5 (the post's March 6 footnote should be treated as a date discrepancy to correct in the next pass); and the March 15 Washington Post village report is dated March 16 on the publisher page despite the March 15 URL. These are publication-date distinctions, not headline/URL mismatches.
 - The Day 737 original-post correction commit is ce74bd83ea0bdce0d51e505a9a609251094c6797.
 - Verification: Washington Post article and February 29 sitemap; Foreign Affairs contemporaneous listing; Washington Post Zelenska and village article pages.
+
+
+### March 2024 citation-date correction — Day 742
+
+- Corrected the Day 742 (March 6) footnote for “Ukraine’s first lady declines State of the Union invitation.” The Washington Post page is dated March 5, 2024 (and its URL is under `/2024/03/05/`); the archived footnote had said March 6. The post date remains March 6.
+- Original-post commit: cce6d6cf53116227e63b439a9ec03d8f34253736. Bibliography commit: 66fff75001fd8e555a034d0cca5ce8605eb10364. Verification: Washington Post article page, `turn579204search0`.
