@@ -2134,7 +2134,7 @@ Devoted readers of this Substack will recall the post about dogfeeding from Janu
 
 [1](#footnote-anchor-1)
 
-[Republicans used to back Ukraine. Then came middle fingers in Alabama](https://www.washingtonpost.com/nation/2024/02/29/ukraine-support-alabama-political-divide/) ([The Washington Post](http://wapo.st), March 1, 2024)
+[Republicans used to back Ukraine. Then came middle fingers in Alabama](https://www.washingtonpost.com/nation/2024/02/29/ukraine-support-alabama-political-divide/) ([The Washington Post](http://wapo.st), February 29, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -3253,7 +3253,7 @@ At the risk of alienating subscribers, I will start writing more about Ukraine�
 
 [1](#footnote-anchor-1)
 
-[Russia is gearing up for a big new push along a long front line.](https://www.economist.com/leaders/2024/03/27/russia-is-gearing-up-for-a-big-new-push-along-a-long-front-line) *Ukraine must prepare* ([The Economist](http://economist.com), March 28, 2024)
+[Russia is gearing up for a big new push along a long front line.](https://www.economist.com/leaders/2024/03/27/russia-is-gearing-up-for-a-big-new-push-along-a-long-front-line) *Ukraine must prepare* ([The Economist](http://economist.com), March 27, 2024)
 
 ---
 
@@ -3285,7 +3285,7 @@ CNN ran the above pic to illustrate an op-ed about Ukraine[2](#footnote-2). I do
 
 [2](#footnote-anchor-2)
 
-[The heroism of Ukraine and the nihilism of Mike Johnson](https://edition.cnn.com/2024/03/28/opinions/kyiv-ukraine-russia-missile-attack-culture-glaser-shore/index.html) ([CNN](http://cnn.com), March 27, 2024)
+[The heroism of Ukraine and the nihilism of Mike Johnson](https://edition.cnn.com/2024/03/28/opinions/kyiv-ukraine-russia-missile-attack-culture-glaser-shore/index.html) ([CNN](http://cnn.com), March 28, 2024)
 
 ---
 
@@ -3673,7 +3673,7 @@ Ending on a positive note, this video of a thwarted attack on the zero line near
 
 [1](#footnote-anchor-1)
 
-[When a top Republican says Russian propaganda has infected the GOP.](https://www.washingtonpost.com/politics/2024/04/07/russian-propaganda-republicans-congress/) *House Foreign Affairs Committee Chairman Michael McCaul is the latest to point out such a problem in his party* ([The Washington Post](http://wapo.st), April 6, 2024)
+[When a top Republican says Russian propaganda has infected the GOP.](https://www.washingtonpost.com/politics/2024/04/07/russian-propaganda-republicans-congress/) *House Foreign Affairs Committee Chairman Michael McCaul is the latest to point out such a problem in his party* ([The Washington Post](http://wapo.st), April 7, 2024)
 
 ---
 
@@ -4374,7 +4374,7 @@ Big article about EW [here](https://www.pravda.com.ua/eng/articles/2024/04/25/74
 
 [1](#footnote-anchor-1)
 
-[Another US precision-guided weapon falls prey to Russian electronic warfare, US says](https://www.defenseone.com/threats/2024/04/another-us-precision-guided-weapon-falls-prey-russian-electronic-warfare-us-says/396141/). *A U.S. defense official would not provide specifics, but is likely referring to Boeing’s Ground-Launched Small Diameter Bomb* ([Defense One](http://defenseone.com), April 28, 2004)
+[Another US precision-guided weapon falls prey to Russian electronic warfare, US says](https://www.defenseone.com/threats/2024/04/another-us-precision-guided-weapon-falls-prey-russian-electronic-warfare-us-says/396141/). *A U.S. defense official would not provide specifics, but is likely referring to Boeing’s Ground-Launched Small Diameter Bomb* ([Defense One](http://defenseone.com), April 28, 2024)
 
 [2](#footnote-anchor-2)
 
@@ -4929,7 +4929,7 @@ Someone posted this vid of mop-up ops in [Hlyboke](https://www.google.com/maps/p
 
 [1](#footnote-anchor-1)
 
-[White House Worries Russia’s Momentum Is Changing Trajectory of Ukraine War.](https://www.nytimes.com/2024/05/14/us/politics/russia-momentum-ukraine-war.html)*Multiple factors are helping Russia’s military advance, including a delay in American* weaponry and Moscow’s technological innovations on the battlefield ([The New York Times](http://nyt.com), May 15, 2023)
+[White House Worries Russia’s Momentum Is Changing Trajectory of Ukraine War.](https://www.nytimes.com/2024/05/14/us/politics/russia-momentum-ukraine-war.html)*Multiple factors are helping Russia’s military advance, including a delay in American* weaponry and Moscow’s technological innovations on the battlefield ([The New York Times](http://nyt.com), May 14, 2024)
 
 [2](#footnote-anchor-2)
 
