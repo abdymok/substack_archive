@@ -277,3 +277,9 @@ The original article text and commentary were otherwise preserved. No link count
 
 - Corrected the Day 742 (March 6) footnote for “Ukraine’s first lady declines State of the Union invitation.” The Washington Post page is dated March 5, 2024 (and its URL is under `/2024/03/05/`); the archived footnote had said March 6. The post date remains March 6.
 - Original-post commit: cce6d6cf53116227e63b439a9ec03d8f34253736. Bibliography commit: 66fff75001fd8e555a034d0cca5ce8605eb10364. Verification: Washington Post article page, `turn579204search0`.
+
+
+### March 2024 citation-date correction — Day 738
+
+- Corrected the Day 738 (March 2) footnote for Anne Applebaum's Atlantic essay, “Why Is Trump Trying to Make Ukraine Lose?” The article was published February 29, 2024, as confirmed by the author's Atlantic archive and contemporaneous author-page listing. The post footnote had used March 2, the date of the archive post. Corrected the source publication date; the post date remains March 2.
+- Original-post commit: bacbdb4a3248dbe6925846e8707495deebe70241. Verification: Anne Applebaum's article page and Atlantic archive listing, `turn292241search0` and `turn292241search2`.
