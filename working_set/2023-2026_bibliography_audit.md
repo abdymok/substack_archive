@@ -21,18 +21,18 @@ Counts are link occurrences and distinct posts, not unique articles, readership,
 | Year | Recurring external publishers | Category breakdown |
 |---|---:|---|
 | 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
-| 2024 | 94 | 38 international news; 15 Ukrainian media; 10 research; 8 official; 10 reference; 13 platforms, specialist publications and other |
-| 2025 | 100 | 35 international news; 12 Ukrainian media; 10 research; 12 official; 13 reference; 17 platforms, specialist publications and other; 1 state media |
+| 2024 | 94 | 37 international news; 15 Ukrainian media; 11 research; 8 official; 11 reference; 12 platforms, specialist publications and other |
+| 2025 | 99 | 35 international news; 12 Ukrainian media; 10 research; 11 official; 13 reference; 17 platforms, specialist publications and other; 1 state media |
 | 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
-| **Total annual entries** | **308** | A publisher recurring in more than one year appears once in each relevant year. |
+| **Total annual entries** | **307** | A publisher recurring in more than one year appears once in each relevant year. |
 
 The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same core categories, with a separate state-media category where relevant.
 
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `5bb2bb9ef882f888e89808ac6963a6caacaf2856`
-- Verified: 308 entries; 57 / 94 / 100 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
+- Latest HTML commit: `f694b5689ac24adb3a7120b2b3f4bf90d4fa4380`
+- Verified: 307 entries; 57 / 94 / 99 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
 
@@ -127,12 +127,12 @@ These are link occurrences across the entire source-year dataset, not publisher-
 
 | Category | 2023 | 2024 | 2025 | 2026 |
 |---|---:|---:|---:|---:|
-| News | 413 | 736 | 476 | 270 |
+| News | 413 | 733 | 475 | 270 |
 | Ukrainian media | 65 | 130 | 65 | 51 |
 | Research | 53 | 81 | 66 | 32 |
 | Official sources | 36 | 51 | 58 | 47 |
 | Reference | 145 | 156 | 187 | 163 |
-| Social media | 167 | 243 | 238 | 157 |
+| Social media | 167 | 246 | 239 | 157 |
 | Other / unclassified | 126 | 152 | 135 | 117 |
 | State media | 0 | 0 | 2 | 0 |
 | Personal archive | 243 | 168 | 114 | 295 |
@@ -164,3 +164,13 @@ The new annotations explicitly preserve the author's criticism of a source's fra
 - Reclassified the Ukraine Economic Outlook Substack publication as research and analysis and normalized its display name; its three 2024 links are now grouped with the organization's other research references.
 
 - Reclassified Ukraine Economic Outlook (Substack) as research and analysis, the History of Economic Thought Website as reference, and Media Matters for America as media-monitoring research. The corresponding annual HTML sections and category-year totals were recalculated.
+
+
+### Publisher alias consolidation
+
+The final count reconciliation exposed two publishers split across multiple hostnames:
+
+- **Yahoo News:** consolidated `yahoo.com`, `uk.news.yahoo.com`, `news.yahoo.com` and `ca.news.yahoo.com`. The 2024 and 2025 entries now include all four links in their respective years.
+- **The White House:** consolidated `whitehouse.gov` and `wh.gov`. The 2025 HTML now has one publisher entry with six links across six posts, not two separate entries.
+
+This removes one duplicate publisher-year entry from 2025. The annual publisher counts are therefore 57 / 94 / 99 / 57, or **307 annual entries**. The source-year, publisher and category-year tables have been updated to match.
