@@ -31,7 +31,7 @@ The 2023 categories and annotations are retained from the original HTML template
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `f694b5689ac24adb3a7120b2b3f4bf90d4fa4380`
+- Latest HTML commit: `104a92f77529c754dc7188f8360b36c3161b1cd7`
 - Verified: 307 entries; 57 / 94 / 99 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
@@ -174,3 +174,5 @@ The final count reconciliation exposed two publishers split across multiple host
 - **The White House:** consolidated `whitehouse.gov` and `wh.gov`. The 2025 HTML now has one publisher entry with six links across six posts, not two separate entries.
 
 This removes one duplicate publisher-year entry from 2025. The annual publisher counts are therefore 57 / 94 / 99 / 57, or **307 annual entries**. The source-year, publisher and category-year tables have been updated to match.
+
+- Normalized the remaining raw domain labels in the annual bibliography, including the Stanford Encyclopedia of Philosophy, Office of the Director of National Intelligence, NABU, Internet Archive, Truth Social, KonMari, Apple Podcasts and Western States Endurance Run.
