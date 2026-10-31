@@ -34,13 +34,13 @@ The 2023 categories and annotations are retained from the original HTML template
 - Latest HTML commit: `fa0601d2f7d3589001d3819ac8032f79e742381d`
 - Verified: 310 entries; 57 / 96 / 100 / 57 by year; 22 opening and closing section tags; no empty example links.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
-- Forty-four entries in the 2024–2026 sections now have more specific annotations: 24 for 2024, ten for 2025 and ten for 2026. The 2024 additions draw on individual post files and linked-reference records, with examples from international news, Ukrainian media, research, polling and official sources. The remaining 2024–2026 annotations still need post-level enrichment; they should not be treated as equally detailed.
+- Fifty-one entries in the 2024–2026 sections now have more specific annotations: 31 for 2024, ten for 2025 and ten for 2026. The 2024 additions draw on individual post files and linked-reference records, with examples from international news, Ukrainian media, research, polling and official sources. The remaining 2024–2026 annotations still need post-level enrichment; they should not be treated as equally detailed.
 
-### 2024 editorial pass: first batches
+### 2024 editorial pass: first three batches
 
-Updated the 2024 section with post-level annotations for 14 additional publishers, bringing the number of enriched entries in that year to 24. The new notes cover The Washington Post, CNN, Financial Times, Bloomberg, Foreign Affairs, ZN.ua, POLITICO Europe, the Office of the President of Ukraine, Ukrainska Pravda, Interfax-Ukraine, Censor.NET, DeepStateMap, the Institute for the Study of War and the Kyiv International Institute of Sociology.
+Updated the 2024 section with post-level annotations for 21 additional publishers across three batches, bringing the number of enriched entries in that year to 31. The new notes cover The Washington Post, CNN, Financial Times, Bloomberg, Foreign Affairs, ZN.ua, POLITICO Europe, the Office of the President of Ukraine, Ukrainska Pravda, Interfax-Ukraine, Censor.NET, DeepStateMap, the Institute for the Study of War and the Kyiv International Institute of Sociology, NATO, DTEK, the Ukraine Recovery Conference, the White House, United24, Ukraine.ua and the U.S. Department of Defense.
 
-The pass sampled the individual 2024 Markdown posts, including Days 675, 681, 696, 707, 743, 799, 820, 824, 849, 883, 897, 904, 924, 953, 958, 959 and 986. The source-level descriptions now distinguish reporting, official statements, survey evidence, operational mapping and policy argument, and note when the archive disputes a source rather than endorsing it.
+The pass sampled the individual 2024 Markdown posts, including Days 675, 679, 681, 695, 696, 707, 743, 785, 799, 820, 824, 830, 839, 847, 849, 883, 897, 904, 924, 953, 957, 958, 959, 973 and 986. The source-level descriptions now distinguish reporting, official statements, survey evidence, operational mapping, energy-system notices and policy argument, and note when the archive disputes a source rather than endorsing it.
 
 **Citation issue flagged:** Day 681 (January 5, 2024) describes a link as a *Washington Post* story about Ukrainian marines east of the Dnipro, but the hyperlink points to a `wsj.com` URL whose slug concerns Russian plans to buy Iranian ballistic missiles. The bibliography flags this mismatch. Do not silently repair the link without checking the original source.
 
