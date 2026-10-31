@@ -20,7 +20,7 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 2. Finish timestamp checks for Day 775 (Washington Post original versus update date), Day 843 (POLITICO), Day 1108 (NYT café story), Day 1205 (NYT McConnell story), and Day 1373 (The Economist). Day 1042 Axios is annotated December 30; exact time remains unavailable.
 3. Recover the canonical NYT destination for Day 1121. Do not guess or insert a reconstructed URL.
 4. Obtain author confirmation on the Day 440ish label versus its Day 400 slug and numeric metadata.
-5. Continue the 112 unresolved Z-substitution candidates individually. Do not use global replacement.
+5. Continue the 110 unresolved Z-substitution candidates individually. Do not use global replacement.
 6. Complete the remaining domain/source-classification review and any necessary editorial annotation improvements.
 7. Inspect the rendered bibliography and appendix in a desktop and mobile browser. Source-level CSS checks are not a substitute for rendered QA.
 8. Review the draft pull request. Merge and deployment remain deferred until the above work is complete.
@@ -34,3 +34,8 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 - `2023-2026_annotated_bibliography.html`
 - `2023-2026_all_years_appendix.html`
 - `2023-2026_all_years_single_day_sources.csv`
+
+
+## Z-substitution update
+
+Two further canonical URLs were verified against Washington Post publisher pages and restored in the Day 425 and Day 446 post copies, 2023 linked-reference CSV, normalized link dataset and Z review queue. The queue now records 5 verified cases and 110 candidates still pending. No global replacement was used.
