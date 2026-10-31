@@ -30,6 +30,7 @@ POLITICO,news,2023,7,5,5
 The Economist,news,2023,6,4,5
 The Kyiv Independent,Ukrainian media,2023,6,6,6
 Ukraine Economic Outlook,research,2023,6,4,5
+Associated Press,news,2023,5,5,3
 bit.ly,reference,2023,5,5,5
 britannica.com,reference,2023,5,5,3
 C-SPAN,news,2023,5,5,5
@@ -37,7 +38,6 @@ Google Books / Google,reference,2023,5,5,5
 newsweek.com,news,2023,5,4,2
 Stefan Korshak (Substack),social media,2023,5,5,3
 Ukrainska Pravda,Ukrainian media,2023,5,4,4
-Associated Press,news,2023,4,4,3
 Bloomberg,news,2023,4,3,3
 Bruce Mau Studio,personal / creative,2023,4,1,2
 Foreign Affairs,news,2023,4,3,2
@@ -80,18 +80,15 @@ TikTok,social media,2023,2,2,2
 Ukraine Recovery Conference,official sources,2023,2,1,2
 Veranda on the River,business / commercial,2023,2,2,1
 Wikipedia (German),reference,2023,2,2,1
-@jamiewrit,other / unclassified,2023,1,1,1
 @nytimes,news,2023,1,1,1
-@tabletochki,other / unclassified,2023,1,1,1
 161.ru,news,2023,1,1,1
 abc.net.au,news,2023,1,1,1
 abcnews.go.com,news,2023,1,1,1
 Amazon,business / commercial,2023,1,1,1
-americanrifleman.org,other / unclassified,2023,1,1,1
+American Rifleman,news,2023,1,1,1
 AP Images,reference,2023,1,1,1
-ap.org,other / unclassified,2023,1,1,1
 archive.org,reference,2023,1,1,1
-atncorp.com,other / unclassified,2023,1,1,1
+ATN Corporation,business / commercial,2023,1,1,1
 axios.com,news,2023,1,1,1
 AZQuotes,reference,2023,1,1,1
 Babel,Ukrainian media,2023,1,1,1
@@ -100,8 +97,8 @@ BelTA,state media,2023,1,1,1
 BelTA,news,2023,1,1,1
 BFMTV,news,2023,1,1,1
 Bild,news,2023,1,1,1
-book-online.com.ua,other / unclassified,2023,1,1,1
-boursier.com,other / unclassified,2023,1,1,1
+Book-Online,reference,2023,1,1,1
+Boursier.com,news,2023,1,1,1
 brave1.gov.ua,official sources,2023,1,1,1
 brucemaudesign.com,other / unclassified,2023,1,1,1
 Business Insider,news,2023,1,1,1
@@ -155,6 +152,7 @@ Institute for Human Sciences (IWM),research,2023,1,1,1
 International Committee of the Red Cross,official sources,2023,1,1,1
 itd.rada.gov.ua,official sources,2023,1,1,1
 James Rushton (Substack),personal archive,2023,1,1,1
+Jamie Dettmer,social media,2023,1,1,1
 jjq.utulsa.edu,research,2023,1,1,1
 John Mearsheimer (Substack),personal archive,2023,1,1,1
 Johns Hopkins Medicine,official sources,2023,1,1,1
@@ -235,6 +233,7 @@ straitstimes.com,news,2023,1,1,1
 Strength at Home,research,2023,1,1,1
 Sud.ua,Ukrainian media,2023,1,1,1
 Suspilne,Ukrainian media,2023,1,1,1
+Tabletochki,social media,2023,1,1,1
 Techiia Foundation,official sources,2023,1,1,1
 The Cipher Brief,news,2023,1,1,1
 The Conversation,news,2023,1,1,1
@@ -308,11 +307,11 @@ Fox News,news,2024,10,7,6
 Institute for the Study of War,research,2024,10,7,7
 Just Security,research,2024,8,5,2
 Ukrinform,Ukrainian media,2024,8,6,6
+BBC,news,2024,7,7,7
 Kyiv Post,Ukrainian media,2024,7,6,2
 The New Voice of Ukraine,Ukrainian media,2024,7,7,6
 Tootsie Club,business / commercial,2024,7,2,7
 americafirstpolicy.com,research,2024,6,3,2
-BBC,news,2024,6,6,6
 nypost.com,news,2024,6,4,2
 Rev,reference,2024,6,6,1
 Wikipedia (Russian),reference,2024,6,5,5
@@ -373,7 +372,7 @@ euromaidanpress.com,news,2024,2,2,1
 European Commission,official sources,2024,2,1,1
 globenewswire.com,news,2024,2,2,1
 Google Books,reference,2024,2,2,2
-hetwebsite.net,other / unclassified,2024,2,1,2
+History of Economic Thought Website,reference,2024,2,1,2
 inquirer.com,news,2024,2,2,1
 Institute for Strategic Dialogue,research,2024,2,2,1
 Literary Hub,news,2024,2,2,1
@@ -397,30 +396,28 @@ uk.news.yahoo.com,news,2024,2,2,2
 Ukraine.ua,official sources,2024,2,2,2
 ukranews.com,news,2024,2,1,1
 US Department of Defense,official sources,2024,2,2,2
-@markusua,other / unclassified,2024,1,1,1
-44.ua,other / unclassified,2024,1,1,1
-5.ua,other / unclassified,2024,1,1,1
+23degrees,reference,2024,1,1,1
+44.ua,Ukrainian media,2024,1,1,1
+5 Kanal,Ukrainian media,2024,1,1,1
 abdymok (legacy Google Sites),personal archive,2024,1,1,1
-achievement.org,other / unclassified,2024,1,1,1
-adsport.store,other / unclassified,2024,1,1,1
-afterilovaisk.com,other / unclassified,2024,1,1,1
+AD Sport,business / commercial,2024,1,1,1
+After Ilovaisk,research,2024,1,1,1
 aljazeera.com,news,2024,1,1,1
-allpoetry.com,other / unclassified,2024,1,1,1
+All Poetry,social media,2024,1,1,1
+American Academy of Achievement,official sources,2024,1,1,1
+Americas Society / Council of the Americas,research,2024,1,1,1
 AP Images,reference,2024,1,1,1
-app.23degrees.io,other / unclassified,2024,1,1,1
-apps.apple.com,other / unclassified,2024,1,1,1
+Apple App Store,business / commercial,2024,1,1,1
 archive.kyivpost.com,news,2024,1,1,1
-arstechnica.com,other / unclassified,2024,1,1,1
-as-coa.org,other / unclassified,2024,1,1,1
-aspi.com.ua,other / unclassified,2024,1,1,1
+Ars Technica,news,2024,1,1,1
+ASPI,Ukrainian media,2024,1,1,1
 atlanticcouncil.org,research,2024,1,1,1
-atlasobscura.com,other / unclassified,2024,1,1,1
-bbc.co.uk,other / unclassified,2024,1,1,1
-behance.net,other / unclassified,2024,1,1,1
-berliner-woche.de,other / unclassified,2024,1,1,1
-berliner-zeitung.de,other / unclassified,2024,1,1,1
+Atlas Obscura,news,2024,1,1,1
+Behance,social media,2024,1,1,1
+Berliner Woche,news,2024,1,1,1
+Berliner Zeitung,news,2024,1,1,1
 BFMTV,news,2024,1,1,1
-bihus.info,other / unclassified,2024,1,1,1
+Bihus.Info,Ukrainian media,2024,1,1,1
 britannica.com,reference,2024,1,1,1
 Bruce Mau Studio,personal / creative,2024,1,1,1
 bumble.com,other / unclassified,2024,1,1,1
@@ -510,6 +507,7 @@ link.springer.com,other / unclassified,2024,1,1,1
 London Review of Books,news,2024,1,1,1
 lrt.lt,other / unclassified,2024,1,1,1
 m.censor.net,other / unclassified,2024,1,1,1
+Markus (social profile),social media,2024,1,1,1
 media.defense.gov,official sources,2024,1,1,1
 mfa.gov.cn,other / unclassified,2024,1,1,1
 miamiherald.com,news,2024,1,1,1
@@ -693,10 +691,11 @@ Archive.fo,reference,2025,2,2,2
 archive.org,reference,2025,2,2,2
 army.mil,official sources,2025,2,2,2
 atlanticcouncil.org,research,2025,2,2,1
+Auchan,business / commercial,2025,2,2,1
 Babel,Ukrainian media,2025,2,1,1
 C-SPAN,news,2025,2,2,2
 Cabinet of Ministers of Ukraine,official sources,2025,2,2,2
-defence.org.ua,other / unclassified,2025,2,2,2
+Center for Defence Strategies,research,2025,2,2,2
 dw.com,news,2025,2,2,2
 EU Neighbours East,official sources,2025,2,2,1
 Google Books,reference,2025,2,2,2
@@ -730,27 +729,24 @@ Western States Endurance Run,official sources,2025,2,1,2
 wh.gov,official sources,2025,2,1,2
 Wikipedia (German),reference,2025,2,2,2
 Yalta European Strategy,research,2025,2,2,2
-@tatarigami,other / unclassified,2025,1,1,1
-425skala.com,other / unclassified,2025,1,1,1
+12th Special Forces Brigade Azov,official sources,2025,1,1,1
+425th Separate Assault Regiment Skala,official sources,2025,1,1,1
 abdymok (legacy Google Sites),personal archive,2025,1,1,1
 afsoc.af.mil,official sources,2025,1,1,1
 aljazeera.com,news,2025,1,1,1
-anduril.com,other / unclassified,2025,1,1,1
-anewz.tv,other / unclassified,2025,1,1,1
-antilogicalism.com,other / unclassified,2025,1,1,1
+Anduril Industries,business / commercial,2025,1,1,1
+AnewZ,news,2025,1,1,1
+Antilogicalism,personal / creative,2025,1,1,1
 apostrophe.ua,news,2025,1,1,1
-arthuss.com.ua,other / unclassified,2025,1,1,1
+ArtHuss,business / commercial,2025,1,1,1
 atm.mmu.ac.uk,research,2025,1,1,1
-auchan.fr,other / unclassified,2025,1,1,1
-auchan.ua,other / unclassified,2025,1,1,1
-azov.org.ua,other / unclassified,2025,1,1,1
 banking.senate.gov,official sources,2025,1,1,1
 BelTA,news,2025,1,1,1
 Bild,news,2025,1,1,1
-binance.com,other / unclassified,2025,1,1,1
+Binance,business / commercial,2025,1,1,1
 bnn-news.com,news,2025,1,1,1
 brave1.gov.ua,official sources,2025,1,1,1
-breakingdefense.com,other / unclassified,2025,1,1,1
+Breaking Defense,news,2025,1,1,1
 bubsnaturals.com,other / unclassified,2025,1,1,1
 Business Insider,news,2025,1,1,1
 buttondown.com,other / unclassified,2025,1,1,1
@@ -873,6 +869,7 @@ Stripe,business / commercial,2025,1,1,1
 supreme.justia.com,other / unclassified,2025,1,1,1
 Suspilne,Ukrainian media,2025,1,1,1
 tass.com,other / unclassified,2025,1,1,1
+Tatarigami,social media,2025,1,1,1
 teufelsberg-berlin.de,other / unclassified,2025,1,1,1
 thebulwark.com,other / unclassified,2025,1,1,1
 thecharliekirkshow.com,other / unclassified,2025,1,1,1
@@ -984,26 +981,25 @@ US Congress,official sources,2026,2,2,1
 WorldCat,reference,2026,2,2,1
 Yahoo Finance,news,2026,2,2,1
 ...,other / unclassified,2026,1,1,1
+ABC 33/40,news,2026,1,1,1
 abc.net.au,news,2026,1,1,1
-abc3340.com,other / unclassified,2026,1,1,1
 abcnews.com,news,2026,1,1,1
-academic.oup.com,other / unclassified,2026,1,1,1
-acleddata.com,other / unclassified,2026,1,1,1
-agbull.com,other / unclassified,2026,1,1,1
-alerts.in.ua,other / unclassified,2026,1,1,1
+ACLED,research,2026,1,1,1
+Ag Bull Trading,news,2026,1,1,1
+Alerts.in.ua,reference,2026,1,1,1
 Amazon,business / commercial,2026,1,1,1
-antikvar.ua,other / unclassified,2026,1,1,1
+Antikvar,Ukrainian media,2026,1,1,1
 apostrophe.ua,news,2026,1,1,1
 archive.org,reference,2026,1,1,1
 argusmedia.com,news,2026,1,1,1
 army.mil,official sources,2026,1,1,1
-arxiv.org,other / unclassified,2026,1,1,1
+arXiv,research,2026,1,1,1
 Babel,Ukrainian media,2026,1,1,1
 bellingcat.com,research,2026,1,1,1
-benzinga.com,other / unclassified,2026,1,1,1
-bluettipower.com,other / unclassified,2026,1,1,1
-bright-products.com,other / unclassified,2026,1,1,1
-brooklyneagle.com,other / unclassified,2026,1,1,1
+Benzinga,news,2026,1,1,1
+BLUETTI,business / commercial,2026,1,1,1
+Bright Products,business / commercial,2026,1,1,1
+Brooklyn Eagle,news,2026,1,1,1
 Carnegie Endowment,research,2026,1,1,1
 Censor.NET,Ukrainian media,2026,1,1,1
 cfa.harvard.edu,research,2026,1,1,1
@@ -1092,6 +1088,7 @@ news.telegraf.com.ua,news,2026,1,1,1
 notesfromkyiv.substack.com,other / unclassified,2026,1,1,1
 olympics.com,other / unclassified,2026,1,1,1
 oversight.gov,official sources,2026,1,1,1
+Oxford University Press Academic,research,2026,1,1,1
 pangram.com,other / unclassified,2026,1,1,1
 patreon.com,other / unclassified,2026,1,1,1
 plato.stanford.edu,research,2026,1,1,1
