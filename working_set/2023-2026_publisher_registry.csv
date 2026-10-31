@@ -19,7 +19,7 @@ Facebook,social media,facebook.com,59,54,50,2023;2024;2025;2026
 abdymok (GitHub Pages),personal archive,abdymok.github.io,54,17,26,2026
 Ukrainska Pravda,Ukrainian media,pravda.com.ua,53,43,41,2023;2024;2025;2026
 The Economist,news,economist.com,50,27,29,2023;2024;2025;2026
-Associated Press,news,ap.com;apnews.com,46,33,36,2023;2024;2025;2026
+Associated Press,news,ap.com;ap.org;apnews.com,47,34,36,2023;2024;2025;2026
 Institute for the Study of War,research,understandingwar.org,46,33,31,2023;2024;2025;2026
 POLITICO Europe,news,politico.eu,45,30,30,2023;2024;2025;2026
 Interfax-Ukraine,Ukrainian media,en.interfax.com.ua;interfax.com.ua,43,37,35,2023;2024;2025;2026
@@ -31,7 +31,7 @@ Office of the President of Ukraine,official sources,president.gov.ua,29,29,26,20
 Censor.NET,Ukrainian media,censor.net,28,27,24,2023;2024;2025;2026
 Foreign Affairs,news,foreignaffairs.com,27,14,14,2023;2024;2025;2026
 ZN.ua,Ukrainian media,zn.ua,26,18,16,2023;2024;2025;2026
-BBC,news,bbc.com,24,21,19,2023;2024;2025;2026
+BBC,news,bbc.co.uk;bbc.com,25,22,20,2023;2024;2025;2026
 DeepStateMap,research,deepstatemap.live,22,20,20,2023;2024;2025
 Fox News,news,foxnews.com,21,14,16,2024;2025
 Internet Archive / Wayback Machine,reference,web.archive.org,21,20,13,2023;2024;2025;2026
@@ -188,19 +188,20 @@ AP Images,reference,apimagesblog.com,2,2,2,2023;2024
 apostrophe.ua,news,apostrophe.ua,2,2,2,2025;2026
 app.quotemedia.com,news,app.quotemedia.com,2,2,1,2026
 Archive.fo,reference,archive.fo,2,2,2,2025
+Auchan,business / commercial,auchan.fr;auchan.ua,2,2,1,2025
 BelTA,news,belta.by,2,2,2,2023;2025
 BFMTV,news,bfmtv.com,2,2,2,2023;2024
 Bild,news,bild.de,2,2,2,2023;2025
 Bird in Flight,Ukrainian media,birdinflight.com,2,2,1,2024
 brave1.gov.ua,official sources,brave1.gov.ua,2,1,2,2023;2025
 buzzfeednews.com,news,buzzfeednews.com,2,2,2,2024
+Center for Defence Strategies,research,defence.org.ua,2,2,2,2025
 Chesno Movement,research,chesno.org,2,2,2,2023;2025
 CNBC,news,cnbc.com,2,2,2,2024
 Columbia Journalism Review,research,cjr.org,2,2,2,2025;2026
 Comments.ua,Ukrainian media,azart.comments.ua,2,2,1,2024
 Council of the European Union,official sources,consilium.europa.eu,2,2,2,2023;2025
 counteroffensive.news,news,counteroffensive.news,2,2,2,2026
-defence.org.ua,other / unclassified,defence.org.ua,2,2,2,2025
 Detachment A,reference,detachment-a.org,2,2,2,2023;2026
 dia.mil,official sources,dia.mil,2,1,2,2023;2025
 Dodo Socks,business / commercial,dodosocks.com,2,2,2,2025;2026
@@ -214,7 +215,7 @@ Gazeta.ua,Ukrainian media,gazeta.ua,2,2,2,2023;2024
 GEM Wiki,reference,gem.wiki,2,2,2,2024;2026
 globenewswire.com,news,globenewswire.com,2,2,1,2024
 Goodreads,reference,goodreads.com,2,2,2,2025;2026
-hetwebsite.net,other / unclassified,hetwebsite.net,2,1,2,2024
+History of Economic Thought Website,reference,hetwebsite.net,2,1,2,2024
 Institute for Strategic Dialogue,research,isi.org,2,2,1,2024
 Institute of Mass Information,research,imi.org.ua,2,2,2,2024;2026
 Johns Hopkins Medicine,official sources,hopkinsmedicine.org,2,1,2,2023;2024
@@ -282,64 +283,55 @@ World Economic Forum,research,weforum.org,2,2,2,2024;2026
 WorldCat,reference,worldcat.org,2,2,1,2026
 Yahoo Finance,news,finance.yahoo.com,2,2,1,2026
 ...,other / unclassified,...,1,1,1,2026
-@jamiewrit,other / unclassified,@jamiewrit,1,1,1,2023
-@markusua,other / unclassified,@markusua,1,1,1,2024
 @nytimes,news,@nytimes,1,1,1,2023
-@tabletochki,other / unclassified,@tabletochki,1,1,1,2023
-@tatarigami,other / unclassified,@tatarigami,1,1,1,2025
+12th Special Forces Brigade Azov,official sources,azov.org.ua,1,1,1,2025
 161.ru,news,161.ru,1,1,1,2023
-425skala.com,other / unclassified,425skala.com,1,1,1,2025
-44.ua,other / unclassified,44.ua,1,1,1,2024
-5.ua,other / unclassified,5.ua,1,1,1,2024
-abc3340.com,other / unclassified,abc3340.com,1,1,1,2026
+23degrees,reference,app.23degrees.io,1,1,1,2024
+425th Separate Assault Regiment Skala,official sources,425skala.com,1,1,1,2025
+44.ua,Ukrainian media,44.ua,1,1,1,2024
+5 Kanal,Ukrainian media,5.ua,1,1,1,2024
+ABC 33/40,news,abc3340.com,1,1,1,2026
 abcnews.com,news,abcnews.com,1,1,1,2026
-academic.oup.com,other / unclassified,academic.oup.com,1,1,1,2026
-achievement.org,other / unclassified,achievement.org,1,1,1,2024
-acleddata.com,other / unclassified,acleddata.com,1,1,1,2026
-adsport.store,other / unclassified,adsport.store,1,1,1,2024
+ACLED,research,acleddata.com,1,1,1,2026
+AD Sport,business / commercial,adsport.store,1,1,1,2024
 afsoc.af.mil,official sources,afsoc.af.mil,1,1,1,2025
-afterilovaisk.com,other / unclassified,afterilovaisk.com,1,1,1,2024
-agbull.com,other / unclassified,agbull.com,1,1,1,2026
-alerts.in.ua,other / unclassified,alerts.in.ua,1,1,1,2026
-allpoetry.com,other / unclassified,allpoetry.com,1,1,1,2024
-americanrifleman.org,other / unclassified,americanrifleman.org,1,1,1,2023
-anduril.com,other / unclassified,anduril.com,1,1,1,2025
-anewz.tv,other / unclassified,anewz.tv,1,1,1,2025
-antikvar.ua,other / unclassified,antikvar.ua,1,1,1,2026
-antilogicalism.com,other / unclassified,antilogicalism.com,1,1,1,2025
-ap.org,other / unclassified,ap.org,1,1,1,2023
-app.23degrees.io,other / unclassified,app.23degrees.io,1,1,1,2024
-apps.apple.com,other / unclassified,apps.apple.com,1,1,1,2024
+After Ilovaisk,research,afterilovaisk.com,1,1,1,2024
+Ag Bull Trading,news,agbull.com,1,1,1,2026
+Alerts.in.ua,reference,alerts.in.ua,1,1,1,2026
+All Poetry,social media,allpoetry.com,1,1,1,2024
+American Academy of Achievement,official sources,achievement.org,1,1,1,2024
+American Rifleman,news,americanrifleman.org,1,1,1,2023
+Americas Society / Council of the Americas,research,as-coa.org,1,1,1,2024
+Anduril Industries,business / commercial,anduril.com,1,1,1,2025
+AnewZ,news,anewz.tv,1,1,1,2025
+Antikvar,Ukrainian media,antikvar.ua,1,1,1,2026
+Antilogicalism,personal / creative,antilogicalism.com,1,1,1,2025
+Apple App Store,business / commercial,apps.apple.com,1,1,1,2024
 argusmedia.com,news,argusmedia.com,1,1,1,2026
-arstechnica.com,other / unclassified,arstechnica.com,1,1,1,2024
-arthuss.com.ua,other / unclassified,arthuss.com.ua,1,1,1,2025
-arxiv.org,other / unclassified,arxiv.org,1,1,1,2026
-as-coa.org,other / unclassified,as-coa.org,1,1,1,2024
-aspi.com.ua,other / unclassified,aspi.com.ua,1,1,1,2024
-atlasobscura.com,other / unclassified,atlasobscura.com,1,1,1,2024
+Ars Technica,news,arstechnica.com,1,1,1,2024
+ArtHuss,business / commercial,arthuss.com.ua,1,1,1,2025
+arXiv,research,arxiv.org,1,1,1,2026
+ASPI,Ukrainian media,aspi.com.ua,1,1,1,2024
+Atlas Obscura,news,atlasobscura.com,1,1,1,2024
 atm.mmu.ac.uk,research,atm.mmu.ac.uk,1,1,1,2025
-atncorp.com,other / unclassified,atncorp.com,1,1,1,2023
-auchan.fr,other / unclassified,auchan.fr,1,1,1,2025
-auchan.ua,other / unclassified,auchan.ua,1,1,1,2025
-azov.org.ua,other / unclassified,azov.org.ua,1,1,1,2025
+ATN Corporation,business / commercial,atncorp.com,1,1,1,2023
 AZQuotes,reference,azquotes.com,1,1,1,2023
 banking.senate.gov,official sources,banking.senate.gov,1,1,1,2025
-bbc.co.uk,other / unclassified,bbc.co.uk,1,1,1,2024
 BBG Watch,news,bbgwatch.com,1,1,1,2023
-behance.net,other / unclassified,behance.net,1,1,1,2024
+Behance,social media,behance.net,1,1,1,2024
 BelTA,state media,eng.belta.by,1,1,1,2023
-benzinga.com,other / unclassified,benzinga.com,1,1,1,2026
-berliner-woche.de,other / unclassified,berliner-woche.de,1,1,1,2024
-berliner-zeitung.de,other / unclassified,berliner-zeitung.de,1,1,1,2024
-bihus.info,other / unclassified,bihus.info,1,1,1,2024
-binance.com,other / unclassified,binance.com,1,1,1,2025
-bluettipower.com,other / unclassified,bluettipower.com,1,1,1,2026
+Benzinga,news,benzinga.com,1,1,1,2026
+Berliner Woche,news,berliner-woche.de,1,1,1,2024
+Berliner Zeitung,news,berliner-zeitung.de,1,1,1,2024
+Bihus.Info,Ukrainian media,bihus.info,1,1,1,2024
+Binance,business / commercial,binance.com,1,1,1,2025
+BLUETTI,business / commercial,bluettipower.com,1,1,1,2026
 bnn-news.com,news,bnn-news.com,1,1,1,2025
-book-online.com.ua,other / unclassified,book-online.com.ua,1,1,1,2023
-boursier.com,other / unclassified,boursier.com,1,1,1,2023
-breakingdefense.com,other / unclassified,breakingdefense.com,1,1,1,2025
-bright-products.com,other / unclassified,bright-products.com,1,1,1,2026
-brooklyneagle.com,other / unclassified,brooklyneagle.com,1,1,1,2026
+Book-Online,reference,book-online.com.ua,1,1,1,2023
+Boursier.com,news,boursier.com,1,1,1,2023
+Breaking Defense,news,breakingdefense.com,1,1,1,2025
+Bright Products,business / commercial,bright-products.com,1,1,1,2026
+Brooklyn Eagle,news,brooklyneagle.com,1,1,1,2026
 brucemaudesign.com,other / unclassified,brucemaudesign.com,1,1,1,2023
 bubsnaturals.com,other / unclassified,bubsnaturals.com,1,1,1,2025
 bumble.com,other / unclassified,bumble.com,1,1,1,2024
@@ -504,6 +496,7 @@ itd.rada.gov.ua,official sources,itd.rada.gov.ua,1,1,1,2023
 itv.com,other / unclassified,itv.com,1,1,1,2026
 iwm.org.uk,other / unclassified,iwm.org.uk,1,1,1,2026
 James Rushton (Substack),personal archive,jamesrushton.substack.com,1,1,1,2023
+Jamie Dettmer,social media,@jamiewrit,1,1,1,2023
 jeudepaume.org,other / unclassified,jeudepaume.org,1,1,1,2025
 jjq.utulsa.edu,research,jjq.utulsa.edu,1,1,1,2023
 John Mearsheimer (Substack),personal archive,mearsheimer.substack.com,1,1,1,2023
@@ -565,6 +558,7 @@ marbeks.com,other / unclassified,marbeks.com,1,1,1,2025
 maritimesafetyinnovationlab.org,news,maritimesafetyinnovationlab.org,1,1,1,2025
 marketbeat.com,other / unclassified,marketbeat.com,1,1,1,2026
 marketer.ua,other / unclassified,marketer.ua,1,1,1,2025
+Markus (social profile),social media,@markusua,1,1,1,2024
 martinkuz.substack.com,other / unclassified,martinkuz.substack.com,1,1,1,2026
 mayoclinic.org,other / unclassified,mayoclinic.org,1,1,1,2026
 mediadirectory.economist.com,news,mediadirectory.economist.com,1,1,1,2023
@@ -629,6 +623,7 @@ opensecrets.org,other / unclassified,opensecrets.org,1,1,1,2024
 opensocietyfoundations.org,other / unclassified,opensocietyfoundations.org,1,1,1,2025
 orwellfoundation.com,research,orwellfoundation.com,1,1,1,2025
 oversight.gov,official sources,oversight.gov,1,1,1,2026
+Oxford University Press Academic,research,academic.oup.com,1,1,1,2026
 oxfordreference.com,other / unclassified,oxfordreference.com,1,1,1,2024
 palantir.com,other / unclassified,palantir.com,1,1,1,2024
 pangram.com,other / unclassified,pangram.com,1,1,1,2026
@@ -729,8 +724,10 @@ strava.com,other / unclassified,strava.com,1,1,1,2026
 Strength at Home,research,strengthathome.org,1,1,1,2023
 supreme.justia.com,other / unclassified,supreme.justia.com,1,1,1,2025
 svaboda.org,other / unclassified,svaboda.org,1,1,1,2024
+Tabletochki,social media,@tabletochki,1,1,1,2023
 tankona.free.fr,other / unclassified,tankona.free.fr,1,1,1,2024
 tass.com,other / unclassified,tass.com,1,1,1,2025
+Tatarigami,social media,@tatarigami,1,1,1,2025
 tebowing.com,other / unclassified,tebowing.com,1,1,1,2024
 Techiia Foundation,official sources,techiia-fund.org,1,1,1,2023
 teufelsberg-berlin.de,other / unclassified,teufelsberg-berlin.de,1,1,1,2025
