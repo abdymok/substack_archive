@@ -429,3 +429,10 @@ The original article text and commentary were otherwise preserved. No link count
 - Corrected the October 27 Day 1342 footnote for “3 Years Ago It Was a Casting Agency. Now It Has $1 Billion in Drone Contracts” from August 26 to October 26, 2025. The URL, publisher article date and contemporaneous copies all confirm October 26.
 - Other sampled checks included the October 2 Economist report, October 5 Reuters Tomahawk report, October 8 ISW assessment, October 14 ISW report, October 17 Financial Times piece, October 26 Guardian Kupyansk report and October 27 ISW assessment. No other confirmed citation-date correction emerged in this sample.
 - This is a spot-check, not exhaustive verification of every October URL. Evidence: `turn385062search0`, `turn564110search0`, `turn564110search1`, `turn564110search2`.
+
+
+### November–December 2025 citation-date spot-check
+
+- Checked linked-source references in the November and December archive posts. No further confirmed footnote-date correction was established in this sample. Sampled items included the November 6 NYT Angelina Jolie report, November 9 Guardian interview, November 10 Guardian energy-sector report, November 19 Financial Times peace-plan report, November 24 WSJ peace-plan analysis, November 26 Atlantic/Economist commentary, November 27 NYT and Atlantic reports, December 2 NYT cabinet meeting report, December 9 Reuters Pope meeting report, December 15 EU leaders' statement, December 18 Reuters EU financing report, December 25 NYT Odesa report, and December 30 Reuters resilience-centre report.
+- The December 30 file's filename/slug is `day-1206-994`, but its front matter correctly identifies Day 1406, date December 30, 2025, and canonical slug `day-1206-994`. This is an unusual legacy URL, not a metadata correction target. November 14's filename omits the `day-` segment but front matter correctly identifies Day 1360. October 24's podcast file is titled Day 1339 with a `legacy-of-ashes` slug. These were preserved.
+- This is a spot-check, not exhaustive verification of every November or December URL.
