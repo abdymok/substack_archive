@@ -385,3 +385,11 @@ The original article text and commentary were otherwise preserved. No link count
 
 - April 24 Day 1156 internal link labelled Day 1137 now points to the Day 1137 canonical slug, verified from that post's front matter. No post text or date changed.
 - Sampled linked sources from April 1–30, including Axios, Project Syndicate, WSJ, Prospect, Economist, Bloomberg, BBC, The Times, Reuters, NYT and Kyiv Post. No additional confirmed citation-date error was established in this sample. This is not exhaustive URL verification.
+
+
+### May 2025 checks
+
+- The Day 1177 post's internal Day 1125 reference now points to its canonical `/p/day-1124` URL, verified against the Day 1125 post's front matter. It had pointed to Day 1123.
+- The May 30 Day 1192 post's WSJ link for “America Let Its Military-Industrial Might Wither. China’s Is Booming” now points to the article rather than a Google search page. The WSJ timestamp is May 29 at 11 p.m. ET; the archive footnote's May 30 date reflects Kyiv time.
+- Other sampled sources included NYT, TWZ, Reuters, The Guardian, Washington Post, Economist and Le Monde. No further confirmed date correction emerged in this sample. The May 15 and 16 filenames have Day labels 1157 and 1158 while their front matter identifies Days 1177 and 1178; these filename anomalies remain untouched.
+- This is a spot-check, not exhaustive verification. WSJ date evidence: `turn560009search2`, `turn560009search0`.
