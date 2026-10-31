@@ -2,6 +2,8 @@
 
 *Working draft · v0.1 · compiled from the 2026 linked-reference dataset through 28 October 2026*
 
+
+**Citation dates:** use the original publication timestamp converted to Kyiv time (Europe/Kyiv), not a later update or syndication date. If no reliable timestamp is available, retain the publisher’s original displayed date and flag material ambiguity. The Substack post date remains separate.
 ## Scope and method
 
 The 2026 linked-reference CSV contains 1,132 link occurrences across 264 URL hostnames, dated 1 January–28 October 2026, spanning 218 distinct post-day labels. The recovered `working_set/26_redact.md` contains 247 posts (approximately 1.29 MB of text), dated 1 January–28 October 2026. Individual post files are also present in `working_set/posts/2026/` (247 files). This draft was assembled primarily from the linked-reference dataset and requires a final reconciliation against the recovered post texts to ensure that annotations distinguish sources quoted, endorsed, challenged, or merely mentioned.
