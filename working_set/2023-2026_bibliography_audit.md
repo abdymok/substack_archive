@@ -56,9 +56,9 @@ The current source-classification files are the authoritative machine-readable c
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `ca11b425cacd90ab42deb73e0a29fe3c347682e2`
+- Latest HTML commit: `09021af9ed4ab874f42f569f74386fc686c74d26`
 - Verified: 307 entries; 57 / 93 / 100 / 57 by year. Consolidated duplicate publisher labels in 2023 and 2024, merged the Ukraine Economic Outlook website and Substack references, merged Google Books aliases, and added BelTA as a separate state-media entry. Updated publisher counts against the normalized source-year table. The verified annual totals are 57 / 93 / 100 / 57.
-- The 2024–2026 entries include link counts, post counts, date spans and representative links.
+- The 2024–2026 entries include link counts, post counts, date spans and representative links. All four annual sections have been structurally closed, and the full HTML document now has balanced section, list, entry and document tags.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
 
 ### 2024 editorial pass: first seven batches
@@ -703,3 +703,18 @@ Expanded the 2025 and 2026 publisher descriptions with further checks against th
 Also corrected the Day 1226 POLITICO footnote to July 2, 2025, the original article date, rather than the July 3 Substack post date. The individual post was updated. The annual `25_redact.md` already carried the correct date.
 
 This remains a selected-source editorial pass, not an exhaustive line-by-line review of all 157 publisher-year entries. Remaining work is concentrated on lower-frequency sources, category and alias review, representative-link QA, final structural checks and a rendered browser preview.
+
+
+### Final HTML structural and representative-link QA — 31 October 2026
+
+- Annual entry counts: **57 / 93 / 100 / 57**, total **307**. No duplicate publisher names within a year. All 307 displayed link and post counts match the normalized source-year table after documented alias consolidation.
+- The 435 links inside bibliography entries were checked against the normalized link dataset. **434 match a link actually recorded in the archive.** The sole exception is the verified intended Washington Post story for Day 681, included as a reference because the archived post's hyperlink still points to an unrelated Wall Street Journal URL. That mismatch is explicitly disclosed in the Washington Post annotation and is not represented as a link actually present in the post.
+- All **433 date-labeled representative links** that match archive URLs carry the same post date as the normalized link record. No other unmatched representative URLs or date mismatches were found.
+- Structural check: 23 opening and closing section tags, 307 entry terms and descriptions, and balanced HTML, head, body, main, div, dl, dt, dd, paragraph and anchor tags. Four internal navigation anchors are the only non-HTTP links.
+- The source dataset has 5,438 rows, 4,218 distinct URL strings, 853 source domains and 812 normalized publishers. The Archive.ph attribution file has 71 occurrences across 64 normalized URLs and 62 capture IDs; all have publisher assignments, with three medium-confidence cases.
+- Responsive CSS uses a 44rem reading column on wider screens and switches each entry to a single-column layout at 40rem. The HTML is structurally ready for browser inspection. The available browser tool did not provide a rendered screenshot, so visual confirmation at desktop and mobile sizes remains a manual preview check.
+
+Rendered preview URL for manual desktop/mobile inspection:
+https://raw.githack.com/abdymok/substack_archive/main/working_set/2023-2026_annotated_bibliography.html
+
+**Remaining qualifications:** the Bloomberg “We All Need to Keep Supporting Ukraine, Elon” publication date remains October 2/3 pending recovery of its original timestamp; the three medium-confidence Archive.ph attributions remain qualified; and the Day 681 post hyperlink itself remains unchanged pending editorial confirmation. No source or date has been silently guessed to force closure.
