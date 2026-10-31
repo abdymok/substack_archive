@@ -536,3 +536,16 @@ The original article text and commentary were otherwise preserved. No link count
 - The July 16 Financial Times report on Orbán's letter and Trump's proposed peace-broker role is consistent with same-day reporting by Anadolu Agency and CNN; the archive's July 16 footnote is retained.
 - This is the beginning of the July review, not a complete July audit.
 - Original-post commit: 8938be08a5eb512ff521ab22d9cee2ceaade4204. Verification sources: [Philadelphia Inquirer article](https://www.inquirer.com/opinion/zelensky-ukraine-war-interview-trudy-rubin-20240630.html); [Washington Post July 8 report](https://www.washingtonpost.com/world/2024/07/08/ukraine-intercepts-russia-kharkiv-supplies/).
+
+
+
+### Further 2024 citation-date corrections — August to December
+
+- Corrected Day 896's New York Times footnote for “Long Battle for a Ruined City Takes a Desperate Turn” from August 5 to August 6, 2024. The publisher URL and contemporaneous copies identify August 6 as the publication date.
+- Corrected Day 905's Wall Street Journal footnote for “A Drunken Evening, a Rented Yacht: The Real Story of the Nord Stream Pipeline Sabotage” from August 15 to August 14, 2024. The WSJ page gives August 14 at 9:00 p.m. ET; August 15 is the date used by some later republications.
+- Corrected Day 924's Washington Post footnote for “See my video of a Kharkiv cemetery. Now tell me Ukraine shouldn’t strike back” from September 4 to September 3, 2024. The publisher page is dated September 3.
+- Corrected Day 950's New York Times footnote for “How JD Vance Found His Way to the Catholic Church” from September 29 to August 25, 2024. The NYT URL and contemporaneous citations establish August 25; September 29 was an erroneous date.
+- Corrected Day 963's New Yorker footnote for “Ukraine’s Waiting Game” from October 11 to October 12, 2024. The magazine's contributor page and Weekend Essay listings give October 12.
+- Corrected Day 1042's New York Times footnote for “How Elon Musk Has Planted Himself Almost Literally at Trump’s Doorstep” from December 31 to December 30, 2024. The NYT article is dated December 30; some syndications and later references carry December 31.
+- This is a targeted correction pass over dated citations, not an exhaustive review of all source links in these months.
+- Original-post commit: c328ba174c627f1ddf41a3e26e3b86f2209bfc42. Verification sources: [NYT Toretsk report](https://www.nytimes.com/2024/08/06/world/europe/ukraine-war-donetsk-toretsk.html); [WSJ Nord Stream report](https://www.wsj.com/world/europe/nord-stream-pipeline-explosion-real-story-da24839c); [Washington Post opinion](https://www.washingtonpost.com/opinions/2024/09/03/ukraine-russia-escalation-bombing-civilians/); [NYT Vance profile](https://www.nytimes.com/2024/08/25/us/jd-vance-catholic-church-conversion.html); [New Yorker essay](https://www.newyorker.com/news/the-weekend-essay/ukraines-waiting-game); [NYT Musk report](https://www.nytimes.com/2024/12/30/us/politics/elon-musk-trump-mar-a-lago.html).
