@@ -1,855 +1,855 @@
-source_domain,normalized_publisher,category,link_occurrences,unique_urls,unique_posts,years,classification_basis
-abdymok.substack.com,ukraine@war (Substack),personal archive,721,505,405,2023;2024;2025;2026,exact domain rule
-en.wikipedia.org,Wikipedia,reference,290,265,196,2023;2024;2025;2026,reference/archive/search domain
-nytimes.com,The New York Times,news,269,218,200,2023;2024;2025;2026,known news publisher
-youtube.com,YouTube,social media,249,232,167,2023;2024;2025;2026,known platform
-t.me,Telegram,social media,172,168,142,2023;2024;2025;2026,known platform
-washingtonpost.com,The Washington Post,news,137,97,95,2023;2024;2025;2026,known news publisher
-nyt.com,The New York Times,news,135,1,104,2023;2024;2025;2026,known news publisher
-google.com,Google,reference,128,127,62,2023;2024;2025;2026,reference/archive/search domain
-reuters.com,Reuters,news,125,108,98,2023;2024;2025;2026,known news publisher
-x.com,X / Twitter,social media,119,104,72,2024;2025;2026,known platform
-theatlantic.com,The Atlantic,news,105,48,56,2023;2024;2025;2026,known news publisher
-ft.com,Financial Times,news,98,38,51,2023;2024;2025;2026,known news publisher
-wapo.st,The Washington Post,news,88,2,66,2023;2024;2025;2026,known news publisher
-theguardian.com,The Guardian,news,84,63,60,2023;2024;2025;2026,known news publisher
-archive.ph,Archive.ph,reference,71,67,62,2025;2026,reference/archive/search domain
-wsj.com,The Wall Street Journal,news,68,33,33,2023;2024;2025;2026,known news publisher
-twitter.com,X / Twitter,social media,65,65,48,2023;2024,known platform
-instagram.com,Instagram,social media,60,51,49,2023;2024;2025;2026,known platform
-facebook.com,Facebook,social media,59,54,50,2023;2024;2025;2026,known platform
-edition.cnn.com,CNN,news,58,57,55,2023;2024;2025;2026,known news publisher
-abdymok.github.io,abdymok (GitHub Pages),personal archive,54,17,26,2026,exact domain rule
-pravda.com.ua,Ukrainska Pravda,Ukrainian media,53,43,41,2023;2024;2025;2026,known Ukrainian publisher
-economist.com,The Economist,news,50,27,29,2023;2024;2025;2026,known news publisher
-understandingwar.org,Institute for the Study of War,research,46,33,31,2023;2024;2025;2026,research/think-tank or academic domain
-politico.eu,POLITICO Europe,news,45,30,30,2023;2024;2025;2026,known news publisher
-apnews.com,Associated Press,news,38,32,34,2023;2024;2025;2026,known news publisher
-bloomberg.com,Bloomberg,news,38,26,26,2023;2024;2025;2026,known news publisher
-politico.com,POLITICO,news,37,22,26,2023;2024;2025;2026,known news publisher
-kyivpost.com,Kyiv Post,Ukrainian media,33,25,20,2023;2024;2025;2026,known Ukrainian publisher
-president.gov.ua,Office of the President of Ukraine,official sources,29,29,26,2023;2024;2025;2026,government/military domain
-censor.net,Censor.NET,Ukrainian media,28,27,24,2023;2024;2025;2026,known Ukrainian publisher
-foreignaffairs.com,Foreign Affairs,news,27,14,14,2023;2024;2025;2026,known news publisher
-zn.ua,ZN.ua,Ukrainian media,26,18,16,2023;2024;2025;2026,known Ukrainian publisher
-bbc.com,BBC,news,23,21,19,2023;2024;2025;2026,known news publisher
-deepstatemap.live,DeepStateMap,research,22,20,20,2023;2024;2025,manual domain review
-en.tootsie.kiev.ua,Tootsie Club,business / commercial,22,1,21,2023;2024;2025;2026,manual review: Kyiv nightlife venue
-interfax.com.ua,Interfax-Ukraine,Ukrainian media,22,18,19,2023;2024;2025;2026,known Ukrainian publisher
-en.interfax.com.ua,Interfax-Ukraine,Ukrainian media,21,19,20,2023;2024;2025;2026,known Ukrainian publisher
-foxnews.com,Fox News,news,21,14,16,2024;2025,known news publisher
-time.com,TIME,news,21,12,15,2023;2024;2025;2026,known news publisher
-web.archive.org,Internet Archive / Wayback Machine,reference,21,20,13,2023;2024;2025;2026,reference/archive/search domain
-cnn.com,CNN,news,20,6,18,2023;2024;2025;2026,known news publisher
-ru.wikipedia.org,Wikipedia (Russian),reference,20,18,17,2023;2024;2025;2026,reference/archive/search domain
-kyivindependent.com,The Kyiv Independent,Ukrainian media,19,18,16,2023;2024;2025;2026,known Ukrainian publisher
-newyorker.com,The New Yorker,news,18,10,8,2023;2024;2025,known news publisher
-rollcall.com,rollcall.com,news,17,14,9,2025;2026,known news publisher
-sites.google.com,abdymok (legacy Google Sites),personal archive,15,10,14,2023;2024;2025;2026,manual domain review
-substack.com,Substack,social media,15,13,13,2023;2024;2025;2026,manual domain review
-uk.wikipedia.org,Wikipedia (Ukrainian),reference,15,15,14,2023;2024;2025;2026,manual domain review
-axios.com,axios.com,news,13,11,10,2023;2024;2025;2026,known news publisher
-konmari.com,KonMari,business / commercial,13,13,13,2025;2026,manual review: Marie Kondo brand and products
-nypost.com,nypost.com,news,13,8,7,2024;2025;2026,publisher-name heuristic
-google.com.ua,Google Books / Google,reference,11,11,11,2023;2024;2026,manual domain review
-nbcnews.com,nbcnews.com,news,11,11,10,2023;2024;2025;2026,known news publisher
-stefankorshak.substack.com,Stefan Korshak (Substack),social media,11,9,9,2023;2024;2025;2026,manual domain review
-truthsocial.com,truthsocial.com,social media,11,11,8,2025;2026,known platform
-abcnews.go.com,abcnews.go.com,news,10,9,7,2023;2024;2025,publisher-name heuristic
-c-span.org,C-SPAN,news,10,10,10,2023;2024;2025,manual domain review
-newsweek.com,newsweek.com,news,10,8,7,2023;2024;2025,known news publisher
-state.gov,US Department of State,official sources,10,8,8,2023;2024;2025;2026,government/military domain
-ukraine-economic-outlook.com,Ukraine Economic Outlook,research,10,6,8,2023;2024,manual domain review
-whitehouse.gov,The White House,official sources,10,8,10,2023;2024;2025;2026,government/military domain
-nabu.gov.ua,nabu.gov.ua,official sources,9,8,7,2023;2025;2026,government/military domain
-newsukraine.rbc.ua,newsukraine.rbc.ua,news,9,9,7,2024;2025,publisher-name heuristic
-thehill.com,thehill.com,news,9,7,7,2023;2024;2025;2026,known news publisher
-thetimes.com,thetimes.com,news,9,4,4,2024;2025;2026,known news publisher
-uk.tootsie.kiev.ua,Tootsie Club,business / commercial,9,1,9,2024;2025;2026,manual review: Kyiv nightlife venue
-ukrinform.ua,Ukrinform,Ukrainian media,9,5,7,2024;2025;2026,manual domain review
-ap.com,Associated Press,news,8,1,7,2023;2024;2025;2026,known news publisher
-cbsnews.com,cbsnews.com,news,8,7,7,2024;2025;2026,known news publisher
-dni.gov,dni.gov,official sources,8,6,6,2023;2024;2025;2026,government/military domain
-euromaidanpress.com,euromaidanpress.com,news,8,7,5,2023;2024;2025;2026,publisher-name heuristic
-justsecurity.org,Just Security,research,8,5,2,2024,manual domain review
-lemonde.fr,Le Monde,news,8,6,5,2024;2025,manual domain review
-news.sky.com,news.sky.com,news,8,7,6,2024;2025;2026,publisher-name heuristic
-rev.com,Rev,reference,8,8,3,2024;2025,manual domain review
-emptywheel.net,Emptywheel,news,7,3,6,2025;2026,manual domain review
-english.nv.ua,The New Voice of Ukraine,Ukrainian media,7,7,7,2024;2025;2026,manual domain review
-msn.com,MSN,news,7,6,6,2024;2025;2026,manual domain review
-nv.ua,The New Voice of Ukraine,Ukrainian media,7,7,7,2024;2025,known Ukrainian publisher
-perplexity.ai,Perplexity,reference,7,7,6,2024;2025,manual domain review
-preposterousuniverse.com,Mindscape (Preposterous Universe),research,7,6,5,2024;2025;2026,manual review: science and ideas podcast
-project-syndicate.org,Project Syndicate,news,7,5,3,2025,manual domain review
-rferl.org,Radio Free Europe / Radio Liberty,news,7,7,6,2023;2024;2025,manual domain review
-amazon.com,Amazon,business / commercial,6,6,6,2023;2024;2026,manual review: retail and product listings
-americafirstpolicy.com,americafirstpolicy.com,research,6,3,2,2024,organization-name heuristic
-atlanticcouncil.org,atlanticcouncil.org,research,6,5,3,2024;2025;2026,research/think-tank or academic domain
-babel.ua,Babel,Ukrainian media,6,5,5,2023;2024;2025;2026,known Ukrainian publisher
-britannica.com,britannica.com,reference,6,6,4,2023;2024,reference/archive/search domain
-eurointegration.com.ua,European Pravda,Ukrainian media,6,5,5,2023;2024;2025,manual domain review
-github.com,GitHub,personal archive,6,6,1,2026,manual domain review
-guardian.co.uk,The Guardian,news,6,1,6,2023;2024,known news publisher
-icc-cpi.int,icc-cpi.int,research,6,5,4,2023;2026,research/think-tank or academic domain
-nato.int,NATO,official sources,6,5,5,2024;2026,manual domain review
-npr.org,npr.org,news,6,6,5,2024;2025;2026,known news publisher
-rusi.org,Royal United Services Institute,research,6,6,6,2023;2024;2025;2026,research/think-tank or academic domain
-spiegel.de,Der Spiegel,news,6,4,4,2023;2024;2025,manual domain review
-tiktok.com,TikTok,social media,6,5,6,2023;2024;2025;2026,known platform
-abc.net.au,abc.net.au,news,5,4,5,2023;2024;2026,known news publisher
-bit.ly,bit.ly,reference,5,5,5,2023,reference/archive/search domain
-books.google.com.ua,Google Books,reference,5,5,5,2023;2024;2025,manual domain review
-brucemaustudio.com,Bruce Mau Studio,personal / creative,5,1,3,2023;2024,manual review: design studio and portfolio
-epravda.com.ua,Ekonomichna Pravda,Ukrainian media,5,4,3,2024;2026,manual domain review
-example.com,Example Domain,reference,5,1,1,2026,manual domain review
-faz.net,Frankfurter Allgemeine Zeitung,news,5,3,3,2024;2025,manual domain review
-lrb.co.uk,London Review of Books,news,5,2,3,2023;2024,manual domain review
-menshealth.com,Men's Health,news,5,2,3,2024;2026,manual review: specialist health and lifestyle magazine
-mirrormedia.mg,mirrormedia.mg,news,5,3,5,2023;2024,publisher-name heuristic
-pbs.org,pbs.org,news,5,4,3,2024;2025,known news publisher
-plato.stanford.edu,plato.stanford.edu,research,5,3,5,2025;2026,research/think-tank or academic domain
-poetryfoundation.org,poetryfoundation.org,research,5,4,5,2024;2025;2026,organization-name heuristic
-potustracker.us,POTUS Tracker,reference,5,4,5,2025,manual domain review
-rollingstone.com,Rolling Stone,news,5,4,3,2023;2024;2025,manual domain review
-ruslanlobanov.com,Ruslan Lobanov,personal archive,5,5,4,2024;2026,manual domain review
-securityconference.org,Munich Security Conference,research,5,3,5,2024;2025,manual domain review
-spring96.org,Viasna Human Rights Centre,research,5,4,5,2023;2025,manual domain review
-suspilne.media,Suspilne,Ukrainian media,5,5,5,2023;2024;2025,known Ukrainian publisher
-telegraph.co.uk,The Telegraph,news,5,5,5,2025;2026,manual domain review
-urc-international.com,Ukraine Recovery Conference,official sources,5,1,5,2023;2024,manual domain review
-xxtomcooperxx.substack.com,Tom Cooper (Substack),social media,5,3,5,2024;2025,manual domain review
-archive.org,archive.org,reference,4,4,4,2023;2025;2026,reference/archive/search domain
-carnegieendowment.org,Carnegie Endowment,research,4,3,3,2023;2024;2026,research/think-tank or academic domain
-csis.org,Center for Strategic and International Studies,research,4,3,2,2024;2026,research/think-tank or academic domain
-de.wikipedia.org,Wikipedia (German),reference,4,4,3,2023;2025,manual domain review
-detector.media,Detector Media,Ukrainian media,4,4,4,2024;2025;2026,known Ukrainian publisher
-dtek-kem.com.ua,DTEK,official sources,4,3,4,2024;2025,manual domain review
-dtnpf.com,DTN,news,4,4,1,2026,manual domain review
-dw.com,dw.com,news,4,4,4,2024;2025;2026,known news publisher
-en.kremlin.ru,Kremlin / President of Russia,official sources,4,3,4,2023;2025,manual domain review
-foreignpolicy.com,Foreign Policy,news,4,4,3,2023;2024,known news publisher
-france24.com,france24.com,news,4,4,4,2024;2025,known news publisher
-ifw-kiel.de,Kiel Institute for the World Economy,research,4,3,3,2024;2025;2026,manual domain review
-latimes.com,latimes.com,news,4,2,1,2024,known news publisher
-meduza.io,Meduza,news,4,3,2,2024,manual domain review
-oig.usaid.gov,oig.usaid.gov,official sources,4,4,2,2023;2024,government/military domain
-photos.app.goo.gl,Google Photos,personal archive,4,4,4,2023;2024,manual domain review
-radiosvoboda.org,Radio Svoboda,Ukrainian media,4,4,4,2023;2024;2026,manual domain review
-semafor.com,Semafor,news,4,3,2,2024;2026,manual domain review
-thecipherbrief.com,The Cipher Brief,news,4,4,3,2023;2024,manual domain review
-theguardian.co.uk,The Guardian,news,4,1,3,2023;2025,manual domain review
-twz.com,The War Zone,news,4,3,2,2024;2025,manual domain review
-u24.gov.ua,u24.gov.ua,official sources,4,2,4,2023;2024;2025,government/military domain
-yahoo.com,Yahoo News,news,4,4,4,2024;2025,manual domain review
-zeit.de,Die Zeit,news,4,4,2,2023;2026,manual domain review
-abdymok.blogspot.com,abdymok (Blogspot),personal archive,3,3,3,2023,exact domain rule
-abdymok.medium.com,abdymok (Medium),personal archive,3,3,3,2023,exact domain rule
-anneapplebaum.com,Anne Applebaum,personal archive,3,2,2,2025,manual domain review
-archive.kyivpost.com,archive.kyivpost.com,news,3,3,3,2023;2024,publisher-name heuristic
-army.mil,army.mil,official sources,3,3,3,2025;2026,government/military domain
-bellingcat.com,bellingcat.com,research,3,2,2,2024;2026,research/think-tank or academic domain
-cepa.org,cepa.org,research,3,3,3,2023;2026,research/think-tank or academic domain
-cfr.org,cfr.org,research,3,3,3,2023;2024,research/think-tank or academic domain
-congress.gov,US Congress,official sources,3,3,2,2023;2026,government/military domain
-defense.gov,US Department of Defense,official sources,3,3,3,2023;2024,government/military domain
-defenseone.com,Defense One,news,3,3,2,2023;2024,manual domain review
-digi24.ro,Digi24,news,3,2,2,2025,manual domain review
-forbes.com,Forbes,news,3,3,2,2025,manual domain review
-freep.com,Detroit Free Press,news,3,3,1,2025,manual domain review
-genocidewatch.com,Genocide Watch,research,3,2,2,2023,manual domain review
-harriman.columbia.edu,harriman.columbia.edu,research,3,3,1,2025,research/think-tank or academic domain
-independent.ie,Irish Independent,news,3,2,1,2026,manual domain review
-inquirer.com,inquirer.com,news,3,3,2,2024;2026,known news publisher
-irishtimes.com,irishtimes.com,news,3,2,1,2023,publisher-name heuristic
-irunfar.com,iRunFar,news,3,3,3,2024;2025,manual review: specialist running publication
-istories.media,istories.media,news,3,1,1,2023,publisher-name heuristic
-kiis.com.ua,Kyiv International Institute of Sociology,research,3,3,3,2024,manual domain review
-kmu.gov.ua,Cabinet of Ministers of Ukraine,official sources,3,3,3,2024;2025,government/military domain
-kremlin.ru,Kremlin / President of Russia,official sources,3,3,3,2023;2025,manual domain review
-krytyka.com,Krytyka,Ukrainian media,3,3,1,2023,manual domain review
-mid.ru,Ministry of Foreign Affairs of Russia,official sources,3,3,3,2025;2026,manual domain review
-mil.gov.ua,Ministry of Defence of Ukraine,official sources,3,3,2,2023,government/military domain
-news.liga.net,news.liga.net,news,3,3,3,2025;2026,publisher-name heuristic
-news.un.org,news.un.org,news,3,2,2,2023;2025,publisher-name heuristic
-notebook.google.com,Google NotebookLM,reference,3,1,3,2026,manual domain review
-open.substack.com,Substack,social media,3,3,3,2023;2024;2025,manual domain review
-phillipspobrien.substack.com,Phillips O’Brien (Substack),social media,3,3,3,2023;2024,manual domain review
-philpapers.org,PhilPapers,reference,3,3,1,2026,manual domain review
-podcasts.apple.com,podcasts.apple.com,social media,3,3,3,2023;2025,known platform
-prospectmagazine.co.uk,Prospect Magazine,news,3,2,1,2025,manual review: current-affairs magazine
-seattletimes.com,seattletimes.com,news,3,1,1,2023,publisher-name heuristic
-skyatnightmagazine.com,BBC Sky at Night Magazine,news,3,1,1,2025,manual review: specialist astronomy magazine
-spectator.co.uk,The Spectator,news,3,2,1,2024,manual domain review
-texty.org.ua,Texty.org.ua,Ukrainian media,3,3,3,2024;2026,known Ukrainian publisher
-thedailybeast.com,thedailybeast.com,news,3,3,2,2023;2024,publisher-name heuristic
-ua.usembassy.gov,ua.usembassy.gov,official sources,3,3,3,2024;2025;2026,government/military domain
-ueoweekly.substack.com,Ukraine Economic Outlook,research,3,2,3,2024,manual review: Ukraine-focused economic analysis newsletter
-ukraine.ohchr.org,UN Human Rights Monitoring Mission in Ukraine,official sources,3,3,3,2025,manual domain review
-ukrinform.net,Ukrinform,Ukrainian media,3,3,3,2024;2025,known Ukrainian publisher
-urbandictionary.com,Urban Dictionary,reference,3,3,1,2023,manual domain review
-usnews.com,usnews.com,news,3,2,2,2023,publisher-name heuristic
-welt.de,Die Welt,news,3,2,1,2023,manual domain review
-yes-ukraine.org,Yalta European Strategy,research,3,3,3,2024;2025,manual domain review
-abdymok.tumblr.com,abdymok (Tumblr),personal archive,2,1,2,2025,manual domain review
-aljazeera.com,aljazeera.com,news,2,2,2,2024;2025,known news publisher
-apimagesblog.com,AP Images,reference,2,2,2,2023;2024,manual domain review
-apostrophe.ua,apostrophe.ua,news,2,2,2,2025;2026,publisher-name heuristic
-app.quotemedia.com,app.quotemedia.com,news,2,2,1,2026,publisher-name heuristic
-archive.fo,Archive.fo,reference,2,2,2,2025,manual domain review
-azart.comments.ua,Comments.ua,Ukrainian media,2,2,1,2024,manual review: Ukrainian news and commentary publisher
-belta.by,BelTA,news,2,2,2,2023;2025,manual domain review
-bfmtv.com,BFMTV,news,2,2,2,2023;2024,manual domain review
-bild.de,Bild,news,2,2,2,2023;2025,manual domain review
-birdinflight.com,Bird in Flight,Ukrainian media,2,2,1,2024,manual domain review
-blackseawhale.com,The Black Sea Whale,news,2,2,2,2024,manual review: literary and cultural magazine
-brave1.gov.ua,brave1.gov.ua,official sources,2,1,2,2023;2025,government/military domain
-businessinsider.com,Business Insider,news,2,2,2,2024;2025,manual domain review
-buzzfeednews.com,buzzfeednews.com,news,2,2,2,2024,publisher-name heuristic
-chesno.org,Chesno Movement,research,2,2,2,2023;2025,manual domain review
-cjr.org,Columbia Journalism Review,research,2,2,2,2025;2026,manual domain review
-cnbc.com,CNBC,news,2,2,2,2024,manual domain review
-consilium.europa.eu,Council of the European Union,official sources,2,2,2,2023;2025,government/military domain
-counteroffensive.news,counteroffensive.news,news,2,2,2,2026,publisher-name heuristic
-defence-ua.com,Defense Express,Ukrainian media,2,2,1,2024,manual domain review
-defence.org.ua,Center for Defence Strategies,research,2,2,2,2025,manual review: Ukrainian security and defence think tank
-detachment-a.org,Detachment A,reference,2,2,2,2023;2026,manual review: historical veterans and intelligence archive
-dia.mil,dia.mil,official sources,2,1,2,2023;2025,government/military domain
-dodosocks.com,Dodo Socks,business / commercial,2,2,2,2025;2026,manual review: Ukrainian retail brand
-ec.europa.eu,European Commission,official sources,2,1,1,2024,manual domain review
-en.defence-ua.com,Defense Express,Ukrainian media,2,2,2,2024,manual domain review
-euneighbourseast.eu,EU Neighbours East,official sources,2,2,1,2025,manual domain review
-euractiv.com,Euractiv,news,2,2,2,2024,manual domain review
-euronews.com,euronews.com,news,2,2,2,2024;2026,publisher-name heuristic
-finance.yahoo.com,Yahoo Finance,news,2,2,1,2026,manual domain review
-foi.se,Swedish Defence Research Agency,research,2,2,1,2023,manual domain review
-forbes.ua,Forbes Ukraine,Ukrainian media,2,2,2,2024;2025,manual domain review
-frontelligence.substack.com,Frontelligence Insight (Substack),social media,2,2,2,2024;2026,manual domain review
-gazeta.ua,Gazeta.ua,Ukrainian media,2,2,2,2023;2024,manual domain review
-gem.wiki,GEM Wiki,reference,2,2,2,2024;2026,manual domain review
-globenewswire.com,globenewswire.com,news,2,2,1,2024,publisher-name heuristic
-goodreads.com,Goodreads,reference,2,2,2,2025;2026,manual domain review
-gutenberg.org,Project Gutenberg,reference,2,1,2,2025;2026,manual domain review
-hetwebsite.net,History of Economic Thought Website,reference,2,1,2,2024,manual review: scholarly history-of-economics reference archive
-hopkinsmedicine.org,Johns Hopkins Medicine,official sources,2,1,2,2023;2024,manual domain review
-icrc.org,International Committee of the Red Cross,official sources,2,1,1,2026,manual domain review
-ihl-databases.icrc.org,International Committee of the Red Cross,official sources,2,2,2,2023;2024,manual domain review
-imi.org.ua,Institute of Mass Information,research,2,2,2,2024;2026,manual domain review
-isi.org,Institute for Strategic Dialogue,research,2,2,1,2024,manual domain review
-knihi.com,Knihi.com,reference,2,2,2,2025;2026,manual domain review
-kyivcity.gov.ua,kyivcity.gov.ua,official sources,2,2,1,2026,government/military domain
-linktr.ee,Linktree,social media,2,2,2,2023;2026,manual domain review
-lithub.com,Literary Hub,news,2,2,1,2024,manual domain review
-livingthewar.media,livingthewar.media,news,2,1,2,2024,publisher-name heuristic
-magnumphotos.com,Magnum Photos,reference,2,2,2,2023;2026,manual domain review
-mathshistory.st-andrews.ac.uk,mathshistory.st-andrews.ac.uk,research,2,2,1,2023,research/think-tank or academic domain
-media.defense.gov,media.defense.gov,official sources,2,2,2,2024;2026,government/military domain
-mediamatters.org,mediamatters.org,news,2,2,2,2025,publisher-name heuristic
-mei.edu,mei.edu,research,2,2,1,2023,research/think-tank or academic domain
-mil.in.ua,mil.in.ua,Ukrainian media,2,2,2,2024;2025,known Ukrainian publisher
-mod.gov.ua,Ministry of Defence of Ukraine,official sources,2,2,2,2025,government/military domain
-molycorp.com,Molycorp,business / commercial,2,1,1,2025,manual review: corporate company site
-msd.com,MSD,business / commercial,2,1,2,2024;2025,manual review: pharmaceutical company site
-msd.ru,MSD,business / commercial,2,1,2,2023;2025,manual review: pharmaceutical company site
-nashigroshi.org,Nashi Groshi,research,2,1,1,2026,manual domain review
-navyrecognition.com,Navy Recognition,news,2,1,1,2024,manual domain review
-newsnationnow.com,newsnationnow.com,news,2,2,2,2025,publisher-name heuristic
-notebooklm.google.com,Google NotebookLM,reference,2,1,2,2026,manual domain review
-novayagazeta.ru,Novaya Gazeta,news,2,2,1,2024,manual domain review
-ohchr.org,ohchr.org,research,2,2,2,2023,research/think-tank or academic domain
-osce.org,Organization for Security and Co-operation in Europe,official sources,2,1,1,2026,manual domain review
-presidency.ucsb.edu,presidency.ucsb.edu,research,2,2,2,2024;2025,research/think-tank or academic domain
-puck.news,puck.news,news,2,2,2,2023;2026,publisher-name heuristic
-rainews.it,rainews.it,news,2,2,2,2024;2026,publisher-name heuristic
-rbc.ua,rbc.ua,Ukrainian media,2,2,2,2023;2025,known Ukrainian publisher
-reutersconnect.com,Reuters Connect,news,2,2,2,2025;2026,manual domain review
-rt.com,RT,news,2,2,2,2025,manual domain review
-rumble.com,rumble.com,social media,2,2,2,2025;2026,known platform
-runnersworld.com,Runner’s World,news,2,1,2,2023;2024,manual domain review
-samtiden.no,Samtiden,news,2,2,1,2026,manual domain review
-sfstandard.com,The San Francisco Standard,news,2,1,1,2024,manual domain review
-sidestack.io,SideStack,reference,2,2,2,2025;2026,manual review: Substack directory
-snyder.substack.com,Timothy Snyder (Substack),social media,2,2,2,2023;2024,manual domain review
-stripe.com,Stripe,business / commercial,2,2,2,2024;2025,manual review: payments company
-sud.ua,Sud.ua,Ukrainian media,2,2,2,2023;2026,manual domain review
-sueddeutsche.de,Süddeutsche Zeitung,news,2,2,2,2025,manual domain review
-syri.net,Syrian Network for Human Rights,research,2,2,1,2024,manual domain review
-szru.gov.ua,szru.gov.ua,official sources,2,2,1,2026,government/military domain
-taibbi.substack.com,Matt Taibbi (Substack),social media,2,2,1,2023,manual domain review
-theins.ru,The Insider,news,2,2,2,2024;2026,manual domain review
-thejournal.ie,thejournal.ie,news,2,2,1,2025,publisher-name heuristic
-theonion.com,The Onion,news,2,2,2,2024;2026,manual domain review
-threadreaderapp.com,Thread Reader App,social media,2,2,2,2023;2024,manual domain review
-timesofindia.indiatimes.com,timesofindia.indiatimes.com,news,2,1,1,2026,publisher-name heuristic
-tinyurl.com,tinyurl.com,reference,2,2,2,2024,reference/archive/search domain
-tsn.ua,tsn.ua,Ukrainian media,2,2,2,2024,known Ukrainian publisher
-tvzvezda.ru,TV Zvezda,news,2,2,1,2025,manual domain review
-ua.riotdivision.tech,Riot Division,business / commercial,2,1,2,2023;2025,manual review: Ukrainian clothing brand
-uaweek.org,The Ukrainian Week,Ukrainian media,2,1,2,2025,manual domain review
-uk.news.yahoo.com,uk.news.yahoo.com,news,2,2,2,2024,publisher-name heuristic
-ukranews.com,ukranews.com,news,2,1,1,2024,publisher-name heuristic
-unesco.org,UNESCO,official sources,2,1,1,2026,manual domain review
-united24media.com,united24media.com,news,2,2,2,2026,publisher-name heuristic
-vaticannews.va,vaticannews.va,news,2,2,2,2023;2026,publisher-name heuristic
-veranda.ua,Veranda on the River,business / commercial,2,2,1,2023,manual review: Kyiv restaurant and event venue
-veriteofficial.com,VÉRITÉ,personal / creative,2,1,2,2023;2024,manual review: musician's official site
-vogue.ua,Vogue Ukraine,Ukrainian media,2,2,1,2025,manual domain review
-war.ukraine.ua,Ukraine.ua,official sources,2,2,2,2024,manual domain review
-weforum.org,World Economic Forum,research,2,2,2,2024;2026,manual domain review
-wh.gov,The White House,official sources,2,1,2,2025,manual alias normalization: White House short domain
-worldcat.org,WorldCat,reference,2,2,1,2026,manual domain review
-wser.org,Western States Endurance Run,official sources,2,1,2,2025,manual review: official race organizer site
-...,...,other / unclassified,1,1,1,2026,domain not confidently identified
-@jamiewrit,Jamie Dettmer,social media,1,1,1,2023,manual review: journalist social profile
-@keithgessen,Keith Gessen,social media,1,1,1,2023,manual review: individual social profile
-@markusua,Markus (social profile),social media,1,1,1,2024,manual review: individual social profile
-@nytimes,@nytimes,news,1,1,1,2023,publisher-name heuristic
-@tabletochki,Tabletochki,social media,1,1,1,2023,manual review: individual social profile
-@tatarigami,Tatarigami,social media,1,1,1,2025,manual review: military analyst social profile
-161.ru,161.ru,news,1,1,1,2023,manual review: Russian regional news outlet
-425skala.com,425th Separate Assault Regiment Skala,official sources,1,1,1,2025,manual review: Ukrainian military unit site
-44.ua,44.ua,Ukrainian media,1,1,1,2024,manual review: Kyiv local news site
-5.ua,5 Kanal,Ukrainian media,1,1,1,2024,manual review: Ukrainian television news publisher
-abc3340.com,ABC 33/40,news,1,1,1,2026,manual review: local US television news publisher
-abcnews.com,abcnews.com,news,1,1,1,2026,publisher-name heuristic
-academic.oup.com,Oxford University Press Academic,research,1,1,1,2026,manual review: scholarly books and journals platform
-achievement.org,American Academy of Achievement,official sources,1,1,1,2024,manual review: nonprofit educational and interview archive
-acleddata.com,ACLED,research,1,1,1,2026,manual review: conflict-event data and research organization
-adsport.store,AD Sport,business / commercial,1,1,1,2024,manual review: sports retail store
-afsoc.af.mil,afsoc.af.mil,official sources,1,1,1,2025,government/military domain
-afterilovaisk.com,After Ilovaisk,research,1,1,1,2024,manual review: documentary and oral-history project
-agbull.com,Ag Bull Trading,news,1,1,1,2026,manual review: commodities and energy market news
-alerts.in.ua,Alerts.in.ua,reference,1,1,1,2026,manual review: Ukrainian air-alert aggregation and map service
-allpoetry.com,All Poetry,social media,1,1,1,2024,manual review: user-generated poetry platform
-americanrifleman.org,American Rifleman,news,1,1,1,2023,manual review: specialist firearms magazine
-anduril.com,Anduril Industries,business / commercial,1,1,1,2025,manual review: defence technology company
-anewz.tv,AnewZ,news,1,1,1,2025,manual review: international news broadcaster
-antikvar.ua,Antikvar,Ukrainian media,1,1,1,2026,manual review: Ukrainian art and culture publication
-antilogicalism.com,Antilogicalism,personal / creative,1,1,1,2025,manual review: personal philosophy and literature blog
-ap.org,Associated Press,news,1,1,1,2023,manual review: international news agency
-app.23degrees.io,23degrees,reference,1,1,1,2024,manual review: data visualization platform
-apps.apple.com,Apple App Store,business / commercial,1,1,1,2024,manual review: software marketplace
-argusmedia.com,argusmedia.com,news,1,1,1,2026,publisher-name heuristic
-arstechnica.com,Ars Technica,news,1,1,1,2024,manual review: technology and science publication
-arthuss.com.ua,ArtHuss,business / commercial,1,1,1,2025,manual review: Ukrainian art-book publisher and retailer
-arxiv.org,arXiv,research,1,1,1,2026,manual review: scholarly preprint repository
-as-coa.org,Americas Society / Council of the Americas,research,1,1,1,2024,manual review: policy and regional research organization
-aspi.com.ua,ASPI,Ukrainian media,1,1,1,2024,manual review: Ukrainian news publisher
-atlasobscura.com,Atlas Obscura,news,1,1,1,2024,"manual review: travel, culture and place publication"
-atm.mmu.ac.uk,atm.mmu.ac.uk,research,1,1,1,2025,research/think-tank or academic domain
-atncorp.com,ATN Corporation,business / commercial,1,1,1,2023,manual review: thermal imaging and optics manufacturer
-auchan.fr,Auchan,business / commercial,1,1,1,2025,manual review: retailer
-auchan.ua,Auchan,business / commercial,1,1,1,2025,manual review: Ukrainian retailer
-azov.org.ua,12th Special Forces Brigade Azov,official sources,1,1,1,2025,manual review: official Ukrainian military unit site
-azquotes.com,AZQuotes,reference,1,1,1,2023,manual review: quotation database
-banking.senate.gov,banking.senate.gov,official sources,1,1,1,2025,government/military domain
-bbc.co.uk,BBC,news,1,1,1,2024,manual review: public-service broadcaster
-bbgwatch.com,BBG Watch,news,1,1,1,2023,manual review: media and broadcasting watchdog site
-behance.net,Behance,social media,1,1,1,2024,manual review: creative portfolio platform
-benzinga.com,Benzinga,news,1,1,1,2026,manual review: financial news publisher
-berliner-woche.de,Berliner Woche,news,1,1,1,2024,manual review: Berlin local newspaper
-berliner-zeitung.de,Berliner Zeitung,news,1,1,1,2024,manual review: German newspaper
-bihus.info,Bihus.Info,Ukrainian media,1,1,1,2024,manual review: Ukrainian investigative journalism outlet
-binance.com,Binance,business / commercial,1,1,1,2025,manual review: cryptocurrency exchange and financial platform
-bluettipower.com,BLUETTI,business / commercial,1,1,1,2026,manual review: power-station manufacturer and retailer
-bnn-news.com,bnn-news.com,news,1,1,1,2025,publisher-name heuristic
-book-online.com.ua,Book-Online,reference,1,1,1,2023,manual review: online book text archive
-boursier.com,Boursier.com,news,1,1,1,2023,manual review: French financial news publisher
-breakingdefense.com,Breaking Defense,news,1,1,1,2025,manual review: specialist defence publication
-bright-products.com,Bright Products,business / commercial,1,1,1,2026,manual review: product manufacturer and retailer
-brooklyneagle.com,Brooklyn Eagle,news,1,1,1,2026,manual review: local newspaper
-brucemaudesign.com,brucemaudesign.com,other / unclassified,1,1,1,2023,domain not confidently identified
-bubsnaturals.com,bubsnaturals.com,other / unclassified,1,1,1,2025,domain not confidently identified
-bumble.com,bumble.com,other / unclassified,1,1,1,2024,domain not confidently identified
-buonaideabooks.com,buonaideabooks.com,other / unclassified,1,1,1,2024,domain not confidently identified
-buttondown.com,buttondown.com,other / unclassified,1,1,1,2025,domain not confidently identified
-buy-build.com,buy-build.com,other / unclassified,1,1,1,2024,domain not confidently identified
-byjus.com,BYJU'S,business / commercial,1,1,1,2023,manual review: education technology company
-ca.news.yahoo.com,ca.news.yahoo.com,news,1,1,1,2025,publisher-name heuristic
-cadc.uscourts.gov,cadc.uscourts.gov,official sources,1,1,1,2024,government/military domain
-calculat.io,calculat.io,other / unclassified,1,1,1,2024,domain not confidently identified
-cannondale.com.ua,cannondale.com.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-capx.co,CapX,news,1,1,1,2023,manual domain review
-cato-unbound.org,cato-unbound.org,other / unclassified,1,1,1,2024,domain not confidently identified
-cbs19news.com,cbs19news.com,news,1,1,1,2024,publisher-name heuristic
-ccu.gov.ua,ccu.gov.ua,official sources,1,1,1,2024,government/military domain
-cdn.jwplayer.com,cdn.jwplayer.com,other / unclassified,1,1,1,2024,domain not confidently identified
-cdn.prod.website-files.com,cdn.prod.website-files.com,other / unclassified,1,1,1,2024,domain not confidently identified
-cdn.shopify.com,cdn.shopify.com,other / unclassified,1,1,1,2024,domain not confidently identified
-cfa.harvard.edu,cfa.harvard.edu,research,1,1,1,2026,research/think-tank or academic domain
-cftni.org,cftni.org,other / unclassified,1,1,1,2025,domain not confidently identified
-charlierose.com,charlierose.com,other / unclassified,1,1,1,2023,domain not confidently identified
-chathamhouse.org,Chatham House,research,1,1,1,2024,research/think-tank or academic domain
-citizenlab.ca,citizenlab.ca,research,1,1,1,2023,organization-name heuristic
-cityartsmagazine.com,cityartsmagazine.com,news,1,1,1,2025,publisher-name heuristic
-claremont.org,claremont.org,other / unclassified,1,1,1,2024,domain not confidently identified
-claude.ai,claude.ai,other / unclassified,1,1,1,2026,domain not confidently identified
-clickondetroit.com,ClickOnDetroit,news,1,1,1,2023,manual domain review
-clips-mp4-aka.warnermediacdn.com,clips-mp4-aka.warnermediacdn.com,news,1,1,1,2023,publisher-name heuristic
-cna.al,cna.al,other / unclassified,1,1,1,2025,domain not confidently identified
-cnas.org,cnas.org,other / unclassified,1,1,1,2025,domain not confidently identified
-coffeeordie.com,Coffee or Die Magazine,news,1,1,1,2023,manual review: military and veteran-focused magazine
-columbianewsservice.com,columbianewsservice.com,news,1,1,1,2024,publisher-name heuristic
-committees.parliament.uk,UK Parliament Committees,official sources,1,1,1,2023,manual review: official parliamentary committee site
-conference.pictoplasma.com,conference.pictoplasma.com,other / unclassified,1,1,1,2025,domain not confidently identified
-conservancy.umn.edu,conservancy.umn.edu,research,1,1,1,2026,research/think-tank or academic domain
-consultant.net.ua,consultant.net.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-content.time.com,content.time.com,other / unclassified,1,1,1,2026,domain not confidently identified
-coros.com,COROS,business / commercial,1,1,1,2023,manual review: sports technology brand
-corp.oup.com,corp.oup.com,other / unclassified,1,1,1,2025,domain not confidently identified
-creativestates.net,creativestates.net,other / unclassified,1,1,1,2023,domain not confidently identified
-currenttime.tv,currenttime.tv,other / unclassified,1,1,1,2024,domain not confidently identified
-dailymail.co.uk,dailymail.co.uk,news,1,1,1,2025,publisher-name heuristic
-dailyutahchronicle.com,dailyutahchronicle.com,news,1,1,1,2026,publisher-name heuristic
-darksidedisplays.com,darksidedisplays.com,other / unclassified,1,1,1,2024,domain not confidently identified
-daviscenter.fas.harvard.edu,daviscenter.fas.harvard.edu,research,1,1,1,2024,research/think-tank or academic domain
-deepstatemap.substack.com,deepstatemap.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-defence-blog.com,defence-blog.com,other / unclassified,1,1,1,2026,domain not confidently identified
-defense.gouv.fr,defense.gouv.fr,other / unclassified,1,1,1,2024,domain not confidently identified
-defensie.nl,defensie.nl,other / unclassified,1,1,1,2024,domain not confidently identified
-derekhudson.com,Derek Hudson,personal / creative,1,1,1,2023,manual review: photographer's personal site
-derekthompson.org,derekthompson.org,other / unclassified,1,1,1,2025,domain not confidently identified
-dianefrancis.substack.com,Diane Francis (Substack),personal archive,1,1,1,2023,manual review: individual newsletter
-dictionary.cambridge.org,dictionary.cambridge.org,reference,1,1,1,2023,reference/archive/search domain
-dig-bremen.de,dig-bremen.de,other / unclassified,1,1,1,2023,domain not confidently identified
-digitalstate.gov.ua,digitalstate.gov.ua,official sources,1,1,1,2026,government/military domain
-discussions.apple.com,discussions.apple.com,other / unclassified,1,1,1,2025,domain not confidently identified
-dlcl.stanford.edu,dlcl.stanford.edu,research,1,1,1,2023,research/think-tank or academic domain
-documentcloud.org,documentcloud.org,other / unclassified,1,1,1,2024,domain not confidently identified
-dodig.mil,dodig.mil,official sources,1,1,1,2023,government/military domain
-drugs.com,drugs.com,other / unclassified,1,1,1,2023,domain not confidently identified
-dsns.gov.ua,dsns.gov.ua,official sources,1,1,1,2025,government/military domain
-dtek.com,dtek.com,other / unclassified,1,1,1,2026,domain not confidently identified
-duhvoli.com,duhvoli.com,other / unclassified,1,1,1,2024,domain not confidently identified
-e-skop.com,e-skop.com,other / unclassified,1,1,1,2026,domain not confidently identified
-earth.google.com,earth.google.com,other / unclassified,1,1,1,2025,domain not confidently identified
-earthsky.org,earthsky.org,other / unclassified,1,1,1,2024,domain not confidently identified
-eastfront.substack.com,eastfront.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-ebay.com,ebay.com,other / unclassified,1,1,1,2024,domain not confidently identified
-ebird.org,ebird.org,other / unclassified,1,1,1,2026,domain not confidently identified
-economic.menu,Economic Menu,business / commercial,1,1,1,2023,manual review: event and ticketing page
-economictimes.indiatimes.com,economictimes.indiatimes.com,news,1,1,1,2024,publisher-name heuristic
-econonomist.com,econonomist.com,other / unclassified,1,1,1,2025,domain not confidently identified
-ecopolitic.ro,ecopolitic.ro,other / unclassified,1,1,1,2025,domain not confidently identified
-edbarn.es,Ed Barn,personal / creative,1,1,1,2023,manual review: individual portfolio site
-eeas.europa.eu,eeas.europa.eu,other / unclassified,1,1,1,2025,domain not confidently identified
-efile.fara.gov,efile.fara.gov,official sources,1,1,1,2024,government/military domain
-egypt.mfa.gov.ua,egypt.mfa.gov.ua,official sources,1,1,1,2024,government/military domain
-elevenlabs.io,elevenlabs.io,other / unclassified,1,1,1,2025,domain not confidently identified
-eloquentmadness.wordpress.com,eloquentmadness.wordpress.com,news,1,1,1,2024,publisher-name heuristic
-en-us.topographic-map.com,Topographic Map,reference,1,1,1,2023,manual review: map and geographic reference service
-en.lb.ua,en.lb.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-en.people.cn,en.people.cn,other / unclassified,1,1,1,2024,domain not confidently identified
-en.tutiempo.net,en.tutiempo.net,other / unclassified,1,1,1,2025,domain not confidently identified
-encyclopedia.com,encyclopedia.com,other / unclassified,1,1,1,2023,domain not confidently identified
-encyclopediaofukraine.com,encyclopediaofukraine.com,other / unclassified,1,1,1,2024,domain not confidently identified
-eng.belta.by,BelTA,state media,1,1,1,2023,manual review: Belarusian state news agency
-english.elpais.com,english.elpais.com,other / unclassified,1,1,1,2026,domain not confidently identified
-epedagogia.com.br,epedagogia.com.br,other / unclassified,1,1,1,2026,domain not confidently identified
-euobserver.com,euobserver.com,news,1,1,1,2026,publisher-name heuristic
-europeandme.eu,europeandme.eu,other / unclassified,1,1,1,2024,domain not confidently identified
-euroradio.fm,euroradio.fm,other / unclassified,1,1,1,2024,domain not confidently identified
-eurozine.com,Eurozine,news,1,1,1,2023,manual review: European cultural and ideas magazine
-eutoday.net,eutoday.net,other / unclassified,1,1,1,2025,domain not confidently identified
-fb.watch,fb.watch,other / unclassified,1,1,1,2025,domain not confidently identified
-fdd.org,fdd.org,other / unclassified,1,1,1,2025,domain not confidently identified
-feldsist.com,feldsist.com,other / unclassified,1,1,1,2026,domain not confidently identified
-fenixrestaurant.com.ua,Fenix Restaurant,business / commercial,1,1,1,2023,manual review: restaurant site
-file.lib.in.ua,file.lib.in.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-finance.ua,finance.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-flickr.com,flickr.com,other / unclassified,1,1,1,2025,domain not confidently identified
-flightradar24.com,flightradar24.com,other / unclassified,1,1,1,2025,domain not confidently identified
-fmprc.gov.cn,Ministry of Foreign Affairs of China,official sources,1,1,1,2023,manual domain review
-foreign.senate.gov,foreign.senate.gov,official sources,1,1,1,2026,government/military domain
-forum.pravda.com.ua,Ukrainska Pravda Forum,social media,1,1,1,2023,manual review: reader discussion forum
-forumvostok.ru,forumvostok.ru,other / unclassified,1,1,1,2025,domain not confidently identified
-fr.de,fr.de,other / unclassified,1,1,1,2025,domain not confidently identified
-frankohara.org,frankohara.org,other / unclassified,1,1,1,2025,domain not confidently identified
-fred.stlouisfed.org,fred.stlouisfed.org,other / unclassified,1,1,1,2024,domain not confidently identified
-freedomforum.org,freedomforum.org,other / unclassified,1,1,1,2024,domain not confidently identified
-frontpages.com,frontpages.com,other / unclassified,1,1,1,2024,domain not confidently identified
-"ft,cin","ft,cin",other / unclassified,1,1,1,2025,domain not confidently identified
-g7italy.it,g7italy.it,other / unclassified,1,1,1,2024,domain not confidently identified
-gc.gov.ua,gc.gov.ua,official sources,1,1,1,2024,government/military domain
-georgiatoday.ge,georgiatoday.ge,other / unclassified,1,1,1,2024,domain not confidently identified
-gettyimages.com,gettyimages.com,other / unclassified,1,1,1,2024,domain not confidently identified
-gist.github.com,gist.github.com,other / unclassified,1,1,1,2026,domain not confidently identified
-glavcom.ua,glavcom.ua,Ukrainian media,1,1,1,2025,known Ukrainian publisher
-glavnoe.in.ua,glavnoe.in.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-glavred.net,glavred.net,other / unclassified,1,1,1,2023,domain not confidently identified
-globalbankingandfinance.com,globalbankingandfinance.com,other / unclassified,1,1,1,2026,domain not confidently identified
-gmfus.org,gmfus.org,other / unclassified,1,1,1,2025,domain not confidently identified
-gongadzeprize.com.ua,gongadzeprize.com.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-goodwine.ua,goodwine.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-govexec.com,govexec.com,other / unclassified,1,1,1,2024,domain not confidently identified
-gq.com,gq.com,other / unclassified,1,1,1,2024,domain not confidently identified
-gramota.ru,gramota.ru,other / unclassified,1,1,1,2024,domain not confidently identified
-greydynamics.com,greydynamics.com,other / unclassified,1,1,1,2026,domain not confidently identified
-groups.csail.mit.edu,groups.csail.mit.edu,research,1,1,1,2023,research/think-tank or academic domain
-guestreservations.com,guestreservations.com,other / unclassified,1,1,1,2024,domain not confidently identified
-guniaproject.com.ua,guniaproject.com.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-handelsblatt.com,handelsblatt.com,other / unclassified,1,1,1,2024,domain not confidently identified
-healthline.com,healthline.com,other / unclassified,1,1,1,2025,domain not confidently identified
-hellopoetry.com,Hello Poetry,social media,1,1,1,2023,manual review: user-generated poetry platform
-hercul.com.ua,hercul.com.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-heritage.org,heritage.org,other / unclassified,1,1,1,2025,domain not confidently identified
-himes.house.gov,himes.house.gov,official sources,1,1,1,2024,government/military domain
-hindustantimes.com,hindustantimes.com,news,1,1,1,2024,publisher-name heuristic
-historic-uk.com,Historic UK,reference,1,1,1,2023,manual review: British history reference site
-history.catholic.edu,history.catholic.edu,research,1,1,1,2025,research/think-tank or academic domain
-holosameryky.com,holosameryky.com,other / unclassified,1,1,1,2024,domain not confidently identified
-holybooks.com,HolyBooks,reference,1,1,1,2023,manual review: religious and historical text archive
-hpsnz.org.nz,hpsnz.org.nz,other / unclassified,1,1,1,2025,domain not confidently identified
-hrc.org,hrc.org,other / unclassified,1,1,1,2024,domain not confidently identified
-hromadske.radio,hromadske.radio,other / unclassified,1,1,1,2025,domain not confidently identified
-hromadske.ua,Hromadske,Ukrainian media,1,1,1,2025,known Ukrainian publisher
-hrw.org,hrw.org,research,1,1,1,2026,research/think-tank or academic domain
-hurstpublishers.com,Hurst Publishers,business / commercial,1,1,1,2023,manual review: academic and trade book publisher
-huxley.net,huxley.net,other / unclassified,1,1,1,2025,domain not confidently identified
-hydrocarbonprocessing.com,hydrocarbonprocessing.com,other / unclassified,1,1,1,2026,domain not confidently identified
-ia600102.us.archive.org,ia600102.us.archive.org,other / unclassified,1,1,1,2026,domain not confidently identified
-ia902905.us.archive.org,ia902905.us.archive.org,other / unclassified,1,1,1,2025,domain not confidently identified
-iea.org,iea.org,other / unclassified,1,1,1,2026,domain not confidently identified
-imf.org,imf.org,other / unclassified,1,1,1,2025,domain not confidently identified
-independent.co.uk,independent.co.uk,news,1,1,1,2023,known news publisher
-index.hu,index.hu,other / unclassified,1,1,1,2024,domain not confidently identified
-infographics.economist.com,infographics.economist.com,other / unclassified,1,1,1,2024,domain not confidently identified
-insider.com,Business Insider,news,1,1,1,2023,manual review: digital news publisher
-interfax.ru,interfax.ru,other / unclassified,1,1,1,2025,domain not confidently identified
-irf.ua,irf.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-isis-online.org,isis-online.org,other / unclassified,1,1,1,2025,domain not confidently identified
-isw.org,isw.org,other / unclassified,1,1,1,2026,domain not confidently identified
-isw.pub,isw.pub,other / unclassified,1,1,1,2026,domain not confidently identified
-itd.rada.gov.ua,itd.rada.gov.ua,official sources,1,1,1,2023,government/military domain
-itv.com,itv.com,other / unclassified,1,1,1,2026,domain not confidently identified
-iwm.at,Institute for Human Sciences (IWM),research,1,1,1,2023,manual review: independent humanities and social-sciences institute
-iwm.org.uk,iwm.org.uk,other / unclassified,1,1,1,2026,domain not confidently identified
-jamesrushton.substack.com,James Rushton (Substack),personal archive,1,1,1,2023,manual review: individual newsletter
-jeudepaume.org,jeudepaume.org,other / unclassified,1,1,1,2025,domain not confidently identified
-jjq.utulsa.edu,jjq.utulsa.edu,research,1,1,1,2023,research/think-tank or academic domain
-jordan.mfa.gov.ua,jordan.mfa.gov.ua,official sources,1,1,1,2025,government/military domain
-journals.uchicago.edu,journals.uchicago.edu,research,1,1,1,2026,research/think-tank or academic domain
-jpost.com,jpost.com,news,1,1,1,2026,publisher-name heuristic
-judiciary.house.gov,judiciary.house.gov,official sources,1,1,1,2023,government/military domain
-justice.gov,justice.gov,official sources,1,1,1,2026,government/military domain
-k-2.army,k-2.army,other / unclassified,1,1,1,2025,domain not confidently identified
-kalinouski.org,Kalinouski Regiment,official sources,1,1,1,2023,manual review: Belarusian volunteer military unit site
-kasparov.com,Garry Kasparov,personal / creative,1,1,1,2023,manual review: public figure's official site
-khorne209.substack.com,khorne209.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-khpg.org,Kharkiv Human Rights Protection Group,research,1,1,1,2023,manual review: human-rights NGO and documentation project
-kielinstitut.de,kielinstitut.de,other / unclassified,1,1,1,2025,domain not confidently identified
-king.senate.gov,king.senate.gov,official sources,1,1,1,2026,government/military domain
-kiwi-verlag.de,Kiepenheuer & Witsch,business / commercial,1,1,1,2023,manual review: German book publisher
-kommersant.ru,kommersant.ru,other / unclassified,1,1,1,2024,domain not confidently identified
-korrespondent.net,korrespondent.net,other / unclassified,1,1,1,2024,domain not confidently identified
-kp.nlu.org.ua,kp.nlu.org.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-kpbs.org,kpbs.org,other / unclassified,1,1,1,2026,domain not confidently identified
-ksat.com,ksat.com,other / unclassified,1,1,1,2026,domain not confidently identified
-kse.ua,Kyiv School of Economics,research,1,1,1,2023,manual review: university and research institution
-ktvb.com,ktvb.com,other / unclassified,1,1,1,2024,domain not confidently identified
-kuna.family,kuna.family,other / unclassified,1,1,1,2023,domain not confidently identified
-kurakhove,kurakhove,other / unclassified,1,1,1,2024,domain not confidently identified
-kyiv.tsn.ua,kyiv.tsn.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-kyivdispatch.substack.com,kyivdispatch.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-kyivindependent.substack.com,kyivindependent.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-kyivmarathon.org,kyivmarathon.org,other / unclassified,1,1,1,2023,domain not confidently identified
-kyivregiontours.gov.ua,kyivregiontours.gov.ua,official sources,1,1,1,2026,government/military domain
-kyivstar.ua,kyivstar.ua,other / unclassified,1,1,1,2023,domain not confidently identified
-lanacion.com.ar,La Nación,news,1,1,1,2023,manual review: Argentine newspaper
-landioustravel.com,Landiou's Travel,personal / creative,1,1,1,2023,manual review: travel blog
-lawfareblog.com,Lawfare,research,1,1,1,2023,manual review: national security law and policy analysis
-lb.ua,lb.ua,Ukrainian media,1,1,1,2024,known Ukrainian publisher
-leadershipinstitute.org,leadershipinstitute.org,research,1,1,1,2023,organization-name heuristic
-leave-russia.org,leave-russia.org,other / unclassified,1,1,1,2024,domain not confidently identified
-leilia-bakery.choiceqr.com,leilia-bakery.choiceqr.com,other / unclassified,1,1,1,2023,domain not confidently identified
-lepoint.fr,lepoint.fr,other / unclassified,1,1,1,2025,domain not confidently identified
-lettersfromukraine.substack.com,lettersfromukraine.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-lgraham.senate.gov,lgraham.senate.gov,official sources,1,1,1,2024,government/military domain
-lib.misto.kiev.ua,lib.misto.kiev.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-libertarianism.org,Libertarianism.org,research,1,1,1,2023,manual review: educational and policy project
-libertymedia.com,libertymedia.com,news,1,1,1,2023,publisher-name heuristic
-librarything.com,librarything.com,other / unclassified,1,1,1,2026,domain not confidently identified
-lidskae.by,lidskae.by,other / unclassified,1,1,1,2025,domain not confidently identified
-life-bridge-ukraine.com,life-bridge-ukraine.com,other / unclassified,1,1,1,2025,domain not confidently identified
-ligo.org,ligo.org,other / unclassified,1,1,1,2026,domain not confidently identified
-link.springer.com,link.springer.com,other / unclassified,1,1,1,2024,domain not confidently identified
-literaturepage.com,The Literature Page,reference,1,1,1,2023,manual review: public-domain literature archive
-live.euronext.com,live.euronext.com,other / unclassified,1,1,1,2026,domain not confidently identified
-livemint.com,Mint,news,1,1,1,2023,manual domain review
-livenowfox.com,livenowfox.com,other / unclassified,1,1,1,2025,domain not confidently identified
-lrt.lt,lrt.lt,other / unclassified,1,1,1,2024,domain not confidently identified
-lyricstranslate.com,lyricstranslate.com,other / unclassified,1,1,1,2023,domain not confidently identified
-m.censor.net,m.censor.net,other / unclassified,1,1,1,2024,domain not confidently identified
-maidan.org.ua,maidan.org.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-mappr.co,mappr.co,other / unclassified,1,1,1,2026,domain not confidently identified
-maps.app.goo.gl,maps.app.goo.gl,other / unclassified,1,1,1,2026,domain not confidently identified
-marbeks.com,marbeks.com,other / unclassified,1,1,1,2025,domain not confidently identified
-maritimesafetyinnovationlab.org,maritimesafetyinnovationlab.org,news,1,1,1,2025,publisher-name heuristic
-marketbeat.com,marketbeat.com,other / unclassified,1,1,1,2026,domain not confidently identified
-marketer.ua,marketer.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-martinkuz.substack.com,martinkuz.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-mayoclinic.org,mayoclinic.org,other / unclassified,1,1,1,2026,domain not confidently identified
-mearsheimer.substack.com,John Mearsheimer (Substack),personal archive,1,1,1,2023,manual review: individual newsletter
-mediadirectory.economist.com,mediadirectory.economist.com,news,1,1,1,2023,publisher-name heuristic
-medicalnewstoday.com,medicalnewstoday.com,news,1,1,1,2023,publisher-name heuristic
-megamarket.ua,megamarket.ua,other / unclassified,1,1,1,2023,domain not confidently identified
-mfa.gov.cn,mfa.gov.cn,other / unclassified,1,1,1,2024,domain not confidently identified
-miamiherald.com,miamiherald.com,news,1,1,1,2024,publisher-name heuristic
-mikeandkellyjohnson.com,mikeandkellyjohnson.com,other / unclassified,1,1,1,2023,domain not confidently identified
-military.com,military.com,other / unclassified,1,1,1,2025,domain not confidently identified
-militaryland.net,militaryland.net,other / unclassified,1,1,1,2025,domain not confidently identified
-militarytimes.com,militarytimes.com,news,1,1,1,2026,publisher-name heuristic
-mindat.org,mindat.org,other / unclassified,1,1,1,2023,domain not confidently identified
-mining.com,mining.com,other / unclassified,1,1,1,2024,domain not confidently identified
-minjust.gov.ua,minjust.gov.ua,official sources,1,1,1,2026,government/military domain
-mipl.org.ua,mipl.org.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-missiledefenseadvocacy.org,missiledefenseadvocacy.org,other / unclassified,1,1,1,2025,domain not confidently identified
-moz.gov.ua,moz.gov.ua,official sources,1,1,1,2023,government/military domain
-mozdocs.kiev.ua,mozdocs.kiev.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-muse.jhu.edu,muse.jhu.edu,research,1,1,1,2024,research/think-tank or academic domain
-museumofthebible.org,museumofthebible.org,other / unclassified,1,1,1,2025,domain not confidently identified
-nas.gov.ua,nas.gov.ua,official sources,1,1,1,2026,government/military domain
-nashaniva.com,Nasha Niva,news,1,1,1,2023,manual domain review
-nashformat.ua,nashformat.ua,other / unclassified,1,1,1,2023,domain not confidently identified
-nashkiev.ua,Nash Kyiv,Ukrainian media,1,1,1,2023,manual review: Kyiv local news and city portal
-nationalinterest.org,nationalinterest.org,other / unclassified,1,1,1,2024,domain not confidently identified
-nationalreview.com,nationalreview.com,other / unclassified,1,1,1,2024,domain not confidently identified
-naturenibble.com,Nature Nibble,personal / creative,1,1,1,2023,manual review: personal nature and food blog
-nbg.kiev.ua,nbg.kiev.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-networkworld.com,networkworld.com,other / unclassified,1,1,1,2024,domain not confidently identified
-newrepublic.com,newrepublic.com,other / unclassified,1,1,1,2026,domain not confidently identified
-news.finance.ua,news.finance.ua,news,1,1,1,2024,publisher-name heuristic
-news.hab.media,news.hab.media,news,1,1,1,2026,publisher-name heuristic
-news.satnews.com,news.satnews.com,news,1,1,1,2024,publisher-name heuristic
-news.telegraf.com.ua,news.telegraf.com.ua,news,1,1,1,2026,publisher-name heuristic
-news.yahoo.com,news.yahoo.com,news,1,1,1,2024,publisher-name heuristic
-newspapers.com,newspapers.com,news,1,1,1,2023,publisher-name heuristic
-nih.gov,nih.gov,official sources,1,1,1,2024,government/military domain
-ninajankowicz.com,ninajankowicz.com,other / unclassified,1,1,1,2024,domain not confidently identified
-nizkor.com,Nizkor Project,reference,1,1,1,2023,manual review: Holocaust documentation archive
-notesfromkyiv.substack.com,notesfromkyiv.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-novayagazeta.eu,Novaya Gazeta Europe,news,1,1,1,2023,manual review: independent Russian-language news outlet
-novolipki.com,novolipki.com,other / unclassified,1,1,1,2024,domain not confidently identified
-novosti.dn.ua,novosti.dn.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-nsa.gov,nsa.gov,official sources,1,1,1,2025,government/military domain
-nsarchive.gwu.edu,nsarchive.gwu.edu,research,1,1,1,2023,research/think-tank or academic domain
-nsarchive2.gwu.edu,nsarchive2.gwu.edu,research,1,1,1,2023,research/think-tank or academic domain
-oann.com,oann.com,other / unclassified,1,1,1,2024,domain not confidently identified
-odni.gov,odni.gov,official sources,1,1,1,2024,government/military domain
-ogburger.kyiv.ua,OG Burger,business / commercial,1,1,1,2023,manual review: Kyiv restaurant
-oglobo.globo.com,oglobo.globo.com,other / unclassified,1,1,1,2025,domain not confidently identified
-olayasport.com,olayasport.com,other / unclassified,1,1,1,2025,domain not confidently identified
-oll.libertyfund.org,Online Library of Liberty,reference,1,1,1,2023,manual review: digital library of political and economic texts
-olx.ua,olx.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-olympics.com,olympics.com,other / unclassified,1,1,1,2026,domain not confidently identified
-on.soundcloud.com,on.soundcloud.com,other / unclassified,1,1,1,2024,domain not confidently identified
-online.ua,online.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-opendatabot.ua,opendatabot.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-opensecrets.org,opensecrets.org,other / unclassified,1,1,1,2024,domain not confidently identified
-opensocietyfoundations.org,opensocietyfoundations.org,other / unclassified,1,1,1,2025,domain not confidently identified
-orwellfoundation.com,orwellfoundation.com,research,1,1,1,2025,organization-name heuristic
-oversight.gov,oversight.gov,official sources,1,1,1,2026,government/military domain
-oxfordreference.com,oxfordreference.com,other / unclassified,1,1,1,2024,domain not confidently identified
-palantir.com,palantir.com,other / unclassified,1,1,1,2024,domain not confidently identified
-pangram.com,pangram.com,other / unclassified,1,1,1,2026,domain not confidently identified
-parasitesandvectors.biomedcentral.com,parasitesandvectors.biomedcentral.com,other / unclassified,1,1,1,2025,domain not confidently identified
-parleypolicy.com,parleypolicy.com,research,1,1,1,2023,organization-name heuristic
-parliament.uk,parliament.uk,other / unclassified,1,1,1,2023,domain not confidently identified
-patreon.com,patreon.com,other / unclassified,1,1,1,2026,domain not confidently identified
-paypal.com,paypal.com,other / unclassified,1,1,1,2024,domain not confidently identified
-pdhpe.net,pdhpe.net,other / unclassified,1,1,1,2025,domain not confidently identified
-pewresearch.org,pewresearch.org,research,1,1,1,2024,organization-name heuristic
-philipjonesgriffiths.org,Philip Jones Griffiths Foundation,reference,1,1,1,2023,manual review: photographer's archive and foundation
-philsci-archive.pitt.edu,philsci-archive.pitt.edu,research,1,1,1,2024,research/think-tank or academic domain
-pl.wikipedia.org,Wikipedia (Polish),reference,1,1,1,2023,manual review: encyclopedia
-plantuml.com,PlantUML,reference,1,1,1,2023,manual review: software documentation and diagramming tool
-play.google.com,play.google.com,other / unclassified,1,1,1,2026,domain not confidently identified
-poetrysociety.org,poetrysociety.org,other / unclassified,1,1,1,2025,domain not confidently identified
-pokernews.com,pokernews.com,news,1,1,1,2025,publisher-name heuristic
-polit.ru,Polit.ru,news,1,1,1,2023,manual review: Russian news and commentary site
-politco.com,politco.com,other / unclassified,1,1,1,2025,domain not confidently identified
-politco.eu,politco.eu,other / unclassified,1,1,1,2024,domain not confidently identified
-political.tips,political.tips,other / unclassified,1,1,1,2024,domain not confidently identified
-politifact.com,politifact.com,other / unclassified,1,1,1,2024,domain not confidently identified
-polskieradio.pl,polskieradio.pl,other / unclassified,1,1,1,2024,domain not confidently identified
-prisonlife.ru,prisonlife.ru,other / unclassified,1,1,1,2024,domain not confidently identified
-project2025.org,project2025.org,other / unclassified,1,1,1,2024,domain not confidently identified
-prom.ua,prom.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-propublica.org,propublica.org,news,1,1,1,2026,known news publisher
-puncher.kiev.ua,puncher.kiev.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-rbc.ru,rbc.ru,other / unclassified,1,1,1,2026,domain not confidently identified
-re-russia.net,re-russia.net,other / unclassified,1,1,1,2024,domain not confidently identified
-reaganlibrary.gov,reaganlibrary.gov,official sources,1,1,1,2025,government/military domain
-realclearworld.com,realclearworld.com,other / unclassified,1,1,1,2024,domain not confidently identified
-region.nashigroshi.org,Nashi Groshi,Ukrainian media,1,1,1,2023,manual review: Ukrainian investigative journalism
-reliefweb.int,reliefweb.int,research,1,1,1,2023,research/think-tank or academic domain
-republic.ru,republic.ru,other / unclassified,1,1,1,2025,domain not confidently identified
-reut.rs,Reuters,news,1,1,1,2023,manual domain review
-rg.ru,rg.ru,other / unclassified,1,1,1,2024,domain not confidently identified
-rheinmetall.com,rheinmetall.com,other / unclassified,1,1,1,2025,domain not confidently identified
-ria.ru,ria.ru,other / unclassified,1,1,1,2025,domain not confidently identified
-ripleysheroes.org,Ripley's Heroes,official sources,1,1,1,2023,manual review: nonprofit and veteran support organization
-rm.coe.int,rm.coe.int,other / unclassified,1,1,1,2024,domain not confidently identified
-rnbo.gov.ua,rnbo.gov.ua,official sources,1,1,1,2023,government/military domain
-robertboschacademy.de,Robert Bosch Academy,official sources,1,1,1,2023,manual review: institutional fellowship and public-program site
-robertshermantv.com,robertshermantv.com,other / unclassified,1,1,1,2025,domain not confidently identified
-romania-insider.com,romania-insider.com,other / unclassified,1,1,1,2024,domain not confidently identified
-romania.europalibera.org,romania.europalibera.org,other / unclassified,1,1,1,2025,domain not confidently identified
-roryfinnin.com,Rory Finnin,personal / creative,1,1,1,2023,manual review: academic's personal site
-rsf.org,rsf.org,other / unclassified,1,1,1,2024,domain not confidently identified
-ru.interfax.com.ua,ru.interfax.com.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-ru.krymr.com,Crimea.Realities,Ukrainian media,1,1,1,2023,manual review: RFE/RL reporting on Crimea
-rubryka.com,rubryka.com,other / unclassified,1,1,1,2023,domain not confidently identified
-ruccs.rutgers.edu,ruccs.rutgers.edu,research,1,1,1,2026,research/think-tank or academic domain
-runbase.kiev.ua,runbase.kiev.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-russian-casualties.in.ua,russian-casualties.in.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-russianwarreport.substack.com,russianwarreport.substack.com,news,1,1,1,2026,publisher-name heuristic
-rwnd.store,rwnd.store,other / unclassified,1,1,1,2024,domain not confidently identified
-s3.documentcloud.org,s3.documentcloud.org,other / unclassified,1,1,1,2024,domain not confidently identified
-sachacollisson.com,sachacollisson.com,other / unclassified,1,1,1,2024,domain not confidently identified
-samf.substack.com,Sam F. (Substack),personal archive,1,1,1,2023,manual review: individual newsletter
-sarahashtoncirillo.substack.com,Sarah Ashton-Cirillo (Substack),personal archive,1,1,1,2023,manual review: individual newsletter
-sas.upenn.edu,sas.upenn.edu,research,1,1,1,2025,research/think-tank or academic domain
-sciplus.com,sciplus.com,other / unclassified,1,1,1,2023,domain not confidently identified
-scmp.com,scmp.com,other / unclassified,1,1,1,2024,domain not confidently identified
-scottishpoetrylibrary.org.uk,Scottish Poetry Library,reference,1,1,1,2023,manual review: poetry library and archive
-scribd.com,scribd.com,other / unclassified,1,1,1,2024,domain not confidently identified
-scrippsnews.com,scrippsnews.com,news,1,1,1,2025,publisher-name heuristic
-search.google.com,search.google.com,other / unclassified,1,1,1,2024,domain not confidently identified
-sec.gov,sec.gov,official sources,1,1,1,2026,government/military domain
-secretsmachine.com,Secrets Machine,personal / creative,1,1,1,2023,manual review: individual creative project
-sestry-feldman.com,sestry-feldman.com,other / unclassified,1,1,1,2025,domain not confidently identified
-seymourhersh.substack.com,Seymour Hersh (Substack),social media,1,1,1,2023,manual domain review
-shafa.ua,shafa.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-shephardmedia.com,shephardmedia.com,news,1,1,1,2026,publisher-name heuristic
-silpo.ua,silpo.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-simonandschuster.com,simonandschuster.com,other / unclassified,1,1,1,2024,domain not confidently identified
-simple.wikipedia.org,simple.wikipedia.org,other / unclassified,1,1,1,2025,domain not confidently identified
-singjupost.com,singjupost.com,news,1,1,1,2024,publisher-name heuristic
-skydio.com,skydio.com,other / unclassified,1,1,1,2024,domain not confidently identified
-slangdefine.org,SlangDefine,reference,1,1,1,2023,manual review: slang dictionary
-slate.com,slate.com,other / unclassified,1,1,1,2025,domain not confidently identified
-sluga-narodu.com,sluga-narodu.com,other / unclassified,1,1,1,2023,domain not confidently identified
-sluganaroda.fandom.com,sluganaroda.fandom.com,other / unclassified,1,1,1,2025,domain not confidently identified
-smartass.club,smartass.club,other / unclassified,1,1,1,2025,domain not confidently identified
-socialistmodernism.com,Socialist Modernism,reference,1,1,1,2023,manual review: architecture and heritage archive
-solar-center.stanford.edu,solar-center.stanford.edu,research,1,1,1,2024,research/think-tank or academic domain
-soundcloud.com,soundcloud.com,social media,1,1,1,2023,known platform
-space.com,space.com,other / unclassified,1,1,1,2025,domain not confidently identified
-spartz.house.gov,spartz.house.gov,official sources,1,1,1,2025,government/military domain
-specialkhersoncat.substack.com,specialkhersoncat.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-spglobal.com,spglobal.com,other / unclassified,1,1,1,2026,domain not confidently identified
-spivoche.com.ua,Spivoche,business / commercial,1,1,1,2023,manual review: Kyiv cultural venue
-spravkainform.com.ua,spravkainform.com.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-stateoig.gov,stateoig.gov,official sources,1,1,1,2023,government/military domain
-static.heritage.org,static.heritage.org,other / unclassified,1,1,1,2025,domain not confidently identified
-static.project2025.org,static.project2025.org,other / unclassified,1,1,1,2025,domain not confidently identified
-statisticshowto.com,Statistics How To,reference,1,1,1,2023,manual review: statistics reference and education site
-stockanalysis.com,stockanalysis.com,other / unclassified,1,1,1,2026,domain not confidently identified
-store.magnumphotos.com,store.magnumphotos.com,other / unclassified,1,1,1,2025,domain not confidently identified
-storymaps.arcgis.com,storymaps.arcgis.com,other / unclassified,1,1,1,2024,domain not confidently identified
-straitstimes.com,straitstimes.com,news,1,1,1,2023,publisher-name heuristic
-strava.com,strava.com,other / unclassified,1,1,1,2026,domain not confidently identified
-strengthathome.org,Strength at Home,research,1,1,1,2023,manual review: evidence-based intervention program
-supreme.justia.com,supreme.justia.com,other / unclassified,1,1,1,2025,domain not confidently identified
-svaboda.org,svaboda.org,other / unclassified,1,1,1,2024,domain not confidently identified
-tankona.free.fr,tankona.free.fr,other / unclassified,1,1,1,2024,domain not confidently identified
-tass.com,tass.com,other / unclassified,1,1,1,2025,domain not confidently identified
-tebowing.com,tebowing.com,other / unclassified,1,1,1,2024,domain not confidently identified
-techiia-fund.org,Techiia Foundation,official sources,1,1,1,2023,manual review: charitable foundation
-teufelsberg-berlin.de,teufelsberg-berlin.de,other / unclassified,1,1,1,2025,domain not confidently identified
-tf1info.fr,tf1info.fr,other / unclassified,1,1,1,2024,domain not confidently identified
-thebulwark.com,thebulwark.com,other / unclassified,1,1,1,2025,domain not confidently identified
-thecharliekirkshow.com,thecharliekirkshow.com,other / unclassified,1,1,1,2025,domain not confidently identified
-theconversation.com,The Conversation,news,1,1,1,2023,manual review: research-based journalism publisher
-thedigital.gov.ua,thedigital.gov.ua,official sources,1,1,1,2023,government/military domain
-theeconomist.com,theeconomist.com,other / unclassified,1,1,1,2025,domain not confidently identified
-theedgemalaysia.com,theedgemalaysia.com,other / unclassified,1,1,1,2026,domain not confidently identified
-thegaurdian.com,thegaurdian.com,other / unclassified,1,1,1,2025,domain not confidently identified
-theglobeandmail.com,theglobeandmail.com,other / unclassified,1,1,1,2026,domain not confidently identified
-thelancet.com,The Lancet,research,1,1,1,2023,manual review: peer-reviewed medical journal
-themarathoninitiative.org,themarathoninitiative.org,other / unclassified,1,1,1,2025,domain not confidently identified
-themozartgroup.com,The Mozart Group,business / commercial,1,1,1,2023,manual review: private security company
-theneweuropean.co.uk,The New European,news,1,1,1,2023,manual domain review
-thepoetryhour.com,The Poetry Hour,personal / creative,1,1,1,2023,manual review: poetry project
-thesohoagency.co.uk,The Soho Agency,business / commercial,1,1,1,2023,manual review: creative agency
-thestar.com.my,thestar.com.my,other / unclassified,1,1,1,2026,domain not confidently identified
-theyoungones.fandom.com,theyoungones.fandom.com,other / unclassified,1,1,1,2026,domain not confidently identified
-ti-ukraine.org,ti-ukraine.org,other / unclassified,1,1,1,2023,domain not confidently identified
-timemagazine.com,timemagazine.com,news,1,1,1,2023,publisher-name heuristic
-timesofisrael.com,timesofisrael.com,news,1,1,1,2026,publisher-name heuristic
-tootsie.kiev.ua,Tootsie Club,business / commercial,1,1,1,2023,manual review: Kyiv nightlife venue
-totalprosports.com,totalprosports.com,other / unclassified,1,1,1,2024,domain not confidently identified
-traxys.com,traxys.com,other / unclassified,1,1,1,2025,domain not confidently identified
-tribune.com.pk,tribune.com.pk,news,1,1,1,2026,publisher-name heuristic
-tripadvisor.com,tripadvisor.com,other / unclassified,1,1,1,2026,domain not confidently identified
-trump-archive.com,trump-archive.com,other / unclassified,1,1,1,2026,domain not confidently identified
-truth-hounds.org,Truth Hounds,research,1,1,1,2023,manual review: human-rights documentation NGO
-tryarmra.com,tryarmra.com,other / unclassified,1,1,1,2025,domain not confidently identified
-tsum.ua,tsum.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-u24.media,u24.media,news,1,1,1,2024,publisher-name heuristic
-ucd.ie,ucd.ie,other / unclassified,1,1,1,2025,domain not confidently identified
-ucu.edu.ua,ucu.edu.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-ukraine.un.org,ukraine.un.org,other / unclassified,1,1,1,2025,domain not confidently identified
-ukrainefreedomproject.org,ukrainefreedomproject.org,other / unclassified,1,1,1,2025,domain not confidently identified
-ukrainematters.substack.com,ukrainematters.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-ukrainetoday.org,ukrainetoday.org,other / unclassified,1,1,1,2026,domain not confidently identified
-ukrainewarnotes.substack.com,ukrainewarnotes.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-ukrainewartruth.substack.com,ukrainewartruth.substack.com,other / unclassified,1,1,1,2023,domain not confidently identified
-ukrainewatch.substack.com,ukrainewatch.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-ukrayinska-pravda.com,ukrayinska-pravda.com,other / unclassified,1,1,1,2026,domain not confidently identified
-ukroboronprom.com.ua,ukroboronprom.com.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-underfire.news,underfire.news,news,1,1,1,2026,publisher-name heuristic
-unherd.com,unherd.com,other / unclassified,1,1,1,2025,domain not confidently identified
-unian.ua,unian.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-universitytimes.ie,universitytimes.ie,news,1,1,1,2026,publisher-name heuristic
-unn.ua,unn.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-upload.wikimedia.org,upload.wikimedia.org,news,1,1,1,2023,publisher-name heuristic
-us.icebreaker.com,us.icebreaker.com,other / unclassified,1,1,1,2026,domain not confidently identified
-us.macmillan.com,us.macmillan.com,other / unclassified,1,1,1,2024,domain not confidently identified
-usatoday.com,usatoday.com,news,1,1,1,2025,known news publisher
-uscode.house.gov,uscode.house.gov,official sources,1,1,1,2026,government/military domain
-users.drew.edu,users.drew.edu,research,1,1,1,2026,research/think-tank or academic domain
-ushmm.org,United States Holocaust Memorial Museum,official sources,1,1,1,2023,manual review: national museum and research institution
-ustr.gov,ustr.gov,official sources,1,1,1,2025,government/military domain
-va.gov,va.gov,official sources,1,1,1,2024,government/military domain
-vaholocaust.pastperfectonline.com,vaholocaust.pastperfectonline.com,other / unclassified,1,1,1,2025,domain not confidently identified
-vandenberg.spaceforce.mil,vandenberg.spaceforce.mil,official sources,1,1,1,2025,government/military domain
-velmart.ua,Velmart,business / commercial,1,1,1,2023,manual review: Ukrainian supermarket retailer
-velosiped.com,velosiped.com,other / unclassified,1,1,1,2025,domain not confidently identified
-vice.com,VICE,news,1,1,1,2023,manual domain review
-vimeo.com,vimeo.com,social media,1,1,1,2025,known platform
-visir.is,visir.is,other / unclassified,1,1,1,2024,domain not confidently identified
-vladimirbpastukhov.substack.com,vladimirbpastukhov.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-vlex.com,vLex,reference,1,1,1,2023,manual review: legal research database
-voanews.com,voanews.com,news,1,1,1,2024,publisher-name heuristic
-vodokanal.kyiv.ua,vodokanal.kyiv.ua,other / unclassified,1,1,1,2026,domain not confidently identified
-vsn.ua,vsn.ua,other / unclassified,1,1,1,2025,domain not confidently identified
-wapo.com,wapo.com,other / unclassified,1,1,1,2026,domain not confidently identified
-warmapper.org,warmapper.org,other / unclassified,1,1,1,2024,domain not confidently identified
-warpp.info,warpp.info,other / unclassified,1,1,1,2023,domain not confidently identified
-wartranslated.substack.com,wartranslated.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-washingtonexaminer.com,washingtonexaminer.com,other / unclassified,1,1,1,2025,domain not confidently identified
-wealthandwant.com,Center for the Study of Economics,research,1,1,1,2023,manual review: economic policy advocacy and research
-webmd.com,webmd.com,other / unclassified,1,1,1,2024,domain not confidently identified
-webportal.nrada.gov.ua,webportal.nrada.gov.ua,official sources,1,1,1,2026,government/military domain
-weekendreading.net,weekendreading.net,other / unclassified,1,1,1,2023,domain not confidently identified
-westplainsdailyquill.net,westplainsdailyquill.net,news,1,1,1,2024,publisher-name heuristic
-who.int,World Health Organization,official sources,1,1,1,2023,manual review: intergovernmental health agency
-wikimapia.org,wikimapia.org,other / unclassified,1,1,1,2024,domain not confidently identified
-witkoff.com,witkoff.com,other / unclassified,1,1,1,2025,domain not confidently identified
-workcraftlife.com,Work/Craft/Life,personal / creative,1,1,1,2023,manual review: personal newsletter and blog
-worldpoliticsreview.com,World Politics Review,news,1,1,1,2023,manual review: international affairs publication
-www-svoboda-org.cdn.ampproject.org,www-svoboda-org.cdn.ampproject.org,other / unclassified,1,1,1,2024,domain not confidently identified
-yakaboo.ua,yakaboo.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-yellowstripsdeadarmadillos.org,yellowstripsdeadarmadillos.org,other / unclassified,1,1,1,2024,domain not confidently identified
-yle.fi,yle.fi,other / unclassified,1,1,1,2026,domain not confidently identified
-yoursukrainian.substack.com,yoursukrainian.substack.com,other / unclassified,1,1,1,2026,domain not confidently identified
-youtu.be,YouTube,social media,1,1,1,2023,known platform
-zakon.rada.gov.ua,zakon.rada.gov.ua,official sources,1,1,1,2025,government/military domain
-zdf.de,ZDF,news,1,1,1,2023,manual domain review
-zeitung.faz.net,zeitung.faz.net,other / unclassified,1,1,1,2024,domain not confidently identified
-zemliak.com,zemliak.com,other / unclassified,1,1,1,2025,domain not confidently identified
-zmina.ua,zmina.ua,other / unclassified,1,1,1,2024,domain not confidently identified
-zora.co,zora.co,other / unclassified,1,1,1,2024,domain not confidently identified
-zsu.gov.ua,zsu.gov.ua,official sources,1,1,1,2024,government/military domain
+"source_domain","normalized_publisher","category","link_occurrences","unique_urls","unique_posts","years","classification_basis"
+"abdymok.substack.com","ukraine@war (Substack)","personal archive","721","505","405","2023;2024;2025;2026","exact domain rule"
+"en.wikipedia.org","Wikipedia","reference","290","265","196","2023;2024;2025;2026","reference/archive/search domain"
+"nytimes.com","The New York Times","news","269","218","200","2023;2024;2025;2026","corrected canonical publisher URL from original post;known news publisher"
+"youtube.com","YouTube","social media","249","232","167","2023;2024;2025;2026","known platform"
+"t.me","Telegram","social media","172","168","142","2023;2024;2025;2026","known platform"
+"washingtonpost.com","The Washington Post","news","137","97","95","2023;2024;2025;2026","known news publisher"
+"nyt.com","The New York Times","news","135","1","104","2023;2024;2025;2026","known news publisher;manual correction: malformed publisher URL in source archive"
+"google.com","Google","reference","128","127","62","2023;2024;2025;2026","reference/archive/search domain"
+"reuters.com","Reuters","news","125","108","98","2023;2024;2025;2026","known news publisher"
+"x.com","X / Twitter","social media","119","104","72","2024;2025;2026","known platform"
+"theatlantic.com","The Atlantic","news","105","48","56","2023;2024;2025;2026","known news publisher"
+"ft.com","Financial Times","news","98","38","51","2023;2024;2025;2026","known news publisher"
+"wapo.st","The Washington Post","news","88","2","66","2023;2024;2025;2026","known news publisher"
+"theguardian.com","The Guardian","news","84","63","60","2023;2024;2025;2026","known news publisher"
+"archive.ph","Archive.ph","reference","71","67","62","2025;2026","reference/archive/search domain"
+"wsj.com","The Wall Street Journal","news","68","33","33","2023;2024;2025;2026","known news publisher"
+"twitter.com","X / Twitter","social media","65","65","48","2023;2024","known platform"
+"instagram.com","Instagram","social media","60","51","49","2023;2024;2025;2026","known platform"
+"facebook.com","Facebook","social media","59","54","50","2023;2024;2025;2026","known platform"
+"edition.cnn.com","CNN","news","58","57","55","2023;2024;2025;2026","known news publisher"
+"abdymok.github.io","abdymok (GitHub Pages)","personal archive","54","17","26","2026","exact domain rule"
+"pravda.com.ua","Ukrainska Pravda","Ukrainian media","53","43","41","2023;2024;2025;2026","known Ukrainian publisher"
+"economist.com","The Economist","news","50","27","29","2023;2024;2025;2026","known news publisher"
+"understandingwar.org","Institute for the Study of War","research","46","33","31","2023;2024;2025;2026","research/think-tank or academic domain"
+"politico.eu","POLITICO Europe","news","45","30","30","2023;2024;2025;2026","known news publisher"
+"apnews.com","Associated Press","news","38","32","34","2023;2024;2025;2026","known news publisher"
+"bloomberg.com","Bloomberg","news","38","26","26","2023;2024;2025;2026","known news publisher"
+"politico.com","POLITICO","news","37","22","26","2023;2024;2025;2026","known news publisher"
+"kyivpost.com","Kyiv Post","Ukrainian media","33","25","20","2023;2024;2025;2026","known Ukrainian publisher"
+"president.gov.ua","Office of the President of Ukraine","official sources","29","29","26","2023;2024;2025;2026","government/military domain"
+"censor.net","Censor.NET","Ukrainian media","28","27","24","2023;2024;2025;2026","known Ukrainian publisher"
+"foreignaffairs.com","Foreign Affairs","news","27","14","14","2023;2024;2025;2026","known news publisher"
+"zn.ua","ZN.ua","Ukrainian media","26","18","16","2023;2024;2025;2026","known Ukrainian publisher"
+"bbc.com","BBC","news","23","21","19","2023;2024;2025;2026","known news publisher"
+"deepstatemap.live","DeepStateMap","research","22","20","20","2023;2024;2025","manual domain review"
+"en.tootsie.kiev.ua","Tootsie Club","business / commercial","22","1","21","2023;2024;2025;2026","manual review: Kyiv nightlife venue"
+"interfax.com.ua","Interfax-Ukraine","Ukrainian media","22","18","19","2023;2024;2025;2026","known Ukrainian publisher"
+"en.interfax.com.ua","Interfax-Ukraine","Ukrainian media","21","19","20","2023;2024;2025;2026","known Ukrainian publisher"
+"foxnews.com","Fox News","news","21","14","16","2024;2025","known news publisher"
+"time.com","TIME","news","21","12","15","2023;2024;2025;2026","known news publisher"
+"web.archive.org","Internet Archive","reference","21","20","13","2023;2024;2025;2026","reference/archive/search domain"
+"cnn.com","CNN","news","20","6","18","2023;2024;2025;2026","known news publisher"
+"ru.wikipedia.org","Wikipedia (Russian)","reference","20","18","17","2023;2024;2025;2026","reference/archive/search domain"
+"kyivindependent.com","The Kyiv Independent","Ukrainian media","19","18","16","2023;2024;2025;2026","known Ukrainian publisher"
+"newyorker.com","The New Yorker","news","18","10","8","2023;2024;2025","known news publisher"
+"rollcall.com","Roll Call","news","17","14","9","2025;2026","manual domain-to-publisher normalization"
+"sites.google.com","abdymok (legacy Google Sites)","personal archive","15","10","14","2023;2024;2025;2026","manual domain review"
+"substack.com","Substack","social media","15","13","13","2023;2024;2025;2026","manual domain review"
+"uk.wikipedia.org","Wikipedia (Ukrainian)","reference","15","15","14","2023;2024;2025;2026","manual domain review"
+"axios.com","Axios","news","13","11","10","2023;2024;2025;2026","manual domain-to-publisher normalization"
+"konmari.com","KonMari","business / commercial","13","13","13","2025;2026","manual review: Marie Kondo brand and products"
+"nypost.com","The New York Post","news","13","8","7","2024;2025;2026","manual domain-to-publisher normalization"
+"google.com.ua","Google Books","reference","11","11","11","2023;2024;2026","manual domain review"
+"nbcnews.com","NBC News","news","11","11","10","2023;2024;2025;2026","manual domain-to-publisher normalization"
+"stefankorshak.substack.com","Stefan Korshak (Substack)","social media","11","9","9","2023;2024;2025;2026","manual domain review"
+"truthsocial.com","Truth Social","social media","11","11","8","2025;2026","manual domain-to-publisher normalization"
+"abcnews.go.com","ABC News","news","10","9","7","2023;2024;2025","manual domain-to-publisher normalization"
+"c-span.org","C-SPAN","news","10","10","10","2023;2024;2025","manual domain review"
+"newsweek.com","Newsweek","news","10","8","7","2023;2024;2025","manual domain-to-publisher normalization"
+"state.gov","US Department of State","official sources","10","8","8","2023;2024;2025;2026","government/military domain"
+"ukraine-economic-outlook.com","Ukraine Economic Outlook","research","10","6","8","2023;2024","manual domain review"
+"whitehouse.gov","The White House","official sources","10","8","10","2023;2024;2025;2026","government/military domain"
+"nabu.gov.ua","National Anti-Corruption Bureau of Ukraine (NABU)","official sources","9","8","7","2023;2025;2026","manual domain-to-publisher normalization"
+"newsukraine.rbc.ua","RBC-Ukraine","Ukrainian media","9","9","7","2024;2025","manual domain-to-publisher normalization"
+"thehill.com","The Hill","news","9","7","7","2023;2024;2025;2026","manual domain-to-publisher normalization"
+"thetimes.com","The Times","news","9","4","4","2024;2025;2026","manual domain-to-publisher normalization"
+"uk.tootsie.kiev.ua","Tootsie Club","business / commercial","9","1","9","2024;2025;2026","manual review: Kyiv nightlife venue"
+"ukrinform.ua","Ukrinform","Ukrainian media","9","5","7","2024;2025;2026","manual domain review"
+"ap.com","Associated Press","news","8","1","7","2023;2024;2025;2026","known news publisher"
+"cbsnews.com","CBS News","news","8","7","7","2024;2025;2026","manual domain-to-publisher normalization"
+"dni.gov","Office of the Director of National Intelligence","official sources","8","6","6","2023;2024;2025;2026","manual domain-to-publisher normalization"
+"euromaidanpress.com","Euromaidan Press","Ukrainian media","8","7","5","2023;2024;2025;2026","manual domain-to-publisher normalization"
+"justsecurity.org","Just Security","research","8","5","2","2024","manual domain review"
+"lemonde.fr","Le Monde","news","8","6","5","2024;2025","manual domain review"
+"news.sky.com","Sky News","news","8","7","6","2024;2025;2026","manual domain-to-publisher normalization"
+"rev.com","Rev","reference","8","8","3","2024;2025","manual domain review"
+"emptywheel.net","Emptywheel","news","7","3","6","2025;2026","manual domain review"
+"english.nv.ua","The New Voice of Ukraine","Ukrainian media","7","7","7","2024;2025;2026","manual domain review"
+"msn.com","MSN","news","7","6","6","2024;2025;2026","manual domain review"
+"nv.ua","The New Voice of Ukraine","Ukrainian media","7","7","7","2024;2025","known Ukrainian publisher"
+"perplexity.ai","Perplexity","reference","7","7","6","2024;2025","manual domain review"
+"preposterousuniverse.com","Mindscape (Preposterous Universe)","research","7","6","5","2024;2025;2026","manual review: science and ideas podcast"
+"project-syndicate.org","Project Syndicate","news","7","5","3","2025","manual domain review"
+"rferl.org","Radio Free Europe / Radio Liberty","news","7","7","6","2023;2024;2025","manual domain review"
+"amazon.com","Amazon","business / commercial","6","6","6","2023;2024;2026","manual review: retail and product listings"
+"americafirstpolicy.com","America First Policy Institute","research","6","3","2","2024","manual domain-to-publisher normalization"
+"atlanticcouncil.org","Atlantic Council","research","6","5","3","2024;2025;2026","manual domain-to-publisher normalization"
+"babel.ua","Babel","Ukrainian media","6","5","5","2023;2024;2025;2026","known Ukrainian publisher"
+"britannica.com","Encyclopædia Britannica","reference","6","6","4","2023;2024","manual domain-to-publisher normalization"
+"eurointegration.com.ua","European Pravda","Ukrainian media","6","5","5","2023;2024;2025","manual domain review"
+"github.com","GitHub","personal archive","6","6","1","2026","manual domain review"
+"guardian.co.uk","The Guardian","news","6","1","6","2023;2024","known news publisher"
+"icc-cpi.int","International Criminal Court","official sources","6","5","4","2023;2026","manual domain-to-publisher normalization"
+"nato.int","NATO","official sources","6","5","5","2024;2026","manual domain review"
+"npr.org","NPR","news","6","6","5","2024;2025;2026","manual domain-to-publisher normalization"
+"rusi.org","Royal United Services Institute","research","6","6","6","2023;2024;2025;2026","research/think-tank or academic domain"
+"spiegel.de","Der Spiegel","news","6","4","4","2023;2024;2025","manual domain review"
+"tiktok.com","TikTok","social media","6","5","6","2023;2024;2025;2026","known platform"
+"abc.net.au","ABC News Australia","news","5","4","5","2023;2024;2026","manual domain-to-publisher normalization"
+"bit.ly","Bitly","social media","5","5","5","2023","manual domain-to-publisher normalization"
+"books.google.com.ua","Google Books","reference","5","5","5","2023;2024;2025","manual domain review"
+"brucemaustudio.com","Bruce Mau Studio","personal / creative","5","1","3","2023;2024","manual review: design studio and portfolio"
+"epravda.com.ua","Ekonomichna Pravda","Ukrainian media","5","4","3","2024;2026","manual domain review"
+"example.com","Example Domain","reference","5","1","1","2026","manual domain review"
+"faz.net","Frankfurter Allgemeine Zeitung","news","5","3","3","2024;2025","manual domain review"
+"lrb.co.uk","London Review of Books","news","5","2","3","2023;2024","manual domain review"
+"menshealth.com","Men's Health","news","5","2","3","2024;2026","manual review: specialist health and lifestyle magazine"
+"mirrormedia.mg","Mirror Media","news","5","3","5","2023;2024","manual domain-to-publisher normalization"
+"pbs.org","PBS","news","5","4","3","2024;2025","manual domain-to-publisher normalization"
+"plato.stanford.edu","Stanford Encyclopedia of Philosophy","research","5","3","5","2025;2026","manual domain-to-publisher normalization"
+"poetryfoundation.org","Poetry Foundation","research","5","4","5","2024;2025;2026","manual domain-to-publisher normalization"
+"potustracker.us","POTUS Tracker","reference","5","4","5","2025","manual domain review"
+"rollingstone.com","Rolling Stone","news","5","4","3","2023;2024;2025","manual domain review"
+"ruslanlobanov.com","Ruslan Lobanov","personal archive","5","5","4","2024;2026","manual domain review"
+"securityconference.org","Munich Security Conference","research","5","3","5","2024;2025","manual domain review"
+"spring96.org","Viasna Human Rights Centre","research","5","4","5","2023;2025","manual domain review"
+"suspilne.media","Suspilne","Ukrainian media","5","5","5","2023;2024;2025","known Ukrainian publisher"
+"telegraph.co.uk","The Telegraph","news","5","5","5","2025;2026","manual domain review"
+"urc-international.com","Ukraine Recovery Conference","official sources","5","1","5","2023;2024","manual domain review"
+"xxtomcooperxx.substack.com","Tom Cooper (Substack)","social media","5","3","5","2024;2025","manual domain review"
+"archive.org","Internet Archive","reference","4","4","4","2023;2025;2026","manual domain-to-publisher normalization"
+"carnegieendowment.org","Carnegie Endowment","research","4","3","3","2023;2024;2026","research/think-tank or academic domain"
+"csis.org","Center for Strategic and International Studies","research","4","3","2","2024;2026","research/think-tank or academic domain"
+"de.wikipedia.org","Wikipedia (German)","reference","4","4","3","2023;2025","manual domain review"
+"detector.media","Detector Media","Ukrainian media","4","4","4","2024;2025;2026","known Ukrainian publisher"
+"dtek-kem.com.ua","DTEK","official sources","4","3","4","2024;2025","manual domain review"
+"dtnpf.com","DTN","news","4","4","1","2026","manual domain review"
+"dw.com","Deutsche Welle","news","4","4","4","2024;2025;2026","manual domain-to-publisher normalization"
+"en.kremlin.ru","Kremlin / President of Russia","official sources","4","3","4","2023;2025","manual domain review"
+"foreignpolicy.com","Foreign Policy","news","4","4","3","2023;2024","known news publisher"
+"france24.com","France 24","news","4","4","4","2024;2025","manual domain-to-publisher normalization"
+"ifw-kiel.de","Kiel Institute for the World Economy","research","4","3","3","2024;2025;2026","manual domain review"
+"latimes.com","Los Angeles Times","news","4","2","1","2024","manual domain-to-publisher normalization"
+"meduza.io","Meduza","news","4","3","2","2024","manual domain review"
+"oig.usaid.gov","USAID Office of Inspector General","official sources","4","4","2","2023;2024","manual domain-to-publisher normalization"
+"photos.app.goo.gl","Google Photos","personal archive","4","4","4","2023;2024","manual domain review"
+"radiosvoboda.org","Radio Svoboda","Ukrainian media","4","4","4","2023;2024;2026","manual domain review"
+"semafor.com","Semafor","news","4","3","2","2024;2026","manual domain review"
+"thecipherbrief.com","The Cipher Brief","news","4","4","3","2023;2024","manual domain review"
+"theguardian.co.uk","The Guardian","news","4","1","3","2023;2025","manual domain review"
+"twz.com","The War Zone","news","4","3","2","2024;2025","manual domain review"
+"u24.gov.ua","UNITED24","official sources","4","2","4","2023;2024;2025","manual domain-to-publisher normalization"
+"yahoo.com","Yahoo News","news","4","4","4","2024;2025","manual domain review"
+"zeit.de","Die Zeit","news","4","4","2","2023;2026","manual domain review"
+"abdymok.blogspot.com","abdymok (Blogspot)","personal archive","3","3","3","2023","exact domain rule"
+"abdymok.medium.com","abdymok (Medium)","personal archive","3","3","3","2023","exact domain rule"
+"anneapplebaum.com","Anne Applebaum","personal archive","3","2","2","2025","manual domain review"
+"archive.kyivpost.com","Kyiv Post","Ukrainian media","3","3","3","2023;2024","manual domain-to-publisher normalization"
+"army.mil","U.S. Army","official sources","3","3","3","2025;2026","manual domain-to-publisher normalization"
+"bellingcat.com","Bellingcat","research","3","2","2","2024;2026","manual domain-to-publisher normalization"
+"cepa.org","Center for European Policy Analysis (CEPA)","research","3","3","3","2023;2026","manual domain-to-publisher normalization"
+"cfr.org","Council on Foreign Relations","research","3","3","3","2023;2024","manual domain-to-publisher normalization"
+"congress.gov","US Congress","official sources","3","3","2","2023;2026","government/military domain"
+"defense.gov","US Department of Defense","official sources","3","3","3","2023;2024","government/military domain"
+"defenseone.com","Defense One","news","3","3","2","2023;2024","manual domain review"
+"digi24.ro","Digi24","news","3","2","2","2025","manual domain review"
+"forbes.com","Forbes","news","3","3","2","2025","manual domain review"
+"freep.com","Detroit Free Press","news","3","3","1","2025","manual domain review"
+"genocidewatch.com","Genocide Watch","research","3","2","2","2023","manual domain review"
+"harriman.columbia.edu","Harriman Institute","research","3","3","1","2025","manual domain-to-publisher normalization"
+"independent.ie","Irish Independent","news","3","2","1","2026","manual domain review"
+"inquirer.com","The Philadelphia Inquirer","news","3","3","2","2024;2026","manual domain-to-publisher normalization"
+"irishtimes.com","The Irish Times","news","3","2","1","2023","manual domain-to-publisher normalization"
+"irunfar.com","iRunFar","news","3","3","3","2024;2025","manual review: specialist running publication"
+"istories.media","iStories","news","3","1","1","2023","manual domain-to-publisher normalization"
+"kiis.com.ua","Kyiv International Institute of Sociology","research","3","3","3","2024","manual domain review"
+"kmu.gov.ua","Cabinet of Ministers of Ukraine","official sources","3","3","3","2024;2025","government/military domain"
+"kremlin.ru","Kremlin / President of Russia","official sources","3","3","3","2023;2025","manual domain review"
+"krytyka.com","Krytyka","Ukrainian media","3","3","1","2023","manual domain review"
+"mid.ru","Ministry of Foreign Affairs of Russia","official sources","3","3","3","2025;2026","manual domain review"
+"mil.gov.ua","Ministry of Defence of Ukraine","official sources","3","3","2","2023","government/military domain"
+"news.liga.net","LIGA.net","Ukrainian media","3","3","3","2025;2026","manual domain-to-publisher normalization"
+"news.un.org","UN News","official sources","3","2","2","2023;2025","manual domain-to-publisher normalization"
+"notebook.google.com","Google NotebookLM","reference","3","1","3","2026","manual domain review"
+"open.substack.com","Substack","social media","3","3","3","2023;2024;2025","manual domain review"
+"phillipspobrien.substack.com","Phillips O’Brien (Substack)","social media","3","3","3","2023;2024","manual domain review"
+"philpapers.org","PhilPapers","reference","3","3","1","2026","manual domain review"
+"podcasts.apple.com","Apple Podcasts","social media","3","3","3","2023;2025","manual domain-to-publisher normalization"
+"prospectmagazine.co.uk","Prospect Magazine","news","3","2","1","2025","manual review: current-affairs magazine"
+"seattletimes.com","The Seattle Times","news","3","1","1","2023","manual domain-to-publisher normalization"
+"skyatnightmagazine.com","BBC Sky at Night Magazine","news","3","1","1","2025","manual review: specialist astronomy magazine"
+"spectator.co.uk","The Spectator","news","3","2","1","2024","manual domain review"
+"texty.org.ua","Texty.org.ua","Ukrainian media","3","3","3","2024;2026","known Ukrainian publisher"
+"thedailybeast.com","The Daily Beast","news","3","3","2","2023;2024","manual domain-to-publisher normalization"
+"ua.usembassy.gov","U.S. Embassy in Ukraine","official sources","3","3","3","2024;2025;2026","manual domain-to-publisher normalization"
+"ueoweekly.substack.com","Ukraine Economic Outlook","research","3","2","3","2024","manual review: Ukraine-focused economic analysis newsletter"
+"ukraine.ohchr.org","UN Human Rights Monitoring Mission in Ukraine","official sources","3","3","3","2025","manual domain review"
+"ukrinform.net","Ukrinform","Ukrainian media","3","3","3","2024;2025","known Ukrainian publisher"
+"urbandictionary.com","Urban Dictionary","reference","3","3","1","2023","manual domain review"
+"usnews.com","U.S. News & World Report","news","3","2","2","2023","manual domain-to-publisher normalization"
+"welt.de","Die Welt","news","3","2","1","2023","manual domain review"
+"yes-ukraine.org","Yalta European Strategy","research","3","3","3","2024;2025","manual domain review"
+"abdymok.tumblr.com","abdymok (Tumblr)","personal archive","2","1","2","2025","manual domain review"
+"aljazeera.com","Al Jazeera","news","2","2","2","2024;2025","manual domain-to-publisher normalization"
+"apimagesblog.com","AP Images","reference","2","2","2","2023;2024","manual domain review"
+"apostrophe.ua","Apostrophe","Ukrainian media","2","2","2","2025;2026","manual domain-to-publisher normalization"
+"app.quotemedia.com","QuoteMedia","business / commercial","2","2","1","2026","manual domain-to-publisher normalization"
+"archive.fo","Archive.fo","reference","2","2","2","2025","manual domain review"
+"azart.comments.ua","Comments.ua","Ukrainian media","2","2","1","2024","manual review: Ukrainian news and commentary publisher"
+"belta.by","BelTA","state media","2","2","2","2023;2025","state-owned news agency"
+"bfmtv.com","BFMTV","news","2","2","2","2023;2024","manual domain review"
+"bild.de","Bild","news","2","2","2","2023;2025","manual domain review"
+"birdinflight.com","Bird in Flight","Ukrainian media","2","2","1","2024","manual domain review"
+"blackseawhale.com","The Black Sea Whale","news","2","2","2","2024","manual review: literary and cultural magazine"
+"brave1.gov.ua","Brave1","official sources","2","1","2","2023;2025","manual domain-to-publisher normalization"
+"businessinsider.com","Business Insider","news","2","2","2","2024;2025","manual domain review"
+"buzzfeednews.com","BuzzFeed News","news","2","2","2","2024","manual domain-to-publisher normalization"
+"chesno.org","Chesno Movement","research","2","2","2","2023;2025","manual domain review"
+"cjr.org","Columbia Journalism Review","research","2","2","2","2025;2026","manual domain review"
+"cnbc.com","CNBC","news","2","2","2","2024","manual domain review"
+"consilium.europa.eu","Council of the European Union","official sources","2","2","2","2023;2025","government/military domain"
+"counteroffensive.news","The Counteroffensive","news","2","2","2","2026","manual domain-to-publisher normalization"
+"defence-ua.com","Defense Express","Ukrainian media","2","2","1","2024","manual domain review"
+"defence.org.ua","Centre for Defence Strategies","research","2","2","2","2025","manual review: Ukrainian security and defence think tank"
+"detachment-a.org","Detachment A","reference","2","2","2","2023;2026","manual review: historical veterans and intelligence archive"
+"dia.mil","Defense Intelligence Agency","official sources","2","1","2","2023;2025","manual domain-to-publisher normalization"
+"dodosocks.com","Dodo Socks","business / commercial","2","2","2","2025;2026","manual review: Ukrainian retail brand"
+"ec.europa.eu","European Commission","official sources","2","1","1","2024","manual domain review"
+"en.defence-ua.com","Defense Express","Ukrainian media","2","2","2","2024","manual domain review"
+"euneighbourseast.eu","EU Neighbours East","official sources","2","2","1","2025","manual domain review"
+"euractiv.com","Euractiv","news","2","2","2","2024","manual domain review"
+"euronews.com","Euronews","news","2","2","2","2024;2026","manual domain-to-publisher normalization"
+"finance.yahoo.com","Yahoo Finance","news","2","2","1","2026","manual domain review"
+"foi.se","Swedish Defence Research Agency","research","2","2","1","2023","manual domain review"
+"forbes.ua","Forbes Ukraine","Ukrainian media","2","2","2","2024;2025","manual domain review"
+"frontelligence.substack.com","Frontelligence Insight (Substack)","social media","2","2","2","2024;2026","manual domain review"
+"gazeta.ua","Gazeta.ua","Ukrainian media","2","2","2","2023;2024","manual domain review"
+"gem.wiki","GEM Wiki","reference","2","2","2","2024;2026","manual domain review"
+"globenewswire.com","GlobeNewswire","business / commercial","2","2","1","2024","manual domain-to-publisher normalization"
+"goodreads.com","Goodreads","reference","2","2","2","2025;2026","manual domain review"
+"gutenberg.org","Project Gutenberg","reference","2","1","2","2025;2026","manual domain review"
+"hetwebsite.net","History of Economic Thought Website","reference","2","1","2","2024","manual review: scholarly history-of-economics reference archive"
+"hopkinsmedicine.org","Johns Hopkins Medicine","official sources","2","1","2","2023;2024","manual domain review"
+"icrc.org","International Committee of the Red Cross","official sources","2","1","1","2026","manual domain review"
+"ihl-databases.icrc.org","International Committee of the Red Cross","official sources","2","2","2","2023;2024","manual domain review"
+"imi.org.ua","Institute of Mass Information","research","2","2","2","2024;2026","manual domain review"
+"isi.org","Institute for Strategic Dialogue","research","2","2","1","2024","manual domain review"
+"knihi.com","Knihi.com","reference","2","2","2","2025;2026","manual domain review"
+"kyivcity.gov.ua","Kyiv City State Administration","official sources","2","2","1","2026","manual domain-to-publisher normalization"
+"linktr.ee","Linktree","social media","2","2","2","2023;2026","manual domain review"
+"lithub.com","Literary Hub","news","2","2","1","2024","manual domain review"
+"livingthewar.media","Living the War","news","2","1","2","2024","manual domain-to-publisher normalization"
+"magnumphotos.com","Magnum Photos","reference","2","2","2","2023;2026","manual domain review"
+"mathshistory.st-andrews.ac.uk","MacTutor History of Mathematics Archive","research","2","2","1","2023","manual domain-to-publisher normalization"
+"media.defense.gov","U.S. Department of Defense","official sources","2","2","2","2024;2026","manual domain-to-publisher normalization"
+"mediamatters.org","Media Matters for America","research","2","2","2","2025","manual domain-to-publisher normalization"
+"mei.edu","Middle East Institute","research","2","2","1","2023","manual domain-to-publisher normalization"
+"mil.in.ua","Militarnyi","Ukrainian media","2","2","2","2024;2025","manual domain-to-publisher normalization"
+"mod.gov.ua","Ministry of Defence of Ukraine","official sources","2","2","2","2025","government/military domain"
+"molycorp.com","Molycorp","business / commercial","2","1","1","2025","manual review: corporate company site"
+"msd.com","MSD","business / commercial","2","1","2","2024;2025","manual review: pharmaceutical company site"
+"msd.ru","MSD","business / commercial","2","1","2","2023;2025","manual review: pharmaceutical company site"
+"nashigroshi.org","Nashi Groshi","research","2","1","1","2026","manual domain review"
+"navyrecognition.com","Navy Recognition","news","2","1","1","2024","manual domain review"
+"newsnationnow.com","NewsNation","news","2","2","2","2025","manual domain-to-publisher normalization"
+"notebooklm.google.com","Google NotebookLM","reference","2","1","2","2026","manual domain review"
+"novayagazeta.ru","Novaya Gazeta","news","2","2","1","2024","manual domain review"
+"ohchr.org","OHCHR","official sources","2","2","2","2023","manual domain-to-publisher normalization"
+"osce.org","Organization for Security and Co-operation in Europe","official sources","2","1","1","2026","manual domain review"
+"presidency.ucsb.edu","The American Presidency Project","reference","2","2","2","2024;2025","manual domain-to-publisher normalization"
+"puck.news","Puck","news","2","2","2","2023;2026","manual domain-to-publisher normalization"
+"rainews.it","Rai News","news","2","2","2","2024;2026","manual domain-to-publisher normalization"
+"rbc.ua","RBC-Ukraine","Ukrainian media","2","2","2","2023;2025","manual domain-to-publisher normalization"
+"reutersconnect.com","Reuters Connect","news","2","2","2","2025;2026","manual domain review"
+"rt.com","RT","news","2","2","2","2025","manual domain review"
+"rumble.com","Rumble","social media","2","2","2","2025;2026","manual domain-to-publisher normalization"
+"runnersworld.com","Runner’s World","news","2","1","2","2023;2024","manual domain review"
+"samtiden.no","Samtiden","news","2","2","1","2026","manual domain review"
+"sfstandard.com","The San Francisco Standard","news","2","1","1","2024","manual domain review"
+"sidestack.io","SideStack","reference","2","2","2","2025;2026","manual review: Substack directory"
+"snyder.substack.com","Timothy Snyder (Substack)","social media","2","2","2","2023;2024","manual domain review"
+"stripe.com","Stripe","business / commercial","2","2","2","2024;2025","manual review: payments company"
+"sud.ua","Sud.ua","Ukrainian media","2","2","2","2023;2026","manual domain review"
+"sueddeutsche.de","Süddeutsche Zeitung","news","2","2","2","2025","manual domain review"
+"syri.net","Syrian Network for Human Rights","research","2","2","1","2024","manual domain review"
+"szru.gov.ua","Foreign Intelligence Service of Ukraine","official sources","2","2","1","2026","manual domain-to-publisher normalization"
+"taibbi.substack.com","Matt Taibbi (Substack)","social media","2","2","1","2023","manual domain review"
+"theins.ru","The Insider","news","2","2","2","2024;2026","manual domain review"
+"thejournal.ie","The Journal","news","2","2","1","2025","manual domain-to-publisher normalization"
+"theonion.com","The Onion","news","2","2","2","2024;2026","manual domain review"
+"threadreaderapp.com","Thread Reader App","social media","2","2","2","2023;2024","manual domain review"
+"timesofindia.indiatimes.com","The Times of India","news","2","1","1","2026","manual domain-to-publisher normalization"
+"tinyurl.com","TinyURL","social media","2","2","2","2024","manual domain-to-publisher normalization"
+"tsn.ua","TSN","Ukrainian media","2","2","2","2024","manual domain-to-publisher normalization"
+"tvzvezda.ru","TV Zvezda","news","2","2","1","2025","manual domain review"
+"ua.riotdivision.tech","Riot Division","business / commercial","2","1","2","2023;2025","manual review: Ukrainian clothing brand"
+"uaweek.org","The Ukrainian Week","Ukrainian media","2","1","2","2025","manual domain review"
+"uk.news.yahoo.com","Yahoo News","news","2","2","2","2024","manual domain-to-publisher normalization"
+"ukranews.com","Ukranews","Ukrainian media","2","1","1","2024","manual domain-to-publisher normalization"
+"unesco.org","UNESCO","official sources","2","1","1","2026","manual domain review"
+"united24media.com","UNITED24 Media","Ukrainian media","2","2","2","2026","manual domain-to-publisher normalization"
+"vaticannews.va","Vatican News","news","2","2","2","2023;2026","manual domain-to-publisher normalization"
+"veranda.ua","Veranda on the River","business / commercial","2","2","1","2023","manual review: Kyiv restaurant and event venue"
+"veriteofficial.com","VÉRITÉ","personal / creative","2","1","2","2023;2024","manual review: musician's official site"
+"vogue.ua","Vogue Ukraine","Ukrainian media","2","2","1","2025","manual domain review"
+"war.ukraine.ua","Ukraine.ua","official sources","2","2","2","2024","manual domain review"
+"weforum.org","World Economic Forum","research","2","2","2","2024;2026","manual domain review"
+"wh.gov","The White House","official sources","2","1","2","2025","manual alias normalization: White House short domain"
+"worldcat.org","WorldCat","reference","2","2","1","2026","manual domain review"
+"wser.org","Western States Endurance Run","official sources","2","1","2","2025","manual review: official race organizer site"
+"...","...","other / unclassified","1","1","1","2026","domain not confidently identified"
+"@jamiewrit","Jamie Dettmer","social media","1","1","1","2023","manual review: journalist social profile"
+"@keithgessen","Keith Gessen","social media","1","1","1","2023","manual review: individual social profile"
+"@markusua","Markus (social profile)","social media","1","1","1","2024","manual review: individual social profile"
+"@nytimes","@nytimes","news","1","1","1","2023","publisher-name heuristic"
+"@tabletochki","Tabletochki","social media","1","1","1","2023","manual review: individual social profile"
+"@tatarigami","Tatarigami","social media","1","1","1","2025","manual review: military analyst social profile"
+"161.ru","161.ru","news","1","1","1","2023","manual review: Russian regional news outlet"
+"425skala.com","425th Separate Assault Regiment Skala","official sources","1","1","1","2025","manual review: Ukrainian military unit site"
+"44.ua","44.ua","Ukrainian media","1","1","1","2024","manual review: Kyiv local news site"
+"5.ua","5 Kanal","Ukrainian media","1","1","1","2024","manual review: Ukrainian television news publisher"
+"abc3340.com","ABC 33/40","news","1","1","1","2026","manual review: local US television news publisher"
+"abcnews.com","abcnews.com","news","1","1","1","2026","publisher-name heuristic"
+"academic.oup.com","Oxford University Press Academic","research","1","1","1","2026","manual review: scholarly books and journals platform"
+"achievement.org","American Academy of Achievement","official sources","1","1","1","2024","manual review: nonprofit educational and interview archive"
+"acleddata.com","ACLED","research","1","1","1","2026","manual review: conflict-event data and research organization"
+"adsport.store","AD Sport","business / commercial","1","1","1","2024","manual review: sports retail store"
+"afsoc.af.mil","afsoc.af.mil","official sources","1","1","1","2025","government/military domain"
+"afterilovaisk.com","After Ilovaisk","research","1","1","1","2024","manual review: documentary and oral-history project"
+"agbull.com","Ag Bull Trading","news","1","1","1","2026","manual review: commodities and energy market news"
+"alerts.in.ua","Alerts.in.ua","reference","1","1","1","2026","manual review: Ukrainian air-alert aggregation and map service"
+"allpoetry.com","All Poetry","social media","1","1","1","2024","manual review: user-generated poetry platform"
+"americanrifleman.org","American Rifleman","news","1","1","1","2023","manual review: specialist firearms magazine"
+"anduril.com","Anduril Industries","business / commercial","1","1","1","2025","manual review: defence technology company"
+"anewz.tv","AnewZ","news","1","1","1","2025","manual review: international news broadcaster"
+"antikvar.ua","Antikvar","Ukrainian media","1","1","1","2026","manual review: Ukrainian art and culture publication"
+"antilogicalism.com","Antilogicalism","personal / creative","1","1","1","2025","manual review: personal philosophy and literature blog"
+"ap.org","Associated Press","news","1","1","1","2023","manual review: international news agency"
+"app.23degrees.io","23degrees","reference","1","1","1","2024","manual review: data visualization platform"
+"apps.apple.com","Apple App Store","business / commercial","1","1","1","2024","manual review: software marketplace"
+"argusmedia.com","argusmedia.com","news","1","1","1","2026","publisher-name heuristic"
+"arstechnica.com","Ars Technica","news","1","1","1","2024","manual review: technology and science publication"
+"arthuss.com.ua","ArtHuss","business / commercial","1","1","1","2025","manual review: Ukrainian art-book publisher and retailer"
+"arxiv.org","arXiv","research","1","1","1","2026","manual review: scholarly preprint repository"
+"as-coa.org","Americas Society / Council of the Americas","research","1","1","1","2024","manual review: policy and regional research organization"
+"aspi.com.ua","ASPI","Ukrainian media","1","1","1","2024","manual review: Ukrainian news publisher"
+"atlasobscura.com","Atlas Obscura","news","1","1","1","2024","manual review: travel, culture and place publication"
+"atm.mmu.ac.uk","atm.mmu.ac.uk","research","1","1","1","2025","research/think-tank or academic domain"
+"atncorp.com","ATN Corporation","business / commercial","1","1","1","2023","manual review: thermal imaging and optics manufacturer"
+"auchan.fr","Auchan","business / commercial","1","1","1","2025","manual review: retailer"
+"auchan.ua","Auchan","business / commercial","1","1","1","2025","manual review: Ukrainian retailer"
+"azov.org.ua","12th Special Forces Brigade Azov","official sources","1","1","1","2025","manual review: official Ukrainian military unit site"
+"azquotes.com","AZQuotes","reference","1","1","1","2023","manual review: quotation database"
+"banking.senate.gov","banking.senate.gov","official sources","1","1","1","2025","government/military domain"
+"bbc.co.uk","BBC","news","1","1","1","2024","manual review: public-service broadcaster"
+"bbgwatch.com","BBG Watch","news","1","1","1","2023","manual review: media and broadcasting watchdog site"
+"behance.net","Behance","social media","1","1","1","2024","manual review: creative portfolio platform"
+"benzinga.com","Benzinga","news","1","1","1","2026","manual review: financial news publisher"
+"berliner-woche.de","Berliner Woche","news","1","1","1","2024","manual review: Berlin local newspaper"
+"berliner-zeitung.de","Berliner Zeitung","news","1","1","1","2024","manual review: German newspaper"
+"bihus.info","Bihus.Info","Ukrainian media","1","1","1","2024","manual review: Ukrainian investigative journalism outlet"
+"binance.com","Binance","business / commercial","1","1","1","2025","manual review: cryptocurrency exchange and financial platform"
+"bluettipower.com","BLUETTI","business / commercial","1","1","1","2026","manual review: power-station manufacturer and retailer"
+"bnn-news.com","bnn-news.com","news","1","1","1","2025","publisher-name heuristic"
+"book-online.com.ua","Book-Online","reference","1","1","1","2023","manual review: online book text archive"
+"boursier.com","Boursier.com","news","1","1","1","2023","manual review: French financial news publisher"
+"breakingdefense.com","Breaking Defense","news","1","1","1","2025","manual review: specialist defence publication"
+"bright-products.com","Bright Products","business / commercial","1","1","1","2026","manual review: product manufacturer and retailer"
+"brooklyneagle.com","Brooklyn Eagle","news","1","1","1","2026","manual review: local newspaper"
+"brucemaudesign.com","brucemaudesign.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"bubsnaturals.com","bubsnaturals.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"bumble.com","bumble.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"buonaideabooks.com","buonaideabooks.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"buttondown.com","buttondown.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"buy-build.com","buy-build.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"byjus.com","BYJU'S","business / commercial","1","1","1","2023","manual review: education technology company"
+"ca.news.yahoo.com","ca.news.yahoo.com","news","1","1","1","2025","publisher-name heuristic"
+"cadc.uscourts.gov","cadc.uscourts.gov","official sources","1","1","1","2024","government/military domain"
+"calculat.io","calculat.io","other / unclassified","1","1","1","2024","domain not confidently identified"
+"cannondale.com.ua","cannondale.com.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"capx.co","CapX","news","1","1","1","2023","manual domain review"
+"cato-unbound.org","cato-unbound.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"cbs19news.com","cbs19news.com","news","1","1","1","2024","publisher-name heuristic"
+"ccu.gov.ua","ccu.gov.ua","official sources","1","1","1","2024","government/military domain"
+"cdn.jwplayer.com","cdn.jwplayer.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"cdn.prod.website-files.com","cdn.prod.website-files.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"cdn.shopify.com","cdn.shopify.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"cfa.harvard.edu","cfa.harvard.edu","research","1","1","1","2026","research/think-tank or academic domain"
+"cftni.org","cftni.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"charlierose.com","charlierose.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"chathamhouse.org","Chatham House","research","1","1","1","2024","research/think-tank or academic domain"
+"citizenlab.ca","citizenlab.ca","research","1","1","1","2023","organization-name heuristic"
+"cityartsmagazine.com","cityartsmagazine.com","news","1","1","1","2025","publisher-name heuristic"
+"claremont.org","claremont.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"claude.ai","claude.ai","other / unclassified","1","1","1","2026","domain not confidently identified"
+"clickondetroit.com","ClickOnDetroit","news","1","1","1","2023","manual domain review"
+"clips-mp4-aka.warnermediacdn.com","clips-mp4-aka.warnermediacdn.com","news","1","1","1","2023","publisher-name heuristic"
+"cna.al","cna.al","other / unclassified","1","1","1","2025","domain not confidently identified"
+"cnas.org","cnas.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"coffeeordie.com","Coffee or Die Magazine","news","1","1","1","2023","manual review: military and veteran-focused magazine"
+"columbianewsservice.com","columbianewsservice.com","news","1","1","1","2024","publisher-name heuristic"
+"committees.parliament.uk","UK Parliament Committees","official sources","1","1","1","2023","manual review: official parliamentary committee site"
+"conference.pictoplasma.com","conference.pictoplasma.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"conservancy.umn.edu","conservancy.umn.edu","research","1","1","1","2026","research/think-tank or academic domain"
+"consultant.net.ua","consultant.net.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"content.time.com","content.time.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"coros.com","COROS","business / commercial","1","1","1","2023","manual review: sports technology brand"
+"corp.oup.com","corp.oup.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"creativestates.net","creativestates.net","other / unclassified","1","1","1","2023","domain not confidently identified"
+"currenttime.tv","currenttime.tv","other / unclassified","1","1","1","2024","domain not confidently identified"
+"dailymail.co.uk","dailymail.co.uk","news","1","1","1","2025","publisher-name heuristic"
+"dailyutahchronicle.com","dailyutahchronicle.com","news","1","1","1","2026","publisher-name heuristic"
+"darksidedisplays.com","darksidedisplays.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"daviscenter.fas.harvard.edu","daviscenter.fas.harvard.edu","research","1","1","1","2024","research/think-tank or academic domain"
+"deepstatemap.substack.com","deepstatemap.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"defence-blog.com","defence-blog.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"defense.gouv.fr","defense.gouv.fr","other / unclassified","1","1","1","2024","domain not confidently identified"
+"defensie.nl","defensie.nl","other / unclassified","1","1","1","2024","domain not confidently identified"
+"derekhudson.com","Derek Hudson","personal / creative","1","1","1","2023","manual review: photographer's personal site"
+"derekthompson.org","derekthompson.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"dianefrancis.substack.com","Diane Francis (Substack)","personal archive","1","1","1","2023","manual review: individual newsletter"
+"dictionary.cambridge.org","dictionary.cambridge.org","reference","1","1","1","2023","reference/archive/search domain"
+"dig-bremen.de","dig-bremen.de","other / unclassified","1","1","1","2023","domain not confidently identified"
+"digitalstate.gov.ua","digitalstate.gov.ua","official sources","1","1","1","2026","government/military domain"
+"discussions.apple.com","discussions.apple.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"dlcl.stanford.edu","dlcl.stanford.edu","research","1","1","1","2023","research/think-tank or academic domain"
+"documentcloud.org","documentcloud.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"dodig.mil","dodig.mil","official sources","1","1","1","2023","government/military domain"
+"drugs.com","drugs.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"dsns.gov.ua","dsns.gov.ua","official sources","1","1","1","2025","government/military domain"
+"dtek.com","dtek.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"duhvoli.com","duhvoli.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"e-skop.com","e-skop.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"earth.google.com","earth.google.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"earthsky.org","earthsky.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"eastfront.substack.com","eastfront.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ebay.com","ebay.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"ebird.org","ebird.org","other / unclassified","1","1","1","2026","domain not confidently identified"
+"economic.menu","Economic Menu","business / commercial","1","1","1","2023","manual review: event and ticketing page"
+"economictimes.indiatimes.com","economictimes.indiatimes.com","news","1","1","1","2024","publisher-name heuristic"
+"econonomist.com","econonomist.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"ecopolitic.ro","ecopolitic.ro","other / unclassified","1","1","1","2025","domain not confidently identified"
+"edbarn.es","Ed Barn","personal / creative","1","1","1","2023","manual review: individual portfolio site"
+"eeas.europa.eu","eeas.europa.eu","other / unclassified","1","1","1","2025","domain not confidently identified"
+"efile.fara.gov","efile.fara.gov","official sources","1","1","1","2024","government/military domain"
+"egypt.mfa.gov.ua","egypt.mfa.gov.ua","official sources","1","1","1","2024","government/military domain"
+"elevenlabs.io","elevenlabs.io","other / unclassified","1","1","1","2025","domain not confidently identified"
+"eloquentmadness.wordpress.com","eloquentmadness.wordpress.com","news","1","1","1","2024","publisher-name heuristic"
+"en-us.topographic-map.com","Topographic Map","reference","1","1","1","2023","manual review: map and geographic reference service"
+"en.lb.ua","en.lb.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"en.people.cn","en.people.cn","other / unclassified","1","1","1","2024","domain not confidently identified"
+"en.tutiempo.net","en.tutiempo.net","other / unclassified","1","1","1","2025","domain not confidently identified"
+"encyclopedia.com","encyclopedia.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"encyclopediaofukraine.com","encyclopediaofukraine.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"eng.belta.by","BelTA","state media","1","1","1","2023","state-owned news agency"
+"english.elpais.com","english.elpais.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"epedagogia.com.br","epedagogia.com.br","other / unclassified","1","1","1","2026","domain not confidently identified"
+"euobserver.com","euobserver.com","news","1","1","1","2026","publisher-name heuristic"
+"europeandme.eu","europeandme.eu","other / unclassified","1","1","1","2024","domain not confidently identified"
+"euroradio.fm","euroradio.fm","other / unclassified","1","1","1","2024","domain not confidently identified"
+"eurozine.com","Eurozine","news","1","1","1","2023","manual review: European cultural and ideas magazine"
+"eutoday.net","eutoday.net","other / unclassified","1","1","1","2025","domain not confidently identified"
+"fb.watch","fb.watch","other / unclassified","1","1","1","2025","domain not confidently identified"
+"fdd.org","fdd.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"feldsist.com","feldsist.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"fenixrestaurant.com.ua","Fenix Restaurant","business / commercial","1","1","1","2023","manual review: restaurant site"
+"file.lib.in.ua","file.lib.in.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"finance.ua","finance.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"flickr.com","flickr.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"flightradar24.com","flightradar24.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"fmprc.gov.cn","Ministry of Foreign Affairs of China","official sources","1","1","1","2023","manual domain review"
+"foreign.senate.gov","foreign.senate.gov","official sources","1","1","1","2026","government/military domain"
+"forum.pravda.com.ua","Ukrainska Pravda Forum","social media","1","1","1","2023","manual review: reader discussion forum"
+"forumvostok.ru","forumvostok.ru","other / unclassified","1","1","1","2025","domain not confidently identified"
+"fr.de","fr.de","other / unclassified","1","1","1","2025","domain not confidently identified"
+"frankohara.org","frankohara.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"fred.stlouisfed.org","fred.stlouisfed.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"freedomforum.org","freedomforum.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"frontpages.com","frontpages.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"ft,cin","ft,cin","other / unclassified","1","1","1","2025","domain not confidently identified"
+"g7italy.it","g7italy.it","other / unclassified","1","1","1","2024","domain not confidently identified"
+"gc.gov.ua","gc.gov.ua","official sources","1","1","1","2024","government/military domain"
+"georgiatoday.ge","georgiatoday.ge","other / unclassified","1","1","1","2024","domain not confidently identified"
+"gettyimages.com","gettyimages.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"gist.github.com","gist.github.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"glavcom.ua","glavcom.ua","Ukrainian media","1","1","1","2025","known Ukrainian publisher"
+"glavnoe.in.ua","glavnoe.in.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"glavred.net","glavred.net","other / unclassified","1","1","1","2023","domain not confidently identified"
+"globalbankingandfinance.com","globalbankingandfinance.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"gmfus.org","gmfus.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"gongadzeprize.com.ua","gongadzeprize.com.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"goodwine.ua","goodwine.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"govexec.com","govexec.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"gq.com","gq.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"gramota.ru","gramota.ru","other / unclassified","1","1","1","2024","domain not confidently identified"
+"greydynamics.com","greydynamics.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"groups.csail.mit.edu","groups.csail.mit.edu","research","1","1","1","2023","research/think-tank or academic domain"
+"guestreservations.com","guestreservations.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"guniaproject.com.ua","guniaproject.com.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"handelsblatt.com","handelsblatt.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"healthline.com","healthline.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"hellopoetry.com","Hello Poetry","social media","1","1","1","2023","manual review: user-generated poetry platform"
+"hercul.com.ua","hercul.com.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"heritage.org","heritage.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"himes.house.gov","himes.house.gov","official sources","1","1","1","2024","government/military domain"
+"hindustantimes.com","hindustantimes.com","news","1","1","1","2024","publisher-name heuristic"
+"historic-uk.com","Historic UK","reference","1","1","1","2023","manual review: British history reference site"
+"history.catholic.edu","history.catholic.edu","research","1","1","1","2025","research/think-tank or academic domain"
+"holosameryky.com","holosameryky.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"holybooks.com","HolyBooks","reference","1","1","1","2023","manual review: religious and historical text archive"
+"hpsnz.org.nz","hpsnz.org.nz","other / unclassified","1","1","1","2025","domain not confidently identified"
+"hrc.org","hrc.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"hromadske.radio","hromadske.radio","other / unclassified","1","1","1","2025","domain not confidently identified"
+"hromadske.ua","Hromadske","Ukrainian media","1","1","1","2025","known Ukrainian publisher"
+"hrw.org","hrw.org","research","1","1","1","2026","research/think-tank or academic domain"
+"hurstpublishers.com","Hurst Publishers","business / commercial","1","1","1","2023","manual review: academic and trade book publisher"
+"huxley.net","huxley.net","other / unclassified","1","1","1","2025","domain not confidently identified"
+"hydrocarbonprocessing.com","hydrocarbonprocessing.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ia600102.us.archive.org","ia600102.us.archive.org","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ia902905.us.archive.org","ia902905.us.archive.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"iea.org","iea.org","other / unclassified","1","1","1","2026","domain not confidently identified"
+"imf.org","imf.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"independent.co.uk","independent.co.uk","news","1","1","1","2023","known news publisher"
+"index.hu","index.hu","other / unclassified","1","1","1","2024","domain not confidently identified"
+"infographics.economist.com","infographics.economist.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"insider.com","Business Insider","news","1","1","1","2023","manual review: digital news publisher"
+"interfax.ru","interfax.ru","other / unclassified","1","1","1","2025","domain not confidently identified"
+"irf.ua","irf.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"isis-online.org","isis-online.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"isw.org","isw.org","other / unclassified","1","1","1","2026","domain not confidently identified"
+"isw.pub","isw.pub","other / unclassified","1","1","1","2026","domain not confidently identified"
+"itd.rada.gov.ua","itd.rada.gov.ua","official sources","1","1","1","2023","government/military domain"
+"itv.com","itv.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"iwm.at","Institute for Human Sciences (IWM)","research","1","1","1","2023","manual review: independent humanities and social-sciences institute"
+"iwm.org.uk","iwm.org.uk","other / unclassified","1","1","1","2026","domain not confidently identified"
+"jamesrushton.substack.com","James Rushton (Substack)","personal archive","1","1","1","2023","manual review: individual newsletter"
+"jeudepaume.org","jeudepaume.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"jjq.utulsa.edu","jjq.utulsa.edu","research","1","1","1","2023","research/think-tank or academic domain"
+"jordan.mfa.gov.ua","jordan.mfa.gov.ua","official sources","1","1","1","2025","government/military domain"
+"journals.uchicago.edu","journals.uchicago.edu","research","1","1","1","2026","research/think-tank or academic domain"
+"jpost.com","jpost.com","news","1","1","1","2026","publisher-name heuristic"
+"judiciary.house.gov","judiciary.house.gov","official sources","1","1","1","2023","government/military domain"
+"justice.gov","justice.gov","official sources","1","1","1","2026","government/military domain"
+"k-2.army","k-2.army","other / unclassified","1","1","1","2025","domain not confidently identified"
+"kalinouski.org","Kalinouski Regiment","official sources","1","1","1","2023","manual review: Belarusian volunteer military unit site"
+"kasparov.com","Garry Kasparov","personal / creative","1","1","1","2023","manual review: public figure's official site"
+"khorne209.substack.com","khorne209.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"khpg.org","Kharkiv Human Rights Protection Group","research","1","1","1","2023","manual review: human-rights NGO and documentation project"
+"kielinstitut.de","kielinstitut.de","other / unclassified","1","1","1","2025","domain not confidently identified"
+"king.senate.gov","king.senate.gov","official sources","1","1","1","2026","government/military domain"
+"kiwi-verlag.de","Kiepenheuer & Witsch","business / commercial","1","1","1","2023","manual review: German book publisher"
+"kommersant.ru","kommersant.ru","other / unclassified","1","1","1","2024","domain not confidently identified"
+"korrespondent.net","korrespondent.net","other / unclassified","1","1","1","2024","domain not confidently identified"
+"kp.nlu.org.ua","kp.nlu.org.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"kpbs.org","kpbs.org","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ksat.com","ksat.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"kse.ua","Kyiv School of Economics","research","1","1","1","2023","manual review: university and research institution"
+"ktvb.com","ktvb.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"kuna.family","kuna.family","other / unclassified","1","1","1","2023","domain not confidently identified"
+"kurakhove","kurakhove","other / unclassified","1","1","1","2024","domain not confidently identified"
+"kyiv.tsn.ua","kyiv.tsn.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"kyivdispatch.substack.com","kyivdispatch.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"kyivindependent.substack.com","kyivindependent.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"kyivmarathon.org","kyivmarathon.org","other / unclassified","1","1","1","2023","domain not confidently identified"
+"kyivregiontours.gov.ua","kyivregiontours.gov.ua","official sources","1","1","1","2026","government/military domain"
+"kyivstar.ua","kyivstar.ua","other / unclassified","1","1","1","2023","domain not confidently identified"
+"lanacion.com.ar","La Nación","news","1","1","1","2023","manual review: Argentine newspaper"
+"landioustravel.com","Landiou's Travel","personal / creative","1","1","1","2023","manual review: travel blog"
+"lawfareblog.com","Lawfare","research","1","1","1","2023","manual review: national security law and policy analysis"
+"lb.ua","lb.ua","Ukrainian media","1","1","1","2024","known Ukrainian publisher"
+"leadershipinstitute.org","leadershipinstitute.org","research","1","1","1","2023","organization-name heuristic"
+"leave-russia.org","leave-russia.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"leilia-bakery.choiceqr.com","leilia-bakery.choiceqr.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"lepoint.fr","lepoint.fr","other / unclassified","1","1","1","2025","domain not confidently identified"
+"lettersfromukraine.substack.com","lettersfromukraine.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"lgraham.senate.gov","lgraham.senate.gov","official sources","1","1","1","2024","government/military domain"
+"lib.misto.kiev.ua","lib.misto.kiev.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"libertarianism.org","Libertarianism.org","research","1","1","1","2023","manual review: educational and policy project"
+"libertymedia.com","libertymedia.com","news","1","1","1","2023","publisher-name heuristic"
+"librarything.com","librarything.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"lidskae.by","lidskae.by","other / unclassified","1","1","1","2025","domain not confidently identified"
+"life-bridge-ukraine.com","life-bridge-ukraine.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"ligo.org","ligo.org","other / unclassified","1","1","1","2026","domain not confidently identified"
+"link.springer.com","link.springer.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"literaturepage.com","The Literature Page","reference","1","1","1","2023","manual review: public-domain literature archive"
+"live.euronext.com","live.euronext.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"livemint.com","Mint","news","1","1","1","2023","manual domain review"
+"livenowfox.com","livenowfox.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"lrt.lt","lrt.lt","other / unclassified","1","1","1","2024","domain not confidently identified"
+"lyricstranslate.com","lyricstranslate.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"m.censor.net","m.censor.net","other / unclassified","1","1","1","2024","domain not confidently identified"
+"maidan.org.ua","maidan.org.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"mappr.co","mappr.co","other / unclassified","1","1","1","2026","domain not confidently identified"
+"maps.app.goo.gl","maps.app.goo.gl","other / unclassified","1","1","1","2026","domain not confidently identified"
+"marbeks.com","marbeks.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"maritimesafetyinnovationlab.org","maritimesafetyinnovationlab.org","news","1","1","1","2025","publisher-name heuristic"
+"marketbeat.com","marketbeat.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"marketer.ua","marketer.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"martinkuz.substack.com","martinkuz.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"mayoclinic.org","mayoclinic.org","other / unclassified","1","1","1","2026","domain not confidently identified"
+"mearsheimer.substack.com","John Mearsheimer (Substack)","personal archive","1","1","1","2023","manual review: individual newsletter"
+"mediadirectory.economist.com","mediadirectory.economist.com","news","1","1","1","2023","publisher-name heuristic"
+"medicalnewstoday.com","medicalnewstoday.com","news","1","1","1","2023","publisher-name heuristic"
+"megamarket.ua","megamarket.ua","other / unclassified","1","1","1","2023","domain not confidently identified"
+"mfa.gov.cn","mfa.gov.cn","other / unclassified","1","1","1","2024","domain not confidently identified"
+"miamiherald.com","miamiherald.com","news","1","1","1","2024","publisher-name heuristic"
+"mikeandkellyjohnson.com","mikeandkellyjohnson.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"military.com","military.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"militaryland.net","militaryland.net","other / unclassified","1","1","1","2025","domain not confidently identified"
+"militarytimes.com","militarytimes.com","news","1","1","1","2026","publisher-name heuristic"
+"mindat.org","mindat.org","other / unclassified","1","1","1","2023","domain not confidently identified"
+"mining.com","mining.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"minjust.gov.ua","minjust.gov.ua","official sources","1","1","1","2026","government/military domain"
+"mipl.org.ua","mipl.org.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"missiledefenseadvocacy.org","missiledefenseadvocacy.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"moz.gov.ua","moz.gov.ua","official sources","1","1","1","2023","government/military domain"
+"mozdocs.kiev.ua","mozdocs.kiev.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"muse.jhu.edu","muse.jhu.edu","research","1","1","1","2024","research/think-tank or academic domain"
+"museumofthebible.org","museumofthebible.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"nas.gov.ua","nas.gov.ua","official sources","1","1","1","2026","government/military domain"
+"nashaniva.com","Nasha Niva","news","1","1","1","2023","manual domain review"
+"nashformat.ua","nashformat.ua","other / unclassified","1","1","1","2023","domain not confidently identified"
+"nashkiev.ua","Nash Kyiv","Ukrainian media","1","1","1","2023","manual review: Kyiv local news and city portal"
+"nationalinterest.org","nationalinterest.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"nationalreview.com","nationalreview.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"naturenibble.com","Nature Nibble","personal / creative","1","1","1","2023","manual review: personal nature and food blog"
+"nbg.kiev.ua","nbg.kiev.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"networkworld.com","networkworld.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"newrepublic.com","newrepublic.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"news.finance.ua","news.finance.ua","news","1","1","1","2024","publisher-name heuristic"
+"news.hab.media","news.hab.media","news","1","1","1","2026","publisher-name heuristic"
+"news.satnews.com","news.satnews.com","news","1","1","1","2024","publisher-name heuristic"
+"news.telegraf.com.ua","news.telegraf.com.ua","news","1","1","1","2026","publisher-name heuristic"
+"news.yahoo.com","news.yahoo.com","news","1","1","1","2024","publisher-name heuristic"
+"newspapers.com","newspapers.com","news","1","1","1","2023","publisher-name heuristic"
+"nih.gov","nih.gov","official sources","1","1","1","2024","government/military domain"
+"ninajankowicz.com","ninajankowicz.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"nizkor.com","Nizkor Project","reference","1","1","1","2023","manual review: Holocaust documentation archive"
+"notesfromkyiv.substack.com","notesfromkyiv.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"novayagazeta.eu","Novaya Gazeta Europe","news","1","1","1","2023","manual review: independent Russian-language news outlet"
+"novolipki.com","novolipki.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"novosti.dn.ua","novosti.dn.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"nsa.gov","nsa.gov","official sources","1","1","1","2025","government/military domain"
+"nsarchive.gwu.edu","nsarchive.gwu.edu","research","1","1","1","2023","research/think-tank or academic domain"
+"nsarchive2.gwu.edu","nsarchive2.gwu.edu","research","1","1","1","2023","research/think-tank or academic domain"
+"oann.com","oann.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"odni.gov","odni.gov","official sources","1","1","1","2024","government/military domain"
+"ogburger.kyiv.ua","OG Burger","business / commercial","1","1","1","2023","manual review: Kyiv restaurant"
+"oglobo.globo.com","oglobo.globo.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"olayasport.com","olayasport.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"oll.libertyfund.org","Online Library of Liberty","reference","1","1","1","2023","manual review: digital library of political and economic texts"
+"olx.ua","olx.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"olympics.com","olympics.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"on.soundcloud.com","on.soundcloud.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"online.ua","online.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"opendatabot.ua","opendatabot.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"opensecrets.org","opensecrets.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"opensocietyfoundations.org","opensocietyfoundations.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"orwellfoundation.com","orwellfoundation.com","research","1","1","1","2025","organization-name heuristic"
+"oversight.gov","oversight.gov","official sources","1","1","1","2026","government/military domain"
+"oxfordreference.com","oxfordreference.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"palantir.com","palantir.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"pangram.com","pangram.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"parasitesandvectors.biomedcentral.com","parasitesandvectors.biomedcentral.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"parleypolicy.com","parleypolicy.com","research","1","1","1","2023","organization-name heuristic"
+"parliament.uk","parliament.uk","other / unclassified","1","1","1","2023","domain not confidently identified"
+"patreon.com","patreon.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"paypal.com","paypal.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"pdhpe.net","pdhpe.net","other / unclassified","1","1","1","2025","domain not confidently identified"
+"pewresearch.org","pewresearch.org","research","1","1","1","2024","organization-name heuristic"
+"philipjonesgriffiths.org","Philip Jones Griffiths Foundation","reference","1","1","1","2023","manual review: photographer's archive and foundation"
+"philsci-archive.pitt.edu","philsci-archive.pitt.edu","research","1","1","1","2024","research/think-tank or academic domain"
+"pl.wikipedia.org","Wikipedia (Polish)","reference","1","1","1","2023","manual review: encyclopedia"
+"plantuml.com","PlantUML","reference","1","1","1","2023","manual review: software documentation and diagramming tool"
+"play.google.com","play.google.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"poetrysociety.org","poetrysociety.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"pokernews.com","pokernews.com","news","1","1","1","2025","publisher-name heuristic"
+"polit.ru","Polit.ru","news","1","1","1","2023","manual review: Russian news and commentary site"
+"politco.com","politco.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"politco.eu","politco.eu","other / unclassified","1","1","1","2024","domain not confidently identified"
+"political.tips","political.tips","other / unclassified","1","1","1","2024","domain not confidently identified"
+"politifact.com","politifact.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"polskieradio.pl","polskieradio.pl","other / unclassified","1","1","1","2024","domain not confidently identified"
+"prisonlife.ru","prisonlife.ru","other / unclassified","1","1","1","2024","domain not confidently identified"
+"project2025.org","project2025.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"prom.ua","prom.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"propublica.org","propublica.org","news","1","1","1","2026","known news publisher"
+"puncher.kiev.ua","puncher.kiev.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"rbc.ru","rbc.ru","other / unclassified","1","1","1","2026","domain not confidently identified"
+"re-russia.net","re-russia.net","other / unclassified","1","1","1","2024","domain not confidently identified"
+"reaganlibrary.gov","reaganlibrary.gov","official sources","1","1","1","2025","government/military domain"
+"realclearworld.com","realclearworld.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"region.nashigroshi.org","Nashi Groshi","Ukrainian media","1","1","1","2023","manual review: Ukrainian investigative journalism"
+"reliefweb.int","reliefweb.int","research","1","1","1","2023","research/think-tank or academic domain"
+"republic.ru","republic.ru","other / unclassified","1","1","1","2025","domain not confidently identified"
+"reut.rs","Reuters","news","1","1","1","2023","manual domain review"
+"rg.ru","rg.ru","other / unclassified","1","1","1","2024","domain not confidently identified"
+"rheinmetall.com","rheinmetall.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"ria.ru","ria.ru","other / unclassified","1","1","1","2025","domain not confidently identified"
+"ripleysheroes.org","Ripley's Heroes","official sources","1","1","1","2023","manual review: nonprofit and veteran support organization"
+"rm.coe.int","rm.coe.int","other / unclassified","1","1","1","2024","domain not confidently identified"
+"rnbo.gov.ua","rnbo.gov.ua","official sources","1","1","1","2023","government/military domain"
+"robertboschacademy.de","Robert Bosch Academy","official sources","1","1","1","2023","manual review: institutional fellowship and public-program site"
+"robertshermantv.com","robertshermantv.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"romania-insider.com","romania-insider.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"romania.europalibera.org","romania.europalibera.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"roryfinnin.com","Rory Finnin","personal / creative","1","1","1","2023","manual review: academic's personal site"
+"rsf.org","rsf.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"ru.interfax.com.ua","ru.interfax.com.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"ru.krymr.com","Crimea.Realities","Ukrainian media","1","1","1","2023","manual review: RFE/RL reporting on Crimea"
+"rubryka.com","rubryka.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"ruccs.rutgers.edu","ruccs.rutgers.edu","research","1","1","1","2026","research/think-tank or academic domain"
+"runbase.kiev.ua","runbase.kiev.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"russian-casualties.in.ua","russian-casualties.in.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"russianwarreport.substack.com","russianwarreport.substack.com","news","1","1","1","2026","publisher-name heuristic"
+"rwnd.store","rwnd.store","other / unclassified","1","1","1","2024","domain not confidently identified"
+"s3.documentcloud.org","s3.documentcloud.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"sachacollisson.com","sachacollisson.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"samf.substack.com","Sam F. (Substack)","personal archive","1","1","1","2023","manual review: individual newsletter"
+"sarahashtoncirillo.substack.com","Sarah Ashton-Cirillo (Substack)","personal archive","1","1","1","2023","manual review: individual newsletter"
+"sas.upenn.edu","sas.upenn.edu","research","1","1","1","2025","research/think-tank or academic domain"
+"sciplus.com","sciplus.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"scmp.com","scmp.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"scottishpoetrylibrary.org.uk","Scottish Poetry Library","reference","1","1","1","2023","manual review: poetry library and archive"
+"scribd.com","scribd.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"scrippsnews.com","scrippsnews.com","news","1","1","1","2025","publisher-name heuristic"
+"search.google.com","search.google.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"sec.gov","sec.gov","official sources","1","1","1","2026","government/military domain"
+"secretsmachine.com","Secrets Machine","personal / creative","1","1","1","2023","manual review: individual creative project"
+"sestry-feldman.com","sestry-feldman.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"seymourhersh.substack.com","Seymour Hersh (Substack)","social media","1","1","1","2023","manual domain review"
+"shafa.ua","shafa.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"shephardmedia.com","shephardmedia.com","news","1","1","1","2026","publisher-name heuristic"
+"silpo.ua","silpo.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"simonandschuster.com","simonandschuster.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"simple.wikipedia.org","simple.wikipedia.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"singjupost.com","singjupost.com","news","1","1","1","2024","publisher-name heuristic"
+"skydio.com","skydio.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"slangdefine.org","SlangDefine","reference","1","1","1","2023","manual review: slang dictionary"
+"slate.com","slate.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"sluga-narodu.com","sluga-narodu.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"sluganaroda.fandom.com","sluganaroda.fandom.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"smartass.club","smartass.club","other / unclassified","1","1","1","2025","domain not confidently identified"
+"socialistmodernism.com","Socialist Modernism","reference","1","1","1","2023","manual review: architecture and heritage archive"
+"solar-center.stanford.edu","solar-center.stanford.edu","research","1","1","1","2024","research/think-tank or academic domain"
+"soundcloud.com","soundcloud.com","social media","1","1","1","2023","known platform"
+"space.com","space.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"spartz.house.gov","spartz.house.gov","official sources","1","1","1","2025","government/military domain"
+"specialkhersoncat.substack.com","specialkhersoncat.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"spglobal.com","spglobal.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"spivoche.com.ua","Spivoche","business / commercial","1","1","1","2023","manual review: Kyiv cultural venue"
+"spravkainform.com.ua","spravkainform.com.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"stateoig.gov","stateoig.gov","official sources","1","1","1","2023","government/military domain"
+"static.heritage.org","static.heritage.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"static.project2025.org","static.project2025.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"statisticshowto.com","Statistics How To","reference","1","1","1","2023","manual review: statistics reference and education site"
+"stockanalysis.com","stockanalysis.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"store.magnumphotos.com","store.magnumphotos.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"storymaps.arcgis.com","storymaps.arcgis.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"straitstimes.com","straitstimes.com","news","1","1","1","2023","publisher-name heuristic"
+"strava.com","strava.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"strengthathome.org","Strength at Home","research","1","1","1","2023","manual review: evidence-based intervention program"
+"supreme.justia.com","supreme.justia.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"svaboda.org","svaboda.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"tankona.free.fr","tankona.free.fr","other / unclassified","1","1","1","2024","domain not confidently identified"
+"tass.com","tass.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"tebowing.com","tebowing.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"techiia-fund.org","Techiia Foundation","official sources","1","1","1","2023","manual review: charitable foundation"
+"teufelsberg-berlin.de","teufelsberg-berlin.de","other / unclassified","1","1","1","2025","domain not confidently identified"
+"tf1info.fr","tf1info.fr","other / unclassified","1","1","1","2024","domain not confidently identified"
+"thebulwark.com","thebulwark.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"thecharliekirkshow.com","thecharliekirkshow.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"theconversation.com","The Conversation","news","1","1","1","2023","manual review: research-based journalism publisher"
+"thedigital.gov.ua","thedigital.gov.ua","official sources","1","1","1","2023","government/military domain"
+"theeconomist.com","theeconomist.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"theedgemalaysia.com","theedgemalaysia.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"thegaurdian.com","thegaurdian.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"theglobeandmail.com","theglobeandmail.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"thelancet.com","The Lancet","research","1","1","1","2023","manual review: peer-reviewed medical journal"
+"themarathoninitiative.org","themarathoninitiative.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"themozartgroup.com","The Mozart Group","business / commercial","1","1","1","2023","manual review: private security company"
+"theneweuropean.co.uk","The New European","news","1","1","1","2023","manual domain review"
+"thepoetryhour.com","The Poetry Hour","personal / creative","1","1","1","2023","manual review: poetry project"
+"thesohoagency.co.uk","The Soho Agency","business / commercial","1","1","1","2023","manual review: creative agency"
+"thestar.com.my","thestar.com.my","other / unclassified","1","1","1","2026","domain not confidently identified"
+"theyoungones.fandom.com","theyoungones.fandom.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ti-ukraine.org","ti-ukraine.org","other / unclassified","1","1","1","2023","domain not confidently identified"
+"timemagazine.com","timemagazine.com","news","1","1","1","2023","publisher-name heuristic"
+"timesofisrael.com","timesofisrael.com","news","1","1","1","2026","publisher-name heuristic"
+"tootsie.kiev.ua","Tootsie Club","business / commercial","1","1","1","2023","manual review: Kyiv nightlife venue"
+"totalprosports.com","totalprosports.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"traxys.com","traxys.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"tribune.com.pk","tribune.com.pk","news","1","1","1","2026","publisher-name heuristic"
+"tripadvisor.com","tripadvisor.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"trump-archive.com","trump-archive.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"truth-hounds.org","Truth Hounds","research","1","1","1","2023","manual review: human-rights documentation NGO"
+"tryarmra.com","tryarmra.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"tsum.ua","tsum.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"u24.media","u24.media","news","1","1","1","2024","publisher-name heuristic"
+"ucd.ie","ucd.ie","other / unclassified","1","1","1","2025","domain not confidently identified"
+"ucu.edu.ua","ucu.edu.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"ukraine.un.org","ukraine.un.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"ukrainefreedomproject.org","ukrainefreedomproject.org","other / unclassified","1","1","1","2025","domain not confidently identified"
+"ukrainematters.substack.com","ukrainematters.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ukrainetoday.org","ukrainetoday.org","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ukrainewarnotes.substack.com","ukrainewarnotes.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ukrainewartruth.substack.com","ukrainewartruth.substack.com","other / unclassified","1","1","1","2023","domain not confidently identified"
+"ukrainewatch.substack.com","ukrainewatch.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ukrayinska-pravda.com","ukrayinska-pravda.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"ukroboronprom.com.ua","ukroboronprom.com.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"underfire.news","underfire.news","news","1","1","1","2026","publisher-name heuristic"
+"unherd.com","unherd.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"unian.ua","unian.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"universitytimes.ie","universitytimes.ie","news","1","1","1","2026","publisher-name heuristic"
+"unn.ua","unn.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"upload.wikimedia.org","upload.wikimedia.org","news","1","1","1","2023","publisher-name heuristic"
+"us.icebreaker.com","us.icebreaker.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"us.macmillan.com","us.macmillan.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"usatoday.com","usatoday.com","news","1","1","1","2025","known news publisher"
+"uscode.house.gov","uscode.house.gov","official sources","1","1","1","2026","government/military domain"
+"users.drew.edu","users.drew.edu","research","1","1","1","2026","research/think-tank or academic domain"
+"ushmm.org","United States Holocaust Memorial Museum","official sources","1","1","1","2023","manual review: national museum and research institution"
+"ustr.gov","ustr.gov","official sources","1","1","1","2025","government/military domain"
+"va.gov","va.gov","official sources","1","1","1","2024","government/military domain"
+"vaholocaust.pastperfectonline.com","vaholocaust.pastperfectonline.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"vandenberg.spaceforce.mil","vandenberg.spaceforce.mil","official sources","1","1","1","2025","government/military domain"
+"velmart.ua","Velmart","business / commercial","1","1","1","2023","manual review: Ukrainian supermarket retailer"
+"velosiped.com","velosiped.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"vice.com","VICE","news","1","1","1","2023","manual domain review"
+"vimeo.com","vimeo.com","social media","1","1","1","2025","known platform"
+"visir.is","visir.is","other / unclassified","1","1","1","2024","domain not confidently identified"
+"vladimirbpastukhov.substack.com","vladimirbpastukhov.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"vlex.com","vLex","reference","1","1","1","2023","manual review: legal research database"
+"voanews.com","voanews.com","news","1","1","1","2024","publisher-name heuristic"
+"vodokanal.kyiv.ua","vodokanal.kyiv.ua","other / unclassified","1","1","1","2026","domain not confidently identified"
+"vsn.ua","vsn.ua","other / unclassified","1","1","1","2025","domain not confidently identified"
+"wapo.com","wapo.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"warmapper.org","warmapper.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"warpp.info","warpp.info","other / unclassified","1","1","1","2023","domain not confidently identified"
+"wartranslated.substack.com","wartranslated.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"washingtonexaminer.com","washingtonexaminer.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"wealthandwant.com","Center for the Study of Economics","research","1","1","1","2023","manual review: economic policy advocacy and research"
+"webmd.com","webmd.com","other / unclassified","1","1","1","2024","domain not confidently identified"
+"webportal.nrada.gov.ua","webportal.nrada.gov.ua","official sources","1","1","1","2026","government/military domain"
+"weekendreading.net","weekendreading.net","other / unclassified","1","1","1","2023","domain not confidently identified"
+"westplainsdailyquill.net","westplainsdailyquill.net","news","1","1","1","2024","publisher-name heuristic"
+"who.int","World Health Organization","official sources","1","1","1","2023","manual review: intergovernmental health agency"
+"wikimapia.org","wikimapia.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"witkoff.com","witkoff.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"workcraftlife.com","Work/Craft/Life","personal / creative","1","1","1","2023","manual review: personal newsletter and blog"
+"worldpoliticsreview.com","World Politics Review","news","1","1","1","2023","manual review: international affairs publication"
+"www-svoboda-org.cdn.ampproject.org","www-svoboda-org.cdn.ampproject.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"yakaboo.ua","yakaboo.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"yellowstripsdeadarmadillos.org","yellowstripsdeadarmadillos.org","other / unclassified","1","1","1","2024","domain not confidently identified"
+"yle.fi","yle.fi","other / unclassified","1","1","1","2026","domain not confidently identified"
+"yoursukrainian.substack.com","yoursukrainian.substack.com","other / unclassified","1","1","1","2026","domain not confidently identified"
+"youtu.be","YouTube","social media","1","1","1","2023","known platform"
+"zakon.rada.gov.ua","zakon.rada.gov.ua","official sources","1","1","1","2025","government/military domain"
+"zdf.de","ZDF","news","1","1","1","2023","manual domain review"
+"zeitung.faz.net","zeitung.faz.net","other / unclassified","1","1","1","2024","domain not confidently identified"
+"zemliak.com","zemliak.com","other / unclassified","1","1","1","2025","domain not confidently identified"
+"zmina.ua","zmina.ua","other / unclassified","1","1","1","2024","domain not confidently identified"
+"zora.co","zora.co","other / unclassified","1","1","1","2024","domain not confidently identified"
+"zsu.gov.ua","zsu.gov.ua","official sources","1","1","1","2024","government/military domain"
