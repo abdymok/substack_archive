@@ -355,3 +355,12 @@ The original article text and commentary were otherwise preserved. No link count
 
 - Corrected the January 27 post's New York Times footnote for “Kristi Noem Is Confirmed as Homeland Security Secretary” from January 24 to January 25, 2025. The linked NYT URL is dated January 25, and contemporaneous reports of the Senate confirmation were published January 25. This is a one-day footnote error, not an online-versus-edition ambiguity.
 - Original-post commit: 04e9eaa16e2b3d07660ee9977d4b580d2fd3f41e. Independent date corroboration: `turn787742search0`, `turn787742search2`, `turn787742search6`, `turn787742search12`.
+
+
+### January 2025 citation-date spot-check
+
+- Checked dated publisher references in the January 2–31 posts. One confirmed error was corrected: Day 1068's NYT footnote for the Kristi Noem confirmation article changed January 24 to January 25, matching the URL and independent contemporaneous reports. The correction is recorded in the 2025 New York Times bibliography annotation.
+- Other sampled checks included the January 1 NYT New Year's article; January 7 Atlantic Trump/Ukraine essay; January 9 FT Trump war-deadline report; January 12 NYT Manafort article; January 13 BBC Sky at Night lunar item; January 16 Reuters Bessent report; January 27 NYT procurement-agency and Trump-Putin stories; and January 29 Economist Kash Patel commentary. No additional confirmed date error emerged from this sample.
+- January archive files include gaps and irregular Day numbers (including Day 1061/1062 absent from the file sequence and Day 1066 without the `_day-` marker). No Day metadata was inferred or changed from those filenames.
+- Original-post correction commit: `04e9eaa16e2b3d07660ee9977d4b580d2fd3f41e`; bibliography commit: `55c8cbbe89e2587d79d497eb58e1ae68a4cbeaba`. Evidence: `turn787742search0`, `turn787742search2`, `turn787742search6`, `turn787742search12`.
+- This is a spot-check, not exhaustive verification of every January URL.
