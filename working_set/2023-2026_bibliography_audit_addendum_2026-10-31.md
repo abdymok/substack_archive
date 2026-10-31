@@ -8,7 +8,7 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 - Main bibliography: 309 recurring source-year entries (58 in 2023, 94 in 2024, 100 in 2025, 57 in 2026).
 - All-years appendix: 819 one-day source-year entries, representing 938 link occurrences. The 306 one-off unclassified domains are included for later domain review.
 - Recurring platform/pointer index: 19 source-year entries covering Google, Google Books, Perplexity, Amazon, bit.ly, TinyURL, Archive.ph, Tootsie Club and Google NotebookLM. These remain included in the 309 recurring-source total.
-- Archive.ph attribution ledger: 71 occurrences, 58 high-confidence, 12 medium-confidence and 1 unresolved (Day 1135). Day 1447 is attributed to the Financial Times; Day 1517 is attributed to The Atlantic. Day 1133's intended NYT source is identified, but its Archive.ph destination resolves to an unrelated Bloomberg capture.
+- Archive.ph attribution ledger: 71 occurrences, 58 high-confidence, 12 medium-confidence and 1 unresolved (Day 1135). Day 1447 is attributed to the Financial Times; Day 1517 is attributed to The Atlantic. Day 1133's original Archive.ph destination resolved to an unrelated Bloomberg capture, but the reader-facing post link has been repaired to the verified NYT canonical URL. The original mismatch remains in the ledger as a corrected-in-post audit record.
 - Post-level anomaly review: 21 grouped cases, 19 reviewed/preserved/corrected and 2 open: Day 440ish and Day 1121 (NYT label / BBC URL). Day 1133's NYT/Bloomberg mismatch has been repaired.
 - Day 1042 Axios annotation corrected to December 30, 2024, following the date displayed on the publisher page. The exact original publication time was not exposed in the accessible page text.
 - Day 1121's March 20 Kyiv date is supported by the NYT article's March 19, 2025 update at 7:45 p.m. ET (March 20, 02:45 in Kyiv). The canonical NYT URL remains unverified, so the BBC destination has not been replaced with a guessed URL.
@@ -16,7 +16,7 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 
 ## Remaining work
 
-1. Review the 12 medium-confidence Archive.ph attributions and resolve the Day 1135 Susan Crawford item. Correct the Day 1133 destination mismatch only after recovering the canonical NYT URL.
+1. Review the 12 medium-confidence Archive.ph attributions and resolve the Day 1135 Susan Crawford item. Day 1133's canonical NYT URL has now been recovered and the post link repaired.
 2. Finish timestamp checks for Day 775 (Washington Post original versus update date), Day 843 (POLITICO), Day 1108 (NYT café story), Day 1205 (NYT McConnell story), and Day 1373 (The Economist). Day 1042 Axios is annotated December 30; exact time remains unavailable.
 3. Recover the canonical NYT destination for Day 1121. Do not guess or insert a reconstructed URL.
 4. Obtain author confirmation on the Day 440ish label versus its Day 400 slug and numeric metadata.
@@ -38,7 +38,7 @@ This addendum supersedes earlier progress counts in `2023-2026_bibliography_audi
 
 ## Z-substitution update
 
-Two further canonical URLs were verified against Washington Post publisher pages and restored in the Day 425 and Day 446 post copies, 2023 linked-reference CSV, normalized link dataset and Z review queue. The queue now records 9 verified cases and 106 candidates still pending. No global replacement was used.
+Two further canonical URLs were verified against Washington Post publisher pages and restored in the Day 425 and Day 446 post copies, 2023 linked-reference CSV, normalized link dataset and Z review queue. The queue now records 11 verified rows across 10 archive days and 104 candidates still pending. No global replacement was used.
 
 
 Day 440ish clarification: the NYT date correction concerns the separate May 9, 2023 Day 440ish post. Its footnote was corrected from March 28 to March 25 and the malformed NYT homepage URL was replaced with the verified article URL. The March 30 Day 440ish label/slug mismatch remains open as a separate author-confirmation question.
