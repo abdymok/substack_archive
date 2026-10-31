@@ -176,3 +176,13 @@ The final count reconciliation exposed two publishers split across multiple host
 This removes one duplicate publisher-year entry from 2025. The annual publisher counts are therefore 57 / 94 / 99 / 57, or **307 annual entries**. The source-year, publisher and category-year tables have been updated to match.
 
 - Normalized the remaining raw domain labels in the annual bibliography, including the Stanford Encyclopedia of Philosophy, Office of the Director of National Intelligence, NABU, Internet Archive, Truth Social, KonMari, Apple Podcasts and Western States Endurance Run.
+
+
+## Mechanical QA — 31 October 2026
+
+- Annual HTML entry counts: 57 (2023), 94 (2024), 99 (2025), 57 (2026), 307 total.
+- All 2024–2026 link and post counts match the annual linked-reference files after publisher alias consolidation.
+- All 431 representative links in the 2024–2026 sections occur in the corresponding annual link files.
+- All 2024–2026 date spans match the underlying source records.
+- No duplicate publisher names within an annual section, no empty representative-link hrefs, and no repeated generic publisher boilerplate in 2024–2026.
+- The original 2023 template was retained. Its older representative links and date annotations still merit a separate editorial review.
