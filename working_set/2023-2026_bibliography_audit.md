@@ -31,10 +31,10 @@ The 2023 categories and annotations are retained from the original HTML template
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `341e1c37fa18ae2ff5e3e9b480b7306e8e678f29`
+- Latest HTML commit: `2c805624b5c9ce3dc602b2874f1c169d56322d17`
 - Verified: 308 entries; 57 / 94 / 100 / 57 by year; 22 opening and closing section tags; no empty example links.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
-- Eighty-eight entries in the 2024–2026 sections now have more specific annotations: 68 for 2024, ten for 2025 and ten for 2026. The 2024 additions draw on individual post files and linked-reference records, with examples from international news, Ukrainian media, research, polling and official sources. The remaining 2024–2026 annotations still need post-level enrichment; they should not be treated as equally detailed.
+- The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
 
 ### 2024 editorial pass: first seven batches
 
@@ -45,7 +45,7 @@ The pass sampled the individual 2024 Markdown posts, including Days 675, 679, 68
 **Citation issue flagged:** Day 681 (January 5, 2024) describes a link as a *Washington Post* story about Ukrainian marines east of the Dnipro, but the hyperlink points to a `wsj.com` URL whose slug concerns Russian plans to buy Iranian ballistic missiles. The bibliography flags this mismatch. Do not silently repair the link without checking the original source.
 
 
-**Self-link correction:** The three 2024 URLs previously grouped under the generic Substack label all resolve to the author's own `abdymok.substack.com` posts titled “Setting the Plate Clear”. They were reclassified as personal archive in `2023-2026_source_year.csv`, merged into the 2024 `ukraine@war (Substack)` row, and removed from the external bibliography. The 2024 external-publisher count therefore falls from 96 to 95. The category-year table moves three occurrences from social media to personal archive. The raw `open.substack.com` domain remains classified as a platform in the all-years domain registry because it also carries other authors' links in other years.
+**Self-link correction:** The three 2024 URLs previously grouped under the generic Substack label all resolve to the author's own `abdymok.substack.com` posts titled “Setting the Plate Clear”. They were reclassified as personal archive in `2023-2026_source_year.csv`, merged into the 2024 `ukraine@war (Substack)` row, and removed from the external bibliography. The 2024 external-publisher count first fell from 96 to 95 after the self-link correction. The remaining one-off TinyURL entry was then excluded under the two-post rule, leaving 94 recurring external publishers. The category-year table moves three occurrences from social media to personal archive. The raw `open.substack.com` domain remains classified as a platform in the all-years domain registry because it also carries other authors' links in other years.
 
 
 **Additional 2024 short-link correction:** One of the two links recorded under `tinyurl.com` points to the author's own Day 947 comment and has been moved into personal archive. The remaining TinyURL is labelled “NV” in the July 5 post, but its destination could not be verified. It remains a one-off in the source-year data and is excluded from the recurring-publisher bibliography because it appears in only one post.
@@ -77,3 +77,23 @@ The four existing annual Markdown files (`2023_annotated_bibliography.md` throug
 2. Review the `other / unclassified` entries and publisher labels that still appear as raw domains.
 3. Check representative links and dates for obvious redirects, archive copies and label/title mismatches.
 4. Update the 2026 section when the archive and linked-reference data are extended beyond October 28.
+
+
+## Editorial progress checkpoint — 31 October 2026
+
+The consolidated HTML was updated after the earlier audit checkpoint.
+
+- Latest HTML commit: `2c805624b5c9ce3dc602b2874f1c169d56322d17`.
+- Latest HTML content SHA: `19f7faddf6b39ff5258baac022fd3717bd755b26`.
+- Recounted the HTML sections: 57 entries (2023), 94 (2024), 100 (2025), and 57 (2026); 308 annual entries in total.
+- Checked all four sections for the repeated generic news-publisher opening. None remain.
+- Rewrote 46 such openings in 2025 and 28 in 2026, and removed the last four in 2024. The new openings distinguish newsrooms, wire services, political publications, broadcasters, aggregators, specialist publications, advocacy outlets and independent projects. Existing link examples and year-specific notes were retained.
+- 2023's original 57 entries remain unchanged.
+
+### Remaining work
+
+1. Do a substantive post-level pass over 2025 and 2026. The publisher descriptions are now less formulaic, but selected examples and link labels still need checking against the individual posts, particularly where a link may be critical, ironic, incidental or merely an attribution.
+2. Review category assignments. Some sources currently grouped under “international news” are not newsrooms (for example, podcast, lifestyle, running and media-monitoring sites); state media and advocacy outlets may also deserve distinct treatment. Do not silently preserve a mistaken category merely because it appears in the registry.
+3. Review raw-domain publisher names and aliases, including whether a platform or host is being mistaken for the originating publisher.
+4. Audit representative links, date spans, counts and title/URL mismatches.
+5. Re-run the count and structural checks after editorial changes, then prepare a rendered browser preview.
