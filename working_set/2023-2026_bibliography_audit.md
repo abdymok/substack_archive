@@ -186,3 +186,8 @@ This removes one duplicate publisher-year entry from 2025. The annual publisher 
 - All 2024–2026 date spans match the underlying source records.
 - No duplicate publisher names within an annual section, no empty representative-link hrefs, and no repeated generic publisher boilerplate in 2024–2026.
 - The original 2023 template was retained. Its older representative links and date annotations still merit a separate editorial review.
+
+
+### 2023 verification
+
+All 57 publisher link/post counts in the original 2023 section match the 2023 linked-reference file. Its one external example link is also present in that file. The original prose descriptions remain intact; their date wording and editorial annotations can receive a separate review.
