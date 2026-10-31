@@ -21,9 +21,9 @@ Counts are link occurrences and distinct posts, not unique articles, readership,
 | Year | Recurring external publishers | Category breakdown |
 |---|---:|---|
 | 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
-| 2024 | 94 | 42 international news; 14 Ukrainian media; 10 research; 8 official; 8 reference; 12 social media and other |
-| 2025 | 100 | 46 international news; 10 Ukrainian media; 6 research; 12 official; 12 reference; 14 social media and other |
-| 2026 to Oct. 28 | 57 | 28 international news; 8 Ukrainian media; 3 research; 4 official; 5 reference; 9 social media and other |
+| 2024 | 94 | 39 international news; 14 Ukrainian media; 10 research; 8 official; 10 reference; 13 platforms, specialist publications and other |
+| 2025 | 100 | 39 international news; 10 Ukrainian media; 9 research; 12 official; 13 reference; 17 platforms, specialist publications and other |
+| 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
 | **Total annual entries** | **308** | A publisher recurring in more than one year appears once in each relevant year. |
 
 The 2023 categories and annotations are retained from the original HTML template. The 2024–2026 entries use the normalized source registry and the same six broad headings.
@@ -31,8 +31,8 @@ The 2023 categories and annotations are retained from the original HTML template
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `2c805624b5c9ce3dc602b2874f1c169d56322d17`
-- Verified: 308 entries; 57 / 94 / 100 / 57 by year; 22 opening and closing section tags; no empty example links.
+- Latest HTML commit: `d3e35ee22325f89448474ba3911d59937a99e7d2`
+- Verified: 308 entries; 57 / 94 / 100 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
 
@@ -105,3 +105,34 @@ The consolidated HTML was updated after the earlier audit checkpoint.
 **2025:** Day 1079 and Day 1204 for The New York Times; Days 1059 and 1254 for Reuters; Days 1100 and 1197 for The Atlantic; Days 1087 and 1342 for The Guardian; Days 1154 and 1293 for CNN. The annotations now record where the author challenges a framing, disputes details, or uses an article as a contemporaneous record.
 
 **2026:** Days 1423 and 1657 for The New York Times; Day 1624 for Reuters; Days 1421 and 1653 for The Guardian; Day 1546 for CNN; Day 1423 for The Washington Post. The notes distinguish outside reporting from the author's local account and interpretation, and preserve caveats around projections and unresolved claims.
+
+
+## Taxonomy correction — 31 October 2026
+
+The initial normalized registry overused the category `news` for sources that are not newsrooms, broadcasters or conventional news publications. The taxonomy has now been corrected in the source-year, source-domain and publisher registries, and the annual HTML sections have been moved to match. The inclusion rule and the 308 publisher-year entry count are unchanged.
+
+Examples of corrections:
+
+- **Research and analysis:** Project Syndicate (commentary and policy essays), Emptywheel (independent investigative analysis), The Cipher Brief (national-security analysis), and the Centre for Defence Strategies (`defence.org.ua`). The latter's own site identifies its material as research and analytical reports: https://defence.org.ua/en/research/ .
+- **Reference and archives:** C-SPAN (primary video and hearing archive) and the Poetry Foundation (literary reference).
+- **Platforms, specialist publications and other:** Mindscape / Preposterous Universe (podcast), iRunFar (specialist running publication), Men's Health, BBC Sky at Night, Prospect, Western States Endurance Run, MSN and Yahoo News (aggregators), plus other non-news entities.
+- **Ukrainian media:** LIGA.net (`news.liga.net`) and UNITED24 Media (`united24media.com`).
+
+The annual HTML heading previously called “Social media and other” is now “Platforms, specialist publications and other” to describe its contents more accurately. The underlying data registry retains separate `social media` and `other / unclassified` labels.
+
+### Revised link-occurrence category totals
+
+These are link occurrences across the entire source-year dataset, not publisher-year entry counts:
+
+| Category | 2023 | 2024 | 2025 | 2026 |
+|---|---:|---:|---:|---:|
+| News | 414 | 745 | 489 | 271 |
+| Ukrainian media | 64 | 124 | 56 | 50 |
+| Research | 53 | 78 | 64 | 32 |
+| Official sources | 36 | 51 | 58 | 47 |
+| Reference | 145 | 154 | 187 | 163 |
+| Social media | 167 | 243 | 238 | 157 |
+| Other / unclassified | 126 | 154 | 135 | 117 |
+| Personal archive | 243 | 168 | 114 | 295 |
+
+The category-year file was recalculated from the revised source-year table. Annual totals remain 1,248 (2023), 1,717 (2024), 1,341 (2025) and 1,132 (2026).
