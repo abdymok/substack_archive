@@ -22,7 +22,7 @@ Counts are link occurrences and distinct posts, not unique articles, readership,
 |---|---:|---|
 | 2023 | 57 | 21 international news; 8 Ukrainian media; 5 research; 5 official; 8 reference; 10 social media and other |
 | 2024 | 94 | 38 international news; 15 Ukrainian media; 10 research; 8 official; 10 reference; 13 platforms, specialist publications and other |
-| 2025 | 100 | 36 international news; 12 Ukrainian media; 9 research; 12 official; 13 reference; 17 platforms, specialist publications and other; 1 state media |
+| 2025 | 100 | 35 international news; 12 Ukrainian media; 10 research; 12 official; 13 reference; 17 platforms, specialist publications and other; 1 state media |
 | 2026 to Oct. 28 | 57 | 24 international news; 10 Ukrainian media; 2 research; 4 official; 6 reference; 11 platforms, specialist publications and other |
 | **Total annual entries** | **308** | A publisher recurring in more than one year appears once in each relevant year. |
 
@@ -31,7 +31,7 @@ The 2023 categories and annotations are retained from the original HTML template
 ## Current HTML draft
 
 - `working_set/2023-2026_annotated_bibliography.html`
-- Latest HTML commit: `2b6012d2980af0625c0720047088b194df46be21`
+- Latest HTML commit: `5bb2bb9ef882f888e89808ac6963a6caacaf2856`
 - Verified: 308 entries; 57 / 94 / 100 / 57 by year. The 2024–2026 category sections were recounted after reclassification; no publisher-year entry was added or removed. The annual totals remain 57 / 94 / 100 / 57.
 - The 2024–2026 entries include link counts, post counts, date spans and representative links.
 - The 2024–2026 sections now have source-specific opening descriptions rather than the repeated generic “News publisher” sentence. The 2024 section had four remaining instances of that boilerplate; the 2025 section had 46 and the 2026 section had 28. Those 78 descriptions were rewritten to identify the publication or platform and its relevant editorial or institutional character, while retaining the existing year-specific examples and use notes. This is a cleanup of the publisher-level annotations, not a claim that every entry has been fully checked against every cited post.
@@ -127,13 +127,13 @@ These are link occurrences across the entire source-year dataset, not publisher-
 
 | Category | 2023 | 2024 | 2025 | 2026 |
 |---|---:|---:|---:|---:|
-| News | 413 | 736 | 478 | 270 |
+| News | 413 | 736 | 476 | 270 |
 | Ukrainian media | 65 | 130 | 65 | 51 |
-| Research | 53 | 81 | 64 | 32 |
+| Research | 53 | 81 | 66 | 32 |
 | Official sources | 36 | 51 | 58 | 47 |
-| Reference | 145 | 154 | 187 | 163 |
+| Reference | 145 | 156 | 187 | 163 |
 | Social media | 167 | 243 | 238 | 157 |
-| Other / unclassified | 126 | 154 | 135 | 117 |
+| Other / unclassified | 126 | 152 | 135 | 117 |
 | State media | 0 | 0 | 2 | 0 |
 | Personal archive | 243 | 168 | 114 | 295 |
 
@@ -162,3 +162,5 @@ Added specific examples and editorial context for four further 2025 publishers a
 The new annotations explicitly preserve the author's criticism of a source's framing where present. A BBC URL/title mismatch in Day 1121 is flagged in the bibliography and is not silently corrected.
 
 - Reclassified the Ukraine Economic Outlook Substack publication as research and analysis and normalized its display name; its three 2024 links are now grouped with the organization's other research references.
+
+- Reclassified Ukraine Economic Outlook (Substack) as research and analysis, the History of Economic Thought Website as reference, and Media Matters for America as media-monitoring research. The corresponding annual HTML sections and category-year totals were recalculated.
