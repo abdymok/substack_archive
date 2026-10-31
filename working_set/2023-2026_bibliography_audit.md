@@ -235,3 +235,11 @@ All 57 publisher link/post counts in the original 2023 section match the 2023 li
 - The KIIS URL resolves to “Trust in military commanders and attitude to the possible resignation of V. Zaluzhnyi.” KIIS dates the release 20.12.2023 and states that the survey fieldwork ran December 4–10, 2023. The archived Day 707 footnote says “December 2003,” a clear year typo. The bibliography now flags the discrepancy. The original post and linked-reference CSV remain unchanged.
 - Verification sources: KIIS original release (https://www.kiis.com.ua/?lang=eng&cat=reports&id=1338&page=1); Financial Times article URL and contemporaneous January 30, 2024 references.
 - No publisher counts changed. HTML commit: 7505eab2b751a678946945c9a8e7587049fdbd9e.
+
+
+### 2024 representative-link spot-check — Days 713 and 728
+
+- Day 713 (February 6): checked the FT link `https://www.ft.com/content/f4e80a06-8b86-4905-978c-8dd6524d3329`. The publisher page displays the exact title quoted in the post, “US senators set up showdown on deal for Ukraine aid and border crackdown”; the post's February 5, 2024 footnote date is consistent with the article and the February 6 archive date. No correction needed.
+- Day 728 (February 21): the WSJ URL resolves to “Ukraine’s Fate Rests on Speaker Johnson,” matching the opening link and argument. The Guardian link resolves to “Barely 10% of Europeans believe Ukraine can still defeat Russia, finds poll,” dated February 21, 2024, matching the post. The New York Times footnote URL resolves to “Hundreds of Ukrainian Troops Feared Captured or Missing in Chaotic Retreat,” dated February 20, 2024, matching the post's Avdiivka passage.
+- The separate New York Times “Nice maps” URL has a slug consistent with the February 17, 2024 Russia–Ukraine war map, and is used in the post as a map reference; the publisher page could not be independently opened during this check. Retain as provisionally consistent, not fully verified.
+- No errors found in the links that could be independently checked. Original posts and link dataset remain unchanged. This remains a representative spot-check, not a complete 2024 link audit.
