@@ -1,1155 +1,1145 @@
-normalized_publisher,category,year,link_occurrences,unique_urls,unique_posts
-ukraine@war (Substack),personal archive,2023,226,165,123
-The New York Times,news,2023,103,58,52
-The Washington Post,news,2023,92,47,49
-Wikipedia,reference,2023,87,83,56
-YouTube,social media,2023,47,46,31
-X / Twitter,social media,2023,45,45,30
-Telegram,social media,2023,26,26,24
-Reuters,news,2023,24,19,16
-The Atlantic,news,2023,24,15,14
-Kyiv Post,Ukrainian media,2023,21,15,13
-Financial Times,news,2023,18,8,9
-Institute for the Study of War,research,2023,14,9,5
-CNN,news,2023,13,11,11
-Facebook,social media,2023,12,12,9
-Instagram,social media,2023,12,10,11
-The New Yorker,news,2023,11,6,4
-POLITICO Europe,news,2023,10,7,7
-The Guardian,news,2023,10,9,9
-Tootsie Club,business / commercial,2023,10,2,9
-Interfax-Ukraine,Ukrainian media,2023,9,6,7
-Substack,social media,2023,9,8,7
-The Wall Street Journal,news,2023,9,8,6
-Wikipedia (Russian),reference,2023,9,9,7
-abdymok (legacy Google Sites),personal archive,2023,8,7,7
-Censor.NET,Ukrainian media,2023,8,8,6
-Google,reference,2023,8,8,8
-Internet Archive / Wayback Machine,reference,2023,8,8,5
-POLITICO,news,2023,7,5,5
-The Economist,news,2023,6,4,5
-The Kyiv Independent,Ukrainian media,2023,6,6,6
-Ukraine Economic Outlook,research,2023,6,4,5
-Associated Press,news,2023,5,5,3
-bit.ly,reference,2023,5,5,5
-britannica.com,reference,2023,5,5,3
-C-SPAN,news,2023,5,5,5
-Google Books / Google,reference,2023,5,5,5
-newsweek.com,news,2023,5,4,2
-Stefan Korshak (Substack),social media,2023,5,5,3
-Ukrainska Pravda,Ukrainian media,2023,5,4,4
-Bloomberg,news,2023,4,3,3
-Bruce Mau Studio,personal / creative,2023,4,1,2
-Foreign Affairs,news,2023,4,3,2
-icc-cpi.int,research,2023,4,4,3
-London Review of Books,news,2023,4,2,2
-mirrormedia.mg,news,2023,4,2,4
-Office of the President of Ukraine,official sources,2023,4,4,4
-ZN.ua,Ukrainian media,2023,4,4,3
-abdymok (Blogspot),personal archive,2023,3,3,3
-abdymok (Medium),personal archive,2023,3,3,3
-Die Welt,news,2023,3,2,1
-Die Zeit,news,2023,3,3,1
-Genocide Watch,research,2023,3,2,2
-Google Photos,personal archive,2023,3,3,3
-irishtimes.com,news,2023,3,2,1
-istories.media,news,2023,3,1,1
-Krytyka,Ukrainian media,2023,3,3,1
-Ministry of Defence of Ukraine,official sources,2023,3,3,2
-oig.usaid.gov,official sources,2023,3,3,1
-seattletimes.com,news,2023,3,1,1
-TIME,news,2023,3,1,3
-Urban Dictionary,reference,2023,3,3,1
-usnews.com,news,2023,3,2,2
-Wikipedia (Ukrainian),reference,2023,3,3,3
-archive.kyivpost.com,news,2023,2,2,2
-BBC,news,2023,2,1,1
-Carnegie Endowment,research,2023,2,1,1
-Kremlin / President of Russia,official sources,2023,2,2,2
-mathshistory.st-andrews.ac.uk,research,2023,2,2,1
-Matt Taibbi (Substack),social media,2023,2,2,1
-mei.edu,research,2023,2,2,1
-nabu.gov.ua,official sources,2023,2,2,1
-news.un.org,news,2023,2,1,1
-ohchr.org,research,2023,2,2,2
-Radio Svoboda,Ukrainian media,2023,2,2,2
-Rolling Stone,news,2023,2,1,1
-Swedish Defence Research Agency,research,2023,2,2,1
-The White House,official sources,2023,2,1,2
-TikTok,social media,2023,2,2,2
-Ukraine Recovery Conference,official sources,2023,2,1,2
-Veranda on the River,business / commercial,2023,2,2,1
-Wikipedia (German),reference,2023,2,2,1
-@nytimes,news,2023,1,1,1
-161.ru,news,2023,1,1,1
-abc.net.au,news,2023,1,1,1
-abcnews.go.com,news,2023,1,1,1
-Amazon,business / commercial,2023,1,1,1
-American Rifleman,news,2023,1,1,1
-AP Images,reference,2023,1,1,1
-archive.org,reference,2023,1,1,1
-ATN Corporation,business / commercial,2023,1,1,1
-axios.com,news,2023,1,1,1
-AZQuotes,reference,2023,1,1,1
-Babel,Ukrainian media,2023,1,1,1
-BBG Watch,news,2023,1,1,1
-BelTA,state media,2023,1,1,1
-BelTA,news,2023,1,1,1
-BFMTV,news,2023,1,1,1
-Bild,news,2023,1,1,1
-Book-Online,reference,2023,1,1,1
-Boursier.com,news,2023,1,1,1
-brave1.gov.ua,official sources,2023,1,1,1
-brucemaudesign.com,other / unclassified,2023,1,1,1
-Business Insider,news,2023,1,1,1
-BYJU'S,business / commercial,2023,1,1,1
-CapX,news,2023,1,1,1
-Center for the Study of Economics,research,2023,1,1,1
-cepa.org,research,2023,1,1,1
-cfr.org,research,2023,1,1,1
-charlierose.com,other / unclassified,2023,1,1,1
-Chesno Movement,research,2023,1,1,1
-citizenlab.ca,research,2023,1,1,1
-ClickOnDetroit,news,2023,1,1,1
-clips-mp4-aka.warnermediacdn.com,news,2023,1,1,1
-Coffee or Die Magazine,news,2023,1,1,1
-COROS,business / commercial,2023,1,1,1
-Council of the European Union,official sources,2023,1,1,1
-creativestates.net,other / unclassified,2023,1,1,1
-Crimea.Realities,Ukrainian media,2023,1,1,1
-DeepStateMap,research,2023,1,1,1
-Defense One,news,2023,1,1,1
-Der Spiegel,news,2023,1,1,1
-Derek Hudson,personal / creative,2023,1,1,1
-Detachment A,reference,2023,1,1,1
-dia.mil,official sources,2023,1,1,1
-Diane Francis (Substack),personal archive,2023,1,1,1
-dictionary.cambridge.org,reference,2023,1,1,1
-dig-bremen.de,other / unclassified,2023,1,1,1
-dlcl.stanford.edu,research,2023,1,1,1
-dni.gov,official sources,2023,1,1,1
-dodig.mil,official sources,2023,1,1,1
-drugs.com,other / unclassified,2023,1,1,1
-Economic Menu,business / commercial,2023,1,1,1
-Ed Barn,personal / creative,2023,1,1,1
-encyclopedia.com,other / unclassified,2023,1,1,1
-euromaidanpress.com,news,2023,1,1,1
-European Pravda,Ukrainian media,2023,1,1,1
-Eurozine,news,2023,1,1,1
-Fenix Restaurant,business / commercial,2023,1,1,1
-Foreign Policy,news,2023,1,1,1
-Garry Kasparov,personal / creative,2023,1,1,1
-Gazeta.ua,Ukrainian media,2023,1,1,1
-glavred.net,other / unclassified,2023,1,1,1
-Google Books,reference,2023,1,1,1
-groups.csail.mit.edu,research,2023,1,1,1
-Hello Poetry,social media,2023,1,1,1
-Historic UK,reference,2023,1,1,1
-HolyBooks,reference,2023,1,1,1
-Hurst Publishers,business / commercial,2023,1,1,1
-independent.co.uk,news,2023,1,1,1
-Institute for Human Sciences (IWM),research,2023,1,1,1
-International Committee of the Red Cross,official sources,2023,1,1,1
-itd.rada.gov.ua,official sources,2023,1,1,1
-James Rushton (Substack),personal archive,2023,1,1,1
-Jamie Dettmer,social media,2023,1,1,1
-jjq.utulsa.edu,research,2023,1,1,1
-John Mearsheimer (Substack),personal archive,2023,1,1,1
-Johns Hopkins Medicine,official sources,2023,1,1,1
-judiciary.house.gov,official sources,2023,1,1,1
-Kalinouski Regiment,official sources,2023,1,1,1
-Keith Gessen,social media,2023,1,1,1
-Kharkiv Human Rights Protection Group,research,2023,1,1,1
-Kiepenheuer & Witsch,business / commercial,2023,1,1,1
-kuna.family,other / unclassified,2023,1,1,1
-Kyiv School of Economics,research,2023,1,1,1
-kyivmarathon.org,other / unclassified,2023,1,1,1
-kyivstar.ua,other / unclassified,2023,1,1,1
-La Nación,news,2023,1,1,1
-Landiou's Travel,personal / creative,2023,1,1,1
-Lawfare,research,2023,1,1,1
-leadershipinstitute.org,research,2023,1,1,1
-leilia-bakery.choiceqr.com,other / unclassified,2023,1,1,1
-Libertarianism.org,research,2023,1,1,1
-libertymedia.com,news,2023,1,1,1
-Linktree,social media,2023,1,1,1
-lyricstranslate.com,other / unclassified,2023,1,1,1
-Magnum Photos,reference,2023,1,1,1
-mediadirectory.economist.com,news,2023,1,1,1
-medicalnewstoday.com,news,2023,1,1,1
-megamarket.ua,other / unclassified,2023,1,1,1
-mikeandkellyjohnson.com,other / unclassified,2023,1,1,1
-mindat.org,other / unclassified,2023,1,1,1
-Ministry of Foreign Affairs of China,official sources,2023,1,1,1
-Mint,news,2023,1,1,1
-moz.gov.ua,official sources,2023,1,1,1
-MSD,business / commercial,2023,1,1,1
-Nash Kyiv,Ukrainian media,2023,1,1,1
-Nasha Niva,news,2023,1,1,1
-nashformat.ua,other / unclassified,2023,1,1,1
-Nashi Groshi,Ukrainian media,2023,1,1,1
-Nature Nibble,personal / creative,2023,1,1,1
-nbcnews.com,news,2023,1,1,1
-newspapers.com,news,2023,1,1,1
-Nizkor Project,reference,2023,1,1,1
-Novaya Gazeta Europe,news,2023,1,1,1
-nsarchive.gwu.edu,research,2023,1,1,1
-nsarchive2.gwu.edu,research,2023,1,1,1
-OG Burger,business / commercial,2023,1,1,1
-Online Library of Liberty,reference,2023,1,1,1
-parleypolicy.com,research,2023,1,1,1
-parliament.uk,other / unclassified,2023,1,1,1
-Philip Jones Griffiths Foundation,reference,2023,1,1,1
-Phillips O’Brien (Substack),social media,2023,1,1,1
-PlantUML,reference,2023,1,1,1
-podcasts.apple.com,social media,2023,1,1,1
-Polit.ru,news,2023,1,1,1
-puck.news,news,2023,1,1,1
-Radio Free Europe / Radio Liberty,news,2023,1,1,1
-rbc.ua,Ukrainian media,2023,1,1,1
-reliefweb.int,research,2023,1,1,1
-Riot Division,business / commercial,2023,1,1,1
-Ripley's Heroes,official sources,2023,1,1,1
-rnbo.gov.ua,official sources,2023,1,1,1
-Robert Bosch Academy,official sources,2023,1,1,1
-Rory Finnin,personal / creative,2023,1,1,1
-Royal United Services Institute,research,2023,1,1,1
-rubryka.com,other / unclassified,2023,1,1,1
-Runner’s World,news,2023,1,1,1
-Sam F. (Substack),personal archive,2023,1,1,1
-Sarah Ashton-Cirillo (Substack),personal archive,2023,1,1,1
-sciplus.com,other / unclassified,2023,1,1,1
-Scottish Poetry Library,reference,2023,1,1,1
-Secrets Machine,personal / creative,2023,1,1,1
-Seymour Hersh (Substack),social media,2023,1,1,1
-SlangDefine,reference,2023,1,1,1
-sluga-narodu.com,other / unclassified,2023,1,1,1
-Socialist Modernism,reference,2023,1,1,1
-soundcloud.com,social media,2023,1,1,1
-Spivoche,business / commercial,2023,1,1,1
-stateoig.gov,official sources,2023,1,1,1
-Statistics How To,reference,2023,1,1,1
-straitstimes.com,news,2023,1,1,1
-Strength at Home,research,2023,1,1,1
-Sud.ua,Ukrainian media,2023,1,1,1
-Suspilne,Ukrainian media,2023,1,1,1
-Tabletochki,social media,2023,1,1,1
-Techiia Foundation,official sources,2023,1,1,1
-The Cipher Brief,news,2023,1,1,1
-The Conversation,news,2023,1,1,1
-The Lancet,research,2023,1,1,1
-The Literature Page,reference,2023,1,1,1
-The Mozart Group,business / commercial,2023,1,1,1
-The New European,news,2023,1,1,1
-The Poetry Hour,personal / creative,2023,1,1,1
-The Soho Agency,business / commercial,2023,1,1,1
-thedailybeast.com,news,2023,1,1,1
-thedigital.gov.ua,official sources,2023,1,1,1
-thehill.com,news,2023,1,1,1
-Thread Reader App,social media,2023,1,1,1
-ti-ukraine.org,other / unclassified,2023,1,1,1
-timemagazine.com,news,2023,1,1,1
-Timothy Snyder (Substack),social media,2023,1,1,1
-Topographic Map,reference,2023,1,1,1
-Truth Hounds,research,2023,1,1,1
-u24.gov.ua,official sources,2023,1,1,1
-UK Parliament Committees,official sources,2023,1,1,1
-ukrainewartruth.substack.com,other / unclassified,2023,1,1,1
-Ukrainska Pravda Forum,social media,2023,1,1,1
-United States Holocaust Memorial Museum,official sources,2023,1,1,1
-upload.wikimedia.org,news,2023,1,1,1
-US Congress,official sources,2023,1,1,1
-US Department of Defense,official sources,2023,1,1,1
-US Department of State,official sources,2023,1,1,1
-vaticannews.va,news,2023,1,1,1
-Velmart,business / commercial,2023,1,1,1
-VÉRITÉ,personal / creative,2023,1,1,1
-Viasna Human Rights Centre,research,2023,1,1,1
-VICE,news,2023,1,1,1
-vLex,reference,2023,1,1,1
-warpp.info,other / unclassified,2023,1,1,1
-weekendreading.net,other / unclassified,2023,1,1,1
-Wikipedia (Polish),reference,2023,1,1,1
-Work/Craft/Life,personal / creative,2023,1,1,1
-World Health Organization,official sources,2023,1,1,1
-World Politics Review,news,2023,1,1,1
-ZDF,news,2023,1,1,1
-ukraine@war (Substack),personal archive,2024,158,127,120
-The New York Times,news,2024,147,73,75
-The Washington Post,news,2024,110,40,45
-Wikipedia,reference,2024,80,76,65
-Telegram,social media,2024,68,66,56
-YouTube,social media,2024,62,58,45
-X / Twitter,social media,2024,50,49,40
-Financial Times,news,2024,47,22,20
-Reuters,news,2024,41,37,33
-The Atlantic,news,2024,38,18,16
-The Guardian,news,2024,33,20,17
-Google,reference,2024,32,32,30
-Ukrainska Pravda,Ukrainian media,2024,30,23,21
-CNN,news,2024,28,23,24
-The Wall Street Journal,news,2024,27,12,10
-Instagram,social media,2024,24,21,21
-The Economist,news,2024,23,12,11
-Bloomberg,news,2024,22,15,14
-Facebook,social media,2024,22,22,21
-Interfax-Ukraine,Ukrainian media,2024,22,21,18
-Associated Press,news,2024,20,15,15
-POLITICO Europe,news,2024,17,12,11
-DeepStateMap,research,2024,16,14,14
-TIME,news,2024,12,7,7
-Censor.NET,Ukrainian media,2024,11,11,11
-Foreign Affairs,news,2024,11,6,5
-Office of the President of Ukraine,official sources,2024,11,11,8
-POLITICO,news,2024,11,8,8
-ZN.ua,Ukrainian media,2024,11,8,6
-Fox News,news,2024,10,7,6
-Institute for the Study of War,research,2024,10,7,7
-Just Security,research,2024,8,5,2
-Ukrinform,Ukrainian media,2024,8,6,6
-BBC,news,2024,7,7,7
-Kyiv Post,Ukrainian media,2024,7,6,2
-The New Voice of Ukraine,Ukrainian media,2024,7,7,6
-Tootsie Club,business / commercial,2024,7,2,7
-Ukraine Economic Outlook,research,2024,7,5,6
-americafirstpolicy.com,research,2024,6,3,2
-nypost.com,news,2024,6,4,2
-Rev,reference,2024,6,6,1
-Wikipedia (Russian),reference,2024,6,5,5
-Wikipedia (Ukrainian),reference,2024,6,6,5
-abcnews.go.com,news,2024,5,4,3
-Google Books / Google,reference,2024,5,5,5
-Internet Archive / Wayback Machine,reference,2024,5,5,4
-NATO,official sources,2024,5,4,4
-The New Yorker,news,2024,5,4,3
-thehill.com,news,2024,5,4,3
-Amazon,business / commercial,2024,4,4,4
-Defense Express,Ukrainian media,2024,4,4,3
-Der Spiegel,news,2024,4,2,2
-Frankfurter Allgemeine Zeitung,news,2024,4,2,2
-latimes.com,news,2024,4,2,1
-Meduza,news,2024,4,3,2
-newsukraine.rbc.ua,news,2024,4,4,3
-newsweek.com,news,2024,4,4,4
-Ruslan Lobanov,personal archive,2024,4,4,3
-Stefan Korshak (Substack),social media,2024,4,4,4
-thetimes.com,news,2024,4,3,1
-abc.net.au,news,2024,3,3,3
-axios.com,news,2024,3,2,1
-C-SPAN,news,2024,3,3,3
-DTEK,official sources,2024,3,2,3
-Ekonomichna Pravda,Ukrainian media,2024,3,2,2
-Foreign Policy,news,2024,3,3,2
-Kyiv International Institute of Sociology,research,2024,3,3,3
-Le Monde,news,2024,3,2,2
-Men's Health,news,2024,3,2,1
-MSN,news,2024,3,3,3
-Munich Security Conference,research,2024,3,1,3
-nbcnews.com,news,2024,3,3,3
-news.sky.com,news,2024,3,3,2
-pbs.org,news,2024,3,2,1
-Perplexity,reference,2024,3,3,3
-Royal United Services Institute,research,2024,3,3,3
-Semafor,news,2024,3,2,1
-Substack,social media,2024,3,3,3
-Suspilne,Ukrainian media,2024,3,3,3
-The Cipher Brief,news,2024,3,3,2
-The Kyiv Independent,Ukrainian media,2024,3,3,3
-The Spectator,news,2024,3,2,1
-Tom Cooper (Substack),social media,2024,3,2,3
-Ukraine Recovery Conference,official sources,2024,3,1,3
-Babel,Ukrainian media,2024,2,2,2
-bellingcat.com,research,2024,2,2,1
-Bird in Flight,Ukrainian media,2024,2,2,1
-buzzfeednews.com,news,2024,2,2,2
-cfr.org,research,2024,2,2,2
-CNBC,news,2024,2,2,2
-Comments.ua,Ukrainian media,2024,2,2,1
-Defense One,news,2024,2,2,1
-Euractiv,news,2024,2,2,2
-euromaidanpress.com,news,2024,2,2,1
-European Commission,official sources,2024,2,1,1
-globenewswire.com,news,2024,2,2,1
-Google Books,reference,2024,2,2,2
-History of Economic Thought Website,reference,2024,2,1,2
-inquirer.com,news,2024,2,2,1
-Institute for Strategic Dialogue,research,2024,2,2,1
-Literary Hub,news,2024,2,2,1
-livingthewar.media,news,2024,2,1,2
-Navy Recognition,news,2024,2,1,1
-Novaya Gazeta,news,2024,2,2,1
-npr.org,news,2024,2,2,2
-Phillips O’Brien (Substack),social media,2024,2,2,2
-poetryfoundation.org,research,2024,2,2,2
-Radio Free Europe / Radio Liberty,news,2024,2,2,2
-Syrian Network for Human Rights,research,2024,2,2,1
-Texty.org.ua,Ukrainian media,2024,2,2,2
-The Black Sea Whale,news,2024,2,2,2
-The San Francisco Standard,news,2024,2,1,1
-The White House,official sources,2024,2,2,2
-thedailybeast.com,news,2024,2,2,1
-tinyurl.com,reference,2024,2,2,2
-tsn.ua,Ukrainian media,2024,2,2,2
-u24.gov.ua,official sources,2024,2,1,2
-uk.news.yahoo.com,news,2024,2,2,2
-Ukraine.ua,official sources,2024,2,2,2
-ukranews.com,news,2024,2,1,1
-US Department of Defense,official sources,2024,2,2,2
-23degrees,reference,2024,1,1,1
-44.ua,Ukrainian media,2024,1,1,1
-5 Kanal,Ukrainian media,2024,1,1,1
-abdymok (legacy Google Sites),personal archive,2024,1,1,1
-AD Sport,business / commercial,2024,1,1,1
-After Ilovaisk,research,2024,1,1,1
-aljazeera.com,news,2024,1,1,1
-All Poetry,social media,2024,1,1,1
-American Academy of Achievement,official sources,2024,1,1,1
-Americas Society / Council of the Americas,research,2024,1,1,1
-AP Images,reference,2024,1,1,1
-Apple App Store,business / commercial,2024,1,1,1
-archive.kyivpost.com,news,2024,1,1,1
-Ars Technica,news,2024,1,1,1
-ASPI,Ukrainian media,2024,1,1,1
-atlanticcouncil.org,research,2024,1,1,1
-Atlas Obscura,news,2024,1,1,1
-Behance,social media,2024,1,1,1
-Berliner Woche,news,2024,1,1,1
-Berliner Zeitung,news,2024,1,1,1
-BFMTV,news,2024,1,1,1
-Bihus.Info,Ukrainian media,2024,1,1,1
-britannica.com,reference,2024,1,1,1
-Bruce Mau Studio,personal / creative,2024,1,1,1
-bumble.com,other / unclassified,2024,1,1,1
-buonaideabooks.com,other / unclassified,2024,1,1,1
-Business Insider,news,2024,1,1,1
-buy-build.com,other / unclassified,2024,1,1,1
-Cabinet of Ministers of Ukraine,official sources,2024,1,1,1
-cadc.uscourts.gov,official sources,2024,1,1,1
-calculat.io,other / unclassified,2024,1,1,1
-cannondale.com.ua,other / unclassified,2024,1,1,1
-Carnegie Endowment,research,2024,1,1,1
-cato-unbound.org,other / unclassified,2024,1,1,1
-cbs19news.com,news,2024,1,1,1
-cbsnews.com,news,2024,1,1,1
-ccu.gov.ua,official sources,2024,1,1,1
-cdn.jwplayer.com,other / unclassified,2024,1,1,1
-cdn.prod.website-files.com,other / unclassified,2024,1,1,1
-cdn.shopify.com,other / unclassified,2024,1,1,1
-Center for Strategic and International Studies,research,2024,1,1,1
-Chatham House,research,2024,1,1,1
-claremont.org,other / unclassified,2024,1,1,1
-columbianewsservice.com,news,2024,1,1,1
-consultant.net.ua,other / unclassified,2024,1,1,1
-currenttime.tv,other / unclassified,2024,1,1,1
-darksidedisplays.com,other / unclassified,2024,1,1,1
-daviscenter.fas.harvard.edu,research,2024,1,1,1
-defense.gouv.fr,other / unclassified,2024,1,1,1
-defensie.nl,other / unclassified,2024,1,1,1
-Detector Media,Ukrainian media,2024,1,1,1
-dni.gov,official sources,2024,1,1,1
-documentcloud.org,other / unclassified,2024,1,1,1
-duhvoli.com,other / unclassified,2024,1,1,1
-dw.com,news,2024,1,1,1
-earthsky.org,other / unclassified,2024,1,1,1
-ebay.com,other / unclassified,2024,1,1,1
-economictimes.indiatimes.com,news,2024,1,1,1
-efile.fara.gov,official sources,2024,1,1,1
-egypt.mfa.gov.ua,official sources,2024,1,1,1
-eloquentmadness.wordpress.com,news,2024,1,1,1
-en.lb.ua,other / unclassified,2024,1,1,1
-en.people.cn,other / unclassified,2024,1,1,1
-encyclopediaofukraine.com,other / unclassified,2024,1,1,1
-euronews.com,news,2024,1,1,1
-European Pravda,Ukrainian media,2024,1,1,1
-europeandme.eu,other / unclassified,2024,1,1,1
-euroradio.fm,other / unclassified,2024,1,1,1
-finance.ua,other / unclassified,2024,1,1,1
-Forbes Ukraine,Ukrainian media,2024,1,1,1
-france24.com,news,2024,1,1,1
-fred.stlouisfed.org,other / unclassified,2024,1,1,1
-freedomforum.org,other / unclassified,2024,1,1,1
-Frontelligence Insight (Substack),social media,2024,1,1,1
-frontpages.com,other / unclassified,2024,1,1,1
-g7italy.it,other / unclassified,2024,1,1,1
-Gazeta.ua,Ukrainian media,2024,1,1,1
-gc.gov.ua,official sources,2024,1,1,1
-GEM Wiki,reference,2024,1,1,1
-georgiatoday.ge,other / unclassified,2024,1,1,1
-gettyimages.com,other / unclassified,2024,1,1,1
-goodwine.ua,other / unclassified,2024,1,1,1
-Google Photos,personal archive,2024,1,1,1
-govexec.com,other / unclassified,2024,1,1,1
-gq.com,other / unclassified,2024,1,1,1
-gramota.ru,other / unclassified,2024,1,1,1
-guestreservations.com,other / unclassified,2024,1,1,1
-handelsblatt.com,other / unclassified,2024,1,1,1
-hercul.com.ua,other / unclassified,2024,1,1,1
-himes.house.gov,official sources,2024,1,1,1
-hindustantimes.com,news,2024,1,1,1
-holosameryky.com,other / unclassified,2024,1,1,1
-hrc.org,other / unclassified,2024,1,1,1
-index.hu,other / unclassified,2024,1,1,1
-infographics.economist.com,other / unclassified,2024,1,1,1
-Institute of Mass Information,research,2024,1,1,1
-International Committee of the Red Cross,official sources,2024,1,1,1
-iRunFar,news,2024,1,1,1
-Johns Hopkins Medicine,official sources,2024,1,1,1
-Kiel Institute for the World Economy,research,2024,1,1,1
-kommersant.ru,other / unclassified,2024,1,1,1
-korrespondent.net,other / unclassified,2024,1,1,1
-ktvb.com,other / unclassified,2024,1,1,1
-kurakhove,other / unclassified,2024,1,1,1
-lb.ua,Ukrainian media,2024,1,1,1
-leave-russia.org,other / unclassified,2024,1,1,1
-lgraham.senate.gov,official sources,2024,1,1,1
-link.springer.com,other / unclassified,2024,1,1,1
-London Review of Books,news,2024,1,1,1
-lrt.lt,other / unclassified,2024,1,1,1
-m.censor.net,other / unclassified,2024,1,1,1
-Markus (social profile),social media,2024,1,1,1
-media.defense.gov,official sources,2024,1,1,1
-mfa.gov.cn,other / unclassified,2024,1,1,1
-miamiherald.com,news,2024,1,1,1
-mil.in.ua,Ukrainian media,2024,1,1,1
-Mindscape (Preposterous Universe),research,2024,1,1,1
-mining.com,other / unclassified,2024,1,1,1
-mipl.org.ua,other / unclassified,2024,1,1,1
-mirrormedia.mg,news,2024,1,1,1
-MSD,business / commercial,2024,1,1,1
-muse.jhu.edu,research,2024,1,1,1
-nationalinterest.org,other / unclassified,2024,1,1,1
-nationalreview.com,other / unclassified,2024,1,1,1
-nbg.kiev.ua,other / unclassified,2024,1,1,1
-networkworld.com,other / unclassified,2024,1,1,1
-news.finance.ua,news,2024,1,1,1
-news.satnews.com,news,2024,1,1,1
-news.yahoo.com,news,2024,1,1,1
-nih.gov,official sources,2024,1,1,1
-ninajankowicz.com,other / unclassified,2024,1,1,1
-novolipki.com,other / unclassified,2024,1,1,1
-novosti.dn.ua,other / unclassified,2024,1,1,1
-oann.com,other / unclassified,2024,1,1,1
-odni.gov,official sources,2024,1,1,1
-oig.usaid.gov,official sources,2024,1,1,1
-on.soundcloud.com,other / unclassified,2024,1,1,1
-online.ua,other / unclassified,2024,1,1,1
-opendatabot.ua,other / unclassified,2024,1,1,1
-opensecrets.org,other / unclassified,2024,1,1,1
-oxfordreference.com,other / unclassified,2024,1,1,1
-palantir.com,other / unclassified,2024,1,1,1
-paypal.com,other / unclassified,2024,1,1,1
-pewresearch.org,research,2024,1,1,1
-philsci-archive.pitt.edu,research,2024,1,1,1
-politco.eu,other / unclassified,2024,1,1,1
-political.tips,other / unclassified,2024,1,1,1
-politifact.com,other / unclassified,2024,1,1,1
-polskieradio.pl,other / unclassified,2024,1,1,1
-presidency.ucsb.edu,research,2024,1,1,1
-prisonlife.ru,other / unclassified,2024,1,1,1
-project2025.org,other / unclassified,2024,1,1,1
-Radio Svoboda,Ukrainian media,2024,1,1,1
-rainews.it,news,2024,1,1,1
-re-russia.net,other / unclassified,2024,1,1,1
-realclearworld.com,other / unclassified,2024,1,1,1
-rg.ru,other / unclassified,2024,1,1,1
-rm.coe.int,other / unclassified,2024,1,1,1
-Rolling Stone,news,2024,1,1,1
-romania-insider.com,other / unclassified,2024,1,1,1
-rsf.org,other / unclassified,2024,1,1,1
-ru.interfax.com.ua,other / unclassified,2024,1,1,1
-Runner’s World,news,2024,1,1,1
-russian-casualties.in.ua,other / unclassified,2024,1,1,1
-rwnd.store,other / unclassified,2024,1,1,1
-s3.documentcloud.org,other / unclassified,2024,1,1,1
-sachacollisson.com,other / unclassified,2024,1,1,1
-scmp.com,other / unclassified,2024,1,1,1
-scribd.com,other / unclassified,2024,1,1,1
-search.google.com,other / unclassified,2024,1,1,1
-shafa.ua,other / unclassified,2024,1,1,1
-simonandschuster.com,other / unclassified,2024,1,1,1
-singjupost.com,news,2024,1,1,1
-skydio.com,other / unclassified,2024,1,1,1
-solar-center.stanford.edu,research,2024,1,1,1
-spravkainform.com.ua,other / unclassified,2024,1,1,1
-storymaps.arcgis.com,other / unclassified,2024,1,1,1
-Stripe,business / commercial,2024,1,1,1
-svaboda.org,other / unclassified,2024,1,1,1
-tankona.free.fr,other / unclassified,2024,1,1,1
-tebowing.com,other / unclassified,2024,1,1,1
-tf1info.fr,other / unclassified,2024,1,1,1
-The Insider,news,2024,1,1,1
-The Onion,news,2024,1,1,1
-The War Zone,news,2024,1,1,1
-Thread Reader App,social media,2024,1,1,1
-TikTok,social media,2024,1,1,1
-Timothy Snyder (Substack),social media,2024,1,1,1
-totalprosports.com,other / unclassified,2024,1,1,1
-tsum.ua,other / unclassified,2024,1,1,1
-u24.media,news,2024,1,1,1
-ua.usembassy.gov,official sources,2024,1,1,1
-US Department of State,official sources,2024,1,1,1
-us.macmillan.com,other / unclassified,2024,1,1,1
-va.gov,official sources,2024,1,1,1
-VÉRITÉ,personal / creative,2024,1,1,1
-visir.is,other / unclassified,2024,1,1,1
-voanews.com,news,2024,1,1,1
-warmapper.org,other / unclassified,2024,1,1,1
-webmd.com,other / unclassified,2024,1,1,1
-westplainsdailyquill.net,news,2024,1,1,1
-wikimapia.org,other / unclassified,2024,1,1,1
-World Economic Forum,research,2024,1,1,1
-www-svoboda-org.cdn.ampproject.org,other / unclassified,2024,1,1,1
-Yahoo News,news,2024,1,1,1
-yakaboo.ua,other / unclassified,2024,1,1,1
-Yalta European Strategy,research,2024,1,1,1
-yellowstripsdeadarmadillos.org,other / unclassified,2024,1,1,1
-zeitung.faz.net,other / unclassified,2024,1,1,1
-zmina.ua,other / unclassified,2024,1,1,1
-zora.co,other / unclassified,2024,1,1,1
-zsu.gov.ua,official sources,2024,1,1,1
-ukraine@war (Substack),personal archive,2025,108,88,74
-Wikipedia,reference,2025,95,88,50
-The New York Times,news,2025,89,53,52
-X / Twitter,social media,2025,74,65,38
-Telegram,social media,2025,58,56,43
-YouTube,social media,2025,55,51,36
-Reuters,news,2025,42,40,35
-Archive.ph,reference,2025,35,34,31
-The Atlantic,news,2025,32,10,17
-The Guardian,news,2025,32,26,22
-CNN,news,2025,22,19,17
-Financial Times,news,2025,21,5,14
-Google,reference,2025,18,18,17
-The Economist,news,2025,18,10,11
-Institute for the Study of War,research,2025,17,15,14
-The Wall Street Journal,news,2025,17,7,9
-POLITICO,news,2025,16,10,10
-Associated Press,news,2025,15,12,11
-Facebook,social media,2025,15,12,12
-POLITICO Europe,news,2025,15,11,10
-BBC,news,2025,13,12,10
-rollcall.com,news,2025,13,11,6
-The Washington Post,news,2025,13,9,8
-Fox News,news,2025,11,8,10
-Instagram,social media,2025,10,10,6
-Ukrainska Pravda,Ukrainian media,2025,9,8,7
-Censor.NET,Ukrainian media,2025,8,7,6
-Office of the President of Ukraine,official sources,2025,7,7,7
-Project Syndicate,news,2025,7,5,3
-truthsocial.com,social media,2025,7,7,4
-axios.com,news,2025,6,6,5
-Emptywheel,news,2025,6,2,5
-Foreign Affairs,news,2025,6,3,3
-The Kyiv Independent,Ukrainian media,2025,6,5,4
-The White House,official sources,2025,6,4,6
-Bloomberg,news,2025,5,5,5
-DeepStateMap,research,2025,5,5,5
-dni.gov,official sources,2025,5,3,3
-Internet Archive / Wayback Machine,reference,2025,5,5,1
-Kremlin / President of Russia,official sources,2025,5,4,5
-Le Monde,news,2025,5,4,3
-newsukraine.rbc.ua,news,2025,5,5,4
-nypost.com,news,2025,5,4,3
-POTUS Tracker,reference,2025,5,4,5
-The New Voice of Ukraine,Ukrainian media,2025,5,5,5
-Wikipedia (Ukrainian),reference,2025,5,5,5
-abcnews.go.com,news,2025,4,4,3
-cbsnews.com,news,2025,4,3,3
-euromaidanpress.com,news,2025,4,3,2
-European Pravda,Ukrainian media,2025,4,3,3
-nbcnews.com,news,2025,4,4,3
-news.sky.com,news,2025,4,4,3
-Perplexity,reference,2025,4,4,3
-plato.stanford.edu,research,2025,4,2,4
-Radio Free Europe / Radio Liberty,news,2025,4,4,3
-Substack,social media,2025,4,4,4
-The Telegraph,news,2025,4,4,4
-Tootsie Club,business / commercial,2025,4,2,4
-US Department of State,official sources,2025,4,4,4
-Viasna Human Rights Centre,research,2025,4,3,4
-Wikipedia (Russian),reference,2025,4,4,4
-Anne Applebaum,personal archive,2025,3,2,2
-BBC Sky at Night Magazine,news,2025,3,1,1
-Detroit Free Press,news,2025,3,3,1
-Digi24,news,2025,3,2,2
-Forbes,news,2025,3,3,2
-france24.com,news,2025,3,3,3
-harriman.columbia.edu,research,2025,3,3,1
-Interfax-Ukraine,Ukrainian media,2025,3,3,3
-KonMari,business / commercial,2025,3,3,3
-Mindscape (Preposterous Universe),research,2025,3,3,2
-MSN,news,2025,3,2,2
-Prospect Magazine,news,2025,3,2,1
-The War Zone,news,2025,3,2,1
-thetimes.com,news,2025,3,2,2
-UN Human Rights Monitoring Mission in Ukraine,official sources,2025,3,3,3
-Yahoo News,news,2025,3,3,3
-ZN.ua,Ukrainian media,2025,3,3,3
-abdymok (Tumblr),personal archive,2025,2,1,2
-Archive.fo,reference,2025,2,2,2
-archive.org,reference,2025,2,2,2
-army.mil,official sources,2025,2,2,2
-atlanticcouncil.org,research,2025,2,2,1
-Auchan,business / commercial,2025,2,2,1
-Babel,Ukrainian media,2025,2,1,1
-C-SPAN,news,2025,2,2,2
-Cabinet of Ministers of Ukraine,official sources,2025,2,2,2
-Center for Defence Strategies,research,2025,2,2,2
-dw.com,news,2025,2,2,2
-EU Neighbours East,official sources,2025,2,2,1
-Google Books,reference,2025,2,2,2
-iRunFar,news,2025,2,2,2
-Kiel Institute for the World Economy,research,2025,2,2,1
-Kyiv Post,Ukrainian media,2025,2,2,2
-mediamatters.org,news,2025,2,2,2
-Ministry of Defence of Ukraine,official sources,2025,2,2,2
-Ministry of Foreign Affairs of Russia,official sources,2025,2,2,2
-Molycorp,business / commercial,2025,2,1,1
-MSD,business / commercial,2025,2,2,2
-Munich Security Conference,research,2025,2,2,2
-nabu.gov.ua,official sources,2025,2,1,2
-newsnationnow.com,news,2025,2,2,2
-pbs.org,news,2025,2,2,2
-podcasts.apple.com,social media,2025,2,2,2
-Rev,reference,2025,2,2,2
-Rolling Stone,news,2025,2,2,1
-RT,news,2025,2,2,2
-Süddeutsche Zeitung,news,2025,2,2,2
-The New Yorker,news,2025,2,2,1
-The Ukrainian Week,Ukrainian media,2025,2,1,2
-thejournal.ie,news,2025,2,2,1
-TikTok,social media,2025,2,1,2
-TIME,news,2025,2,2,2
-Tom Cooper (Substack),social media,2025,2,2,2
-TV Zvezda,news,2025,2,2,1
-Ukrinform,Ukrainian media,2025,2,2,2
-Vogue Ukraine,Ukrainian media,2025,2,2,1
-Western States Endurance Run,official sources,2025,2,1,2
-Wikipedia (German),reference,2025,2,2,2
-Yalta European Strategy,research,2025,2,2,2
-12th Special Forces Brigade Azov,official sources,2025,1,1,1
-425th Separate Assault Regiment Skala,official sources,2025,1,1,1
-abdymok (legacy Google Sites),personal archive,2025,1,1,1
-afsoc.af.mil,official sources,2025,1,1,1
-aljazeera.com,news,2025,1,1,1
-Anduril Industries,business / commercial,2025,1,1,1
-AnewZ,news,2025,1,1,1
-Antilogicalism,personal / creative,2025,1,1,1
-apostrophe.ua,news,2025,1,1,1
-ArtHuss,business / commercial,2025,1,1,1
-atm.mmu.ac.uk,research,2025,1,1,1
-banking.senate.gov,official sources,2025,1,1,1
-BelTA,news,2025,1,1,1
-Bild,news,2025,1,1,1
-Binance,business / commercial,2025,1,1,1
-bnn-news.com,news,2025,1,1,1
-brave1.gov.ua,official sources,2025,1,1,1
-Breaking Defense,news,2025,1,1,1
-bubsnaturals.com,other / unclassified,2025,1,1,1
-Business Insider,news,2025,1,1,1
-buttondown.com,other / unclassified,2025,1,1,1
-ca.news.yahoo.com,news,2025,1,1,1
-cftni.org,other / unclassified,2025,1,1,1
-Chesno Movement,research,2025,1,1,1
-cityartsmagazine.com,news,2025,1,1,1
-cna.al,other / unclassified,2025,1,1,1
-cnas.org,other / unclassified,2025,1,1,1
-Columbia Journalism Review,research,2025,1,1,1
-conference.pictoplasma.com,other / unclassified,2025,1,1,1
-corp.oup.com,other / unclassified,2025,1,1,1
-Council of the European Union,official sources,2025,1,1,1
-dailymail.co.uk,news,2025,1,1,1
-Der Spiegel,news,2025,1,1,1
-derekthompson.org,other / unclassified,2025,1,1,1
-Detector Media,Ukrainian media,2025,1,1,1
-dia.mil,official sources,2025,1,1,1
-discussions.apple.com,other / unclassified,2025,1,1,1
-Dodo Socks,business / commercial,2025,1,1,1
-dsns.gov.ua,official sources,2025,1,1,1
-DTEK,official sources,2025,1,1,1
-earth.google.com,other / unclassified,2025,1,1,1
-econonomist.com,other / unclassified,2025,1,1,1
-ecopolitic.ro,other / unclassified,2025,1,1,1
-eeas.europa.eu,other / unclassified,2025,1,1,1
-elevenlabs.io,other / unclassified,2025,1,1,1
-en.tutiempo.net,other / unclassified,2025,1,1,1
-eutoday.net,other / unclassified,2025,1,1,1
-fb.watch,other / unclassified,2025,1,1,1
-fdd.org,other / unclassified,2025,1,1,1
-flickr.com,other / unclassified,2025,1,1,1
-flightradar24.com,other / unclassified,2025,1,1,1
-Forbes Ukraine,Ukrainian media,2025,1,1,1
-forumvostok.ru,other / unclassified,2025,1,1,1
-fr.de,other / unclassified,2025,1,1,1
-Frankfurter Allgemeine Zeitung,news,2025,1,1,1
-frankohara.org,other / unclassified,2025,1,1,1
-"ft,cin",other / unclassified,2025,1,1,1
-glavcom.ua,Ukrainian media,2025,1,1,1
-glavnoe.in.ua,other / unclassified,2025,1,1,1
-gmfus.org,other / unclassified,2025,1,1,1
-gongadzeprize.com.ua,other / unclassified,2025,1,1,1
-Goodreads,reference,2025,1,1,1
-guniaproject.com.ua,other / unclassified,2025,1,1,1
-healthline.com,other / unclassified,2025,1,1,1
-heritage.org,other / unclassified,2025,1,1,1
-history.catholic.edu,research,2025,1,1,1
-hpsnz.org.nz,other / unclassified,2025,1,1,1
-Hromadske,Ukrainian media,2025,1,1,1
-hromadske.radio,other / unclassified,2025,1,1,1
-huxley.net,other / unclassified,2025,1,1,1
-ia902905.us.archive.org,other / unclassified,2025,1,1,1
-imf.org,other / unclassified,2025,1,1,1
-interfax.ru,other / unclassified,2025,1,1,1
-irf.ua,other / unclassified,2025,1,1,1
-isis-online.org,other / unclassified,2025,1,1,1
-jeudepaume.org,other / unclassified,2025,1,1,1
-jordan.mfa.gov.ua,official sources,2025,1,1,1
-k-2.army,other / unclassified,2025,1,1,1
-kielinstitut.de,other / unclassified,2025,1,1,1
-Knihi.com,reference,2025,1,1,1
-lepoint.fr,other / unclassified,2025,1,1,1
-lidskae.by,other / unclassified,2025,1,1,1
-life-bridge-ukraine.com,other / unclassified,2025,1,1,1
-livenowfox.com,other / unclassified,2025,1,1,1
-marbeks.com,other / unclassified,2025,1,1,1
-maritimesafetyinnovationlab.org,news,2025,1,1,1
-marketer.ua,other / unclassified,2025,1,1,1
-mil.in.ua,Ukrainian media,2025,1,1,1
-military.com,other / unclassified,2025,1,1,1
-militaryland.net,other / unclassified,2025,1,1,1
-missiledefenseadvocacy.org,other / unclassified,2025,1,1,1
-museumofthebible.org,other / unclassified,2025,1,1,1
-news.liga.net,news,2025,1,1,1
-news.un.org,news,2025,1,1,1
-newsweek.com,news,2025,1,1,1
-npr.org,news,2025,1,1,1
-nsa.gov,official sources,2025,1,1,1
-oglobo.globo.com,other / unclassified,2025,1,1,1
-olayasport.com,other / unclassified,2025,1,1,1
-olx.ua,other / unclassified,2025,1,1,1
-opensocietyfoundations.org,other / unclassified,2025,1,1,1
-orwellfoundation.com,research,2025,1,1,1
-parasitesandvectors.biomedcentral.com,other / unclassified,2025,1,1,1
-pdhpe.net,other / unclassified,2025,1,1,1
-poetryfoundation.org,research,2025,1,1,1
-poetrysociety.org,other / unclassified,2025,1,1,1
-pokernews.com,news,2025,1,1,1
-politco.com,other / unclassified,2025,1,1,1
-presidency.ucsb.edu,research,2025,1,1,1
-Project Gutenberg,reference,2025,1,1,1
-rbc.ua,Ukrainian media,2025,1,1,1
-reaganlibrary.gov,official sources,2025,1,1,1
-republic.ru,other / unclassified,2025,1,1,1
-Reuters Connect,news,2025,1,1,1
-rheinmetall.com,other / unclassified,2025,1,1,1
-ria.ru,other / unclassified,2025,1,1,1
-Riot Division,business / commercial,2025,1,1,1
-robertshermantv.com,other / unclassified,2025,1,1,1
-romania.europalibera.org,other / unclassified,2025,1,1,1
-Royal United Services Institute,research,2025,1,1,1
-rumble.com,social media,2025,1,1,1
-sas.upenn.edu,research,2025,1,1,1
-scrippsnews.com,news,2025,1,1,1
-sestry-feldman.com,other / unclassified,2025,1,1,1
-SideStack,reference,2025,1,1,1
-silpo.ua,other / unclassified,2025,1,1,1
-simple.wikipedia.org,other / unclassified,2025,1,1,1
-slate.com,other / unclassified,2025,1,1,1
-sluganaroda.fandom.com,other / unclassified,2025,1,1,1
-smartass.club,other / unclassified,2025,1,1,1
-space.com,other / unclassified,2025,1,1,1
-spartz.house.gov,official sources,2025,1,1,1
-static.heritage.org,other / unclassified,2025,1,1,1
-static.project2025.org,other / unclassified,2025,1,1,1
-Stefan Korshak (Substack),social media,2025,1,1,1
-store.magnumphotos.com,other / unclassified,2025,1,1,1
-Stripe,business / commercial,2025,1,1,1
-supreme.justia.com,other / unclassified,2025,1,1,1
-Suspilne,Ukrainian media,2025,1,1,1
-tass.com,other / unclassified,2025,1,1,1
-Tatarigami,social media,2025,1,1,1
-teufelsberg-berlin.de,other / unclassified,2025,1,1,1
-thebulwark.com,other / unclassified,2025,1,1,1
-thecharliekirkshow.com,other / unclassified,2025,1,1,1
-theeconomist.com,other / unclassified,2025,1,1,1
-thegaurdian.com,other / unclassified,2025,1,1,1
-thehill.com,news,2025,1,1,1
-themarathoninitiative.org,other / unclassified,2025,1,1,1
-traxys.com,other / unclassified,2025,1,1,1
-tryarmra.com,other / unclassified,2025,1,1,1
-u24.gov.ua,official sources,2025,1,1,1
-ua.usembassy.gov,official sources,2025,1,1,1
-ucd.ie,other / unclassified,2025,1,1,1
-ucu.edu.ua,other / unclassified,2025,1,1,1
-ukraine.un.org,other / unclassified,2025,1,1,1
-ukrainefreedomproject.org,other / unclassified,2025,1,1,1
-unherd.com,other / unclassified,2025,1,1,1
-unn.ua,other / unclassified,2025,1,1,1
-usatoday.com,news,2025,1,1,1
-ustr.gov,official sources,2025,1,1,1
-vaholocaust.pastperfectonline.com,other / unclassified,2025,1,1,1
-vandenberg.spaceforce.mil,official sources,2025,1,1,1
-velosiped.com,other / unclassified,2025,1,1,1
-vimeo.com,social media,2025,1,1,1
-vsn.ua,other / unclassified,2025,1,1,1
-washingtonexaminer.com,other / unclassified,2025,1,1,1
-witkoff.com,other / unclassified,2025,1,1,1
-zakon.rada.gov.ua,official sources,2025,1,1,1
-zemliak.com,other / unclassified,2025,1,1,1
-ukraine@war (Substack),personal archive,2026,229,192,88
-YouTube,social media,2026,86,80,56
-Google,reference,2026,70,69,7
-The New York Times,news,2026,65,41,41
-abdymok (GitHub Pages),personal archive,2026,54,17,26
-Archive.ph,reference,2026,36,33,31
-Wikipedia,reference,2026,28,25,25
-Telegram,social media,2026,20,20,19
-Reuters,news,2026,19,16,15
-The Guardian,news,2026,19,14,14
-CNN,news,2026,15,13,11
-The Wall Street Journal,news,2026,15,9,8
-X / Twitter,social media,2026,15,13,12
-Instagram,social media,2026,14,14,11
-Financial Times,news,2026,12,6,8
-The Atlantic,news,2026,11,8,9
-Tootsie Club,business / commercial,2026,11,2,11
-Facebook,social media,2026,10,9,8
-KonMari,business / commercial,2026,10,10,10
-The Washington Post,news,2026,10,8,9
-Interfax-Ukraine,Ukrainian media,2026,9,8,7
-Ukrainska Pravda,Ukrainian media,2026,9,9,9
-ZN.ua,Ukrainian media,2026,8,5,4
-Associated Press,news,2026,7,7,7
-Bloomberg,news,2026,7,5,4
-Office of the President of Ukraine,official sources,2026,7,7,7
-Foreign Affairs,news,2026,6,5,4
-GitHub,personal archive,2026,6,6,1
-abdymok (legacy Google Sites),personal archive,2026,5,5,5
-Example Domain,reference,2026,5,1,1
-Google NotebookLM,reference,2026,5,2,5
-Institute for the Study of War,research,2026,5,5,5
-nabu.gov.ua,official sources,2026,5,5,4
-DTN,news,2026,4,4,1
-rollcall.com,news,2026,4,3,3
-The Kyiv Independent,Ukrainian media,2026,4,4,3
-TIME,news,2026,4,4,3
-truthsocial.com,social media,2026,4,4,4
-US Department of State,official sources,2026,4,2,2
-atlanticcouncil.org,research,2026,3,2,1
-axios.com,news,2026,3,3,3
-cbsnews.com,news,2026,3,3,3
-Center for Strategic and International Studies,research,2026,3,2,1
-Internet Archive / Wayback Machine,reference,2026,3,3,3
-Irish Independent,news,2026,3,2,1
-Kyiv Post,Ukrainian media,2026,3,3,3
-Mindscape (Preposterous Universe),research,2026,3,2,2
-nbcnews.com,news,2026,3,3,3
-npr.org,news,2026,3,3,2
-PhilPapers,reference,2026,3,3,1
-POLITICO,news,2026,3,3,3
-POLITICO Europe,news,2026,3,3,2
-The Economist,news,2026,3,3,2
-app.quotemedia.com,news,2026,2,2,1
-BBC,news,2026,2,2,2
-cepa.org,research,2026,2,2,2
-counteroffensive.news,news,2026,2,2,2
-Detector Media,Ukrainian media,2026,2,2,2
-Ekonomichna Pravda,Ukrainian media,2026,2,2,1
-icc-cpi.int,research,2026,2,1,1
-International Committee of the Red Cross,official sources,2026,2,1,1
-kyivcity.gov.ua,official sources,2026,2,2,1
-Men's Health,news,2026,2,1,2
-Nashi Groshi,research,2026,2,1,1
-news.liga.net,news,2026,2,2,2
-nypost.com,news,2026,2,2,2
-Organization for Security and Co-operation in Europe,official sources,2026,2,1,1
-poetryfoundation.org,research,2026,2,1,2
-Samtiden,news,2026,2,2,1
-Substack,social media,2026,2,2,2
-szru.gov.ua,official sources,2026,2,2,1
-The New Voice of Ukraine,Ukrainian media,2026,2,2,2
-The White House,official sources,2026,2,2,2
-thehill.com,news,2026,2,2,2
-thetimes.com,news,2026,2,1,1
-timesofindia.indiatimes.com,news,2026,2,1,1
-Ukrinform,Ukrainian media,2026,2,1,2
-UNESCO,official sources,2026,2,1,1
-united24media.com,news,2026,2,2,2
-US Congress,official sources,2026,2,2,1
-WorldCat,reference,2026,2,2,1
-Yahoo Finance,news,2026,2,2,1
-...,other / unclassified,2026,1,1,1
-ABC 33/40,news,2026,1,1,1
-abc.net.au,news,2026,1,1,1
-abcnews.com,news,2026,1,1,1
-ACLED,research,2026,1,1,1
-Ag Bull Trading,news,2026,1,1,1
-Alerts.in.ua,reference,2026,1,1,1
-Amazon,business / commercial,2026,1,1,1
-Antikvar,Ukrainian media,2026,1,1,1
-apostrophe.ua,news,2026,1,1,1
-archive.org,reference,2026,1,1,1
-argusmedia.com,news,2026,1,1,1
-army.mil,official sources,2026,1,1,1
-arXiv,research,2026,1,1,1
-Babel,Ukrainian media,2026,1,1,1
-bellingcat.com,research,2026,1,1,1
-Benzinga,news,2026,1,1,1
-BLUETTI,business / commercial,2026,1,1,1
-Bright Products,business / commercial,2026,1,1,1
-Brooklyn Eagle,news,2026,1,1,1
-Carnegie Endowment,research,2026,1,1,1
-Censor.NET,Ukrainian media,2026,1,1,1
-cfa.harvard.edu,research,2026,1,1,1
-claude.ai,other / unclassified,2026,1,1,1
-Columbia Journalism Review,research,2026,1,1,1
-conservancy.umn.edu,research,2026,1,1,1
-content.time.com,other / unclassified,2026,1,1,1
-dailyutahchronicle.com,news,2026,1,1,1
-deepstatemap.substack.com,other / unclassified,2026,1,1,1
-defence-blog.com,other / unclassified,2026,1,1,1
-Detachment A,reference,2026,1,1,1
-Die Zeit,news,2026,1,1,1
-digitalstate.gov.ua,official sources,2026,1,1,1
-dni.gov,official sources,2026,1,1,1
-Dodo Socks,business / commercial,2026,1,1,1
-dtek.com,other / unclassified,2026,1,1,1
-dw.com,news,2026,1,1,1
-e-skop.com,other / unclassified,2026,1,1,1
-eastfront.substack.com,other / unclassified,2026,1,1,1
-ebird.org,other / unclassified,2026,1,1,1
-Emptywheel,news,2026,1,1,1
-english.elpais.com,other / unclassified,2026,1,1,1
-epedagogia.com.br,other / unclassified,2026,1,1,1
-euobserver.com,news,2026,1,1,1
-euromaidanpress.com,news,2026,1,1,1
-euronews.com,news,2026,1,1,1
-feldsist.com,other / unclassified,2026,1,1,1
-file.lib.in.ua,other / unclassified,2026,1,1,1
-foreign.senate.gov,official sources,2026,1,1,1
-Frontelligence Insight (Substack),social media,2026,1,1,1
-GEM Wiki,reference,2026,1,1,1
-gist.github.com,other / unclassified,2026,1,1,1
-globalbankingandfinance.com,other / unclassified,2026,1,1,1
-Goodreads,reference,2026,1,1,1
-Google Books / Google,reference,2026,1,1,1
-greydynamics.com,other / unclassified,2026,1,1,1
-hrw.org,research,2026,1,1,1
-hydrocarbonprocessing.com,other / unclassified,2026,1,1,1
-ia600102.us.archive.org,other / unclassified,2026,1,1,1
-iea.org,other / unclassified,2026,1,1,1
-inquirer.com,news,2026,1,1,1
-Institute of Mass Information,research,2026,1,1,1
-isw.org,other / unclassified,2026,1,1,1
-isw.pub,other / unclassified,2026,1,1,1
-itv.com,other / unclassified,2026,1,1,1
-iwm.org.uk,other / unclassified,2026,1,1,1
-journals.uchicago.edu,research,2026,1,1,1
-jpost.com,news,2026,1,1,1
-justice.gov,official sources,2026,1,1,1
-khorne209.substack.com,other / unclassified,2026,1,1,1
-Kiel Institute for the World Economy,research,2026,1,1,1
-king.senate.gov,official sources,2026,1,1,1
-Knihi.com,reference,2026,1,1,1
-kp.nlu.org.ua,other / unclassified,2026,1,1,1
-kpbs.org,other / unclassified,2026,1,1,1
-ksat.com,other / unclassified,2026,1,1,1
-kyiv.tsn.ua,other / unclassified,2026,1,1,1
-kyivdispatch.substack.com,other / unclassified,2026,1,1,1
-kyivindependent.substack.com,other / unclassified,2026,1,1,1
-kyivregiontours.gov.ua,official sources,2026,1,1,1
-lettersfromukraine.substack.com,other / unclassified,2026,1,1,1
-lib.misto.kiev.ua,other / unclassified,2026,1,1,1
-librarything.com,other / unclassified,2026,1,1,1
-ligo.org,other / unclassified,2026,1,1,1
-Linktree,social media,2026,1,1,1
-live.euronext.com,other / unclassified,2026,1,1,1
-Magnum Photos,reference,2026,1,1,1
-maidan.org.ua,other / unclassified,2026,1,1,1
-mappr.co,other / unclassified,2026,1,1,1
-maps.app.goo.gl,other / unclassified,2026,1,1,1
-marketbeat.com,other / unclassified,2026,1,1,1
-martinkuz.substack.com,other / unclassified,2026,1,1,1
-mayoclinic.org,other / unclassified,2026,1,1,1
-media.defense.gov,official sources,2026,1,1,1
-militarytimes.com,news,2026,1,1,1
-Ministry of Foreign Affairs of Russia,official sources,2026,1,1,1
-minjust.gov.ua,official sources,2026,1,1,1
-mozdocs.kiev.ua,other / unclassified,2026,1,1,1
-MSN,news,2026,1,1,1
-nas.gov.ua,official sources,2026,1,1,1
-NATO,official sources,2026,1,1,1
-newrepublic.com,other / unclassified,2026,1,1,1
-news.hab.media,news,2026,1,1,1
-news.sky.com,news,2026,1,1,1
-news.telegraf.com.ua,news,2026,1,1,1
-notesfromkyiv.substack.com,other / unclassified,2026,1,1,1
-olympics.com,other / unclassified,2026,1,1,1
-oversight.gov,official sources,2026,1,1,1
-Oxford University Press Academic,research,2026,1,1,1
-pangram.com,other / unclassified,2026,1,1,1
-patreon.com,other / unclassified,2026,1,1,1
-plato.stanford.edu,research,2026,1,1,1
-play.google.com,other / unclassified,2026,1,1,1
-Project Gutenberg,reference,2026,1,1,1
-prom.ua,other / unclassified,2026,1,1,1
-propublica.org,news,2026,1,1,1
-puck.news,news,2026,1,1,1
-puncher.kiev.ua,other / unclassified,2026,1,1,1
-Radio Svoboda,Ukrainian media,2026,1,1,1
-rainews.it,news,2026,1,1,1
-rbc.ru,other / unclassified,2026,1,1,1
-Reuters Connect,news,2026,1,1,1
-Royal United Services Institute,research,2026,1,1,1
-ruccs.rutgers.edu,research,2026,1,1,1
-rumble.com,social media,2026,1,1,1
-runbase.kiev.ua,other / unclassified,2026,1,1,1
-Ruslan Lobanov,personal archive,2026,1,1,1
-russianwarreport.substack.com,news,2026,1,1,1
-sec.gov,official sources,2026,1,1,1
-Semafor,news,2026,1,1,1
-shephardmedia.com,news,2026,1,1,1
-SideStack,reference,2026,1,1,1
-specialkhersoncat.substack.com,other / unclassified,2026,1,1,1
-spglobal.com,other / unclassified,2026,1,1,1
-Stefan Korshak (Substack),social media,2026,1,1,1
-stockanalysis.com,other / unclassified,2026,1,1,1
-strava.com,other / unclassified,2026,1,1,1
-Sud.ua,Ukrainian media,2026,1,1,1
-Texty.org.ua,Ukrainian media,2026,1,1,1
-The Insider,news,2026,1,1,1
-The Onion,news,2026,1,1,1
-The Telegraph,news,2026,1,1,1
-theedgemalaysia.com,other / unclassified,2026,1,1,1
-theglobeandmail.com,other / unclassified,2026,1,1,1
-thestar.com.my,other / unclassified,2026,1,1,1
-theyoungones.fandom.com,other / unclassified,2026,1,1,1
-TikTok,social media,2026,1,1,1
-timesofisrael.com,news,2026,1,1,1
-tribune.com.pk,news,2026,1,1,1
-tripadvisor.com,other / unclassified,2026,1,1,1
-trump-archive.com,other / unclassified,2026,1,1,1
-ua.usembassy.gov,official sources,2026,1,1,1
-ukrainematters.substack.com,other / unclassified,2026,1,1,1
-ukrainetoday.org,other / unclassified,2026,1,1,1
-ukrainewarnotes.substack.com,other / unclassified,2026,1,1,1
-ukrainewatch.substack.com,other / unclassified,2026,1,1,1
-ukrayinska-pravda.com,other / unclassified,2026,1,1,1
-ukroboronprom.com.ua,other / unclassified,2026,1,1,1
-underfire.news,news,2026,1,1,1
-unian.ua,other / unclassified,2026,1,1,1
-universitytimes.ie,news,2026,1,1,1
-us.icebreaker.com,other / unclassified,2026,1,1,1
-uscode.house.gov,official sources,2026,1,1,1
-users.drew.edu,research,2026,1,1,1
-vaticannews.va,news,2026,1,1,1
-vladimirbpastukhov.substack.com,other / unclassified,2026,1,1,1
-vodokanal.kyiv.ua,other / unclassified,2026,1,1,1
-wapo.com,other / unclassified,2026,1,1,1
-wartranslated.substack.com,other / unclassified,2026,1,1,1
-webportal.nrada.gov.ua,official sources,2026,1,1,1
-Wikipedia (Russian),reference,2026,1,1,1
-Wikipedia (Ukrainian),reference,2026,1,1,1
-World Economic Forum,research,2026,1,1,1
-yle.fi,other / unclassified,2026,1,1,1
-yoursukrainian.substack.com,other / unclassified,2026,1,1,1
+"normalized_publisher","category","year","link_occurrences","unique_urls","unique_posts"
+"ukraine@war (Substack)","personal archive","2023","226","165","123"
+"The New York Times","news","2023","103","58","52"
+"The Washington Post","news","2023","92","47","49"
+"Wikipedia","reference","2023","87","83","56"
+"YouTube","social media","2023","47","46","31"
+"X / Twitter","social media","2023","45","45","30"
+"Telegram","social media","2023","26","26","24"
+"Reuters","news","2023","24","19","16"
+"The Atlantic","news","2023","24","15","14"
+"Kyiv Post","Ukrainian media","2023","23","17","13"
+"Financial Times","news","2023","18","8","9"
+"Institute for the Study of War","research","2023","14","9","5"
+"CNN","news","2023","13","11","11"
+"Facebook","social media","2023","12","12","9"
+"Instagram","social media","2023","12","10","11"
+"The New Yorker","news","2023","11","6","4"
+"POLITICO Europe","news","2023","10","7","7"
+"The Guardian","news","2023","10","9","9"
+"Tootsie Club","business / commercial","2023","10","2","9"
+"Interfax-Ukraine","Ukrainian media","2023","9","6","7"
+"Internet Archive","reference","2023","9","9","6"
+"Substack","social media","2023","9","8","7"
+"The Wall Street Journal","news","2023","9","8","6"
+"Wikipedia (Russian)","reference","2023","9","9","7"
+"abdymok (legacy Google Sites)","personal archive","2023","8","7","7"
+"Censor.NET","Ukrainian media","2023","8","8","6"
+"Google","reference","2023","8","8","8"
+"POLITICO","news","2023","7","5","5"
+"Google Books","reference","2023","6","6","6"
+"The Economist","news","2023","6","4","5"
+"The Kyiv Independent","Ukrainian media","2023","6","6","6"
+"Ukraine Economic Outlook","research","2023","6","4","5"
+"Associated Press","news","2023","5","5","3"
+"Bitly","social media","2023","5","5","5"
+"C-SPAN","news","2023","5","5","5"
+"Encyclopædia Britannica","reference","2023","5","5","3"
+"Newsweek","news","2023","5","4","2"
+"Stefan Korshak (Substack)","social media","2023","5","5","3"
+"Ukrainska Pravda","Ukrainian media","2023","5","4","4"
+"Bloomberg","news","2023","4","3","3"
+"Bruce Mau Studio","personal / creative","2023","4","1","2"
+"Foreign Affairs","news","2023","4","3","2"
+"International Criminal Court","official sources","2023","4","4","3"
+"London Review of Books","news","2023","4","2","2"
+"Mirror Media","news","2023","4","2","4"
+"Office of the President of Ukraine","official sources","2023","4","4","4"
+"ZN.ua","Ukrainian media","2023","4","4","3"
+"abdymok (Blogspot)","personal archive","2023","3","3","3"
+"abdymok (Medium)","personal archive","2023","3","3","3"
+"Die Welt","news","2023","3","2","1"
+"Die Zeit","news","2023","3","3","1"
+"Genocide Watch","research","2023","3","2","2"
+"Google Photos","personal archive","2023","3","3","3"
+"iStories","news","2023","3","1","1"
+"Krytyka","Ukrainian media","2023","3","3","1"
+"Ministry of Defence of Ukraine","official sources","2023","3","3","2"
+"The Irish Times","news","2023","3","2","1"
+"The Seattle Times","news","2023","3","1","1"
+"TIME","news","2023","3","1","3"
+"U.S. News & World Report","news","2023","3","2","2"
+"Urban Dictionary","reference","2023","3","3","1"
+"USAID Office of Inspector General","official sources","2023","3","3","1"
+"Wikipedia (Ukrainian)","reference","2023","3","3","3"
+"BBC","news","2023","2","1","1"
+"BelTA","state media","2023","2","2","2"
+"Carnegie Endowment","research","2023","2","1","1"
+"Kremlin / President of Russia","official sources","2023","2","2","2"
+"MacTutor History of Mathematics Archive","research","2023","2","2","1"
+"Matt Taibbi (Substack)","social media","2023","2","2","1"
+"Middle East Institute","research","2023","2","2","1"
+"National Anti-Corruption Bureau of Ukraine (NABU)","official sources","2023","2","2","1"
+"OHCHR","official sources","2023","2","2","2"
+"Radio Svoboda","Ukrainian media","2023","2","2","2"
+"Rolling Stone","news","2023","2","1","1"
+"Swedish Defence Research Agency","research","2023","2","2","1"
+"The White House","official sources","2023","2","1","2"
+"TikTok","social media","2023","2","2","2"
+"Ukraine Recovery Conference","official sources","2023","2","1","2"
+"UN News","official sources","2023","2","1","1"
+"Veranda on the River","business / commercial","2023","2","2","1"
+"Wikipedia (German)","reference","2023","2","2","1"
+"@nytimes","news","2023","1","1","1"
+"161.ru","news","2023","1","1","1"
+"ABC News","news","2023","1","1","1"
+"ABC News Australia","news","2023","1","1","1"
+"Amazon","business / commercial","2023","1","1","1"
+"American Rifleman","news","2023","1","1","1"
+"AP Images","reference","2023","1","1","1"
+"Apple Podcasts","social media","2023","1","1","1"
+"ATN Corporation","business / commercial","2023","1","1","1"
+"Axios","news","2023","1","1","1"
+"AZQuotes","reference","2023","1","1","1"
+"Babel","Ukrainian media","2023","1","1","1"
+"BBG Watch","news","2023","1","1","1"
+"BFMTV","news","2023","1","1","1"
+"Bild","news","2023","1","1","1"
+"Book-Online","reference","2023","1","1","1"
+"Boursier.com","news","2023","1","1","1"
+"Brave1","official sources","2023","1","1","1"
+"brucemaudesign.com","other / unclassified","2023","1","1","1"
+"Business Insider","news","2023","1","1","1"
+"BYJU'S","business / commercial","2023","1","1","1"
+"CapX","news","2023","1","1","1"
+"Center for European Policy Analysis (CEPA)","research","2023","1","1","1"
+"Center for the Study of Economics","research","2023","1","1","1"
+"charlierose.com","other / unclassified","2023","1","1","1"
+"Chesno Movement","research","2023","1","1","1"
+"citizenlab.ca","research","2023","1","1","1"
+"ClickOnDetroit","news","2023","1","1","1"
+"clips-mp4-aka.warnermediacdn.com","news","2023","1","1","1"
+"Coffee or Die Magazine","news","2023","1","1","1"
+"COROS","business / commercial","2023","1","1","1"
+"Council of the European Union","official sources","2023","1","1","1"
+"Council on Foreign Relations","research","2023","1","1","1"
+"creativestates.net","other / unclassified","2023","1","1","1"
+"Crimea.Realities","Ukrainian media","2023","1","1","1"
+"DeepStateMap","research","2023","1","1","1"
+"Defense Intelligence Agency","official sources","2023","1","1","1"
+"Defense One","news","2023","1","1","1"
+"Der Spiegel","news","2023","1","1","1"
+"Derek Hudson","personal / creative","2023","1","1","1"
+"Detachment A","reference","2023","1","1","1"
+"Diane Francis (Substack)","personal archive","2023","1","1","1"
+"dictionary.cambridge.org","reference","2023","1","1","1"
+"dig-bremen.de","other / unclassified","2023","1","1","1"
+"dlcl.stanford.edu","research","2023","1","1","1"
+"dodig.mil","official sources","2023","1","1","1"
+"drugs.com","other / unclassified","2023","1","1","1"
+"Economic Menu","business / commercial","2023","1","1","1"
+"Ed Barn","personal / creative","2023","1","1","1"
+"encyclopedia.com","other / unclassified","2023","1","1","1"
+"Euromaidan Press","Ukrainian media","2023","1","1","1"
+"European Pravda","Ukrainian media","2023","1","1","1"
+"Eurozine","news","2023","1","1","1"
+"Fenix Restaurant","business / commercial","2023","1","1","1"
+"Foreign Policy","news","2023","1","1","1"
+"Garry Kasparov","personal / creative","2023","1","1","1"
+"Gazeta.ua","Ukrainian media","2023","1","1","1"
+"glavred.net","other / unclassified","2023","1","1","1"
+"groups.csail.mit.edu","research","2023","1","1","1"
+"Hello Poetry","social media","2023","1","1","1"
+"Historic UK","reference","2023","1","1","1"
+"HolyBooks","reference","2023","1","1","1"
+"Hurst Publishers","business / commercial","2023","1","1","1"
+"independent.co.uk","news","2023","1","1","1"
+"Institute for Human Sciences (IWM)","research","2023","1","1","1"
+"International Committee of the Red Cross","official sources","2023","1","1","1"
+"itd.rada.gov.ua","official sources","2023","1","1","1"
+"James Rushton (Substack)","personal archive","2023","1","1","1"
+"Jamie Dettmer","social media","2023","1","1","1"
+"jjq.utulsa.edu","research","2023","1","1","1"
+"John Mearsheimer (Substack)","personal archive","2023","1","1","1"
+"Johns Hopkins Medicine","official sources","2023","1","1","1"
+"judiciary.house.gov","official sources","2023","1","1","1"
+"Kalinouski Regiment","official sources","2023","1","1","1"
+"Keith Gessen","social media","2023","1","1","1"
+"Kharkiv Human Rights Protection Group","research","2023","1","1","1"
+"Kiepenheuer & Witsch","business / commercial","2023","1","1","1"
+"kuna.family","other / unclassified","2023","1","1","1"
+"Kyiv School of Economics","research","2023","1","1","1"
+"kyivmarathon.org","other / unclassified","2023","1","1","1"
+"kyivstar.ua","other / unclassified","2023","1","1","1"
+"La Nación","news","2023","1","1","1"
+"Landiou's Travel","personal / creative","2023","1","1","1"
+"Lawfare","research","2023","1","1","1"
+"leadershipinstitute.org","research","2023","1","1","1"
+"leilia-bakery.choiceqr.com","other / unclassified","2023","1","1","1"
+"Libertarianism.org","research","2023","1","1","1"
+"libertymedia.com","news","2023","1","1","1"
+"Linktree","social media","2023","1","1","1"
+"lyricstranslate.com","other / unclassified","2023","1","1","1"
+"Magnum Photos","reference","2023","1","1","1"
+"mediadirectory.economist.com","news","2023","1","1","1"
+"medicalnewstoday.com","news","2023","1","1","1"
+"megamarket.ua","other / unclassified","2023","1","1","1"
+"mikeandkellyjohnson.com","other / unclassified","2023","1","1","1"
+"mindat.org","other / unclassified","2023","1","1","1"
+"Ministry of Foreign Affairs of China","official sources","2023","1","1","1"
+"Mint","news","2023","1","1","1"
+"moz.gov.ua","official sources","2023","1","1","1"
+"MSD","business / commercial","2023","1","1","1"
+"Nash Kyiv","Ukrainian media","2023","1","1","1"
+"Nasha Niva","news","2023","1","1","1"
+"nashformat.ua","other / unclassified","2023","1","1","1"
+"Nashi Groshi","Ukrainian media","2023","1","1","1"
+"Nature Nibble","personal / creative","2023","1","1","1"
+"NBC News","news","2023","1","1","1"
+"newspapers.com","news","2023","1","1","1"
+"Nizkor Project","reference","2023","1","1","1"
+"Novaya Gazeta Europe","news","2023","1","1","1"
+"nsarchive.gwu.edu","research","2023","1","1","1"
+"nsarchive2.gwu.edu","research","2023","1","1","1"
+"Office of the Director of National Intelligence","official sources","2023","1","1","1"
+"OG Burger","business / commercial","2023","1","1","1"
+"Online Library of Liberty","reference","2023","1","1","1"
+"parleypolicy.com","research","2023","1","1","1"
+"parliament.uk","other / unclassified","2023","1","1","1"
+"Philip Jones Griffiths Foundation","reference","2023","1","1","1"
+"Phillips O’Brien (Substack)","social media","2023","1","1","1"
+"PlantUML","reference","2023","1","1","1"
+"Polit.ru","news","2023","1","1","1"
+"Puck","news","2023","1","1","1"
+"Radio Free Europe / Radio Liberty","news","2023","1","1","1"
+"RBC-Ukraine","Ukrainian media","2023","1","1","1"
+"reliefweb.int","research","2023","1","1","1"
+"Riot Division","business / commercial","2023","1","1","1"
+"Ripley's Heroes","official sources","2023","1","1","1"
+"rnbo.gov.ua","official sources","2023","1","1","1"
+"Robert Bosch Academy","official sources","2023","1","1","1"
+"Rory Finnin","personal / creative","2023","1","1","1"
+"Royal United Services Institute","research","2023","1","1","1"
+"rubryka.com","other / unclassified","2023","1","1","1"
+"Runner’s World","news","2023","1","1","1"
+"Sam F. (Substack)","personal archive","2023","1","1","1"
+"Sarah Ashton-Cirillo (Substack)","personal archive","2023","1","1","1"
+"sciplus.com","other / unclassified","2023","1","1","1"
+"Scottish Poetry Library","reference","2023","1","1","1"
+"Secrets Machine","personal / creative","2023","1","1","1"
+"Seymour Hersh (Substack)","social media","2023","1","1","1"
+"SlangDefine","reference","2023","1","1","1"
+"sluga-narodu.com","other / unclassified","2023","1","1","1"
+"Socialist Modernism","reference","2023","1","1","1"
+"soundcloud.com","social media","2023","1","1","1"
+"Spivoche","business / commercial","2023","1","1","1"
+"stateoig.gov","official sources","2023","1","1","1"
+"Statistics How To","reference","2023","1","1","1"
+"straitstimes.com","news","2023","1","1","1"
+"Strength at Home","research","2023","1","1","1"
+"Sud.ua","Ukrainian media","2023","1","1","1"
+"Suspilne","Ukrainian media","2023","1","1","1"
+"Tabletochki","social media","2023","1","1","1"
+"Techiia Foundation","official sources","2023","1","1","1"
+"The Cipher Brief","news","2023","1","1","1"
+"The Conversation","news","2023","1","1","1"
+"The Daily Beast","news","2023","1","1","1"
+"The Hill","news","2023","1","1","1"
+"The Lancet","research","2023","1","1","1"
+"The Literature Page","reference","2023","1","1","1"
+"The Mozart Group","business / commercial","2023","1","1","1"
+"The New European","news","2023","1","1","1"
+"The Poetry Hour","personal / creative","2023","1","1","1"
+"The Soho Agency","business / commercial","2023","1","1","1"
+"thedigital.gov.ua","official sources","2023","1","1","1"
+"Thread Reader App","social media","2023","1","1","1"
+"ti-ukraine.org","other / unclassified","2023","1","1","1"
+"timemagazine.com","news","2023","1","1","1"
+"Timothy Snyder (Substack)","social media","2023","1","1","1"
+"Topographic Map","reference","2023","1","1","1"
+"Truth Hounds","research","2023","1","1","1"
+"UK Parliament Committees","official sources","2023","1","1","1"
+"ukrainewartruth.substack.com","other / unclassified","2023","1","1","1"
+"Ukrainska Pravda Forum","social media","2023","1","1","1"
+"United States Holocaust Memorial Museum","official sources","2023","1","1","1"
+"UNITED24","official sources","2023","1","1","1"
+"upload.wikimedia.org","news","2023","1","1","1"
+"US Congress","official sources","2023","1","1","1"
+"US Department of Defense","official sources","2023","1","1","1"
+"US Department of State","official sources","2023","1","1","1"
+"Vatican News","news","2023","1","1","1"
+"Velmart","business / commercial","2023","1","1","1"
+"VÉRITÉ","personal / creative","2023","1","1","1"
+"Viasna Human Rights Centre","research","2023","1","1","1"
+"VICE","news","2023","1","1","1"
+"vLex","reference","2023","1","1","1"
+"warpp.info","other / unclassified","2023","1","1","1"
+"weekendreading.net","other / unclassified","2023","1","1","1"
+"Wikipedia (Polish)","reference","2023","1","1","1"
+"Work/Craft/Life","personal / creative","2023","1","1","1"
+"World Health Organization","official sources","2023","1","1","1"
+"World Politics Review","news","2023","1","1","1"
+"ZDF","news","2023","1","1","1"
+"ukraine@war (Substack)","personal archive","2024","158","127","120"
+"The New York Times","news","2024","147","73","75"
+"The Washington Post","news","2024","110","40","45"
+"Wikipedia","reference","2024","80","76","65"
+"Telegram","social media","2024","68","66","56"
+"YouTube","social media","2024","62","58","45"
+"X / Twitter","social media","2024","50","49","40"
+"Financial Times","news","2024","47","22","20"
+"Reuters","news","2024","41","37","33"
+"The Atlantic","news","2024","38","18","16"
+"The Guardian","news","2024","33","20","17"
+"Google","reference","2024","32","32","30"
+"Ukrainska Pravda","Ukrainian media","2024","30","23","21"
+"CNN","news","2024","28","23","24"
+"The Wall Street Journal","news","2024","27","12","10"
+"Instagram","social media","2024","24","21","21"
+"The Economist","news","2024","23","12","11"
+"Bloomberg","news","2024","22","15","14"
+"Facebook","social media","2024","22","22","21"
+"Interfax-Ukraine","Ukrainian media","2024","22","21","18"
+"Associated Press","news","2024","20","15","15"
+"POLITICO Europe","news","2024","17","12","11"
+"DeepStateMap","research","2024","16","14","14"
+"TIME","news","2024","12","7","7"
+"Censor.NET","Ukrainian media","2024","11","11","11"
+"Foreign Affairs","news","2024","11","6","5"
+"Office of the President of Ukraine","official sources","2024","11","11","8"
+"POLITICO","news","2024","11","8","8"
+"ZN.ua","Ukrainian media","2024","11","8","6"
+"Fox News","news","2024","10","7","6"
+"Institute for the Study of War","research","2024","10","7","7"
+"Just Security","research","2024","8","5","2"
+"Kyiv Post","Ukrainian media","2024","8","7","3"
+"Ukrinform","Ukrainian media","2024","8","6","6"
+"BBC","news","2024","7","7","7"
+"Google Books","reference","2024","7","7","7"
+"The New Voice of Ukraine","Ukrainian media","2024","7","7","6"
+"Tootsie Club","business / commercial","2024","7","2","7"
+"Ukraine Economic Outlook","research","2024","7","5","6"
+"America First Policy Institute","research","2024","6","3","2"
+"Rev","reference","2024","6","6","1"
+"The New York Post","news","2024","6","4","2"
+"Wikipedia (Russian)","reference","2024","6","5","5"
+"Wikipedia (Ukrainian)","reference","2024","6","6","5"
+"ABC News","news","2024","5","4","3"
+"Internet Archive","reference","2024","5","5","4"
+"NATO","official sources","2024","5","4","4"
+"The Hill","news","2024","5","4","3"
+"The New Yorker","news","2024","5","4","3"
+"Amazon","business / commercial","2024","4","4","4"
+"Defense Express","Ukrainian media","2024","4","4","3"
+"Der Spiegel","news","2024","4","2","2"
+"Frankfurter Allgemeine Zeitung","news","2024","4","2","2"
+"Los Angeles Times","news","2024","4","2","1"
+"Meduza","news","2024","4","3","2"
+"Newsweek","news","2024","4","4","4"
+"RBC-Ukraine","Ukrainian media","2024","4","4","3"
+"Ruslan Lobanov","personal archive","2024","4","4","3"
+"Stefan Korshak (Substack)","social media","2024","4","4","4"
+"The Times","news","2024","4","3","1"
+"ABC News Australia","news","2024","3","3","3"
+"Axios","news","2024","3","2","1"
+"C-SPAN","news","2024","3","3","3"
+"DTEK","official sources","2024","3","2","3"
+"Ekonomichna Pravda","Ukrainian media","2024","3","2","2"
+"Foreign Policy","news","2024","3","3","2"
+"Kyiv International Institute of Sociology","research","2024","3","3","3"
+"Le Monde","news","2024","3","2","2"
+"Men's Health","news","2024","3","2","1"
+"MSN","news","2024","3","3","3"
+"Munich Security Conference","research","2024","3","1","3"
+"NBC News","news","2024","3","3","3"
+"PBS","news","2024","3","2","1"
+"Perplexity","reference","2024","3","3","3"
+"Royal United Services Institute","research","2024","3","3","3"
+"Semafor","news","2024","3","2","1"
+"Sky News","news","2024","3","3","2"
+"Substack","social media","2024","3","3","3"
+"Suspilne","Ukrainian media","2024","3","3","3"
+"The Cipher Brief","news","2024","3","3","2"
+"The Kyiv Independent","Ukrainian media","2024","3","3","3"
+"The Spectator","news","2024","3","2","1"
+"Tom Cooper (Substack)","social media","2024","3","2","3"
+"Ukraine Recovery Conference","official sources","2024","3","1","3"
+"Yahoo News","news","2024","3","3","3"
+"Babel","Ukrainian media","2024","2","2","2"
+"Bellingcat","research","2024","2","2","1"
+"Bird in Flight","Ukrainian media","2024","2","2","1"
+"BuzzFeed News","news","2024","2","2","2"
+"CNBC","news","2024","2","2","2"
+"Comments.ua","Ukrainian media","2024","2","2","1"
+"Council on Foreign Relations","research","2024","2","2","2"
+"Defense One","news","2024","2","2","1"
+"Euractiv","news","2024","2","2","2"
+"Euromaidan Press","Ukrainian media","2024","2","2","1"
+"European Commission","official sources","2024","2","1","1"
+"GlobeNewswire","business / commercial","2024","2","2","1"
+"History of Economic Thought Website","reference","2024","2","1","2"
+"Institute for Strategic Dialogue","research","2024","2","2","1"
+"Literary Hub","news","2024","2","2","1"
+"Living the War","news","2024","2","1","2"
+"Navy Recognition","news","2024","2","1","1"
+"Novaya Gazeta","news","2024","2","2","1"
+"NPR","news","2024","2","2","2"
+"Phillips O’Brien (Substack)","social media","2024","2","2","2"
+"Poetry Foundation","research","2024","2","2","2"
+"Radio Free Europe / Radio Liberty","news","2024","2","2","2"
+"Syrian Network for Human Rights","research","2024","2","2","1"
+"Texty.org.ua","Ukrainian media","2024","2","2","2"
+"The Black Sea Whale","news","2024","2","2","2"
+"The Daily Beast","news","2024","2","2","1"
+"The Philadelphia Inquirer","news","2024","2","2","1"
+"The San Francisco Standard","news","2024","2","1","1"
+"The White House","official sources","2024","2","2","2"
+"TinyURL","social media","2024","2","2","2"
+"TSN","Ukrainian media","2024","2","2","2"
+"Ukraine.ua","official sources","2024","2","2","2"
+"Ukranews","Ukrainian media","2024","2","1","1"
+"UNITED24","official sources","2024","2","1","2"
+"US Department of Defense","official sources","2024","2","2","2"
+"23degrees","reference","2024","1","1","1"
+"44.ua","Ukrainian media","2024","1","1","1"
+"5 Kanal","Ukrainian media","2024","1","1","1"
+"abdymok (legacy Google Sites)","personal archive","2024","1","1","1"
+"AD Sport","business / commercial","2024","1","1","1"
+"After Ilovaisk","research","2024","1","1","1"
+"Al Jazeera","news","2024","1","1","1"
+"All Poetry","social media","2024","1","1","1"
+"American Academy of Achievement","official sources","2024","1","1","1"
+"Americas Society / Council of the Americas","research","2024","1","1","1"
+"AP Images","reference","2024","1","1","1"
+"Apple App Store","business / commercial","2024","1","1","1"
+"Ars Technica","news","2024","1","1","1"
+"ASPI","Ukrainian media","2024","1","1","1"
+"Atlantic Council","research","2024","1","1","1"
+"Atlas Obscura","news","2024","1","1","1"
+"Behance","social media","2024","1","1","1"
+"Berliner Woche","news","2024","1","1","1"
+"Berliner Zeitung","news","2024","1","1","1"
+"BFMTV","news","2024","1","1","1"
+"Bihus.Info","Ukrainian media","2024","1","1","1"
+"Bruce Mau Studio","personal / creative","2024","1","1","1"
+"bumble.com","other / unclassified","2024","1","1","1"
+"buonaideabooks.com","other / unclassified","2024","1","1","1"
+"Business Insider","news","2024","1","1","1"
+"buy-build.com","other / unclassified","2024","1","1","1"
+"Cabinet of Ministers of Ukraine","official sources","2024","1","1","1"
+"cadc.uscourts.gov","official sources","2024","1","1","1"
+"calculat.io","other / unclassified","2024","1","1","1"
+"cannondale.com.ua","other / unclassified","2024","1","1","1"
+"Carnegie Endowment","research","2024","1","1","1"
+"cato-unbound.org","other / unclassified","2024","1","1","1"
+"CBS News","news","2024","1","1","1"
+"cbs19news.com","news","2024","1","1","1"
+"ccu.gov.ua","official sources","2024","1","1","1"
+"cdn.jwplayer.com","other / unclassified","2024","1","1","1"
+"cdn.prod.website-files.com","other / unclassified","2024","1","1","1"
+"cdn.shopify.com","other / unclassified","2024","1","1","1"
+"Center for Strategic and International Studies","research","2024","1","1","1"
+"Chatham House","research","2024","1","1","1"
+"claremont.org","other / unclassified","2024","1","1","1"
+"columbianewsservice.com","news","2024","1","1","1"
+"consultant.net.ua","other / unclassified","2024","1","1","1"
+"currenttime.tv","other / unclassified","2024","1","1","1"
+"darksidedisplays.com","other / unclassified","2024","1","1","1"
+"daviscenter.fas.harvard.edu","research","2024","1","1","1"
+"defense.gouv.fr","other / unclassified","2024","1","1","1"
+"defensie.nl","other / unclassified","2024","1","1","1"
+"Detector Media","Ukrainian media","2024","1","1","1"
+"Deutsche Welle","news","2024","1","1","1"
+"documentcloud.org","other / unclassified","2024","1","1","1"
+"duhvoli.com","other / unclassified","2024","1","1","1"
+"earthsky.org","other / unclassified","2024","1","1","1"
+"ebay.com","other / unclassified","2024","1","1","1"
+"economictimes.indiatimes.com","news","2024","1","1","1"
+"efile.fara.gov","official sources","2024","1","1","1"
+"egypt.mfa.gov.ua","official sources","2024","1","1","1"
+"eloquentmadness.wordpress.com","news","2024","1","1","1"
+"en.lb.ua","other / unclassified","2024","1","1","1"
+"en.people.cn","other / unclassified","2024","1","1","1"
+"Encyclopædia Britannica","reference","2024","1","1","1"
+"encyclopediaofukraine.com","other / unclassified","2024","1","1","1"
+"Euronews","news","2024","1","1","1"
+"European Pravda","Ukrainian media","2024","1","1","1"
+"europeandme.eu","other / unclassified","2024","1","1","1"
+"euroradio.fm","other / unclassified","2024","1","1","1"
+"finance.ua","other / unclassified","2024","1","1","1"
+"Forbes Ukraine","Ukrainian media","2024","1","1","1"
+"France 24","news","2024","1","1","1"
+"fred.stlouisfed.org","other / unclassified","2024","1","1","1"
+"freedomforum.org","other / unclassified","2024","1","1","1"
+"Frontelligence Insight (Substack)","social media","2024","1","1","1"
+"frontpages.com","other / unclassified","2024","1","1","1"
+"g7italy.it","other / unclassified","2024","1","1","1"
+"Gazeta.ua","Ukrainian media","2024","1","1","1"
+"gc.gov.ua","official sources","2024","1","1","1"
+"GEM Wiki","reference","2024","1","1","1"
+"georgiatoday.ge","other / unclassified","2024","1","1","1"
+"gettyimages.com","other / unclassified","2024","1","1","1"
+"goodwine.ua","other / unclassified","2024","1","1","1"
+"Google Photos","personal archive","2024","1","1","1"
+"govexec.com","other / unclassified","2024","1","1","1"
+"gq.com","other / unclassified","2024","1","1","1"
+"gramota.ru","other / unclassified","2024","1","1","1"
+"guestreservations.com","other / unclassified","2024","1","1","1"
+"handelsblatt.com","other / unclassified","2024","1","1","1"
+"hercul.com.ua","other / unclassified","2024","1","1","1"
+"himes.house.gov","official sources","2024","1","1","1"
+"hindustantimes.com","news","2024","1","1","1"
+"holosameryky.com","other / unclassified","2024","1","1","1"
+"hrc.org","other / unclassified","2024","1","1","1"
+"index.hu","other / unclassified","2024","1","1","1"
+"infographics.economist.com","other / unclassified","2024","1","1","1"
+"Institute of Mass Information","research","2024","1","1","1"
+"International Committee of the Red Cross","official sources","2024","1","1","1"
+"iRunFar","news","2024","1","1","1"
+"Johns Hopkins Medicine","official sources","2024","1","1","1"
+"Kiel Institute for the World Economy","research","2024","1","1","1"
+"kommersant.ru","other / unclassified","2024","1","1","1"
+"korrespondent.net","other / unclassified","2024","1","1","1"
+"ktvb.com","other / unclassified","2024","1","1","1"
+"kurakhove","other / unclassified","2024","1","1","1"
+"lb.ua","Ukrainian media","2024","1","1","1"
+"leave-russia.org","other / unclassified","2024","1","1","1"
+"lgraham.senate.gov","official sources","2024","1","1","1"
+"link.springer.com","other / unclassified","2024","1","1","1"
+"London Review of Books","news","2024","1","1","1"
+"lrt.lt","other / unclassified","2024","1","1","1"
+"m.censor.net","other / unclassified","2024","1","1","1"
+"Markus (social profile)","social media","2024","1","1","1"
+"mfa.gov.cn","other / unclassified","2024","1","1","1"
+"miamiherald.com","news","2024","1","1","1"
+"Militarnyi","Ukrainian media","2024","1","1","1"
+"Mindscape (Preposterous Universe)","research","2024","1","1","1"
+"mining.com","other / unclassified","2024","1","1","1"
+"mipl.org.ua","other / unclassified","2024","1","1","1"
+"Mirror Media","news","2024","1","1","1"
+"MSD","business / commercial","2024","1","1","1"
+"muse.jhu.edu","research","2024","1","1","1"
+"nationalinterest.org","other / unclassified","2024","1","1","1"
+"nationalreview.com","other / unclassified","2024","1","1","1"
+"nbg.kiev.ua","other / unclassified","2024","1","1","1"
+"networkworld.com","other / unclassified","2024","1","1","1"
+"news.finance.ua","news","2024","1","1","1"
+"news.satnews.com","news","2024","1","1","1"
+"news.yahoo.com","news","2024","1","1","1"
+"nih.gov","official sources","2024","1","1","1"
+"ninajankowicz.com","other / unclassified","2024","1","1","1"
+"novolipki.com","other / unclassified","2024","1","1","1"
+"novosti.dn.ua","other / unclassified","2024","1","1","1"
+"oann.com","other / unclassified","2024","1","1","1"
+"odni.gov","official sources","2024","1","1","1"
+"Office of the Director of National Intelligence","official sources","2024","1","1","1"
+"on.soundcloud.com","other / unclassified","2024","1","1","1"
+"online.ua","other / unclassified","2024","1","1","1"
+"opendatabot.ua","other / unclassified","2024","1","1","1"
+"opensecrets.org","other / unclassified","2024","1","1","1"
+"oxfordreference.com","other / unclassified","2024","1","1","1"
+"palantir.com","other / unclassified","2024","1","1","1"
+"paypal.com","other / unclassified","2024","1","1","1"
+"pewresearch.org","research","2024","1","1","1"
+"philsci-archive.pitt.edu","research","2024","1","1","1"
+"politco.eu","other / unclassified","2024","1","1","1"
+"political.tips","other / unclassified","2024","1","1","1"
+"politifact.com","other / unclassified","2024","1","1","1"
+"polskieradio.pl","other / unclassified","2024","1","1","1"
+"prisonlife.ru","other / unclassified","2024","1","1","1"
+"project2025.org","other / unclassified","2024","1","1","1"
+"Radio Svoboda","Ukrainian media","2024","1","1","1"
+"Rai News","news","2024","1","1","1"
+"re-russia.net","other / unclassified","2024","1","1","1"
+"realclearworld.com","other / unclassified","2024","1","1","1"
+"rg.ru","other / unclassified","2024","1","1","1"
+"rm.coe.int","other / unclassified","2024","1","1","1"
+"Rolling Stone","news","2024","1","1","1"
+"romania-insider.com","other / unclassified","2024","1","1","1"
+"rsf.org","other / unclassified","2024","1","1","1"
+"ru.interfax.com.ua","other / unclassified","2024","1","1","1"
+"Runner’s World","news","2024","1","1","1"
+"russian-casualties.in.ua","other / unclassified","2024","1","1","1"
+"rwnd.store","other / unclassified","2024","1","1","1"
+"s3.documentcloud.org","other / unclassified","2024","1","1","1"
+"sachacollisson.com","other / unclassified","2024","1","1","1"
+"scmp.com","other / unclassified","2024","1","1","1"
+"scribd.com","other / unclassified","2024","1","1","1"
+"search.google.com","other / unclassified","2024","1","1","1"
+"shafa.ua","other / unclassified","2024","1","1","1"
+"simonandschuster.com","other / unclassified","2024","1","1","1"
+"singjupost.com","news","2024","1","1","1"
+"skydio.com","other / unclassified","2024","1","1","1"
+"solar-center.stanford.edu","research","2024","1","1","1"
+"spravkainform.com.ua","other / unclassified","2024","1","1","1"
+"storymaps.arcgis.com","other / unclassified","2024","1","1","1"
+"Stripe","business / commercial","2024","1","1","1"
+"svaboda.org","other / unclassified","2024","1","1","1"
+"tankona.free.fr","other / unclassified","2024","1","1","1"
+"tebowing.com","other / unclassified","2024","1","1","1"
+"tf1info.fr","other / unclassified","2024","1","1","1"
+"The American Presidency Project","reference","2024","1","1","1"
+"The Insider","news","2024","1","1","1"
+"The Onion","news","2024","1","1","1"
+"The War Zone","news","2024","1","1","1"
+"Thread Reader App","social media","2024","1","1","1"
+"TikTok","social media","2024","1","1","1"
+"Timothy Snyder (Substack)","social media","2024","1","1","1"
+"totalprosports.com","other / unclassified","2024","1","1","1"
+"tsum.ua","other / unclassified","2024","1","1","1"
+"U.S. Department of Defense","official sources","2024","1","1","1"
+"U.S. Embassy in Ukraine","official sources","2024","1","1","1"
+"u24.media","news","2024","1","1","1"
+"US Department of State","official sources","2024","1","1","1"
+"us.macmillan.com","other / unclassified","2024","1","1","1"
+"USAID Office of Inspector General","official sources","2024","1","1","1"
+"va.gov","official sources","2024","1","1","1"
+"VÉRITÉ","personal / creative","2024","1","1","1"
+"visir.is","other / unclassified","2024","1","1","1"
+"voanews.com","news","2024","1","1","1"
+"warmapper.org","other / unclassified","2024","1","1","1"
+"webmd.com","other / unclassified","2024","1","1","1"
+"westplainsdailyquill.net","news","2024","1","1","1"
+"wikimapia.org","other / unclassified","2024","1","1","1"
+"World Economic Forum","research","2024","1","1","1"
+"www-svoboda-org.cdn.ampproject.org","other / unclassified","2024","1","1","1"
+"yakaboo.ua","other / unclassified","2024","1","1","1"
+"Yalta European Strategy","research","2024","1","1","1"
+"yellowstripsdeadarmadillos.org","other / unclassified","2024","1","1","1"
+"zeitung.faz.net","other / unclassified","2024","1","1","1"
+"zmina.ua","other / unclassified","2024","1","1","1"
+"zora.co","other / unclassified","2024","1","1","1"
+"zsu.gov.ua","official sources","2024","1","1","1"
+"ukraine@war (Substack)","personal archive","2025","108","88","74"
+"Wikipedia","reference","2025","95","88","50"
+"The New York Times","news","2025","89","53","52"
+"X / Twitter","social media","2025","74","65","38"
+"Telegram","social media","2025","58","56","43"
+"YouTube","social media","2025","55","51","36"
+"Reuters","news","2025","42","40","35"
+"Archive.ph","reference","2025","35","34","31"
+"The Atlantic","news","2025","32","10","17"
+"The Guardian","news","2025","32","26","22"
+"CNN","news","2025","22","19","17"
+"Financial Times","news","2025","21","5","14"
+"Google","reference","2025","18","18","17"
+"The Economist","news","2025","18","10","11"
+"Institute for the Study of War","research","2025","17","15","14"
+"The Wall Street Journal","news","2025","17","7","9"
+"POLITICO","news","2025","16","10","10"
+"Associated Press","news","2025","15","12","11"
+"Facebook","social media","2025","15","12","12"
+"POLITICO Europe","news","2025","15","11","10"
+"BBC","news","2025","13","12","10"
+"Roll Call","news","2025","13","11","6"
+"The Washington Post","news","2025","13","9","8"
+"Fox News","news","2025","11","8","10"
+"Instagram","social media","2025","10","10","6"
+"Ukrainska Pravda","Ukrainian media","2025","9","8","7"
+"Censor.NET","Ukrainian media","2025","8","7","6"
+"Internet Archive","reference","2025","7","7","3"
+"Office of the President of Ukraine","official sources","2025","7","7","7"
+"Project Syndicate","news","2025","7","5","3"
+"Truth Social","social media","2025","7","7","4"
+"Axios","news","2025","6","6","5"
+"Emptywheel","news","2025","6","2","5"
+"Foreign Affairs","news","2025","6","3","3"
+"RBC-Ukraine","Ukrainian media","2025","6","6","5"
+"The Kyiv Independent","Ukrainian media","2025","6","5","4"
+"The White House","official sources","2025","6","4","6"
+"Bloomberg","news","2025","5","5","5"
+"DeepStateMap","research","2025","5","5","5"
+"Kremlin / President of Russia","official sources","2025","5","4","5"
+"Le Monde","news","2025","5","4","3"
+"Office of the Director of National Intelligence","official sources","2025","5","3","3"
+"POTUS Tracker","reference","2025","5","4","5"
+"The New Voice of Ukraine","Ukrainian media","2025","5","5","5"
+"The New York Post","news","2025","5","4","3"
+"Wikipedia (Ukrainian)","reference","2025","5","5","5"
+"ABC News","news","2025","4","4","3"
+"CBS News","news","2025","4","3","3"
+"Euromaidan Press","Ukrainian media","2025","4","3","2"
+"European Pravda","Ukrainian media","2025","4","3","3"
+"NBC News","news","2025","4","4","3"
+"Perplexity","reference","2025","4","4","3"
+"Radio Free Europe / Radio Liberty","news","2025","4","4","3"
+"Sky News","news","2025","4","4","3"
+"Stanford Encyclopedia of Philosophy","research","2025","4","2","4"
+"Substack","social media","2025","4","4","4"
+"The Telegraph","news","2025","4","4","4"
+"Tootsie Club","business / commercial","2025","4","2","4"
+"US Department of State","official sources","2025","4","4","4"
+"Viasna Human Rights Centre","research","2025","4","3","4"
+"Wikipedia (Russian)","reference","2025","4","4","4"
+"Anne Applebaum","personal archive","2025","3","2","2"
+"BBC Sky at Night Magazine","news","2025","3","1","1"
+"Detroit Free Press","news","2025","3","3","1"
+"Digi24","news","2025","3","2","2"
+"Forbes","news","2025","3","3","2"
+"France 24","news","2025","3","3","3"
+"Harriman Institute","research","2025","3","3","1"
+"Interfax-Ukraine","Ukrainian media","2025","3","3","3"
+"KonMari","business / commercial","2025","3","3","3"
+"Mindscape (Preposterous Universe)","research","2025","3","3","2"
+"MSN","news","2025","3","2","2"
+"Prospect Magazine","news","2025","3","2","1"
+"The Times","news","2025","3","2","2"
+"The War Zone","news","2025","3","2","1"
+"UN Human Rights Monitoring Mission in Ukraine","official sources","2025","3","3","3"
+"Yahoo News","news","2025","3","3","3"
+"ZN.ua","Ukrainian media","2025","3","3","3"
+"abdymok (Tumblr)","personal archive","2025","2","1","2"
+"Apple Podcasts","social media","2025","2","2","2"
+"Archive.fo","reference","2025","2","2","2"
+"Atlantic Council","research","2025","2","2","1"
+"Auchan","business / commercial","2025","2","2","1"
+"Babel","Ukrainian media","2025","2","1","1"
+"C-SPAN","news","2025","2","2","2"
+"Cabinet of Ministers of Ukraine","official sources","2025","2","2","2"
+"Centre for Defence Strategies","research","2025","2","2","2"
+"Deutsche Welle","news","2025","2","2","2"
+"EU Neighbours East","official sources","2025","2","2","1"
+"Google Books","reference","2025","2","2","2"
+"iRunFar","news","2025","2","2","2"
+"Kiel Institute for the World Economy","research","2025","2","2","1"
+"Kyiv Post","Ukrainian media","2025","2","2","2"
+"Media Matters for America","research","2025","2","2","2"
+"Ministry of Defence of Ukraine","official sources","2025","2","2","2"
+"Ministry of Foreign Affairs of Russia","official sources","2025","2","2","2"
+"Molycorp","business / commercial","2025","2","1","1"
+"MSD","business / commercial","2025","2","2","2"
+"Munich Security Conference","research","2025","2","2","2"
+"National Anti-Corruption Bureau of Ukraine (NABU)","official sources","2025","2","1","2"
+"NewsNation","news","2025","2","2","2"
+"PBS","news","2025","2","2","2"
+"Rev","reference","2025","2","2","2"
+"Rolling Stone","news","2025","2","2","1"
+"RT","news","2025","2","2","2"
+"Süddeutsche Zeitung","news","2025","2","2","2"
+"The Journal","news","2025","2","2","1"
+"The New Yorker","news","2025","2","2","1"
+"The Ukrainian Week","Ukrainian media","2025","2","1","2"
+"TikTok","social media","2025","2","1","2"
+"TIME","news","2025","2","2","2"
+"Tom Cooper (Substack)","social media","2025","2","2","2"
+"TV Zvezda","news","2025","2","2","1"
+"U.S. Army","official sources","2025","2","2","2"
+"Ukrinform","Ukrainian media","2025","2","2","2"
+"Vogue Ukraine","Ukrainian media","2025","2","2","1"
+"Western States Endurance Run","official sources","2025","2","1","2"
+"Wikipedia (German)","reference","2025","2","2","2"
+"Yalta European Strategy","research","2025","2","2","2"
+"12th Special Forces Brigade Azov","official sources","2025","1","1","1"
+"425th Separate Assault Regiment Skala","official sources","2025","1","1","1"
+"abdymok (legacy Google Sites)","personal archive","2025","1","1","1"
+"afsoc.af.mil","official sources","2025","1","1","1"
+"Al Jazeera","news","2025","1","1","1"
+"Anduril Industries","business / commercial","2025","1","1","1"
+"AnewZ","news","2025","1","1","1"
+"Antilogicalism","personal / creative","2025","1","1","1"
+"Apostrophe","Ukrainian media","2025","1","1","1"
+"ArtHuss","business / commercial","2025","1","1","1"
+"atm.mmu.ac.uk","research","2025","1","1","1"
+"banking.senate.gov","official sources","2025","1","1","1"
+"BelTA","state media","2025","1","1","1"
+"Bild","news","2025","1","1","1"
+"Binance","business / commercial","2025","1","1","1"
+"bnn-news.com","news","2025","1","1","1"
+"Brave1","official sources","2025","1","1","1"
+"Breaking Defense","news","2025","1","1","1"
+"bubsnaturals.com","other / unclassified","2025","1","1","1"
+"Business Insider","news","2025","1","1","1"
+"buttondown.com","other / unclassified","2025","1","1","1"
+"ca.news.yahoo.com","news","2025","1","1","1"
+"cftni.org","other / unclassified","2025","1","1","1"
+"Chesno Movement","research","2025","1","1","1"
+"cityartsmagazine.com","news","2025","1","1","1"
+"cna.al","other / unclassified","2025","1","1","1"
+"cnas.org","other / unclassified","2025","1","1","1"
+"Columbia Journalism Review","research","2025","1","1","1"
+"conference.pictoplasma.com","other / unclassified","2025","1","1","1"
+"corp.oup.com","other / unclassified","2025","1","1","1"
+"Council of the European Union","official sources","2025","1","1","1"
+"dailymail.co.uk","news","2025","1","1","1"
+"Defense Intelligence Agency","official sources","2025","1","1","1"
+"Der Spiegel","news","2025","1","1","1"
+"derekthompson.org","other / unclassified","2025","1","1","1"
+"Detector Media","Ukrainian media","2025","1","1","1"
+"discussions.apple.com","other / unclassified","2025","1","1","1"
+"Dodo Socks","business / commercial","2025","1","1","1"
+"dsns.gov.ua","official sources","2025","1","1","1"
+"DTEK","official sources","2025","1","1","1"
+"earth.google.com","other / unclassified","2025","1","1","1"
+"econonomist.com","other / unclassified","2025","1","1","1"
+"ecopolitic.ro","other / unclassified","2025","1","1","1"
+"eeas.europa.eu","other / unclassified","2025","1","1","1"
+"elevenlabs.io","other / unclassified","2025","1","1","1"
+"en.tutiempo.net","other / unclassified","2025","1","1","1"
+"eutoday.net","other / unclassified","2025","1","1","1"
+"fb.watch","other / unclassified","2025","1","1","1"
+"fdd.org","other / unclassified","2025","1","1","1"
+"flickr.com","other / unclassified","2025","1","1","1"
+"flightradar24.com","other / unclassified","2025","1","1","1"
+"Forbes Ukraine","Ukrainian media","2025","1","1","1"
+"forumvostok.ru","other / unclassified","2025","1","1","1"
+"fr.de","other / unclassified","2025","1","1","1"
+"Frankfurter Allgemeine Zeitung","news","2025","1","1","1"
+"frankohara.org","other / unclassified","2025","1","1","1"
+"ft,cin","other / unclassified","2025","1","1","1"
+"glavcom.ua","Ukrainian media","2025","1","1","1"
+"glavnoe.in.ua","other / unclassified","2025","1","1","1"
+"gmfus.org","other / unclassified","2025","1","1","1"
+"gongadzeprize.com.ua","other / unclassified","2025","1","1","1"
+"Goodreads","reference","2025","1","1","1"
+"guniaproject.com.ua","other / unclassified","2025","1","1","1"
+"healthline.com","other / unclassified","2025","1","1","1"
+"heritage.org","other / unclassified","2025","1","1","1"
+"history.catholic.edu","research","2025","1","1","1"
+"hpsnz.org.nz","other / unclassified","2025","1","1","1"
+"Hromadske","Ukrainian media","2025","1","1","1"
+"hromadske.radio","other / unclassified","2025","1","1","1"
+"huxley.net","other / unclassified","2025","1","1","1"
+"ia902905.us.archive.org","other / unclassified","2025","1","1","1"
+"imf.org","other / unclassified","2025","1","1","1"
+"interfax.ru","other / unclassified","2025","1","1","1"
+"irf.ua","other / unclassified","2025","1","1","1"
+"isis-online.org","other / unclassified","2025","1","1","1"
+"jeudepaume.org","other / unclassified","2025","1","1","1"
+"jordan.mfa.gov.ua","official sources","2025","1","1","1"
+"k-2.army","other / unclassified","2025","1","1","1"
+"kielinstitut.de","other / unclassified","2025","1","1","1"
+"Knihi.com","reference","2025","1","1","1"
+"lepoint.fr","other / unclassified","2025","1","1","1"
+"lidskae.by","other / unclassified","2025","1","1","1"
+"life-bridge-ukraine.com","other / unclassified","2025","1","1","1"
+"LIGA.net","Ukrainian media","2025","1","1","1"
+"livenowfox.com","other / unclassified","2025","1","1","1"
+"marbeks.com","other / unclassified","2025","1","1","1"
+"maritimesafetyinnovationlab.org","news","2025","1","1","1"
+"marketer.ua","other / unclassified","2025","1","1","1"
+"Militarnyi","Ukrainian media","2025","1","1","1"
+"military.com","other / unclassified","2025","1","1","1"
+"militaryland.net","other / unclassified","2025","1","1","1"
+"missiledefenseadvocacy.org","other / unclassified","2025","1","1","1"
+"museumofthebible.org","other / unclassified","2025","1","1","1"
+"Newsweek","news","2025","1","1","1"
+"NPR","news","2025","1","1","1"
+"nsa.gov","official sources","2025","1","1","1"
+"oglobo.globo.com","other / unclassified","2025","1","1","1"
+"olayasport.com","other / unclassified","2025","1","1","1"
+"olx.ua","other / unclassified","2025","1","1","1"
+"opensocietyfoundations.org","other / unclassified","2025","1","1","1"
+"orwellfoundation.com","research","2025","1","1","1"
+"parasitesandvectors.biomedcentral.com","other / unclassified","2025","1","1","1"
+"pdhpe.net","other / unclassified","2025","1","1","1"
+"Poetry Foundation","research","2025","1","1","1"
+"poetrysociety.org","other / unclassified","2025","1","1","1"
+"pokernews.com","news","2025","1","1","1"
+"politco.com","other / unclassified","2025","1","1","1"
+"Project Gutenberg","reference","2025","1","1","1"
+"reaganlibrary.gov","official sources","2025","1","1","1"
+"republic.ru","other / unclassified","2025","1","1","1"
+"Reuters Connect","news","2025","1","1","1"
+"rheinmetall.com","other / unclassified","2025","1","1","1"
+"ria.ru","other / unclassified","2025","1","1","1"
+"Riot Division","business / commercial","2025","1","1","1"
+"robertshermantv.com","other / unclassified","2025","1","1","1"
+"romania.europalibera.org","other / unclassified","2025","1","1","1"
+"Royal United Services Institute","research","2025","1","1","1"
+"Rumble","social media","2025","1","1","1"
+"sas.upenn.edu","research","2025","1","1","1"
+"scrippsnews.com","news","2025","1","1","1"
+"sestry-feldman.com","other / unclassified","2025","1","1","1"
+"SideStack","reference","2025","1","1","1"
+"silpo.ua","other / unclassified","2025","1","1","1"
+"simple.wikipedia.org","other / unclassified","2025","1","1","1"
+"slate.com","other / unclassified","2025","1","1","1"
+"sluganaroda.fandom.com","other / unclassified","2025","1","1","1"
+"smartass.club","other / unclassified","2025","1","1","1"
+"space.com","other / unclassified","2025","1","1","1"
+"spartz.house.gov","official sources","2025","1","1","1"
+"static.heritage.org","other / unclassified","2025","1","1","1"
+"static.project2025.org","other / unclassified","2025","1","1","1"
+"Stefan Korshak (Substack)","social media","2025","1","1","1"
+"store.magnumphotos.com","other / unclassified","2025","1","1","1"
+"Stripe","business / commercial","2025","1","1","1"
+"supreme.justia.com","other / unclassified","2025","1","1","1"
+"Suspilne","Ukrainian media","2025","1","1","1"
+"tass.com","other / unclassified","2025","1","1","1"
+"Tatarigami","social media","2025","1","1","1"
+"teufelsberg-berlin.de","other / unclassified","2025","1","1","1"
+"The American Presidency Project","reference","2025","1","1","1"
+"The Hill","news","2025","1","1","1"
+"thebulwark.com","other / unclassified","2025","1","1","1"
+"thecharliekirkshow.com","other / unclassified","2025","1","1","1"
+"theeconomist.com","other / unclassified","2025","1","1","1"
+"thegaurdian.com","other / unclassified","2025","1","1","1"
+"themarathoninitiative.org","other / unclassified","2025","1","1","1"
+"traxys.com","other / unclassified","2025","1","1","1"
+"tryarmra.com","other / unclassified","2025","1","1","1"
+"U.S. Embassy in Ukraine","official sources","2025","1","1","1"
+"ucd.ie","other / unclassified","2025","1","1","1"
+"ucu.edu.ua","other / unclassified","2025","1","1","1"
+"ukraine.un.org","other / unclassified","2025","1","1","1"
+"ukrainefreedomproject.org","other / unclassified","2025","1","1","1"
+"UN News","official sources","2025","1","1","1"
+"unherd.com","other / unclassified","2025","1","1","1"
+"UNITED24","official sources","2025","1","1","1"
+"unn.ua","other / unclassified","2025","1","1","1"
+"usatoday.com","news","2025","1","1","1"
+"ustr.gov","official sources","2025","1","1","1"
+"vaholocaust.pastperfectonline.com","other / unclassified","2025","1","1","1"
+"vandenberg.spaceforce.mil","official sources","2025","1","1","1"
+"velosiped.com","other / unclassified","2025","1","1","1"
+"vimeo.com","social media","2025","1","1","1"
+"vsn.ua","other / unclassified","2025","1","1","1"
+"washingtonexaminer.com","other / unclassified","2025","1","1","1"
+"witkoff.com","other / unclassified","2025","1","1","1"
+"zakon.rada.gov.ua","official sources","2025","1","1","1"
+"zemliak.com","other / unclassified","2025","1","1","1"
+"ukraine@war (Substack)","personal archive","2026","229","192","88"
+"YouTube","social media","2026","86","80","56"
+"Google","reference","2026","70","69","7"
+"The New York Times","news","2026","65","41","41"
+"abdymok (GitHub Pages)","personal archive","2026","54","17","26"
+"Archive.ph","reference","2026","36","33","31"
+"Wikipedia","reference","2026","28","25","25"
+"Telegram","social media","2026","20","20","19"
+"Reuters","news","2026","19","16","15"
+"The Guardian","news","2026","19","14","14"
+"CNN","news","2026","15","13","11"
+"The Wall Street Journal","news","2026","15","9","8"
+"X / Twitter","social media","2026","15","13","12"
+"Instagram","social media","2026","14","14","11"
+"Financial Times","news","2026","12","6","8"
+"The Atlantic","news","2026","11","8","9"
+"Tootsie Club","business / commercial","2026","11","2","11"
+"Facebook","social media","2026","10","9","8"
+"KonMari","business / commercial","2026","10","10","10"
+"The Washington Post","news","2026","10","8","9"
+"Interfax-Ukraine","Ukrainian media","2026","9","8","7"
+"Ukrainska Pravda","Ukrainian media","2026","9","9","9"
+"ZN.ua","Ukrainian media","2026","8","5","4"
+"Associated Press","news","2026","7","7","7"
+"Bloomberg","news","2026","7","5","4"
+"Office of the President of Ukraine","official sources","2026","7","7","7"
+"Foreign Affairs","news","2026","6","5","4"
+"GitHub","personal archive","2026","6","6","1"
+"abdymok (legacy Google Sites)","personal archive","2026","5","5","5"
+"Example Domain","reference","2026","5","1","1"
+"Google NotebookLM","reference","2026","5","2","5"
+"Institute for the Study of War","research","2026","5","5","5"
+"National Anti-Corruption Bureau of Ukraine (NABU)","official sources","2026","5","5","4"
+"DTN","news","2026","4","4","1"
+"Internet Archive","reference","2026","4","4","4"
+"Roll Call","news","2026","4","3","3"
+"The Kyiv Independent","Ukrainian media","2026","4","4","3"
+"TIME","news","2026","4","4","3"
+"Truth Social","social media","2026","4","4","4"
+"US Department of State","official sources","2026","4","2","2"
+"Atlantic Council","research","2026","3","2","1"
+"Axios","news","2026","3","3","3"
+"CBS News","news","2026","3","3","3"
+"Center for Strategic and International Studies","research","2026","3","2","1"
+"Irish Independent","news","2026","3","2","1"
+"Kyiv Post","Ukrainian media","2026","3","3","3"
+"Mindscape (Preposterous Universe)","research","2026","3","2","2"
+"NBC News","news","2026","3","3","3"
+"NPR","news","2026","3","3","2"
+"PhilPapers","reference","2026","3","3","1"
+"POLITICO","news","2026","3","3","3"
+"POLITICO Europe","news","2026","3","3","2"
+"The Economist","news","2026","3","3","2"
+"BBC","news","2026","2","2","2"
+"Center for European Policy Analysis (CEPA)","research","2026","2","2","2"
+"Detector Media","Ukrainian media","2026","2","2","2"
+"Ekonomichna Pravda","Ukrainian media","2026","2","2","1"
+"Foreign Intelligence Service of Ukraine","official sources","2026","2","2","1"
+"International Committee of the Red Cross","official sources","2026","2","1","1"
+"International Criminal Court","official sources","2026","2","1","1"
+"Kyiv City State Administration","official sources","2026","2","2","1"
+"LIGA.net","Ukrainian media","2026","2","2","2"
+"Men's Health","news","2026","2","1","2"
+"Nashi Groshi","research","2026","2","1","1"
+"Organization for Security and Co-operation in Europe","official sources","2026","2","1","1"
+"Poetry Foundation","research","2026","2","1","2"
+"QuoteMedia","business / commercial","2026","2","2","1"
+"Samtiden","news","2026","2","2","1"
+"Substack","social media","2026","2","2","2"
+"The Counteroffensive","news","2026","2","2","2"
+"The Hill","news","2026","2","2","2"
+"The New Voice of Ukraine","Ukrainian media","2026","2","2","2"
+"The New York Post","news","2026","2","2","2"
+"The Times","news","2026","2","1","1"
+"The Times of India","news","2026","2","1","1"
+"The White House","official sources","2026","2","2","2"
+"Ukrinform","Ukrainian media","2026","2","1","2"
+"UNESCO","official sources","2026","2","1","1"
+"UNITED24 Media","Ukrainian media","2026","2","2","2"
+"US Congress","official sources","2026","2","2","1"
+"WorldCat","reference","2026","2","2","1"
+"Yahoo Finance","news","2026","2","2","1"
+"...","other / unclassified","2026","1","1","1"
+"ABC 33/40","news","2026","1","1","1"
+"ABC News Australia","news","2026","1","1","1"
+"abcnews.com","news","2026","1","1","1"
+"ACLED","research","2026","1","1","1"
+"Ag Bull Trading","news","2026","1","1","1"
+"Alerts.in.ua","reference","2026","1","1","1"
+"Amazon","business / commercial","2026","1","1","1"
+"Antikvar","Ukrainian media","2026","1","1","1"
+"Apostrophe","Ukrainian media","2026","1","1","1"
+"argusmedia.com","news","2026","1","1","1"
+"arXiv","research","2026","1","1","1"
+"Babel","Ukrainian media","2026","1","1","1"
+"Bellingcat","research","2026","1","1","1"
+"Benzinga","news","2026","1","1","1"
+"BLUETTI","business / commercial","2026","1","1","1"
+"Bright Products","business / commercial","2026","1","1","1"
+"Brooklyn Eagle","news","2026","1","1","1"
+"Carnegie Endowment","research","2026","1","1","1"
+"Censor.NET","Ukrainian media","2026","1","1","1"
+"cfa.harvard.edu","research","2026","1","1","1"
+"claude.ai","other / unclassified","2026","1","1","1"
+"Columbia Journalism Review","research","2026","1","1","1"
+"conservancy.umn.edu","research","2026","1","1","1"
+"content.time.com","other / unclassified","2026","1","1","1"
+"dailyutahchronicle.com","news","2026","1","1","1"
+"deepstatemap.substack.com","other / unclassified","2026","1","1","1"
+"defence-blog.com","other / unclassified","2026","1","1","1"
+"Detachment A","reference","2026","1","1","1"
+"Deutsche Welle","news","2026","1","1","1"
+"Die Zeit","news","2026","1","1","1"
+"digitalstate.gov.ua","official sources","2026","1","1","1"
+"Dodo Socks","business / commercial","2026","1","1","1"
+"dtek.com","other / unclassified","2026","1","1","1"
+"e-skop.com","other / unclassified","2026","1","1","1"
+"eastfront.substack.com","other / unclassified","2026","1","1","1"
+"ebird.org","other / unclassified","2026","1","1","1"
+"Emptywheel","news","2026","1","1","1"
+"english.elpais.com","other / unclassified","2026","1","1","1"
+"epedagogia.com.br","other / unclassified","2026","1","1","1"
+"euobserver.com","news","2026","1","1","1"
+"Euromaidan Press","Ukrainian media","2026","1","1","1"
+"Euronews","news","2026","1","1","1"
+"feldsist.com","other / unclassified","2026","1","1","1"
+"file.lib.in.ua","other / unclassified","2026","1","1","1"
+"foreign.senate.gov","official sources","2026","1","1","1"
+"Frontelligence Insight (Substack)","social media","2026","1","1","1"
+"GEM Wiki","reference","2026","1","1","1"
+"gist.github.com","other / unclassified","2026","1","1","1"
+"globalbankingandfinance.com","other / unclassified","2026","1","1","1"
+"Goodreads","reference","2026","1","1","1"
+"Google Books","reference","2026","1","1","1"
+"greydynamics.com","other / unclassified","2026","1","1","1"
+"hrw.org","research","2026","1","1","1"
+"hydrocarbonprocessing.com","other / unclassified","2026","1","1","1"
+"ia600102.us.archive.org","other / unclassified","2026","1","1","1"
+"iea.org","other / unclassified","2026","1","1","1"
+"Institute of Mass Information","research","2026","1","1","1"
+"isw.org","other / unclassified","2026","1","1","1"
+"isw.pub","other / unclassified","2026","1","1","1"
+"itv.com","other / unclassified","2026","1","1","1"
+"iwm.org.uk","other / unclassified","2026","1","1","1"
+"journals.uchicago.edu","research","2026","1","1","1"
+"jpost.com","news","2026","1","1","1"
+"justice.gov","official sources","2026","1","1","1"
+"khorne209.substack.com","other / unclassified","2026","1","1","1"
+"Kiel Institute for the World Economy","research","2026","1","1","1"
+"king.senate.gov","official sources","2026","1","1","1"
+"Knihi.com","reference","2026","1","1","1"
+"kp.nlu.org.ua","other / unclassified","2026","1","1","1"
+"kpbs.org","other / unclassified","2026","1","1","1"
+"ksat.com","other / unclassified","2026","1","1","1"
+"kyiv.tsn.ua","other / unclassified","2026","1","1","1"
+"kyivdispatch.substack.com","other / unclassified","2026","1","1","1"
+"kyivindependent.substack.com","other / unclassified","2026","1","1","1"
+"kyivregiontours.gov.ua","official sources","2026","1","1","1"
+"lettersfromukraine.substack.com","other / unclassified","2026","1","1","1"
+"lib.misto.kiev.ua","other / unclassified","2026","1","1","1"
+"librarything.com","other / unclassified","2026","1","1","1"
+"ligo.org","other / unclassified","2026","1","1","1"
+"Linktree","social media","2026","1","1","1"
+"live.euronext.com","other / unclassified","2026","1","1","1"
+"Magnum Photos","reference","2026","1","1","1"
+"maidan.org.ua","other / unclassified","2026","1","1","1"
+"mappr.co","other / unclassified","2026","1","1","1"
+"maps.app.goo.gl","other / unclassified","2026","1","1","1"
+"marketbeat.com","other / unclassified","2026","1","1","1"
+"martinkuz.substack.com","other / unclassified","2026","1","1","1"
+"mayoclinic.org","other / unclassified","2026","1","1","1"
+"militarytimes.com","news","2026","1","1","1"
+"Ministry of Foreign Affairs of Russia","official sources","2026","1","1","1"
+"minjust.gov.ua","official sources","2026","1","1","1"
+"mozdocs.kiev.ua","other / unclassified","2026","1","1","1"
+"MSN","news","2026","1","1","1"
+"nas.gov.ua","official sources","2026","1","1","1"
+"NATO","official sources","2026","1","1","1"
+"newrepublic.com","other / unclassified","2026","1","1","1"
+"news.hab.media","news","2026","1","1","1"
+"news.telegraf.com.ua","news","2026","1","1","1"
+"notesfromkyiv.substack.com","other / unclassified","2026","1","1","1"
+"Office of the Director of National Intelligence","official sources","2026","1","1","1"
+"olympics.com","other / unclassified","2026","1","1","1"
+"oversight.gov","official sources","2026","1","1","1"
+"Oxford University Press Academic","research","2026","1","1","1"
+"pangram.com","other / unclassified","2026","1","1","1"
+"patreon.com","other / unclassified","2026","1","1","1"
+"play.google.com","other / unclassified","2026","1","1","1"
+"Project Gutenberg","reference","2026","1","1","1"
+"prom.ua","other / unclassified","2026","1","1","1"
+"propublica.org","news","2026","1","1","1"
+"Puck","news","2026","1","1","1"
+"puncher.kiev.ua","other / unclassified","2026","1","1","1"
+"Radio Svoboda","Ukrainian media","2026","1","1","1"
+"Rai News","news","2026","1","1","1"
+"rbc.ru","other / unclassified","2026","1","1","1"
+"Reuters Connect","news","2026","1","1","1"
+"Royal United Services Institute","research","2026","1","1","1"
+"ruccs.rutgers.edu","research","2026","1","1","1"
+"Rumble","social media","2026","1","1","1"
+"runbase.kiev.ua","other / unclassified","2026","1","1","1"
+"Ruslan Lobanov","personal archive","2026","1","1","1"
+"russianwarreport.substack.com","news","2026","1","1","1"
+"sec.gov","official sources","2026","1","1","1"
+"Semafor","news","2026","1","1","1"
+"shephardmedia.com","news","2026","1","1","1"
+"SideStack","reference","2026","1","1","1"
+"Sky News","news","2026","1","1","1"
+"specialkhersoncat.substack.com","other / unclassified","2026","1","1","1"
+"spglobal.com","other / unclassified","2026","1","1","1"
+"Stanford Encyclopedia of Philosophy","research","2026","1","1","1"
+"Stefan Korshak (Substack)","social media","2026","1","1","1"
+"stockanalysis.com","other / unclassified","2026","1","1","1"
+"strava.com","other / unclassified","2026","1","1","1"
+"Sud.ua","Ukrainian media","2026","1","1","1"
+"Texty.org.ua","Ukrainian media","2026","1","1","1"
+"The Insider","news","2026","1","1","1"
+"The Onion","news","2026","1","1","1"
+"The Philadelphia Inquirer","news","2026","1","1","1"
+"The Telegraph","news","2026","1","1","1"
+"theedgemalaysia.com","other / unclassified","2026","1","1","1"
+"theglobeandmail.com","other / unclassified","2026","1","1","1"
+"thestar.com.my","other / unclassified","2026","1","1","1"
+"theyoungones.fandom.com","other / unclassified","2026","1","1","1"
+"TikTok","social media","2026","1","1","1"
+"timesofisrael.com","news","2026","1","1","1"
+"tribune.com.pk","news","2026","1","1","1"
+"tripadvisor.com","other / unclassified","2026","1","1","1"
+"trump-archive.com","other / unclassified","2026","1","1","1"
+"U.S. Army","official sources","2026","1","1","1"
+"U.S. Department of Defense","official sources","2026","1","1","1"
+"U.S. Embassy in Ukraine","official sources","2026","1","1","1"
+"ukrainematters.substack.com","other / unclassified","2026","1","1","1"
+"ukrainetoday.org","other / unclassified","2026","1","1","1"
+"ukrainewarnotes.substack.com","other / unclassified","2026","1","1","1"
+"ukrainewatch.substack.com","other / unclassified","2026","1","1","1"
+"ukrayinska-pravda.com","other / unclassified","2026","1","1","1"
+"ukroboronprom.com.ua","other / unclassified","2026","1","1","1"
+"underfire.news","news","2026","1","1","1"
+"unian.ua","other / unclassified","2026","1","1","1"
+"universitytimes.ie","news","2026","1","1","1"
+"us.icebreaker.com","other / unclassified","2026","1","1","1"
+"uscode.house.gov","official sources","2026","1","1","1"
+"users.drew.edu","research","2026","1","1","1"
+"Vatican News","news","2026","1","1","1"
+"vladimirbpastukhov.substack.com","other / unclassified","2026","1","1","1"
+"vodokanal.kyiv.ua","other / unclassified","2026","1","1","1"
+"wapo.com","other / unclassified","2026","1","1","1"
+"wartranslated.substack.com","other / unclassified","2026","1","1","1"
+"webportal.nrada.gov.ua","official sources","2026","1","1","1"
+"Wikipedia (Russian)","reference","2026","1","1","1"
+"Wikipedia (Ukrainian)","reference","2026","1","1","1"
+"World Economic Forum","research","2026","1","1","1"
+"yle.fi","other / unclassified","2026","1","1","1"
+"yoursukrainian.substack.com","other / unclassified","2026","1","1","1"
