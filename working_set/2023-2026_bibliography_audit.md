@@ -738,3 +738,13 @@ The Day 681 post-level Washington Post hyperlink is verified corrected in `posts
 The 2025 HTML entry for Archive.ph has been corrected to use the three unresolved captures actually represented by the residual Archive.ph source-year row: `IKOWC` (2025-04-03), `UA0eg` (2025-05-22) and `phtqt` (2025-06-19). Earlier representative links in that entry pointed to already-attributed captures and did not match the entry's date span. The likely original publishers remain provisional and are not promoted in the normalized data.
 
 A fresh comparison of the bibliography's 434 external HTTP(S) anchors against the four annual linked-reference CSVs found 432 exact URL matches. The remaining two Google Books representative links differ from their archived URLs only by omitted `source` tracking parameters (`source=bl` and `source=kp_read_button`); the underlying book IDs and destinations match. Six additional anchors are internal GitHub navigation links. This check confirms the previous Day 681 URL mismatch is no longer outstanding, because the post body and linked-reference record now both point to the verified Washington Post article.
+
+
+### Post-footnote synchronization corrections — 1 November 2026
+
+The targeted comparison of corrected individual post files with the annual redacted copies found two remaining stale copies, both now corrected:
+
+- **Day 813 — NYT, “White House Worries Russia’s Momentum Is Changing Trajectory of Ukraine War”:** the audit's established Kyiv publication date is May 15, 2024. The individual post and 2024 redacted archive had still shown May 14. Both now show May 15, consistent with the contemporaneous May 15 NYT daily edition and the audit's timestamp convention.
+- **Day 1068 — NYT, “Kristi Noem Is Confirmed as Homeland Security Secretary”:** the individual post correctly showed January 25, 2025, but the 2025 redacted archive still showed January 24. The redacted copy now shows January 25.
+
+Both corrected post/redacted pairs were re-fetched and checked after the updates. This is a targeted synchronization correction; it does not convert the source-publication-date audit into a claim that every footnote across all 1,070 posts has been independently re-verified.
