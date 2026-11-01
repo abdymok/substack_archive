@@ -833,3 +833,8 @@ A further source-by-source edit shortened 25 annotations that remained above rou
 ### Link-language and navigation-link check — 1 November 2026
 
 Added `lang="uk"` to all 12 representative links whose visible text is in Ukrainian or Russian Cyrillic. The six GitHub links in the methodology section were checked against the repository's `main` branch: the 2026 posts directory, four annual bibliography drafts, and the working_set directory all resolve. The page metadata now describes the total as “306 entries across four years,” avoiding the database-like “publisher-year entries” wording.
+
+
+## Final structural reconciliation after editorial pass — 1 November 2026
+
+The final HTML was rechecked against `2023-2026_source_year.csv`: all **306 of 306** publisher/year entries match both link-occurrence and distinct-post counts. Annual totals remain 57 (2023), 93 (2024), 100 (2025) and 56 (2026). The page has 306 balanced `dt`/`dd` entries, 26 category anchors, four year-category navigation lists, 246 separate representative-link paragraphs containing 432 links, and 12 Cyrillic links marked `lang="uk"`. All in-page navigation targets resolve; IDs are unique; document, section, navigation, list, heading, definition-list, paragraph and anchor tags are balanced. All 306 annotations are at or below 498 characters. The 2024–2026 count/date tails are gone, and all count lines use the same separator style. Six methodology links to GitHub resources on `main` were checked and resolve. This remains source/markup QA, not rendered Safari/browser certification.
