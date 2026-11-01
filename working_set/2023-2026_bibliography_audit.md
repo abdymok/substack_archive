@@ -758,3 +758,15 @@ Both corrected post/redacted pairs were re-fetched and checked after the updates
 ### Bloomberg Day 587 publication-date correction — 1 November 2026
 
 - **Bloomberg Opinion, “We All Need to Keep Supporting Ukraine, Elon”: October 3, 2023.** The individual Day 587 post and 2023 annual redacted archive previously said October 2. Both now say October 3, matching the original Bloomberg URL's date path (`/2023-10-03/`) and Bloomberg Opinion's October 3 digest listing the piece. The exact original publication timestamp could not be recovered; therefore the publisher's stated calendar date is used, with no unsupported Kyiv-time conversion. Supporting records: https://www.bloomberg.com/opinion/articles/2023-10-03/elon-musk-we-all-need-to-keep-supporting-ukraine and https://www.linkedin.com/pulse/only-kevin-mccarthy-had-worse-day-than-sbf-bloomberg-opinion.
+
+
+### Source-specific annotation pass — 1 November 2026
+
+- Replaced generic category-level descriptions in **20 entries in the 2025 section** with source-specific annotations grounded in the cited material. The pass covers Ukrainian news outlets and specialist/reference sources, including Ukrainska Pravda, Censor.NET, The Kyiv Independent, The New Voice of Ukraine, European Pravda, Interfax-Ukraine, ZN.ua, Kyiv Post, The Ukrainian Week in Washington event site, Ukrinform, DeepStateMap, the Stanford Encyclopedia of Philosophy, Yalta European Strategy, the UN Human Rights Monitoring Mission in Ukraine, Perplexity, Rev, German Wikipedia, Apple Podcasts, TikTok and Tom Cooper's Substack.
+- Added source-specific context to **three 2026 entries**: The New Voice of Ukraine (Zaluzhny's essay and NABU reporting), Ukrinform (Budanov's public remarks), and the Poetry Foundation (Czesław Miłosz's “You Who Wronged”). The Poetry Foundation entry identifies the literary text as a primary source, not a war-news source.
+- Corrected the 2025 Tom Cooper (Substack) annotation's stale 2024 date span. The entry now correctly records 2 links in 2 posts, January 16–August 14, 2025.
+- Clarified that `uaweek.org` links to the Ukrainian Week in Washington event site, not the similarly named Ukrainian magazine.
+
+### Current completion boundary — 1 November 2026
+
+The source/year counts, HTML representative-link comparison, structural HTML checks, index-to-individual-file date reconciliation, and targeted citation-date corrections are complete to the extent documented above. Remaining work is deliberately narrow: rendered desktop/mobile visual inspection (the preview host is not accessible to the assistant's browser), three medium-confidence Archive.ph publisher attributions, and final merge to `main` after the visual check. Article publication dates across all footnotes have not been exhaustively independently re-verified; the audit records targeted corrections and known residual ambiguities rather than claiming otherwise.
