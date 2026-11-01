@@ -818,3 +818,8 @@ The consolidated HTML was revised in response to an independent editorial and re
 Repeated source-category boilerplate was moved from individual entries into the relevant category introductions. The count/date-range tail was consolidated into each entry's count line, and representative links were separated into their own paragraph. One hundred and seven representative-link labels that were fragments of dispatch prose were changed to the neutral label “Open cited item”; the underlying destinations and dates were not changed. The page introduction was shortened, the contents navigation moved directly below it, category navigation and year return links were added, and the full methodology/files note was moved to the end. The existing typography and monochrome design system were retained.
 
 Mechanical checks after the edit: 306 entries; 306 dt and 306 dd elements; 4 year-category navigation lists; 26 category anchors; 252 consolidated count/date lines; 246 separate representative-link paragraphs; no residual repeated count tails. This is a structural edit, not a claim that every long annotation has received a fresh factual rewrite.
+
+
+### Long-annotation editorial trim — 1 November 2026
+
+After removing repeated count tails, correction-history notes and category boilerplate, four remaining annotations exceeded 700 characters. The Financial Times (2024), The New York Times (2025 and 2026), and The Guardian (2026) entries were rewritten for concision while retaining their distinctive examples, critical context and relevant publication-date information. No counts, dates in the count lines, representative URLs or source classifications were changed. The longest remaining annotation is 672 characters; no annotation exceeds 700 characters.
