@@ -725,3 +725,10 @@ https://raw.githack.com/abdymok/substack_archive/main/working_set/2023-2026_anno
 A fresh comparison of the current rendered HTML against `2023-2026_source_year.csv` supersedes earlier entry totals in this audit. The HTML contains 306 publisher-year entries: 57 (2023), 93 (2024), 100 (2025), and 56 (2026). All 306 publisher/year pairs and their displayed link/post counts match the source-year table after excluding 13 non-editorial or personal-archive records intentionally omitted from the bibliography. Earlier references to 307 entries and 57 entries in 2026 were counting errors and should not be used. The HTML metadata was corrected to 306. The 5,438 archive link-occurrence count is unchanged.
 
 The Day 681 post-level Washington Post hyperlink is verified corrected in `posts/2024/2024-01-05_day-681.md`; the separate WSJ footnote remains a distinct citation. The earlier final-QA note claiming the post hyperlink was still wrong was stale and has been withdrawn in the QA addendum.
+
+
+## Archive.ph and representative-link final check — 1 November 2026
+
+The 2025 HTML entry for Archive.ph has been corrected to use the three unresolved captures actually represented by the residual Archive.ph source-year row: `IKOWC` (2025-04-03), `UA0eg` (2025-05-22) and `phtqt` (2025-06-19). Earlier representative links in that entry pointed to already-attributed captures and did not match the entry's date span. The likely original publishers remain provisional and are not promoted in the normalized data.
+
+A fresh comparison of the bibliography's 434 external HTTP(S) anchors against the four annual linked-reference CSVs found 432 exact URL matches. The remaining two Google Books representative links differ from their archived URLs only by omitted `source` tracking parameters (`source=bl` and `source=kp_read_button`); the underlying book IDs and destinations match. Six additional anchors are internal GitHub navigation links. This check confirms the previous Day 681 URL mismatch is no longer outstanding, because the post body and linked-reference record now both point to the verified Washington Post article.
