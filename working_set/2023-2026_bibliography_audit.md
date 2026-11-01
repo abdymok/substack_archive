@@ -823,3 +823,8 @@ Mechanical checks after the edit: 306 entries; 306 dt and 306 dd elements; 4 yea
 ### Long-annotation editorial trim — 1 November 2026
 
 After removing repeated count tails, correction-history notes and category boilerplate, four remaining annotations exceeded 700 characters. The Financial Times (2024), The New York Times (2025 and 2026), and The Guardian (2026) entries were rewritten for concision while retaining their distinctive examples, critical context and relevant publication-date information. No counts, dates in the count lines, representative URLs or source classifications were changed. The longest remaining annotation is 672 characters; no annotation exceeds 700 characters.
+
+
+### Annotation concision pass — 1 November 2026
+
+A further source-by-source edit shortened 25 annotations that remained above roughly 500 characters after the first structural pass. The edits retained the distinguishing post-level examples, the archive's critical stance where relevant, and material caveats (including the distinction between reported proposals and agreed policy, or between a source's claims and verified facts). Representative links, counts and date ranges were not changed. The 2023 count labels were also brought into the same typographic format as later years. The current maximum annotation length is 498 characters; 0 entries remain above 500 characters and none exceeds 700.
