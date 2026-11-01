@@ -792,3 +792,29 @@ The working branch `audit-fixes-2026-10-31` is ahead of `main` and 0 behind. It 
 ### Reading-design presentation pass — 1 November 2026
 
 Applied a restrained typographic and reading-flow pass to the consolidated HTML, guided by Dean Allen's “Reading Design”: body copy increased to 16px with 1.58 line-height; reading measure adjusted; entry spacing increased; subtle separators added in place of heavier visual devices; heading hierarchy clarified with an “About this bibliography” heading; anchor hover/focus states retained and refined; year sections given scroll margins; and a quiet “Back to contents” exit added at the end. The mobile layout remains one column. No cards, gradients, decorative color system or tracking elements were introduced. Structural recheck after the edit: 306 dt/dd pairs and balanced document, section, entry, paragraph and anchor tags. Rendered desktop/iPhone inspection remains the user's release check; the assistant cannot certify visual appearance from source inspection alone.
+
+
+## Reader-facing annotation cleanup — 1 November 2026
+
+The consolidated HTML was revised in response to an independent editorial and responsive-design review. Sixteen citation-date correction-history statements were removed from public-facing annotations and retained here as audit history:
+
+- The May 16 post cites the Times' report on Russia's battlefield momentum; its footnote's 2023 year typo was corrected to 2024.
+- The August 7 post's footnote for the Times' Toretsk report was also corrected from August 5 to August 6, 2024.
+- The October 4 post's footnote for Maureen Dowd's Alex Karp profile was corrected from October 4 to its verified August 17, 2024 publication date.
+- The March 1 post's Washington Post story about Ukraine supporters in Alabama was published February 29, 2024; its original footnote date was corrected.
+- The March 6 post's report on Olena Zelenska declining the State of the Union invitation was published March 5, not March 6, and that footnote date was corrected.
+- The archived post's footnote was corrected from January 20, 2023 to the FT's verified publication date, January 19, 2024.
+- The March 2 post cites Anne Applebaum's “Why Is Trump Trying to Make Ukraine Lose?”, published February 29, 2024; the archive footnote's March 2 publication date was corrected.
+- The April 19 post cites Politico's “How Johnson and Biden locked arms on Ukraine,” published April 18, 2024; the archive footnote's April 19 date has been corrected.
+- The February 22 post's footnote originally dated the Christian-nationalism report February 22; the linked Politico URL identifies it as the February 20, 2024 publication, and the archived footnote has been corrected.
+- The KIIS release is dated December 20, 2023, and reports fieldwork on December 4–10; the archived post's footnote was corrected from December 2003 to December 20, 2023.
+- The Day 1068 footnote for the Kristi Noem confirmation article was corrected from January 24 to its verified January 25, 2025 publication date.
+- The Day 1213 footnote for the Fred Grandy report was corrected from June 18 to June 19, 2025; the Day 1323 footnote for the 1988 Magnitogorsk Journal article was corrected to August 12, 1988; and the Day 1342 Fire Point investigation footnote was corrected from August 26 to October 26, 2025.
+- The Day 1293 footnote for the National Guard sanitation report was corrected from September 5 to the publisher-verified August 27, 2025 publication date.
+- The Day 1469 footnote for the Palmer Luckey profile was corrected from March 3 to the publisher's verified March 2, 2026 publication date.
+- The Day 1657 footnote for the September weapons-procurement investigation was corrected from September 7 to the publisher's verified September 6, 2026 publication date.
+- The Day 1438 footnote for the January 30 energy-assistance report was corrected from January 31 to the publisher's verified January 30 publication date.
+
+Repeated source-category boilerplate was moved from individual entries into the relevant category introductions. The count/date-range tail was consolidated into each entry's count line, and representative links were separated into their own paragraph. One hundred and seven representative-link labels that were fragments of dispatch prose were changed to the neutral label “Open cited item”; the underlying destinations and dates were not changed. The page introduction was shortened, the contents navigation moved directly below it, category navigation and year return links were added, and the full methodology/files note was moved to the end. The existing typography and monochrome design system were retained.
+
+Mechanical checks after the edit: 306 entries; 306 dt and 306 dd elements; 4 year-category navigation lists; 26 category anchors; 252 consolidated count/date lines; 246 separate representative-link paragraphs; no residual repeated count tails. This is a structural edit, not a claim that every long annotation has received a fresh factual rewrite.
