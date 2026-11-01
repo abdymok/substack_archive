@@ -828,3 +828,8 @@ After removing repeated count tails, correction-history notes and category boile
 ### Annotation concision pass — 1 November 2026
 
 A further source-by-source edit shortened 25 annotations that remained above roughly 500 characters after the first structural pass. The edits retained the distinguishing post-level examples, the archive's critical stance where relevant, and material caveats (including the distinction between reported proposals and agreed policy, or between a source's claims and verified facts). Representative links, counts and date ranges were not changed. The 2023 count labels were also brought into the same typographic format as later years. The current maximum annotation length is 498 characters; 0 entries remain above 500 characters and none exceeds 700.
+
+
+### Link-language and navigation-link check — 1 November 2026
+
+Added `lang="uk"` to all 12 representative links whose visible text is in Ukrainian or Russian Cyrillic. The six GitHub links in the methodology section were checked against the repository's `main` branch: the 2026 posts directory, four annual bibliography drafts, and the working_set directory all resolve. The page metadata now describes the total as “306 entries across four years,” avoiding the database-like “publisher-year entries” wording.
