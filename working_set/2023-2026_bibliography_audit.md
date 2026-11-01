@@ -838,3 +838,8 @@ Added `lang="uk"` to all 12 representative links whose visible text is in Ukrain
 ## Final structural reconciliation after editorial pass — 1 November 2026
 
 The final HTML was rechecked against `2023-2026_source_year.csv`: all **306 of 306** publisher/year entries match both link-occurrence and distinct-post counts. Annual totals remain 57 (2023), 93 (2024), 100 (2025) and 56 (2026). The page has 306 balanced `dt`/`dd` entries, 26 category anchors, four year-category navigation lists, 246 separate representative-link paragraphs containing 432 links, and 12 Cyrillic links marked `lang="uk"`. All in-page navigation targets resolve; IDs are unique; document, section, navigation, list, heading, definition-list, paragraph and anchor tags are balanced. All 306 annotations are at or below 498 characters. The 2024–2026 count/date tails are gone, and all count lines use the same separator style. Six methodology links to GitHub resources on `main` were checked and resolve. This remains source/markup QA, not rendered Safari/browser certification.
+
+
+### Category-heading decision — 1 November 2026
+
+Removed “Appendix:” from the repeated category heading and renamed it “Platforms, services and specialist references.” The category contains cited platforms, commercial services, personal archives and specialist resources; it is part of the bibliography, not an appendix. Retained the one-entry “State media” categories in 2023 and 2025: BelTA and RT are distinct source types, and the category label communicates that distinction rather than implying a minimum category size.
