@@ -718,3 +718,10 @@ Rendered preview URL for manual desktop/mobile inspection:
 https://raw.githack.com/abdymok/substack_archive/main/working_set/2023-2026_annotated_bibliography.html
 
 **Remaining qualifications:** the Bloomberg “We All Need to Keep Supporting Ukraine, Elon” publication date remains October 2/3 pending recovery of its original timestamp; the three medium-confidence Archive.ph attributions remain qualified; and the Day 681 post hyperlink itself remains unchanged pending editorial confirmation. No source or date has been silently guessed to force closure.
+
+
+## Final reconciliation correction — 1 November 2026
+
+A fresh comparison of the current rendered HTML against `2023-2026_source_year.csv` supersedes earlier entry totals in this audit. The HTML contains 306 publisher-year entries: 57 (2023), 93 (2024), 100 (2025), and 56 (2026). All 306 publisher/year pairs and their displayed link/post counts match the source-year table after excluding 13 non-editorial or personal-archive records intentionally omitted from the bibliography. Earlier references to 307 entries and 57 entries in 2026 were counting errors and should not be used. The HTML metadata was corrected to 306. The 5,438 archive link-occurrence count is unchanged.
+
+The Day 681 post-level Washington Post hyperlink is verified corrected in `posts/2024/2024-01-05_day-681.md`; the separate WSJ footnote remains a distinct citation. The earlier final-QA note claiming the post hyperlink was still wrong was stale and has been withdrawn in the QA addendum.
