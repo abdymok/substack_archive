@@ -666,9 +666,9 @@ Updated the five individual post files and synchronized the affected 2024 and 20
 - **Day 459 — New York Times, “A Russian Deserter’s Flight to Norway Presents a Fraught Dilemma for His Host”: May 28, 2023.** Corrected May 27 to May 28, matching the NYT URL date and contemporaneous copies.
 - **Day 466 — New York Times, “‘Everything Changed’: The War Arrives on Russians’ Doorstep,” and Washington Post, “Use of NATO arms for attack in Russia raises doubts about Kyiv’s controls”: June 3, 2023.** Corrected both footnotes from June 4 to June 3, the original publishers' displayed dates. The June 4 Indian Express and Japan Times copies of the NYT article are later syndications, not the original NYT publication date. The NYT page could not be opened directly; the author/article listing and original URL identify June 3.
 - **Day 447 — Washington Post, “Wagner chief offered to give Russian troop locations to Ukraine, leak says”: May 15, 2023 remains correct.** The Washington Post's original publication timestamp was May 14 at 7:23 p.m. EDT, which converts to May 15 at 2:23 a.m. in Kyiv. This is a verified example of why a one-day URL/page-date difference must not be corrected mechanically.
-- **Still open:** Bloomberg's “We All Need to Keep Supporting Ukraine, Elon” has an October 3 URL path and an October 2 archive footnote. The original Bloomberg timestamp or page date was not recovered; no speculative correction was made.
+- **Still open:** Bloomberg's “We All Need to Keep Supporting Ukraine, Elon” has since been corrected to October 3, 2023 in both the individual post and `23_redact.md`, matching the publisher URL date path and the October 3 Bloomberg Opinion digest. The exact original timestamp remains unavailable, so no unsupported Kyiv-time conversion is claimed.
 
-Updated the four affected individual post files and synchronized `23_redact.md`. These are targeted corrections; the remaining Bloomberg ambiguity is recorded rather than guessed.
+The four affected individual post files and the 2023 redacted archive have been synchronized. The Bloomberg calendar-date issue is resolved under the project's publisher-date fallback rule.
 
 
 ### Additional 2025 date correction — 31 October 2026
@@ -737,7 +737,7 @@ The Day 681 post-level Washington Post hyperlink is verified corrected in `posts
 
 The 2025 HTML entry for Archive.ph has been corrected to use the three unresolved captures actually represented by the residual Archive.ph source-year row: `IKOWC` (2025-04-03), `UA0eg` (2025-05-22) and `phtqt` (2025-06-19). Earlier representative links in that entry pointed to already-attributed captures and did not match the entry's date span. The likely original publishers remain provisional and are not promoted in the normalized data.
 
-A fresh comparison of the bibliography's 434 external HTTP(S) anchors against the four annual linked-reference CSVs found 432 exact URL matches. The remaining two Google Books representative links differ from their archived URLs only by omitted `source` tracking parameters (`source=bl` and `source=kp_read_button`); the underlying book IDs and destinations match. Six additional anchors are internal GitHub navigation links. This check confirms the previous Day 681 URL mismatch is no longer outstanding, because the post body and linked-reference record now both point to the verified Washington Post article.
+A fresh comparison of the four annual HTML sections against the linked-reference CSVs found 435 external representative anchors and 430 unique external URLs. Of those, 417 unique URLs match exactly; the remaining 13 differ only in query or tracking parameters. All 430 unique representative URLs match a CSV destination by origin and path, with no publisher/path mismatch. Six external navigation links sit outside the annual sections and four in-page anchors are internal. The Day 681 mismatch is no longer outstanding: the post body and linked-reference record both point to the verified Washington Post article.
 
 
 ### Post-footnote synchronization corrections — 1 November 2026
