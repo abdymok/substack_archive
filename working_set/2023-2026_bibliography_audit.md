@@ -770,3 +770,14 @@ Both corrected post/redacted pairs were re-fetched and checked after the updates
 ### Current completion boundary — 1 November 2026
 
 The source/year counts, HTML representative-link comparison, structural HTML checks, index-to-individual-file date reconciliation, and targeted citation-date corrections are complete to the extent documented above. Remaining work is deliberately narrow: rendered desktop/mobile visual inspection (the preview host is not accessible to the assistant's browser), three medium-confidence Archive.ph publisher attributions, and final merge to `main` after the visual check. Article publication dates across all footnotes have not been exhaustively independently re-verified; the audit records targeted corrections and known residual ambiguities rather than claiming otherwise.
+
+
+### Archive.ph evidence follow-up — 1 November 2026
+
+A further web search produced independent corroboration for the three remaining 2025 captures, but the capture pages themselves remain inaccessible. Their confidence levels therefore remain **medium** and their publisher fields remain Archive.ph in the normalized data:
+
+- **IKOWC — likely The New York Times:** Day 1135's link text is “Susan Crawford.” The likely original is Reid J. Epstein's “Liberal Wins Wisconsin Court Race, Despite Musk’s Millions” (April 1, 2025), independently identified by contemporaneous listings from [Gender on the Ballot](https://www.genderontheballot.org/weekly-media-round-up-april-4-2025/) and [Kentucky State AFL-CIO](https://ky.aflcio.org/news/todays-afl-cio). The capture itself was not available to verify the headline.
+- **UA0eg — likely The Wall Street Journal:** the captured opening sentence matches verbatim the May 22, 2025 WSJ report “Trump Tells European Leaders in Private That Putin Isn’t Ready to End War,” by Bojan Pancevski and Laurence Norman. The WSJ attribution is independently explicit in [AllSides' WSJ listing](https://www.allsides.com/news/2025-05-22-0508/world-trump-tells-european-leaders-private-putin-isn-t-ready-end-war) and [Tovima's WSJ syndication](https://www.tovima.com/wsj/trump-tells-european-leaders-in-private-that-putin-isnt-ready-to-end-war). Direct capture verification remains unavailable.
+- **phtqt — likely The Atlantic:** the likely original is [“Trump’s Trouble With Tulsi”](https://www.theatlantic.com/newsletters/archive/2025/06/trump-tulsi-gabbard-iran/683231/), a June 2025 article about Gabbard's relationship with intelligence. Its subject and timing fit the June 19 post's link label, but the capture page remains inaccessible.
+
+The attribution register's evidence notes have been expanded. No source-year or publisher counts were changed, and none of the three provisional entries has been promoted to a confirmed publisher.
