@@ -7188,7 +7188,7 @@ And, finally, Andreas [@bloomberg](https://www.bloomberg.com/opinion/articles/20
 
 [3](#footnote-anchor-3)
 
-[We All Need to Keep Supporting Ukraine, Elon](https://www.bloomberg.com/opinion/articles/2023-10-03/elon-musk-we-all-need-to-keep-supporting-ukraine?srnd=undefined).*False dichotomies and general weariness are undermining American backing of Kyiv. Time to remember what’s at stake* (Bloomberg, October 2, 2023)
+[We All Need to Keep Supporting Ukraine, Elon](https://www.bloomberg.com/opinion/articles/2023-10-03/elon-musk-we-all-need-to-keep-supporting-ukraine?srnd=undefined).*False dichotomies and general weariness are undermining American backing of Kyiv. Time to remember what’s at stake* (Bloomberg, October 3, 2023)
 
 ---
 
