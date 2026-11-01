@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Annotated bibliography">
+  <title>Annotated bibliography</title>
+  <rect x="9" y="5" width="30" height="38" rx="2"/>
+  <path d="M14 14h6M24 14h10"/>
+  <path d="M14 23h6M24 23h10"/>
+  <path d="M14 32h6M24 32h10"/>
+  <path d="M24 17.5h7M24 26.5h7M24 35.5h7" stroke-width="1.5" opacity=".55"/>
+</svg>
