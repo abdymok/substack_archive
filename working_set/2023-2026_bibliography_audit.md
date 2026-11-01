@@ -28,7 +28,7 @@ This convention applies to source/article dates in the annual annotated bibliogr
 
 - Day 332: corrected the New York Times date for “Allies Fail to Agree on Sending Tanks to Ukraine” from January 20, 2022 to January 20, 2023. The linked article URL and publication date identify 2023; 2022 was a year transcription error.
 - Day 440ish: corrected the New York Times date for “Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker” from March 28 to March 25, 2023, and repaired the malformed publisher link (nyt,.com to nyt.com). The NYT URL and a contemporaneous State Department press-clips email both give March 25, 2023. The email records the article at 08:25 UTC, which was 10:25 in Kyiv, so the Kyiv calendar date is also March 25.
-- A further 2023 date pass resolved the April 10 Washington Post counteroffensive report, the May 6 Washington Post and New York Times counteroffensive articles, the May 28 NYT deserter profile, and the June 3 NYT and Washington Post reports. The Bloomberg “We All Need to Keep Supporting Ukraine, Elon” citation remains a one-day October 2/3 ambiguity because the original Bloomberg publication timestamp could not be recovered. The May 14 Washington Post Prigozhin report is correctly dated May 15 in Kyiv: its original publication time was 7:23 p.m. EDT on May 14, or 2:23 a.m. Kyiv time on May 15. Continue to use original publication timestamps when available; otherwise retain the publisher's stated date and flag ambiguity.
+- A further 2023 date pass resolved the April 10 Washington Post counteroffensive report, the May 6 Washington Post and New York Times counteroffensive articles, the May 28 NYT deserter profile, and the June 3 NYT and Washington Post reports. The Bloomberg “We All Need to Keep Supporting Ukraine, Elon” citation is now dated October 3, 2023, following the original Bloomberg URL's publication-date path and the Bloomberg Opinion Today digest dated October 3. No exact original timestamp was recovered, so the publisher's stated calendar date is retained under the documented convention. The May 14 Washington Post Prigozhin report is correctly dated May 15 in Kyiv: its original publication time was 7:23 p.m. EDT on May 14, or 2:23 a.m. Kyiv time on May 15. Continue to use original publication timestamps when available; otherwise retain the publisher's stated date and flag ambiguity.
 - Original-post commit: 1e831255f9bafa4d9db4f5073d44d79e82ab9c4f. Verification: [NYT January 20, 2023 tank report](https://www.nytimes.com/2023/01/20/world/europe/ukraine-germany-us-tanks.html); [NYT March 25, 2023 “Stolen Valor” report](https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html); [contemporaneous press-clip reproduction with original timestamp](https://media.aflegal.org/wp-content/uploads/2025/05/14105802/FL-2025-00003-January-2025-Production.pdf).
 
 ## Annual entry counts
@@ -53,7 +53,7 @@ The normalized link dataset now reconciles to 5,438 link occurrences, 4,218 dist
 
 The current source-classification files are the authoritative machine-readable comparison: normalized links, source registry, publisher registry, source-year table and category-year table. The HTML bibliography remains the curated 307 publisher-year reading guide; it is not a list of all 853 domains.
 
-## Current HTML draft
+## Historical HTML checkpoint — superseded 1 November 2026
 
 - `working_set/2023-2026_annotated_bibliography.html`
 - Latest HTML commit: `09021af9ed4ab874f42f569f74386fc686c74d26`
@@ -67,7 +67,7 @@ Updated the 2024 section with post-level annotations for 40 additional external 
 
 The pass sampled the individual 2024 Markdown posts, including Days 675, 679, 681, 695, 696, 707, 715, 716, 723, 724, 743, 755, 756, 761, 765, 766, 771, 776, 779, 785, 799, 818, 820, 821, 824, 830, 839, 843, 847, 849, 852, 861, 866, 876, 883, 884, 897, 900, 903, 904, 910, 924, 936, 944, 948, 953, 957, 958, 959, 973, 986, 993, 995, 1001, 1008, 1009, 1010, 1021 and 1029. The source-level descriptions now distinguish reporting, official statements, survey evidence, operational mapping, energy-system notices, policy advocacy, think-tank analysis, literary references, reference tools and AI-search use, and note when the archive disputes a source rather than endorsing it.
 
-**Citation issue flagged:** Day 681 (January 5, 2024) describes a link as a *Washington Post* story about Ukrainian marines east of the Dnipro, but the hyperlink points to a `wsj.com` URL whose slug concerns Russian plans to buy Iranian ballistic missiles. The bibliography flags this mismatch. Do not silently repair the link without checking the original source.
+**Historical issue, resolved on the audit branch:** Day 681's Washington Post link in the body was already correct. A later edit mistakenly changed the separate Wall Street Journal footnote headline to the Washington Post URL. The footnote has now been restored to the original WSJ URL. The body link and WSJ footnote are distinct references.
 
 
 **Self-link correction:** The three 2024 URLs previously grouped under the generic Substack label all resolve to the author's own `abdymok.substack.com` posts titled “Setting the Plate Clear”. They were reclassified as personal archive in `2023-2026_source_year.csv`, merged into the 2024 `ukraine@war (Substack)` row, and removed from the external bibliography. The 2024 external-publisher count first fell from 96 to 95 after the self-link correction. The remaining one-off TinyURL entry was then excluded under the two-post rule. A later publisher-alias reconciliation found that the displayed HTML still split Google Books and Ukraine Economic Outlook into duplicate labels; merging those aliases brings the verified 2024 total to 93. The category-year table moves three occurrences from social media to personal archive. The raw `open.substack.com` domain remains classified as a platform in the all-years domain registry because it also carries other authors' links in other years.
@@ -96,7 +96,7 @@ Primary data in `working_set/`:
 
 The four existing annual Markdown files (`2023_annotated_bibliography.md` through `2026_annotated_bibliography.md`) are separate, more selective article-level research notes. The consolidated HTML is the source/publisher-level bibliography modeled on the 2023 HTML template.
 
-## Next editorial pass
+## Historical next-pass plan — superseded by the 1 November 2026 completion boundary
 
 1. Enrich the remaining 2024–2026 entries with post-level context, especially recurring Ukrainian media, official sources, research organizations and social accounts.
 2. Review the `other / unclassified` entries and publisher labels that still appear as raw domains.
@@ -116,7 +116,7 @@ The consolidated HTML was updated after the earlier audit checkpoint.
 - Added post-level context for five major 2025 publishers (The New York Times, Reuters, The Atlantic, The Guardian and CNN) and five 2026 publishers (The New York Times, Reuters, The Guardian, CNN and The Washington Post). These additions describe particular uses in the author's posts, including explicit criticism of reporting or framing, and distinguish a reported claim or projected capability from an established fact.
 - 2023's original 57 entries remain unchanged.
 
-### Remaining work
+### Remaining work at the 31 October checkpoint (superseded)
 
 1. Do a substantive post-level pass over 2025 and 2026. The publisher descriptions are now less formulaic, but selected examples and link labels still need checking against the individual posts, particularly where a link may be critical, ironic, incidental or merely an attribution.
 2. Review category assignments. Some sources currently grouped under “international news” are not newsrooms (for example, podcast, lifestyle, running and media-monitoring sites); state media and advocacy outlets may also deserve distinct treatment. Do not silently preserve a mistaken category merely because it appears in the registry.
@@ -315,7 +315,7 @@ The original article text and commentary were otherwise preserved. No link count
 ### April 2024 citation-date correction — Day 786
 
 - Corrected the Day 786 (April 19) Politico footnote for “How Johnson and Biden locked arms on Ukraine.” The article URL is dated April 18, 2024, and contemporaneous republication/source listings confirm April 18. The archived footnote had used April 19, the date of the post. The post date and text remain unchanged.
-- Day 773's Washington Post article “With no way out of a worsening war, Zelensky’s options look bad or worse” is correctly dated April 6, 2024. Day 775's Washington Post article “When a top Republican says Russian propaganda has infected the GOP” shows an April 7 URL and an April 7 updated date on the current publisher page; the archived footnote says April 6. Because the page now shows an update date, not a separately visible original publication timestamp, this is retained as a date ambiguity rather than changed.
+- Day 773's Washington Post article “With no way out of a worsening war, Zelensky’s options look bad or worse” is correctly dated April 6, 2024. Day 775's Washington Post article “When a top Republican says Russian propaganda has infected the GOP” is now corrected to **April 8, 2024 Kyiv time** in both the individual post and the 2024 redacted archive. A contemporaneous April 8 newsletter reproducing the publisher timestamp records publication at 7:52 p.m. EDT on April 7 (02:52 on April 8 in Kyiv, UTC+3). The publisher's URL carries April 7, but the Kyiv-local publication date is April 8. The timestamped contemporaneous copy is https://myemail-api.constantcontact.com/4-8-24-National-Security-News-and-Commentary.html.
 - Day 772's Bloomberg gambling-addiction article is dated April 3 on Bloomberg's page; the footnote is correct. The April 28 FT item is dated April 27, matching its footnote. Day 797's FT military briefing is also dated April 26, matching its footnote.
 - Original-post commit: 3ead13a54b008308271157a2cb44acbf6e623557. Verification: Politico article and contemporaneous listing, `turn989433news30` and `turn989433search5`; Washington Post page `turn174872view0`; Bloomberg page `turn211510search2`; FT citations in the archived post.
 
@@ -666,9 +666,9 @@ Updated the five individual post files and synchronized the affected 2024 and 20
 - **Day 459 — New York Times, “A Russian Deserter’s Flight to Norway Presents a Fraught Dilemma for His Host”: May 28, 2023.** Corrected May 27 to May 28, matching the NYT URL date and contemporaneous copies.
 - **Day 466 — New York Times, “‘Everything Changed’: The War Arrives on Russians’ Doorstep,” and Washington Post, “Use of NATO arms for attack in Russia raises doubts about Kyiv’s controls”: June 3, 2023.** Corrected both footnotes from June 4 to June 3, the original publishers' displayed dates. The June 4 Indian Express and Japan Times copies of the NYT article are later syndications, not the original NYT publication date. The NYT page could not be opened directly; the author/article listing and original URL identify June 3.
 - **Day 447 — Washington Post, “Wagner chief offered to give Russian troop locations to Ukraine, leak says”: May 15, 2023 remains correct.** The Washington Post's original publication timestamp was May 14 at 7:23 p.m. EDT, which converts to May 15 at 2:23 a.m. in Kyiv. This is a verified example of why a one-day URL/page-date difference must not be corrected mechanically.
-- **Still open:** Bloomberg's “We All Need to Keep Supporting Ukraine, Elon” has an October 3 URL path and an October 2 archive footnote. The original Bloomberg timestamp or page date was not recovered; no speculative correction was made.
+- **Still open:** Bloomberg's “We All Need to Keep Supporting Ukraine, Elon” has since been corrected to October 3, 2023 in both the individual post and `23_redact.md`, matching the publisher URL date path and the October 3 Bloomberg Opinion digest. The exact original timestamp remains unavailable, so no unsupported Kyiv-time conversion is claimed.
 
-Updated the four affected individual post files and synchronized `23_redact.md`. These are targeted corrections; the remaining Bloomberg ambiguity is recorded rather than guessed.
+The four affected individual post files and the 2023 redacted archive have been synchronized. The Bloomberg calendar-date issue is resolved under the project's publisher-date fallback rule.
 
 
 ### Additional 2025 date correction — 31 October 2026
@@ -705,16 +705,141 @@ Also corrected the Day 1226 POLITICO footnote to July 2, 2025, the original arti
 This remains a selected-source editorial pass, not an exhaustive line-by-line review of all 157 publisher-year entries. Remaining work is concentrated on lower-frequency sources, category and alias review, representative-link QA, final structural checks and a rendered browser preview.
 
 
-### Final HTML structural and representative-link QA — 31 October 2026
+### Final HTML structural and representative-link QA — revised 1 November 2026
 
-- Annual entry counts: **57 / 93 / 100 / 57**, total **307**. No duplicate publisher names within a year. All 307 displayed link and post counts match the normalized source-year table after documented alias consolidation.
-- The 435 links inside bibliography entries were checked against the normalized link dataset. **434 match a link actually recorded in the archive.** The sole exception is the verified intended Washington Post story for Day 681, included as a reference because the archived post's hyperlink still points to an unrelated Wall Street Journal URL. That mismatch is explicitly disclosed in the Washington Post annotation and is not represented as a link actually present in the post.
-- All **433 date-labeled representative links** that match archive URLs carry the same post date as the normalized link record. No other unmatched representative URLs or date mismatches were found.
-- Structural check: 23 opening and closing section tags, 307 entry terms and descriptions, and balanced HTML, head, body, main, div, dl, dt, dd, paragraph and anchor tags. Four internal navigation anchors are the only non-HTTP links.
-- The source dataset has 5,438 rows, 4,218 distinct URL strings, 853 source domains and 812 normalized publishers. The Archive.ph attribution file has 71 occurrences across 64 normalized URLs and 62 capture IDs; all have publisher assignments, with three medium-confidence cases.
-- Responsive CSS uses a 44rem reading column on wider screens and switches each entry to a single-column layout at 40rem. The HTML is structurally ready for browser inspection. The available browser tool did not provide a rendered screenshot, so visual confirmation at desktop and mobile sizes remains a manual preview check.
+- Annual entry counts: **57 / 93 / 100 / 56**, total **306**. The earlier 307 total and 57-entry 2026 count were counting errors. All 306 displayed publisher/year pairs and their link/post counts match the normalized source-year table after excluding personal-archive and non-editorial records under the stated selection rule.
+- The four annual bibliography sections contain **435 external representative anchors** and **430 unique external URLs**. Compared with the four annual linked-reference CSVs, **417 unique URLs match exactly** and the remaining **13 differ only in query/tracking parameters** (including MSN, Suspilne, Substack, Amazon, Roll Call, Telegram and Google Books links). All 430 unique representative URLs match a CSV destination by origin and path; there are no publisher/path mismatches. Six additional external navigation links sit outside the annual sections, and four in-page anchors are internal.
+- The Day 681 Washington Post link is now corrected in the individual post and linked-reference data. The separate WSJ footnote remains a distinct citation. The earlier claim that the post still linked to an unrelated WSJ story is withdrawn.
+- The 2025 Archive.ph entry now points to the three unresolved captures (IKOWC, UA0eg, phtqt) actually represented by its residual source-year row. Their likely publishers remain provisional, not confirmed.
+- Structural QA: 23 opening and closing section tags; 306 entry terms and descriptions; balanced HTML, head, body, main, div, dl, dt, dd, paragraph and anchor tags. Responsive CSS uses a 44rem reading column on wider screens and switches each entry to a single-column layout at 40rem. Browser-rendered visual confirmation remains outstanding.
+- The Archive.ph attribution register contains **71 occurrences across 64 normalized URLs/capture records**, with **61 high-confidence and 3 medium-confidence** publisher attributions.
 
-Rendered preview URL for manual desktop/mobile inspection:
-https://raw.githack.com/abdymok/substack_archive/main/working_set/2023-2026_annotated_bibliography.html
+### Date synchronization check — 1 November 2026
 
-**Remaining qualifications:** the Bloomberg “We All Need to Keep Supporting Ukraine, Elon” publication date remains October 2/3 pending recovery of its original timestamp; the three medium-confidence Archive.ph attributions remain qualified; and the Day 681 post hyperlink itself remains unchanged pending editorial confirmation. No source or date has been silently guessed to force closure.
+- Compared all **1,070** rows in working_set/posts_index.csv with the corresponding individual Markdown files in the working branch. Every indexed post file exists, and all 1,070 filename dates match the index dates.
+- Compared the date distribution in the 2023–2025 annual redacted files with posts_index.csv: **823 post-date records matched exactly**, with no date-count discrepancies.
+- The large 2026 redacted archive could not be read through the GitHub file-content endpoint because of its size. Its **247 individual post files** are present in the index/file-path reconciliation, and their filename dates match the index. This validates archive post-date synchronization, not every article-publication footnote.
+- Bloomberg's “We All Need to Keep Supporting Ukraine, Elon” is now dated October 3, 2023 in both the individual post and 2023 redacted archive. The original URL carries the October 3 date and Bloomberg Opinion's October 3 digest also lists the piece. The exact original publication time remains unavailable, so the publisher's calendar date is used without claiming a Kyiv-time conversion.
+
+Rendered preview for manual desktop/mobile inspection:
+https://raw.githack.com/abdymok/substack_archive/audit-fixes-2026-10-31/working_set/2023-2026_annotated_bibliography.html
+
+**Remaining qualifications:** three medium-confidence Archive.ph attributions remain explicitly provisional. The final rendered desktop/mobile inspection and merge to main are still pending.
+
+## Final reconciliation correction — 1 November 2026
+
+A fresh comparison of the current rendered HTML against `2023-2026_source_year.csv` supersedes earlier entry totals in this audit. The HTML contains 306 publisher-year entries: 57 (2023), 93 (2024), 100 (2025), and 56 (2026). All 306 publisher/year pairs and their displayed link/post counts match the source-year table after excluding 13 non-editorial or personal-archive records intentionally omitted from the bibliography. Earlier references to 307 entries and 57 entries in 2026 were counting errors and should not be used. The HTML metadata was corrected to 306. The 5,438 archive link-occurrence count is unchanged.
+
+The Day 681 post-level Washington Post hyperlink is verified corrected in `posts/2024/2024-01-05_day-681.md`; the separate WSJ footnote remains a distinct citation. The earlier final-QA note claiming the post hyperlink was still wrong was stale and has been withdrawn in the QA addendum.
+
+
+## Archive.ph and representative-link final check — 1 November 2026
+
+The 2025 HTML entry for Archive.ph has been corrected to use the three unresolved captures actually represented by the residual Archive.ph source-year row: `IKOWC` (2025-04-03), `UA0eg` (2025-05-22) and `phtqt` (2025-06-19). Earlier representative links in that entry pointed to already-attributed captures and did not match the entry's date span. The likely original publishers remain provisional and are not promoted in the normalized data.
+
+A fresh comparison of the four annual HTML sections against the linked-reference CSVs found 435 external representative anchors and 430 unique external URLs. Of those, 417 unique URLs match exactly; the remaining 13 differ only in query or tracking parameters. All 430 unique representative URLs match a CSV destination by origin and path, with no publisher/path mismatch. Six external navigation links sit outside the annual sections and four in-page anchors are internal. The Day 681 mismatch is no longer outstanding: the post body and linked-reference record both point to the verified Washington Post article.
+
+
+### Post-footnote synchronization corrections — 1 November 2026
+
+The targeted comparison of corrected individual post files with the annual redacted copies found two remaining stale copies, both now corrected:
+
+- **Day 813 — NYT, “White House Worries Russia’s Momentum Is Changing Trajectory of Ukraine War”:** the audit's established Kyiv publication date is May 15, 2024. The individual post and 2024 redacted archive had still shown May 14. Both now show May 15, consistent with the contemporaneous May 15 NYT daily edition and the audit's timestamp convention.
+- **Day 1068 — NYT, “Kristi Noem Is Confirmed as Homeland Security Secretary”:** the individual post correctly showed January 25, 2025, but the 2025 redacted archive still showed January 24. The redacted copy now shows January 25.
+
+Both corrected post/redacted pairs were re-fetched and checked after the updates. This is a targeted synchronization correction; it does not convert the source-publication-date audit into a claim that every footnote across all 1,070 posts has been independently re-verified.
+
+
+### Day 775 Kyiv-time publication-date correction — 1 November 2026
+
+- **The Washington Post, “When a top Republican says Russian propaganda has infected the GOP”: April 8, 2024 (Kyiv time).** The individual post and 2024 annual redacted archive previously said April 7. A contemporaneous April 8 newsletter reproduces the original Washington Post timestamp: published April 7 at 7:52 p.m. EDT. Kyiv was on UTC+3, making the first-publication time 02:52 on April 8. Both files now use April 8. This resolves the earlier ambiguity and applies the project's stated Kyiv-local timestamp convention. Evidence: https://myemail-api.constantcontact.com/4-8-24-National-Security-News-and-Commentary.html and the original publisher page https://www.washingtonpost.com/politics/2024/04/07/russian-propaganda-republicans-congress/.
+
+
+### Bloomberg Day 587 publication-date correction — 1 November 2026
+
+- **Bloomberg Opinion, “We All Need to Keep Supporting Ukraine, Elon”: October 3, 2023.** The individual Day 587 post and 2023 annual redacted archive previously said October 2. Both now say October 3, matching the original Bloomberg URL's date path (`/2023-10-03/`) and Bloomberg Opinion's October 3 digest listing the piece. The exact original publication timestamp could not be recovered; therefore the publisher's stated calendar date is used, with no unsupported Kyiv-time conversion. Supporting records: https://www.bloomberg.com/opinion/articles/2023-10-03/elon-musk-we-all-need-to-keep-supporting-ukraine and https://www.linkedin.com/pulse/only-kevin-mccarthy-had-worse-day-than-sbf-bloomberg-opinion.
+
+
+### Source-specific annotation pass — 1 November 2026
+
+- Replaced generic category-level descriptions in **20 entries in the 2025 section** with source-specific annotations grounded in the cited material. The pass covers Ukrainian news outlets and specialist/reference sources, including Ukrainska Pravda, Censor.NET, The Kyiv Independent, The New Voice of Ukraine, European Pravda, Interfax-Ukraine, ZN.ua, Kyiv Post, The Ukrainian Week in Washington event site, Ukrinform, DeepStateMap, the Stanford Encyclopedia of Philosophy, Yalta European Strategy, the UN Human Rights Monitoring Mission in Ukraine, Perplexity, Rev, German Wikipedia, Apple Podcasts, TikTok and Tom Cooper's Substack.
+- Added source-specific context to **three 2026 entries**: The New Voice of Ukraine (Zaluzhny's essay and NABU reporting), Ukrinform (Budanov's public remarks), and the Poetry Foundation (Czesław Miłosz's “You Who Wronged”). The Poetry Foundation entry identifies the literary text as a primary source, not a war-news source.
+- Corrected the 2025 Tom Cooper (Substack) annotation's stale 2024 date span. The entry now correctly records 2 links in 2 posts, January 16–August 14, 2025.
+- Clarified that `uaweek.org` links to the Ukrainian Week in Washington event site, not the similarly named Ukrainian magazine.
+
+### Current completion boundary — 1 November 2026
+
+The source/year counts, HTML representative-link comparison, structural HTML checks, index-to-individual-file date reconciliation, and targeted citation-date corrections are complete to the extent documented above. Remaining work is deliberately narrow: rendered desktop/mobile visual inspection (the preview host is not accessible to the assistant's browser), three medium-confidence Archive.ph publisher attributions, and final merge to `main` after the visual check. Article publication dates across all footnotes have not been exhaustively independently re-verified; the audit records targeted corrections and known residual ambiguities rather than claiming otherwise.
+
+
+### Archive.ph evidence follow-up — 1 November 2026
+
+A further web search produced independent corroboration for the three remaining 2025 captures, but the capture pages themselves remain inaccessible. Their confidence levels therefore remain **medium** and their publisher fields remain Archive.ph in the normalized data:
+
+- **IKOWC — likely The New York Times:** Day 1135's link text is “Susan Crawford.” The likely original is Reid J. Epstein's “Liberal Wins Wisconsin Court Race, Despite Musk’s Millions” (April 1, 2025), independently identified by contemporaneous listings from [Gender on the Ballot](https://www.genderontheballot.org/weekly-media-round-up-april-4-2025/) and [Kentucky State AFL-CIO](https://ky.aflcio.org/news/todays-afl-cio). The capture itself was not available to verify the headline.
+- **UA0eg — likely The Wall Street Journal:** the captured opening sentence matches verbatim the May 22, 2025 WSJ report “Trump Tells European Leaders in Private That Putin Isn’t Ready to End War,” by Bojan Pancevski and Laurence Norman. The WSJ attribution is independently explicit in [AllSides' WSJ listing](https://www.allsides.com/news/2025-05-22-0508/world-trump-tells-european-leaders-private-putin-isn-t-ready-end-war) and [Tovima's WSJ syndication](https://www.tovima.com/wsj/trump-tells-european-leaders-in-private-that-putin-isnt-ready-to-end-war). Direct capture verification remains unavailable.
+- **phtqt — likely The Atlantic:** the likely original is [“Trump’s Trouble With Tulsi”](https://www.theatlantic.com/newsletters/archive/2025/06/trump-tulsi-gabbard-iran/683231/), a June 2025 article about Gabbard's relationship with intelligence. Its subject and timing fit the June 19 post's link label, but the capture page remains inaccessible.
+
+The attribution register's evidence notes have been expanded. No source-year or publisher counts were changed, and none of the three provisional entries has been promoted to a confirmed publisher.
+
+
+### Final branch and release-gate check — 1 November 2026
+
+The current HTML metadata is updated November 1, 2026 and records 306 publisher-year entries (57 / 93 / 100 / 56). Final structural inspection found balanced document, section, entry, paragraph and anchor tags, with 306 `dt` and 306 `dd` entries. The 435 representative anchors (430 unique URLs) all match a linked-reference CSV destination by origin and path; 417 are exact full-URL matches and 13 differ only in query/tracking parameters.
+
+The working branch `audit-fixes-2026-10-31` is ahead of `main` and 0 behind. It remains unmerged. The only release gate still requiring human input is rendered desktop/mobile visual inspection. The preview host was inaccessible to the assistant's browser, so visual QA is not represented as complete. After the user confirms the rendered page, the branch can be merged.
+
+### Reading-design presentation pass — 1 November 2026
+
+Applied a restrained typographic and reading-flow pass to the consolidated HTML, guided by Dean Allen's “Reading Design”: body copy increased to 16px with 1.58 line-height; reading measure adjusted; entry spacing increased; subtle separators added in place of heavier visual devices; heading hierarchy clarified with an “About this bibliography” heading; anchor hover/focus states retained and refined; year sections given scroll margins; and a quiet “Back to contents” exit added at the end. The mobile layout remains one column. No cards, gradients, decorative color system or tracking elements were introduced. Structural recheck after the edit: 306 dt/dd pairs and balanced document, section, entry, paragraph and anchor tags. Rendered desktop/iPhone inspection remains the user's release check; the assistant cannot certify visual appearance from source inspection alone.
+
+
+## Reader-facing annotation cleanup — 1 November 2026
+
+The consolidated HTML was revised in response to an independent editorial and responsive-design review. Sixteen citation-date correction-history statements were removed from public-facing annotations and retained here as audit history:
+
+- The May 16 post cites the Times' report on Russia's battlefield momentum; its footnote's 2023 year typo was corrected to 2024.
+- The August 7 post's footnote for the Times' Toretsk report was also corrected from August 5 to August 6, 2024.
+- The October 4 post's footnote for Maureen Dowd's Alex Karp profile was corrected from October 4 to its verified August 17, 2024 publication date.
+- The March 1 post's Washington Post story about Ukraine supporters in Alabama was published February 29, 2024; its original footnote date was corrected.
+- The March 6 post's report on Olena Zelenska declining the State of the Union invitation was published March 5, not March 6, and that footnote date was corrected.
+- The archived post's footnote was corrected from January 20, 2023 to the FT's verified publication date, January 19, 2024.
+- The March 2 post cites Anne Applebaum's “Why Is Trump Trying to Make Ukraine Lose?”, published February 29, 2024; the archive footnote's March 2 publication date was corrected.
+- The April 19 post cites Politico's “How Johnson and Biden locked arms on Ukraine,” published April 18, 2024; the archive footnote's April 19 date has been corrected.
+- The February 22 post's footnote originally dated the Christian-nationalism report February 22; the linked Politico URL identifies it as the February 20, 2024 publication, and the archived footnote has been corrected.
+- The KIIS release is dated December 20, 2023, and reports fieldwork on December 4–10; the archived post's footnote was corrected from December 2003 to December 20, 2023.
+- The Day 1068 footnote for the Kristi Noem confirmation article was corrected from January 24 to its verified January 25, 2025 publication date.
+- The Day 1213 footnote for the Fred Grandy report was corrected from June 18 to June 19, 2025; the Day 1323 footnote for the 1988 Magnitogorsk Journal article was corrected to August 12, 1988; and the Day 1342 Fire Point investigation footnote was corrected from August 26 to October 26, 2025.
+- The Day 1293 footnote for the National Guard sanitation report was corrected from September 5 to the publisher-verified August 27, 2025 publication date.
+- The Day 1469 footnote for the Palmer Luckey profile was corrected from March 3 to the publisher's verified March 2, 2026 publication date.
+- The Day 1657 footnote for the September weapons-procurement investigation was corrected from September 7 to the publisher's verified September 6, 2026 publication date.
+- The Day 1438 footnote for the January 30 energy-assistance report was corrected from January 31 to the publisher's verified January 30 publication date.
+
+Repeated source-category boilerplate was moved from individual entries into the relevant category introductions. The count/date-range tail was consolidated into each entry's count line, and representative links were separated into their own paragraph. One hundred and seven representative-link labels that were fragments of dispatch prose were changed to the neutral label “Open cited item”; the underlying destinations and dates were not changed. The page introduction was shortened, the contents navigation moved directly below it, category navigation and year return links were added, and the full methodology/files note was moved to the end. The existing typography and monochrome design system were retained.
+
+Mechanical checks after the edit: 306 entries; 306 dt and 306 dd elements; 4 year-category navigation lists; 26 category anchors; 252 consolidated count/date lines; 246 separate representative-link paragraphs; no residual repeated count tails. This is a structural edit, not a claim that every long annotation has received a fresh factual rewrite.
+
+
+### Long-annotation editorial trim — 1 November 2026
+
+After removing repeated count tails, correction-history notes and category boilerplate, four remaining annotations exceeded 700 characters. The Financial Times (2024), The New York Times (2025 and 2026), and The Guardian (2026) entries were rewritten for concision while retaining their distinctive examples, critical context and relevant publication-date information. No counts, dates in the count lines, representative URLs or source classifications were changed. The longest remaining annotation is 672 characters; no annotation exceeds 700 characters.
+
+
+### Annotation concision pass — 1 November 2026
+
+A further source-by-source edit shortened 25 annotations that remained above roughly 500 characters after the first structural pass. The edits retained the distinguishing post-level examples, the archive's critical stance where relevant, and material caveats (including the distinction between reported proposals and agreed policy, or between a source's claims and verified facts). Representative links, counts and date ranges were not changed. The 2023 count labels were also brought into the same typographic format as later years. The current maximum annotation length is 498 characters; 0 entries remain above 500 characters and none exceeds 700.
+
+
+### Link-language and navigation-link check — 1 November 2026
+
+Added `lang="uk"` to all 12 representative links whose visible text is in Ukrainian or Russian Cyrillic. The six GitHub links in the methodology section were checked against the repository's `main` branch: the 2026 posts directory, four annual bibliography drafts, and the working_set directory all resolve. The page metadata now describes the total as “306 entries across four years,” avoiding the database-like “publisher-year entries” wording.
+
+
+## Final structural reconciliation after editorial pass — 1 November 2026
+
+The final HTML was rechecked against `2023-2026_source_year.csv`: all **306 of 306** publisher/year entries match both link-occurrence and distinct-post counts. Annual totals remain 57 (2023), 93 (2024), 100 (2025) and 56 (2026). The page has 306 balanced `dt`/`dd` entries, 26 category anchors, four year-category navigation lists, 246 separate representative-link paragraphs containing 432 links, and 12 Cyrillic links marked `lang="uk"`. All in-page navigation targets resolve; IDs are unique; document, section, navigation, list, heading, definition-list, paragraph and anchor tags are balanced. All 306 annotations are at or below 498 characters. The 2024–2026 count/date tails are gone, and all count lines use the same separator style. Six methodology links to GitHub resources on `main` were checked and resolve. This remains source/markup QA, not rendered Safari/browser certification.
+
+
+### Category-heading decision — 1 November 2026
+
+Removed “Appendix:” from the repeated category heading and renamed it “Platforms, services and specialist references.” The category contains cited platforms, commercial services, personal archives and specialist resources; it is part of the bibliography, not an appendix. Retained the one-entry “State media” categories in 2023 and 2025: BelTA and RT are distinct source types, and the category label communicates that distinction rather than implying a minimum category size.
