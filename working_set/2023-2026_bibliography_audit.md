@@ -53,7 +53,7 @@ The normalized link dataset now reconciles to 5,438 link occurrences, 4,218 dist
 
 The current source-classification files are the authoritative machine-readable comparison: normalized links, source registry, publisher registry, source-year table and category-year table. The HTML bibliography remains the curated 307 publisher-year reading guide; it is not a list of all 853 domains.
 
-## Current HTML draft
+## Historical HTML checkpoint — superseded 1 November 2026
 
 - `working_set/2023-2026_annotated_bibliography.html`
 - Latest HTML commit: `09021af9ed4ab874f42f569f74386fc686c74d26`
@@ -96,7 +96,7 @@ Primary data in `working_set/`:
 
 The four existing annual Markdown files (`2023_annotated_bibliography.md` through `2026_annotated_bibliography.md`) are separate, more selective article-level research notes. The consolidated HTML is the source/publisher-level bibliography modeled on the 2023 HTML template.
 
-## Next editorial pass
+## Historical next-pass plan — superseded by the 1 November 2026 completion boundary
 
 1. Enrich the remaining 2024–2026 entries with post-level context, especially recurring Ukrainian media, official sources, research organizations and social accounts.
 2. Review the `other / unclassified` entries and publisher labels that still appear as raw domains.
@@ -116,7 +116,7 @@ The consolidated HTML was updated after the earlier audit checkpoint.
 - Added post-level context for five major 2025 publishers (The New York Times, Reuters, The Atlantic, The Guardian and CNN) and five 2026 publishers (The New York Times, Reuters, The Guardian, CNN and The Washington Post). These additions describe particular uses in the author's posts, including explicit criticism of reporting or framing, and distinguish a reported claim or projected capability from an established fact.
 - 2023's original 57 entries remain unchanged.
 
-### Remaining work
+### Remaining work at the 31 October checkpoint (superseded)
 
 1. Do a substantive post-level pass over 2025 and 2026. The publisher descriptions are now less formulaic, but selected examples and link labels still need checking against the individual posts, particularly where a link may be critical, ironic, incidental or merely an attribution.
 2. Review category assignments. Some sources currently grouped under “international news” are not newsrooms (for example, podcast, lifestyle, running and media-monitoring sites); state media and advocacy outlets may also deserve distinct treatment. Do not silently preserve a mistaken category merely because it appears in the registry.
