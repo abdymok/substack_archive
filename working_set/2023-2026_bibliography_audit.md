@@ -705,20 +705,26 @@ Also corrected the Day 1226 POLITICO footnote to July 2, 2025, the original arti
 This remains a selected-source editorial pass, not an exhaustive line-by-line review of all 157 publisher-year entries. Remaining work is concentrated on lower-frequency sources, category and alias review, representative-link QA, final structural checks and a rendered browser preview.
 
 
-### Final HTML structural and representative-link QA — 31 October 2026
+### Final HTML structural and representative-link QA — revised 1 November 2026
 
-- Annual entry counts: **57 / 93 / 100 / 57**, total **307**. No duplicate publisher names within a year. All 307 displayed link and post counts match the normalized source-year table after documented alias consolidation.
-- The 435 links inside bibliography entries were checked against the normalized link dataset. **434 match a link actually recorded in the archive.** The sole exception is the verified intended Washington Post story for Day 681, included as a reference because the archived post's hyperlink still points to an unrelated Wall Street Journal URL. That mismatch is explicitly disclosed in the Washington Post annotation and is not represented as a link actually present in the post.
-- All **433 date-labeled representative links** that match archive URLs carry the same post date as the normalized link record. No other unmatched representative URLs or date mismatches were found.
-- Structural check: 23 opening and closing section tags, 307 entry terms and descriptions, and balanced HTML, head, body, main, div, dl, dt, dd, paragraph and anchor tags. Four internal navigation anchors are the only non-HTTP links.
-- The source dataset has 5,438 rows, 4,218 distinct URL strings, 853 source domains and 812 normalized publishers. The Archive.ph attribution file has 71 occurrences across 64 normalized URLs and 62 capture IDs; all have publisher assignments, with three medium-confidence cases.
-- Responsive CSS uses a 44rem reading column on wider screens and switches each entry to a single-column layout at 40rem. The HTML is structurally ready for browser inspection. The available browser tool did not provide a rendered screenshot, so visual confirmation at desktop and mobile sizes remains a manual preview check.
+- Annual entry counts: **57 / 93 / 100 / 56**, total **306**. The earlier 307 total and 57-entry 2026 count were counting errors. All 306 displayed publisher/year pairs and their link/post counts match the normalized source-year table after excluding personal-archive and non-editorial records under the stated selection rule.
+- The bibliography contains **434 external HTTP(S) representative anchors**. A comparison against the four annual linked-reference CSVs found **432 exact URL matches**. The remaining two Google Books links point to the same book IDs and destinations but omit source-tracking parameters present in the CSV. Six additional anchors are internal GitHub navigation links.
+- The Day 681 Washington Post link is now corrected in the individual post and linked-reference data. The separate WSJ footnote remains a distinct citation. The earlier claim that the post still linked to an unrelated WSJ story is withdrawn.
+- The 2025 Archive.ph entry now points to the three unresolved captures (IKOWC, UA0eg, phtqt) actually represented by its residual source-year row. Their likely publishers remain provisional, not confirmed.
+- Structural QA: 23 opening and closing section tags; 306 entry terms and descriptions; balanced HTML, head, body, main, div, dl, dt, dd, paragraph and anchor tags. Responsive CSS uses a 44rem reading column on wider screens and switches each entry to a single-column layout at 40rem. Browser-rendered visual confirmation remains outstanding.
+- The Archive.ph attribution register contains **71 occurrences across 64 normalized URLs/capture records**, with **61 high-confidence and 3 medium-confidence** publisher attributions.
 
-Rendered preview URL for manual desktop/mobile inspection:
-https://raw.githack.com/abdymok/substack_archive/main/working_set/2023-2026_annotated_bibliography.html
+### Date synchronization check — 1 November 2026
 
-**Remaining qualifications:** the Bloomberg “We All Need to Keep Supporting Ukraine, Elon” publication date remains October 2/3 pending recovery of its original timestamp; the three medium-confidence Archive.ph attributions remain qualified; and the Day 681 post hyperlink itself remains unchanged pending editorial confirmation. No source or date has been silently guessed to force closure.
+- Compared all **1,070** rows in working_set/posts_index.csv with the corresponding individual Markdown files in the working branch. Every indexed post file exists, and all 1,070 filename dates match the index dates.
+- Compared the date distribution in the 2023–2025 annual redacted files with posts_index.csv: **823 post-date records matched exactly**, with no date-count discrepancies.
+- The large 2026 redacted archive could not be read through the GitHub file-content endpoint because of its size. Its **247 individual post files** are present in the index/file-path reconciliation, and their filename dates match the index. This validates archive post-date synchronization, not every article-publication footnote.
+- The remaining source-publication-date qualification is Bloomberg's “We All Need to Keep Supporting Ukraine, Elon”: the article URL path is October 3, 2023, while the archived footnote says October 2. No original Bloomberg timestamp or accessible original page metadata has been recovered. Leave this explicitly unresolved rather than guessing.
 
+Rendered preview for manual desktop/mobile inspection:
+https://raw.githack.com/abdymok/substack_archive/audit-fixes-2026-10-31/working_set/2023-2026_annotated_bibliography.html
+
+**Remaining qualifications:** three medium-confidence Archive.ph attributions and the Bloomberg October 2/3 date remain explicitly qualified. The final rendered desktop/mobile inspection and merge to main are still pending.
 
 ## Final reconciliation correction — 1 November 2026
 
