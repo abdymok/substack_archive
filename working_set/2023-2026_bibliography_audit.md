@@ -781,3 +781,10 @@ A further web search produced independent corroboration for the three remaining 
 - **phtqt — likely The Atlantic:** the likely original is [“Trump’s Trouble With Tulsi”](https://www.theatlantic.com/newsletters/archive/2025/06/trump-tulsi-gabbard-iran/683231/), a June 2025 article about Gabbard's relationship with intelligence. Its subject and timing fit the June 19 post's link label, but the capture page remains inaccessible.
 
 The attribution register's evidence notes have been expanded. No source-year or publisher counts were changed, and none of the three provisional entries has been promoted to a confirmed publisher.
+
+
+### Final branch and release-gate check — 1 November 2026
+
+The current HTML metadata is updated November 1, 2026 and records 306 publisher-year entries (57 / 93 / 100 / 56). Final structural inspection found balanced document, section, entry, paragraph and anchor tags, with 306 `dt` and 306 `dd` entries. The 435 representative anchors (430 unique URLs) all match a linked-reference CSV destination by origin and path; 417 are exact full-URL matches and 13 differ only in query/tracking parameters.
+
+The working branch `audit-fixes-2026-10-31` is 195 commits ahead of `main` and 0 behind. It remains unmerged. The only release gate still requiring human input is rendered desktop/mobile visual inspection. The preview host was inaccessible to the assistant's browser, so visual QA is not represented as complete. After the user confirms the rendered page, the branch can be merged.
