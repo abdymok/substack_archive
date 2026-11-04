@@ -14,6 +14,9 @@ import argparse
 import csv
 import html
 import re
+import json
+from urllib.parse import urlencode, urlparse
+from urllib.request import Request, urlopen
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
@@ -119,6 +122,45 @@ def summarize(rows: list[dict[str, str]]) -> dict[str, dict]:
     return summary
 
 
+
+FRAGILE_HOSTS = {
+    "x.com", "www.x.com", "twitter.com", "www.twitter.com",
+    "t.me", "www.t.me", "telegram.me", "www.telegram.me",
+    "facebook.com", "www.facebook.com", "m.facebook.com", "web.facebook.com",
+    "maps.app.goo.gl", "maps.google.com",
+}
+
+
+def add_wayback_links(page: str) -> str:
+    """Append an archived link where the Wayback availability API finds a snapshot."""
+    def process_references(match):
+        content = match.group(2)
+        def process_link(link_match):
+            href = html.unescape(link_match.group(1))
+            host = (urlparse(href).hostname or "").lower()
+            is_google_maps = host in {"google.com", "www.google.com"} and urlparse(href).path.startswith("/maps")
+            if host not in FRAGILE_HOSTS and not is_google_maps:
+                return link_match.group(0)
+            tail = content[link_match.end():]
+            if re.match(r'\\s*<a class="archive-link"', tail):
+                return link_match.group(0)
+            api = "https://archive.org/wayback/available?" + urlencode({"url": href})
+            request = Request(api, headers={"User-Agent": "BibliographySnapshotCheck/1.0"})
+            try:
+                with urlopen(request, timeout=12) as response:
+                    data = json.load(response)
+                snapshot = data.get("archived_snapshots", {}).get("closest", {})
+                if not snapshot.get("available") or not snapshot.get("url"):
+                    return link_match.group(0)
+                archived = html.escape(snapshot["url"], quote=True)
+                return link_match.group(0) + f' <a class="archive-link" href="{archived}" rel="nofollow">archived</a>'
+            except Exception as exc:
+                print(f"Wayback lookup skipped for {href}: {exc}")
+                return link_match.group(0)
+        return match.group(1) + re.sub(r'<a href="([^"]+)">([^<]*)</a>', process_link, content) + match.group(3)
+    return re.sub(r'(<p class="references">)(.*?)(</p>)', process_references, page, flags=re.S)
+
+
 def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str) -> str:
     ranges = current_date_ranges(page)
     # Preserve and restore date ranges as the 2023–2026 source-year table has no dates.
@@ -128,7 +170,8 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
     summary = summarize(rows)
     total_entries = sum(v["entries"] for v in summary.values())
 
-    css = "  .scope-table-wrap { width: 100%; }\n  .scope-table { width: 100%; border-collapse: collapse; table-layout: fixed; font-size: 0.8125rem; line-height: 1.4; }\n  .scope-table th, .scope-table td { text-align: left; vertical-align: top; padding: 0.45rem 0.35rem; border-bottom: 1px solid #e8e8e8; overflow-wrap: anywhere; }\n  .scope-table thead th { font-weight: 600; border-bottom: 1px solid #999; }\n  .scope-table th:nth-child(1) { width: 8%; }\n  .scope-table th:nth-child(2) { width: 9%; }\n  .scope-table th:nth-child(3), .scope-table th:nth-child(4) { width: 16%; }\n  .scope-table th:nth-child(5) { width: 51%; }\n  .method-summary { margin-top: 1rem; }\n  @media (max-width: 40rem) { .scope-table { font-size: 0.72rem; } .scope-table th, .scope-table td { padding: 0.35rem 0.2rem; } }\n"
+    css = "  .scope-table-wrap { width: 100%; }\n  .scope-table { width: 100%; border-collapse: collapse; table-layout: fixed; font-size: 0.8125rem; line-height: 1.4; }\n  .scope-table th, .scope-table td { text-align: left; vertical-align: top; padding: 0.45rem 0.35rem; border-bottom: 1px solid #e8e8e8; overflow-wrap: anywhere; }\n  .scope-table thead th { font-weight: 600; border-bottom: 1px solid #999; }\n  .scope-table th:nth-child(1) { width: 8%; }\n  .scope-table th:nth-child(2) { width: 9%; }\n  .scope-table th:nth-child(3), .scope-table th:nth-child(4) { width: 16%; }\n  .scope-table th:nth-child(5) { width: 51%; }\n  .method-summary { margin-top: 1rem; }
+  .archive-link { font-size: 0.8em; margin-left: 0.2rem; text-decoration-style: dotted; }\n  @media (max-width: 40rem) { .scope-table { font-size: 0.72rem; } .scope-table th, .scope-table td { padding: 0.35rem 0.2rem; } }\n"
     if ".scope-table-wrap" not in page:
         page = page.replace("</style>", css + "\n</style>", 1)
     page = re.sub(
@@ -203,6 +246,7 @@ def main() -> None:
     parser.add_argument("--public-dir", type=Path, required=True, help="Path to the public bibliography directory")
     parser.add_argument("--as-of", default=date.today().strftime("%B %d, %Y").replace(" 0", " "))
     parser.add_argument("--coverage-through", default="October 28")
+    parser.add_argument("--wayback", action="store_true", help="Look up snapshots for fragile representative links")
     args = parser.parse_args()
     page_path = args.public_dir / "index.html"
     if not page_path.exists():
@@ -215,6 +259,8 @@ def main() -> None:
     ranges = current_date_ranges(page)
     csv_text = make_public_csv(rows, ranges)
     page_text = update_page(page, rows, args.as_of, args.coverage_through)
+    if args.wayback:
+        page_text = add_wayback_links(page_text)
     (args.public_dir / "entries.csv").write_text(csv_text, encoding="utf-8", newline="")
     page_path.write_text(page_text, encoding="utf-8", newline="")
     summary = summarize(rows)
