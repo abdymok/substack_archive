@@ -145,8 +145,8 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
 
     # Rebuild category source counts while preserving the existing editorial sentence.
     for y in YEARS:
-        for category, anchor in GROUPS.items():
-            n_sources = sum(1 for r in rows if r["year"] == str(y) and r["category"] == category)
+        for anchor in sorted(set(GROUPS.values())):
+            n_sources = sum(1 for r in rows if r["year"] == str(y) and GROUPS.get(r["category"]) == anchor)
             if not n_sources:
                 continue
             pattern = rf'(<h3 id="cat-{y}-{re.escape(anchor)}">.*?</h3>\s*<p class="intro">)(.*?)(</p>)'
