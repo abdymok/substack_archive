@@ -26,7 +26,7 @@ python tools/build_bibliography.py --public-dir ../abdymok.github.io/bibliograph
 Optional arguments:
 
 ```bash
-python tools/build_bibliography.py --public-dir ../abdymok.github.io/bibliography --as-of "November 4, 2026" --coverage-through "October 28"
+python tools/build_bibliography.py --public-dir ../abdymok.github.io/bibliography --as-of "November 4, 2026" --coverage-through "October 28" --wayback
 ```
 
 The script writes `bibliography/entries.csv` and synchronizes the page header total, annual totals, category counts and scope table. It preserves annotations and representative links.
