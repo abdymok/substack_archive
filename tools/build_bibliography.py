@@ -142,7 +142,7 @@ def add_wayback_links(page: str) -> str:
             if host not in FRAGILE_HOSTS and not is_google_maps:
                 return link_match.group(0)
             tail = content[link_match.end():]
-            if re.match(r'\\s*<a class="archive-link"', tail):
+            if re.match(r'\s*<a class="archive-link"', tail):
                 return link_match.group(0)
             api = "https://archive.org/wayback/available?" + urlencode({"url": href})
             request = Request(api, headers={"User-Agent": "BibliographySnapshotCheck/1.0"})
@@ -174,6 +174,8 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
   .archive-link { font-size: 0.8em; margin-left: 0.2rem; text-decoration-style: dotted; }\n  @media (max-width: 40rem) { .scope-table { font-size: 0.72rem; } .scope-table th, .scope-table td { padding: 0.35rem 0.2rem; } }\n"
     if ".scope-table-wrap" not in page:
         page = page.replace("</style>", css + "\n</style>", 1)
+    elif ".archive-link" not in page:
+        page = page.replace("</style>", "  .archive-link { font-size: 0.8em; margin-left: 0.2rem; text-decoration-style: dotted; }\n</style>", 1)
     page = re.sub(
         r'<p class="meta">.*?</p>',
         f'<p class="meta">2021–2026 · updated {html.escape(as_of)} · {total_entries} annual publisher entries across six years · 2026 coverage through {html.escape(coverage)}</p>',
