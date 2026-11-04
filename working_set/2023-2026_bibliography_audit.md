@@ -868,3 +868,10 @@ The outstanding release check remains rendered desktop and iPhone Safari inspect
 
 
 Deployment confirmation: public-page commit `92c86c25b309f0ca573484acf2d7a07f854d1d13` completed its GitHub Pages build and deployment successfully (workflow run 41807305726). The GitLab backup workflow also completed successfully (run 41807307179). The latest page commit is therefore both published and backed up.
+
+
+## 2024 White House chronology correction — November 4, 2026
+
+Rechecked the 2024 White House entry against the dated White House statement and the official House vote record. The April 17, 2024 statement urged the House to pass the national-security supplemental; the House passed the Ukraine Security Supplemental on April 20. Revised the annotation so the April 18 screenshot is described as a sign that the six-month congressional impasse might be nearing an end, two days before passage. No claim that the April 17 statement responded to House passage remains.
+
+Also checked the current full `bibliography/index.html` (346,010 characters before this wording correction): the 2025 Economist entry says “Day 1318” (not “Day 1318ish”); the UN Human Rights Monitoring Mission PDF URL is complete through `%29_ENG.pdf`; “Z signed” and “Z cut short” are present in the 2025 POLITICO Europe and Der Spiegel annotations; the 2024 ZN.ua and Just Security annotations include “Vitaliy's” and “Michael and Craig's”; representative-link blocks are present for 2024 Internet Archive and 2025 U.S. Army; no semicolon punctuation remains in rendered bibliography prose; and `G-S3ZLJ9QQWD` appears in the page-head Google tag script and configuration. These are file-content checks, not independent verification of the live Pages response.
