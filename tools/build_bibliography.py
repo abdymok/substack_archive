@@ -243,11 +243,13 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
 
 
 
-def sync_working_copies(page: str, as_of: str) -> None:
+def sync_working_copies(page: str, as_of: str, summary: dict[str, dict]) -> None:
     """Keep the two review copies synchronized with the generated public page."""
+    total_all = sum(v["entries"] for v in summary.values())
+    total_later = sum(summary[str(y)]["entries"] for y in range(2023, 2027))
     full = re.sub(
         r'<p class="meta">.*?</p>',
-        f'<p class="meta">Working draft · 2021–2026 · updated {html.escape(as_of)} · 394 annual publisher entries across six years</p>',
+        f'<p class="meta">Working draft · 2021–2026 · updated {html.escape(as_of)} · {total_all} annual publisher entries across six years</p>',
         page, count=1, flags=re.S,
     )
     (WORK / "2021-2026_annotated_bibliography.html").write_text(full, encoding="utf-8", newline="")
@@ -258,7 +260,7 @@ def sync_working_copies(page: str, as_of: str) -> None:
     )
     subset = re.sub(
         r'<p class="meta">.*?</p>',
-        f'<p class="meta">Working draft · 2023–2026 · updated {html.escape(as_of)} · 307 entries across four years</p>',
+        f'<p class="meta">Working draft · 2023–2026 · updated {html.escape(as_of)} · {total_later} entries across four years</p>',
         subset, count=1, flags=re.S,
     )
     subset = subset.replace(
@@ -297,8 +299,8 @@ def main() -> None:
         page_text = add_wayback_links(page_text)
     (args.public_dir / "entries.csv").write_text(csv_text, encoding="utf-8", newline="")
     page_path.write_text(page_text, encoding="utf-8", newline="")
-    sync_working_copies(page_text, args.as_of)
     summary = summarize(rows)
+    sync_working_copies(page_text, args.as_of, summary)
     print(f"Wrote {len(rows)} public entries to entries.csv")
     print("Annual entries: " + ", ".join(f"{y}: {summary[str(y)]['entries']}" for y in YEARS))
     print(f"Total: {sum(v['entries'] for v in summary.values())}")
