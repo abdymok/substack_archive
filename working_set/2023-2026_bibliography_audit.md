@@ -913,3 +913,8 @@ Corrections to the public bibliography:
 - The public HTML still contains the Google Analytics tag G-S3ZLJ9QQWD. This is a source check only, not proof that analytics is collecting data on the live page. Rendered presentation and iPhone Safari appearance remain unverified.
 
 No annual publisher totals or source counts were changed in this pass. The specialist-category placement of iRunFar (2025) and Men's Health (2026) remains an editorial classification question and was not changed in this commit.
+
+
+### Deployment after independent tail review — 4 November 2026
+
+Final public bibliography HTML commit: `8bb321f42c5665f2d826370230138389ee517f25`. GitHub Pages build and deployment completed successfully in workflow run 41809922073. The GitLab backup completed successfully in run 41809922879. The source header reads “updated November 4, 2026”. The assistant's web reader could not independently retrieve the live Pages URL, so the successful deployment is verified from Actions, while any remaining stale display in a separate reader should be checked there for caching.
