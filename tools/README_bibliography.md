@@ -4,7 +4,7 @@ The public bibliography is maintained in the separate `abdymok.github.io` reposi
 
 ## Requirements
 
-- Python 3.9 or later
+- Python 3.10 or later
 - No third-party packages
 
 ## Run locally
