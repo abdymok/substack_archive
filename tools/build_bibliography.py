@@ -242,6 +242,39 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
     return page
 
 
+
+def sync_working_copies(page: str, as_of: str) -> None:
+    """Keep the two review copies synchronized with the generated public page."""
+    full = re.sub(
+        r'<p class="meta">.*?</p>',
+        f'<p class="meta">Working draft · 2021–2026 · updated {html.escape(as_of)} · 394 annual publisher entries across six years</p>',
+        page, count=1, flags=re.S,
+    )
+    (WORK / "2021-2026_annotated_bibliography.html").write_text(full, encoding="utf-8", newline="")
+
+    subset = page.replace(
+        "<title>Annotated Bibliography 2021–2026</title>",
+        "<title>Annotated Bibliography 2023–2026</title>",
+    )
+    subset = re.sub(
+        r'<p class="meta">.*?</p>',
+        f'<p class="meta">Working draft · 2023–2026 · updated {html.escape(as_of)} · 307 entries across four years</p>',
+        subset, count=1, flags=re.S,
+    )
+    subset = subset.replace(
+        "This bibliography maps recurring external sources cited in the archive from 2021 through 2026.",
+        "This bibliography maps recurring external sources cited in the archive from 2023 through 2026.",
+    )
+    subset = re.sub(r'<li><a href="#year-2021">2021</a></li>\s*<li><a href="#year-2022">2022</a></li>', "", subset, count=1)
+    subset = re.sub(
+        r'<section class="year" id="year-2021">.*?(?=<section class="year" id="year-2023">)',
+        "", subset, count=1, flags=re.S,
+    )
+    subset = re.sub(r'<tr><th scope="row">2021</th>.*?</tr>\s*', "", subset, count=1, flags=re.S)
+    subset = re.sub(r'<tr><th scope="row">2022</th>.*?</tr>\s*', "", subset, count=1, flags=re.S)
+    (WORK / "2023-2026_annotated_bibliography.html").write_text(subset, encoding="utf-8", newline="")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--public-dir", type=Path, required=True, help="Path to the public bibliography directory")
@@ -264,6 +297,7 @@ def main() -> None:
         page_text = add_wayback_links(page_text)
     (args.public_dir / "entries.csv").write_text(csv_text, encoding="utf-8", newline="")
     page_path.write_text(page_text, encoding="utf-8", newline="")
+    sync_working_copies(page_text, args.as_of)
     summary = summarize(rows)
     print(f"Wrote {len(rows)} public entries to entries.csv")
     print("Annual entries: " + ", ".join(f"{y}: {summary[str(y)]['entries']}" for y in YEARS))
