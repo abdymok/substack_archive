@@ -843,3 +843,16 @@ The final HTML was rechecked against `2023-2026_source_year.csv`: all **306 of 3
 ### Category-heading decision — 1 November 2026
 
 Removed “Appendix:” from the repeated category heading and renamed it “Platforms, services and specialist references.” The category contains cited platforms, commercial services, personal archives and specialist resources; it is part of the bibliography, not an appendix. Retained the one-entry “State media” categories in 2023 and 2025: BelTA and RT are distinct source types, and the category label communicates that distinction rather than implying a minimum category size.
+
+
+### Six-year consolidated bibliography QA — 4 November 2026
+
+The public page now contains the six-year bibliography, 2021–2026, with 393 annual publisher entries: 16 (2021), 71 (2022), 57 (2023), 93 (2024), 100 (2025) and 56 (2026). The 2021–2022 source-year file confirms 16 and 71 included entries. The 2023–2026 source-year file reconciles to 57, 93, 100 and 56 after excluding personal-archive entries and applying the two-post inclusion rule. The combined 2023–2026 total remains 306; the six-year total is 393.
+
+Targeted count checks: the 2023 New York Times and Washington Post entries have 104 and 92 links respectively, 196 combined. Bruce Mau Studio has 5 links in 2 posts in 2023. Tootsie Club has 10 links in 9 posts in 2023 and 11 links in 11 posts in 2026. These figures match the source-year registry and the public HTML.
+
+Structural QA of `bibliography/index.html`: 393 entry blocks; 79 unique IDs; no duplicate IDs; all 52 in-page links resolve; 726 external links have no malformed URL strings. The 2021–2022 linked-reference files contain 1,447 occurrences across 237 posts and 1,149 distinct URL strings, matching the public methodology figures. The six-year count is therefore reconciled to the annual source data, not just to the page's own labels.
+
+A final representative-link language pass replaced seven generic labels (including “report”, “article”, “here”, “link” and “video”) with descriptive labels grounded in the entry annotations and destinations. No URLs, dates, counts, categories or annotation claims were changed. The public-page edit is commit `4fe3835ed9b673849610291d56dbfdb973689cc3` in `abdymok/abdymok.github.io`.
+
+GitHub Pages and GitLab backup both succeeded for the preceding commit `bde759266bfafdd5716cdab9f1f8b0e39c1e22bf`. The Pages build/deployment and GitLab backup triggered by `4fe3835` were still running at the time of this note. Rendered desktop/iPhone Safari inspection remains a human visual check; source and deployment logs do not certify the actual appearance on the user's device.
