@@ -918,3 +918,20 @@ No annual publisher totals or source counts were changed in this pass. The speci
 ### Deployment after independent tail review — 4 November 2026
 
 Final public bibliography HTML commit: `8bb321f42c5665f2d826370230138389ee517f25`. GitHub Pages build and deployment completed successfully in workflow run 41809922073. The GitLab backup completed successfully in run 41809922879. The source header reads “updated November 4, 2026”. The assistant's web reader could not independently retrieve the live Pages URL, so the successful deployment is verified from Actions, while any remaining stale display in a separate reader should be checked there for caching.
+
+
+### Google redirect reconciliation and 2026 publisher correction — 4 November 2026
+
+This section supersedes the earlier audit note and the public-page statement that 2023–2026 Google redirects remained attributed to Google. That interpretation was wrong. The source-year tables already applied destination-based attribution; the public HTML and the intermediate normalized-links file had not been brought into line.
+
+Verified against the 2025 and 2026 linked-reference files, the combined normalized-link records, the source-year table, the source registry and the publisher registry:
+
+- 2025 contains one Google image redirect (January 31) to a one-off Science Codons article. It is classified as `sciencecodons.com` / other-unclassified, not Google. The 2025 Google entry is therefore 17 links in 16 posts, March 14–November 10. The Science Codons domain remains below the recurring-publisher threshold.
+- 2026 contains 67 Google redirects across four posts. Eight resolve to external publishers and are attributed to those publishers: two NABU links, and one each to Bellingcat, ZN.ua, the Financial Times, Bloomberg, The New York Times and Ukrinform. The other 59 resolve to the author's own Substack archive and are excluded from external-publisher attribution. Three direct Google Search or Maps links remain attributed to Google.
+- The public 2026 counts were corrected to match source-year data: The New York Times 67/42; Financial Times 22/16; Bloomberg 8/5; ZN.ua 9/5; Ukrinform 3/3; NABU 7/5; Google 3/3. Bloomberg, ZN.ua and Ukrinform date ranges were extended to August 28 where required.
+- Bellingcat has two links in two posts (February 19 and August 28, 2026) and qualifies under the two-post inclusion rule. It had been omitted from the 2026 Research and analysis section. Added it, raising that category from three to four sources and the 2026 annual total from 56 to 57.
+- The total annual publisher-entry count is now 394: 87 for 2021–2022 and 307 for 2023–2026.
+- The Method now describes destination-based redirect resolution, the own-archive exclusion, the one-off Science Codons destination and the 2026 split between external destinations and own-archive redirects.
+- Corrected a malformed CSV row in `2023-2026_source_year.csv` and `2023-2026_source_registry.csv`: the publisher name "Center for Astrophysics | Harvard & Smithsonian" contained an unescaped comma, shifting the category/year fields. The row now parses as one publisher, research, 2026, one link, one URL and one post. This reconciles 2026 source-year occurrences with the category-year total at 1,073.
+
+The 2026 annual publisher entries are now 57. The 2026 source-year link-occurrence total is 1,073; the 1,132 raw linked-reference records include 59 self-archive redirects excluded from external-publisher attribution.
