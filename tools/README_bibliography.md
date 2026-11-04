@@ -39,4 +39,6 @@ The script writes `bibliography/entries.csv`, synchronizes the page header total
 - Platform/service and news-outlet shares are calculated only from link occurrences in qualifying entries. The remaining share consists of reference, research and official-source categories.
 - The 2023–2026 source-year CSV does not contain first/last citation dates. For those rows, the build retains the already-audited date ranges from the current page until those dates are added to the data file.
 
+With `--wayback`, the script checks representative links on X/Twitter, Telegram, Facebook and Google Maps against the Internet Archive availability API. It adds an `archived` link only when a snapshot is reported. This lookup requires an internet connection and does not submit pages for archiving.
+
 Review the generated diff before committing or pushing either repository.
