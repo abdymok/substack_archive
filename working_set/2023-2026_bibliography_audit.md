@@ -890,3 +890,26 @@ Reclassified the 2023 Bitly entry from Reference and archives to Platforms, serv
 Updated the 2025 POLITICO Europe and Der Spiegel annotations to spell out Zelenskyy. Expanded the 2024 ZN.ua annotation to identify the author of “Vuhledar. First conclusions” as Vitaliy Kononuchenko, verified against ZN.ua's own article and its contemporaneous follow-up. Updated the 2024 Just Security annotation to name co-authors Michael J. Kelly and Craig Martin.
 
 The remaining 2025 platform entries and the full 2026 section were extracted from the committed page as visible text for independent user review. Several 2025 entries have concise or generic annotations; these remain candidates for editorial improvement after review. Current examples include RBC-Ukraine, The Telegraph, Emptywheel, ABC News, France 24 and Deutsche Welle.
+
+
+### Independent review of the 2025–2026 tail and Method — 4 November 2026
+
+The user's review confirmed the annual and category totals, sort order, and Method arithmetic, and withdrew the earlier 2022 Substack/TikTok destination concerns after noting that the reader had served an older page. No change was made for those withdrawn findings.
+
+Corrections to the public bibliography:
+
+- Reconciled the Method's C-SPAN statement: C-SPAN is under Reference and archives in 2022, and International news in 2023–2025.
+- Clarified the own-site rule. Direct links to the author's own archive and sites are excluded. Accounts and pages hosted by third-party platforms or archive services are counted under the host service when they meet the threshold. The 2026 Google redirect URLs to the author's Substack archive remain counted under Google because the 2023–2026 source/year data preserve the recorded redirect host.
+- Scoped the redirect rule explicitly. Facebook and Google redirects are unwrapped in the 2021–2022 files. In the 2026 data, the Google entry's 70 occurrences across seven posts comprise 67 redirect URLs across four posts (59 to the author's Substack archive and eight to external publishers) plus three direct Google Search or Maps links. The 2023–2026 source/year dataset retains those redirects under Google rather than reassigning by destination. The public annotation now explains this exception.
+- Identified the 299 once-occurring unclassified domains as belonging to the 2023–2026 source registry. Replaced the opaque recovered-file reference with direct links to the annual drafts, source/year counts, publisher registry, domain-alias map, linked-reference data and 2026 post directory.
+- Expanded the 2025 Facebook annotation to account for 15 link occurrences across 12 posts. Corrected the 2025 Truth Social annotation to account for eight links across five posts, including four separate May 23 posts.
+- Corrected the 2026 Facebook annotation to account for ten links across eight posts and identified Caolan Robertson by full name. Corrected the 2026 Truth Social annotation to account for four links across four posts, and the 2026 Substack annotation to account for both the Political Tips profile and a post in the author's own Substack archive.
+- Expanded the 2026 ISW annotation to cover the full January 21–July 22 citation range, not only the May assessments.
+- Replaced the two disputed NPR day labels with calendar dates. The archive index identifies the January 27 post title as Day 1433 while its continuous day counter is 1434, and the July 1 post title as Day 1590 while its continuous counter is 1589. The Guardian annotation's January 27 reference was also changed to a date rather than repeating the disputed Day 1433 label.
+- Replaced the 2026 Wikipedia representative-link prose with the article title, German Galushchenko. Spelled out Zelenskyy in the 2026 Axios, POLITICO Europe and ZN.ua annotations. Corrected Orbán's accent and Americanized NotebookLM's "synthesize".
+- Corrected the second NotebookLM representative URL to the notebooklm.google.com host, changed its label to NotebookLM workspace, and disclosed that public access has not been verified because it depends on sharing settings. The raw HTML contains "Ukraine@War" without a backslash.
+- Standardized the 2024 Tootsie Club description to "a Kyiv nightlife and karaoke venue", consistent with 2025–2026. Clarified that the 2024 Counteroffensive link is a Substack profile while the 2026 links go to the publication's own site.
+- Clarified that the February 4, 2026 NABU link is the original November 11, 2025 announcement of Operation Midas, cited again in a 2026 post. ZN.ua's own article page identifies Vitaliy Kononuchenko as the author of "Vuhledar. First conclusions" (30 September 2024): https://zn.ua/ukr/war/vuhledar-pershi-vysnovki.html.
+- The public HTML still contains the Google Analytics tag G-S3ZLJ9QQWD. This is a source check only, not proof that analytics is collecting data on the live page. Rendered presentation and iPhone Safari appearance remain unverified.
+
+No annual publisher totals or source counts were changed in this pass. The specialist-category placement of iRunFar (2025) and Men's Health (2026) remains an editorial classification question and was not changed in this commit.
