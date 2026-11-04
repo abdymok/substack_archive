@@ -77,11 +77,11 @@ def current_date_ranges(page: str) -> dict[tuple[str, str], str]:
     """Read existing, audited date ranges before regenerating data-driven counts."""
     ranges: dict[tuple[str, str], str] = {}
     year = None
-    for block in re.findall(r'<section class="year" id="year-(20\\d{2})">(.*?)(?=<section class="year"|<h2 class="scope-heading">)', page, re.S):
+    for block in re.findall(r'<section class="year" id="year-(20\d{2})">(.*?)(?=<section class="year"|<h2 class="scope-heading">)', page, re.S):
         year, body = block
         for dt in re.findall(r'<dt>(.*?)</dt>', body, re.S):
             name = re.search(r'<i>(.*?)</i>', dt, re.S)
-            count = re.search(r'·\\s*\\d+ posts?\\s*·\\s*([^<]+)</span>', dt)
+            count = re.search(r'·\s*\d+ posts?\s*·\s*([^<]+)</span>', dt)
             if name and count:
                 ranges[(year, html.unescape(re.sub(r"<.*?>", "", name.group(1))))] = html.unescape(count.group(1).strip())
     return ranges
@@ -138,8 +138,8 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
     )
     # Rebuild each annual publisher count from the CSV-derived rows.
     for y, data in summary.items():
-        pattern = rf'(<section class="year" id="year-{y}">.*?<p class="intro">.*?\\d+ recurring external publishers)'
-        page, n = re.subn(pattern, lambda m: re.sub(r'\\d+ recurring external publishers$', f'{data["entries"]} recurring external publishers', m.group(1)), page, count=1, flags=re.S)
+        pattern = rf'(<section class="year" id="year-{y}">.*?<p class="intro">.*?\d+ recurring external publishers)'
+        page, n = re.subn(pattern, lambda m: re.sub(r'\d+ recurring external publishers$', f'{data["entries"]} recurring external publishers', m.group(1)), page, count=1, flags=re.S)
         if n != 1:
             raise ValueError(f"Could not update annual count for {y}")
 
@@ -149,12 +149,12 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
             n_sources = sum(1 for r in rows if r["year"] == str(y) and r["category"] == category)
             if not n_sources:
                 continue
-            pattern = rf'(<h3 id="cat-{y}-{re.escape(anchor)}">.*?</h3>\\s*<p class="intro">)(.*?)(</p>)'
+            pattern = rf'(<h3 id="cat-{y}-{re.escape(anchor)}">.*?</h3>\s*<p class="intro">)(.*?)(</p>)'
             def replace_intro(m):
                 text = m.group(2)
                 # Replace the leading count phrase, retaining any explanatory prose.
                 updated, count = re.subn(
-                    r'^(?:[A-Za-z-]+|\\d+)\\s+(?:sources?|publishers?|outlets?),?',
+                    r'^(?:[A-Za-z-]+|\d+)\s+(?:sources?|publishers?|outlets?),?',
                     f'{n_sources} sources,', text, count=1, flags=re.I,
                 )
                 if not count:
@@ -166,13 +166,13 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
     method = (
         '<p class="intro method-summary">Inclusion requires at least two cited posts in a year. '
         'Direct links to the author’s own archive are excluded; Google redirects are attributed to their resolved destinations. '
-        'Counts are link occurrences and distinct posts, not unique articles, readership or influence. '
+        'Counts are link occurrences and distinct posts, not unique articles, readership or influence. The <a href="entries.csv">public CSV</a> lists the annual entries and counts. '
         'The <a href="#method-and-files">full method and file notes</a> explain the rules and source data.</p>'
     )
     if 'class="method-summary"' in page:
         page = re.sub(r'<p class="intro method-summary">.*?</p>', method, page, count=1, flags=re.S)
     else:
-        marker = '</p>\\n\\n<nav id="contents"'
+        marker = '</p>\n\n<nav id="contents"'
         if marker not in page:
             raise ValueError("Could not locate contents navigation to insert method summary")
         page = page.replace(marker, '</p>\n' + method + '\n<nav id="contents"', 1)
@@ -180,17 +180,18 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
     # A compact scope table: entries, category shares, and five most-linked sources.
     body = ['<h2 class="scope-heading" id="scope">At a glance</h2>',
             '<div class="scope-table-wrap"><table class="scope-table">',
+            '<caption>Shares are calculated from link occurrences among qualifying entries. Platforms and services include social media, commercial, specialist and unclassified sources.</caption>',
             '<thead><tr><th scope="col">Year</th><th scope="col">Entries</th><th scope="col">Platforms and services</th><th scope="col">News outlets</th><th scope="col">Five most-linked sources</th></tr></thead><tbody>']
     for y, d in summary.items():
         names = ' · '.join(f'{html.escape(r["publisher"])} ({int(r["links"]):,})' for r in d["top"])
         body.append(f'<tr><th scope="row">{y}</th><td>{d["entries"]}</td><td>{d["platform_share"]:.1f}%</td><td>{d["news_share"]:.1f}%</td><td>{names}</td></tr>')
     body.append('</tbody></table></div>')
-    table = '\\n'.join(body)
+    table = '\n'.join(body)
     if 'id="scope"' in page:
         page = re.sub(r'<h2 class="scope-heading" id="scope">.*?</div>', table, page, count=1, flags=re.S)
     else:
         marker = '<nav id="contents"'
-        page = page.replace(marker, table + '\\n' + marker, 1)
+        page = page.replace(marker, table + '\n' + marker, 1)
 
     page = page.replace('<h2 class="scope-heading">Method and files</h2>',
                         '<h2 class="scope-heading" id="method-and-files">Method and files</h2>')
