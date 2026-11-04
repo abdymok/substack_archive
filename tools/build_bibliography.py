@@ -128,6 +128,9 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
     summary = summarize(rows)
     total_entries = sum(v["entries"] for v in summary.values())
 
+    css = "  .scope-table-wrap { width: 100%; }\n  .scope-table { width: 100%; border-collapse: collapse; table-layout: fixed; font-size: 0.8125rem; line-height: 1.4; }\n  .scope-table th, .scope-table td { text-align: left; vertical-align: top; padding: 0.45rem 0.35rem; border-bottom: 1px solid #e8e8e8; overflow-wrap: anywhere; }\n  .scope-table thead th { font-weight: 600; border-bottom: 1px solid #999; }\n  .scope-table th:nth-child(1) { width: 8%; }\n  .scope-table th:nth-child(2) { width: 9%; }\n  .scope-table th:nth-child(3), .scope-table th:nth-child(4) { width: 16%; }\n  .scope-table th:nth-child(5) { width: 51%; }\n  .method-summary { margin-top: 1rem; }\n  @media (max-width: 40rem) { .scope-table { font-size: 0.72rem; } .scope-table th, .scope-table td { padding: 0.35rem 0.2rem; } }\n"
+    if ".scope-table-wrap" not in page:
+        page = page.replace("</style>", css + "\n</style>", 1)
     page = re.sub(
         r'<p class="meta">.*?</p>',
         f'<p class="meta">2021–2026 · updated {html.escape(as_of)} · {total_entries} annual publisher entries across six years · 2026 coverage through {html.escape(coverage)}</p>',
@@ -179,7 +182,7 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
             '<div class="scope-table-wrap"><table class="scope-table">',
             '<thead><tr><th scope="col">Year</th><th scope="col">Entries</th><th scope="col">Platforms and services</th><th scope="col">News outlets</th><th scope="col">Five most-linked sources</th></tr></thead><tbody>']
     for y, d in summary.items():
-        names = '; '.join(f'{html.escape(r["publisher"])} ({int(r["links"]):,})' for r in d["top"])
+        names = ' · '.join(f'{html.escape(r["publisher"])} ({int(r["links"]):,})' for r in d["top"])
         body.append(f'<tr><th scope="row">{y}</th><td>{d["entries"]}</td><td>{d["platform_share"]:.1f}%</td><td>{d["news_share"]:.1f}%</td><td>{names}</td></tr>')
     body.append('</tbody></table></div>')
     table = '\\n'.join(body)
@@ -197,7 +200,7 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--public-dir", type=Path, required=True, help="Path to the public bibliography directory")
-    parser.add_argument("--as-of", default=date.today().strftime("%B %-d, %Y"))
+    parser.add_argument("--as-of", default=date.today().strftime("%B %d, %Y").replace(" 0", " "))
     parser.add_argument("--coverage-through", default="October 28")
     args = parser.parse_args()
     page_path = args.public_dir / "index.html"
