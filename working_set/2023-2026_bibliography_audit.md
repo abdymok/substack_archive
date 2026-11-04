@@ -856,3 +856,12 @@ Structural QA of `bibliography/index.html`: 393 entry blocks; 79 unique IDs; no 
 A final representative-link language pass replaced seven generic labels (including “report”, “article”, “here”, “link” and “video”) with descriptive labels grounded in the entry annotations and destinations. No URLs, dates, counts, categories or annotation claims were changed. The public-page edit is commit `4fe3835ed9b673849610291d56dbfdb973689cc3` in `abdymok/abdymok.github.io`.
 
 GitHub Pages and GitLab backup both succeeded for the preceding commit `bde759266bfafdd5716cdab9f1f8b0e39c1e22bf`. The Pages build/deployment and GitLab backup triggered by `4fe3835` were still running at the time of this note. Rendered desktop/iPhone Safari inspection remains a human visual check; source and deployment logs do not certify the actual appearance on the user's device.
+
+
+### Follow-up attribution and keyboard-access pass — 4 November 2026
+
+The three remaining 2025 Archive.ph publisher attributions were rechecked against independent contemporary sources. The New York Times candidate for Day 1135 is corroborated by the publisher's article title and Reid J. Epstein by Gender on the Ballot's April 4 roundup and the Kentucky State AFL-CIO's April 2 digest; the WSJ candidate for Day 1184 is corroborated by the exact headline, byline and May 22 publication date in Tovima's WSJ syndication and AllSides' listing; and the Atlantic candidate for Day 1212 is corroborated by The Atlantic's “Trump's Trouble With Tulsi,” published June 18, 2025 at 6:26 p.m. EDT, with the post dated June 19. The Atlantic attribution note in `2023-2026_archive_ph_attribution.csv` now records the exact publisher timestamp and the remaining limitation. All three confidence labels remain medium: direct Archive.ph capture verification is still unavailable, so none has been promoted to confirmed.
+
+A small accessibility improvement was made to the public page: a keyboard-only “Skip to content” link now appears when focused, allowing keyboard users to bypass the wordmark and reach the main content. It is visually hidden at rest and uses the existing monochrome palette. This does not alter the reading layout or the mobile one-column presentation. Public HTML commit: `92c86c25b309f0ca573484acf2d7a07f854d1d13`.
+
+The outstanding release check remains rendered desktop and iPhone Safari inspection by the user. The source-level accessibility addition is verified in markup; it is not a substitute for a real browser/device check.
