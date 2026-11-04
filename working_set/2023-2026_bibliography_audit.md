@@ -865,3 +865,6 @@ The three remaining 2025 Archive.ph publisher attributions were rechecked agains
 A small accessibility improvement was made to the public page: a keyboard-only “Skip to content” link now appears when focused, allowing keyboard users to bypass the wordmark and reach the main content. It is visually hidden at rest and uses the existing monochrome palette. This does not alter the reading layout or the mobile one-column presentation. Public HTML commit: `92c86c25b309f0ca573484acf2d7a07f854d1d13`.
 
 The outstanding release check remains rendered desktop and iPhone Safari inspection by the user. The source-level accessibility addition is verified in markup; it is not a substitute for a real browser/device check.
+
+
+Deployment confirmation: public-page commit `92c86c25b309f0ca573484acf2d7a07f854d1d13` completed its GitHub Pages build and deployment successfully (workflow run 41807305726). The GitLab backup workflow also completed successfully (run 41807307179). The latest page commit is therefore both published and backed up.
