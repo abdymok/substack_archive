@@ -180,7 +180,7 @@ def update_page(page: str, rows: list[dict[str, str]], as_of: str, coverage: str
     # A compact scope table: entries, category shares, and five most-linked sources.
     body = ['<h2 class="scope-heading" id="scope">At a glance</h2>',
             '<div class="scope-table-wrap"><table class="scope-table">',
-            '<caption>Shares are calculated from link occurrences among qualifying entries. Platforms and services include social media, commercial, specialist and unclassified sources.</caption>',
+            '<caption>Shares are calculated from link occurrences among qualifying entries. Platforms and services include social media, commercial, specialist and unclassified sources. News outlets include international, Ukrainian and state media. Reference, research and official-source links make up the remainder.</caption>',
             '<thead><tr><th scope="col">Year</th><th scope="col">Entries</th><th scope="col">Platforms and services</th><th scope="col">News outlets</th><th scope="col">Five most-linked sources</th></tr></thead><tbody>']
     for y, d in summary.items():
         names = ' · '.join(f'{html.escape(r["publisher"])} ({int(r["links"]):,})' for r in d["top"])
