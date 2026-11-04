@@ -947,3 +947,8 @@ The 2026 annual publisher entries are now 57. The 2026 source-year link-occurren
 - The public page's visible text contains no literal semicolons. The header total is 394 annual publisher entries across six years (87 for 2021–2022 plus 307 for 2023–2026).
 
 Public HTML commit: `9ac4c0c5ac7093658887ab52a503eadd4e605a81`. Data corrections: source-year CSV `c4e831bc966cbde2b6c662f7c92f9cfb5e0efb18`; source registry `ec4840764305450fc9f4ff1b2f05582970ad3d2b`. The GitLab backup job for the public HTML commit succeeded. GitHub Pages build `41812892191` was still in progress at the time of this audit note.
+
+
+### Deployment completion — 4 November 2026
+
+The public HTML commit `9ac4c0c5ac7093658887ab52a503eadd4e605a81` completed GitHub Pages deployment successfully in run 41812892191. The GitLab backup completed successfully in run 41812893067. The live Pages URL could not be independently retrieved by the available web reader, so successful Actions deployment is verified but the rendered live page still merits a browser check.
