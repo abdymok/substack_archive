@@ -935,3 +935,15 @@ Verified against the 2025 and 2026 linked-reference files, the combined normaliz
 - Corrected a malformed CSV row in `2023-2026_source_year.csv` and `2023-2026_source_registry.csv`: the publisher name "Center for Astrophysics | Harvard & Smithsonian" contained an unescaped comma, shifting the category/year fields. The row now parses as one publisher, research, 2026, one link, one URL and one post. This reconciles 2026 source-year occurrences with the category-year total at 1,073.
 
 The 2026 annual publisher entries are now 57. The 2026 source-year link-occurrence total is 1,073; the 1,132 raw linked-reference records include 59 self-archive redirects excluded from external-publisher attribution.
+
+
+### Reconciliation validation — 4 November 2026
+
+- The current `2023-2026_normalized_links.csv` has 5,438 records. Its `resolved_url` and `counted_in_source_totals` fields identify 5,379 counted records and 59 excluded self-archive redirects.
+- Re-aggregating the normalized file by publisher, category and year reproduces all 1,143 source-year rows exactly, including link occurrences, distinct resolved URLs and distinct post-day labels.
+- Re-aggregating by category and year reproduces every category-year total. The 2026 source-year and category-year totals both equal 1,073.
+- Re-aggregating by source domain, publisher and category reproduces all 877 source-registry rows exactly.
+- The 2025 public page contains 100 recurring-publisher entries, all matching source-year link and post counts. The 2026 public page contains 57 entries, all matching source-year link and post counts. The 2026 category counts sum to 57 and the entries are in descending link-count order.
+- The public page's visible text contains no literal semicolons. The header total is 394 annual publisher entries across six years (87 for 2021–2022 plus 307 for 2023–2026).
+
+Public HTML commit: `9ac4c0c5ac7093658887ab52a503eadd4e605a81`. Data corrections: source-year CSV `c4e831bc966cbde2b6c662f7c92f9cfb5e0efb18`; source registry `ec4840764305450fc9f4ff1b2f05582970ad3d2b`. The GitLab backup job for the public HTML commit succeeded. GitHub Pages build `41812892191` was still in progress at the time of this audit note.
