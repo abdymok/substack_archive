@@ -29,7 +29,7 @@ Optional arguments:
 python tools/build_bibliography.py --public-dir ../abdymok.github.io/bibliography --as-of "November 4, 2026" --coverage-through "October 28" --wayback
 ```
 
-The script writes `bibliography/entries.csv` and synchronizes the page header total, annual totals, category counts and scope table. It preserves annotations and representative links.
+The script writes `bibliography/entries.csv`, synchronizes the page header total, annual totals, category counts and scope table, and refreshes both HTML working copies. It preserves annotations and representative links.
 
 ## Counting rules
 
