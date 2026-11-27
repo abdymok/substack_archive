@@ -3676,7 +3676,7 @@ Alya footnotes **passionaries**, crediting [Lev Gumilev](https://ru.wikipedia.or
 
 [Image]
 
-Lev devotes an entire chapter to *passionarity* starting on page 33. I picked up the book when I was carousing in St. Petersburg in 1991. I’ve being reading portions of the manifest every since, usually late at night when I have difficulty falling asleep.
+Lev devotes an entire chapter to *passionarity* starting on page 33. I picked up the book when I was carousing in St. Petersburg in 1991. I’ve been reading portions of the manifest every since, usually late at night when I have difficulty falling asleep.
 
 As for RDK, I would refer Sam and Alya to the project’s kick-off presser eight months ago. They should study the video **carefully** before writing more articles about RDK.
 
