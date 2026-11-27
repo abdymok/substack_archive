@@ -1359,7 +1359,7 @@ As we pause to reflect on the one-year anniversary of Volodymyr Zelensky’s ele
 
 Since Zelensky was elected, dialectical discourse has died in Ukraine, where *thesis* and its *antithesis* are now irrelevant.
 
-The Hegelian approach no longer applies. Evolving real ideas is passé. Reality is no longer be expressed in rational categories.
+The Hegelian approach no longer applies. Evolving real ideas is passé. Reality can no longer be expressed in rational categories.
 
 Arguments have been replaced by 47-second video clips decorated with pink unicorns and punchlines. These messages are posted on a need-to-know basis.
 
@@ -1428,9 +1428,9 @@ It’s day whatever of Ukraine’s COVID-19 disaster and President Volodymyr Zel
 
 > “…Since the first day of the threat of coronavirus in Ukraine, the Office of the President has been actively involved in providing the healthcare system with the necessary medical means. In particular, more than 20 planes were sent to China and other countries to deliver protection means, coronavirus tests and other special equipment to Ukraine.” Zelensky said during the Svoboda Slova TV show [aired](https://www.youtube.com/watch?time_continue=1628&v=Gqt3KYUopPY) on Friday evening.
 
-**This is bullshit, of course.** Under Zelensky, community spread of SARS-CoV-2in all 27 regions of Ukraine has been rampant for months, thanks to germy Russian Orthodox priests, millionaire MPs who didn’t wash their hands in Courchevel and tens of thousands of migrant workers, who two weeks ago were marched like cattle across the Poland-Ukraine border.
+**This is bullshit, of course.** Under Zelensky, community spread of SARS-CoV-2 in all 27 regions of Ukraine has been rampant for months, thanks to germy Russian Orthodox priests, millionaire MPs who didn’t wash their hands in Courchevel and tens of thousands of migrant workers, who two weeks ago were marched like cattle across the Poland-Ukraine border.
 
-Zelensky’s decision **in late March** to[install](https://abdymok.substack.com/p/stepanov-from-gynecology-to-gas) Maksym Stepanov, Ihor Kolomoisky’s gynecologist turned gas trader, as health minister brought a method, or “[algorithm](https://abdymok.substack.com/p/ukraines-new-algorithm),” to cleaning up the mess, but it has changed often, sometimes several times during one day, depending on the president’s mood.
+Zelensky’s decision **in late March** to [install](https://abdymok.substack.com/p/stepanov-from-gynecology-to-gas) Maksym Stepanov, Ihor Kolomoisky’s gynecologist turned gas trader, as health minister brought a method, or “[algorithm](https://abdymok.substack.com/p/ukraines-new-algorithm),” to cleaning up the mess, but it has changed often, sometimes several times during one day, depending on the president’s mood.
 
 As of this writing, the result isn't unlike a [horrible accident](https://abdymok.substack.com/p/not-unlike-a-horrible-accident), except it’s been caused by an unemployed actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a COVID-19 victim and paying too much attention to the horribleness of the grisly deaths Ukraine’s president has failed to prevent.
 
@@ -1453,7 +1453,7 @@ Ukrainian President Volodymyr Zelensky could resign on his own volition, Dnipro 
 > “It seems to me that, maybe in a year, he will say, ‘I'm sorry,’ and walk away.”
 
 [Image]
-> "Zelensky’s true intentions, I think, were quite good. But, unfortunately, in addition to good motives and qualities, you also need to know something. You must work hard, be diligent and have the ability to delve into issues and - most importantly - communicate with people. It’s not enough for him to ensconse himself in a close circle of friends and former classmates,” Korban said.
+> "Zelensky’s true intentions, I think, were quite good. But, unfortunately, in addition to good motives and qualities, you also need to know something. You must work hard, be diligent and have the ability to delve into issues and - most importantly - communicate with people. It’s not enough for him to ensconce himself in a close circle of friends and former classmates,” Korban said.
 
 Korban said Zelensky should have started to educate himself after embarking on his new profession as a politician.
 
@@ -1501,7 +1501,7 @@ Ze then set the political agenda for the country’s health care experts, which 
 
 ---
 
-In related news, the SBU State Security Service has [closed down](https://www.ssu.gov.ua/ua/news/1/category/21/view/7475#.YWHVui9W.dpbs) one of the Kyiv’s best meth labs operated by a former chemistry professor. We will miss it.
+In related news, the SBU State Security Service has [closed down](https://www.ssu.gov.ua/ua/news/1/category/21/view/7475#.YWHVui9W.dpbs) one of Kyiv’s best meth labs operated by a former chemistry professor. We will miss it.
 
 [Image]
 
@@ -1584,9 +1584,9 @@ In other news, there’s a hole in the bucket. Six of them, actually, punched wi
 
 (**Illustration by Mykhailo Aleksandrov for Mysl**)
 
-It’s difficult to establish exactly the moment during President Volodymyr Zelensky’s ten months as president when function lost is lustre, when churning out hopeful-sounding memes became secondary to their presentation on Instagram, when the cult of haughty ego took hold.
+It’s difficult to establish exactly the moment during President Volodymyr Zelensky’s ten months as president when function lost its lustre, when churning out hopeful-sounding memes became secondary to their presentation on Instagram, when the cult of haughty ego took hold.
 
-Perhaps it was on March 4 in the Verkhovna Rada after members of parliament approved Illia Yemets, [a Yanukovych-era hack](https://abdymok.substack.com/p/indidious-blandishments), as country’s new Health Minister.
+Perhaps it was on March 4 in the Verkhovna Rada after members of parliament approved Illia Yemets, [a Yanukovych-era hack](https://abdymok.substack.com/p/indidious-blandishments), as the country’s new Health Minister.
 
 Zelensky clapped.
 
