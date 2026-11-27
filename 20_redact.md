@@ -705,7 +705,7 @@ Looking on the bright side, some Kyiv insiders offer a less gruesome explanation
 
 [Image]
 
-Russia’s war against Ukraine, we are often told, is a partly a ***civil war*** involving ***rebels*** and ***separatists***fighting the central government in Kyiv in the country’s ***breakaway east***. Such inaccurate terms misrepresent the conflict.
+Russia’s war against Ukraine, we are often told, is partly a ***civil war*** involving ***rebels*** and ***separatists*** fighting the central government in Kyiv in the country’s ***breakaway east***. Such inaccurate terms misrepresent the conflict.
 
 The bloodletting is often talked about as if it’s entirely internal to Ukraine, a domestic affair brought on by language politics, identity clashes and historical grievances. This is crazy. This is wrong.
 
@@ -725,7 +725,7 @@ Russia has ***invaded*** Ukrainian territory – Crimea, Donetsk and Luhansk so 
 
 [Image]
 
-To argue or imply that there has been any acts of “self-determination” in any part of Ukraine calling into question Ukraine’s sovereignty over its territory contradicts the highest available organised expressions of international law.
+To argue or imply that there have been any acts of “self-determination” in any part of Ukraine that call into question Ukraine’s sovereignty over its territory contradict the highest available organised expressions of international law.
 
 [Image]
 
@@ -767,7 +767,7 @@ There will be no census this year. And there will be no census next year, irresp
 
 [Image]
 
-Ukraine’s new Health Minister Illia Yemets on March 12, 2022 [said](https://www.youtube.com/watch?time_continue=10&v=tDeBKhuaYzg&feature=emb_logo) at the start of an interview broadcast by pro-Russia TV 112.ua that he is not to blame for the unfolding disaster involving the spread of coronavirus (COVID-19) disease.
+Ukraine’s new Health Minister Illia Yemets on March 12, 2020 [said](https://www.youtube.com/watch?time_continue=10&v=tDeBKhuaYzg&feature=emb_logo) at the start of an interview broadcast by pro-Russia TV 112.ua that he is not to blame for the unfolding disaster involving the spread of coronavirus (COVID-19) disease.
 
 [Image]
 
