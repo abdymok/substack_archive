@@ -1936,7 +1936,7 @@ c/o [Nebi and Cara](https://apnews.com/article/russia-ukraine-kyiv-europe-nato-5
 
 Since at least 2015, I have unsuccessfully argued that using terms like **rebels,** **separatists**, **breakaway regions** and **insurrection** to describe Russia’s invasion of Ukraine serves **no purpose of diplomacy or journalistic balance**. It is a **failure** to serve the public interest. Russia’s war against Ukraine should be described as what it is: **an armed conflict instigated and sustained by Russia’s armed intervention**.
 
-To imply that there has been any acts of **self-determination** by shell-shocked refugees from Mariupol, Chernihiv, Kharkiv, Sumy, Berdiansk or from any besieged city of Ukraine to seek refuge in Russia contradicts the highest available organized expressions of international law. If editors, journalists, politicians and pundits decide to regurgitate Kremlin talking points, then, at least, they should explain why.
+To imply that there have been any acts of **self-determination** by shell-shocked refugees from Mariupol, Chernihiv, Kharkiv, Sumy, Berdiansk or from any besieged city of Ukraine to seek refuge in Russia contradicts the highest available organized expressions of international law. If editors, journalists, politicians and pundits decide to regurgitate Kremlin talking points, then, at least, they should explain why.
 
 So, don’t be like Nebi and Cara and their editors.
 
@@ -1999,17 +1999,17 @@ Belarus. The Belarusian soldiers who want to further invade Ukraine can simply j
 
 Some genius at WAPO decided to label Russia-occupied Donetsk and Luhansk regions as “separatist-controlled,” making the [same boo boo](https://abdymok.substack.com/p/day-1-phase-2?s=w) as Eric.
 
-There is no excuse for misrepresenting Russia’s now 9-year long invasion.
+There is no excuse for misrepresenting Russia’s now nine-year-long invasion.
 
 Members of the motley crew taken prisoner yesterday in Donetsk region aren’t fighting for independent Donbas. Making believe they are is just bad reporting.
 
 ---
 
-Leonid [says](https://www.youtube.com/watch?v=v_YpHRFvtUE&t=4552s) Russia’s adult population remains in a [somnambulic](https://www.merriam-webster.com/dictionary/somnambulism) sleep state. Ordinary citizens - 50+ year-olds who live outside major cities - the non TikTokers and those without Instagram accounts - are struggling to overcome cognitive dissonance, he said.
+Leonid [says](https://www.youtube.com/watch?v=v_YpHRFvtUE&t=4552s) Russia’s adult population remains in a [somnambulic](https://www.merriam-webster.com/dictionary/somnambulism) sleep state. Ordinary citizens - 50+ year-olds who live outside major cities - the non-TikTokers and those without Instagram accounts - are struggling to overcome cognitive dissonance, he said.
 
 [Image]
 
-Indeed, the population in Russia still doesn’t recognize the causal relationship between sanctions and Putin’s month-long further invasion of Ukraine, at least according polling data from the [All-Russian Center for the Study of Public Opinion](http://wciom.ru/), which says the percentage of Russians critical of the “Special Operation in Ukraine” [decreased](https://govoritmoskva.ru/news/310050/) last week.
+Indeed, the population in Russia still doesn’t recognize the causal relationship between sanctions and Putin’s month-long further invasion of Ukraine, at least according to polling data from the [All-Russian Center for the Study of Public Opinion](http://wciom.ru/), which says the percentage of Russians critical of the “Special Operation in Ukraine” [decreased](https://govoritmoskva.ru/news/310050/) last week.
 
 Ibrahim, on the other hand, [doesn’t rule out](https://www.youtube.com/watch?v=v_YpHRFvtUE&t=4552s) all shit breaking loose in a couple of months when the *wedge* of economic hardship caused by sanctions induces [exploding head syndrome](https://en.wikipedia.org/wiki/Exploding_head_syndrome).
 
@@ -2039,7 +2039,7 @@ Putin’s Special Operation continues to resemble Carlos Castaneda’s *[A Separ
 
 ###### Putin’s Plans
 
-It’s entirely possible, Putin lives in an environment where right angles do not matter.
+It’s entirely possible that Putin lives in an environment where right angles do not matter.
 
 Text within this block will maintain its original spacing when published
 
@@ -2100,7 +2100,7 @@ No one knows, and no one knows what “it” is.
 **Cut-offs:**
 
 - Two months, approximately until June (it will become clear whether it is possible to conquer Ukraine, without using nuclear weapons)
-- Four-five months, approximately until August (it will become clear whether it is possible to conquer Ukraine in principle)
+- Four to five months, approximately until August (it will become clear whether it is possible to conquer Ukraine in principle)
 - 12-14 months, approximately until the summer of next year (it will become clear whether Russia can survive in isolation without oil and gas trade with Europe)
 
 Each next cut-off can only be reached by surviving the previous one. After each cut-off, some new reality, or unreality will be established.
@@ -2151,7 +2151,7 @@ As a result of Putin’s special operation, Russia and Ukraine:
 - **agree** to talk about the status of Crimea for the next 15 years. Before the invasion, Russia said there was nothing to discuss.
 - **agree** that NATO weapons, which were not in Ukraine, will not be in Ukraine.
 - **agree** that Ukraine will accelerate EU integration and receive financial assistance.
-- **agree** that Ukraine will receive NATO-like security guarantees from United States, Germany, France, Israel, Turkey, et cetera, without paying.
+- **agree** that Ukraine will receive NATO-like security guarantees from the United States, Germany, France, Israel, Turkey, et cetera, without paying.
 
 ---
 
@@ -2178,7 +2178,7 @@ We should all be nicer to Ukraine experts. I try, but without much success. The 
 [Image]
 *Photo c/o Bochkala\_# Somehwere in Ukraine*
 
-We know knowledge matters, but although we know that Americans who are avid TikTok users, for example, behave differently than those don’t, it is less clear whether this difference stems from Gen Z putting its command of facts to good use, or to certain types of people with unhealthy news-consumption habits.
+We know knowledge matters, but although we know that Americans who are avid TikTok users, for example, behave differently than those who don’t, it is less clear whether this difference stems from Gen Z putting its command of facts to good use, or from certain types of people with unhealthy news-consumption habits.
 
 The answer might explain why most Americans (72%) have a lot or some confidence in Ukrainian President Volodymyr Zelensky, higher than any other international leader asked about in a new Pew Research Center [survey](https://www.pewresearch.org/fact-tank/2022/03/30/zelenskyy-inspires-widespread-confidence-from-u-s-public-as-views-of-putin-hit-new-low/).
 
@@ -2192,7 +2192,7 @@ The vast majority of Americans with poor geographic and foreign policy knowledge
 
 ---
 
-It’s churlish to dwell on all that went wrong with professional journalism in Ukraine. True, some Kyiv-based journalists aren’t completely annoying to be in the same room with, and you have to admire the tenacity to remain in a profession wherein rejection and slamming criticism are just the beginning.
+It’s churlish to dwell on all that went wrong with professional journalism in Ukraine. True, some Kyiv-based journalists aren’t completely annoying to be in the same room with, and you have to admire the tenacity it takes to remain in a profession wherein rejection and slamming criticism are just the beginning.
 
 Gaping insecurity, white-hot neediness, gelatin bravado – there are worse characteristics to have, but these traits can be overlooked during a war if you’re 1) in love or 2) in power.
 
