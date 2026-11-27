@@ -1,4 +1,4 @@
-# Iskander / abdymok Substack Archive — 2023
+### Iskander / abdymok Substack Archive — 2023
 
 243 posts.
 
@@ -3827,7 +3827,7 @@ Video of the Day is Faithless by Mass Destruction
 
 [Image]
 
-# Article 56 - Protection of works and installations containing dangerous forces
+### Article 56 - Protection of works and installations containing dangerous forces
 
 1. Works or installations containing dangerous forces, namely dams, dykes and nuclear electrical generating stations, shall not be made the object of attack, even where these objects are military objectives, if such attack may cause the release of dangerous forces and consequent severe losses among the civilian population. Other military objectives located at or in the vicinity of these works or installations shall not be made the object of attack if such attack may cause the release of dangerous forces from the works or installations and consequent severe losses among the civilian population[1](#footnote-1).
 
@@ -4162,7 +4162,7 @@ I then stumbled on Timofiy Mylovanov and accidentally read this long [threaded t
 
 But I digress. The big news yesterday, [according Reuters](https://www.reuters.com/world/biden-says-threat-putin-using-tactical-nuclear-weapons-is-real-2023-06-20/) *by way of* [Uncle Joe](https://www.reuters.com/world/biden-says-threat-putin-using-tactical-nuclear-weapons-is-real-2023-06-20/), is that Putin might turn us into nuclear dust.
 
-# “The threat is real.”
+### “The threat is real.”
 
 In fact, this is very old news, which we dispensed with on Day 14[1](#footnote-1). This fear has obviously been percolating in the American president’s head, along with [unease](https://www.washingtonpost.com/climate-environment/2023/05/22/colorado-river-water-conservation-deal-states/) that the Colorado River might dry up.
 
@@ -6654,50 +6654,50 @@ Meanwhile, I remembered **the most ludicrous scheme ever** to energize a dwindli
 I’ve refashioned it into the Poem of the Day.
 
 ```
-# Robots file for www.abdymok.net
-# Contact Webmaster for changes to this file.
+### Robots file for www.abdymok.net
+### Contact Webmaster for changes to this file.
 #
-# $Id$
+### $Id$
 #
-# See <URL:http://info.webcrawler.com/mak/projects/robots/robots.html>
-#
-#
-# In addtion to the following information, the following meta tag
-# can also be used
-# <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+### See <URL:http://info.webcrawler.com/mak/projects/robots/robots.html>
 #
 #
-# User-agent
+### In addtion to the following information, the following meta tag
+### can also be used
+### <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 #
-# The value of this field is the name of the robot the record is
-# describing access policy for.
 #
-# If more than one User-agent field is present the record describes an
-# identical access policy for more than one robot. At least one field
-# needs to be present per record.
+### User-agent
 #
-# The robot should be liberal in interpreting this field. A case
-# insensitive substring match of the name without version information is
-# recommended.
+### The value of this field is the name of the robot the record is
+### describing access policy for.
 #
-# If the value is '*', the record describes the default access policy
-# for any robot that has not matched any of the other records. It is
-# not allowed to have two such records in the "/robots.txt" file.
+### If more than one User-agent field is present the record describes an
+### identical access policy for more than one robot. At least one field
+### needs to be present per record.
 #
-# Disallow 
+### The robot should be liberal in interpreting this field. A case
+### insensitive substring match of the name without version information is
+### recommended.
 #
-# The value of this field specifies a partial URL that is not to be
-# visited. This can be a full path, or a partial path; any URL that
-# starts with this value will not be retrieved. For example, Disallow:
-# /help disallows both /help.html and /help/index.html, whereas
-# Disallow: /help/ would disallow /help/index.html but allow /help.html.
+### If the value is '*', the record describes the default access policy
+### for any robot that has not matched any of the other records. It is
+### not allowed to have two such records in the "/robots.txt" file.
 #
-# Any empty value, indicates that all URLs can be retrieved. At least
-# one Disallow field needs to be present in a record.
+### Disallow 
 #
-# The presence of an empty "/robots.txt" file has no explicit associated
-# semantics, it will be treated as if it was not present, i.e. all
-# robots will consider themselves welcome.
+### The value of this field specifies a partial URL that is not to be
+### visited. This can be a full path, or a partial path; any URL that
+### starts with this value will not be retrieved. For example, Disallow:
+### /help disallows both /help.html and /help/index.html, whereas
+### Disallow: /help/ would disallow /help/index.html but allow /help.html.
+#
+### Any empty value, indicates that all URLs can be retrieved. At least
+### one Disallow field needs to be present in a record.
+#
+### The presence of an empty "/robots.txt" file has no explicit associated
+### semantics, it will be treated as if it was not present, i.e. all
+### robots will consider themselves welcome.
 #
 
 #User-agent: Ultraseek
@@ -6715,7 +6715,7 @@ Disallow: /process
 Disallow: /screamingmedia
 Disallow: /search
 
-# Rover is a bad dog <http://www.roverbot.com>
+### Rover is a bad dog <http://www.roverbot.com>
 User-agent: Roverbot
 Disallow: /
 ```
