@@ -426,7 +426,7 @@ Biden’s Spokeswoman Jen Psaki agreed that Putin’s rape joke was outrageous, 
 
 Ritual visits to the Dragon have become an obligatory attribute of Western political etiquette. Every self-respecting knight of the European common table should pay a visit to the Dragon to discuss with him the fate of the Beautiful Maiden (Ukraine). Orban and Macron have already visited Moscow, Scholz is on the way. The Dragon is happy with everyone, except for the Anglo-Saxons, who turned out to be unpalatable.
 
-Gradually, the configuration of the Kremlin's game and, accordingly, the West’s counterplay becomes more understandable, yet no more predictable. The starting point for modeling the situation may be an adjusted understanding of the Kremlin's goals in this game. Contrary to popular belief, they are not offensive, but defensive - in the sense that the Kremlin's aggression today is not at all from a good life. The Kremlin is not chasing someone, but running away from something.
+Gradually, the configuration of the Kremlin's game and, accordingly, the West’s counterplay becomes more understandable, yet no more predictable. The starting point for modeling the situation may be an adjusted understanding of the Kremlin's goals in this game. Contrary to popular belief, they are not offensive, but defensive - in the sense that the Kremlin's aggression today is not at all born of a good life. The Kremlin is not chasing someone, but running away from something.
 
 Having annexed Crimea de facto and de jure in 2014, and then also part of the Donbas only de facto, the Kremlin actually got stuck with one foot in the rotten and viscous swamp of a *creeping war* with the West. This not only costs a pretty penny, but it also hangs like a sword of Damocles over the St. Petersburg clan’s dream of creating an eternal kingdom in Russia. The situation can be stabilized only by legalizing the trophies, at least the Crimea trophy, and bribing their way out of the war in Donbas. Simply put, the Kremlin does not need a global redistribution of the world, as it tries to imagine and as many people think, but a more or less working exit strategy, some new San Stefano "agreement" [a treaty between the Russian and Ottoman empires at the conclusion of the [Russo-Turkish War of 1877-1878](https://en.wikipedia.org/wiki/Russo-Turkish_War_of_1877-1878)] (We must not forget that Putin's elites are not even from the twentieth, and nineteenth centuries - captured, recorded, forgotten). That would at least allow us to draw a line underneath their gangster past, at least a dotted line.
 
@@ -1368,7 +1368,7 @@ Both men believe priority #1 is restoring Russia’s domination over Ukraine.
 
 [Image]
 
-For eight years, U.S. and European diplomats have been dreaming up and proposing diplomatic “off ramps” in the hopes of placating the loony Kremlin leader and avoiding military confrontation. Obviously, they failed.
+For eight years, U.S. and European diplomats have been dreaming up and proposing diplomatic “off ramps” in hopes of placating the loony Kremlin leader and avoiding military confrontation. Obviously, they failed.
 
 \*\*\*
 
@@ -1597,7 +1597,7 @@ Looking on the bright side, it’s obvious Russia will be defeated.
 
 Peanut gallery Ukraine experts still failing to grasp that what’s transpiring isn’t a war against Ukraine, per se, but another bloody episode in Putin’s years-long crusade against *liberalism*, in the broadest sense of the word.
 
-The United States is **Advising** and **Assisting** Ukraine in its war against Russia, the [Det-A](https://detachment-a.org/detachment-a-how-special-forces-soldiers-operated-undercover-in-cold-war-berlin/) equivalent of *suggesting* the best place to cross the death strip in Cold War East Berlin. The decision on *authorizing* the third A - **Accompanying** - should be a couple weeks, maybe months, down the road.
+The United States is **Advising** and **Assisting** Ukraine in its war against Russia, the [Det-A](https://detachment-a.org/detachment-a-how-special-forces-soldiers-operated-undercover-in-cold-war-berlin/) equivalent of *suggesting* the best place to cross the death strip in Cold War East Berlin. The decision on *authorizing* the third A – **Accompanying** – should be made a couple of weeks, maybe months, down the road.
 
 The decision to deploy U.S. and/or NATO troops will likely depend on how many thousands more innocent Ukrainian civilians are blown to bits by errant Russian cruise missiles and indiscriminate shelling by multiple-rocket launchers. False-flag limited nuclear and chemical attacks might be triggers, but no one knows. So far, Biden and Jens have been mostly talking about what they’re not going to do.
 
@@ -1673,7 +1673,7 @@ Several forward lines of own troops (FLOTs) have been established around the wes
 
 To the West of Kyiv is an ocean of flat fields (well, a bracelet of small sparsely-populated towns, then Zhytomyr and Lviv, the large islands of Poland and Germany, then an ocean). To the North is Chernihiv and a huge smear of boggy marshes extending into Belarus and western Russia called the Polesian Lowland, or Polissia. Monotonous terrain stretches to the East, all the way to Donbas, reminding us that planet is indeed an oblate spheroid. Odesa and the Black Sea are almost due South, with Cherkasy, Kremenchuk, Dnipro and Zaporizhia straddling the Dnipro - the fourth longest river in Europe. The hilliest part - the Carpathian mountain range - is tucked in the southwestern corner of Zakarpattia bordering Romania, Slovakia and Romania.
 
-Fred at the [Institute for the Study of War](https://www.understandingwar.org/) provides us this [map](https://twitter.com/TheStudyofWar/status/1504950017542533131/photo/3) (as of March 18) illustrating Russia’s attempt to encircle Kyiv. [Critical Threats](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-march-18), a U.S. taxpayer-funded slush fund, provides a full report.
+Fred at the [Institute for the Study of War](https://www.understandingwar.org/) provides us with this [map](https://twitter.com/TheStudyofWar/status/1504950017542533131/photo/3) (as of March 18) illustrating Russia’s attempt to encircle Kyiv. [Critical Threats](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-march-18), a U.S. taxpayer-funded slush fund, provides a full report.
 
 [Image]
 
@@ -1681,7 +1681,7 @@ Compare it with Kyiv Region State Military Administration’s map (also as of Ma
 
 [Image]
 
-Tik Tok influencers, meanwhile, have identified at least three individuals directly responsible for the unspeakable tragedy.
+TikTok influencers, meanwhile, have identified at least three individuals directly responsible for the unspeakable tragedy.
 
 ---
 
@@ -1691,7 +1691,7 @@ Tik Tok influencers, meanwhile, have identified at least three individuals direc
 
 *Burb Battles*
 
-Mark Solonin [chats up](https://www.youtube.com/watch?v=1KyToBZxZO4&t=1922s) a \*specialist\* in Ukraine’s special forces describes ongoing mop-up ops around Kyiv, about how soldiers, volunteers and vets are turning invading orcs into fertilizer.
+Mark Solonin [chats up](https://www.youtube.com/watch?v=1KyToBZxZO4&t=1922s) a *specialist* in Ukraine’s special forces who describes ongoing mop-up ops around Kyiv, about how soldiers, volunteers and vets are turning invading orcs into fertilizer.
 
 (*to be continued*)
 
@@ -1772,7 +1772,7 @@ Nothing comes to mind. Maybe something will occur to me later.
 
 ---
 
-Spandau Prison used to be clearly visible from [Teufelsberg](https://abdymok.medium.com/the-hill-fce76b85bb86) in Forst Grunewald in western Berlin before it was turned into a shopping mall. The castle was home to seven top Nazi leaders convicted in the Nuremberg trials, including [Alfred Speer](https://en.wikipedia.org/wiki/Albert_Speer#Imprisonment), who spent 20 years there. Speer later became a best selling author - *[Inside the Third Reich](https://en.wikipedia.org/wiki/Inside_the_Third_Reich)* (in German, *Erinnerungen*, or *Reminiscences*) and *[Spandau: The Secret Diaries](https://en.wikipedia.org/wiki/Spandau:_The_Secret_Diaries)* (in German, *Spandauer Tagebücher*).
+Spandau Prison used to be clearly visible from [Teufelsberg](https://abdymok.medium.com/the-hill-fce76b85bb86) in Forst Grunewald in western Berlin before it was turned into a shopping mall. The castle was home to seven top Nazi leaders convicted in the Nuremberg trials, including [Albert Speer](https://en.wikipedia.org/wiki/Albert_Speer#Imprisonment), who spent 20 years there. Speer later became a bestselling author - *[Inside the Third Reich](https://en.wikipedia.org/wiki/Inside_the_Third_Reich)* (in German, *Erinnerungen*, or *Reminiscences*) and *[Spandau: The Secret Diaries](https://en.wikipedia.org/wiki/Spandau:_The_Secret_Diaries)* (in German, *Spandauer Tagebücher*).
 
 Joe and Olaf should keep this passage in mind:
 
@@ -1843,7 +1843,7 @@ Biden and European leaders say they're doing enough to sustain Ukraine's war eff
 
 All kinds of technological disasters are possible, ranging from out-of-control brush fires in the Chornobyl exclusion zone to Russia-occupied nuclear power plant meltdowns and chemical plant leaks, not to mention famine, poisoned water supplies and bird-borne sicknesses.
 
-We assume Tiger Team has gamed in [débâcle](https://www.merriam-webster.com/thesaurus/d%C3%A9b%C3%A2cle), both natural and man-made.
+We assume Tiger Team has gamed out [débâcle](https://www.merriam-webster.com/thesaurus/d%C3%A9b%C3%A2cle), both natural and man-made.
 
 ---
 
