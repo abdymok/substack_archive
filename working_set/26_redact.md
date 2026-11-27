@@ -1,6 +1,6 @@
 # Iskander / abdymok Substack Archive — 2026
 
-247 posts.
+271 posts.
 
 ---
 
@@ -16347,5 +16347,1241 @@ Speaking of which, former President Petro Poroshenko [visited the South Bridge](
 We wrote about bridges here on October 5 and October 6 and have devoted some time and effort documenting their dilapidation and/or destruction on [github](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html).
 
 It is not as if the power bank, Flamingo, the traffic jams and the rest came as a great surprise. Everyone had been told in advance, and had, with characteristic courtesy, declined to believe it.
+
+---
+
+## Day 1709
+
+*Date: 2026-10-29 | Status: Published | Audience: only_paid*
+
+*Caught in the nets*
+
+[Image]
+
+The Uninvited has been reading about Z’s latest meeting with journalists, the kind who do not ask about the house in Dynasty. Nor do they ask about the promise to begin demobilization this autumn, the 3,000 missiles promised by the end of 2025, the reserved personal fitness trainer, the unidentified persons in the Office of the President who allegedly told Mudry to post bail UAH 150,000,000 for Professor Zigizsmund, or the absence of Ukrainian ballistic missiles.
+
+It is a courteous arrangement. The journalists spare the president the questions. The president spares the journalists the answers. And they all fight among themselves about copyright infringement.
+
+At a recent meeting, according to a leaky YouTube influencer who was present, Z said Kyiv had failed to prepare for the threats and had not fully carried out its resilience plans. Mayor Klitschko, he suggested, should have phoned experienced administrators himself rather than wait for the president to do it.
+
+The Uninvited finds this instructive, as one finds it instructive that the latest line of Kyiv Independent merch for pets and the people who walk them, drawn by an artist from Donetsk Oblast, cannot be shipped to Ukraine.
+
+There is nothing wrong with selling dog collars to foreigners. It is how an independent newsroom stays independent, and the animals are real. The observation is only about who the shop is for. A Ukrainian can read the newspaper for free, but the dog in the collection belongs to someone elsewhere.
+
+Everyone had been told.
+
+Then comes the question that matters. Who was told what, and what was it for?
+
+[Image]
+
+*Fishnetting on the Kyiv’s South Bridge did not prevent at least one ballistic missile from blowing a gigantic hole in the middle of the span days later. (Photo c/o abdymok*©*, October 17, 2026)*
+
+This is not about fishnetting. While Ukraine was strong and united, its partners did not dare cross the red line. Then they saw that Z had no plan, and that Ukrainian delegations show up to negotiations in sneakers. They simply stopped taking them seriously. Z’s politics of rudeness and fawning no longer works. Everyone is already used to it. It no longer surprises anyone outside Ukraine. Z asked Trump to ask Xi to ask Putin to stop the war. Since that’s the plan, Ukraine naturally isn’t at the table, and Trump, seeing this, crosses all red lines. Only the weak are betrayed, along with the corrupt and irresponsible talkers.
+
+That explains the Oleshky circus, and how we have arrived at “four American journalists from Newsmax will also accompany the mission to interview residents and document where they choose to go, providing a record of their decisions as civilians are evacuated from Russian-held territory.”\[1\] Why? Because they’ve been invited.
+
+In a Ukrainian village, nobody buys a coat for a dog. The dog is given the old one.
+
+The Uninvited wound up there and examined the cellar with the unusual care of a man who was not offered a glass. The cellar had been saying the same for some time.
+
+They say a root cellar should be inspected by a stranger. The owner knows what he put into it and can no longer taste it properly. I stocked this archive myself, so I borrowed an AI to inspect the bottles laid down since January 2025.
+
+Below are the ones it finds most crisp and bright. I listen with the expression of a host whose guest is praising the vinegar. I am not sure I agree with the verdict, except about CCC and the unfiltered Saperavi.
+
+The 2025 vintage is light but sound.
+
+Peace through ignorance (January 15) put American military leadership, Russia’s attack and Z’s daily pep talk at the same table, like three wedding guests who have not been introduced.\[2\] Statements rarely improve when placed beside the facts. This is one reason the comparison is so seldom made.
+
+Turning off the lights (October 8) separated a strategy for victory from a strategy for survival.\[3\] Both are respectable. They should not be sold in the same bottle under the same label.
+
+The 20-point peace plan (December 11) made the elementary observation that a plan is not a peace, any more than a menu is a dinner.\[4\] Resolve is produced locally. Strategy, like the Saperavi, is always on its way.
+
+Then there is CCC, who brings his own bottle and drinks it unfiltered. He flits in and out of Ukraine like a migratory bird, documenting bridges, military units, church bells and dying sunflowers. Days before Russia struck the South Bridge, he took the best photographs of it anyone has. The span still stands but no longer functions. A bridge that carries nothing is, strictly speaking, a monument.
+
+CCC goes straight to the back, counts the spans, photographs the bell and mixes nothing with his Saperavi. He does not need the label explained to him. He has looked inside the bottle.
+
+The 2026 vintage is larger and less well behaved.
+
+A year to forget, or a year to regret? (January 1) took the cold in my home and the frozen Dnipro as evidence.\[5\] The cold proved the most reliable witness, having never revised its testimony.
+
+P→Q,¬P⇏¬Q—and perhaps no story (February 12) asked whether a Financial Times article’s confusion about elections and a peace deal followed from its premises.\[6\] It did not. An argument that fails to follow is bad enough. One that follows beautifully from nothing is worse, because people believe it.
+
+What the transcript cannot hear (April 29) and Text, context, subtext (May 16) argued that leaked conversations and a building in Kyiv must be read from several sides, never from the brochure.\[7\]\[8\]
+
+The man on the corner (October 14) distinguished a reported threat from an actual cutoff.\[9\] The distinction costs nothing. It is nevertheless rarely in stock.
+
+The newest bottle is Load limits (October 28), in which a power station, the Flamingo affair, traffic jams and the South Bridge turn out to be one subject.\[10\] Everyone had been told. Everyone, with great courtesy, declined to believe it.
+
+Disbelief is the one commodity Kyiv never runs short of.
+
+We wrote about the bridges on October 5 and 6, and documented them on GitHub.\[11\]\[12\] The photographs are there. So is the record. The bridge has now supplied the commentary, as my freshly copyrighted photos illustrated.
+
+Three tasters, then. The AI finds patterns in the bottles already stored. CCC brings his own wine and looks at what is actually there. The Uninvited came without an invitation and found the political vintage much as he expected.
+
+Their methods differ. They have not yet been asked to compare notes.
+
+The archive never claimed to have won. It claimed only to have noticed, early and in writing.
+
+The prophet, as the saying goes, is the man who was merely not asleep.
+
+The cellar is open to anyone who wishes to taste it. Mind the first bottle, the one brought out for guests. And expect CCC shortly, bringing his own.
+
+------------------------------------------------------------------------
+
+**Brought in from outside**
+\[1\] Fox News, October 28, 2026: [Inside Melania Trump’s secret diplomatic role in the Russia-Ukraine ceasefire deal](https://www.foxnews.com/politics/inside-melania-trumps-secret-diplomatic-role-russia-ukraine-ceasefire-deal)
+
+**2025 vintage**
+\[2\] Day 1057, January 15: [Peace through ignorance](https://abdymok.substack.com/p/day-1057)
+\[3\] Day 1323, October 8: [Turning off the lights](https://abdymok.substack.com/p/day-1323)
+\[4\] Day 1387, December 11: [The 20-point peace plan](https://abdymok.substack.com/p/day-1387)
+
+**2026 vintage**
+\[5\] Day 1408, January 1: [A year to forget, or a year to regret?](https://abdymok.substack.com/p/day-1408)
+\[6\] Day 1450, February 12: [P→Q,¬P⇏¬Q—and perhaps no story](https://abdymok.substack.com/p/day-1450)
+\[7\] Day 1525, April 29: [What the transcript cannot hear](https://abdymok.substack.com/p/day-1525)
+\[8\] Day 1543, May 16: [Text, context, subtext](https://abdymok.substack.com/p/day-1543)
+\[9\] Day 1694, October 14: [The man on the corner](https://abdymok.substack.com/p/day-1694)
+\[10\] Day 1708, October 28: [Load limits](https://abdymok.substack.com/p/day-1708)
+
+**The bridges**
+\[11\] Days 1685 and 1686, October 5 and 6: [Day 1685](https://abdymok.substack.com/p/day-1685-737) and [Day 1686](https://abdymok.substack.com/p/day-1686)
+\[12\] The photographs and the record: [critical infrastructure damage, on GitHub](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html)
+
+---
+
+## Day 1710
+
+*Date: 2026-10-30 | Status: Published | Audience: only_paid*
+
+*America’s answer to Russia Today*
+
+[Image]
+
+*Emergency worker extinguishing a blurred out corpse, or corpses, after Russian drone smashed into a Dnipro rail station. At least 14 civilains were killed. (Photo c/o State Emergency Service of Ukraine, October 29, 2026)*
+
+This will be a two-part post, against my better judgement.
+
+The Oleshky evacuation op should remind us of Witkoff and Kushner brokering a peace deal between Ukraine and Russia, or the maritime equivalent of sending the lifeboat after the ship has gone down.
+
+It’s churlish to dwell on all that can go wrong with the professional journalist. True, some aren’t completely annoying to be in the same room with, and some do [good work](https://en.wikipedia.org/wiki/Robert_I._Friedman). But news that a team of American documentalists have been dispatched from Simferopol, by Newsmax’s own account, to document the evacuation of Oleshky residents should make the hairs rise on the back of your neck.
+
+"Виступаючи в ролі нейтральних спостерігачів, вони будуть самостійно фіксувати та назавжди документувати цю історичну гуманітарну місію", - додала перша леді США. —- Melania Trump ([X](https://x.com/MELANIATRUMP/status/2115574417027981496), October 29, 2026)
+
+[Image]
+
+Alex Salvi, who leads the Newsmax team, worked at One America News until 2021, the network that produced and aired Chanel Rion’s 2019 Ukraine series with Rudy Giuliani. That record is part of the context for his current assignment. He has been Newsmax’s Rome-based foreign correspondent since 2021. His reporting from Ukraine has been periodic, and the Kherson-region piece I watched this summer was prosaic. I could not find a Newsmax statement on whether anyone on the team speaks Russian or Ukrainian, or who will interpret for them inside Oleshky.
+
+Since Day 1 of Russia’s genocidal campaign, Newsmax has, for the most part, been a [spectacularly unhinged](https://www.youtube.com/watch?v=0xygR4LJ0R0) MAGA propagandizing cesspool of anti-Ukraine bullshit. Russia’s federal Human Rights Commissioner (ombudswoman) Yana Lantratova, who is under [US and EU sanctions](https://www.opensanctions.org/entities/Q108757245/) and is [suspected by Ukraine’s SBU](https://war-sanctions.gur.gov.ua/en/sanctions/persons/904) of kidnapping children from Kherson, [said](https://t.me/lantratovaDOBRO/16085) yesterday that she will take the American team with her to Oleshky.
+
+[Video: https://youtu.be/0xygR4LJ0R0]
+
+Newmax recently has given Trump the platform and Z his interviews, but not as neutral observers or documentalists. I don’t understand why anyone would think it will be otherwise in Kherson. Looking on the bright side, maybe we’ll be surprised.
+
+------------------------------------------------------------------------
+
+We’re nearing the end of our [documentary record pilot](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html?utm_source=chatgpt.com), tracking Russian attacks against Kyiv and selected critical infrastructure during October 2026. The exercise has been instructive, frustrating and depressing. Not sure whether to continue logging items in the months ahead.
+
+The working total as of yesterday is about 268 editorial items and records, not counting the dashboard tracking civilian deaths, air alerts in Kyiv and their cumulative duration.
+
+Setting up a large enough evidence repository and training AIs to update it is not a difficult task, but there are root concepts I can’t wrap my brain around. Now I just want to get the repositories running in a way that won’t blow up. ~~Please let me know if you can help~~ Getting there, getting there.
+
+The page can easily be made available in Taiwan-style Traditional Chinese and Dzongkha. However, other projects beckon.
+
+Like running.
+
+In related news, state officials on October 29 unpacked Ukraine’s new official font — Zakon.
+
+[Image]
+
+It’s a classical serif typeface drawing on Ukrainian lettering traditions, including the work of [Heorhiy Narbut](https://www.youtube.com/watch?v=BpGvybBeI6w), Vasyl Krychevsky, Yakiv Hnizdovsky, Robert Lisovsky, Vasyl Khomenko and Vasyl Chebanyk. Its distinctive details include asymmetric serifs and diamond-shaped dots over the Ukrainian letters і and ї. Not as restrained as Spectral.
+
+After 12 years of war, getting rid of anything Russia-related, including fonts, is an excellent idea. But Zakon is a little too heavy for the chronology, which finally feels like a well-kept record, not a designed object demanding attention.
+
+So I just stuck it on the [landing page](https://abdymok.github.io/).
+
+Have a great weekend!
+
+---
+
+## Day 1711
+
+*Date: 2026-10-31 | Status: Published | Audience: only_paid*
+
+*A Dogfeeding Loop in the Dark*
+
+[Image]
+
+*Halloween eve fun in the Kyiv metro (Photo c/o abdymok, October 30, 2026)*
+
+The lights were off when I went to bed and it was dark when I woke up. I posted a picture of today’s electricity schedule on the [chrono page](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html), which I’ve decided, somewhat reluctantly, to keep updating at least through November. Less rigorously, though, and with an eye to simplifying the code further so it can render automatically in exotic languages, especially those without alphabets. The method stays the same. I’ve added Māori to the list: Kāore he arapū o te reo Māori.
+
+My first search on the internet this morning landed me on this out-of-focus Newsmax Facebook reel of Ukrainian and Russian reps talking to cameras.
+
+[Image]
+
+*c/o Newsmax (October 30, 2026)*
+
+Next, Twitter, where I was confronted with a 5-minute, 31-second [clip](https://x.com/NEWSMAX/status/2116240846903554230) of Melania Trump’s body man droning on through the B-roll of whatever footage independent observers from Newsmax could cough up. Newsmax observer Alex Salvi is the guy in the bulletproof vest in the screenshot below. The video opens with a split-screen shot of him attempting what looks like a failed stand-up in one of the evacuation buses. Maybe he’ll have better luck in Gomel.
+
+[Image]
+
+I tuned into Newsmax’s livefeed yesterday for an hour. It was brain-numbing. Long commercials for exercise couches that tone your muscles and loosen your joints were wedged between cartoonish presentations of the news. Ew. This is a channel watched and programmed by people with lobotomies. A classic dogfeeding loop.
+
+---
+
+## Day 1712
+
+*Date: 2026-11-01 | Status: Published | Audience: only_paid*
+
+*Counting buses*
+
+[Image]
+
+*Kyiv Botantical Garden (Photo c/o abdymok, November 1, 2026)*
+
+The Oleshky op reminded me of the [Markale marketplace massacre](https://en.wikipedia.org/wiki/Markale_massacres) in Sarajevo, February 5, 1994. Not because anything of the kind happened this time, but because that morning, too, an evacuation was under way under a negotiated cease-fire, with a hundreds of people trying to get out of a besieged place alive.
+
+My friend Ed, then a Time correspondent, was monitoring that evacuation by radio from the Croatian coast, and he later told me what he thinks really happened. He told me the story in a Munich hotel room in early 2003, with the invasion of Iraq being assembled on the television. He had told the same story half a year after the massacre to Mark Danner, over drinks in a bar in Port-au-Prince, where both men had spent the day watching Haitian policemen club their citizens in front of newly arrived American soldiers. Danner set it down in the New York Review of Books in 1998. This is how I remember Ed telling it.
+
+Ed had a habit, which I noticed only later: he told the Sarajevo story whenever soldiers were about to arrive somewhere. Haiti in 1994, Munich in 2003, an American army on its way each time, and a story about buses to keep the drinks company.
+
+In Munich he laid on the bed in our room at the Ramada, holding the remote like someone else’s pistol. On the television, men in good suits explained that the world was about to be blown up by weapons nobody had seen, and that the sensible response was to go and look for them with an army.
+
+“You know what I think about, Peter? Sarajevo, February 1994. Everyone remembers the market, sixty-eight dead on a sunny Saturday, and the ultimatum. Nobody remembers the buses.”
+
+A general on the screen pointed at a map with the confidence of a man never told what maps leave out. Ed muted him, which improved him considerably.
+
+“I was in Makarska, in a room full of radios, waiting for three hundred people to leave a besieged city under a cease-fire. Then someone shouted that the cease-fire was still on, in the voice of a man who has understood something a second too late. They had split the convoy. Three buses crossed the runway, and a gunner on a hill, told that crossing the runway meant the shooting could begin, counted three buses and concluded that arithmetic was on his side. My guess is he was aiming at the crowd by the synagogue. The shell fell a few hundred meters short, as shells do, being like men in that respect. It landed in the market, and the market became history.”
+
+He unmuted the television. A man was saying “imminent” with great tenderness.
+
+I remembered this reading [a Tweet from Michael Caputo](https://xitter.cf/MichaelRCaputo/status/2116527953073094798#m), thirty-five years in the business, declaring that Alex Salvi of Newsmax might be the best television journalist in America, because the Oleshky op was difficult and these events are tough to observe.
+
+Things that go well rarely turn anything. The man who falls off the roof is remembered, not the nine who took the ladder. In Sarajevo it took sixty-eight dead to wake the world. In Oleshky the world, quite reasonably, went back to sleep, and the praise went to the man who observing independently.
+
+An evacuation without a massacre is a small defeat for history’s appetite, and this is no bad thing. A success is counted in buses and passengers, and those who could not board do not appear in the count. Russia, [as we wrote last week](https://abdymok.substack.com/p/day-1707), has already claimed the land.
+
+---
+
+## Day 1713
+
+*Date: 2026-11-02 | Status: Published | Audience: only_paid*
+
+*Life after Raygun*
+
+[Image]
+
+*Darnytsky and South Bridge in Kyiv (Photo c/o abdymok, November 2, 2026)*
+
+There was traffic on both spans yesterday, but not much, maybe because of the air alert, or because it was very early in the morning. Just south of the South Bridge is TETS-5 (ТЕЦ-5), Kyiv’s combined heat and power plant that Russia has been trying to blow up unsuccessfully for more than four years.
+
+The green metro line runs in two disconnected sections, Syrets–Vydubychi and Osokorky–Chervonyi Khutir. Train service across the South Bridge remains suspended. Commuters are allowed to cross the bridge on scooters, however. The red line, which crosses the Dnipro via the Metro Bridge between Dnipro and Hydropark, shuts down during air alerts. As of the last time I checked — [and I check often](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html?utm_source=chatgpt.com#dashboard) — there have been about 220 air alerts in Kyiv since October 1, 2026 lasting a total 7 days, 19 hours and 58 minutes — approximately 188 hours.
+
+[Image]
+
+*An empty-looking Zvirynetska station (Green Line) on Monday morning (Photo c/o abdymok, November 2, 2026)*
+
+I watched *real news for real people* coverage about our mess.
+
+[Image]
+
+*c/o Newsmax (November 1, 2026)*
+
+Two white retired generals announced that the war will continue until it stops. They explained the Oleshky op changed nothing. Quite right. Rescuing people from a disaster is famously bad for the disaster’s momentum.
+
+Both sides must make concessions, they said, declining to name a single one. One side has a country in the way of the other side’s ambitions. The other has a lot of missiles. Splitting the difference is a form of arithmetic, and arithmetic is not a position.
+
+One said Europe should stop criticizing Russia and sit down with Putin. The problem, it turns out, has been the seating. Trump and Xi might provide a breakthrough.
+
+Sigh.
+
+---
+
+## Day 1714
+
+*Date: 2026-11-03 | Status: Published | Audience: only_paid*
+
+*Borrowed running shoes*
+
+In our city, a person can live two years in one building and remain a rumor. This is not unkindness. Neighbors are like weather: you notice them only when something falls from the sky.
+
+Something fell from the sky on Monday. A soldier on temporary duty, passing west, dropped in at my office and apologized for being late. A lithium power bank had exploded in a Podil flat that morning, he said, and a steel grate kept the occupant inside. The soldier had just delivered his small daughter to kindergarten. With a bystander he tore the grate off like a lid from a sardine tin, and out came an American, singed in the cheerful manner of a roasted chestnut.
+
+Then the telephone rang. It was the hospital. The American was fine, said the doctor, except for his hair, which had left in a hurry. The American took the receiver and asked how one leaves a hospital in underwear and a bathrobe. He needed his phone to pay the doctor. His phone was somewhere in the smoke, paying no one.
+
+“How tall are you?” I asked. In such moments height is the only honest question.
+
+The soldier and I decided to earn some karma, which in wartime is hard currency. I fetched an old coat, running tights, a sweater and tired running shoes, and the American emerged from the hospital looking like a retired athlete of an unknown sport.
+
+At my office he drank tea and tried to reach his friends over my internet. He found he had none, or that they had all moved to the cloud. He mentioned helping the Armed Forces with electronic warfare, and that just before the explosion he had received a letter from Ukraine’s Army of Robots. Robots, apparently, write first.
+
+Then he asked whether I had menthol cigarettes, and whether anywhere in Kyiv sold clove ones. A man has just been pulled from a fire, and his first thought is of new fires. I had neither. He then announced that he was hungry, so I bought him a sandwich. Having eaten it, he seemed to me fit enough to begin a new life.
+
+I walked him to [Andriivsky Descent](https://en.wikipedia.org/wiki/Andriivskyi_Descent), that steep cobbled street tumbling toward his neighborhood as if it, too, were in a hurry to be rid of its hair. On the way he asked how much it costs to live in New York City.
+
+“A lot,” I said.
+
+In front of St. Andrew’s I shook his hand. “Find your phone, talk to your friends, and thank the stars you are still alive. This is the first day of your new life.”
+
+Two hours later a neighbor called: the American had found his phone, and it did not work. Then the soldier called. He stood with the neighbor, and neither knew what to do, because the American knew nobody in the building and nobody knew him. I offered two paths, the embassy or the police. They chose the police, especially after noticing strange antennae sprouting from the burned-out flat like a garden of metal sunflowers.
+
+How it ended, I do not know. As I write, the monitors report that the enemy has delivered the third massive strike of the eight that American intelligence warned us about. It is a generous country that sends warnings by the dozen, and a thrifty one that delivers them in installments. Preliminary count: some seventeen ballistic and hypersonic missiles, and fifty-one cruise missiles from the Tu-95s and Tu-160s, nearly seventy in all, flying over the heads of a nation that had spent the previous day worrying about a single power bank.
+
+They aimed at the thermal power plants of Ladyzhyn, Prydniprovska, Kryvyi Rih and Zmiiv. In Kharkiv the heating and hot water are gone, and the situation is called critical, which is the polite word for a very cold apartment. Drones, meanwhile, visited the substations of the Dnipropetrovsk, Zhytomyr, Vinnytsia and Kyiv regions and Bukovyna, as if making a round of afternoon calls.
+
+So the lithium battery was the small fire, and the big one is the one we are all standing in. Yet the policemen came to the American’s flat to look at the antennae, as policemen should. A war is made of seventy missiles and also of one man in borrowed running shoes, and only the second can be walked down a hill and handed a sandwich.
+
+The moral is clear: always do the decent thing, even if it ends in a hairless American with antennae. Especially then.
+
+------------------------------------------------------------------------
+
+Meanwhile, another American, Trey, is in town.
+
+[Video: https://youtu.be/fbsLnNSugCs]
+
+I had intended to write about Trey and his asinine interview with Z this morning, but events overtook me.
+
+[Image]
+
+*Russian missile destroys part of residential building in Dnipro (Photo: Dnipropetrovsk Regional Militatry Administration, Nov 3, 2026)*
+
+We’ll keep track of the latest attack over at [chrono page](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html).
+
+---
+
+## Day 1715
+
+*Date: 2026-11-04 | Status: Published | Audience: only_paid*
+
+*Dark, Dry, Cold*
+
+[Image]
+
+*Uploading on the Green Line (Photo c/o Herself, November 3, 2026)*
+
+At the moment [Herself](https://www.facebook.com/veronika.begun) took this picture, I was uploading something to the evidence repository on [GitHub](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html) during the latest combined Russian attack on Ukraine. The Green Line of the Kyiv metro didn’t run out of juice and I reached my destination. Then the electricity went out and the water was turned off. No one has turned the heating on yet.
+
+Looking on the bright side, the Democrats have taken control of both the US Senate and the House of Representatives. We don’t expect much assistance from America for the next two years, but it’s reassuring that the numbskulls will no longer be in charge of Congress.
+
+This morning the Ukrainian soldier from [yesterday’s post](https://abdymok.substack.com/p/day-1714) who dragged the American out of his burning flat in Kyiv sent me the [social links](https://www.facebook.com/71brigade) for his brigade. Contact him [directly](https://www.facebook.com/feldman1991) if you want to contribute to the war effort.
+
+Oh, and Aunt Claude and Uncle ChatGPT teamed up to produce an annotated bibliography of posts from 2021 through October 2026. I hung it on [the landing page](https://abdymok.github.io/) to dry. Good reading if you’re sick of my writing!
+
+---
+
+## Day 1716
+
+*Date: 2026-11-05 | Status: Published | Audience: only_paid*
+
+*Acid, or hammers?*
+
+[Image]
+
+Today is David’s big day at the White House. He leads a delegation to discuss the Oleshky op and peace ideas with America’s first lady. Melania is either unaware or uninterested in how compromised David is in Kyiv. We hope she got the brief, but we assume she didn’t. Newsmax will be there. Awards will be exchanged.
+
+*Acid, or hammers?* That question comes from recordings NABU released yesterday as part of Operation Carthage. The speakers discuss, among other things, their U-420 chain of shops selling psilocybin candy bars and funny-tasting THC cigarettes. One of them settles on hammers. Another conversation covers how to launder money, and detectives gave it its own slide. The audio is excellent. The last three syllables of David’s surname are clipped off ;-)
+
+[Image]
+
+*Operation Carthage (NABU, November 4, 2026)*
+
+David leads Servant of the People’s monomajority in parliament, and he is also reportedly in trouble for handing out envelopes of dollars to lawmakers. We have written before about [the allegations concerning his network of financed MPs](https://abdymok.substack.com/p/day-1629).
+
+There is a word for what these recordings describe, and it isn’t corruption. Corruption is a purchase: a bribe buys a favor, so you find the official, convict him and replace him. American prosecutors would reach for RICO, which was written for exactly this shape: an enterprise with a ledger, a membership, a division of labor and a pattern of offenses committed through it.
+
+We have argued this since 2020, from [Operation Y](https://abdymok.substack.com/p/operation-y-b2d557374ca7) through [Thug Life](https://abdymok.substack.com/p/thug-life-contd-315). The problem was never only the bribe but a feudal system of patronage in which institutions serve the court. In February’s [“Parabiosis of war”](https://abdymok.substack.com/p/day-1454) we put it in terms borrowed from the biology of aging. Damage from outside assault and damage from internal failure look identical, but repair mechanisms don’t break spontaneously. They break when the cells responsible for maintenance are busy doing something else with the resources.
+
+None of this is new. [Carthage opened on September 4](https://abdymok.substack.com/p/day-1658), and November is its second act. It follows [Operation Midas](https://nabu.gov.ua/en/news/operatciia-midas-vykryto-vysokorivnevu-zlochynnu-organizatciiu-shcho-diiala-u-sferi-energetyky/), the July 2025 law that stripped NABU and SAPO of their independence until street protests forced it back ([Day 1246](https://abdymok.substack.com/p/day-1246)), and [this spring’s leaked wiretaps](https://abdymok.substack.com/p/day-1520).
+
+Nobody has said Z knew, and the investigation hasn’t established that he did. But he is Supreme Commander-in-Chief, and the security establishment answers to his office. Ignorance wouldn’t close the question of responsibility, only rename it. NABU’s own 54-minute film asks why the activity wasn’t stopped sooner and calls the question open. It’s a modest phrase for an immodest silence.
+
+In the old story, Carthage was destroyed. In this one, the question is who keeps opening the gates, and who is supposed to be standing at them.
+
+------------------------------------------------------------------------
+
+**A morning without heat**
+
+I woke yesterday in the dark, in a flat that had given up on heat and water at about the same hour, and did what any civilized person would: I went to the tap and asked for an explanation. The tap said nothing. Taps are honest that way. Only the ministries still have things to say.
+
+An hour later, by the light of a prudently charged phone, I listened to Oleksandr Kharchenko, who knows our electrical entrails better than any surgeon knows his patient’s. Until January, Kyiv had three combined heat and power plants producing about 1.3 gigawatts together. Then came dozens of ballistic missiles, and now perhaps ten to fifteen percent of that capacity can ever be revived. Before, when something was hit, the city rerouted power in minutes and nobody noticed. “Now we have no such thing,” he said. “Physically, none.” What took fifteen minutes now takes hours.
+
+I’ve lived here since 1999, and the old arrangement was a kind of courtesy: the system took the blow, the citizen kept his dignity and his hot water, and neither mentioned it. Now the courtesy is gone, and the citizen is introduced to the machinery in person.
+
+Still, Kharchenko doesn’t promise apocalypse. The sewage runs below the frost line and is the sturdiest organ of the city. The share of buildings dependent on those plants has fallen from sixty percent to about twenty. A flat at +12 is unhappy but far from zero, and a district may lose water for a day or a day and a half, but not the whole city. I found this oddly comforting, the way it’s comforting to be told your illness has a name and a schedule.
+
+What moved me most was a fear he confessed almost in passing: “What I personally fear most is that we get through this winter too well.” Then in spring someone will decide we can relax, the flowerbeds will be planted, and the substations forgotten. I recognize the temperament. We are a people who build the roof only when it rains on the guest of honor.
+
+On who answers for heat, water and light, the president or the mayor, he was merciless in the gentlest way. He sees “no connection to real life whatsoever” in their quarrel, and when asked where it is written who is responsible, he said: nowhere. A country at war, a city in the dark, and the chain of responsibility exists mostly in the minds of those passing it along.
+
+By noon the water came back, thin and cold, as if apologizing. I filled every pot in the house. That’s the whole strategy: love the tap while it loves you.
+
+------------------------------------------------------------------------
+
+**The bibliography**
+
+Every chronicler eventually acquires a bibliography, the way a house acquires a damp patch. Mine has nearly four hundred entries across six years, 2021 through October 2026, at [abdymok.github.io/bibliography](https://abdymok.github.io/bibliography/). It lists every outlet, agency, platform and eccentric website my daily dispatches cited in at least two posts in a given year, how often, on which dates, and what I did with them.
+
+That last part is the point. Each entry records how a source was used, not whether it can be trusted. The New York Times, cited 147 times in 2024, appears both as a source and as a defendant. The Seattle Times earns its place for one 2014 article, “For a Weekend, Ukrainian Rebels Make Love, Not War,” which I linked six times in April 2022 to argue that “rebels” misdescribed the war from the start. Try finding that in a news index.
+
+Dates do the rest. The 2021 section holds the autumn the Kyiv Post stopped publishing on November 8 and its former staff opened a new site. The 2022 section shows Echo of Moscow with seven links, the last on March 1, two days before it went off the air. In 2024 the Wall Street Journal and The Washington Post each told the Nord Stream story, and the archive treats both accounts as contested. A saved snapshot shows a major newspaper rewrote its account of the Kursk operation more than once. Memory is a poor witness. Timestamps are better.
+
+For 2026 the page records a different kind of lateness. The Times published an investigation of fraud and waste in weapons contracts in September, which I treated as belated coverage of concerns the archive had already raised. In the Yermak case, I note my complaint that the Financial Times, the Journal and POLITICO all reduced a corruption case to palace intrigue.
+
+I tried to be fair to the awkward cases. Unresolvable Bitly links are listed as Bitly, not credited to publishers they might lead to. Google redirects are traced to their destinations, and the 59 that led back to my own archive are excluded. Tootsie Club is in there, and so is KonMari. A bibliography without its embarrassments is a press release.
+
+It’s for researchers checking what was claimed on a given day, journalists tracing how a story moved, translators hunting for the Ukrainian original behind an English headline, and anyone curious which sources a long-running witness actually read, as opposed to the ones he says he reads. Counts are link occurrences, not influence. I’ll correct the record when someone finds a mistake. Someone usually does.
+
+---
+
+## Day 1717
+
+*Date: 2026-11-06 | Status: Published | Audience: only_paid*
+
+*Big, beautiful agreement*
+
+[Image]
+
+*Servant of the People parliament faction leader David Arakhamia “speaking from the heart” to US First Lady Melania Trump on November 5 in the White House (Photo c/o Arab News)*
+
+> “It’s going to be a big agreement, and it’s going to involve more than Ukraine ... I could even say it might involve all of Europe. It’s going to be a big, beautiful agreement, and everyone’s going to be thrilled.”
+
+Trump said this to reporters at the White House on November 5, 2026, after meeting privately with Russian envoy Kirill Dmitriev. He did not provide details.
+
+In Kyiv, meanwhile, we learned that the nation’s top law-enforcement officials have been working with/for a narco cartel with ties to Russia based in Mexico. Some of the suspects have been detained. Some have not.
+
+Z said this in Spain:
+
+> Ukraine needs to move toward the new political infrastructure in the United States. It needs to move fast, consolidating the bipartisan support it already has. Given the shift in the balance of power, the dialogue has to be built correctly. Ukraine’s chances of receiving additional assistance from the United States may now be growing.
+>
+> Ukraine has no option but to strengthen itself, at least as long as the war continues. That is why work is needed on a package from the United States. The issue must be raised that under past agreements and decisions, \$16 billion was halted and never provided to Ukraine. We are grateful for everything that has been given, but Ukraine must be able to fight with this money at the very least. - [Z](https://t.me/V_Zelenskiy_official/21684) (November 5, 2026)
+
+Consolidating US lawmakers will be harder without an ambassador in Washington. Many of them will have a question first, and it will be about Mexico.
+
+**Who’s who**
+
+*The list below is not a list of suspects. The National Anti-corruption Bureau of Ukraine (NABU) says at least 12 people are implicated. The rest surfaced in recordings, searches, proposed bribes, alleged targets and the wider investigation*
+
+1\. Yehor Burkin, also Yehor Levchenko — alias Mexican. Russian and Ukrainian citizen, alleged founder and leader of the KhimProm transnational drug network. Reportedly based in Mexico and wanted in Ukraine.
+
+2\. Andriy Osipov — alias Criminal. Alleged co-organiser and fixer, with three previous criminal convictions reported. NABU and Specialized Anti-corruption Prosecutor’s Office (SAPO) say he used connections in law enforcement to arrange protection for the organisation.
+
+3\. Serhiy Duka — alias Akim. Major General, State Security Service (SBU). First deputy head of the Department for Protection of National Statehood. Alleged senior SBU protector. Detained and reportedly served with a notice of suspicion.
+
+4\. Volodymyr Tsenov — alias Price. Colonel of police. First deputy head and acting head of the National Police Department of Strategic Investigations. Allegedly arranged police protection for call centres. Detained and reportedly served with a notice of suspicion.
+
+5\. Oleksandr Demianchuk — alias Consultant. Police officer, deputy head of a unit in the Kyiv regional criminal investigation directorate. Allegedly supplied information, surveillance access and operational protection. Detained and reportedly served with a notice of suspicion.
+
+6\. Oleksandr Rybalko — alias Boxer. Athlete from Zhytomyr region and founder of the Udar-Korosten boxing club. Alleged enforcer. Detained and reportedly served with a notice of suspicion. Note: Censor.NET’s original article gave his first name as Vitaliy, but subsequent reporting, including NV and Ukrainska Pravda, identifies him as Oleksandr.
+
+7\. Pasha — unidentified. Alleged subordinate of Burkin and Osipov, involved in violence and counterfeit-euro production.
+
+8\. Anton Kravchuk — Colonel, SBU. Head of the SBU Main Directorate of Internal Security. His premises were reportedly searched. No public identification as one of the aliases.
+
+9\. Oleksandr Kovalchuk — SBU senior officer. First deputy head of Directorate D in the Department for Protection of National Statehood. His premises were reportedly searched. Rank not established in the reports cited here.
+
+10\. Andriy Rubel — head of the Main Directorate of the National Police in Kyiv region. His office was reportedly searched on Nov. 5. Sources said he was not detained. His previous role as head of the National Police Department of Strategic Investigations is relevant to the inquiry.
+
+11\. Oleksandr Poklad — Major General, SBU. Acting head of the SBU. Dismissed two senior officials after the investigation emerged. Not identified as a suspect in the alleged organisation.
+
+12\. Vasyl Maliuk — Lieutenant General, SBU. Former head of the SBU. Osipov’s recorded comments about a “Korostyshiv hooligan” are interpreted by journalists as referring to him. The article reports no proof of a payment to Maliuk.
+
+13\. Serhiy Lysak — Brigadier General, SBU. Former head of the SBU offices in Zhytomyr and Dnipropetrovsk regions, later head of Dnipropetrovsk Regional Military Administration, now head of Odesa City Military Administration. Possibly the person referred to as “Lysyi” in a recording. Identification unconfirmed.
+
+14\. Maria Vdovychenko — former First Deputy Prosecutor General. The article identifies her as the woman Duka says he had spoken to and arranged a meeting with. Her office was searched in the earlier Carthage investigation. No proof in this article that she participated in the alleged criminal organisation.
+
+15\. Ruslan Kravchenko — former Prosecutor General. Named in the wider Carthage story because of alleged contacts between the organisation and the Prosecutor General’s Office. He has publicly accused NABU of political retaliation. His precise legal status in this episode needs to be distinguished from the allegations about his office.
+
+16\. Dmytro Torhalo — head of the National Police Department for Combating Drug-Related Crimes. Allegedly the target of a proposed \$2 million payment to secure his removal. Not identified as a member of the organisation.
+
+17\. Ihor Klymenko — former Interior Minister, now Secretary of the National Security and Defence Council. His name is reportedly audible or identifiable in discussions about changing the legal status of substances sold by U420. The article says there is no evidence that he accepted a bribe or participated.
+
+18\. Viktor Liashko — Health Minister. Named in a document concerning requests to stop adding substances to the controlled-drugs list. No evidence of participation.
+
+19\. Yuliia Svyrydenko — Prime Minister. Signed the Cabinet resolution on controlled substances discussed in the recordings. An unconfirmed report said her premises were searched. The article says it could not verify this.
+
+20\. David Arakhamia — leader of the Servant of the People parliamentary faction. Osipov allegedly discussed arranging a meeting with a faction leader whose name began “Arakh…”. No evidence the meeting happened or Arakhamia knew of the alleged plan.
+
+21\. Rustam Abdrarfikoff — Russian Federal Security Service (FSB) officer, reportedly associated with Directorate K. Named by Burkin in a recording as an FSB contact. His alleged role in the Ukrainian operation has not been independently established.
+
+22\. Denys Bihus — investigative journalist. Allegedly targeted for physical violence, arson and an acid attack after preparing reporting on U420. Victim and target, not suspect.
+
+23\. Viktor “Leleka” Lakhno — Azov veteran and former prisoner of war. Allegedly targeted for an assault with hammers or an acid attack. Victim and target, not suspect.
+
+24\. Ihor Lachen — blogger. Discussed in recordings as a possible target. No allegation that he participated in the organisation.
+
+25\. Anatolii Sharii — blogger living abroad. Discussed as a possible participant in efforts to improve the organisation’s public image. No evidence in the article that he joined the scheme.
+
+26\. Mykola Karas — SAPO prosecutor presenting the case. Investigator/prosecutor, not suspect.
+
+27\. Oleksandr Abakumov — head of a NABU detectives’ unit and public presenter of the investigation. Investigator, not suspect.
+
+Have a great weekend!
+
+---
+
+## Day 1720
+
+*Date: 2026-11-09 | Status: Published | Audience: only_paid*
+
+*The hat and the bridge*
+
+[Image]
+
+*Latest ver. of Thug Life poster (updated November 9, 2026)*
+
+We left off last week with the custody hearing of Major General Serhiy Duka of Ukraine’s State Security Service (SBU), who is [suspected of participating in a criminal organisation](https://unn.ua/en/news/sbu-general-duka-stated-in-court-that-he-does-not-have-uah-100-million-for-bail) and allegedly abusing his official position to [protect its illegal businesses](https://www.kyivpost.com/post/89386), which ranged from fraudulent call centres targeting Ukrainian and foreign victims to drug trafficking and the sale of cannabis-related products. The organisation was also allegedly involved in the production and distribution of counterfeit cigarettes and foreign currency.
+
+[Image]
+
+*State Security Service (SBU) Major General Serhiy Duka (Photo c/o UNIAN, December 6, 2026)*
+
+The High Anti-corruption Court of Ukraine [remanded Duka to custody for two months setting bail at UAH 65 million](https://mezha.net/eng/news/mezha-1646800f382db89982d85ff8_the_high_anti-corruption), or \$1,433,924.
+
+The story now has a second act, and it involves a collection plate.
+
+On Saturday [Ukrainska Pravda reported](https://www.pravda.com.ua/news/2026/11/07/8061720/), citing SBU sources, that a message was circulating among Service staff asking them to help pay Duka’s bail. It gave the High Anti-Corruption Court’s bank details and the case number and asked for card transfers, preferably over the weekend.
+
+On Sunday [ZN.UA](https://zn.ua/ukr/anticorruption/u-sbu-zbirajut-hroshi-na-zastavu-za-duku-spivrobitnikiv-zobovjazujut-perekazuvati-do-150-tisjach-hriven-dzherela-znua.html), citing its own sources, added the price list. Operatives are said to owe UAH 50,000 and heads of sectors and departments UAH 150,000. Regional staff reportedly pay the court directly and send their supervisors a screenshot. Ukrainska Pravda’s follow-up, [relayed by NV](https://english.nv.ua/nation/sbu-staff-reportedly-ordered-to-contribute-up-to-150-000-hryvnias-toward-general-duka-s-bail-50657356.html), carries the same tiers. Only ZN.UA has the rest: repayment promised in cash, advance pay arriving four days early on November 6, and a Wednesday meeting where cash might be handed out through commercial intermediaries. That last item is staff speculation, so treat it as rumor.
+
+Duka’s lawyer, Yuriy Sukhov, [told Butusov Plus](https://www.obozrevatel.com/ukr/section-rozsliduvannya/news-vsi-rozumily-shcho-zastava-bude-advokat-areshtovanoho-henerala-duky-pidtverdyv-shcho-v-sbu-zbyrayut-hroshi-na-yoho-zastavu-09-11-2026.html) the story is true ‘globally’ but manipulated in the details. He says the collection is voluntary, [nobody gave a command](https://uazmi.org/news/post/9c64615220db4b0790bbf45da824ecd1), the message named no amounts or deadlines, and regional officers phoned Kyiv asking to join. He did mention UAH 50,000 and UAH 150,000 as sums some staff might send.
+
+So both sides confirm the plate. They disagree on whether the guests were told what to put in it.
+
+------------------------------------------------------------------------
+
+What Trump said last night about Russia’s genocidal war against Ukraine.
+
+> Ross Douthat: You came into office promising to make peace in Ukraine.
+>
+> President Donald Trump: Yeah.
+>
+> Ross Douthat: There is still a war going on. What’s the biggest obstacle to peace?
+>
+> President Donald Trump: It was the hatred between Z and Putin. If I had been president that war would’ve never started. Zero chance. But it did start. So I inherited that war. I believe we’re very close to making a deal--
+>
+> Ross Douthat: Who-- who do you trust more, President Putin or President Z--
+>
+> President Donald Trump: Well, I’d rather not say, but I get along with both. I believe that that war is going to end, and it’s gonna end soon. And the only reason it’s gonna end is because of me. There is tremendous hatred between President Putin and President Z. And-- you know, I--
+>
+> Ross Douthat: Isn’t it more understandable coming from President Z, given that his country was actually invaded?
+>
+> President Donald Trump: Well, it is. But when they had their first meeting there was great disrespect shown to Russia. So I’m not gonna say anything--
+>
+> Ross Douthat: I mean, but balancing out--
+>
+> President Donald Trump: Well-- well--
+>
+> Ross Douthat: Invading, disrespecting--
+>
+> President Donald Trump: Let’s-- let’s put it this way: the war never happened during my four years, and it was never going to happen, even though it was the apple of President Putin’s eye.
+>
+> Ross Douthat: Do you think he is stringing you along?
+>
+> President Donald Trump: Oh, I don’t think so.
+>
+> Ross Douthat: ‘Cause you’ve been saying over and over you’re gonna make peace. And it just seems like he’s the obstacle in the end--
+>
+> President Donald Trump: Well, there’s been nobody that’s been tougher on Russia than me. Look at our trade. Look what I’ve done to them on trade with the sanctions and everything else.
+>
+> Ross Douthat: You’ve gone back and forth. You-- at some points you have done lots of things, big things in support of Ukraine. But just recently you lifted diesel sanctions on Russia. Like, you’ve done various things to take pressure off Russia--
+>
+> President Donald Trump: I didn’t lift diesel sanctions. I made it possible for Russia to give not us, but to the world-- thousands and thousands of barrels of oil, of diesel, which it needed. Didn’t-- do any big favor.
+>
+> Ross Douthat: But you expect it to all work out with a free and independent Ukraine--
+>
+> President Donald Trump: I think we’re gonna have it done, and I think it’s gonna happen and they’re gonna end up with a little bit different shape Ukraine. — [60 Minutes](https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/?ftag=CNM-00-10aag7e&) (November 9, 2026)
+
+------------------------------------------------------------------------
+
+Reserve traffic arrangements took effect this morning on three bridges connecting Kyiv’s left and right banks, following additional security concerns and damage to the North Bridge, which was hit by four ballistic missiles last week. On Paton Bridge, three of five lanes carry traffic toward the right bank from 07:00 to 10:00 and toward the left bank from 16:00 to 20:00.
+
+[Image]
+
+*c/o Kyiv Operativny (November 9, 2026)*
+
+So far, gridlock.
+
+---
+
+## Day 1721
+
+*Date: 2026-11-10 | Status: Published | Audience: only_paid*
+
+*Honest accountants*
+
+[Image]
+
+*Photo c/o abdymok (November 8, 2026)*
+
+We took away Ukraine’s [security clearance](https://abdymok.substack.com/p/clandestine-fuckery?utm_source=publication-search) back in late 2020, and, to be honest, nobody who knew the neighborhood was greatly astonished by what came later. That the country’s security service and its law-enforcement agencies might be quietly employed by international narcotics cartels is the kind of news that surprises only those who have never met a watchman who guards the warehouse and also keeps a spare key. Oleksandr Abakumov, chief detective of the National Anti-Corruption Bureau, says modestly that his people have uncovered only [the tip of the iceberg](https://www.pravda.com.ua/columns/2026/11/09/8061980/?fbclid=IwY2xjawVfiFFleHRuA2FlbQIxMABwZG9mBWJyaWQRMXR2N1djSHNPWko4R3VkOGNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf34TBPcjiarH23DLpSgJqhWaupSFIE6dN6pPVHN479o0t0hjHEPF6VG5Kg6g_aem_s9zlWcV7V-gjhRAThNJxMA). The old men would nod at this. The visible part of an iceberg, they would say, is merely the part that agrees to be seen.
+
+Z, meanwhile, remains blissfully unaware, as is the custom of a man in whose presence nothing ever happens. His stenographers are unaware too, and with great diligence. The champions of Ukraine would prefer not to notice [Operation Carthage](https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%C2%AB%D0%9A%D0%B0%D1%80%D1%84%D0%B0%D0%B3%D0%B5%D0%BD%C2%BB). But a thing that has once been noticed by everyone else is a poor candidate for being ignored.
+
+The honest accountant of this affair turns out to be the blockchain, which, unlike Ukraine’s institutions, forgets nothing and flatters no one.
+
+On April 10, a court froze about 2.4 million USDT in four wallets, “four pockets of one and the same jacket.” Within two weeks, roughly \$270,000 slipped out of those pockets, some of it to “the close circle.” The explanation is charming in its simplicity:
+
+> “A court order is just paper. The blockchain knows nothing about it.”
+
+Only the private company [Tether](https://tether.io/) finally froze the money, not the state. On May 1, seven transfer attempts failed in an hour. According to the indictment, Osipov, aka The Criminal, then phoned a general and, eleven minutes later, sent him a photo of the blocked funds.
+
+The most poetic detail comes next. The Criminal was detained on July 30, and the very next day a new wallet appeared:
+
+> “The owner is in a detention center. The keys to his wallet work.”
+
+Someone, evidently, was holding the other key.
+
+------------------------------------------------------------------------
+
+On the Kyiv jacket, paralysis:
+
+[Image]
+
+*c/o Kyiv Probki (November 10, 2026)*
+
+Getting from the Left Bank to the Right Bank has never been more of a pain the ass.
+
+---
+
+## Day 1722
+
+*Date: 2026-11-11 | Status: Published | Audience: only_paid*
+
+*Z’s Little Russia*
+
+[Image]
+
+Two systems occupy the same territory. One is a real democracy. The other is a network of corrupt insiders who have taken possession of parts of the state apparatus and quietly run them for their own benefit. Call it Z’s Little Russia.
+
+Little Russia was the Russian Empire’s condescending name for Ukraine, a province with a diminutive attached. Here it describes a style of rule, not a nationality: power exercised from above, for the benefit of insiders. It has nothing to do with ethnicity.
+
+Under Viktor Yanukovych, the Russian-backed president driven from office in 2014, this style of rule was remarkably open. In 2012 he put [former Russian citizens in charge of the SBU and the defense ministry](https://archive.kyivpost.com/article/content/ukraine-politics/yanukovych-reshuffles-leadership-of-defense-minist-122715.html). All three of his defense ministers are now [charged with treason](https://mezha.net/eng/news/former-ukrainian-defense-ministers-charged-with-treason-over-military-equipment-sales/), and [investigators place them in Belarus, Crimea and the Moscow region](https://unn.ua/en/news/case-of-three-defense-ministers-of-yanukovychs-times-the-investigation-knows-where-they-are). The pattern did not disappear. It learned discretion.
+
+The difference between Ukraine and Russia is not that Ukraine has no corrupt rulers. It is that Ukraine has institutions capable of prosecuting them. That distinction is now being tested.
+
+Ukraine’s two independent anti-corruption bodies, NABU and SAPO, say senior officials in three agencies participated in Operation Carthage: the SBU, the National Police and the Prosecutor General’s Office. Investigators allege that they worked with a [Russian-linked drug cartel](https://english.nv.ua/nation/nabu-exposes-russian-linked-crime-syndicate-allegedly-protected-by-senior-sbu-officials-50656329.html). On tape, the cartel’s founder [says he works with representatives of Russia’s FSB](https://censor.net/en/news/4032199/mexican-s-collaboration-with-the-fsb-details-from-nabu-recordings).
+
+According to investigators, this was not occasional bribery but a subscription service. Officials allegedly received [monthly lists of call-center addresses](https://babel.ua/texts/131613-spivrobitniki-sbu-nacpoliciji-i-ofisu-genprokurora-dopomagali-narkokartelyu-himprom-kazhe-slidstvo-babel-buv-u-sudi-chitav-pidozru-spilkuvavsya-z-eksministrom-i-rozpovidaye-vse-pro-spravu), identifying premises to be left alone. Payment came in USDT, a cryptocurrency pegged to the dollar. NABU counts [at least 52 call centers, each paying \$7,000 a month for protection](https://www.pravda.com.ua/newsletter/up-ranok/2026/11/05/8061333/).
+
+Even a criminal enterprise appreciates regular accounting. Membership has its advantages when trouble arrives, too. By Tuesday, the court said [1,113 people had contributed UAH 44 million towards the UAH 65 million bail set for SBU Maj. Gen. Serhiy Duka](https://www.pravda.com.ua/news/2026/11/10/8062174/). A former SBU officer with 27 years of service wants the defendants jailed rather than released on bail. He argues that wartime plunder amounts to treason.
+
+The same former officer says the SBU’s anti-corruption directorate was dissolved under Western pressure, its personnel transferred to the Department for Protection of National Statehood. Promotions, he says, then went to people skilled at arranging things rather than delivering results. This is reform by subtraction: delete a unit from the organisation chart, move its people down the corridor and declare the problem solved. The desks remain occupied. Only the titles change.
+
+NABU detectives say SBU Alpha special forces [tried to help Duka escape during the search](https://www.kyivpost.com/post/89386). The former officer argues that a department head might miss the activities of a concealed subunit, but the service’s top leadership could not, because internal security reports upward.
+
+The SBU exists to prevent foreign intelligence services from buying Ukrainian officials. If the allegations are established, the door was open from the inside. Whether Russia walked through it remains unproven. The irony is that the institution normally expected to investigate such a breach is itself under investigation.
+
+On earlier recordings, a speaker says [\$200,000 of a bribe was intended for Vasyl Maliuk](https://nv.ua/ukr/ukraine/events/sprava-karfagen-ukrajinski-pravoohoronci-poperedili-kriminala-shcho-nim-zacikavilisya-v-yevropi-50657015.html), the former SBU chief, whom he calls ‘the Korostyshiv hooligan.’ There is no independent evidence supporting the claim, and Maliuk has not commented publicly. Whether the money moved is unknown. What the recordings suggest is that access to the head of the SBU was considered something that could be bought and sold. In an ordinary administration, proximity to the chief is a matter of protocol. Here, it appears to have had a price.
+
+The government’s response is also revealing, though not conclusive. The SBU dismissed two officials at once. The president’s first public comment came three days after the arrests. When he dismissed his chief of staff, Andriy Yermak, the stated reason was to avoid ‘rumors and manipulations’. It is a convenient formula for putting whatever NABU reveals next in the same drawer. Nobody has established that the president knew about the alleged scheme. Genuine ignorance, however, would raise questions of its own.
+
+There is a party of the corrupt without membership cards, operating, in this interpretation, inside the President’s Office, law enforcement and government. A political faction can be voted out. A habit of mind is harder to remove. It survives elections, personnel changes and institutional reforms because it requires no formal organisation. Only people who recognise one another’s interests.
+
+Two explanations have been offered for the investigation. One says NABU and SAPO are doing somebody else’s bidding and chose an unfortunate moment, with peace negotiations under way. The other, advanced by the former SBU officer, is that the recordings could be part of a Russian operation timed to disrupt those negotiations. He nevertheless wants every defendant convicted.
+
+Both explanations are speculation. Neither answers the more elementary question: why was the state so exposed to its own recordings? The tapes may have surfaced at an inconvenient moment. The circumstances they describe did not begin when somebody pressed the record button.
+
+Most people working in these institutions are probably decent. Some must navigate a system whose rules they did not write and whose penalties for defiance they understand perfectly well. The white crow is admired in a proverb. In an office, it may discover that nobody has left it a chair.
+
+On the tapes, the cartel boss offers \$2 million to have the National Police’s drug-crime chief, Dmytro Torhalo, [removed from his post](https://www.slidstvo.info/news/meksykanets-meni-slav-pohrozy-osobysto-slidstvo-info-pohovorylo-z-politseyskim-iakoho-uchasnyky-karfahenu-khotily-usunuty-za-2-milyony-dolariv/). Torhalo says the threats reached him personally. He is still in the job. Sometimes resistance consists of nothing more dramatic than refusing to vacate the chair.
+
+The provincial instinct is to learn the rules, obey them and call the obeying realism. People have families, mortgages and a reasonable desire to get home in the evening. But a country cannot survive indefinitely on private calculations. Sooner or later, public rules must become stronger than private arrangements.
+
+The test for the other Ukraine, the democratic one, is whether it can make the rules apply all the way to the top.
+
+---
+
+## Day 1723
+
+*Date: 2026-11-12 | Status: Published | Audience: everyone*
+
+*Honeytrap*
+
+[Image]
+
+As a rule, I’m not that interested.
+
+If you’re sleeping with an agent of a foreign power, that’s your business. Until it’s not. We expect government to behave equanimously under the law. That means the same rules should apply to all masters of the universe, from Elon to Jensen and in between. No exceptions.
+
+I am reminded of a young librarian in Vilnius whom I met as a student and later cavorted with after returning to the Soviet Union on a diplomatic passport. In the late 1980s, US diplomats stationed in the Soviet Union faced strict prohibitions against close or one-on-one fraternization with Soviet nationals to prevent KGB honeytraps and espionage. Newcomers to the embassy were required to sit through idiotic briefings in bug-proof refrigerator wagons parked in the embassy courtyard.
+
+The librarian and I, of course, ignored the prohibition and relished our entrapment.
+
+On the Ukraine jacket, Z said Ukrainian men of conscription age should come home to the Little Russia he and his managers have reconstructed with the help of narco cartels and corrupt law-enforcement agencies [we wrote about yesterday](https://abdymok.substack.com/p/day-1722). Men of draft age must return to Ukraine, he [said](https://www.youtube.com/watch?v=pYvePFdx3Kk).
+
+The president is abroad again, this time attempting to plug Ukraine’s budget hole, a plan that will involve issuing more common European debt. Z is marooned in Dublin until he can be debriefed by Trump’s peace emissaries Steve Witkoff and Jared Kushner, who have scheduled a powwow with Putin today.
+
+Germany is seeking cuts to the EU’s 2028-2034 budget, formally known as the Multiannual Financial Framework (MFF), arguing that Ukraine needs the money. The push is fiercely resisted by many poorer, net-recipient member states in the EU’s south and east. Some net contributors bordering Russia also oppose the move, warning that linking the two issues could ultimately jeopardise Ukraine’s war effort.
+
+I would like to end on a note of equanimity, but the capital has other plans. As I write this, things around me are exploding, Russia having decided once again that Kyiv has gone too long without a reminder of its views. The logic is not subtle and neither are the explosions. In the embassy courtyard, at least, the refrigerator wagon was built to keep the listeners out. Here we rely on the old method of hoping, which like the briefings has never been proven to work but is administered in good faith.
+
+[Image]
+
+*A drone crashed into a residential building in Kyiv’s Solomiansky district on Thursday morning, killing a 44-year old resident (Photo c/o KCSA, November 12, 2026)*
+
+---
+
+## Day 1724
+
+*Date: 2026-11-13 | Status: Published | Audience: everyone*
+
+*The silence everyone hears*
+
+[Image]
+
+*One shattered narco cartel at a time*
+
+General Duka’s bail is UAH 65 million. By Thursday afternoon the court had received UAH 59.8 million in 1,450 payments. The rest will almost certainly be found, and the General will walk out before Z comes home from Dublin.
+
+Consider last summer’s botched attempt to throttle the agencies investigating his inner circle. The campaign was common knowledge. Why did the president do it? Nobody in Kyiv asked, and the habit of not asking is older than the president. In April we learned that a fourth mansion stood in Kozyn for a man the tapes call Vova. The agencies decline to say who he is, and the visiting press forgets to ask. In a country where everyone has a theory about Vova, the one man never put the question is the one who could answer it.
+
+“Common knowledge” has an exact meaning. There is knowing a secret, and there is knowing that everyone else knows it too. The courtiers all see that the emperor is naked, yet they keep bowing, until a child says it aloud and each sees that the others saw it too. European leaders in Dublin can be that child. The press corps is the one group that can put the question to him in public, and each question shows everyone else that it was already on every mind.
+
+That matters because a regime stands on what people believe about it. Deputies vote, prosecutors wait and generals promote each other because their obedience is what keeps him untouchable. It works in reverse too: each public case shakes the belief, people behave a little differently, and the next case costs less.
+
+The record is short. In July 2025 [crowds filled the streets](https://www.deccanherald.com/amp/story/world%2Fzelenskyys-top-aide-resigns-amid-widening-corruption-scandal-3813716) and Z reversed himself within days. We wrote about the confrontation over anti-corruption independence in [The Gutting of Oversight](https://abdymok.substack.com/p/day-1246). Then came [Operation Midas](https://www.nabu.gov.ua/en/news/operatciia-midas-vykryto-vysokorivnevu-zlochynnu-organizatciiu-shcho-diiala-u-sferi-energetyky/), and the reporting that followed, including [Heavy Rotation](https://abdymok.substack.com/p/day-1520) and [What the Transcript Cannot Hear](https://abdymok.substack.com/p/day-1525). This month came [Operation Carthage](https://www.nabu.gov.ua/en/news/operatciia-karfagen-vykryto-novu-zlochynnu-organizatciiu/). He is [not a subject](https://hromadske.ua/en/politics/263888-prezydent-ukrayiny-ne-fihuruye-v-mezhakh-dosudovoho-rozsliduvannia-dyrektor-nabu) of any inquiry, and we don’t need him to be. It is enough that the people around him keep being charged.
+
+This week the same mechanism worked on a man richer than any Kyiv oligarch. [Jensen Huang’s affair with a direct report](https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html) was common knowledge inside the company. A culture of silence held, audible in the eager laughter when Huang entered a room and the muttering after he left. Nobody inside broke the silence. Until they did.
+
+Huang reportedly tipped a Denny’s waitress \$1,000 without ceremony and played the dishwasher made good, and his biographer came to suspect the performance was for Huang’s own benefit, not the observer’s. Z’s version is the medal ceremony in a brigade bunker near the front, with the handshake, the hand on the shoulder and the cameras always there. I don’t doubt the soldiers are glad of the medals. A leader who needs to see himself as humble, or as a man of the people, has a reason to keep every question that would break the picture from being asked. The performance flatters him, the circle around him keeps quiet, and the silence is mistaken for loyalty.
+
+I am not saying Z is Huang. Nothing in the Kozyn file concerns his private life, and the comparison is about structure, not scandal. In both cases the silence was ended from outside, and over politics. Huang was exposed after a fight in Washington, not by his own staff. The same rules should apply to every master of the universe, from Elon to Jensen to Z. No exceptions.
+
+I think the silence around Z will break too, and I won’t give you the day. This week showed how fast a silence can end once someone outside breaks it. I am writing on November 13, 2026, so the prediction can be checked.
+
+If Z believes accountability is beneath him, he might enlighten us as to why. When the final piece gets written, it will begin with someone having asked. So we’re asking again: who is Vova?
+
+---
+
+## Day 1727
+
+*Date: 2026-11-16 | Status: Published | Audience: everyone*
+
+*Off-rec hot tubs*
+
+[Image]
+
+*Photo c/o abdymok (November 16, 2026)*
+
+The inscription reads:
+
+> Ми ті, хто будує з руїн новий світ
+> Залізом і кров’ю долаючи гніт
+> Несем свою правду крізь попіл і дим
+> Ми ті, хто піде, та піде молодим
+
+Which translates to:
+
+> We are those who build a new world from ruins,
+> Overcoming oppression with iron and blood.
+> We carry our truth through ash and smoke.
+> We are those who will depart, and depart young.
+
+That last line is particularly affecting. It turns *піде молодим* — “will go young” — into a stark statement about a life cut short.
+
+It is the monument to Daniel Kovalchuk (Frenchman), **24.12.1994 — ∞,** who in 2022 took active part in the defence of Kyiv and the surrounding region and was seriously wounded in a Russian missile strike on the Retroville shopping centre[1](#footnote-1).
+
+After undergoing complex treatment and rehabilitation, he joined the Armed Forces of Ukraine just six months later, serving with the 47th Separate Mechanized Brigade as an electronic warfare and UAV operator.
+
+In 2022–2023, Kovalchuk fought in the Soledar and Bakhmut sectors, taking part in offensive and defensive operations, including providing cover for the logistical route between Soledar and Bakhmut. In 2023–2024, he fought in the Avdiivka sector, holding the defence of the left flank around Avdiivka, including the territory of the coke plant and the logistical routes. He also took part in battles near Yasnohorivka, Kamianka, Berdychi and Stepove, before moving to the defence of the right flank of Ocheretyne.
+
+From 2024 to 2025, Daniel Kovalchuk continued his service in the Zaporizhia sector, remaining on the front line in the fight against Russian aggression. In March 2025, he was transferred to the 48th Separate Territorial Defence Special Purpose Unit, where he continued to carry out combat missions.
+
+While on leave for family reasons, he died of cardiac arrest on 3 May 2025.
+
+He was 30 years old.
+
+------------------------------------------------------------------------
+
+Moscow has advised the Western diplomats to leave Kyiv or be ‘in mortal danger,’ and the ambassadors have answered, as one does, on social media. Denmark, Germany, Italy, Spain, Sweden, France, Poland and Estonia are staying. The Americans say they are staying too, and the picture below shows their chargé d’affaires on Veterans Day, November 11, in front of embassy personnel from the US military. A statement leaves a back door open, and a photograph like this is harder to walk back. In my village we would say the diplomats have shown great courage and the neighbors have not yet counted the spoons.
+
+[Image]
+
+*c/o US Embassy in Ukraine’s Facebook (November 11, 2026)*
+
+Luke has gone to the Danish embassy to find out [how it feels](https://www.theguardian.com/world/2026/nov/15/western-diplomats-stay-put-kyiv-russia-strikes-ukraine), and the Danish ambassador has delivered the line of the season. ‘If you don’t shower, so what?’ Here, I think, is the whole philosophy of the modern diplomatic corps. A man may lose water, light and the airport, but he keeps his perspective, and perspective is lighter than water and travels better by train.
+
+The ambassador was kind enough to share his ordeal on the train from Poland. Drones came, he left the compartment twice, and he sat in the woods for an hour and a half. The staff gave him a biscuit. This is how empires fall and how treaties are signed.
+
+Credit where it is due. The EU ambassador has put beanbags in the corridors and sandbags on the walls, and she sleeps on a mattress in a hotel bathroom. She quoted Yossarian, and in this city Heller is no longer satire. He is a municipal handbook. She also reminded the reader that millions of Ukrainians sleep in shelters and on metro floors, and that was the sentence worth reading twice. The hotel bathroom is a hardship. The metro platform is the other kind.
+
+The Danish envoy admits ‘a privileged existence,’ which is honest of him. In Kyiv you can measure rank by the distance between your bed and the nearest basement.
+
+Now a small grievance, offered in the spirit of an old man on a bench. We in Kyiv are very tired of the foreign flaks who spend their working days off-record in hot tubs with Z and his cronies. Steam loosens the tongue, and it also loosens the spine. There are lots of them, almost as many as there are Western ambos, and I am told the two groups sometimes share the same water.
+
+Still, let us not be ungrateful. The ambassadors stay, the drones fly, and the biscuits are distributed with great ceremony. A city survives on small decencies and on people who are honest about how small they are.
+
+[1](#footnote-anchor-1)
+
+[Memorybook.ua](https://memorybook.org.ua/soldiers/daniel-h-kovalchuk)
+
+---
+
+## Day 1728
+
+*Date: 2026-11-17 | Status: Published | Audience: everyone*
+
+*The wrong sides keep moving*
+
+[Image]
+
+Welcome to our teleportation tunnel!
+
+Until this week, Kyiv’s bridges across the Dnipro were part of the city’s daily machinery. Fog lay on the river, and we crossed it in the dark, as we did every morning, with the whole city’s bread and diesel rumbling behind us. Flimsy fishnet hung around the pylons, a small defence against Russian drones. On the span sat a guard, whose whole job was to stay awake.
+
+Now picture that the guard takes an envelope. It is not a spy’s envelope. It comes from a businessman nicknamed The Mexican, who only wants a little help, a little quiet, and perhaps a favour for his cousin. The guard does not feel like a traitor. He feels like a man with a new kitchen.
+
+That is how Tuesday looks from an empty metro wagon. Metro service across the Dnipro on the red and green lines was suspended this morning after the overnight strikes, so the green line train I boarded started at Vydubychi, and nobody was coming from the left bank. Each empty seat is a person on the wrong side of the river.
+
+[Image]
+
+*The seat nobody is sitting in, left empty by a bridge nobody can cross. Above it, the advertisement that gave this post its title, a ‘teleportation tunnel’ for your phone number. It is the only crossing on offer today. (Photo c/o abdymok, November 17, 2026)*
+
+Anti-corruption detectives allege that senior officers of the Security Service, the guards of the whole country, took money while The Mexican ran call centres, counterfeited euros and sold synthetic drugs to Ukrainian teenagers. A senior officer was arrested, then freed on bail, and reports say his colleagues chipped in from their salaries to pay it. The Mexican has given a long interview. No court has ruled yet. Hold that in one hand.
+
+In the other, think about bridges. Overnight, Russian ballistic missiles struck two of Kyiv’s eight Dnipro crossings, the Northern and Southern bridges, putting both out of action. The wider attack also disrupted water and power in parts of the city. Ukraine, for its part, blew up the road span of the Kerch Bridge, leaving the road crossing impassable. Nobody suggests a guard could have caught a ballistic missile, and nothing reported so far ties these strikes to the Security Service case. Yet the three bridges now sit side by side in our minds, and the question of the guards follows naturally. Greed is the oldest recruiter, because the recruit never notices. You take a little, then more, until you cannot refuse, and whoever kept the receipt owns the bridge. (Regular readers will remember the gardener’s word, to cultivate, and the old suspicion that this garden is tended from across the border.)
+
+Here I must be a difficult guest. Nobody has shown that Moscow planned any of it, and even the man who suspects it admits he cannot say whether the officers knew who profited. We did not need a Russian teacher to invent kickbacks. We have been running that school since long before 2022. The sharper charges, that the president knew and shrugged or that he sits inside the scheme, are accusations and not findings. Plenty of such accusations in this war have later dissolved, and some have not.
+
+But the damage does not wait for a verdict. We read that the people protecting Ukraine were counting money. The soldier at the front reads it too, and so does a minister in Berlin deciding whether to open the budget again. Each of us asks the same question, and every answer costs us something. The missiles are for the bridges. For our trust, the other side needs only to watch us look careless.
+
+So the question is not ‘who is the traitor’ but ‘who does the guard work for?’ The bridges are down, and no guard could have caught a missile. But we will build new spans and post new guards, and the question will cross the river with us. If the answer is ‘us,’ the next bridge stands. If the answer is ‘whoever pays,’ it hardly matters what flag was on the envelope.
+
+The remedy is old and dull. Publish the evidence, let an independent court decide, and then replace the guard. In wartime it feels like a luxury, but it is the cheapest air defense we have.
+
+---
+
+## Day 1729
+
+*Date: 2026-11-18 | Status: Published | Audience: everyone*
+
+*The crocodile is replaceable*
+
+[Image]
+
+*Yesterday’s missile paths*
+
+*Things are slowly getting back to normal around here.*
+
+The chrono page is still up, with Uncle Claude and Aunt ChatGPT haggling over restraint and flourish, making the [HTML](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html) as readable as possible. It should now auto-detect the character encoding of the source and handle cleanup and conversion accordingly. It also now shows how much more thoroughly the air-alert and fatality figures have been reconciled before being added to the dashboard, compared with the original cruft.
+
+Nvidia’s board accepted Jensen Huang’s resignation last week, and Silicon Valley rose to defend him. Flaks say Elon Musk warned of lost handshake deals, a petition passed 195,000 signatures, and an employee letter invoked irreplaceable talent. The board, on its earnings call, said it was not considering bringing him back. The Valley assumed the sky would hold him. The board turned out to have a firmer relationship with gravity.
+
+I read this in Kyiv, which knows the genre. Our favorite tune is that Z cannot be replaced. His friends sing it as praise and his critics sing it as a complaint. When both sides agree on a premise in this country, a careful person checks his pockets. Everyone loves a leap, but nobody wants to hear about the landing.
+
+The fact is that Z is president of a country at war, where elections have been postponed. The interpretation is that there is nobody else. That is a claim, and its loudest makers tend to profit from there being one telephone number to call.
+
+The record points the other way. On [Day 1460](https://abdymok.substack.com/p/day-1459) we wrote about Yermak, who reassured Z that a full-scale invasion was impossible and then became indispensable, running an office that was less a government than a patronage hub. Z delivered the daily pep talks while the back office ran the accounts. Zaluzhny was dismissed and the stalemate stayed. Fedorov was sacked and by [Day 1649](https://abdymok.substack.com/p/day-1649) was jetsetting around the world selling drone armies. The drones kept arriving anyway. As we put it on [Day 1548](https://abdymok.substack.com/p/day-1548), what governs outcomes is unimaginative and indispensable: logistics, and the woman on the stairwell who knows who owns the generator.
+
+Now consider Z noticing a blackout protest in Obolon, phoning the interior minister, and watching police deliver electricians to the site. The lights came back — proof of the indispensable man. I take it as the opposite. A country in which the police restore the power on presidential order is a country with a redundancy problem.
+
+In Kyiv we hear wiretapped officials weighing whether it is a pity to spend money on shelters for energy facilities, describing UAH 1.89 billion in direct contracts, without open tenders, for protecting three facilities near Kyiv. Police find no protection when they visited. But they did find, in the penthouse of a Dnipro bodybuilder linked to the contractors, a pool, gilded moldings, 17 cars, mostly registered to his 74-year-old mother, and a live crocodile. The man denies any involvement and says he is owed money. I cannot verify any of this. But I note that the shelters are missing and the crocodile is present, and that in this story the crocodile is the only party who looks irreplaceable.
+
+[Image]
+
+*c/o Край поліський*
+
+None of this is a verdict. Plenty of people are excellent at their work and still replaceable, which is the whole point of having a state. The best thing to say about Z is that Ukraine can manage without him. The worst is that everyone has stopped believing it. We keep walking off the same cliff, convinced this time the air will hold, and we keep returning for another round.
+
+---
+
+## Day 1730
+
+*Date: 2026-11-19 | Status: Published | Audience: everyone*
+
+*The general and the eggs*
+
+[Image]
+
+The sirens are wailing as I write this, which in Kyiv is less an interruption than a form of punctuation.
+
+Readers of a certain age will remember Spy vs. Spy in MAD magazine. Two identical agents, one dressed in white and one in black, spent their lives building elaborate traps for each other and blowing themselves up. The joke was that the hats meant nothing. They were the same man twice, equally devious, equally ridiculous, equally doomed. I raise it because I have been describing Ukraine’s security services as a morality play in white hats and black hats, and I would hate for anyone to picture the cartoon.
+
+The difference is the eggs. Nobody wonders whether a Spy vs. Spy agent is rotten. A hat is a costume and an egg is contents. You can swap hats all day, but you find out about an egg only when you crack it, and cracking is the work of investigators.
+
+Yesterday Major General Serhiy Duka, a senior Security Service officer, spent three hours and twenty-five minutes before a parliamentary commission explaining that the anti-corruption agencies are the rotten ones. These are his explanations, not independent proof of his innocence. He said his meetings with Andriy Osipov, a man from the criminal world, were strictly work-related. He denied calling Osipov “brother.” Investigators suspect Osipov of creating a criminal organization, bribery, torture and counterfeiting, and allege Duka helped provide cover. Those allegations remain to be tested in court.
+
+The investigators, meanwhile, followed the evidence into the Security Service itself and into the circle around Vova, the man in the Dynasty recordings, widely identified as Z. Spy vs. Spy would never. In the cartoon nobody investigates anybody. They just detonate.
+
+Now to Shenzhen, where Trump, Xi and Putin, three very cracked eggs, held the first three-way meeting of their kind. Beforehand, analysts split between breakthrough and photo op, and a former State Department official said Trump had been advised to steer clear of Ukraine. I don’t know what was said in the room, and neither, I suspect, do the news presenters explaining it on television. From Pechersk it looks like three men at one table, with this war reportedly among the topics, and the people who live inside it listening to sirens.
+
+The last time I checked, Russia is still at war with Ukraine. Corruption is not a peacetime luxury. A country cannot defend itself while those entrusted with its security treat accountability as an act of hostility.
+
+The sirens are still going. The eggs, unfortunately, have formed an outstanding personal relationship with one another, which explains the crash that has already begun looking for someone to explain it on Newsmax.
+
+The object in the video looks like a Geran-5, which Ukrainian intelligence says flies on a Chinese engine[1](#footnote-1). The newer K5-K variant counted 93 foreign electronic parts, 52 from American manufacturers and 10 from Chinese ones. Moscow assembles it, Chinese makers supply the engine or its parts, and American chipmakers supply most of the foreign electronics. The same three countries were at a table in Shenzhen today.
+
+[1](#footnote-anchor-1)
+
+The video shows a projectile shot out of the sky yesterday afternoon falling into my neighborhood in Kyiv. No one was killed. It landed and exploded next to one of the capital’s ugliest new residential complexes, Pechersk Plaza. A 22-year old worker was hospitalized with shrapnel wounds.
+
+---
+
+## Day 1731
+
+*Date: 2026-11-20 | Status: Published | Audience: everyone*
+
+*Declared Impunity*
+
+[Image]
+
+*The photo above was taken in the Kyiv metro on November 20, 2026 during a combined Russian air assault on Kyiv. The woman climbing out of the hatch resembles Natalie Harp, last seen on Thursday handing the president a phone.*
+
+Point \#3 of the [Declaration Towards Peace](https://english.www.gov.cn/news/202611/19/content_WS6afeda1ac6d00ca5f9a0e790.html) caught my attention. The three heads of state recognized that the principle of state consent and respect for immunities of State officials are of paramount importance, and concurred that the International Criminal Court and other similar bodies must not abuse their jurisdiction.
+
+Trump, Putin and Xi have all been accused of violating human rights and committing war crimes. So have their friends, including Belarusian strongman Lukashenko. One can see why they would worry about the court’s manners.
+
+[The trio also pledged in a statement to reform the UN and avoid nuclear war.](https://www.bloomberg.com/news/articles/2026-11-19/xi-hosts-groundbreaking-trilateral-meeting-with-trump-putin?srnd=homepage-europe) Har. Har. Thank you. But no one is sure what the leaders of the USA, China and Russia actually discussed. And who trusts Trump, Xi or Putin anyway?
+
+Z, meanwhile, was in Berlin for another Coalition of the Willing summit, co-chaired by France and the United Kingdom. The more than 35 countries in the group help coordinate military, industrial and financial aid and advise Ukraine on security guarantees.
+
+Trump joined by phone. According to people familiar with the meeting who spoke to [the Washington Post](https://www.washingtonpost.com/world/2026/11/19/trump-says-putin-wants-peace-ukraine-even-putin-vows-fight/), his aide Natalie Harp rang Jared Kushner’s cellphone from Air Force One and handed the handset to the president, so the Europeans heard both of them.
+
+[Image]
+
+*Z and European leaders admire a Ruslan Vashkevich installation in Berlin on November 19, 2026 along with Trump’s peace envoys Steven Witkoff and Jared Kushner.*
+
+Trump said Putin is tired of the war and ready to deal. He compared the fighting to the Battle of Gettysburg and suggested the Europeans could spend the “billions and billions” going to Ukraine on their own “beautiful countries.” It is hard to say which is the more efficient instrument of diplomacy, a summit in Shenzhen or Kushner’s cellphone.
+
+Putin, speaking to reporters in Shenzhen, struck a different note. After Ukraine’s missile strikes on the Crimea bridge, he ruled out talks on a limited ceasefire. “We are not going to agree,” he said, and promised a response that would be “much more painful.” Of the European plan to station troops in Ukraine after the war, he said: “It means they are telling us that they will not allow peace in Ukraine.” He then invited EU representatives to Moscow to talk.
+
+Trump had called Putin a friend at the start of their meeting. Polish Prime Minister Donald Tusk [wrote](https://x.com/donaldtusk/status/2123326073467465850) on social media: “God, protect us from such friends.”
+
+[Image]
+
+Brussels had nothing to say. “In general, we do not comment on friendships,” European Commission Chief Spokesperson Paula Pinho told a briefing on Thursday. Spokesperson Christian Wigand was also tightlipped. He reminded reporters that “Russia and Vladimir Putin’s command is continuing its relentless attacks against civilians and civilian infrastructure in Ukraine,” and said the Commission would support all efforts to end this. German Chancellor Friedrich Merz called the summit “a photo opportunity” and said “a Yalta-style format will not bring about peace.”
+
+The explanation for the trio’s sudden tenderness toward international courts is not hard to find. They would prefer a world in which the men who make the rules also decide whether the rules apply to them.
+
+The world *has* tried something different, and it worked. After the wars in the former Yugoslavia, the international community set up a tribunal. Critics called it a gesture without teeth. The war was not over, the accused had not been defeated, and the governments needed to negotiate peace were often the same ones expected to cooperate with the court. It began with a single low-ranking detainee and went after minor figures while the men who directed the killing stayed out of reach. Then, in 1995, it indicted Bosnian Serb leaders Radovan Karadžić and Ratko Mladić. The indictments kept them out of the Dayton peace negotiations. Slobodan Milošević represented their interests instead. He, too, would eventually be indicted.
+
+The court had no army and depended on governments to make arrests. NATO forces at first did little, even when they came across wanted men. That changed in 1997, when British troops began making arrests and others followed. Under pressure from the European Union, governments in the former Yugoslavia surrendered the rest. All 161 surviving indictees came into custody.
+
+Impunity is a political arrangement, not a law of nature. Courts need evidence, prosecutors, judges and governments willing to enforce their decisions. The International Criminal Court was created to make that principle permanent. Its shortcomings are an argument for strengthening it, not destroying it.
+
+Putin is already subject to an ICC arrest warrant. The Trump administration has sanctioned court personnel and attacked the institution. China rejects the court’s authority over it. Now the three have found common language for their objections. They call it peace.
+
+But peace without accountability is a bargain in which the powerful keep their freedom and the victims inherit the consequences. The men who once believed they would never answer for their crimes eventually did. There is no reason to write a different rule for this generation.
+
+Have a great weekend!
+
+---
+
+## Day 1731-ish
+
+*Date: 2026-11-20 | Status: Published | Audience: everyone*
+
+*Two clocks, one golf course, and no cake*
+
+[Image]
+
+I only write two posts in one day after surviving combined Russian air assaults, because I like posting the after-action review maps.
+
+I have just read a [column](https://www.washingtonpost.com/opinions/2026/11/19/us-diplomacy-russia-ukraine-war-is-losing-race-against-drones/) by one of my least favourite Ukraine experts, David Ignatius, titled “In Ukraine, the drones are flying faster than the diplomacy.”
+
+Ignatius says the war is running on two clocks. One belongs to the diplomats and moves slowly. The other belongs to the drones and moves fast.
+
+He reports that attacks on Kyiv have more than tripled this year and that the city spent 172 hours under air-raid alert in October. Our own [Kyiv chronology](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html), where we have been recording the alerts one interval at a time, gives a rather different figure: 184 hours and 23 minutes across 217 alerts. That’s twelve hours and twenty-three minutes more than Ignatius reports. We have been keeping count. We are here.
+
+He then recommends more diplomacy and fewer bombs, as though the two were drawn from the same supply. He calls the exchange a slugfest, a word suggesting two parties of roughly equal size and disposition. One is striking apartment blocks. The other is striking refineries. The distinction seems to have escaped the golf club.
+
+Indeed, “symmetric” is the guiding word, according to a senior American official close to the talks. How, the official asks, can NATO guarantee peace without provoking Russia? It is a curious question to put to a country that has been invaded. Ukraine’s security is treated as a potential provocation. Russia’s invasion is treated as a negotiating position.
+
+The central theory, supplied by Jared Kushner, is that neither side will stop shooting until it has guarantees that the fighting will not resume. Ignatius calls this plausible. He also acknowledges that Putin may simply be using negotiations to prolong the war because he wants victory rather than peace. He does not return to the possibility, although the evidence sits in his own opening paragraphs: attacks on Kyiv have more than tripled in the same year that the talks have supposedly been advancing. A theory should occasionally be tested against the figures its author has just quoted.
+
+The sourcing is generous to the participants. A senior official close to the talks says the process is advancing. A source close to the talks says Putin has privately accepted a security commitment for Ukraine. Kushner himself says both sides understand that practical compromises will be necessary. Russia’s public demands, which would effectively dismantle NATO, are not to be taken at face value, on Kushner’s word. Nobody quoted seems to think the process is failing. This is one advantage of interviewing people who are participating in it.
+
+The proposed security arrangement is a tripwire without much wire. Russia reportedly wants no NATO troops stationed in Ukraine. The Americans propose that Russia pull its forces back from the border after a ceasefire, with NATO troops flying into Ukraine if Russian forces advance again. Sanctions would snap back if Russia massed troops for another invasion. There are some interesting questions here. Who decides when the tripwire has been crossed? What happens between detecting an advance and deploying the troops? And why should a guarantee that takes effect after the next attack be regarded as anything like Article 5? Ignatius does not ask.
+
+The NATO-for-Donbas proposal is presented as an ingenious way of cracking the hardest nut. It would have Ukraine exchange territory Russia has not conquered for membership in an alliance Russia has spent years trying to keep it out of. Z says he might put such a package to a referendum, provided it includes security guarantees, reconstruction funding and no restrictions on the size of Ukraine’s future military. Ignatius describes the mechanism but leaves its essential question unanswered: why would Putin accept Ukrainian NATO membership? His acceptance appears to be the one part of the arrangement nobody has thought necessary to explain.
+
+There is also the small matter of European Union membership, which is offered as an anchor for Ukraine’s future. European officials tell Ignatius that the special process for considering membership could take a decade. An anchor that takes ten years to arrive is an interesting piece of maritime engineering.
+
+Ignatius closes with golf, relayed by his official. The players have gone 250 yards down a par 5 and need only reach the green and putt out the final issues. The same column says the toughest issue is territory, where Putin wants all of Donbas and Z refuses to surrender any territory he has not lost. When the hardest question remains unanswered, the fairway is considerably shorter than advertised.
+
+The cake is also nearly finished, with security architecture as the icing. Nobody has yet been shown the cake.
+
+The column does contain one revealing passage. After Ukraine struck the Kerch Strait bridge, Putin said he had been considering a partial ceasefire for Black Sea shipping or energy facilities. Now, he said, “we will not be negotiating.” That is the whole process in a single quotation. The diplomats are 250 yards down the fairway, the cake is nearly ready, and the man holding the other end of the club has just announced that he is going home.
+
+Perhaps the two clocks are not the problem. Perhaps one of the players is simply using the time to keep hitting the ball.
+
+---
+
+## Day 1734
+
+*Date: 2026-11-23 | Status: Published | Audience: everyone*
+
+*Clubhouse cake*
+
+[Image]
+
+*The cake is imaginary, the guarantees unacceptable, and the clubhouse has no jurisdiction over Moscow. In the background, the Russian navy is taking on water.*
+
+On Friday, [we left the diplomats 250 yards down the fairway](https://abdymok.substack.com/p/day-1731-ish), the cake nearly ready and the champagne presumably chilling. Then Sergei Ryabkov, Russia’s Deputy Foreign Minister, wandered onto the course to announce that the cake was imaginary, the recipe unacceptable and the clubhouse had no jurisdiction over Moscow.
+
+This was awkward. Jared Kushner had just told us otherwise.
+
+[Kushner’s claim](https://english.nv.ua/nation/russia-accepts-article-5-style-guarantees-for-ukraine-kushner-claims-50660820.html) was that Russia accepts Article 5-style guarantees for Ukraine. On Nov. 20, [Ryabkov said](https://english.nv.ua/nation/moscow-rejects-nato-style-security-guarantees-for-ukraine-50661145.html) even quasi-membership in NATO, or any “creative solution” in that direction, was unacceptable. Moscow’s demand that Ukraine stay out of the alliance has not moved an inch. One side announces a breakthrough. The other says there has been none. The ball is somewhere in the rough.
+
+That same day, [two Russian missiles and a drone came down in Poland](https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine), near a training area hosting thousands of European troops. Warsaw called it intentional provocation. On Saturday, Mark Rutte promised in Warsaw that NATO would defend “every inch” of Polish territory. The North Atlantic Council meets Monday.
+
+It is the right sentence. Putin has heard versions of it before. Two months before the February 2022 invasion, he demanded a “new security architecture”. Now he has repeated the demand, with the geographical ambitions slightly enlarged. He is probing the fence, rattling the gate and checking whether anyone has left the keys under the mat. He also knows his window may be limited. It could be a long time before he encounters another American president who calls him a friend.
+
+Trump did just that. In China, he greeted Putin with a grin and posted their handshake under the caption “My Friend”. Asked about it by ABC on Sunday, Director of National Intelligence Jay Clayton defended the word as appropriate for three nuclear powers in a room, then clarified that Putin “[is not America’s friend in Ukraine. Not at all.](https://www.youtube.com/watch?v=CCoUp6OaXuU)”
+
+Friend in the room, not friend in Ukraine. A useful distinction when explaining that the man the president calls a friend is waging war against a country America says it supports. When the intelligence chief has to annotate the president’s handshake, somebody in the administration appears to understand the situation rather better than the social-media captions suggest.
+
+Meanwhile, the war is leaking in every direction, like a badly maintained plumbing system with nuclear weapons.
+
+On Saturday, a Ukrainian drone set the sanctioned cargo ship Sparta II ablaze in the Gulf of Finland. A suspected Russian helicopter then violated Finnish airspace. Prime Minister Orpo said the war was “spilling over” and that Ukraine had the right to fight back. Containing a war is difficult when the machinery carrying it keeps catching fire in other people’s neighbourhoods.
+
+On Sunday, 3,000 kilometres to the south, [a suspected drone strike hit the Russian Navy corvette Merkury at Benghazi](https://p.dw.com/p/5PjRB), where it had stopped to refuel on its way home. Satellite imagery shows most of the ship capsized, with only its bow above water. [Ukraine has claimed responsibility](https://t.me/V_Zelenskiy_official/21947). From the Baltic to the Mediterranean, Russia’s navy is discovering that distance is no longer the same thing as safety. The sea is large. Apparently, not large enough.
+
+Putin has [promised a “far more painful” answer to Kerch](https://www.theguardian.com/world/2026/nov/19/putin-vows-painful-response-to-ukraine-bombing-of-kerch-bridge), while [Kyiv’s bridges were hit again](https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges) on Thursday night. The man demanding a new security architecture seems increasingly occupied with demolishing the existing infrastructure.
+
+Behind the immediate exchanges sits a longer collision. Russia has spent decades pushing its borders outward. A united Europe has expanded from the other direction, without an internal brake of its own. Expansion stops when it meets resistance. The two have now met, and Ukraine is where the collision is taking place.
+
+Both are empires on an outsourced lease. Europe leans on America. Russia stands in China’s shadow. Neither patron wants a proxy war on this continent, and that reluctance is the only brake that matters. The trouble with outsourced security is that the landlord can change his mind, the guarantor can become distracted and the tenant is left with the burning roof.
+
+Ukraine, in every scenario, pays.
+
+That is why “creative solution” is the wrong frame. It suggests two parties with a shared problem and a mutual interest in compromise. Instead, we have an invaded country, an invader and two distant patrons who would prefer the whole business contained. One wants to survive. The other wants to dictate the terms of its survival. Calling this a creative disagreement does not make it less of a disagreement. It merely gives the aggressor a nicer stationery set.
+
+Kyiv spent 184 hours and 23 minutes under air alert in October: seven days, 16 hours and 23 minutes waiting for the next thing to happen. A guarantee that takes effect after the next attack is not Article 5. A guarantee Moscow can veto in advance is not a guarantee at all. It is a permission slip, and the Kremlin is hardly going to sign one for Ukraine’s protection.
+
+So we keep counting the alerts and reading the communiqués against the quotes. We compare promises with the statements of the people who would actually have to honour them. We listen for the sound of a deal being announced, then check whether anyone on the other side has agreed.
+
+When someone finally brings us the cake, we’ll taste it. Until then, one player is still hitting the ball, another insists it was never in play, and the people on the course are being asked to admire the scenery.
+
+We are here.
+
+---
+
+## Day 1735
+
+*Date: 2026-11-24 | Status: Published | Audience: everyone*
+
+*Who’s counting?*
+
+Numbers have a way of acquiring authority simply by being announced. In early October, the UN’s [Volker Türk reported](https://ukraine.un.org/en/324088-comment-un-human-rights-chief-volker-t%C3%BCrk-deadly-strikes-ukraine) at least 85 civilians killed in Russian strikes since October 5. On the same day, [Z gave a figure of 78 killed](https://en.interfax.com.ua/news/general/1216732-amp.html). The reporting periods overlapped, but were not identical, and the accompanying injury totals differed.
+
+This puzzled me, and, I admit, annoyed me. There was something troubling about the casual business of throwing around numbers of dead civilians, as though the numbers were self-explanatory and nobody need ask where they came from. The figures were close enough to invite comparison, but different enough to make one wonder what, exactly, was being counted. So I slapped up a dashboard on the chronology page and began keeping my own incident-by-incident tally of civilian fatalities.
+
+Not because I imagined I could produce a complete national total. That would be an ambitious undertaking for one person, and perhaps for several institutions as well. I wanted to know what stood behind the numbers: which attack, which victims, which source.
+
+The question returned on November 23, when Defence Minister [Yevheniy Khmara said](https://www.ukrinform.ua/rubric-society/4187672-hmara-cerez-udari-rf-u-zovtni-v-ukraini-zaginuli-534-civilni-sered-nih-16-ditej.html) that Russian strikes had killed 534 civilians in October. The UN’s [verified October count](https://ukraine.ohchr.org/en/Protection-of-Civilians-in-Armed-Conflict-October-2026) was at least 372. The difference is considerable. The UN [explains its verification process](https://ukraine.ohchr.org/en/ukraine-behind-numbers) and describes the October figure as a minimum, reflecting the limits of what it could verify. Khmara’s public statement offered no comparable account of how his figure was assembled. There may be differences in coverage, reporting dates and verification standards. Without the underlying records, we cannot tell. Numbers, after all, are easier to announce than to account for.
+
+That is precisely why the dashboard exists. It does not pretend to know every civilian fatality in the country. It records those we can trace to particular incidents and sources, and makes the method available for inspection. The number matters. So does the path by which we arrive at it.
+
+[How the counter works: methodology](https://abdymok.github.io/40/method/) · [The chronology](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html)
+
+------------------------------------------------------------------------
+
+[Image]
+
+*In our forest, the fox calls the wolf his friend, the rooster is left wondering who is for dinner, and the cat has apparently found a way to make herself indispensable.*
+
+------------------------------------------------------------------------
+
+The president of the United States says the president of Russia is his friend. Last time I checked, the Russian president was trying to kill me, which raises an awkward question about the nature of this friendship.
+
+His Director of National Intelligence, Jay, assures us that the Russian leader is not America’s friend in Ukraine. From a corporate lawyer with no intelligence background, who won’t call January 6 an attack on the US Capitol, this is hardly startling. His predecessor, Tulsi, used her office to revive claims that US-funded laboratories in Ukraine were developing deadly viruses, though no evidence of a biological weapons programme was ever produced. One chief will not name an attack on his own country, the other lent authority to a Kremlin story about mine. Perhaps this is what passes for intelligence these days. From Kyiv, the joke is harder to enjoy.
+
+Let me try one of my own.
+
+Once upon a time a rooster and a cat lived in the forest, and the fox wanted the rooster for dinner. This tale follows a similar plot, but instead of a rooster and a cat, we have two gay men, Vasyl and Petro.
+
+The two retreat to the woods to escape the dreariness of modern existence. Globalism and civilization catch up with them when Mikita, a cannibal, tries to eat Petro for purely ideological reasons. Mikita had spent his whole life fighting globalism, which, for some unknown reason, he blamed on gays.
+
+The story has a happy ending. Instead of eating Petro, Mikita becomes gay too, and good conquers evil, etc.
+
+Since we are on the subject of what powerful Americans will and won’t acknowledge, I wondered whether Jensen, the head of Nvidia, whom the president has called a “Great Patriot,” would say, if asked, that the Capitol was attacked on January 6, 2021. The better question is whether anyone can be held accountable once a businessman becomes too important to the people in power. Nvidia dominates the production of advanced AI chips and is so entangled in the financing of the AI industry that Jensen’s fortunes have taken on national importance. Serious questions have been raised about his relationship with Alice, a former executive of the chip distributor Megaspeed whom US intelligence officials reportedly suspect of working for China, and about the possible diversion of advanced chips to China’s military. The allegations remain under investigation, but the American president still intervened to restore Jensen as Nvidia’s chief executive. Elon joined the campaign and celebrated the board’s reversal with the words, “The mistake has been corrected.”
+
+This is the same Elon who, days earlier, claimed the United States had staged a coup to overthrow Ukraine’s president in 2014, a familiar Kremlin account of the Maidan revolution. So we have two enormously influential men, one eager to rewrite Ukraine’s history, both eager to restore a businessman whose affairs raise national-security questions. Jensen is back, chip shares have soared, and the questions remain. National security, like history, can apparently accommodate quite a lot when the right people stand to benefit.
+
+---
+
+## Day 1736
+
+*Date: 2026-11-25 | Status: Published | Audience: everyone*
+
+*Coffee and clean asses*
+
+[Image]
+
+*Photo c/o abdymok (November 25, 2026)*
+
+An update from a friend in a very unpleasant place.
+
+> One of my biggest wishes during training was to end up in a unit with good, smart people, preferably with a good sense of humor. And I got lucky.
+>
+> When I joined them, there was no electricity where we now serve and live. There is a generator, but it doesn’t run constantly, so the evenings in the dark are very dreary. Recently the power came on, despite the constant glide bomb strikes. Simply a miracle.
+>
+> But habit is habit. In the morning I traditionally turn on the gas canister to heat a little water, and behind me I hear the commander’s voice:
+>
+> “What are you doing?! We have an electric kettle!”
+>
+> You can’t imagine how stunned I was. Of course, we have electricity!
+>
+> Even earlier, we managed to heat water to wash properly. Then he gave a general order:
+>
+> “Wash your asses!”
+>
+> Yes, he addresses me formally, because I’m the oldest here. All attempts to switch to the informal form have failed. My brothers-in-arms turned out to be not only funny but also intelligent.
+>
+> Now we work with coffee and clean asses. And that, let me tell you, is not such a trivial task in our latitudes...
+
+------------------------------------------------------------------------
+
+Regular readers will remember the American from [day 1714](https://abdymok.substack.com/p/day-1714), the one with the exploding power bank and my borrowed running shoes.
+
+Well, it turns out he is still in Kyiv. He popped by yesterday, dropped off his business card and delivered a friendly pitch for a new project, Borscht on delivery 24/7. The police didn’t roll him, and his family started a GoFundMe. He has a new place to stay and is thinking about ways to help ordinary Ukrainians. I urged him to first learn the language so he can communicate with them. I told him I’d post his card to help lure potential investors.
+
+------------------------------------------------------------------------
+
+On the American jacket:
+
+[Image]
+
+*Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy***.** A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”* (The New York Times, November 25, 2026)*
+
+Jensen said he would be “in service of helping our president make our country successful.” Maybe the psychoanalyst will disabuse him of this stupidity. Maybe not.
+
+------------------------------------------------------------------------
+
+On the Ukraine jacket, Daniel McLaughlin of [The Irish Times](https://www.irishtimes.com/world/europe/2026/11/25/the-fsb-will-become-anyone-to-make-you-a-traitor-russia-finds-recruits-even-in-ukraines-patriotic-heartland/), reporting from Lviv, tells us how two Telegram handlers, who called themselves Mark and Daniil and are believed by investigators to be Russian security service officers, allegedly turned a 33-year-old job seeker named Iryna Savetina into the builder of the double bomb that killed police officer Viktoriya Shpylka in February. Prosecutors say she followed step-by-step instructions and was promised about \$1,000 per device. She says she thought she was making a firecracker. The indictment is now in court.
+
+A similar case closer to home. [Kyiv police say](https://english.nv.ua/nation/police-arrest-kyiv-woman-over-1k-contract-murder-plot-50660274.html) a 19-year-old woman, promised \$1,000 by a Telegram handler, poisoned a 32-year-old Colombian veteran of the Armed Forces on a date in a rented Kyiv flat, after the handler spent a month writing to him in her name. Prosecutors say she filmed him after he died and sent the footage as proof. Police attribute the order to Russian intelligence. She is charged with contract murder and held without bail.
+
+A word to the lovelorn of the Telegram age. In the old days a man feared the rival, the husband and the mother-in-law. Now he must also fear that his beloved is a committee, and that a month of tender messages was composed by a stranger on piecework. When someone writes to you first, writes at length and soon suggests you rent a flat, remember that real love is shy about real estate. Check the heart before you gulp the drink.
+
+---
+
+## Day 1737
+
+*Date: 2026-11-26 | Status: Published | Audience: everyone*
+
+*The Four Principles*
+
+[Image]
+
+*Four principles, several competing versions of a security guarantee, and one very long leash. Kushner, Trump, Putin and Z gather around the paperwork while Europe tries to keep its seat at the table. Ukraine, meanwhile, is expected to be flexible. The question, as ever, is who is walking whom.*
+
+In Berlin on November 11, the German government’s spokesman, Stefan Kornelius, told journalists that four principles had been agreedin Abu Dhabi.[1](#footnote-1) Governments rarely announce their principles; they prefer to let them be discovered later, like an old coat in a wardrobe. This time someone wrote them down, which in diplomacy counts as an act of recklessness.
+
+Here they are in plain words:
+
+1.  **Sequence.** Peace in Ukraine is discussed first. The wider order for Europe comes afterwards.
+
+2.  **Context.** Ukraine is an inherent part of Europe’s security, not a separate item on the agenda.
+
+3.  **Consensus.** Nothing is decided unless the allies all agree. The Americans, said Kornelius, depend on this too. Getting every ally to agree on where to have lunch is an achievement; on a peace settlement, it is a safeguard.
+
+4.  **No surprises.** Europe and America negotiate without side deals. A noble resolution, of the kind that is usually tested within the week.
+
+A journalist asked the sensible question: were these agreed with Russia? Kornelius said no. They were agreed among Europeans, Americans and Ukrainians.[2](#footnote-2) That is a perfectly respectable arrangement, but it is not yet a peace. It is more like agreeing with your own family what to say to the neighbours, and then going next door.
+
+Next door was the Kremlin. Kushner and Witkoff were flying to Moscow that same day, and Kornelius said they were carrying “this package” with them, including the understanding that Europeans would join the talks.[3](#footnote-3) Asked whether the Americans would be breaking the agreement by going without the Europeans, he said Berlin was waiting for the Russian reaction. It is a fine diplomatic sentence, with a whole foreign policy hidden behind a door marked “waiting.”
+
+### What the Kremlin heard
+
+The next day, November 12, the Kremlin held an open session with the Americans. On November 24, [Andrei Illarionov](https://www.youtube.com/watch?v=xZMKfbzHi3s), once Putin’s economic adviser, compared the English that was spoken with what the American delegation’s own interpreter said in Russian. By his count, Witkoff’s call to bring the Europeans into the talks went unheard twice. Kushner’s remark that the Russian, Ukrainian and European delegations had “agreed on many of the principles” was not translated at all. A mention that Medinsky had played a very important role came out as two rounds of thanks. The Kremlin’s transcript records the interpreter, not the envoys. A transcript, it turns out, is only as faithful as the person standing nearest the microphone.
+
+Illarionov asks whether all this was an accident. We listened to the passages ourselves. It wasn’t. (Berlin’s published record is the best source, which is why we quote it below).
+
+### Article 5, with conditions
+
+Meanwhile Washington was talking about guarantees. On Thursday in Berlin, Jared Kushner said the Russians had become comfortable with the idea that a security guarantee for Ukraine would be modelled on Article 5, NATO’s mutual defense clause. Trump was open to it, he said, provided it served American interests. The next day Sergei Ryabkov replied that anything resembling Ukrainian “quasi-membership” in NATO was unacceptable, and that Kyiv must first accept it would never join.[4](#footnote-4) Comfort, it seems, is a matter of which side of the table you are sitting on.
+
+Z answered on Saturday. Membership in NATO remains the clearest guarantee, he said. As for “Article 5-like,” the whole difficulty lives in the word “like”: collective defense needs a collective, and nobody has said who it would be. Put it on paper, he said, and make it outlast one presidency, or it is merely “a two-year pause.”
+
+On Sunday Kushner spoke at length. “Comfortable” had now become “willing to discuss.” The guarantee needed Trump’s approval, Congress, and a European arrangement that made it highly unlikely ever to be invoked. It is an elegant idea: a guarantee that is strongest when nobody needs it, like an umbrella that works only in dry weather.
+
+In his [long video interview](https://www.youtube.com/watch?v=z0T-xAqwYf4&t=2442s), he filled in the method. “The Article 5 language is the gold standard,” he said, and Ukraine would get no more detail than NATO members get from one another. The first draft was not written in a treaty office: “Steve and I actually, on our computer, typed up the first security guarantee.” Treaties once required a conference hall and a year of quarrels over the shape of the table. Now, apparently, a laptop will do. His creed is that “you have nothing until you have something,” a maxim of admirable compactness, hard to object to and hard to build a border on. Does Putin want peace? He does, said Kushner, but “it’s always peace on what terms.”
+
+The accounts need not contradict each other. Kushner may be describing private talks while Moscow speaks for the record. Still, an envoy who retreats from “comfortable” to “willing to discuss” within three days is treating progress as an instrument rather than a description.
+
+### The order of things
+
+Here is where the four principles return, because Kushner calls the postwar security architecture “probably the most important” of his workstreams. He expects that once the postwar relationship is defined, “the issue of territory will become much easier to resolve.” That is the reverse of Berlin’s sequence, which puts peace in Ukraine first and the wider order after. It is the order Illarionov attributes to Moscow. It is not, Kushner added, “about fairness or who’s right or wrong.”
+
+One may wonder who is carrying whose package. Or, more precisely, who will be asked to sign for it.
+
+### A kitchen philosopher and an old habit
+
+Z likes to talk about how much Ukraine has done to bring Europe into the peace process. Kyiv is now waiting for Washington to set a date for the next four-sided meeting. There is a great deal to discuss, and also the small matter that the meeting has no date, and Washington holds the calendar.
+
+Among those trying to explain all this is Vladimir Pastukhov, a commentator who writes in the Russian-language press and does his philosophizing, one gathers, in the best tradition: in the kitchen. He argues that a dependent state eventually dictates terms to the power it depends on, as Israel has with America, and that Ukraine is now doing this to Europe. It will not wait at Europe’s table for scraps, he writes; it will shake the table until what it needs falls where it wants. It is a vivid argument. It also counts the Nord Stream sabotage as a step in Ukraine’s campaign while a Hamburg court is still examining who did it. Kitchen verdicts have always been faster than courts.
+
+The comparison is useful, though not as he intends. Israel’s patron is one capital, and when Israel pulls, Washington answers. Europe is a banquet of twenty-seven tables, each toastmaster certain he speaks for the continent, and when Kyiv pulls, Europe must first agree who holds the leash. And Ukraine, unlike Israel, is increasingly invited to accept a settlement whose guarantees are negotiated by others, its own choices treated as variables to be managed.
+
+We have been keeping notes from Kyiv, which is not quite the same as keeping minutes at a European summit. We do have a long archive, the one consolation of a long war: you accumulate a great deal of evidence of having been right, and very little comfort from it. On [Day 1705, “The language of partnership”](https://abdymok.substack.com/p/day-1705), we looked at the vocabulary used for relationships in which one side makes all the concessions. On [Day 1699ish, “Pawn shop with flags”](https://abdymok.substack.com/p/day-1699-contd), we looked at sovereignty treated as collateral, with others setting the exchange rate. And on [Day 30](https://abdymok.substack.com/p/day-30), when Western politicians assumed there would be time to adapt and grow accustomed to the result, we wrote: “We are at stage five of a four-stage disaster management response.” That was no crystal ball, only the direction of travel, visible while much of the world was still discussing the weather.
+
+### The war leaks
+
+The war has a habit of turning up where nobody invited it, like a relative at a wedding. At a Berlin press conference on November 23, a journalist asked Chancellor Friedrich Merz and NATO’s Mark Rutte about Ukraine’s reported strike off the coast of Libya, and about Russia’s accusation that Estonia lends its airspace to Ukrainian attacks.[5](#footnote-5) Neither addressed the operation directly. Silence at a press conference is also an answer; it simply comes without subtitles. Italy has rebuked Ukraine over reported naval drone attacks on Russian vessels near Libya, while the internationally recognized Libyan government denies agreeing to any such operation.[6](#footnote-6)
+
+Then there is the Russian vessel Sparta II, rescued in the Gulf of Finland with the help of Finland and Estonia.[7](#footnote-7) It is a small story with a large moral: even while resisting Russian pressure, Russia’s neighbors remain bound by obligations that do not vanish because the other side has turned hostile. Courtesy toward a ship in distress is not a line item in any strategy paper, yet there it is. The neighbors are expected to be responsible, restrained and predictable. Moscow is free to be otherwise, and the rest of the continent is invited to negotiate with the result.
+
+### Who is walking whom?
+
+The familiar picture is a dog taking its owner for a walk. The owner holds the leash, but the dog chooses the route, stops when it likes, and pulls the human along. The dog, to be fair, at least enjoys the walk. The diplomatic version is less amusing. Russia sets the terms of the crisis, Washington tries to talk Moscow into a framework, Europe argues over the order of the questions, and Ukraine is asked to show flexibility.
+
+The leash is held by the people who insist they are in control.
+
+From Kyiv the view is different. We have seen where this walk leads. And we are not especially keen to go around the block again.
+
+------------------------------------------------------------------------
+
+### The German originals
+
+> Bei den Verhandlungen hat man sich auf vier Prinzipien geeinigt. Erstens, über die Sequenzierung: Die Sequenzierung sieht vor, dass zuerst über den Frieden in der Ukraine diskutiert wird und anschließend über eine Ordnung, die in Europa und im transatlantisch-euroatlantischen Raum herrschen kann. Zweitens, über den Kontext der Verhandlungen: Der Kontext bedeutet, Verhandlungen werden nicht monothematisch über diese Architektur geführt, sondern die Ukraine ist inhärenter Teil der euroatlantischen Sicherheitsarchitektur. Das dritte Prinzip, auf das sich geeinigt wurde, ist Konsens. Konsens bedeutet: Jede Vereinbarung wird nur von allen Mitgliedern getragen werden. Sobald kein Konsens unter den NATO-Mitgliedern erreicht werden kann, können diese Verabredungen auch nicht umgesetzt werden. Konsens ist also auch für die amerikanische Seite ein tragendes Element. Das vierte Prinzip ist umschrieben mit einem Begriff, einer „no-surprise-policy“, also keine Überraschungen. Das heißt, es gibt die Verabredung zwischen Europa und den USA, ein gemeinsames Verständnis zu entwickeln, wonach diese Verhandlungen jetzt ohne Nebenabreden, mit der nötigen Transparenz und in enger Abstimmung fortgeführt werden.
+
+*Translation:* “Four principles were agreed in the negotiations. First, on sequencing: sequencing provides that peace in Ukraine is discussed first, and afterwards an order that can prevail in Europe and in the transatlantic, Euro-Atlantic area. Second, on the context of the negotiations: context means the negotiations will not be conducted on this architecture as a single topic. Rather, Ukraine is an inherent part of the Euro-Atlantic security architecture. The third principle agreed is consensus. Consensus means that any agreement will be carried only by all members. As soon as consensus cannot be reached among NATO members, these arrangements cannot be implemented. Consensus is thus a load-bearing element for the American side as well. The fourth principle is described by a term, a ‘no-surprise policy,’ that is, no surprises. This means there is an agreement between Europe and the US to develop a common understanding under which these negotiations now continue without side agreements, with the necessary transparency and in close coordination.”
+
+> Frage: Herr Kornelius, nur, um es nicht falsch zu verstehen: Diese vier Prinzipien sind aber keine, die mit Russland vereinbart wurden, sondern zwischen den Europäern, den Amerikanern und den Ukrainern. Ist das richtig?
+> StS Kornelius: Das ist richtig. Damit haben diese Prinzipien natürlich Einfluss auf die Gespräche, die jetzt im Anschluss an Abu Dhabi stattfinden.
+
+*Translation:* “Question: Mr. Kornelius, just so as not to misunderstand: these four principles were not agreed with Russia, but among the Europeans, the Americans and the Ukrainians. Is that correct? Kornelius: That is correct. These principles will of course therefore influence the talks now taking place after Abu Dhabi.”
+
+> Frage: Die US-Verhandler Kushner und Witkoff fliegen ja heute weiter nach Moskau. Tun sie das auch im Auftrag der Europäer?
+> StS Kornelius: Ich hatte mich dazu eben geäußert; ich wiederhole es gerne. Es gibt ein Verständnis über vier Prinzipien, die in Abu Dhabi erzielt wurden. Es gibt das Verständnis, dass die Verhandlungen um die Europäer erweitert werden. Mit diesem Paket werden die Verhandler nun nach Moskau reisen.
+> Zusatzfrage: Aber die Europäer sind ja jetzt in Moskau nicht dabei. Wird dann diese Vereinbarung schon direkt von den US-Verhandlern gebrochen?
+> StS Kornelius: Wir warten jetzt auf die russische Reaktion.
+
+*Translation:* “Question: The US negotiators Kushner and Witkoff are flying on to Moscow today. Are they also doing so on behalf of the Europeans? Kornelius: I addressed that a moment ago. I’m happy to repeat it. **There is an understanding on four principles reached in Abu Dhabi**. There is the understanding that the negotiations will be expanded to include the Europeans. The negotiators will now travel to Moscow with this package. Follow-up: But the Europeans are not present in Moscow. Is the agreement then being broken straight away by the US negotiators? Kornelius: We are now waiting for the Russian reaction.”
+
+> Es gibt einen Angriff der Ukrainer vor der Küste von Libyen ... Wie groß ist also die Sorge, gerade wenn man sieht, dass Russland jetzt Estland als NATO-Land und EU-Land vorwirft, den Luftraum für die ukrainischen Angriffe zur Verfügung zu stellen?
+
+*Translation:* “There has been an attack by Ukrainians off the coast of Libya ... So how great is the concern, especially when one sees that Russia is now accusing Estonia, as a NATO and EU country, of making its airspace available for the Ukrainian attacks?”
+
+[1](#footnote-anchor-1)
+
+German Federal Government, [Government Press Conference, November 11, 2026](https://www.bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-11-november-2026-2460578). Statement on the four principles agreed in Abu Dhabi.
+
+[2](#footnote-anchor-2)
+
+Ibid. Exchange between journalists and government spokesman Stefan Kornelius clarifying that the principles were agreed among Europeans, Americans and Ukrainians, not with Russia.
+
+[3](#footnote-anchor-3)
+
+Ibid. Exchange concerning Kushner and Witkoff’s journey to Moscow and the package of principles they were carrying.
+
+[4](#footnote-anchor-4)
+
+Reuters, [Russia pushes back against US idea of NATO-style security guarantees for Ukraine](https://www.investing.com/news/world-news/russia-pushes-back-against-us-idea-of-natostyle-security-guarantees-forukraine-5040947); Associated Press, [Kushner’s explanation of the proposed security guarantee](https://apnews.com/article/7b4a86809dcd466bba97d374045a1a78).
+
+[5](#footnote-anchor-5)
+
+German Federal Government, [Press conference with Chancellor Friedrich Merz and NATO Secretary General Mark Rutte, November 23, 2026](https://www.bundesregierung.de/breg-en/news/chancellor-welcomes-rutte-2462370).
+
+[6](#footnote-anchor-6)
+
+Reuters, [Italy rebukes Ukraine over attacks on Russian ships near Libya](https://www.reuters.com/world/italy-rebukes-ukraine-over-attacks-russian-ships-libya-2026-11-25/); Reuters, [Ukraine says attack on Russian ships in Libya was self-defence](https://www.investing.com/news/world-news/ukraine-says-attack-on-russian-ships-in-libya-was-selfdefence-5049274).
+
+[7](#footnote-anchor-7)
+
+Finnish Border Guard, [Rescue operation continues with the towing of the vessel Sparta II](https://www.epressi.com/tiedotteet/turvallisuus/rescue-operation-continues-with-the-towing-of-the-vessel-sparta-ii.html).
 
 ---
