@@ -3330,9 +3330,9 @@ Spare us the rhetoric, just send guns.
 [Image]
 *Map c/o Deepstate UA*
 
-Russia’s invasion progress is pathetic. They are getting surrounded, smushed and turned into fertilizer. It’s the 62nd day of the assault and they haven’t even reached Sloviansk. It’s probably best if they surrender immediately.
+Russia’s invasion progress is pathetic. Russian forces are getting surrounded, smushed and turned into fertilizer. It’s the 62nd day of the assault and they haven’t even reached Sloviansk. It’s probably best if they surrender immediately.
 
-[Karen](https://www.washingtonpost.com/people/karen-deyoung/) is still hard at work trying hard to sex up the looming battle Putin lost on [Day 11](https://abdymok.substack.com/p/day-11?s=w).
+[Karen](https://www.washingtonpost.com/people/karen-deyoung/) is still hard at work trying to sex up the looming battle Putin lost on [Day 11](https://abdymok.substack.com/p/day-11?s=w).
 
 [Image]
 *Looming ground battle is crucial phase in Ukraine, U.S. officials say. Washington Post (April 26)*
@@ -3473,7 +3473,7 @@ What separatist groups? The separatist groups in Daniel’s underpants?
 
 Sorry, there are no separatist groups or separatists*.* It’s Russia-occupation forces, all the way down[1](#footnote-1).
 
-I’m not happy with CNN’s [analysis](https://edition.cnn.com/2022/04/27/europe/russia-military-analysis-south-east-ukraine-intl/index.html), either. Both the NYT cand CNN cite military analysts from Fred’s [Institute for the Study of War](https://www.understandingwar.org/), the same dream factory that in December 2021 gave us “[strategic misdirection](https://www.understandingwar.org/sites/default/files/Ukraine%20Invasion%20Forecast%20Series%20Part%201%20ISW%20CT%20December%202021.pdf),” assuming Putin would act within the bounds of rationality, as if he were rational.
+I’m not happy with CNN’s [analysis](https://edition.cnn.com/2022/04/27/europe/russia-military-analysis-south-east-ukraine-intl/index.html), either. Both the NYT and CNN cite military analysts from Fred’s [Institute for the Study of War](https://www.understandingwar.org/), the same dream factory that in December 2021 gave us “[strategic misdirection](https://www.understandingwar.org/sites/default/files/Ukraine%20Invasion%20Forecast%20Series%20Part%201%20ISW%20CT%20December%202021.pdf),” assuming Putin would act within the bounds of rationality, as if he were rational.
 
 [Image]
 
@@ -3735,7 +3735,7 @@ London-based philosopher Volodymyr Pastukhov has this to [say](https://t.me/v_pa
 
 Forward lines of own troops (FLOTs) aren’t hard to find[1](#footnote-1). Study yours in the remaining days before we enter the war’s next phase, which will likely last until autumn. Our mission is straightforward: to atomize Russia-occupation forces occupying the pink blobs.
 
-Aside from much publicized anti-tank weapons, MANPADS and small arms, nimble units equipped with loitering munitions and other non-line-of-sign armament will likely determine the outcome of close quarters combat, so be supple andable to run sub-6 minute miles, at least two, consecutively.
+Aside from much publicized anti-tank weapons, MANPADS and small arms, nimble units equipped with loitering munitions and other non-line-of-sign armament will likely determine the outcome of close quarters combat, so be supple and able to run sub-6 minute miles, at least two, consecutively.
 
 The key to sleeping safely in Russia-occupied areas during Phase 3 (June, July, August, September, etc) will be gathering in small groups and huddling in dugouts at night. On the contact line, those at greater risk of being blown to smithereens nap less, on average, unless they can see in the dark, a *capability* Uncle Joe has promised to help provide.
 
@@ -3764,7 +3764,7 @@ To the West of Kyiv is an ocean of flat fields (well, a bracelet of small sparse
 
 I read though Graeme’s article quickly. Yes, volunteer fighters here are loud and annoying and, at times, unhelpful and rude, but, overall, they are good eggs. I haven’t chatted up [Malcolm](https://www.theguardian.com/us-news/2022/apr/29/malcolm-nance-msnbc-pundit-ukraine-soldier-michael-harriot) yet (I think he’s memorizing the cyrilic alphabet and doing undercover stuff in Lviv), but I’ve bumped into several un-kitted up legionnaires and offered tips on everything from procuring night vision goggles, to tipping etiquette at Tootsie’s, running routes, jujitsu holds and local ibogaine treatment centers. Graeme’s expertise on anything Ukraine is obvi not ideal, but it would be churlish for me to hold that against him. If we can forgive Sabrina and Keith, we can forgive Graeme, too[1](#footnote-1).
 
-The same goes for Katie, who, along with dozens of foreign journalists, filed profoundly confusing and kooky reports from Donetsk basements when Russia-occupation forces invaded eastern Ukraine in 2014. Her article in appearing on April 30, 2022 in The Atlantic, titled “[Putin Isn’t the Only Autocrat Misusing History](https://www.theatlantic.com/ideas/archive/2022/04/russia-propaganda-influences-north-korea-china/629627/),” jogged memories of jingoism-free reportages from Donbas at the start of the war, [including her own for Sky News in 2014](https://news.sky.com/story/ukraine-villagers-trapped-between-battle-lines-10390309), which completely misrepresented the conflict. Tavernise syndrome, slightly adulterated no-Kremlin-fingerprint bullshit[2](#footnote-2).
+The same goes for Katie, who, along with dozens of foreign journalists, filed profoundly confusing and kooky reports from Donetsk basements when Russia-occupation forces invaded eastern Ukraine in 2014. Her article appearing in The Atlantic on April 30, 2022, titled “[Putin Isn’t the Only Autocrat Misusing History](https://www.theatlantic.com/ideas/archive/2022/04/russia-propaganda-influences-north-korea-china/629627/),” jogged memories of jingoism-free reportages from Donbas at the start of the war, [including her own for Sky News in 2014](https://news.sky.com/story/ukraine-villagers-trapped-between-battle-lines-10390309), which completely misrepresented the conflict. Tavernise syndrome, slightly adulterated no-Kremlin-fingerprint bullshit[2](#footnote-2).
 
 ---
 
@@ -3816,7 +3816,7 @@ The key to sleeping safely in Russia-occupied areas during May will be snoozing 
 [Image]
 *Map c/o Nathan*
 
-Ukraine’s counteroffensive northeast of Kharkiv has picked up speed over the last couple of days as mobile units equipped with modern tactical gear and smart night optics[1](#footnote-1) continue routing Russia-occupation forces shelling Ukraine’s second largest city. It’s a prelude for what will occur in Russia-occupied regions in southern Ukraine during the coming weeks, months and, hopefully, not years.
+Ukraine’s counteroffensive northeast of Kharkiv has picked up speed over the last couple of days as mobile units equipped with modern tactical gear and smart night optics[1](#footnote-1) continue routing Russia-occupation forces shelling Ukraine’s second largest city. It’s a prelude to what will occur in Russia-occupied regions in southern Ukraine during the coming weeks, months and, hopefully, not years.
 
 [Image]
 *Photo c/o Alex Bornyakov*
@@ -3891,7 +3891,7 @@ Not everyone is happy, tho.
 
 CNN, as [expected](https://edition.cnn.com/videos/world/2022/05/06/foreigners-fighting-in-ukraine-soares-pkg-tsr-vpx.cnn).
 
-LtCol Rip Rawlings [sounnds](https://twitter.com/RipRawlings/status/1521964487896702978) depressed and a little lost.
+LtCol Rip Rawlings [sounds](https://twitter.com/RipRawlings/status/1521964487896702978) depressed and a little lost.
 
 [Image]
 
@@ -3901,11 +3901,11 @@ Which brings me to retired US Army Maj. Gen. Mike Repass, who [blurted out](http
 
 > [Ukraine’s] military equipment supply business is personalized as opposed to professionalized: The senior leadership establishes the distribution priorities and, from what I could observe, those priorities are not based on an understanding of consumption rates, or of future operations or objective data. It's based on commander of brigade X or sector Y calling and saying, "Hey, I need 27 Javelin missiles." So, it's highly personalized, and that is not how to run wartime logistics. What should be going on is there should be an understanding of what the consumption rates are on important things like fuel, ammunition, batteries.
 
-Last time I checked, Mike was the Chief Executive Officer of [Able Global Solutions, LLC](https://gsof.org/michael-repass-bio/), a private military company looking to sponge up U.S taxpayer dollars. No thanks, Mike. Tootsie Club is on to you.
+Last time I checked, Mike was the Chief Executive Officer of [Able Global Solutions, LLC](https://gsof.org/michael-repass-bio/), a private military company looking to sponge up U.S. taxpayer dollars. No thanks, Mike. Tootsie Club is on to you.
 
 [1](#footnote-anchor-1)
 
-It’s a prelude for what will occur in Russia-occupied regions in southern Ukraine during the coming weeks, months and, hopefully, not years. [Day 42, Phase 2](https://abdymok.substack.com/p/day-43-phase-2?s=w). *Counteroffensive* (May 6, 2022)
+It’s a prelude to what will occur in Russia-occupied regions in southern Ukraine during the coming weeks, months and, hopefully, not years. [Day 42, Phase 2](https://abdymok.substack.com/p/day-43-phase-2?s=w). *Counteroffensive* (May 6, 2022)
 
 ---
 
