@@ -6105,7 +6105,7 @@ That means the center of gravity of the bloody mess, at least for the rest of th
 [Image]
 *Residents of Kyiv contemplating news of Putin’s premature death (Photo c/o Ruslan Lobanov )*
 
-And jornoists, which brings me to yesterday’s [news](https://www.nytco.com/press/andrew-kramer-named-ukraine-bureau-chief/) about the creation of the Ukraine *bureau* of The New York Times. The announcement comes two months after The Washington Post [did the same thing](https://www.washingtonpost.com/pr/2022/05/11/isabelle-khurshudyan-max-bearak-lead-new-washington-post-bureau-kyiv/). I’m not sure about CNN. Last time I checked, they were working out of a coffee shop closer to Poland.
+And jornoists, which brings me to yesterday’s [news](https://www.nytco.com/press/andrew-kramer-named-ukraine-bureau-chief/) about the creation of The New York Times’ Ukraine *bureau*. The announcement comes two months after The Washington Post [did the same thing](https://www.washingtonpost.com/pr/2022/05/11/isabelle-khurshudyan-max-bearak-lead-new-washington-post-bureau-kyiv/). I’m not sure about CNN. Last time I checked, they were working out of a coffee shop closer to Poland.
 
 Andy is already famous in Ukraine for his previous [botched reports](https://abdymok.medium.com/ukraine-baffled-by-bullshit-from-the-nyt-7c1fd32552ae) about the country from Moscow. So is Iuliia, whose *[contributions](https://www.nytimes.com/2019/05/01/us/politics/biden-son-ukraine.html)* to The New York Times before becoming Z’s spokeswoman raised eyebrows. She currently *contributes* [op-eds](https://www.washingtonpost.com/search/?query=iuliia+mendel&btn-search=) to The Washington Post. No one knows exactly what her role is at the [Kyiv Post](https://www.kyivpost.com/contact-us), which doesn’t list her on its masthead, not that it matters. Maybe she’s just a *contributor*.
 
@@ -6215,9 +6215,9 @@ As a writer, I also immediately post corrections or retractions if someone point
 
 [Image]
 
-Neither as a spectacle of entertainment, nor as a thing to run away and join, I’ve never understood cuddle parties. I think I went to one when in Albany once, but in memory it was loud and scarily dark — too much psilocybin And nothing in adulthood has led me to wonder why there wasn’t more circus in it: I spent the relevant passage of [Wings of Desire](https://en.wikipedia.org/wiki/Wings_of_Desire) wondering why Peter Falk was in the movie. What after all are a tent and some animals and kids dressed as clowns compared to the rich reward of hours running far, or dozing with a fat novel on your face. I ask you.
+I’ve never understood cuddle parties, either as a spectacle of entertainment or as a thing to run away and join. I think I went to one when I was in Albany once, but in memory it was loud and scarily dark — too much psilocybin. And nothing in adulthood has led me to wonder why there wasn’t more circus in it: I spent the relevant passage of [Wings of Desire](https://en.wikipedia.org/wiki/Wings_of_Desire) wondering why Peter Falk was in the movie. What after all are a tent and some animals and kids dressed as clowns compared to the rich reward of hours running far, or dozing with a fat novel on your face. I ask you.
 
-Having spent most every nonhorizontal moment of the last few months ensnared in the Project at Hand — avoiding accidental death in World War IV — it barely registered when [Jeffrey Gettleman](https://www.nytimes.com/by/jeffrey-gettleman) informed me Himself that an cuddle party had been arranged in Podil and that the MDMA was free.
+Having spent most every nonhorizontal moment of the last few months ensnared in the Project at Hand — avoiding accidental death in World War IV — it barely registered when [Jeffrey Gettleman](https://www.nytimes.com/by/jeffrey-gettleman) informed me Himself that a cuddle party had been arranged in Podil and that the MDMA was free.
 
 Okaygreatsoundsgood. Clicky clicky scowl scowl.
 
@@ -6228,7 +6228,7 @@ Which brings me to Z and his Churchill award, [as advertised](https://t.me/V_Zel
 [Image]
 *Photo c/o Andriy Yermak*
 
-A close reading of the presiden’ts increasingly voluminous revisionist speeches reveals many further examples of events that one thinks cannot really be true, or cannot be true if the quasi-official or consecrated narrative is to remain regnant. Punchy combinations of frankness and emotional power don’t trump competent governance. In other words, message isn’t as important as reality, minus pep talks.
+A close reading of the president’s increasingly voluminous revisionist speeches reveals many further examples of events that one thinks cannot really be true, or cannot be true if the quasi-official or consecrated narrative is to remain regnant. Punchy combinations of frankness and emotional power don’t trump competent governance. In other words, message isn’t as important as reality, minus pep talks.
 
 ---
 
@@ -6318,17 +6318,17 @@ The moral of the story is that endorphins do not pass the blood-brain barrier. T
 
 *Date: 2022-08-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
-The neuromodulatory system plays important roles in central nervous system development, synaptic plasticity, and the response to endogenous and environmental insults, such as war. Endogenous cannabinoids are molecules made by your body during a good sleep, provided you have a healthy diet and are properly hydrated.
+The neuromodulatory system plays important roles in the development of the central nervous system, synaptic plasticity, and the response to endogenous and environmental insults, such as war. Endogenous cannabinoids are molecules made by your body during a good sleep, provided you have a healthy diet and are properly hydrated.
 
-Moderate to extreme exercise produces the lipid-soluble endocannabinoid called anandamide in sufficent quantities to circulate from blood into brain[1](#footnote-1).
+Moderate to extreme exercise produces the lipid-soluble endocannabinoid called anandamide in sufficient quantities to circulate from the blood into the brain[1](#footnote-1).
 
 That’s why we love to run,
 
-Regular running at a heart rate that is [70 to 85 percent](http://www.runnersworld.com/running-tips/how-to-achieve-a-runners-high) of your maximum and hitting mini goals — 5, 10, 15, 20, 25, etc miles — and finishing strong releases lots of anandmide molecules, producing a [runner’s high](https://www.hopkinsmedicine.org/health/wellness-and-prevention/the-truth-behind-runners-high-and-other-mental-benefits-of-running). Slutty playlists, in the gender-neutral sense, amplify the pleasure, which is accompanied by physiological changes in the autonomous nervous system.
+Regular running at a heart rate that is [70 to 85 percent](http://www.runnersworld.com/running-tips/how-to-achieve-a-runners-high) of your maximum and hitting mini goals — 5, 10, 15, 20, 25, etc miles — and finishing strong releases lots of anandamide molecules, producing a [runner’s high](https://www.hopkinsmedicine.org/health/wellness-and-prevention/the-truth-behind-runners-high-and-other-mental-benefits-of-running). Slutty playlists, in the gender-neutral sense, amplify the pleasure, which is accompanied by physiological changes in the autonomic nervous system.
 
 [Image]
 
-Unlike running, ibogamine (Ibogaine, Iboga) is no pleasure party. It’s a monoterpenoid indole alkaloid isolated from the Tabernaemontana flowering plant genus. Iboga is a powerful hallucinogenic used for millennia by people during vision-inducing ceremonies in Gabon’s forests. [Side effects](https://www.webmd.com/vitamins/ai/ingredientmono-440/iboga) can include seizures, paralysis, cardiac arrest and death. You should not run for at least 24 hours after drinking 50 grams of Iboga juice. Better to relax, [paint your face](https://www.youtube.com/watch?v=vt0E8N4FRFY&ab_channel=ICEERS), listen to slutty playlists and look into the mirror.
+Unlike running, ibogamine (Ibogaine, Iboga) is no pleasure party. It’s a monoterpenoid indole alkaloid isolated from the Tabernaemontana flowering plant genus. Iboga is a powerful hallucinogen used for millennia by people during vision-inducing ceremonies in Gabon’s forests. [Side effects](https://www.webmd.com/vitamins/ai/ingredientmono-440/iboga) can include seizures, paralysis, cardiac arrest and death. You should not run for at least 24 hours after drinking 50 grams of Iboga juice. Better to relax, [paint your face](https://www.youtube.com/watch?v=vt0E8N4FRFY&ab_channel=ICEERS), listen to slutty playlists and look into the mirror.
 
 [Image]
 
@@ -6344,7 +6344,7 @@ In fact, the entire country *is* one big area of combat operations*.*
 
 I’m usually out the door at 5 a.m. producing anandamides in Pechersky district. I see more and more people passed out under bridges or sleeping on benches along the river. Yesterday there was a kid sleeping face first in a disfigured position on a pile of sandbags in an underpass near Vydubytske Lake (the one next to the sand pit guarded by loud, vicious dogs).
 
-I was tempted to check his pulse but thought better of it after he burped,
+I was tempted to check his pulse but thought better of it after he burped.
 
 [1](#footnote-anchor-1)
 
@@ -6360,7 +6360,7 @@ I was tempted to check his pulse but thought better of it after he burped,
 
 [Image]
 
-A lot these days rides on Z’s ability to think straight and communicate clearly. This is why we should pay special attention to the exceptionally stupid idea he shared this week during a one-hour [pow wow](https://www.washingtonpost.com/world/2022/08/08/ukraine-zelensky-interview-ban-russian-travelers/) with The Washington Post.
+A lot these days depends on Z’s ability to think straight and communicate clearly. This is why we should pay special attention to the exceptionally stupid idea he shared this week during a one-hour [pow wow](https://www.washingtonpost.com/world/2022/08/08/ukraine-zelensky-interview-ban-russian-travelers/) with The Washington Post.
 
 [Image]
 
@@ -6376,7 +6376,7 @@ Head of the President’s Office Andriy Yermak [chimed in](https://interfax.com.
 
 So, maybe Z misspoke? If that’s true, it’s really bad. If he was being genuine but his own staff is undermining his message, that’s even worse. Either way, a total muddle at the worst time and place.
 
-In related news, Serhiy Leshchenko, an advisor to the President’s Office, [said](https://twitter.com/ichbinilya/status/1556762098285289479) last week during a TV interview that he, along with his fellow Ukrainians, likes watching video clips of dying/dead Russian soldiers.
+In related news, Serhiy Leshchenko, an adviser to the President’s Office, [said](https://twitter.com/ichbinilya/status/1556762098285289479) last week during a TV interview that he, along with his fellow Ukrainians, likes watching video clips of dying/dead Russian soldiers.
 
 *Ew.*
 
@@ -6399,9 +6399,9 @@ Maybe this means we should ignore what Z, Kuleba, Yermak, Leshchenko and Podolia
 [Image]
 *Photo c/o Z*
 
-It’s depressing. One by one, members of Ukraine’s government are admitting they were told for months, repeatedly, Russia would invade in late February and attempt to decapitate Kyiv but chose to disregard the warnings.[1](#footnote-1)[2](#footnote-2) These revelations are not *news* because we’re all preoccupied today with plans to avoid hypothermia when it gets colder.
+It’s depressing. One by one, members of Ukraine’s government are admitting they were told for months, repeatedly, that Russia would invade in late February and attempt to decapitate Kyiv but chose to disregard the warnings.[1](#footnote-1)[2](#footnote-2) These revelations are not *news* because we’re all preoccupied today with plans to avoid hypothermia when it gets colder.
 
-Ukraine’s top general Valeriy Zaluzhny has said 20% of Russia’s invasion forces along a 1,300-kilometer long frontline (not including border w/ Belarus) have been liquidated[3](#footnote-3). But Ukraine lacks sufficient artillery systems, ammo, troops, etc to mount a counteroffensive for the foreseeable future. That means more stalemate and energetic dancing.
+Ukraine’s top general Valeriy Zaluzhny has said 20% of Russia’s invasion forces along a 1,300-kilometer-long front line (not including the border with Belarus) have been liquidated[3](#footnote-3). But Ukraine lacks sufficient artillery systems, ammo, troops, etc to mount a counteroffensive for the foreseeable future. That means more stalemate and energetic dancing.
 
 Looking on the bright side, we got three months of running in over the summer and will be in good shape for the country’s 31st birthday party on August 24. Many experts predicted Ukraine would surrender in three days. We’ve survived six months. That’s something to celebrate.
 
@@ -6427,7 +6427,7 @@ Looking on the bright side, we got three months of running in over the summer an
 
 [Image]
 
-My eyes glazed over reading the Kyiv Independent’s [investigation](https://kyivindependent.com/investigations/suicide-missions-abuse-physical-threats-international-legion-fighters-speak-out-against-leaderships-misconduct) of alleged shenanigans in Ukraine’s International Legion. I stopped after the part about Piotr Kapuscinski, the ex Polish mobster, who reminded me of Oleskandr Hohilashvili[1](#footnote-1).
+My eyes glazed over reading the Kyiv Independent’s [investigation](https://kyivindependent.com/investigations/suicide-missions-abuse-physical-threats-international-legion-fighters-speak-out-against-leaderships-misconduct) of alleged shenanigans in Ukraine’s International Legion. I stopped after the part about Piotr Kapuscinski, the ex-Polish mobster, who reminded me of Oleksandr Hohilashvili[1](#footnote-1).
 
 Back in the day there was such a thing called **chain of command**, a system in a military or civil organization by which instructions are passed from one person to another.
 
@@ -6443,7 +6443,7 @@ Appropriate matters include:
 
 How the complaint process works in Ukraine’s military is anyone’s guess.
 
-Of course, there’s always *fragging*, if you don’t want to deal with the hassle of filing a formal complaint. *Fragging* is a slang term used to describe U.S. military personnel tossing fragmentation hand grenades (hence the term *fragging*) usually into sleeping areas to murder fellow soldiers. It was usually directed primarily against incompetent unit leaders, officers and noncommissioned officers.
+Of course, there’s always *fragging*, if you don’t want to deal with the hassle of filing a formal complaint. *Fragging* is a slang term used to describe U.S. military personnel tossing fragmentation hand grenades (hence the term *fragging*) usually into sleeping areas to murder fellow soldiers. It was usually directed against incompetent unit leaders, officers and noncommissioned officers.
 
 [1](#footnote-anchor-1)
 
@@ -6507,19 +6507,19 @@ Rather than heaping ridicule on Melinda, I leave you with this recipe for Caesar
 
 [Image]
 
-We’re are stuck in **Stage 3** of the bloody mess. The 1,300-kilometer long contact line is static, **but surprises** ***galore*** **are in store**.
+We are stuck in **Stage 3** of the bloody mess. The 1,300-kilometer long contact line is static, **but surprises** ***galore*** **are in store**.
 
 [Image]
 
-Since June 3, Day 100[1](#footnote-1), tens of thousands more Ukrainians and Russians have been killed, maimed and/or made homeless. Billions, maybe trillions, more dollars worth of stuff has been blown to smithereens.
+Since June 3, Day 100[1](#footnote-1), tens of thousands more Ukrainians and Russians have been killed, maimed and/or made homeless. Billions, maybe trillions, more dollars’ worth of stuff has been blown to smithereens.
 
 **What has changed?**
 
-The momentum has shifted. David at WAPO says the de-occupation part of the war has begun, noting that it might take many months, or even years, to complete[2](#footnote-2). That means Phase 3 might end after we’re dead. Looking on the positive side, we might live forever.
+The momentum has shifted. David at WAPO says the de-occupation phase of the war has begun, noting that it might take many months, or even years, to complete[2](#footnote-2). That means Phase 3 might end after we’re dead. Looking on the positive side, we might live forever.
 
 [Image]
 
-U.S. intelligence agencies are hoovering up brontobytes of target info daily and passing it along to their Ukrainian partners, who presume upon themselves to select Russian military units to obliterate.
+U.S. intelligence agencies are hoovering up brontobytes of target info daily and passing it along to their Ukrainian partners, who take it upon themselves to select Russian military units to obliterate.
 
 It’s too early to report successes and failures of this genius assault plan. Ukraine’s General Staff has ordered a **BLACKOUT** for jornos in the red zone until at least September 6. That’s because at least one foreign news crew [blabbed](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-08-29-22/h_e0770dd2a763d43b0bdbc157b1043f5d) the location of the advance made by Ukrainian units prematurely.
 
