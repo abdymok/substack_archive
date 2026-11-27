@@ -6,7 +6,7 @@
 
 ## operation y
 
-*Date: 2020-01-23 | Status: Published | Audience: only_paid*
+*Date: 2020-01-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *adventures in financial illiteracy*
 
@@ -49,7 +49,7 @@ ukraine on december 7, 2019 agreed with the imf on a preliminary [$5.5 billion l
 
 ## no one believes him
 
-*Date: 2020-01-24 | Status: Published | Audience: only_paid*
+*Date: 2020-01-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *pompeo not welcome in kyiv*
 
@@ -67,7 +67,7 @@ pompeo on january 22 [said](https://www.bloombergquint.com/politics/pompeo-says-
 
 ## Anti-corruption campaign in Ukraine?
 
-*Date: 2020-03-09 | Status: Published | Audience: only_paid*
+*Date: 2020-03-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Trumped-up charges against Ukraine's former president*
 
@@ -77,7 +77,7 @@ pompeo on january 22 [said](https://www.bloombergquint.com/politics/pompeo-says-
 
 ## Confiscation of Prominvestbank: An oversight that may cost Ukraine dearly
 
-*Date: 2020-03-10 | Status: Published | Audience: only_paid*
+*Date: 2020-03-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *On March 4, Justice Ministry officials sold 99.8% of Prominvestbank (PIB) shares on the PFTS, bypassing the decision of Stockholm…*
 
@@ -121,7 +121,7 @@ All these issues, in hundreds of millions of claims, can settled by the NBU and 
 
 ## Confiscation Of Prominvestbank: An Oversight That May Cost Ukraine Dearly
 
-*Date: 2020-03-11 | Status: Published | Audience: only_paid*
+*Date: 2020-03-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 - Russian shareholders want to recover PIB market value.
 - Privat Group represented by a list of 18 companies.
@@ -175,7 +175,7 @@ Unfortunately, the Justice Ministry will have to answer the following unpleasant
 
 ## Operation Poroshenko
 
-*Date: 2020-03-13 | Status: Published | Audience: only_paid*
+*Date: 2020-03-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Normal evidence or trumped up charges?*
 
@@ -243,7 +243,7 @@ Another anonymous MP from Zelensky's party said acting SBI Director Iryna Venedi
 
 ## 13 Bogus Investigations
 
-*Date: 2020-03-15 | Status: Published | Audience: only_paid*
+*Date: 2020-03-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ze!Team harasses Ukraine's fifth president*
 
@@ -261,7 +261,7 @@ In most Western coverage Ukraine’s ultra-competitive domestic politics is rare
 
 ## Medvedchuk's messengers
 
-*Date: 2020-03-15 | Status: Published | Audience: only_paid*
+*Date: 2020-03-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Son of 'Little Russia Kingmaker' turns state witness*
 
@@ -355,7 +355,7 @@ With Telizhenko now apparently out of the picture insofar as the Republican inve
 
 ## Putting the Truba Tapes in Context
 
-*Date: 2020-03-16 | Status: Published | Audience: only_paid*
+*Date: 2020-03-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Leaked tapes, politically motivated investigations*
 
@@ -395,7 +395,7 @@ Policy makers in the West should take the time and make full use of their proces
 
 ## A Step in the Wrong Direction
 
-*Date: 2020-03-17 | Status: Published | Audience: only_paid*
+*Date: 2020-03-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Zelensky loyalist appointed Ukraine's Prosecutor General*
 
@@ -445,7 +445,7 @@ In January, she appointed Oleksandr Babikov, a former defense lawyer of Presiden
 
 ## Something Really Dangerous
 
-*Date: 2020-03-18 | Status: Published | Audience: only_paid*
+*Date: 2020-03-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Venedyktova promises 'quick action' in cases against Poroshenko*
 
@@ -509,7 +509,7 @@ Maybe if something really horrible happens before then they’ll make an announc
 
 ## Selective Justice
 
-*Date: 2020-03-19 | Status: Published | Audience: only_paid*
+*Date: 2020-03-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Jailing political opponents in Ukraine*
 
@@ -669,7 +669,7 @@ European, U.S. and United Nations officials have said pre-trial detention proced
 
 ## Vendetta
 
-*Date: 2020-03-20 | Status: Published | Audience: only_paid*
+*Date: 2020-03-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Unlawful political revenge*
 
@@ -697,7 +697,7 @@ Looking on the bright side, some Kyiv insiders offer a less gruesome explanation
 
 ## Zelensky Wants to End a War
 
-*Date: 2020-03-21 | Status: Published | Audience: only_paid*
+*Date: 2020-03-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Bad reporting is a deliberate choice*
 
@@ -735,7 +735,7 @@ Repeating Putin’s bullshit theories while failing to point out that they are f
 
 ## Fewer Ukrainians Make Less Noise
 
-*Date: 2020-03-22 | Status: Published | Audience: only_paid*
+*Date: 2020-03-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The unremitting proliferation of misleading tropes*
 
@@ -761,7 +761,7 @@ There will be no census this year. And there will be no census next year, irresp
 
 ## What Happens When You Elect a Clown?
 
-*Date: 2020-03-23 | Status: Published | Audience: only_paid*
+*Date: 2020-03-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *COVID-19 under Zelensky*
 
@@ -797,7 +797,7 @@ Honcharuk served as Prime Minister of Ukraine from August 29, 2019 to March 4, 2
 
 ## Insidious blandishments
 
-*Date: 2020-03-24 | Status: Published | Audience: only_paid*
+*Date: 2020-03-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's new health minister accused of cronyism, cruelty*
 
@@ -827,7 +827,7 @@ Yemets knows Ukraine’s health care system stinks. He said in this interview th
 
 ## Jarred Tomatoes Forever
 
-*Date: 2020-03-25 | Status: Published | Audience: only_paid*
+*Date: 2020-03-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ze!Team bungles pandemic response, gets sick*
 
@@ -856,7 +856,7 @@ Butusov says billionaire metrosexual Valeriy Khoroshkovsky (a friend of Presiden
 
 ## Emergency Situation Regime
 
-*Date: 2020-03-26 | Status: Published | Audience: only_paid*
+*Date: 2020-03-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's government adopts 'defined blueprint' to battle virus*
 
@@ -916,7 +916,7 @@ The Cabinet has not said what further steps it will take in order to contain the
 
 ## Ukraine's Ex-Top Cop Self-Isolates
 
-*Date: 2020-03-26 | Status: Published | Audience: only_paid*
+*Date: 2020-03-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ryaboshapka calls charges against Poroshenko 'legal trash'*
 
@@ -938,7 +938,7 @@ Melinda Harding, the Atlantic Council’s deputy director of Eurasia Center and 
 
 ## Good News, Bad News
 
-*Date: 2020-03-27 | Status: Published | Audience: only_paid*
+*Date: 2020-03-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Virus giving Ukrainian leaders a big pain in the ass*
 
@@ -976,7 +976,7 @@ There’s been a lot of chatter about holding an extraordinary parliament plenar
 
 ## COVID-19 Testing in Ukraine
 
-*Date: 2020-03-28 | Status: Published | Audience: only_paid*
+*Date: 2020-03-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Spontaneous mass confusion*
 
@@ -1005,7 +1005,7 @@ Health officials have since reported positive confirmed test results for COVID-1
 
 ## Not Unlike a Horrible Accident
 
-*Date: 2020-03-29 | Status: Published | Audience: only_paid*
+*Date: 2020-03-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Comedian fails Ukraine's biggest challenge*
 
@@ -1034,7 +1034,7 @@ The result isn’t unlike a horrible accident, except it’s been caused by an u
 
 ## Ukraine on the Installment Plan
 
-*Date: 2020-03-31 | Status: Published | Audience: only_paid*
+*Date: 2020-03-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Living in the sequel*
 
@@ -1071,7 +1071,7 @@ It’s the same story in several villages in Ternopil and Cherkasy regions. Effo
 
 ## Ukraine's Greasy Clowns
 
-*Date: 2020-04-01 | Status: Published | Audience: only_paid*
+*Date: 2020-04-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Yermak brothers are in a lot of trouble*
 
@@ -1099,7 +1099,7 @@ Turning the state’s human resources policy into a market of corrupt services a
 
 ## Ukraine's New Algorithm
 
-*Date: 2020-04-03 | Status: Published | Audience: only_paid*
+*Date: 2020-04-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Biological sampling brigades to be deployed*
 
@@ -1133,7 +1133,7 @@ As of 10:00 on April 3, there were 942 laboratory-confirmed cases of COVID-19 in
 
 ## Stepanov: From Gynecology to Gas
 
-*Date: 2020-04-04 | Status: Published | Audience: only_paid*
+*Date: 2020-04-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Kolomoisky flunky replaces Yanukovych-era hack at Health Ministry*
 
@@ -1168,7 +1168,7 @@ Stepanov filed an [e-declaration](https://declarations.com.ua/declaration/nacp_0
 
 ## We're Completely Fucked
 
-*Date: 2020-04-06 | Status: Published | Audience: only_paid*
+*Date: 2020-04-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine isn't testing. That's the plan.*
 
@@ -1213,7 +1213,7 @@ Recall what Z [said](https://www.president.gov.ua/en/news/glava-derzhavi-postavi
 
 ## Iryna the Hack
 
-*Date: 2020-04-09 | Status: Published | Audience: only_paid*
+*Date: 2020-04-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The charges are real. The crimes, less so.*
 
@@ -1237,7 +1237,7 @@ cf. [Something Really Dangerous](https://abdymok.substack.com/p/triangle-of-just
 
 ## 'Vital Litmus Test'
 
-*Date: 2020-04-11 | Status: Published | Audience: only_paid*
+*Date: 2020-04-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Politics of plunder redux*
 
@@ -1263,7 +1263,7 @@ The country desperately needs a financial cop walking the beat. The problem is, 
 
 ## Ukraine Changes its Algorithm
 
-*Date: 2020-04-13 | Status: Published | Audience: only_paid*
+*Date: 2020-04-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Liashko spills the beans about botched COVID-19 response*
 
@@ -1300,7 +1300,7 @@ Rather than testing the tens of thousands of Ukrainians returning from Europe, t
 
 ## An Epidemic of Stupidity
 
-*Date: 2020-04-15 | Status: Published | Audience: only_paid*
+*Date: 2020-04-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Zelensky to be remembered for grisly deaths he failed to prevent*
 
@@ -1332,7 +1332,7 @@ Recall what Zelensky [said](https://www.president.gov.ua/en/news/glava-derzhavi
 
 ## Lost Notes
 
-*Date: 2020-04-15 | Status: Published | Audience: only_paid*
+*Date: 2020-04-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *It’s crap. Utter, arbitrary crap. They made it up as they went along.*
 
@@ -1349,7 +1349,7 @@ Or, the items could be designed the other way around. They could make pots and p
 
 ## One Year Down Forever
 
-*Date: 2020-04-16 | Status: Published | Audience: only_paid*
+*Date: 2020-04-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Can't turn back the calendar*
 
@@ -1381,7 +1381,7 @@ Ukrainians are lucky Zelensky has a great sense of humor. He also has ideas abou
 
 ## Everything is Fine
 
-*Date: 2020-04-17 | Status: Published | Audience: only_paid*
+*Date: 2020-04-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *What flattening the curve doesn't look like*
 
@@ -1418,7 +1418,7 @@ As of this writing, the result isn't unlike a [horrible accident](https://abdymo
 
 ## Everything is Not Fine
 
-*Date: 2020-04-18 | Status: Published | Audience: only_paid*
+*Date: 2020-04-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Volodymyr Zelensky thinks he's doing a great job*
 
@@ -1442,7 +1442,7 @@ As of this writing, the result isn't unlike a [horrible accident](https://abdym
 
 ## 'Ze' May Call it Quits
 
-*Date: 2020-04-19 | Status: Published | Audience: only_paid*
+*Date: 2020-04-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Dnipro mobster says president is a robot*
 
@@ -1467,7 +1467,7 @@ On whether Zelensky could be removed from office, Korban said: “I don’t thin
 
 ## Ukraine's Irredeemable Health Ministry
 
-*Date: 2020-04-22 | Status: Published | Audience: only_paid*
+*Date: 2020-04-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *COVID-19 epidemic exacerbates corruption*
 
@@ -1487,7 +1487,7 @@ cf. [Botched pandemic response](https://www.kyivpost.com/ukraine-politics/disord
 
 ## Law and Disorder
 
-*Date: 2020-04-23 | Status: Published | Audience: only_paid*
+*Date: 2020-04-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Breaking bad in Ukraine*
 
@@ -1509,7 +1509,7 @@ In related news, the SBU State Security Service has [closed down](https://www.ss
 
 ## What's That Stuck to Zelensky's Ass?
 
-*Date: 2020-04-25 | Status: Published | Audience: only_paid*
+*Date: 2020-04-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Never be surprised by grim disclosure*
 
@@ -1535,7 +1535,7 @@ As Christopher Hitchens used to say, "Never be surprised by grim disclosure. Wel
 
 ## Drag Queen on Poppers
 
-*Date: 2020-04-27 | Status: Published | Audience: only_paid*
+*Date: 2020-04-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Critical observation not previously imagined*
 
@@ -1557,7 +1557,7 @@ In other news, there’s a hole in the bucket. Six of them, actually, punched wi
 
 ## Amateurs Imitate, Professionals Steal
 
-*Date: 2020-04-28 | Status: Published | Audience: only_paid*
+*Date: 2020-04-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Making mistakes faster*
 
@@ -1576,7 +1576,7 @@ In other news, there’s a hole in the bucket. Six of them, actually, punched wi
 
 ## Ukraine's Human Sacrifice Experiment
 
-*Date: 2020-04-30 | Status: Published | Audience: only_paid*
+*Date: 2020-04-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Zelensky wants to know how many people need to die to shore up the economy*
 
@@ -1620,7 +1620,7 @@ That hasn’t happened. And now it’s too late.
 
 ## Magical Epidemic Thinking
 
-*Date: 2020-05-01 | Status: Published | Audience: only_paid*
+*Date: 2020-05-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Success simulation during Ukraine's COVID-19 disaster*
 
@@ -1646,7 +1646,7 @@ Moral of this story: Run for the hills.
 
 ## Sick of Ze's bullshit
 
-*Date: 2020-05-05 | Status: Published | Audience: only_paid*
+*Date: 2020-05-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Qualified pediatricians seeking to flee Ukraine*
 
@@ -1676,7 +1676,7 @@ cf. [The Death of Healthcare Reform c/o Ze](https://nv.ua/opinion/zelenskiy-i-me
 
 ## Thug Life
 
-*Date: 2020-05-06 | Status: Published | Audience: only_paid*
+*Date: 2020-05-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's shit show*
 
@@ -1704,7 +1704,7 @@ It’s not rare for incompetent people to think they are amazing, or for skilled
 
 ## Ze's Covid Clowns
 
-*Date: 2020-05-06 | Status: Published | Audience: only_paid*
+*Date: 2020-05-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Pandemic politics in Ukraine*
 
@@ -1734,7 +1734,7 @@ The lawmaker reiterated that if the parliamentary mono-majority wants "political
 
 ## Ukraine's COVID-19 Disaster
 
-*Date: 2020-05-08 | Status: Published | Audience: only_paid*
+*Date: 2020-05-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Time to move on to economic re-discovery*
 
@@ -1783,7 +1783,7 @@ The 45-year old Russia native was born in the town of Skovorodino in Amur, but h
 
 ## Magical Epidemic Thinking
 
-*Date: 2020-05-09 | Status: Published | Audience: only_paid*
+*Date: 2020-05-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's COVID-19 disaster stuck on a quiet plateau*
 
@@ -1811,7 +1811,7 @@ Moral of this story: Run for the hills.
 
 ## Нарисуй мне "плато"
 
-*Date: 2020-05-12 | Status: Published | Audience: only_paid*
+*Date: 2020-05-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Странности Украинской статистики COVID-19*
 
@@ -1841,7 +1841,7 @@ And recall what President Volodymyr Zelensky [said](https://www.president.gov.u
 
 ## Z!Team's Replication Crisis
 
-*Date: 2020-05-13 | Status: Published | Audience: only_paid*
+*Date: 2020-05-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The formulation of set theory without variables*
 
@@ -1891,7 +1891,7 @@ cf. [The Death of Healthcare Reform c/o Ze](https://nv.ua/opinion/zelenskiy-i-m
 
 ## Kyiv Pandemic Update
 
-*Date: 2020-05-14 | Status: Published | Audience: only_paid*
+*Date: 2020-05-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Word-salad just-so stories about the plague*
 
@@ -1943,7 +1943,7 @@ The idea that restrictions imposed in March could be lifted after hospitals were
 
 ## Logic Isn't Normative
 
-*Date: 2020-05-15 | Status: Published | Audience: only_paid*
+*Date: 2020-05-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's scream team takes aim at Ze*
 
@@ -1975,7 +1975,7 @@ Politically motivated criminal charges meant to undermine the Revolution of Dign
 
 ## The Bright Side of Shame
 
-*Date: 2020-05-17 | Status: Published | Audience: only_paid*
+*Date: 2020-05-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Something we already knew, but not really*
 
@@ -2034,7 +2034,7 @@ It’s probably worth mentioning that **Ukraine has a parliamentary-presidential
 
 ## Embracing Change
 
-*Date: 2020-05-18 | Status: Published | Audience: only_paid*
+*Date: 2020-05-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *COVID-19 provides Ukraine experts with new career opportunities*
 
@@ -2056,7 +2056,7 @@ The most common path to a career reinvention involves doing something on the sid
 
 ## Cataplectic Non-Cognitivism?
 
-*Date: 2020-05-19 | Status: Published | Audience: only_paid*
+*Date: 2020-05-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Pathological bad thinking drives Ukraine into a ditch*
 
@@ -2114,7 +2114,7 @@ Ze comes across as a likeable guy with many interesting stories. He tells the py
 
 ## A Year of Bad Thinking
 
-*Date: 2020-05-20 | Status: Published | Audience: only_paid*
+*Date: 2020-05-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's president isn't who you think he is*
 
@@ -2151,7 +2151,7 @@ Recall what Zelensky [said](https://www.president.gov.ua/en/news/glava-derzhavi
 
 ## Destroying Ukraine as Intended
 
-*Date: 2020-05-20 | Status: Published | Audience: only_paid*
+*Date: 2020-05-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *President Volodymyr Zelensky's ineffable communication failure*
 
@@ -2183,7 +2183,7 @@ Roman Skrypin provides additional nuance for foreign Ukraine experts here:
 
 ## Morbidity Dynamics in Ukraine
 
-*Date: 2020-05-21 | Status: Published | Audience: only_paid*
+*Date: 2020-05-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Zelensky and the roots of logical positivism*
 
@@ -2223,7 +2223,7 @@ cf. [Isotype revisited](http://isotyperevisited.org/isotype-collection/index.htm
 
 ## What Makes Soup Soup?
 
-*Date: 2020-05-21 | Status: Published | Audience: only_paid*
+*Date: 2020-05-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Don't ask Ukraine's kakistokrats*
 
@@ -2271,7 +2271,7 @@ The idea that restrictions imposed in March could be lifted after hospitals were
 
 ## Ze Faces Retaliation for Shit-Talking
 
-*Date: 2020-05-21 | Status: Published | Audience: only_paid*
+*Date: 2020-05-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Petro Poroshenko's lawyers aren't messing around*
 
@@ -2321,7 +2321,7 @@ On May 20, Ukraine’s Prosecutor General’s Office entered in the Unified Regi
 
 ## Ukraine's Age of Stupidity
 
-*Date: 2020-05-22 | Status: Published | Audience: only_paid*
+*Date: 2020-05-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Less than exact thinking in demented times*
 
@@ -2359,7 +2359,7 @@ Ukraine’s European Business Association on May 20 published its [annual survey
 
 ## Botched Assassination in Kyiv
 
-*Date: 2020-05-27 | Status: Published | Audience: only_paid*
+*Date: 2020-05-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Would-be killers almost self-immolate*
 
@@ -2385,7 +2385,7 @@ Ukraine’s Strategic Investigations Department [said](https://www.facebook.com/
 
 ## Unspecified Ukraine Worrying
 
-*Date: 2020-05-27 | Status: Published | Audience: only_paid*
+*Date: 2020-05-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *False and toxic narrative redux*
 
@@ -2424,7 +2424,7 @@ Lest we forget:
 
 ## Cut Off All U.S. Assistance Immediately
 
-*Date: 2020-05-28 | Status: Published | Audience: only_paid*
+*Date: 2020-05-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine under Zelensky deserves zero American taxpayer support*
 
@@ -2479,7 +2479,7 @@ Under this president, Ukraine does not deserve any U.S. foreign assistance.
 
 ## The Precautionary Principle
 
-*Date: 2020-05-29 | Status: Published | Audience: only_paid*
+*Date: 2020-05-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Statistics are one thing, reality something else*
 
@@ -2509,7 +2509,7 @@ That has not happened.
 
 ## Warm Bath Alternative to P-Value
 
-*Date: 2020-06-10 | Status: Published | Audience: only_paid*
+*Date: 2020-06-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's president is as intelligent as a garden rake*
 
@@ -2561,7 +2561,7 @@ Policy makers in the west should take the time and make full use of their proces
 
 ## Pandemic Report: Ukraine
 
-*Date: 2020-06-15 | Status: Published | Audience: only_paid*
+*Date: 2020-06-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Three months of unremitting stupidity*
 
@@ -2579,7 +2579,7 @@ Where we go from here is anyone’s guess.
 
 ## Plague mitigation
 
-*Date: 2020-06-18 | Status: Published | Audience: only_paid*
+*Date: 2020-06-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Z says he is very sorry*
 
@@ -2603,7 +2603,7 @@ Ignorance *[is](https://rense.com/politics6/ignorancebliss_p.htm)* bliss for the
 
 ## Alone, Tired and Frightened
 
-*Date: 2020-06-19 | Status: Published | Audience: only_paid*
+*Date: 2020-06-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's president hits rock bottom*
 
@@ -2656,7 +2656,7 @@ Recall what Zelensky [said](https://www.president.gov.ua/en/news/glava-derzhavi
 
 ## Ukraine's COVID-19 Disaster
 
-*Date: 2020-06-22 | Status: Published | Audience: only_paid*
+*Date: 2020-06-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Consistent punishment with intermittent rewards*
 
@@ -2680,7 +2680,7 @@ Recall what President Volodymyr Zelensky [said](https://www.president.gov.ua/en
 
 ## The Z-Trump Ticket
 
-*Date: 2020-06-23 | Status: Published | Audience: only_paid*
+*Date: 2020-06-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Disparaged disruptors team up to help Mother Russia*
 
@@ -2711,7 +2711,7 @@ Now, Zelensky needs his reelection.
 
 ## Ukraine Covid-19 Update
 
-*Date: 2020-06-24 | Status: Published | Audience: only_paid*
+*Date: 2020-06-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The never-ending complete disaster*
 
@@ -2733,7 +2733,7 @@ The result isn't unlike a horrible accident, except it’s been caused by an une
 
 ## operation y (cont'd)
 
-*Date: 2020-06-25 | Status: Published | Audience: only_paid*
+*Date: 2020-06-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *who torpedoed ukraine's previous government?*
 
@@ -2793,7 +2793,7 @@ both scenario a and scenario b are motivated primarily by expectations of the fu
 
 ## No Grounds For Emergency Measures
 
-*Date: 2020-06-26 | Status: Published | Audience: only_paid*
+*Date: 2020-06-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's Covid-19 disaster intensifies*
 
@@ -2821,7 +2821,7 @@ Recall what President Zelensky [said](https://www.president.gov.ua/en/news/glav
 
 ## Ineffable Communication Failures
 
-*Date: 2020-06-27 | Status: Published | Audience: only_paid*
+*Date: 2020-06-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *What do Brazil and Ukraine have in common?*
 
@@ -2869,7 +2869,7 @@ Unfortunately, we can’t turn back the calendar.
 
 ## Ukraine: COVID-19 Disaster
 
-*Date: 2020-06-30 | Status: Published | Audience: only_paid*
+*Date: 2020-06-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Manipulating the environment to test hypotheses is a bad idea when it could kill you*
 
@@ -2903,7 +2903,7 @@ The result isn't unlike a horrible accident, except it’s been caused by an une
 
 ## Ukraine's Three-Ring Circus
 
-*Date: 2020-07-01 | Status: Published | Audience: only_paid*
+*Date: 2020-07-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Zelensky re-tests old adage that absolute power corrupts absolutely*
 
@@ -2954,7 +2954,7 @@ Poroshenko said criminal proceedings against him are an attempt to divert attent
 
 ## Left in the Lurch
 
-*Date: 2020-07-03 | Status: Published | Audience: only_paid*
+*Date: 2020-07-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine bond traders kicked and screamed*
 
@@ -2988,7 +2988,7 @@ Both Marchenko and Ustenko failed to identify the Eurobond traders left in the l
 
 ## National Bank of Ukraine is Kaput
 
-*Date: 2020-07-04 | Status: Published | Audience: only_paid*
+*Date: 2020-07-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *"Systemic political pressure" forces Yakiv Smolii to resign*
 
@@ -3084,7 +3084,7 @@ This is exactly the scenario participants in the recording were brainstorming ab
 
 ## A Delicate Issue
 
-*Date: 2020-07-05 | Status: Published | Audience: only_paid*
+*Date: 2020-07-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Exchange rate hijinx*
 
@@ -3131,7 +3131,7 @@ cf. [National Bank of Ukraine is Kaput](https://abdymok.substack.com/p/national-
 
 ## Ukraine: Random Notes
 
-*Date: 2020-07-14 | Status: Published | Audience: only_paid*
+*Date: 2020-07-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *COVID-19 shitshow day number whatever*
 
@@ -3158,7 +3158,7 @@ Stay strong, stay smart, stay healthy. My ass.
 
 ## The Children of Soros in Ukraine
 
-*Date: 2020-07-15 | Status: Published | Audience: only_paid*
+*Date: 2020-07-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Deflationism is the naloxone of truth theories*
 
@@ -3196,7 +3196,7 @@ cf. [A Delicate Issue](https://abdymok.substack.com/p/a-delicate-issue)
 
 ## Ukraine's Blueticked Banking Racket
 
-*Date: 2020-07-16 | Status: Published | Audience: only_paid*
+*Date: 2020-07-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Nice positive zero-sum status game*
 
@@ -3255,7 +3255,7 @@ Parliament’s Committee on Finance, Tax and Customs Policy on July 16, 2020 rec
 
 ## They Will All Be Dragons Again
 
-*Date: 2020-07-17 | Status: Published | Audience: only_paid*
+*Date: 2020-07-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Scene kids return to Kyiv*
 
@@ -3285,7 +3285,7 @@ This walking around drunk in underwear trend is apparently widespread.
 
 ## Zelensky and Shevchenko
 
-*Date: 2020-07-20 | Status: Published | Audience: only_paid*
+*Date: 2020-07-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's central bank loses independence*
 
@@ -3335,7 +3335,7 @@ Confusing matters further, Truman Agency published a sketchy 2-minute video on Y
 
 ## Ukraine's Wacko Zones
 
-*Date: 2020-07-24 | Status: Published | Audience: only_paid*
+*Date: 2020-07-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *COVID-19 disaster enters new phase*
 
@@ -3359,7 +3359,7 @@ In economic news, everything is bad and getting worse.
 
 ## Ukraine COVID-19 Update
 
-*Date: 2020-07-29 | Status: Published | Audience: only_paid*
+*Date: 2020-07-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Bad and getting worse fast*
 
@@ -3399,7 +3399,7 @@ Ukraine’s official response: ceasefire violations do not invalidate the truce.
 
 ## Principle of Sufficient Reason
 
-*Date: 2020-08-02 | Status: Published | Audience: only_paid*
+*Date: 2020-08-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine and Mississippi*
 
@@ -3417,7 +3417,7 @@ Which brings us to Mississippi or maybe Tennessee…
 
 ## Bad Reporting is a Deliberate Choice
 
-*Date: 2020-08-05 | Status: Published | Audience: only_paid*
+*Date: 2020-08-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Belarus mess back in the limelight*
 
@@ -3435,7 +3435,7 @@ The boilerplate stuff, meanwhile, is being dreamed up and written right now in t
 
 ## With Friends Like These Who Needs Enemies?
 
-*Date: 2020-08-06 | Status: Published | Audience: only_paid*
+*Date: 2020-08-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's woke movement asserts contradictions to exploit explosion principle*
 
@@ -3465,7 +3465,7 @@ Fame and fortune awaits whoever in Moscow, Kyiv or Minsk can pull it off before 
 
 ## Bye Bye Batka
 
-*Date: 2020-08-07 | Status: Published | Audience: only_paid*
+*Date: 2020-08-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ceaușescu's fate awaits Belarusian strongman*
 
@@ -3485,7 +3485,7 @@ That means it’s okay if the new rulers in Minsk establish an extraordinary mil
 
 ## Moron President Seeks Peace
 
-*Date: 2020-08-10 | Status: Published | Audience: only_paid*
+*Date: 2020-08-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Zelensky calls on Belarusian strongman to be more tolerant*
 
@@ -3506,7 +3506,7 @@ Zelensky called on Belarus to maximize tolerance, and rejection of street violen
 
 ## Underground isn't Over
 
-*Date: 2020-08-10 | Status: Published | Audience: only_paid*
+*Date: 2020-08-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Lukashenko attempts to avoid Ceaușescu's fate*
 
@@ -3526,7 +3526,7 @@ CNN, so far, has completely ignored the tumult. Maybe they are on vacation.
 
 ## Calling Bullshit on Belarus
 
-*Date: 2020-08-12 | Status: Published | Audience: only_paid*
+*Date: 2020-08-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine doesn't know what it is talking about*
 
@@ -3548,7 +3548,7 @@ Russian TV presenter Yevgeny Kiselyov’s [18-minute stunt](https://www.youtube.
 
 ## Dear Foreign Journalists!
 
-*Date: 2020-08-13 | Status: Published | Audience: only_paid*
+*Date: 2020-08-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Belarusians have no desire to repeat Ukraine's Maidan mess*
 
@@ -3564,7 +3564,7 @@ cc: experts
 
 ## The End of Lukashenko
 
-*Date: 2020-08-13 | Status: Published | Audience: only_paid*
+*Date: 2020-08-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Europe's last dictatorship is over*
 
@@ -3588,7 +3588,7 @@ In a nutshell, Pastukhov says Lukashenko is doomed because he violated the basic
 
 ## Ukraine Covid-19 Update
 
-*Date: 2020-08-13 | Status: Published | Audience: only_paid*
+*Date: 2020-08-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Official response to epidemic has failed*
 
@@ -3610,7 +3610,7 @@ Recall what President Volodymyr Zelensky [said](https://www.president.gov.ua/en
 
 ## The Dead Don't Feel Pain
 
-*Date: 2020-08-14 | Status: Published | Audience: only_paid*
+*Date: 2020-08-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Karatkievich, Bykov and Baradullin*
 
@@ -3632,7 +3632,7 @@ Maybe the wandering is ending.
 
 ## Belarus: Awkward for Everyone
 
-*Date: 2020-08-18 | Status: Published | Audience: only_paid*
+*Date: 2020-08-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Especially German political scientists in Kyiv*
 
@@ -3654,7 +3654,7 @@ Wanna-be Belarus experts should chat up Yury and maybe think twice about citing 
 
 ## Russian Scabs Rescue BT
 
-*Date: 2020-08-19 | Status: Published | Audience: only_paid*
+*Date: 2020-08-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Belarusians replaced at state-controlled TV stations*
 
@@ -3670,7 +3670,7 @@ Reports that Russians are being flown into Minsk to replace striking technicians
 
 ## Ukraine Covid-19 update
 
-*Date: 2020-08-19 | Status: Published | Audience: only_paid*
+*Date: 2020-08-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Daily reported cases of disease sets new record*
 
@@ -3692,7 +3692,7 @@ Recall what President Volodymyr Zelensky [said](https://www.president.gov.ua/en
 
 ## Belarus is Part of the Russian Empire
 
-*Date: 2020-08-20 | Status: Published | Audience: only_paid*
+*Date: 2020-08-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *And so is Ukraine*
 
@@ -3726,7 +3726,7 @@ It doesn’t appear that political leaders and policy makers in the EU, especial
 
 ## Punctuated Equilibrium and Belarus
 
-*Date: 2020-08-22 | Status: Published | Audience: only_paid*
+*Date: 2020-08-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Impossible to stop water boiling by removing a couple of molecules*
 
@@ -3748,7 +3748,7 @@ Putin has deployed image specialists to avoid the build-up to ***[the tipping po
 
 ## Love Revolution Topples Lukashenko
 
-*Date: 2020-08-23 | Status: Published | Audience: only_paid*
+*Date: 2020-08-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Belarusian strongman loses his mind, control over country*
 
@@ -3782,7 +3782,7 @@ By the time Lukashenko and his son arrived, the demonstration against him had en
 
 ## Black Hats & Truncheons
 
-*Date: 2020-08-27 | Status: Published | Audience: only_paid*
+*Date: 2020-08-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Studies in post-Soviet disasters*
 
@@ -3806,7 +3806,7 @@ By the time Lukashenko and his son arrived, the demonstration against him had en
 
 ## Gutless Wonder
 
-*Date: 2020-08-28 | Status: Published | Audience: only_paid*
+*Date: 2020-08-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's beacon of bullshit*
 
@@ -3830,7 +3830,7 @@ Nothing.
 
 ## Grand Parade of Women for Peace
 
-*Date: 2020-08-29 | Status: Published | Audience: only_paid*
+*Date: 2020-08-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Minsk, Belarus (16:00 local, August 29, 2020)*
 
@@ -3842,7 +3842,7 @@ Squads of women carrying flowers marching under banners, reading “mothers with
 
 ## Ukraine Covid-19 Update
 
-*Date: 2020-08-29 | Status: Published | Audience: only_paid*
+*Date: 2020-08-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Infection rates soar as kids get ready to return to school*
 
@@ -3876,7 +3876,7 @@ The idea that restrictions imposed in March could be lifted after hospitals were
 
 ## Mad Men in Minsk
 
-*Date: 2020-08-31 | Status: Published | Audience: only_paid*
+*Date: 2020-08-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The wild adventures of Vlad and Ollie*
 
@@ -3900,7 +3900,7 @@ Among local journalists, media trainer turned freelancer and researcher [Hanna](
 
 ## Maria's Very Bad Day
 
-*Date: 2020-09-01 | Status: Published | Audience: only_paid*
+*Date: 2020-09-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Calling bullshit on would-be leader of Belarusian revolution*
 
@@ -3914,7 +3914,7 @@ What happened? What was/is Maria thinking? Who does she think she is?
 
 ## Mouthpiece Experimentation Failure
 
-*Date: 2020-09-01 | Status: Published | Audience: only_paid*
+*Date: 2020-09-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Maria misses the sweet spot*
 
@@ -3952,7 +3952,7 @@ cf. [Kommersant interview](https://bit.ly/3hIy9RD)
 
 ## Svetlana Reacts to YouTube Clip
 
-*Date: 2020-09-01 | Status: Published | Audience: only_paid*
+*Date: 2020-09-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Trouble in revolution paradise?*
 
@@ -3980,7 +3980,7 @@ cf. [Kommersant interview](https://bit.ly/3hIy9RD)
 
 ## Ukraine's COVID-19 Disaster Update
 
-*Date: 2020-09-02 | Status: Published | Audience: only_paid*
+*Date: 2020-09-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Brought to you by Ze!Team*
 
@@ -4002,7 +4002,7 @@ Recall what President Volodymyr Zelensky [said](https://www.president.gov.ua/en
 
 ## What Belarusians Need Least
 
-*Date: 2020-09-02 | Status: Published | Audience: only_paid*
+*Date: 2020-09-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Let's go back to the starting point*
 
@@ -4028,7 +4028,7 @@ Taking them in reverse order, writing instruments abound in Belarus, a country w
 
 ## Dialogue with Lukashenko
 
-*Date: 2020-09-03 | Status: Published | Audience: only_paid*
+*Date: 2020-09-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Why we can't all just get along*
 
@@ -4054,7 +4054,7 @@ Putin won’t help.
 
 ## A Very Uncomfortable Place
 
-*Date: 2020-09-04 | Status: Published | Audience: only_paid*
+*Date: 2020-09-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Blue-ticked journalists flee Belarus*
 
@@ -4078,7 +4078,7 @@ Blue-ticked journalists are in increasingly low supply.
 
 ## Girls Just Like to Shoot
 
-*Date: 2020-09-05 | Status: Published | Audience: only_paid*
+*Date: 2020-09-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Woman is a tribe in Lukashenko's Belarus*
 
@@ -4096,7 +4096,7 @@ Blue-ticked foreign journalists did not cover the event. They left the country t
 
 ## Bizarre Belarus Bullshit
 
-*Date: 2020-09-07 | Status: Published | Audience: only_paid*
+*Date: 2020-09-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Three wacko interviews designed to make you dizzy*
 
@@ -4122,7 +4122,7 @@ Professor Gross is retired and knows nothing about Belarus, except what he has l
 
 ## Thoughtcrime Up 8% in Belarus
 
-*Date: 2020-09-07 | Status: Published | Audience: only_paid*
+*Date: 2020-09-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The instant of decision is madness*
 
@@ -4148,7 +4148,7 @@ There is kind of a moral panic today to much of what is going on and too few lev
 
 ## Cancel Lukashenko Culture
 
-*Date: 2020-09-08 | Status: Published | Audience: only_paid*
+*Date: 2020-09-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Things getting out of hand at the dictator reveal party*
 
@@ -4188,7 +4188,7 @@ Belarus is a sovereign, independent country and its citizens can sort out the me
 
 ## Russia is Next
 
-*Date: 2020-09-09 | Status: Published | Audience: only_paid*
+*Date: 2020-09-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Kill Bill Sirens at Kamarovka*
 
@@ -4228,7 +4228,7 @@ cf.
 
 ## Svetlana Alexievich Statement, errata
 
-*Date: 2020-09-09 | Status: Published | Audience: only_paid*
+*Date: 2020-09-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Miscellaneous Belarus-related news*
 
@@ -4280,7 +4280,7 @@ Belarusian poet Vladimir Neklyaev, meanwhile, had this to say in an [interview](
 
 ## With All Due Respect
 
-*Date: 2020-09-10 | Status: Published | Audience: only_paid*
+*Date: 2020-09-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Goon squad raids Coordinating Council in Minsk*
 
@@ -4312,7 +4312,7 @@ The last time I checked, Ukraine was fighting Russia-occupation forces in Donets
 
 ## Batshit Ukrainian Diplomacy
 
-*Date: 2020-09-11 | Status: Published | Audience: only_paid*
+*Date: 2020-09-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Belarusian opposition briefs FM Kuleba*
 
@@ -4360,7 +4360,7 @@ Andrei Sannikov [obliged](https://www.facebook.com/andrei.sannikov.1/posts/37037
 
 ## Там Нас Нет
 
-*Date: 2020-09-12 | Status: Published | Audience: only_paid*
+*Date: 2020-09-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *It leads when it bleeds*
 
@@ -4398,7 +4398,7 @@ Russophile and Sovietophile interpolations of events in Belarus are passé. What
 
 ## Big Party in Minsk
 
-*Date: 2020-09-12 | Status: Published | Audience: only_paid*
+*Date: 2020-09-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Women's March*
 
@@ -4420,7 +4420,7 @@ Russophile and Sovietophile interpolations of events in Belarus are passé. What
 
 ## Pants on Fire
 
-*Date: 2020-09-14 | Status: Published | Audience: only_paid*
+*Date: 2020-09-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Destabilization in your trousers*
 
@@ -4446,7 +4446,7 @@ The reason is because both Putin and Lukashenko are scared shitless.
 
 ## Autumnal Cannibalism
 
-*Date: 2020-09-15 | Status: Published | Audience: only_paid*
+*Date: 2020-09-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Readout of Putin-Lukashenko pow wow*
 
@@ -4486,7 +4486,7 @@ The reason is because both Putin and Lukashenko are scared shitless.
 
 ## The Disappeared
 
-*Date: 2020-09-16 | Status: Published | Audience: only_paid*
+*Date: 2020-09-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Lukashenko opponents who went missing*
 
@@ -4500,7 +4500,7 @@ In May 1999, ex-head of the Belarusian Ministry of Internal Affairs Yuriy Zakhar
 
 ## Frogs for Dinner
 
-*Date: 2020-09-17 | Status: Published | Audience: only_paid*
+*Date: 2020-09-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Logical, rational conversations are not on the menu*
 
@@ -4520,7 +4520,7 @@ cf. [Taras Taraikovsky List](https://nashaniva.by/?c=ar&i=259205)
 
 ## Moscow Mechanism Mumbling
 
-*Date: 2020-09-18 | Status: Published | Audience: only_paid*
+*Date: 2020-09-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Authority to stamp whatever myths*
 
@@ -4540,7 +4540,7 @@ To date, the Moscow Mechanism has been used six times:
 
 ## Balaclavas Inside Out
 
-*Date: 2020-09-21 | Status: Published | Audience: only_paid*
+*Date: 2020-09-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Wildly fantastic and frequently absurd*
 
@@ -4612,7 +4612,7 @@ cf. [Dialogue. Carnival. Chronotope](http://nevmenandr.net/dkx/)
 
 ## A Cyprian's Supper
 
-*Date: 2020-09-22 | Status: Published | Audience: only_paid*
+*Date: 2020-09-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *This whole is not a seamless coneness*
 
@@ -4644,7 +4644,7 @@ cf. [Cena Cypriani](https://en.wikipedia.org/wiki/Cena_Cypriani)
 
 ## Secret Inauguration
 
-*Date: 2020-09-23 | Status: Published | Audience: only_paid*
+*Date: 2020-09-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Lukashenko appoints himself president (again)*
 
@@ -4676,7 +4676,7 @@ September 23, 2020. Mark it in your calendar.
 
 ## Rat King Coronation
 
-*Date: 2020-09-24 | Status: Published | Audience: only_paid*
+*Date: 2020-09-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Dressing up in blunderland*
 
@@ -4704,7 +4704,7 @@ Like the majority of Americans, Trump can’t find Belarus on a map, but that’
 
 ## Ukraine's COVID-19 Disaster
 
-*Date: 2020-09-25 | Status: Published | Audience: only_paid*
+*Date: 2020-09-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A tidal wave of new infections*
 
@@ -4724,7 +4724,7 @@ The result isn't unlike a horrible accident, except it’s been caused by an une
 
 ## Black Hole Sun
 
-*Date: 2020-09-28 | Status: Published | Audience: only_paid*
+*Date: 2020-09-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Reporting from Belarus is not allowed*
 
@@ -4748,7 +4748,7 @@ Detailed instructions are available on the Internet.
 
 ## Zelensky's Covid-19 Disaster
 
-*Date: 2020-09-30 | Status: Published | Audience: only_paid*
+*Date: 2020-09-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Unremitting official distraction from objective assessment*
 
@@ -4784,7 +4784,7 @@ The idea that restrictions imposed in March could be lifted after hospitals were
 
 ## Elect a Clown, Expect a Circus
 
-*Date: 2020-10-01 | Status: Published | Audience: only_paid*
+*Date: 2020-10-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ze!Team sending cobalt miners to Donbas*
 
@@ -4808,7 +4808,7 @@ Yermak said there are no simple and obvious solutions for alleviating misery, bu
 
 ## Beyond the pale
 
-*Date: 2020-10-05 | Status: Published | Audience: only_paid*
+*Date: 2020-10-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Черта́ осе́длости*
 
@@ -4846,7 +4846,7 @@ cf. [Thug Life](https://abdymok.substack.com/p/thug-life) (May 6, 2020)
 
 ## Zelensky's 'Second Wave'
 
-*Date: 2020-10-08 | Status: Published | Audience: only_paid*
+*Date: 2020-10-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *There's a large fly on the president's forehead*
 
@@ -4878,7 +4878,7 @@ The result isn't unlike a horrible accident, except it’s been caused by an une
 
 ## Ukraine's COVID-19 Disaster
 
-*Date: 2020-10-20 | Status: Published | Audience: only_paid*
+*Date: 2020-10-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Zelensky wants you to ignore his pandemic failure*
 
@@ -4910,7 +4910,7 @@ The idea that restrictions imposed in March could be lifted after hospitals were
 
 ## The Daily Death Count
 
-*Date: 2020-10-28 | Status: Published | Audience: only_paid*
+*Date: 2020-10-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine and the Zollman Effect*
 
@@ -4938,7 +4938,7 @@ Which brings us to the Zollman Effect, which posits that groups with more networ
 
 ## What Biden's Win Means for Zelensky
 
-*Date: 2020-11-05 | Status: Published | Audience: only_paid*
+*Date: 2020-11-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Suitcase, train station, Rostov*
 
@@ -4960,7 +4960,7 @@ They lied.
 
 ## Zelensky's Zoom Bubble
 
-*Date: 2020-11-13 | Status: Published | Audience: only_paid*
+*Date: 2020-11-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's germy leader sends greetings from Feofaniya*
 
@@ -4986,7 +4986,7 @@ Zelensky pathetically claimed that no politician or businessman would be afforde
 
 ## Great Blows of the Overproud
 
-*Date: 2020-11-14 | Status: Published | Audience: only_paid*
+*Date: 2020-11-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Random thoughts about punching someone in the face*
 
@@ -5012,7 +5012,7 @@ Back in Sophocle’s day, the whole concept of civil disobedience, rule and bein
 
 ## Clandestine Fuckery
 
-*Date: 2020-12-29 | Status: Published | Audience: only_paid*
+*Date: 2020-12-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Revoking Ukraine's security clearance*
 
@@ -5040,7 +5040,7 @@ Which brings us to Ukraine’s state security services and their year-long opera
 
 ## Countdown to Disaster
 
-*Date: 2020-12-31 | Status: Published | Audience: only_paid*
+*Date: 2020-12-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Walls close in on Ukraine's moron president*
 
