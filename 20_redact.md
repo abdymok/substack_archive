@@ -2745,7 +2745,7 @@ The result isn't unlike a horrible accident, except it’s been caused by an une
 
 **kyiv.** ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. however, few expected that the time would come when the standard of competency turned out to be the ability to agree that **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), the difference in meaning between *разбрат* (**a falling out**) and *разврат*(**debauchery**), or how best to explain macroeconomic policy to a ukraine’s president, who does not know the difference.
 
-the quality of the unedited [90-minute long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the december 16, 2019 meeting is **excellent**. it documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in october 2019 to coordinate macroeconomic policy.
+the quality of the unedited [90-minute-long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the december 16, 2019 meeting is **excellent**. it documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in october 2019 to coordinate macroeconomic policy.
 
 **contrary to most local and international media reports,** the latest scandal to rock ukraine is **not** about the financial illiteracy of the prime minister and president or nbu council chairman bogdan danylyshyn’s quarrel with nbu governor yakiv smolii. it’s about what ukraine’s macroeconomic policy *is* now and *should be* in the future.
 
@@ -3050,7 +3050,7 @@ Responding to a question from Servant of the People MP Oleksandr Kachura followi
 
 The prequel to Smolii’s resignation came in mid-January when a lengthy unedited recording of a macroeconomic policy brainstorming breakfast, attended by Smolii, then Prime Minister Oleksiy Honcharuk, NBU Deputy Chairwoman Kateryna Rozhkova, NBU board member Dmytro Solohub, then Finance Minister Oksana Markarova and other officials, including then Minister of Economic Development, Trade and Agriculture Tymofiy Mylovanov, was leaked.
 
-The quality of the unedited [90-minute long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the meeting, which took place a month earlier on December 16, 2019, is **excellent**. It documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in October 2019 to coordinate macroeconomic policy.
+The quality of the unedited [90-minute-long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the meeting, which took place a month earlier on December 16, 2019, is **excellent**. It documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in October 2019 to coordinate macroeconomic policy.
 
 Ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. However, few expected that the time would come when the standard of competency turned out to be the ability to agree that **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), about the difference in meaning between *разбрат* (**a falling out**) and *разврат*(**debauchery**) or how best to explain macroeconomic policy to Ukraine’s president, who obviously does not know the difference.
 
@@ -3119,7 +3119,7 @@ National Bank Council Chairman Bohdan Danylyshyn on July 3 [summarized](https://
 
 The prequel to Smolii’s resignation came in mid-January when a lengthy unedited recording of a macroeconomic policy brainstorming breakfast, attended by Smolii, then Prime Minister Oleksiy Honcharuk, NBU Deputy Chairwoman Kateryna Rozhkova, NBU board member Dmytro Solohub, then Finance Minister Oksana Markarova and other officials, including then Minister of Economic Development, Trade and Agriculture Tymofiy Mylovanov, was leaked.
 
-The quality of the unedited [90-minute long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the meeting, which took place a month earlier on December 16, 2019, is **excellent**. It documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in October 2019 to coordinate macroeconomic policy.
+The quality of the unedited [90-minute-long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the meeting, which took place a month earlier on December 16, 2019, is **excellent**. It documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in October 2019 to coordinate macroeconomic policy.
 
 On June 20, 2020, former Prime Minister Oleksiy Honcharuk during the Rendevous program aired by TV Channel 5 said the making and release of a secretly recorded conversation about macroeconomic policy was a manipulation, a “special operation,” conducted to sow discord among members of Z!Team (05:18). Honcharuk said member of parliament Oleksandr Dubinsky and his colleagues were behind the stunt, which led to his dismissal.
 
@@ -3816,7 +3816,7 @@ By the time Lukashenko and his son arrived, the demonstration against him had en
 
 The deliberate and systematic destruction of the culture of an ethnic group is called *[ethnocide](https://en.wikipedia.org/wiki/Ethnocide)*, a term used to describe the deliberate destruction of Ukrainian culture in the USSR and what is happening today to Crimean Tatars in Russia-occupied Crimea.
 
-Belarusian officials have been accused of carrying out policies ethnocide and linguacide for more than 25 years.
+Belarusian officials have been accused of carrying out policies of ethnocide and linguicide for more than 25 years.
 
 As the election campaign was launched in Kyiv on April 22, 2019, Volodymyr Zelensky [addressed his adoring fans](https://www.youtube.com/watch?v=lEM2JIfHcSM) and delivered a short message to people living in other post-Soviet countries.
 
@@ -3922,7 +3922,7 @@ In terms of the number of people pissed off, albeit for the wrong reasons, this 
 
 It’s all about floutist Maria Kаlesnikаva and banker Viktor Babariko (Viktar Babaryka), who on August 31 said in a YouTube video that they’ve decided to create a new political party/movement called Together (Vmeste).
 
-The 4-minute long clip was pre-recorded, because Babariko and his son Eduard were detained by police on June 19, 2020 and thrown in jail. Last time I checked they were still there.
+The 4-minute-long clip was pre-recorded, because Babariko and his son Eduard were detained by police on June 19, 2020 and thrown in jail. Last time I checked they were still there.
 
 Kаlesnikаva helped run Babariko’s presidential campaign.
 
@@ -4008,13 +4008,13 @@ Recall what President Volodymyr Zelensky [said](https://www.president.gov.ua/en
 
 [Image]
 
-I just noticed that some foreign Belarus experts and journalists don’t have a blue ticks, so, technically, you don't need to respect them.
+I just noticed that some foreign Belarus experts and journalists don’t have a blue tick, so, technically, you don't need to respect them.
 
 The revolution has lasted 25 days so far, more than enough time to make several observations.
 
 [Image]
 
-The first is that the question **“Who wins?”** is self-undermining at this stage. The second is Belarusians have already accomplished a lot without much outside help, and the third is keeping it this way is probably a good idea.
+The first is that the question **“Who wins?”** is self-undermining at this stage. The second is that Belarusians have already accomplished a lot without much outside help, and the third is that keeping it this way is probably a good idea.
 
 **We can conclude that Belarusians do not require:**
 
@@ -4681,7 +4681,7 @@ September 23, 2020. Mark it in your calendar.
 
 Politics really is downstream of culture :-)
 
-Today’s packed, nearly mask-free Trump [campaign stop](https://floridapolitics.com/archives/368245-trump-jax-comeback) in Duvall County, Florida is probably the only stunt than can top last night’s rat king Lukashenko cosplay in Minsk.
+Today’s packed, nearly mask-free Trump [campaign stop](https://floridapolitics.com/archives/368245-trump-jax-comeback) in Duvall County, Florida is probably the only stunt that can top last night’s rat king Lukashenko cosplay in Minsk.
 
 Lukashenko has the kind of combative swagger that appeals to Trump. That worries Mitt Romney.
 
@@ -4689,7 +4689,7 @@ Lukashenko has the kind of combative swagger that appeals to Trump. That worries
 
 The Belarusian ruler denies he lost the August 9 presidential election and blames the United States for inciting more than a month of popular peaceful nationwide demonstrations against his continued misrule.
 
-Like the majority of Americans, Trump can’t find Belarus on a map, but that’s besides the point, which is that he and Lukashenko desire the same thing: **to stay in power**.
+Like the majority of Americans, Trump can’t find Belarus on a map, but that’s beside the point, which is that he and Lukashenko desire the same thing: **to stay in power**.
 
 ---
 
@@ -4711,7 +4711,7 @@ Like the majority of Americans, Trump can’t find Belarus on a map, but that’
 
 KYIV. It’s day whatever of Ukraine’s COVID-19 disaster and the weekly number of patients admitted to the nation’s hospitals with pneumonia has almost quadrupled compared to last month. Officials say we are quickly moving toward overwhelming the country’s healthcare system and seeing even more devastating illness and death.
 
-President Volodymyr Zelensky has not been helpful. Two months ago, he said he **wanted** to be infected with the virus to prove it’s not so scary - a macho stunt worthy of his disruptor idol Jair Bolsonaro, President of Brasil.
+President Volodymyr Zelensky has not been helpful. Two months ago, he said he **wanted** to be infected with the virus to prove it’s not so scary - a macho stunt worthy of his disruptor idol Jair Bolsonaro, President of Brazil.
 
 Yesterday in Bratislava, Zelensky said Ukraine is experiencing the second wave of COVID-19 infections.
 
@@ -4759,7 +4759,7 @@ Zelensky said Ukraine did well during the \*first wave\* of the disease when new
 
 Since the end of January, Zelensky has successfully avoided criticism of how officials have handled Covid-19 spread. He has met the media on his own terms, in venues where he filibusters over hard questions. The President’s Office, meanwhile, has cultivated credulous foreign journo brownnosers and used them as conduits for inaccurate, self-serving success stories on mitigating the spread of the disease.
 
-The Covid-19 situation is ***not improving*** in Ukraine and is ***unlikely to improve*** anytime in the near future.
+The Covid-19 situation is ***not improving*** in Ukraine and is ***unlikely to improve*** any time in the near future.
 
 Meanwhile, parliament on September 30 cancelled scheduled plenary sessions and will be meeting only one more time before November 1.
 
@@ -4853,7 +4853,7 @@ cf. [Thug Life](https://abdymok.substack.com/p/thug-life) (May 6, 2020)
 
 Google search spits out more than [10 million links](https://www.google.com/search?q=%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F+%D0%B2%D0%BE%D0%BB%D0%BD%D0%B0&oq=%D0%B7%D0%B5%D0%BB&aqs=chrome.0.69i59j69i57j46j0l4j46.1264j0j15&sourceid=chrome&ie=UTF-8) for a search of “зеленский вторая волна” (zelensky second wave). Ukraine’s president has given a false sense of how the Covid-19 pandemic is actually developing in his country.
 
-The Covid-19 incidence pattern in Ukraine [shows](https://covid19.rnbo.gov.ua/?fbclid=IwAR1TXauFhOd3A9iOgaRCiZ27py5Ngz2hmDkaVuZj_7U-Oe3ejIQn34wBT9I) clearly the first wave continuing to rise with little or no interruption. This is particularly common in the world’s poorer countries with inefficient and corrupt health systems.
+The COVID-19 incidence pattern in Ukraine [shows](https://covid19.rnbo.gov.ua/?fbclid=IwAR1TXauFhOd3A9iOgaRCiZ27py5Ngz2hmDkaVuZj_7U-Oe3ejIQn34wBT9I) clearly the first wave continues to rise with little or no interruption. This is particularly common in the world’s poorer countries with inefficient and corrupt health systems.
 
 Months of Zelensky blabbing about a “second wave” has been at best misleading and at worst diminishes the brutally unrelenting rise of the infection rate, which conforms unequivocally to the global infection rate: it rose fast, stabilized somewhat in late April and early May, before shooting up in July, August, September and October.
 
