@@ -139,7 +139,7 @@ i would argue, as has [imf group ukraine](http://imfgroup.com.ua/en/), that left
 [Image]
 *Maksym Martyniuk*
 
-*And lest by chance you may receive the pattern you are to give it from actuality, do not dare to enter its doubtful society until you are assured an ideal following in your heart. Live with your century, but do not be its creature; render to you contemporaries what they need, not what they praise. Without sharing their guilt, share with noble resignation their penalties and bow with freedom beneath the yoke which they can ill dispense with as they can bear it.* — **Friedrich Schiller**, On the Aesthetic Education of Man, Ninth Letter
+*And lest by chance you may receive the pattern you are to give it from actuality, do not dare to enter its doubtful society until you are assured an ideal following in your heart. Live with your century, but do not be its creature; render to your contemporaries what they need, not what they praise. Without sharing their guilt, share with noble resignation their penalties and bow with freedom beneath the yoke which they can ill dispense with as they can bear it.* — **Friedrich Schiller**, On the Aesthetic Education of Man, Ninth Letter
 
 He was sitting in the first row of a packed auditorium near Victory Square in Kyiv. The occasion was the January 29, 2019 forum, dubbed “From Kruty to Brussels. We will go our own way.”
 
@@ -289,7 +289,7 @@ In theory, the conflict between the *thesis* espoused by the incumbent and *anti
 
 “I don’t know if dialogue with Poroshenko is possible in any debate. It will be his long monologue and my response. One thing is for sure, I won’t let him insult me,” Ze said.
 
-On the evening before his scheduled April 12 meeting with French President Emmanel Marcon at Élysée Palace, Ze hung up on Poroshenko during a live broadcast of a popular television show. He said the next day the is reason for cutting the call short was because he felt disrespected.
+On the evening before his scheduled April 12 meeting with French President Emmanuel Macron at Élysée Palace, Ze hung up on Poroshenko during a live broadcast of a popular television show. He said the next day the reason for cutting the call short was because he felt disrespected.
 
 [Image]
 
@@ -341,9 +341,9 @@ luckily for us, z has a great sense of humor. he also has ideas about how best t
 
 [Image]
 
-what is the difference is between *бунтари* and *повстанцы*?just ask z. he will explain why *rebellion* does not mean *insurrection,* how *collaborators* are not *secessionists* and why *intervention* might mean *invasion*, but not necessarily.
+what is the difference between *бунтари* and *повстанцы*? just ask z. he will explain why *rebellion* does not mean *insurrection,* how *collaborators* are not *secessionists* and why *intervention* might mean *invasion*, but not necessarily.
 
-the most important thing is that z *knows* what he wants to say. that he’s incapable of formulating his thoughts in complete sentences is besides the point, because the de facto president has already starting studying ukrainian.
+the most important thing is that z *knows* what he wants to say. that he’s incapable of formulating his thoughts in complete sentences is besides the point, because the de facto president has already started studying ukrainian.
 
 [Image]
 
@@ -418,7 +418,7 @@ the men said they are preparing a series of high-profile corruption \*exposures\
 
 belarus native igor fruman and ukraine native lev parnas (both u.s. citizens) have repeatedly informed ukraine’s law-enforcement agencies that businessman ihor kolomoisky poses a threat to their continued existence on the planet earth.
 
-it’s worth pointing out here that u.s. loans guaranteed by the u.s. treasury department at 1.6% are considerably cheaper to pay back that commercial loans at 8%-9%.
+it’s worth pointing out here that u.s. loans guaranteed by the u.s. treasury department at 1.6% are considerably cheaper to pay back than commercial loans at 8%-9%.
 
 but that’s another story.
 
@@ -500,7 +500,7 @@ the u.s. president, u.s. secretary of state, u.s. energy secretary and u.s. amba
 
 u.s. deputy secretary of state for european and eurasian affairs george kent on october 15, 2019 told congressmen that he was wrongly instructed on may 23, 2019 to *lie low* on ukraine and let *three amigos* supervise u.s.-ukraine relations.
 
-kent said was so miffed he took time off he had already scheduled to attend his daughter’s wedding and then went hiking in maine.
+kent said he was so miffed he took time off he had already scheduled to attend his daughter’s wedding and then went hiking in maine.
 
 by the time kent returned to foggy bottom, u.s. energy secretary rick perry, u.s. ambassador to europe gordon sondland and u.s. special representative for ukraine negotiations kurt volker were running the ukraine show.
 
@@ -573,13 +573,13 @@ the career path of ex-minister’s son did not begin with sheikhs. as a top offi
 
 supykhanov jr. began his career in the 2000s as a manager at [closed joint-stock company grain of ukraine](http://ukrapk.com/firms/one/69/kontakt/%29,), cjsc interagro cjsc and cjsc agro nova. according to media reports, the ultimate beneficiary of these enterprises at the time was supykhanov sr., then agriculture minister. by the way, a factor of the notorious bankruptcy of bank ukraina in 2000 was the [failure](https://podrobnosti.ua/349346-selhoz-etjud-seroe-na-chernozeme.html) to repay $17 million on a loan issued by interagro.
 
-in 2004–2005, immediately after orange revolution, the supykhanov jr. landed on his feet and took a highly paid position as the head of the state quarantine inspectorate. according to media reports, taking advantage of his official position, he organized a “scheme” for the supply of grain to elevators of ukraine’s state reserve, deputy head of which was mykhailo hrach, who had [informal connections](https://podrobnosti.ua/349346-selhoz-etjud-seroe-na-chernozeme.html) with supykhanov sr.
+in 2004–2005, immediately after orange revolution, supykhanov jr. landed on his feet and took a highly paid position as the head of the state quarantine inspectorate. according to media reports, taking advantage of his official position, he organized a “scheme” for the supply of grain to elevators of ukraine’s state reserve, deputy head of which was mykhailo hrach, who had [informal connections](https://podrobnosti.ua/349346-selhoz-etjud-seroe-na-chernozeme.html) with supykhanov sr.
 
 the same grain of ukraine, headed by supykhanov jr., was the “gasket” for the “scheme.”
 
 but these are trifles, in comparison with the corrupt influence borys supykhanov had on grain export from ukraine during the early 2000s. external deliveries of agricultural products could not pass by the warehouses of the state quarantine inspectorate, where fumigation of grain was supposed to take place. this procedure, as well as its control, was not clearly defined, which gave a lot of room for maneuvers with the collection of corrupt rents. no one knows for sure what rent amounts were collected on this “scheme.” what is known is that supykhanov sr. lost his post in 2005 after his son-in-law, starokostyantynivsky district state administration head (khmelnytsky region), was [convicted](https://from-ua.com/articles/12863-zam-vsemu-golova.html) of selling stolen “donated” gravel to grain of ukraine.
 
-in 2006, again, borys supykhanov was needed by the members of party of regions, who were seeking to establish full control over ukraine’s agricultural sector. some media outlets explained this decision as follows: in 2003–2004, supihanov sr. was an adviser on agrarian issues to prime minister viktor yanukovych along with mykola suprun, whose wife, lyudmila suprun, [co-founded](https://from-ua.com/articles/12863-zam-vsemu-golova.html) of the aforementioned interagro.
+in 2006, again, borys supykhanov was needed by the members of party of regions, who were seeking to establish full control over ukraine’s agricultural sector. some media outlets explained this decision as follows: in 2003–2004, supihanov sr. was an adviser on agrarian issues to prime minister viktor yanukovych along with mykola suprun, whose wife, lyudmila suprun, [co-founded](https://from-ua.com/articles/12863-zam-vsemu-golova.html) the aforementioned interagro.
 
 only after receiving the post of first deputy minister of agro-industrial complex did borys supykhanov undertake to restore his influence by placing “his” people in the state quarantine inspectorate. he also restored the scheme under which grain was supplied to the state reserve committee through the “layering” of grain of ukraine. this was a fat jackpot, worth uah 400 million in tenders.
 
