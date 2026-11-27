@@ -2572,7 +2572,7 @@ A close reading of the increasingly voluminous revisionist *reports* discloses m
 - How can anyone take [Grigoriy Ioffe](https://jamestown.org/program/divining-belaruss-future-amidst-international-and-domestic-unrest/) seriously?
 - When did [Ilya Ponomarev](https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276) become an expert on Belarus?
 
-Let’s beef up our cadre of Belarus experts, instead of reinforcing a series of tropes that were already familiar to students of ready-made gepolitical rhetoric.
+Let’s beef up our cadre of Belarus experts, instead of reinforcing a series of tropes that were already familiar to students of ready-made geopolitical rhetoric.
 
 Before it’s too late.
 
@@ -2586,7 +2586,7 @@ Last time I checked, Russia was waiting for info about what the results of the n
 
 [3](#footnote-anchor-3)
 
-Ukraine’s Defense Minister Oleksiy Reznikov has for weeks has been assuring us that the likelihood of military escalation and a further Russian invasion is rather ***low***. ([On the Roasting of Chicken](https://abdymok.substack.com/p/on-the-roasting-of-chicken?s=w), Feb 19, 2022)
+Ukraine’s Defense Minister Oleksiy Reznikov has for weeks been assuring us that the likelihood of military escalation and a further Russian invasion is rather ***low***. ([On the Roasting of Chicken](https://abdymok.substack.com/p/on-the-roasting-of-chicken?s=w), Feb 19, 2022)
 
 [4](#footnote-anchor-4)
 
@@ -2823,13 +2823,13 @@ Which brings me to the mummification scenario[1](#footnote-1) proposed in an art
 
 ---
 
-In other news, SIGINT, together with drone and satellite reconnaissance, has consistently produced the most reliable intelligence available since the invasion started. It’s true value as an intelligence source has been achieved because it’s been effectively combined with information produced by other intelligence sources, e.g. HUMINT, into an 'all-source' product flagged, tagged, stripped, df-ed, AI reconfigured, sometimes gisted, analyzed and funneled directly into the brains of Ukraine’s top brass.
+In other news, SIGINT, together with drone and satellite reconnaissance, has consistently produced the most reliable intelligence available since the invasion started. Its true value as an intelligence source has been achieved because it’s been effectively combined with information produced by other intelligence sources, e.g. HUMINT, into an 'all-source' product flagged, tagged, stripped, df-ed, AI reconfigured, sometimes gisted, analyzed and funneled directly into the brains of Ukraine’s top brass.
 
 Almost 200 reels are available for your listening pleasure [here](https://www.youtube.com/watch?v=ls8NOnLoLTQ&list=PL8ao2ZjeM9mslBOATvDa87lvgELw281lF).
 
 [1](#footnote-anchor-1)
 
-Dodging water jets is probably a reference the ingenious water features found at [Peterhof Palace.](https://en.wikipedia.org/wiki/Peterhof_Palace) They are called fountain firecrackers, hidden fountains with a comic surprise, disguised as familiar objects or built into the landscape. The water jets of the fountains appear unexpectedly and spray visitors, thereby creating a playful mood. I had enormous fun dodging water jets there as a kid, especially the one disguised as a mushroom.
+Dodging water jets is probably a reference to the ingenious water features found at [Peterhof Palace.](https://en.wikipedia.org/wiki/Peterhof_Palace) They are called fountain firecrackers, hidden fountains with a comic surprise, disguised as familiar objects or built into the landscape. The water jets of the fountains appear unexpectedly and spray visitors, thereby creating a playful mood. I had enormous fun dodging water jets there as a kid, especially the one disguised as a mushroom.
 
 ---
 
@@ -2843,9 +2843,9 @@ Dodging water jets is probably a reference the ingenious water features found at
 
 The starting point for writing any script is its orientation in historical space and time. It is difficult to build a curve, and even more so to understand where it will lead, if historical coordinate axes are not laid for the situation. For today’s Russia they are intersecting lines of development of the world and Russian civilizations.
 
-World civilization is now in a state of phase transition from a post-industrial to an information society, when all the constants that ensure relative stability have simultaneously become variables — technologies, climate, demography, morality and law have moved simultaneously. Russian civilization, one of the varieties of “swing civilizations,” in turn, has reached the next maximum threshold value, which is usually followed by collapse and rebirth in some new unrecognizable form. For a quarter of a century, there were expectations for clash of civilizations. We wound up with a clash of civilizational crises instead.
+World civilization is now in a state of phase transition from a post-industrial to an information society, when all the constants that ensure relative stability have simultaneously become variables — technologies, climate, demography, morality and law have moved simultaneously. Russian civilization, one of the varieties of “swing civilizations,” in turn, has reached the next maximum threshold value, which is usually followed by collapse and rebirth in some new unrecognizable form. For a quarter of a century, there were expectations of a clash of civilizations. We wound up with a clash of civilizational crises instead.
 
-Everything that happens in Russia can usually be described using Chernomyrdin’s famous formula — “This has never happened before, and here it is again.” Nevertheless, what happened today fits perfectly into the general logic of Russia’s historical development and represents its logical outcome. It’s not first time that a Russian crisis has caught up to and surpassed a world crisis. The problem is that in all such cases, possible scenarios for Russia turned out to be rather meager, with few non-grudge bearing outcomes.
+Everything that happens in Russia can usually be described using Chernomyrdin’s famous formula — “This has never happened before, and here it is again.” Nevertheless, what happened today fits perfectly into the general logic of Russia’s historical development and represents its logical outcome. It’s not the first time that a Russian crisis has caught up to and surpassed a world crisis. The problem is that in all such cases, possible scenarios for Russia turned out to be rather meager, with few non-grudge bearing outcomes.
 
 ##### Incinerating history
 
@@ -2861,9 +2861,9 @@ Of course, Russian culture has learned to gradually remove these slags from itse
 
 ##### A menu of scenarios
 
-Smelting, however, can also be done in different ways. In relation to the current situation, the development of the plot (melting algorithm) will greatly depend on the goals set by Putin (temperature regime). According to first impressions, the dials were set initially at maximum levels, so the settings can now can only be reduced. The main problem of this war for Russia is that Putin’s goals are irrational and unattainable in principle.
+Smelting, however, can also be done in different ways. In relation to the current situation, the development of the plot (melting algorithm) will greatly depend on the goals set by Putin (temperature regime). According to first impressions, the dials were set initially at maximum levels, so the settings can now only be reduced. The main problem of this war for Russia is that Putin’s goals are irrational and unattainable in principle.
 
-Ukraine itself, with its resources, population and territory, is only a pretext for war, but not its cause. For reasons of a purely religious and ideological nature, it was from Ukraine that Putin began the active phase of the struggle for the reorganization of the world order, in fact, for shared world domination. The irrationality of this struggle is twofold. Firstly, it cannot end in success even in the event of a complete victory over Ukraine, because “a continuation of the banquet” will definitely be required. Secondly, it is unattainable in principle, since Russia does not have the ammunition to ensure its indicated ambitions. Of all the necessary ammunition, only nuclear weapons are in abundance. You can use that collectively to kill yourself, but you can not win.
+Ukraine itself, with its resources, population and territory, is only a pretext for war, but not its cause. For reasons of a purely religious and ideological nature, it was from Ukraine that Putin began the active phase of the struggle for the reorganization of the world order, in fact, for shared world domination. The irrationality of this struggle is twofold. Firstly, it cannot end in success even in the event of a complete victory over Ukraine, because “a continuation of the banquet” will definitely be required. Secondly, it is unattainable in principle, since Russia does not have the ammunition to ensure its indicated ambitions. Of all the necessary ammunition, only nuclear weapons are in abundance. You can use that collectively to kill yourself, but you cannot win.
 
 > That is, Russia’s strategic choice is either to be defeated or to become a martyr.
 
@@ -2883,9 +2883,9 @@ With a high degree of probability, it can be assumed that defeated remnants of t
 
 ##### Scenario 2: Recycling
 
-Recycling is the same as cremation, but with a cheerful facade painted in the colors of hope. In fact, this is an even less likely radical scenario for the catastrophic development of the situation. It may arise as a result of the strategic defeat of the Russian army. Such a highly unlikely, but in principle not impossible, event could be the result of a series of ill-conceived and criminal actions by Russia’s top military leaders. Anyone who do not believe in the possibility of such a development of events can refresh their memory by re-reading the history of the Russo-Japanese war at the beginning of the 20th century.
+Recycling is the same as cremation, but with a cheerful facade painted in the colors of hope. In fact, this is an even less likely radical scenario for the catastrophic development of the situation. It may arise as a result of the strategic defeat of the Russian army. Such a highly unlikely, but in principle not impossible, event could be the result of a series of ill-conceived and criminal actions by Russia’s top military leaders. Anyone who does not believe in the possibility of such a development of events can refresh their memory by re-reading the history of the Russo-Japanese war at the beginning of the 20th century.
 
-Such an obvious strategic defeat of the Russian army, which would not have succumbed to any Photoshop with the help of state propaganda, could provoke the very revolution in Russia, to combat which this whole militaristic circus with horses, in fact, was originally invented. It is known that in cases of obvious and large-scale military defeats, an almost instantaneous change of mood poles occurs, and jingoistic patriotism turns into a deaf and vicious hatred of the upper classes, which, in fact, has already happened more than once in Russia in 1853–1854, in 1904–1905 or in 1916–1917. In such circumstances, the change of poles of mass moods occurs without buildup, almost instantly.
+Such an obvious strategic defeat of the Russian army, which would not have succumbed to any Photoshop with the help of state propaganda, could provoke the very revolution in Russia, to combat which this whole militaristic circus with horses, in fact, was originally invented. It is known that in cases of obvious and large-scale military defeats, an almost instantaneous change of mood poles occurs, and jingoistic patriotism turns into a deaf and vicious hatred of the upper classes, which, in fact, has already happened more than once in Russia in 1853–1854, in 1904–1905 or in 1916–1917. In such circumstances, the change in the poles of mass moods occurs without buildup, almost instantly.
 
 > Today — wild sex, tomorrow — seething hatred. Russia ran the gamut with the Romanovs and Rasputin, with Gorbachev, and now with Putin.
 
@@ -2897,11 +2897,11 @@ Between the extreme options there is always a vast field of less certain, but mu
 
 Theoretically, two options are possible: conflict localization and conflict sublimation.
 
-**Localization of the conflict.** Already today, some signs indicate that there is a tendency to localize the conflict, that is, to turn it into a permanent hotbed of military confrontation in a fairly limited area. In this case, the Russia-Ukraine war be similar to one of Russia’s Caucasian wars, with endless exhausting battles in the Kharkiv-Donbas-Kherson triangle. Both countries will burn huge resources in this war, abandoning any development plans. But there will be a difference: Ukraine will rely on the help of the West, while Russia will face the most uncomfortable sanctions regime. The way out of this situation is either in cremation of recycling, but not immediately.
+**Localization of the conflict.** Already today, some signs indicate that there is a tendency to localize the conflict, that is, to turn it into a permanent hotbed of military confrontation in a fairly limited area. In this case, the Russia-Ukraine war will be similar to one of Russia’s Caucasian wars, with endless exhausting battles in the Kharkiv-Donbas-Kherson triangle. Both countries will burn huge resources in this war, abandoning any development plans. But there will be a difference: Ukraine will rely on the help of the West, while Russia will face the most uncomfortable sanctions regime. The way out of this situation is either cremation or recycling, but not immediately.
 
 **Sublimation of the conflict.** Sublimation of the conflict is possible only if both sides have enough political will to bring the matter to a peace agreement. Strange as it may seem, from a strategic historical perspective, such an agreement is beneficial, first of all, to the Kremlin, and in theory allows the Putin regime to “pass between the water jets.” I practically have no doubt that at this stage, the Kremlin will be able to sell any version of the agreement on the domestic political market as a victory, and that any agreement will formally or informally be burdened with a “concept” according to which Kyiv will agree to the removal of part of the imposed package of sanctions from Moscow. In this case, Moscow slips out of the “Nesterov loop” that it arranged for itself and buys a few more or less predictable years for itself. Although the fear experienced by the elites will not go unnoticed, the consequences will not immediately be felt. Moreover, they can be mitigated by repressions, turning the external front into an internal one.
 
-##### *On the benefits, drawbacks of compromise scenarios*
+##### *On the benefits and drawbacks of compromise scenarios*
 
 A compromise solution to the situation will almost certainly greatly upset the radical opponents of the Putin regime, both among the Russian opposition and Western government circles. For them, it seems preferable to localize the conflict and turn it into something similar to the Iran-Iraq war. The motive here is simple — such a scenario brings the end of the regime closer. But for many “simple plebs” who still want to live on this planet, even if it means living next to the Putin regime, the option of sublimating the conflict through a peace agreement still seems more attractive.
 
@@ -2952,7 +2952,7 @@ Which brings me back to Ukraine and Passover[3](#footnote-3).
 [Image]
 *Nathan’s map*
 
-One the best ways to get your bearings in Ukraine these days is to keep tabs on Mykola Tyshchenko[4](#footnote-4). The greasy member of parliament is again in trouble, this time for [dining and dashing](https://ukraine.segodnya.ua/ua/ukraine/skandal-s-tishchenko-poobedal-vo-lvovskom-restorane-a-zaplatit-zabyl-1612952.html) in Lviv. He symbolizes the importance of worldwide ethno-minimalism — and Skrat, the dance club [on Peace Street](https://www.google.com/maps/@48.0537103,24.2021372,3a,75y,316.97h,98.22t/data=!3m6!1e1!3m4!1sU25GB4QQ1WM_cRB4miF6cg!2e0!7i13312!8i6656) next to the Evropa Hotel in Rakhiv.
+One of the best ways to get your bearings in Ukraine these days is to keep tabs on Mykola Tyshchenko[4](#footnote-4). The greasy member of parliament is again in trouble, this time for [dining and dashing](https://ukraine.segodnya.ua/ua/ukraine/skandal-s-tishchenko-poobedal-vo-lvovskom-restorane-a-zaplatit-zabyl-1612952.html) in Lviv. He symbolizes the importance of worldwide ethno-minimalism — and Skrat, the dance club [on Peace Street](https://www.google.com/maps/@48.0537103,24.2021372,3a,75y,316.97h,98.22t/data=!3m6!1e1!3m4!1sU25GB4QQ1WM_cRB4miF6cg!2e0!7i13312!8i6656) next to the Evropa Hotel in Rakhiv.
 
 On a more somber note, David and Julian have updated their [CIA Warns Putin May Use Nukes](https://www.nytimes.com/2022/04/14/us/politics/putin-nuclear-weapons.html) story. I don’t have the patience to read it, but I did watch William [talk to the kids](https://www.youtube.com/watch?v=yVWzer7TTP0) at Georgia Tech the other day.
 
