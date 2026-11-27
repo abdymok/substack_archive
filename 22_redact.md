@@ -6403,7 +6403,7 @@ It’s depressing. One by one, members of Ukraine’s government are admitting t
 
 Ukraine’s top general Valeriy Zaluzhny has said 20% of Russia’s invasion forces along a 1,300-kilometer-long front line (not including the border with Belarus) have been liquidated[3](#footnote-3). But Ukraine lacks sufficient artillery systems, ammo, troops, etc to mount a counteroffensive for the foreseeable future. That means more stalemate and energetic dancing.
 
-Looking on the bright side, we got three months of running in over the summer and will be in good shape for the country’s 31st birthday party on August 24. Many experts predicted Ukraine would surrender in three days. We’ve survived six months. That’s something to celebrate.
+Looking on the bright side, we got three months of running over the summer and will be in good shape for the country’s 31st birthday party on August 24. Many experts predicted Ukraine would surrender in three days. We’ve survived six months. That’s something to celebrate.
 
 [1](#footnote-anchor-1)
 
@@ -7331,7 +7331,7 @@ Shrapnel from the missile is scattered all over the place. We know it’s a Kh-1
 
 [Image]
 
-We’re 157 daze into Phase 3 and de-occupation is proceeding apace. *Militarily*, the Russian invaders are being rubbed out methodically.
+We’re 157 days into Phase 3 and de-occupation is proceeding apace. *Militarily*, the Russian invaders are being rubbed out methodically.
 
 [Image]
 
@@ -7349,7 +7349,7 @@ This got me thinking about all the *hardship* people started writing about after
 [Image]
 *c/o The Washington Post*
 
-Sitting here, grizzled and hoary, I could catalogue several dozens of visits to this same apartment building, but what would be the point amid the rubble and the dust. The memories wouldn’t produce much that is informative, let alone useful.
+Sitting here, grizzled and hoary, I could catalogue several dozen visits to this same apartment building, but what would be the point amid the rubble and the dust. The memories wouldn’t produce much that is informative, let alone useful.
 
 It’s too much even to tick off:
 
@@ -7358,7 +7358,7 @@ It’s too much even to tick off:
 - The menacing phone glowing silent in the corner
 - Drugs. Illegal ones
 
-In my experience (I have no one else’s) the worst of the torment of a bitter end usually comes not from feelings about disaster or loss – though these pile up like hills and mountains – but rather from tragedies I read people documenting.
+In my experience (I have no one else’s) the worst torment of a bitter end usually comes not from feelings about disaster or loss – though these pile up like hills and mountains – but rather from tragedies I read people documenting.
 
 Let’s take a lesson from a dead Italian language theorist. Noble sinners arouse our sympathy initially, but less so as our journey continues[2](#footnote-2).
 
@@ -7441,7 +7441,7 @@ So, my advice: skip the book, read the [summary](https://books.google.com.ua/boo
 [Image]
 *Courtesy Everest Media*
 
-Our decision to forego writing about Phases 3 and 4 of the bloody mess and instead make use free time to do something more aerobic is resolute. There’s a place for news and rambling commentary about the development of post-war ultra-competitive Ukraine-style politics, but definitely not here[1](#footnote-1).
+Our decision to forego writing about Phases 3 and 4 of the bloody mess and instead make use of free time to do something more aerobic is resolute. There’s a place for news and rambling commentary about the development of post-war ultra-competitive Ukraine-style politics, but definitely not here[1](#footnote-1).
 
 **About the war.** It’s over. Putin lost. De-occupation is underway.
 
@@ -7486,7 +7486,7 @@ In addition to wisecracking about Open Society, Putin in his speech paraphrased 
 
 I remember Solzhenitsyn’s speech[2](#footnote-2), because, er, I attended it — with [Kirill Uspensky](https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87), whom I was babysitting at Harvard. Kirill was just off the boat via our coach in Millwood and had been installed at the Russian Research Center to work on his dictionary of non-normative Russian speech (prison slang). At the time, he didn’t speak a word of English, understand how to order drinks at the bar, buy food, etc.
 
-Kirill was my babysitter in Leningrad 1969-70, 76, so I was returning the favor, *so to speak*, helping him navigate decadent Cambridge during his first monthof residence there.
+Kirill was my babysitter in Leningrad 1969-70, 76, so I was returning the favor, *so to speak*, helping him navigate decadent Cambridge during his first month of residence there.
 
 Kirill hated communism and was perplexed by Solzhenitsyn’s speech. He *loved* the check-out girls at [The Coop](https://store.thecoop.com/) and was a big fan of freedom[3](#footnote-3).
 
