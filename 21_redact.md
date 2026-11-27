@@ -6,7 +6,7 @@
 
 ## SBU goes Coup Coup
 
-*Date: 2021-01-25 | Status: Published | Audience: only_paid*
+*Date: 2021-01-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Outside the wire*
 
@@ -46,7 +46,7 @@ Intelligence chiefs in United States, the UK and Europe have for years known abo
 
 ## Realities We Don't See
 
-*Date: 2021-02-10 | Status: Published | Audience: only_paid*
+*Date: 2021-02-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -62,7 +62,7 @@ This is the same David Stern who teamed up with Kenneth Vogel in January 2017 to
 
 ## Possibly Fatal Outdoor Dining
 
-*Date: 2021-02-12 | Status: Published | Audience: only_paid*
+*Date: 2021-02-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ultra high-cholesterol Kyiv take-out*
 
@@ -94,7 +94,7 @@ My advice is to not eat any of this crap. Stick with WinWay’s dried Papaya sti
 
 ## Ukraine is Not a Piano
 
-*Date: 2021-02-28 | Status: Published | Audience: only_paid*
+*Date: 2021-02-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Photo c/o abdymok*
@@ -151,7 +151,7 @@ The order given in July 2020 to scupper an attempt by Ukraine’s security servi
 
 ## Wagnergate (update)
 
-*Date: 2021-03-03 | Status: Published | Audience: only_paid*
+*Date: 2021-03-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Suitcase, Train Station, Rostov*
 
@@ -185,7 +185,7 @@ cf. [Ukraine is Not a Piano](https://abdymok.substack.com/p/coming-to-a-theater-
 
 ## Drones in My Bones
 
-*Date: 2021-03-11 | Status: Published | Audience: only_paid*
+*Date: 2021-03-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -237,7 +237,7 @@ cf. [Ukraine is Not a Piano](https://abdymok.substack.com/)
 
 ## Not About Ukraine
 
-*Date: 2021-03-14 | Status: Published | Audience: only_paid*
+*Date: 2021-03-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *BELLINGCAT promos docudrama, visits leaky Kyiv*
 
@@ -269,7 +269,7 @@ A common mistake is to take denials by Russian officials at face value, especial
 
 ## Brilliantly Righteous While Half Baked
 
-*Date: 2021-05-19 | Status: Published | Audience: only_paid*
+*Date: 2021-05-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -339,7 +339,7 @@ Policy makers in the west should take the time and make full use of their proces
 
 ## Playing in the Shadows
 
-*Date: 2021-07-30 | Status: Published | Audience: only_paid*
+*Date: 2021-07-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Швах, швах, швах*
 
@@ -363,7 +363,7 @@ Yes, Yes, Yes.
 
 ## One More Big Mistake
 
-*Date: 2021-08-02 | Status: Published | Audience: only_paid*
+*Date: 2021-08-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Crash Test Dummy President*
 
@@ -403,7 +403,7 @@ Any kind of big conflict in Ukraine resembles a complicated game of chess. It’
 
 ## Fortress Ukraine
 
-*Date: 2021-09-02 | Status: Published | Audience: only_paid*
+*Date: 2021-09-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Building institutions with integrity*
 
@@ -423,7 +423,7 @@ Which brings us to the 2,100-word joint statement issued following the two-hour 
 
 ## Setting the Plate Clear
 
-*Date: 2021-09-06 | Status: Published | Audience: only_paid*
+*Date: 2021-09-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Subjectivizing Ukraine*
 
@@ -469,7 +469,7 @@ Unfortunately for Z and Grozev, ***subjectiveness*** is the correct translation 
 
 ## A man in full
 
-*Date: 2021-09-10 | Status: Published | Audience: only_paid*
+*Date: 2021-09-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Pork Chop from Obolon*
 
@@ -486,7 +486,7 @@ Known in the underworld as *Kolya the Pump*, *Kolya-Obolonsky* and *Kolya the Po
 
 ## Ukraine's Plan "Г"
 
-*Date: 2021-09-11 | Status: Published | Audience: only_paid*
+*Date: 2021-09-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Not to be confused with Operation "Ы\*
 
@@ -514,7 +514,7 @@ According to Bezuhla, **Plan "Г"** *is* the name of a contingency scenario work
 
 ## Scale-free Wagner PMC
 
-*Date: 2021-09-28 | Status: Published | Audience: only_paid*
+*Date: 2021-09-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *News of the Weird*
 
@@ -530,7 +530,7 @@ According to Bezuhla, **Plan "Г"** *is* the name of a contingency scenario work
 
 ## Servants of Pandora
 
-*Date: 2021-10-06 | Status: Published | Audience: only_paid*
+*Date: 2021-10-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's dead-end democracy*
 
@@ -558,7 +558,7 @@ According to Bezuhla, **Plan "Г"** *is* the name of a contingency scenario work
 
 ## Ukraine's Spherical Cow
 
-*Date: 2021-10-16 | Status: Published | Audience: only_paid*
+*Date: 2021-10-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Oh, that place is so crowded. No one goes there any more.*
 
@@ -599,7 +599,7 @@ It’s a screenshot of the nut graph of an [article](https://l.facebook.com/l.ph
 
 ## Prominvestbank Purgatory
 
-*Date: 2021-10-19 | Status: Published | Audience: everyone*
+*Date: 2021-10-19 | Status: Published | Audience: everyone | Type: newsletter*
 
 *All multiple possible outcomes look bad*
 
@@ -636,7 +636,7 @@ The strategy PIB’s supervisory board has come up with so far to solve the bank
 
 ## Bring Back Our Blimp
 
-*Date: 2021-11-12 | Status: Published | Audience: only_paid*
+*Date: 2021-11-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *God save the Kyiv Post*
 
@@ -682,7 +682,7 @@ TOO SOON!
 
 ## Bring Back Our Blimp
 
-*Date: 2021-11-14 | Status: Published | Audience: only_paid*
+*Date: 2021-11-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Illustration c/o abdymok*
@@ -721,7 +721,7 @@ TOO SOON!
 
 ## Bezuhla's PMC TIC brief
 
-*Date: 2021-11-16 | Status: Published | Audience: only_paid*
+*Date: 2021-11-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Inchoate interim logic*
 
@@ -845,7 +845,7 @@ cf. [Plan “Г”](https://abdymok.substack.com/p/ukraines-plan-)
 
 ## I, An Actor
 
-*Date: 2021-11-18 | Status: Published | Audience: only_paid*
+*Date: 2021-11-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -881,7 +881,7 @@ In related news, Odesa-based [Channel 7](http://7kanal.com.ua/) has decided to c
 
 ## Kyiv Post Strikes Again
 
-*Date: 2021-11-19 | Status: Published | Audience: only_paid*
+*Date: 2021-11-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Painfully Unhip*
 
@@ -903,7 +903,7 @@ The press service of Ukraine’s Ministry of Internal Affairs [said](https://mvs
 
 ## Something Memorable
 
-*Date: 2021-11-20 | Status: Published | Audience: only_paid*
+*Date: 2021-11-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Foam of testosterone*
 
@@ -967,7 +967,7 @@ As we enter a challenging and exciting period for the Kyiv Post, I look forward 
 
 ## Ukraine's Headless Drake
 
-*Date: 2021-11-23 | Status: Published | Audience: only_paid*
+*Date: 2021-11-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *What's vague suddenly becomes obvious*
 
@@ -1020,7 +1020,7 @@ My first thought: “A veteran of what?”
 
 ## Rat on a Journey™
 
-*Date: 2021-11-24 | Status: Published | Audience: only_paid*
+*Date: 2021-11-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Putting on the avoirdupois like nobody's business*
 
@@ -1053,7 +1053,7 @@ The depressing hour-long chit chat about the “commodity” of news content was
 
 ## Autumnal Canabalism
 
-*Date: 2021-11-25 | Status: Published | Audience: only_paid*
+*Date: 2021-11-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Pants on fire*
 
@@ -1087,7 +1087,7 @@ Journalist Mykhailo Tkach of the Kyiv-based Ukrainska Pravda ezine broke the *St
 
 ## Death to All Who Blather
 
-*Date: 2021-11-26 | Status: Published | Audience: only_paid*
+*Date: 2021-11-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Kill zone steel door*
 
@@ -1112,7 +1112,7 @@ The press conference will take place at noon on Black Friday at [Creative States
 
 ## We must pull the lever!
 
-*Date: 2021-11-27 | Status: Published | Audience: only_paid*
+*Date: 2021-11-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Z and the trolley car problem*
 
@@ -1153,7 +1153,7 @@ Looking on the bright side, this means that if you’re a good journalist in Ukr
 
 ## Riot Division
 
-*Date: 2021-11-28 | Status: Published | Audience: only_paid*
+*Date: 2021-11-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Outfits for Wednesday's overthrow*
 
@@ -1187,7 +1187,7 @@ But about 15 minutes ago, a pair of sweet old ladies came into the room, sat dow
 
 ## Plan A
 
-*Date: 2021-11-29 | Status: Published | Audience: only_paid*
+*Date: 2021-11-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Blast from the past: 8 years ago tomorrow*
 
@@ -1228,7 +1228,7 @@ This is why the Kremlin’s Plan A failed.
 
 ## Z's new clothes
 
-*Date: 2021-11-30 | Status: Published | Audience: everyone*
+*Date: 2021-11-30 | Status: Published | Audience: everyone | Type: newsletter*
 
 *Normal rules no longer apply*
 
@@ -1260,7 +1260,7 @@ After observing everybody else’s reaction to the president’s marathon press 
 
 ## Status Quo Dum Milito
 
-*Date: 2021-12-03 | Status: Published | Audience: only_paid*
+*Date: 2021-12-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *To flirt is divine, but to flirt without regard to your country's security is downright unpatriotic.*
 
@@ -1289,7 +1289,7 @@ I find myself veering away from the usual disjointed diplomatic bushwa about the
 
 ## I Got No Eyelids
 
-*Date: 2021-12-06 | Status: Published | Audience: only_paid*
+*Date: 2021-12-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Lockstep Mosh Pit of Gloom*
 
@@ -1319,7 +1319,7 @@ As far as I can tell, after almost eight years of unremitting Russia attacks, th
 
 ## Requiem for Ukraine?
 
-*Date: 2021-12-07 | Status: Published | Audience: only_paid*
+*Date: 2021-12-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Two fingers in the nostrils and a gentle tug*
 
@@ -1344,7 +1344,7 @@ The very same presumptions of power, the very same claims to a higher purpose, t
 
 ## Fosamax Forever
 
-*Date: 2021-12-09 | Status: Published | Audience: only_paid*
+*Date: 2021-12-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Minsk Dead-end for Ukraine's Brest Truce*
 
@@ -1389,7 +1389,7 @@ At least some of the problems would be behind us today and Ukraine, having tempo
 
 ## Oleksandr Hohilashvili Busted
 
-*Date: 2021-12-13 | Status: Published | Audience: only_paid*
+*Date: 2021-12-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's drug czar self-destructs*
 
@@ -1410,7 +1410,7 @@ Oleksandr is [reportedly](https://ord-ua.com/2021/12/11/gogiashvili-kak-zerkalo-
 
 ## The Fiddler on Ukraine's Roof
 
-*Date: 2021-12-17 | Status: Published | Audience: only_paid*
+*Date: 2021-12-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *דו קענסט נישט אויסשפייען דיין נשמה.*
 
@@ -1431,7 +1431,7 @@ Aleichem is most famous for [Fiddler on the Roof](https://en.wikipedia.org/wiki/
 
 ## A Long-winded Hagiography
 
-*Date: 2021-12-25 | Status: Published | Audience: only_paid*
+*Date: 2021-12-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Informative-sounding hooey*
 
@@ -1457,7 +1457,7 @@ Of the many stains left across the Ukrainian internet by the current crop of Can
 
 ## Your Tongue is Wet
 
-*Date: 2021-12-30 | Status: Published | Audience: only_paid*
+*Date: 2021-12-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
