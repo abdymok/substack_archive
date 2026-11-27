@@ -6132,7 +6132,7 @@ In other news, Kim and Fred have teamed up with IBM and the boys and girls at th
 [Image]
 *Mapping madness at ISW*
 
-Remember David? He’s the US general turned CIA director who jogged too much and [lost his moral compass](https://en.wikipedia.org/wiki/All_In:_The_Education_of_General_David_Petraeus)[1](#footnote-1). US President Barack Obama fired him for the faux pas in 2012, the same year he picked Mike Flynn as the 18th [director of the Defense Intelligence Agency](https://en.wikipedia.org/wiki/Director_of_the_Defense_Intelligence_Agency). It’s been downhill every since.
+Remember David? He’s the US general turned CIA director who jogged too much and [lost his moral compass](https://en.wikipedia.org/wiki/All_In:_The_Education_of_General_David_Petraeus)[1](#footnote-1). US President Barack Obama fired him for the faux pas in 2012, the same year he picked Mike Flynn as the 18th [director of the Defense Intelligence Agency](https://en.wikipedia.org/wiki/Director_of_the_Defense_Intelligence_Agency). It’s been downhill ever since.
 
 [Image]
 
