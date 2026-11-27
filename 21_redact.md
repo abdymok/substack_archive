@@ -99,7 +99,7 @@ My advice is to not eat any of this crap. Stick with WinWay’s dried Papaya sti
 [Image]
 *Photo c/o abdymok*
 
-What links the President of the Ukraine, Volodymyr Zelensky, to protests in Belarus against strongman Aleksander Lukashenko, Russia’s annexation of Crimea and occupation of areas in Donbas?
+What links the President of Ukraine, Volodymyr Zelensky, to protests in Belarus against strongman Aleksander Lukashenko, Russia’s annexation of Crimea and occupation of areas in Donbas?
 
 It’s not difficult to unravel several threads that hold together an extraordinary mystery involving Ukraine’s moron president, Russia’s secret services, conspiracies at the highest level, and at least one moving target, now running for his life with a million dollar price on his head.
 
@@ -322,7 +322,7 @@ Doroshenko: Based on what I’m seeing it’s obvious this will only benefit off
 ```
 
 ```
-Medvechuk: Well, who knows. It’s definitely a serious thing, an international scandal, especially if it happened as a result of someone’s mistake, but I don’t think the plane was deliberately shot down. It was either a mistake or happened out of carelessness. To say that one side or the other deliberately shot down the plane does not hold water.
+Medvedchuk: Well, who knows. It’s definitely a serious thing, an international scandal, especially if it happened as a result of someone’s mistake, but I don’t think the plane was deliberately shot down. It was either a mistake or happened out of carelessness. To say that one side or the other deliberately shot down the plane does not hold water.
 ```
 
 **[37.47]**
@@ -331,9 +331,9 @@ The informed listener can easily fill in the missing elements of the conversatio
 
 One can also deduce that even though Medvedchuk references a “video,” he means the gruesome footage of the plane wreckage, body parts and children’s toys strewn across fields and posted to the Internet.
 
-The ability to fill in missing information, a commonplace in human behavior, has been termed ***analysis by synthesis***by psychologists. it refers to the strategy of internally generating or ***shadowing***what people say (or do) so that we may more easily reduce the number of possibilities to consider.
+The ability to fill in missing information, a commonplace in human behavior, has been termed ***analysis by synthesis*** by psychologists. It refers to the strategy of internally generating or ***shadowing***what people say (or do) so that we may more easily reduce the number of possibilities to consider.
 
-Policy makers in the west should take the time and make full use of their processing capacity to thoroughly examine, accurately translate and correctly date **all** of the intercepted telephone conversations involving Medvedchuk. That way we don’t have to rely on Bihus.info to tell us what was meant by what they reported him as saying.
+Policymakers in the West should take the time and make full use of their processing capacity to thoroughly examine, accurately translate and correctly date **all** of the intercepted telephone conversations involving Medvedchuk. That way we don’t have to rely on Bihus.info to tell us what was meant by what they reported him as saying.
 
 ---
 
@@ -437,7 +437,7 @@ The essence of political activity is revealed when you define its two basic stru
 
 ---
 
-The ***subjectiveness or subjectivity*** (***субъектность)*** [of Ukraine]in recent months has been used repeatedly as an artificial discursive term by Ukraine’s president to describe power-relations and social actions required for conducting foreign policy.
+The ***subjectiveness or subjectivity*** (***субъектность)*** [of Ukraine] in recent months has been used repeatedly as an artificial discursive term by Ukraine’s president to describe power-relations and social actions required for conducting foreign policy.
 
 > Украина приобретает ***субъектность*** в мировой политике, и одним из свидетельств этого является большое количество иностранных делегаций, которые приняли участие в инаугурационном саммите Крымской платформы 23 августа. - President Volodymyr Z during his appearance on 1+1 TV’s Right to Power ([Право на власть](https://www.president.gov.ua/ru/news/volodimir-zelenskij-ya-roblyu-vse-shob-ukrayinu-povazhali-za-70389)) on August 25.
 
@@ -461,7 +461,7 @@ At about 57 minutes into the BELLINGCAT presentation during the Media Developmen
 
 Unfortunately for Z and Grozev, ***subjectiveness*** is the correct translation for the word Z used [***субъектность*****]**.
 
-***Sovereignty*** [***сувернность***] — unlike ***subjectiveness —***neither transcends nor resides in a person, but is a *sequence* of gestures and utterances – a repeated script – performed between those with credible parts to play and with command of the occasions in which to play them. That Z doesn’t know the difference is a problem.
+***Sovereignty*** [***сувернность***] — unlike ***subjectiveness —*** neither transcends nor resides in a person, but is a *sequence* of gestures and utterances – a repeated script – performed between those with credible parts to play and with command of the occasions in which to play them. That Z doesn’t know the difference is a problem.
 
 ---
 
@@ -488,7 +488,7 @@ Known in the underworld as *Kolya the Pump*, *Kolya-Obolonsky* and *Kolya the Po
 
 *Date: 2021-09-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
-*Not to be confused with Operation "Ы\*
+*Not to be confused with Operation "Ы"
 
 *Not to be confused with Operation "Ы"*
 
@@ -498,7 +498,7 @@ Member of Parliament [Mariana Bezuhla](https://itd.rada.gov.ua/mps/info/page/209
 
 The doctor-turned-politician has never served in the military or in Ukraine’s intelligence services, although her Wikipedia [page](https://uk.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D1%83%D0%B3%D0%BB%D0%B0_%D0%9C%D0%B0%D1%80%27%D1%8F%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D0%BD%D0%B0) says she’s traveled to the war front in eastern Ukraine.
 
-Bezhula [for about an hour](https://www.youtube.com/watch?v=jfbuGdt9JlM) on September 10 briefed reporters about a “**special intelligence event**” involving former members of the Wagner Private Military Company (PMC) who were lured to Minsk in July 2020.
+Bezuhla [for about an hour](https://www.youtube.com/watch?v=jfbuGdt9JlM) on September 10 briefed reporters about a “**special intelligence event**” involving former members of the Wagner Private Military Company (PMC) who were lured to Minsk in July 2020.
 
 Unfortunately, her *report* raises more questions than it answered.
 
@@ -568,7 +568,7 @@ According to Bezuhla, **Plan "Г"** *is* the name of a contingency scenario work
 
 The problem is not new. In 1994, Irish economist [William Brian Arthur](https://en.wikipedia.org/wiki/W._Brian_Arthur) defined it as the [El Farol Bar Problem](https://en.wikipedia.org/wiki/El_Farol_Bar_problem), a resource allocation puzzle involving non-cooperating agents where, if everyone uses the same pure strategy, it is guaranteed to fail, no matter what it is. Political upheaval - like a war — just adds another layer of complexity.
 
-The more things change they stay the same. Today a geisha meets you at the entrance to the bar, where little glass shrimp hang down from the ceiling. This is where Belarusian bitumen wholesalers rub shoulders with members of Ukraine’s state railways, investment bankers and mobsters from the country’s impoverished regions. Photographs of the magical food served are posted daily by customers on [Instagram](https://www.instagram.com/fenix.asia/). If you’re lucky, [Mykola the Pork Chop](https://abdymok.substack.com/p/a-man-in-full) might be there.
+The more things change, the more they stay the same. Today a geisha meets you at the entrance to the bar, where little glass shrimp hang down from the ceiling. This is where Belarusian bitumen wholesalers rub shoulders with members of Ukraine’s state railways, investment bankers and mobsters from the country’s impoverished regions. Photographs of the magical food served are posted daily by customers on [Instagram](https://www.instagram.com/fenix.asia/). If you’re lucky, [Mykola the Pork Chop](https://abdymok.substack.com/p/a-man-in-full) might be there.
 
 [Image]
 *For more than a half century, this venue with its special aura was constantly updated, each time born again in a new quality. And now... Can you hear it? It is the fluttering of feathers of the legendary Phoenix, which melts into a world of contrasts and gastronomical metaphors. It says the time has come to enter a new epoch. The flight to success begins on our two strong wings.....*
@@ -601,16 +601,16 @@ It’s a screenshot of the nut graph of an [article](https://l.facebook.com/l.ph
 
 *Date: 2021-10-19 | Status: Published | Audience: everyone | Type: newsletter*
 
-*All multiple possible outcomes look bad*
+*All possible outcomes look bad*
 
 [Image]
 *Photo c/o abdymok (October 18, 2021)*
 
 *The competition between paradigms is not the sort of battle that can be resolved by proofs.* - [Thomas Kuhn](https://en.wikipedia.org/wiki/Thomas_Kuhn)
 
-If everyone had a their own personal investment adviser and they all predicted large transactions in Ukraine’s financial sector during 2021 then nobody would buy anything.
+If everyone had their own personal investment adviser and they all predicted large transactions in Ukraine’s financial sector during 2021 then nobody would buy anything.
 
-The forecast would be automatically negated by critics who say the exact opposite. It's a kind of liar's paradox for economists who think its a better idea to take an inductive approach to buying and selling assets of a country in time of war.
+The forecast would be automatically negated by critics who say the exact opposite. It's a kind of liar's paradox for economists who think it's a better idea to take an inductive approach to buying and selling assets of a country in a time of war.
 
 The economy in Ukraine, like anywhere else, is the set of ongoing arrangements market players make. The operative word is ***ongoing***  - because the situation keeps on changing. It's the arrangements and actions taken to fulfil needs. It could be barter, Donbas cash-for-coal deals on the contact line, or it could be a villager engaged in subsistence farming who doesn't want to sell his land plot to the nearby factory that makes chicken feed.
 
@@ -620,7 +620,7 @@ It's not just complicated. It's complex.
 
 An example that's totally trivial is the Russia-owned Prominvestbank (PIB), which loaned hundreds of millions of dollars to corrupt Kremlin-friendly Ukrainian state monopolies during the 2000s.
 
-In March 2020, Ukraine’s Justice Ministry sold 99.8% of PIB shares on the Ukraine’s PFTS Stock Exchange to Russia’s state-owned VEB (Vneshekonombak), bypassing the decision of Stockholm arbitration and the standards of the National Bank of Ukraine.
+In March 2020, Ukraine’s Justice Ministry sold 99.8% of PIB shares on Ukraine’s PFTS Stock Exchange to Russia’s state-owned VEB (Vneshekonombak), bypassing the decision of Stockholm arbitration and the standards of the National Bank of Ukraine.
 
 The PIB asset essentially became “suitcase without a handle” after the deal because the bank’s new management tried to aggressively collect collateral and not engage in classic banking. VEB will eventually have to sue in international arbitration if it wants to get any of its money back.
 
