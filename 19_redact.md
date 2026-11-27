@@ -6,7 +6,7 @@
 
 ## ukraine is the new china
 
-*Date: 2019-01-25 | Status: Published | Audience: only_paid*
+*Date: 2019-01-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *industrial outsourcing center of the world*
 
@@ -16,7 +16,7 @@
 
 ## who started the violence on march 9?
 
-*Date: 2019-01-28 | Status: Published | Audience: only_paid*
+*Date: 2019-01-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *not surprisingly, both demonstrators and police blame the other side. in reality, it’s not quite that simple.*
 
@@ -74,7 +74,7 @@ but that’s another story.
 
 ## repression, recession, depression
 
-*Date: 2019-01-29 | Status: Published | Audience: only_paid*
+*Date: 2019-01-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *jacobin magazine on january 27, 2019 published a curious interview with kyiv-based sociologist volodymyr ishchenko, titled ukraine on the…*
 
@@ -134,7 +134,7 @@ i would argue, as has [imf group ukraine](http://imfgroup.com.ua/en/), that left
 
 ## A noble resignation
 
-*Date: 2019-02-07 | Status: Published | Audience: only_paid*
+*Date: 2019-02-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Maksym Martyniuk*
@@ -159,7 +159,7 @@ The European Court of Human Rights on May 22, 2018 [recognized](http://bit.ly/2D
 
 ## staying tuned …
 
-*Date: 2019-03-02 | Status: Published | Audience: only_paid*
+*Date: 2019-03-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -183,7 +183,7 @@ lesya hasn’t made the archive public yet, so we have to rely on her and bihus.
 
 ## round #1: ukraine presidential elex
 
-*Date: 2019-03-31 | Status: Published | Audience: only_paid*
+*Date: 2019-03-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *poroshenko, zelensky, tymoshenko: 25%, 23%, 17%, respectively.*
 
@@ -211,7 +211,7 @@ results of ukraine’s six previous presidential elections:
 
 ## z and the golden pyramid guy
 
-*Date: 2019-04-06 | Status: Published | Audience: only_paid*
+*Date: 2019-04-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *coming out with dmytro gordon*
 
@@ -249,7 +249,7 @@ z comes across as a likeable guy with many interesting stories. he tells the pyr
 
 ## It doesn’t look good for Ze
 
-*Date: 2019-04-14 | Status: Published | Audience: only_paid*
+*Date: 2019-04-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Thin-skinned draft dodger hangs up before run-off*
 
@@ -323,7 +323,7 @@ So far, that’s Ze.
 
 ## in defense of z
 
-*Date: 2019-04-21 | Status: Published | Audience: only_paid*
+*Date: 2019-04-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *dialectical discourse has died in the land of z, where thesis and its antithesis are now irrelevant.*
 
@@ -351,7 +351,7 @@ the most important thing is that z *knows* what he wants to say. that he’s inc
 
 ## The 'Civil War' is Over
 
-*Date: 2019-04-26 | Status: Published | Audience: only_paid*
+*Date: 2019-04-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Putin decree ends so-called rebellion*
 
@@ -373,7 +373,7 @@ If journalists want to substitute Moscow’s judgement of the situation, then th
 
 ## ukraine-clinton collusion case
 
-*Date: 2019-04-26 | Status: Published | Audience: only_paid*
+*Date: 2019-04-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *american leader promises investigation*
 
@@ -403,7 +403,7 @@ manafort resigned as trump’s campaign manager in august 2016 after his connect
 
 ## rudy’s ukraine problem just got worse
 
-*Date: 2019-05-14 | Status: Published | Audience: only_paid*
+*Date: 2019-05-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *nazar, rudy and charlie ( http://bit.ly/2Qiswgf )*
@@ -467,7 +467,7 @@ why aren’t american media reporting about this?
 
 ## it’s a mad mad world (cont’d)
 
-*Date: 2019-10-19 | Status: Published | Audience: only_paid*
+*Date: 2019-10-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *rudy’s defense: soros did it*
 
@@ -495,7 +495,7 @@ the u.s. president, u.s. secretary of state, u.s. energy secretary and u.s. amba
 
 ## foggy bottom rises
 
-*Date: 2019-10-24 | Status: Published | Audience: only_paid*
+*Date: 2019-10-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *polo bunnies versus cookie pushers*
 
@@ -517,7 +517,7 @@ guiliani says he was remunerated this summer for an unrelated job by two south f
 
 ## exhibit a: agrarian fund
 
-*Date: 2019-10-29 | Status: Published | Audience: only_paid*
+*Date: 2019-10-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *how ukraine’s agrarian fund became the target of ‘grey cardinals’ from the yanukovych era*
 
@@ -600,7 +600,7 @@ there is one aspect of this story which remains a mystery. why did timofiy mylov
 
 ## how we got here
 
-*Date: 2019-11-21 | Status: Published | Audience: only_paid*
+*Date: 2019-11-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *team trump goes to jail*
 
