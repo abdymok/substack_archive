@@ -1652,7 +1652,7 @@ Moral of this story: Run for the hills.
 
 [Image]
 
-President Volodymyr Zelensky has emerged from the current stage of the epidemic as the popular paragon of political sloppiness and goonery. If we enter the *next* wave of Ukraine’s COVID-19 disaster with same greasy clown in charge, all hell might break loose.
+President Volodymyr Zelensky has emerged from the current stage of the epidemic as the popular paragon of political sloppiness and goonery. If we enter the *next* wave of Ukraine’s COVID-19 disaster with the same greasy clown in charge, all hell might break loose.
 
 Imagine the plight of Zelensky’s speechwriters. Putting words in the mouth of a man whose hole already overflows with words of his own must be frustrating.
 
@@ -1682,9 +1682,9 @@ cf. [The Death of Healthcare Reform c/o Ze](https://nv.ua/opinion/zelenskiy-i-me
 
 [Image]
 
-More six years since the start of the revolution of dignity, Ukraine remains a **sham democracy**. It is a primitive post-soviet feudal autocracy. Democracy here is not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of democracy would not exist.
+More than six years since the start of the revolution of dignity, Ukraine remains a **sham democracy**. It is a primitive post-soviet feudal autocracy. Democracy here is not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of democracy would not exist.
 
-Dialectical discourse is dead. In Ukraine *thesis*and its *antithesis* are irrelevant. The Hegelian approach no longer applies. Evolving real ideas is passé. Reality is no longer expressed in rational categories.
+Dialectical discourse is dead. In Ukraine *thesis* and its *antithesis* are irrelevant. The Hegelian approach no longer applies. Evolving real ideas is passé. Reality is no longer expressed in rational categories.
 
 The country’s president is a proud ignoramus. He did not prepare a platform to run on, acquaint himself with international leaders or foreign policy matters or otherwise prepare himself to govern.
 
@@ -1742,7 +1742,7 @@ The lawmaker reiterated that if the parliamentary mono-majority wants "political
 
 It’s day whatever of Ukraine’s COVID-19 disaster and the health minister [wants to reorganize](https://www.pravda.com.ua/news/2020/05/8/7250888/) [the country’s medical system](https://www.pravda.com.ua/news/2020/05/8/7250888/). Kill me.
 
-The changes floated by Maksym Stepanov’s appear especially irrelevant to today’s problems.  Maybe he should concentrate first on preventing unnecessary deaths during the epidemic? How about [preventing doctors from getting sick](https://nv.ua/ukraine/events/koronavirus-v-ukraine-stremitelno-rastet-chislo-zarazhennyh-medikov-novosti-ukrainy-50086974.html)?
+The changes floated by Maksym Stepanov appear especially irrelevant to today’s problems.  Maybe he should concentrate first on preventing unnecessary deaths during the epidemic? How about [preventing doctors from getting sick](https://nv.ua/ukraine/events/koronavirus-v-ukraine-stremitelno-rastet-chislo-zarazhennyh-medikov-novosti-ukrainy-50086974.html)?
 
 While the number of confirmed cases in recent days has plateaued amid attempts by Ze!Team to re-open the country for business, we can’t pay too much attention to the horribleness of the grisly deaths the country’s leaders have already failed to prevent.
 
@@ -1760,13 +1760,13 @@ Ukrainian government and public health officials still lack information to take 
 
 As of this writing, the [most accurate source](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Ukraine) of information about the epidemic is Wikipedia.
 
-Stepanov replaced Illia Yermak, [a Yanukovych-era hack](https://abdymok.substack.com/p/indidious-blandishments), as health minister in late March. One of his first \*аccomplishments\* was to [secure](https://moz.gov.ua/article/news/ukraina-otrimae-dodatkovi-320-tisjach-tabletok-gidroksihlorohinu-dlja-likuvannja-hvorih-na-covid-19) 320,000 hydroxychloroquine pills and suggested them as effective treatment for COVID-19.
+Stepanov replaced Illia Yemets, [a Yanukovych-era hack](https://abdymok.substack.com/p/indidious-blandishments), as health minister in late March. One of his first \*аccomplishments\* was to [secure](https://moz.gov.ua/article/news/ukraina-otrimae-dodatkovi-320-tisjach-tabletok-gidroksihlorohinu-dlja-likuvannja-hvorih-na-covid-19) 320,000 hydroxychloroquine pills and suggested them as effective treatment for COVID-19.
 
 According to a [study](https://www.nejm.org/doi/full/10.1056/NEJMoa2012410?query=featured_home) published on May 7 in the New England Journal of Medicine, the anti-Malaria drug ***does not*** lower the risk of dying or needing a breathing tube. The drug has potentially serious side effects, including altering the heartbeat in a way that could lead to sudden death.
 
 Stepanov is a gynecologist turned gas trader cum Ihor Kolomoisky [flunky](https://abdymok.substack.com/p/stepanov-from-gynecology-to-gas).
 
-The 45-year old Russia native was born in the town of Skovorodino in Amur, but he grew up in Slovyansk, Donetsk.
+The 45-year-old Russia native was born in the town of Skovorodino in Amur, but he grew up in Slovyansk, Donetsk.
 
 - 1998 - Graduated from Donetsk Medical University, specializing in gynecology
 - 1999-2001 - Deputy General Director, "Gas of Ukraine" (Naftogaz Ukrainy)
@@ -1851,17 +1851,17 @@ And recall what President Volodymyr Zelensky [said](https://www.president.gov.u
 
 Almost all models, in fact, involve false claims. Ukraine is not Poland. Ukraine is not Sweden. Ukraine is not Spain. Rinse, repeat. [Lebanon](https://wapo.st/2AfObBx), perhaps?
 
-So far, the [models](http://files.nas.gov.ua/PublicMessages/Documents/0/2020/05/20050616351228-138.pdf?fbclid=IwAR2pllsnvtGGS8E3RDai9wY90SudCvQDoSE6vLFE5MsqzYOmIMNghcBom2A)referred to by politicians for predicting when it will be safe to rub noses again have been self-serving and unconvincing.
+So far, the [models](http://files.nas.gov.ua/PublicMessages/Documents/0/2020/05/20050616351228-138.pdf?fbclid=IwAR2pllsnvtGGS8E3RDai9wY90SudCvQDoSE6vLFE5MsqzYOmIMNghcBom2A) referred to by politicians for predicting when it will be safe to rub noses again have been self-serving and unconvincing.
 
 [Image]
 
-For the exposition of the mathematics involved, very little in the way of prerequisites is needed - which is not to say that the models Ukraine’s epedimiologists cum politicians are using are easy to understand. For someone who just wants to get an idea what is going on, without investing a lot of time in checking their validity, the models can be skipped without losing the drift of the ideas, if there are any.
+For the exposition of the mathematics involved, very little in the way of prerequisites is needed - which is not to say that the models Ukraine’s epidemiologists cum politicians are using are easy to understand. For someone who just wants to get an idea what is going on, without investing a lot of time in checking their validity, the models can be skipped without losing the drift of the ideas, if there are any.
 
 Ukraine’s COVID-19 disaster has given top politicians practice to see for themselves, er, like, “Oh, I made some simplified assumptions. That wasn’t a problem. That’s what allowed me to get the answer.” It has immunized them in some sense to certain kinds of spurious skeptical attacks, like Nazar’s 11-minute YouTube clip above.
 
 [Image]
 
-Unfortunately, this kind of non-thinking has left us in the group of countries that [need to take action](https://bit.ly/2LnJ9Fx) to mitigate COVID-19 spread. Maybe the Ukraine’s top doctors are correct, or maybe they are poorly coordinated agents with bad ideas. The decision to ease quarantine measures, forgo mass testing, isolation and tracing indicates the latter.
+Unfortunately, this kind of non-thinking has left us in the group of countries that [need to take action](https://bit.ly/2LnJ9Fx) to mitigate COVID-19 spread. Maybe Ukraine’s top doctors are correct, or maybe they are poorly coordinated agents with bad ideas. The decision to ease quarantine measures, forgo mass testing, isolation and tracing indicates the latter.
 
 Ukraine today is not unlike the [Mohist](https://plato.stanford.edu/entries/mohism/) equivalent of the trolley problem. Z has told us, “We must pull the lever,” but he had already driven the country into a double-tracked curve in such a way that the rear wheel bogey jumped the rails and flattened the economy while simultaneously failing to prevent the grisly deaths of innocent civilians.
 
