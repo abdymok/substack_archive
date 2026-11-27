@@ -397,7 +397,7 @@ Policy makers in the West should take the time and make full use of their proces
 
 *Date: 2020-03-17 | Status: Published | Audience: only_paid*
 
-*Zelensky loyalist appointed Ukraine's Prosecutor General*
+*Z loyalist appointed Ukraine's Prosecutor General*
 
 [Image]
 
@@ -695,7 +695,7 @@ Looking on the bright side, some Kyiv insiders offer a less gruesome explanation
 
 ---
 
-## Zelensky Wants to End a War
+## Z Wants to End a War
 
 *Date: 2020-03-21 | Status: Published | Audience: only_paid*
 
@@ -763,7 +763,7 @@ There will be no census this year. And there will be no census next year, irresp
 
 *Date: 2020-03-23 | Status: Published | Audience: only_paid*
 
-*COVID-19 under Zelensky*
+*COVID-19 under Z*
 
 [[Image]](https://substackcdn.com/image/fetch/$s_!hJtN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1a7a2a0-a031-4163-9840-db0443d29ab5_960x584.jpeg)
 
@@ -1302,7 +1302,7 @@ Rather than testing the tens of thousands of Ukrainians returning from Europe, t
 
 *Date: 2020-04-15 | Status: Published | Audience: only_paid*
 
-*Zelensky to be remembered for grisly deaths he failed to prevent*
+*Z to be remembered for grisly deaths he failed to prevent*
 
 [Image]
 
@@ -1420,7 +1420,7 @@ As of this writing, the result isn't unlike a [horrible accident](https://abdymo
 
 *Date: 2020-04-18 | Status: Published | Audience: only_paid*
 
-*Volodymyr Zelensky thinks he's doing a great job*
+*Volodymyr Z thinks he's doing a great job*
 
 [Image]
 
@@ -1507,7 +1507,7 @@ In related news, the SBU State Security Service has [closed down](https://www.ss
 
 ---
 
-## What's That Stuck to Zelensky's Ass?
+## What's That Stuck to Z's Ass?
 
 *Date: 2020-04-25 | Status: Published | Audience: only_paid*
 
@@ -1578,7 +1578,7 @@ In other news, there’s a hole in the bucket. Six of them, actually, punched wi
 
 *Date: 2020-04-30 | Status: Published | Audience: only_paid*
 
-*Zelensky wants to know how many people need to die to shore up the economy*
+*Z wants to know how many people need to die to shore up the economy*
 
 [[Image]](https://substackcdn.com/image/fetch/$s_!r_TJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ace4c93-1655-4959-b336-5fd54332e7aa_1273x1280.jpeg)
 
@@ -2153,7 +2153,7 @@ Recall what Z [said](https://www.president.gov.ua/en/news/glava-derzhavi-postav
 
 *Date: 2020-05-20 | Status: Published | Audience: only_paid*
 
-*President Volodymyr Zelensky's ineffable communication failure*
+*President Volodymyr Z's ineffable communication failure*
 
 [[Image]](https://substackcdn.com/image/fetch/$s_!LdYv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8a70a73-1512-4a88-bb53-4d32efd3a73a_940x747.png)
 
@@ -2185,7 +2185,7 @@ Roman Skrypin provides additional nuance for foreign Ukraine experts here:
 
 *Date: 2020-05-21 | Status: Published | Audience: only_paid*
 
-*Zelensky and the roots of logical positivism*
+*Z and the roots of logical positivism*
 
 [[Image]](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Ukraine)
 
@@ -2426,7 +2426,7 @@ Lest we forget:
 
 *Date: 2020-05-28 | Status: Published | Audience: only_paid*
 
-*Ukraine under Zelensky deserves zero American taxpayer support*
+*Ukraine under Z deserves zero American taxpayer support*
 
 [[Image]](https://www.pravda.com.ua/rus/news/2020/05/27/7253467/)
 
@@ -2905,7 +2905,7 @@ The result isn't unlike a horrible accident, except it’s been caused by an une
 
 *Date: 2020-07-01 | Status: Published | Audience: only_paid*
 
-*Zelensky re-tests old adage that absolute power corrupts absolutely*
+*Z re-tests old adage that absolute power corrupts absolutely*
 
 [Image]
 
@@ -2990,7 +2990,7 @@ Both Marchenko and Ustenko failed to identify the Eurobond traders left in the l
 
 *Date: 2020-07-04 | Status: Published | Audience: only_paid*
 
-*"Systemic political pressure" forces Yakiv Smolii to resign*
+*"Systemic political pressure" forces Yakiv Smoliy to resign*
 
 [[Image]](https://substackcdn.com/image/fetch/$s_!RZBj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1071899a-49bf-40b4-a7f1-9adf8d004226_2048x1366.jpeg)
 
@@ -3281,7 +3281,7 @@ This walking around drunk in underwear trend is apparently widespread.
 
 ---
 
-## Zelensky and Shevchenko
+## Z and Shevchenko
 
 *Date: 2020-07-20 | Status: Published | Audience: only_paid*
 
@@ -3485,7 +3485,7 @@ That means it’s okay if the new rulers in Minsk establish an extraordinary mil
 
 *Date: 2020-08-10 | Status: Published | Audience: only_paid*
 
-*Zelensky calls on Belarusian strongman to be more tolerant*
+*Z calls on Belarusian strongman to be more tolerant*
 
 [[Image]](https://substackcdn.com/image/fetch/$s_!NjI-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7cac6bd-8722-4d81-8b9a-1fcdb55a512c_1043x695.jpeg)
 
@@ -4744,7 +4744,7 @@ Detailed instructions are available on the Internet.
 
 ---
 
-## Zelensky's Covid-19 Disaster
+## Z's Covid-19 Disaster
 
 *Date: 2020-09-30 | Status: Published | Audience: only_paid*
 
@@ -4842,7 +4842,7 @@ cf. [Thug Life](https://abdymok.substack.com/p/thug-life) (May 6, 2020)
 
 ---
 
-## Zelensky's 'Second Wave'
+## Z's 'Second Wave'
 
 *Date: 2020-10-08 | Status: Published | Audience: only_paid*
 
@@ -4878,7 +4878,7 @@ The result isn't unlike a horrible accident, except it’s been caused by an une
 
 *Date: 2020-10-20 | Status: Published | Audience: only_paid*
 
-*Zelensky wants you to ignore his pandemic failure*
+*Z wants you to ignore his pandemic failure*
 
 [[Image]](https://bit.ly/3dL5j1J)
 
@@ -4934,7 +4934,7 @@ Which brings us to the Zollman Effect, which posits that groups with more networ
 
 ---
 
-## What Biden's Win Means for Zelensky
+## What Biden's Win Means for Z
 
 *Date: 2020-11-05 | Status: Published | Audience: only_paid*
 
@@ -4956,7 +4956,7 @@ They lied.
 
 ---
 
-## Zelensky's Zoom Bubble
+## Z's Zoom Bubble
 
 *Date: 2020-11-13 | Status: Published | Audience: only_paid*
 
