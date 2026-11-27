@@ -3471,7 +3471,7 @@ Fame and fortune awaits whoever in Moscow, Kyiv or Minsk can pull it off before 
 
 It will take weeks, maybe a couple more months, before the 26-year reign of Alexander Lukashenko ends and angry Belarusians either arrest him or kick him out of the country.
 
-That’s the good news. The bad news is western policy makers are still confused about whether preserving Belarus’s sovereignty should take precedence over observing human rights and whether to hold Lukashenko personally responsible for murdering his political opponents and various other crimes.
+That’s the good news. The bad news is Western policymakers are still confused about whether preserving Belarus’s sovereignty should take precedence over observing human rights and whether to hold Lukashenko personally responsible for murdering his political opponents and various other crimes.
 
 As we learned in Romania, pitting national sovereignty against human rights is a ***false*** contradiction and it is counterproductive. Human rights are the cornerstone underpinning the rule of law and state sovereignty.
 
@@ -3495,7 +3495,7 @@ Ukraine’s moron President Volodymyr Zelensky has [spoken out on Facebook](http
 
 > “Our neighbors in Belarus are going through difficult times now. They are trying to determine the vector of their further development. And this is very difficult. It is already obvious that not everyone in the country agrees with the announced preliminary election results. And, as you know, any legitimacy arises solely from public trust, exclusively from trust. Doubts (about the election results) on such a large scale is a direct path to violence, to conflict, to public protest, which is growing. This is now what we are seeing, unfortunately,” Zelensky [said](https://www.facebook.com/zelenskiy95/posts/2601470510103309) on Facebook.
 
-Zelensky called on Belarus to maximize tolerance, and rejection of street violence.
+Zelensky called on Belarus to show maximum tolerance and reject street violence.
 
 > "We call for the most open, albeit difficult, dialogue. Because only a broad dialogue will allow the citizens of Belarus to get out of a difficult crisis situation and honestly discuss further steps and formats of public interaction. Only mutual understanding between all parties can preserve the country's independence and ensure its further movement towards freedom and democracy. Otherwise, the escalation of violence will grow, and this is fraught with very bitter consequences," Zelensky [said](https://www.facebook.com/zelenskiy95/posts/2601470510103309).
 
@@ -3578,7 +3578,7 @@ The comparison between the demise of the Lukashenko and Tsapok clans will be los
 
 In a nutshell, Pastukhov says Lukashenko is doomed because he violated the basic tenet of a civilized society - raising his hand against a mother, in this case, Svetlana Tikhanovskaya, Belarusian presidential candidate and symbol of today’s nationwide protest. The Tsapok clan in Kushchevka, Krasnodar (Russia) made the same mistake in the ultra-bloody [Kushchyovskaya massacre](https://en.sledcom.ru/press/smi/item/507136/) in 2010 by stabbing innocent women, children and bystanders in a turf battle.
 
-**Moral of the story:** It’s a no no to terrorize or murder female non-combatants in Slavic nations, just like in Ireland and most civilized countries.
+**Moral of the story:** It’s a no-no to terrorize or murder female non-combatants in Slavic nations, just like in Ireland and most civilized countries.
 
 ---
 
@@ -3596,9 +3596,9 @@ In a nutshell, Pastukhov says Lukashenko is doomed because he violated the basic
 
 It’s day whatever of Ukraine’s COVID-19 disaster and it’s obvious something has gone horribly wrong.
 
-The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) in over the six months have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) whacko algorithms, [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
+The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) over the six months have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) whacko algorithms, [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
 
-The result isn't unlike a horrible accident, except it’s been caused by an former comedian actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a victim.
+The result isn't unlike a horrible accident, except it’s been caused by a former comedian and actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a victim.
 
 ---
 
@@ -3660,11 +3660,11 @@ Wanna-be Belarus experts should chat up Yury and maybe think twice about citing 
 
 As I recall, independent Belarusian television died a violent death during 1996. They were either turned into vomit bags for the self-proclaimed president or were closed down over the next couple of years.
 
-It took much longer to kill off the most successful independent radio stations and newspapers. That task was largely accomplished in by the early 2000s, although a back door to the IP backbone provided a haven for some (until the KGB took it over).
+It took much longer to kill off the most successful independent radio stations and newspapers. That task was largely accomplished by the early 2000s, although a back door to the IP backbone provided a haven for some (until the KGB took it over).
 
 Most *alternative* (to state-controlled electronic media) has for the last decade or so operated outside the country. Thankfully, not so with Telegram and new messaging services, like Viber.
 
-Reports that Russians are being flown into Minsk to replace striking technicians at Belarusian state television channels (BT/ONT) is interesting. And ominous.
+Reports that Russians are being flown into Minsk to replace striking technicians at Belarusian state television channels (BT/ONT) are interesting. And ominous.
 
 ---
 
@@ -3672,13 +3672,13 @@ Reports that Russians are being flown into Minsk to replace striking technicians
 
 *Date: 2020-08-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
-*Daily reported cases of disease sets new record*
+*Daily reported cases of disease set a new record*
 
 [Image]
 
 It’s day whatever of Ukraine’s COVID-19 disaster and it’s obvious something has gone horribly wrong.
 
-The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) in over the seven months have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) whacko algorithms, [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
+The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) over the seven months have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) whacko algorithms, [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
 
 The result isn't unlike a horrible accident, except it’s been caused by an former comedian actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a victim.
 
@@ -3698,7 +3698,7 @@ Recall what President Volodymyr Zelensky [said](https://www.president.gov.ua/en
 
 [Image]
 
-It’s too bad most Americans don’t understand German and what former U.S. National Security Advisor John Bolton [said](https://www.puls24.at/video/john-bolton-mit-trump-gibt-es-keine-regeln/short) in an interview with Austria’s Puls 24 TV on August 19.
+It’s too bad most Americans don’t understand German or what former U.S. National Security Advisor John Bolton [said](https://www.puls24.at/video/john-bolton-mit-trump-gibt-es-keine-regeln/short) in an interview with Austria’s Puls 24 TV on August 19.
 
 > “I can't even count how many times I had to explain to him (Trump) why the Korean Peninsula was divided in 1945. It was the same with Ukraine, which, in his opinion, is essentially a part of Russia,” Bolton [said](https://www.puls24.at/video/john-bolton-mit-trump-gibt-es-keine-regeln/short).
 
@@ -3736,7 +3736,7 @@ It doesn’t appear that political leaders and policy makers in the EU, especial
 
 A ***[power law](https://en.wikipedia.org/wiki/Power_law#:~:text=In%20statistics%2C%20a%20power%20law,as%20a%20power%20of%20another.)***is characterized by the fact that what happens at one scale is exactly the same as what happens at another scale. It’s just twice, or half, as much. Things like earthquakes or forest fires follow a power law, or might follow an approximate power law, because the consequence is scale-free: what happens at a certain size is the same as what’s happening at another, just different, scale.
 
-The idea of scale-free is a very powerful thing in science, and particularly in physics, because that is the distribution that occurs when a system tends to be near some kind of ***[phase transition](https://en.wikipedia.org/wiki/Phase_transition)***, the so called transition between system behaviors.
+The idea of scale-free is a very powerful thing in science, and particularly in physics, because that is the distribution that occurs when a system tends to be near some kind of ***[phase transition](https://en.wikipedia.org/wiki/Phase_transition)***, the so-called transition between system behaviors.
 
 When you talk about earthquakes or forest fires having distributions of sizes and of events that are characteristic of phase transitions it’s not because they are literally undergoing a transition from one phase to another. **They are perpetually stuck between them, agglomerating and dissipating, coalescing and fragmenting**, **growing and collapsing**.
 
