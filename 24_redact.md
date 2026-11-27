@@ -8742,7 +8742,7 @@ One more military airport in Russia goes up in smoke.
 
 [Image]
 
-A suspicious looking man with cotton in his ear wearing white sneakers in front of Ukraine’s Security Service HQ, probably a drug dealer, clutches his Iphone. The beard looks fake.
+A suspicious looking man with cotton in his ear wearing white sneakers in front of Ukraine’s Security Service HQ, probably a drug dealer, clutches his iPhone. The beard looks fake.
 
 ---
 
