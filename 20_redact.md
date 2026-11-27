@@ -1063,7 +1063,7 @@ As of March 31, only about 3,000 Ukrainians have been tested for the COVID-19 vi
 
 He added that local hospitals are not ready for the outbreak.
 
-“Other countries are converting stadiums and shopping malls into hospitals. We don’t even have spare beds, bedding and matrasses, not to mention medicine and professional equipment,” he said.
+“Other countries are converting stadiums and shopping malls into hospitals. We don’t even have spare beds, bedding and mattresses, not to mention medicine and professional equipment,” he said.
 
 It’s the same story in several villages in Ternopil and Cherkasy regions. Efforts have been made to keep the truth away from inhabitants of these places, but it comes back again and again, to grieve for everybody. Drinking is no help.
 
@@ -1085,9 +1085,9 @@ The chiefs of staff of Ukraine’s presidents since 1999 (Medvedchuk, Tabachnyk,
 
 There was no reason for Andriy Yermak, recently appointed Volodymyr Zelensky’s chief of staff, to buy an expensive Mercedes immediately after meeting with Russian President Vladimir Putin’s representative in Minsk. Out of decency, at least, he should have waited several months.
 
-In ultra-competitive Ukraine-style politics, the country’s new masters of the universe, including the political hucksters who do business in Courshevel, regard Yermak as a key policy maker, a powerful person with Zelensky’s ear who can solve problems the president does not understand.
+In ultra-competitive Ukraine-style politics, the country’s new masters of the universe, including the political hucksters who do business in Courchevel, regard Yermak as a key policy maker, a powerful person with Zelensky’s ear who can solve problems the president does not understand.
 
-The conflict with Member of Parliament (Servant of the People faction) Geo Leros, who on Sunday posted video clips to Facebook showing Yermak’s brother Denys selling government jobs, is instructive. Subsequent attempts to smear Leros, presenting him as either Jewish or Armenian, might backfire. Recall omnipotent Interior Minister Arsen Avakov and Ukraine’s Armenian diaspora or Ihor Kolomoisky’s jewishness. Neither will appreciate playing the ethnicity card for what should be obvious reasons.
+The conflict with Member of Parliament (Servant of the People faction) Geo Leros, who on Sunday posted video clips to Facebook showing Yermak’s brother Denys selling government jobs, is instructive. Subsequent attempts to smear Leros, presenting him as either Jewish or Armenian, might backfire. Recall omnipotent Interior Minister Arsen Avakov and Ukraine’s Armenian diaspora or Ihor Kolomoisky’s Jewishness. Neither will appreciate playing the ethnicity card for what should be obvious reasons.
 
 Ukraine’s law-enforcement agencies need to interrogate Andriy and Denys Yermak often and thoroughly about selling government posts.
 
@@ -1119,7 +1119,7 @@ Meanwhile, police and National Guard troops have been deployed at bus stops and 
 
 **Kyiv update**
 
-The number of cases of coronavirus (COVID-19) cases in Kyiv over the past day has increased by 28 and totals 189. Three patients have died.
+The number of coronavirus (COVID-19) cases in Kyiv over the past day has increased by 28 and totals 189. Three patients have died.
 
 Of the new patients, 13 were hospitalized and the rest at home in self-isolation.
 
@@ -1143,7 +1143,7 @@ Parliament on March 30, 2020 approved the candidacy of Maxym Stepanov for the po
 
 Initially, only 217 MPs voted in favor of the appointment, [nine votes short](http://w1.c1.rada.gov.ua/pls/radan_gs09/ns_golos?g_id=4792) of the 226 simple majority required. More than a dozen Servant of the People and Opposition Bloc - For Life MPs [changed their minds](http://w1.c1.rada.gov.ua/pls/radan_gs09/ns_golos?g_id=4805) in a second vote held later in the day. No MPs from European Solidarity, Batkivshchyna and Holos supported his candidacy.
 
-The 45-year old Russia native was born in the town of Skovorodino in Amur, but he grew up in Slovyansk, Donetsk.
+The 45-year-old Russia native was born in the town of Skovorodino in Amur, but he grew up in Slovyansk, Donetsk.
 
 - 1998 - Graduated from Donetsk Medical University, specializing in gynecology
 - 1999-2001 - Deputy General Director, "Gas of Ukraine" (Naftogaz Ukrainy)
@@ -1156,7 +1156,7 @@ The 45-year old Russia native was born in the town of Skovorodino in Amur, but h
 
 Stepanov is buddies with MP Ihor Palytsia, a crony of billionaire Ihor Kolomoisky, who headed Odesa’s RSA in 2014.  Palytsia was elected to parliament in 2019. He is currently a member of Kolomoisky’s For the Future MP group.
 
-In 2017 Stepanov lobbied the interests of [Link-Medital LLC](https://dozorro.org/profile/UA-EDR-37202693/4/role2) a murky pharmaceutical wholesaler and BeSmart, a dubious online education platform promoted by Ukraine’s Education Ministry to help kids get better scores on standardized tests. Rights to the BeSmart belong to [Eduget LLC](https://youcontrol.com.ua/ru/catalog/company_details/39765361/), which is partially owned by Stepanov and his wife.
+In 2017 Stepanov lobbied the interests of [Link-Medital LLC](https://dozorro.org/profile/UA-EDR-37202693/4/role2), a murky pharmaceutical wholesaler and BeSmart, a dubious online education platform promoted by Ukraine’s Education Ministry to help kids get better scores on standardized tests. Rights to the BeSmart belong to [Eduget LLC](https://youcontrol.com.ua/ru/catalog/company_details/39765361/), which is partially owned by Stepanov and his wife.
 
 Poroshenko dismissed Stepanov as Odesa RSA head on the eve of the presidential election in 2019, a decision criticized by Interior Minister Arsen Avakov.
 
@@ -1284,7 +1284,7 @@ The deputy minister in the interview blamed hiccups in Ukraine’s response to C
 
 **Recall what Liashko said on March 30 about testing.**
 
-> “Why aren’t we conducting massive testing? Because it doesn’t make any sense, due to the ‘incubation period’ of the virus. To do so would not make economic or epidemiological sense,” Liashko[said](https://interfax.com.ua/news/general/650924.html) then.
+> “Why aren’t we conducting massive testing? Because it doesn’t make any sense, due to the ‘incubation period’ of the virus. To do so would not make economic or epidemiological sense,” Liashko [said](https://interfax.com.ua/news/general/650924.html) then.
 
 Rather than testing the tens of thousands of Ukrainians returning from Europe, these people will be quarantined for observation, he said.
 
@@ -1314,7 +1314,7 @@ But sometimes he makes good lists. Take, for example, the following paragraph in
 
 Kowtowing to Putin, rearranging the Cabinet and prosecuting former President Petro Poroshenko - and now Tetyana Chornovol - have indeed tarnished Zelensky’s credentials among Ukraine’s partners. But future generations of Ukrainians will likely most revile Zelensky for botching the country’s response to the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2**)** epidemic.
 
-It’s difficult to establish exactly the moment during Zelensky’s ten months as president when function lost is lustre, when churning out hopeful-sounding memes became secondary to their presentation on YouTube, when the cult of haughty ego took hold.
+It’s difficult to establish exactly the moment during Zelensky’s ten months as president when function lost its lustre, when churning out hopeful-sounding memes became secondary to their presentation on YouTube, when the cult of haughty ego took hold.
 
 Perhaps it was on March 4 in the Verkhovna Rada after members of parliament approved Illia Yemets, [a Yanukovych-era hack](https://abdymok.substack.com/p/indidious-blandishments), to be the country’s new Health Minister.
 
@@ -1357,7 +1357,7 @@ Or, the items could be designed the other way around. They could make pots and p
 
 As we pause to reflect on the one-year anniversary of Volodymyr Zelensky’s election victory, it’s helpful to remind ourselves of his close relationship with President Donald Trump and what that has meant for Ukraine and the United States.
 
-Since Zelensky was elected, dialectical discourse has died in Ukraine, where *thesis*and its *antithesis* are now irrelevant.
+Since Zelensky was elected, dialectical discourse has died in Ukraine, where *thesis* and its *antithesis* are now irrelevant.
 
 The Hegelian approach no longer applies. Evolving real ideas is passé. Reality is no longer be expressed in rational categories.
 
