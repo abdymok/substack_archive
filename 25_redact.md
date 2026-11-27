@@ -553,7 +553,7 @@ a year ago · 76 likes · 25 comments · Sarcastosaurus](https://xxtomcooperxx.s
 
 Z and his potent managers early on refused to acknowledge that they are political corpses,if only because of what they failed to do before Russia invaded by land, sea and air.
 
-It’s not as if Team USA did not give months of of advance warning.
+It’s not as if Team USA did not give months of advance warning.
 
 Indeed, “no step back” craziness has been catastrophic, almost as bad as dual Z-Syrsky/Z-Zaluzhny chains of command, the populist decision in August 2023 to fire the heads of all of Ukraine’s regional military recruitment offices, refusal to mobilize and train sufficient numbers of new recruits, sacking the commander-in-chief for no reason and endless subsequent piar campaigns revolving around the Peace Formula, Victory and Resistance Plans.
 
@@ -787,7 +787,7 @@ And then give them a quiz:
 
 1. What’s wrong with Ukraine’s military?
 2. Why can’t Ukraine’s military stop Russian advances in eastern Ukraine?
-3. What steps should be taken immediately to improve civilian-military management of the the Armed Forces of Ukraine?
+3. What steps should be taken immediately to improve civilian-military management of the Armed Forces of Ukraine?
 
    [Video: https://youtu.be/aAuq7otFJu8]
 
@@ -1383,7 +1383,7 @@ Donald wants the other half?
 
 *Golden Age of Brown Noses*
 
-About two thirds of the way through [their smug, precious, longwinded yet toweringly idiotic press conference,](https://www.youtube.com/watch?v=rlF9BfYxW0E) by two of the the smarmiest living humans – during which Donald re-asserts that Russia would not have invaded Ukraine and Hamas would not have attacked Israel had he been president, that being the sort counterfactual wu now applauded by the cold eyed strategists of the next American empire — so chipper, so blithely moronic – I concluded that both men should be replaced.
+About two thirds of the way through [their smug, precious, longwinded yet toweringly idiotic press conference,](https://www.youtube.com/watch?v=rlF9BfYxW0E) by two of the smarmiest living humans – during which Donald re-asserts that Russia would not have invaded Ukraine and Hamas would not have attacked Israel had he been president, that being the sort counterfactual wu now applauded by the cold eyed strategists of the next American empire — so chipper, so blithely moronic – I concluded that both men should be replaced.
 
 Donald’s “Riviera of the Middle East” development plan announced yesterday sounds even weirder than the proposal under which Ukraine pays America for weapons and ammo in rare earth minerals.
 
@@ -1545,7 +1545,7 @@ In October 2020, [MI6 chatted up Z in London](https://www.president.gov.ua/en/ne
 
 [Image]
 
-The Kulinich story, repackaged last week by Max for [The Times](http://thetimes.com), has been floating around for years in various iterations. It illustrates Team Russia’s infiltration of Z’s team with the help of American lawyers before, during and after the the 2019 presidential election. Z and his potent managers refuse to acknowledge responsibility for the intelligence screw-up that left Ukraine’s southeastern flank exposed.
+The Kulinich story, repackaged last week by Max for [The Times](http://thetimes.com), has been floating around for years in various iterations. It illustrates Team Russia’s infiltration of Z’s team with the help of American lawyers before, during and after the 2019 presidential election. Z and his potent managers refuse to acknowledge responsibility for the intelligence screw-up that left Ukraine’s southeastern flank exposed.
 
 [Image]
 
@@ -1959,7 +1959,7 @@ Wonderful. Mike, Steven and Scott told American TV talkshow hosts over the weeke
 
 > [O]n February 20th it was stunned to receive another, the “disastrous”, draft. The process had been taken over by Howard Lutnick, the freshly installed commerce secretary. Disregard all previous negotiations, Ukraine was told, and get used to the idea of transferring resources with little tangible in return. Take it, or leave it—and lose the war. — [Donald Trump makes Ukraine an offer it can’t refuse](https://www.economist.com/europe/2025/02/23/donald-trump-makes-ukraine-an-offer-it-cant-refuse). *A proposed economic deal would be punitive. Saying “no” could be worse* ([The Economist](http://econonomist.com), February 23, 2025)
 
-Steven, who has never been to Kyiv, [blurted out a bunch of Kremlin bullshit](https://edition.cnn.com/2025/02/23/politics/video/sotu-steve-witkoff-optimistic-over-russia-ukraine-war) on Sunday during his pow wow with CNN, suggesting Vova had somehow been provoked into first invading Ukraine 11 years ago and then again three years ago. The landscaper opined that that the [Instanbul protocols](https://www.nytimes.com/interactive/2024/06/15/world/europe/ukraine-russia-ceasefire-deal.html) can serve as a guideline for reaching a peace deal. No, they can’t. Something is obvi wrong with Steven.
+Steven, who has never been to Kyiv, [blurted out a bunch of Kremlin bullshit](https://edition.cnn.com/2025/02/23/politics/video/sotu-steve-witkoff-optimistic-over-russia-ukraine-war) on Sunday during his pow wow with CNN, suggesting Vova had somehow been provoked into first invading Ukraine 11 years ago and then again three years ago. The landscaper opined that the [Instanbul protocols](https://www.nytimes.com/interactive/2024/06/15/world/europe/ukraine-russia-ceasefire-deal.html) can serve as a guideline for reaching a peace deal. No, they can’t. Something is obvi wrong with Steven.
 
 Marco, meanwhile, is pretending to be in charge of negotiations between Teams USA and Russia over the fate of Ukraine. He is delusional.
 
@@ -2550,7 +2550,7 @@ Last week Russia killed more than a dozen residents of Kostiantynivka, Donetsk r
 
 [Image]
 
-Four more people were killed and 38 wounded when [a bomb hit the Central Hotel in Kryvyi Rih](https://www.nytimes.com/2025/03/06/world/europe/ukraine-russia-strikes-zelensky.html), Z’s home town, on March 5. Today is a a day of mourning in the city.
+Four more people were killed and 38 wounded when [a bomb hit the Central Hotel in Kryvyi Rih](https://www.nytimes.com/2025/03/06/world/europe/ukraine-russia-strikes-zelensky.html), Z’s home town, on March 5. Today is a day of mourning in the city.
 
 ---
 
@@ -5724,7 +5724,7 @@ In his Memorial Day speech, Donald homed in on Senior Chief Petty Officer Shanno
 
 After her death, Kent’s husband, Joe, campagined unsuccessfully for Congress in Washington state twice. In February, Trump announced plans to nominate him the National Counterterrorism Center, but he’s been stuck at DNI [re-wording intelligence briefs](https://www.nytimes.com/2025/05/20/us/politics/gabbard-intelligence-venezuelans-tren-de-aragua-trump.html) for Tulsi.
 
-[Joe](https://x.com/joekent16jan19/status/1844785284660994468) today is a political flag bearer for the MAGA’s so-called “warrior class” that “must step up and assert themselves.” He has been [an outspoken critic](https://x.com/joekent16jan19/status/1844785284660994468) of Team USA’s efforts to end Russia’s genocidal war against Ukraine. So have Tusli, JD and Pete, who all have have no (zilch, zero) experience in our military theater of operations[1](#footnote-1) .
+[Joe](https://x.com/joekent16jan19/status/1844785284660994468) today is a political flag bearer for the MAGA’s so-called “warrior class” that “must step up and assert themselves.” He has been [an outspoken critic](https://x.com/joekent16jan19/status/1844785284660994468) of Team USA’s efforts to end Russia’s genocidal war against Ukraine. So have Tusli, JD and Pete, who all have no (zilch, zero) experience in our military theater of operations[1](#footnote-1) .
 
 ---
 
@@ -6624,7 +6624,7 @@ Ukraine’s president has been invited for dinner hosted by the King of the Neth
 
 [Image]
 
-Sigh. It’s as if Ukraine today is suffering from the the diplomatic equivalent of [REDs](https://www.healthline.com/health/relative-energy-deficiency-in-sport) (Relative Energy Deficiency), a syndrome caused by insufficient resource intake relative to energy expended. In the human body, the mismatch, known as *[low energy availability (LEA)](https://hpsnz.org.nz/wellbeing-and-engagement/healthy-women-in-performance-sport/low-energy-availability/)*, results in the body not having enough fuel to support both basic physiological functions.
+Sigh. It’s as if Ukraine today is suffering from the diplomatic equivalent of [REDs](https://www.healthline.com/health/relative-energy-deficiency-in-sport) (Relative Energy Deficiency), a syndrome caused by insufficient resource intake relative to energy expended. In the human body, the mismatch, known as *[low energy availability (LEA)](https://hpsnz.org.nz/wellbeing-and-engagement/healthy-women-in-performance-sport/low-energy-availability/)*, results in the body not having enough fuel to support both basic physiological functions.
 
 ---
 
@@ -7180,7 +7180,7 @@ US grunts stationed there would have been evaporated quickly, if war had broken 
 
 [Image]
 
-Basically, a suicide mission. I visited the the installation only once, at the end of my 4-year Berlin vacation, in order to tick an ETS box. I was a frequent visitor to [Parkfriedhof Lichterfelde](https://de.wikipedia.org/wiki/Parkfriedhof_Lichterfelde) cemetery nearby.
+Basically, a suicide mission. I visited the installation only once, at the end of my 4-year Berlin vacation, in order to tick an ETS box. I was a frequent visitor to [Parkfriedhof Lichterfelde](https://de.wikipedia.org/wiki/Parkfriedhof_Lichterfelde) cemetery nearby.
 
 ---
 
@@ -9634,7 +9634,7 @@ Sigh.
 
 ---
 
-The off mic convo between Xi and Putin in in Tianjin about longevity (their own) has been making the rounds.
+The off mic convo between Xi and Putin in Tianjin about longevity (their own) has been making the rounds.
 
 > During the exchange, Xi Jinping said "these days" and "70 years" in Mandarin.
 >
@@ -11016,7 +11016,7 @@ I just skimmed through an essay by another former NYT flak about our bloody mess
 
 [Image]
 
-We pointed out laboriously (for me) last week that that a military stalemate—**not a war of attrition**—now represents the framework for understanding the current stage of the Russia-Ukraine conflict[2](#footnote-2). Robert’s observations from the zero line creates a significant tension with our illuminating observation: *stalemate is attrition’s confession of failure*.
+We pointed out laboriously (for me) last week that a military stalemate—**not a war of attrition**—now represents the framework for understanding the current stage of the Russia-Ukraine conflict[2](#footnote-2). Robert’s observations from the zero line creates a significant tension with our illuminating observation: *stalemate is attrition’s confession of failure*.
 
 Robert describes a war that Ukraine is approaching as potentially winnable through attrition management. Yet this very claim contains its own refutation. When combatants stop talking about *winning* through attrition and start talking about *surviving* it, they have already admitted the strategy has failed. The essay is full of this language of mere survival: evacuation delays, recruitment collapse, rotation as “a way of conserving manpower,” command posts designed “so that they could be evacuated almost instantly.” These are not the practices of a side pursuing attrition victory. These are the practices of a side trying not to disappear entirely.
 
@@ -11479,7 +11479,7 @@ As long as rosy infants are born
 
 No one believes it is happening now[1](#footnote-1).
 
-That’s part of of a lovely poem by Czeslaw Milosz, whose experiences in Vilnius and Poland during World War II and under Commust rule didn’t keep him from having a great time in California and becoming an American citizen. A national treasure.
+That’s part of a lovely poem by Czeslaw Milosz, whose experiences in Vilnius and Poland during World War II and under Commust rule didn’t keep him from having a great time in California and becoming an American citizen. A national treasure.
 
 It’s been a poetry and music week. Which brings me to [Frank O’Hara](https://x.com/frankohara_) and [Memoir of Sergei O](https://www.cityartsmagazine.com/poetry-public/), in [Lunch Poems](https://en.wikipedia.org/wiki/Lunch_Poems), his first book.
 
@@ -12367,7 +12367,7 @@ For some reason, Substack this morning wants to end my sentences for me. The UI 
 
 Let’s see if I can figure how to turn this *tool*… off.
 
-Turns out the the feature migrated to the computer because I’m connected via phone. I killed it, permanently.
+Turns out the feature migrated to the computer because I’m connected via phone. I killed it, permanently.
 
 Where was I? Ah, blackout.
 
@@ -12416,7 +12416,7 @@ Maybe replace him with Eddie Izzard, who didn’t mask absurdity but exposed it.
 
 [Image]
 
-I direct your attention to the pledge page at **ukraine@war**. The backoffice is now run by someone representing herself as the the terribly sane Japanese organizer Marie Kondo, aka [KonMarie](https://konmari.com/?srsltid=AfmBOopueSUIqjASRZS3HDYhEaJc_znxxu8OeBXT4kMpCr9Dz2QzyUSB), who has hooked it up to [Stripe](http://stripe.com) in order to pay for portable charging devices like the one on the table below[2](#footnote-2). She will also use pledges to pay off debts from her MBA vacation in the United States.
+I direct your attention to the pledge page at **ukraine@war**. The backoffice is now run by someone representing herself as the terribly sane Japanese organizer Marie Kondo, aka [KonMarie](https://konmari.com/?srsltid=AfmBOopueSUIqjASRZS3HDYhEaJc_znxxu8OeBXT4kMpCr9Dz2QzyUSB), who has hooked it up to [Stripe](http://stripe.com) in order to pay for portable charging devices like the one on the table below[2](#footnote-2). She will also use pledges to pay off debts from her MBA vacation in the United States.
 
 [Image]
 
@@ -12544,7 +12544,7 @@ In ukraine just like anywhere else, people interrupt each other and talk at the 
 
 That some *hear* what may be obscured or totally lacking in the recordings is principally because a significant portion of what can be understood is supplied by the context of the exchanges. Native speakers draw on vast amounts of shared knowledge to construct meaning when they are listening. It is not so much that the speech sounds *contain* meaning; it is rather that they *trigger* meaning.
 
-As an example, consider this dialogue, dated February 2, 2025, in which [now former] Deputy Prime Minister of Ukraine and Minister Deputy Prime Minister of Ukraine — [Minister of National Unity of Ukraine](https://en.wikipedia.org/wiki/Ministry_of_National_Unity_of_Ukraine) Oleksiy Chernyshov shows up a a medical clinic to collect a bag full of cash.
+As an example, consider this dialogue, dated February 2, 2025, in which [now former] Deputy Prime Minister of Ukraine and Minister Deputy Prime Minister of Ukraine — [Minister of National Unity of Ukraine](https://en.wikipedia.org/wiki/Ministry_of_National_Unity_of_Ukraine) Oleksiy Chernyshov shows up a medical clinic to collect a bag full of cash.
 
 Here is a partially translated transcript of the actual exchange, which evidently took place on February 2, 2025.
 
@@ -13569,7 +13569,7 @@ Sigh. The Kremlin has said it expects Kushner to be doing the main work on [draf
 
 [Video: https://youtu.be/niarA8cZ7L4]
 
-As for the the [2025 NSS](https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf), its Europe section opens with concerns about European military spending, then immediately pivots to the real emergency: not enough babies and too many regulations. Europe faces “civilizational erasure” and will be “unrecognizable in 20 years,” the document warns, in prose that reads like a Substack panic attack achieved sentience and infiltrated the State Department.
+As for the [2025 NSS](https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf), its Europe section opens with concerns about European military spending, then immediately pivots to the real emergency: not enough babies and too many regulations. Europe faces “civilizational erasure” and will be “unrecognizable in 20 years,” the document warns, in prose that reads like a Substack panic attack achieved sentience and infiltrated the State Department.
 
 The contradiction at the document’s core is exquisite. America champions “genuine democracy” while celebrating that “patriotic European parties” are gaining influence—parties that, inconveniently, keep losing elections. European governments “trample on basic principles of democracy to suppress opposition,” we’re told, but the solution is apparently to encourage the opposition doing the suppressing. When your democratic vision requires overriding election results because voters chose wrong, perhaps reconsider the “genuine” part.
 
@@ -13804,7 +13804,7 @@ The Berlin summit’s [joint statement](https://www.consilium.europa.eu/en/press
 
 Everyone’s pounding water in a mortar about NATO while treating territorial concessions as existential symbols rather than negotiable assets.
 
-US officials claim “90% consensus” after eight hours of talks. Western leaders “welcome significant progress” and praise “strong convergence” while carefully noting that “some issues would need to be resolved in the final stages.” German Chancellor Merz calls America’s commitments “truly remarkable.” Translation: we’ve agreed on everything except the one thing that matters. That pesky 10% happens to include whether Ukraine surrenders the the defensive line protecting the country since 2014—a “demilitarized economic zone” where Russia gets sovereignty but pinky-swears not to occupy it with troops.
+US officials claim “90% consensus” after eight hours of talks. Western leaders “welcome significant progress” and praise “strong convergence” while carefully noting that “some issues would need to be resolved in the final stages.” German Chancellor Merz calls America’s commitments “truly remarkable.” Translation: we’ve agreed on everything except the one thing that matters. That pesky 10% happens to include whether Ukraine surrenders the defensive line protecting the country since 2014—a “demilitarized economic zone” where Russia gets sovereignty but pinky-swears not to occupy it with troops.
 
 [ISW](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-december-15-2025/)’s toplines say officials agreed on “NATO-like” security guarantees—but the Kremlin has consistently rejected any deal offering *reliable* Ukrainian security.
 
