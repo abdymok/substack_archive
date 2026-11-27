@@ -7470,7 +7470,7 @@ He didn’t talk about why he launched fascistic Russia’s genocidal campaign a
 
 [Image]
 
-[Historicism](https://en.wikipedia.org/wiki/Historicism), as we all know, is a factor common to [fascism](https://en.wikipedia.org/wiki/Fascism), [Bolshevism](https://en.wikipedia.org/wiki/Bolshevism) and [ruscism](https://en.wiktionary.org/wiki/Ruscism). Deranged historicists, like Putin, are bad at imagining conditions under which an identified trend, such as Russia’s slow desintegration, ends.
+[Historicism](https://en.wikipedia.org/wiki/Historicism), as we all know, is a factor common to [fascism](https://en.wikipedia.org/wiki/Fascism), [Bolshevism](https://en.wikipedia.org/wiki/Bolshevism) and [ruscism](https://en.wiktionary.org/wiki/Ruscism). Deranged historicists, like Putin, are bad at imagining conditions under which an identified trend, such as Russia’s slow disintegration, ends.
 
 I’m unhappy with most write-ups about the monologue, including [this](https://www.reuters.com/world/europe/russia-hits-ukraine-homes-evacuates-kherson-warns-escalation-2022-10-24/) story by Reuters that forgets the Novorossiya project and regurgitates boilerplate bullshit, namely:
 
@@ -7641,7 +7641,7 @@ The ascension is similar to climbing onto the next anthropological stage. No one
 
 ---
 
-## Satan's Combat Misquitoes
+## Satan's Combat Mosquitoes
 
 *Date: 2022-10-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7701,7 +7701,7 @@ Jim’s story is conspicuous for what he deliberately ignores, namely the preina
 [Image]
 *Suriya Evans-Pritchard Jayanti served as the US energy, cybersecurity, environment, science, technology and health chief in Kyiv from 2018 to 2020.*
 
-A fresh crop of journalists from around the world, many by way of Moscow, have converged on Kyiv over the last eight months. They are not providing a fresh perspective on the overworked, underburdened experience of US diplomats, preferring to instead specialize on the return of dead American crusaders and unbearable misery of occupation.
+A fresh crop of journalists from around the world, many by way of Moscow, have converged on Kyiv over the last eight months. They are not providing a fresh perspective on the overworked, underburdened experience of US diplomats, preferring to instead specialize in the return of dead American crusaders and the unbearable misery of occupation.
 
 The six-minute reportage below caught my eye last week. It’s about a dead volunteer fighter with no prior combat experience who tagged along with the [Norman Brigade](https://twitter.com/BrigadeNormande), a Canadian-led whatever, that raises money on Twitter and Facebook selling war-versus-Russia merchandise. The unit is [reportedly](https://www.theglobeandmail.com/world/article-russia-ukraine-war-foreign-legion/) in the process of being folded into Ukraine’s [notorious](https://kyivindependent.com/investigations/suicide-missions-abuse-physical-threats-international-legion-fighters-speak-out-against-leaderships-misconduct) International Legion.
 
@@ -7710,7 +7710,7 @@ Apropos of *shifting alliances*, CNN credits two members of Ukraine’s parliame
 [Image]
 *Photo c/o Alexandr Kovaliov*
 
-Which brings me Charles A. Kupchan’s [scream for attention](https://www.nytimes.com/2022/11/02/opinion/russia-ukraine-negotiation.html?fbclid=IwAR1_6Ci89EbbVr9bOR7yeFyMSiP8UpzRmeFLB3tY4bPJ7UGpoR98ViOG6qA) appearing in The New York Times, titled “**It’s Time to Bring Russia and Ukraine to the Negotiating Table**.” I’m not sure what the latest version of the op-ed is. It’s been revised and republished repeatedly. The paragraph below, however, remains, as of this writing, and that’s bad enough.
+Which brings me to Charles A. Kupchan’s [scream for attention](https://www.nytimes.com/2022/11/02/opinion/russia-ukraine-negotiation.html?fbclid=IwAR1_6Ci89EbbVr9bOR7yeFyMSiP8UpzRmeFLB3tY4bPJ7UGpoR98ViOG6qA) appearing in The New York Times, titled “**It’s Time to Bring Russia and Ukraine to the Negotiating Table**.” I’m not sure what the latest version of the op-ed is. It’s been revised and republished repeatedly. The paragraph below, however, remains, as of this writing, and that’s bad enough.
 
 [Image]
 
@@ -7739,7 +7739,7 @@ The participants of a popular podcast appear to fart out bricks during a convers
 
 Without saying anything new, Fiona and Lex — both first-generation American citizens — outline in as much detail as possible a worldview and practical guidelines that form Putin’s behavioral model. From their positions, at least, the dialog is entertaining, but not a great tool for studying the genesis and anatomy of the fascistic genocidal campaign I’m in the middle of.
 
-It would have amusing been if they would have/could have had their discussion in Russian, instead of attempting to just demonstrate their ability to speak the language by blurting out a couple of sentences at the start.
+It would have been amusing if they had had their discussion in Russian, rather than attempting to demonstrate their ability to speak the language by blurting out a couple of sentences at the start.
 
 Fiona’s urging *sympathetic empathy* for Vova reminded me of the shadow effect. The Russophilic view that only the ability to perceive the world from Putin’s logical and perceptual points of departure — not “bounded rationality” — should no longer be regnant.
 
@@ -7747,7 +7747,7 @@ Fiona’s urging *sympathetic empathy* for Vova reminded me of the shadow effect
 
 We crossed paths briefly when she was director of strategic planning at Eurasia Foundation in Washington, D.C. What a disaster [that](https://www.kyivpost.com/article/content/ukraine-politics/scandal-shakes-eurasia-foundation-280.html) was. Maybe she explains why in her [book](https://books.google.com.ua/books?id=XDQKEAAAQBAJ&printsec=frontcover&dq=fiona+hill&hl=en&sa=X&redir_esc=y#v=onepage&q=fiona%20hill&f=false). Perhaps. I doubt it.
 
-Lex has chatted up lots controversial people, such as Noam Chomsky, Jordan Peterson, Joe Rogan and Oliver Stone, with, er, outrageous views about Russia and Ukraine. In those interviews, he reminds me of a doctor trying to help patients whose violent dreams begin to merge with reality and evolve to mirror disasters they become experts about. Like [Ben Shapiro](https://twitter.com/lexfridman/status/1587112350057889795).
+Lex has chatted up lots of controversial people, such as Noam Chomsky, Jordan Peterson, Joe Rogan and Oliver Stone, with, er, outrageous views about Russia and Ukraine. In those interviews, he reminds me of a doctor trying to help patients whose violent dreams begin to merge with reality and evolve to mirror disasters they become experts about. Like [Ben Shapiro](https://twitter.com/lexfridman/status/1587112350057889795).
 
 ---
 
