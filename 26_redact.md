@@ -42,7 +42,7 @@ The thermoelectric stations in the distance appear to be working. That Moscow ha
 
 Re-listened to Judea Pearl talking about the probabilistic approach to artificial intelligence and the development of Bayesian networks, as well as his theory of causal and counterfactual inference based on structural models.
 
-[Media]
+[Video: https://youtu.be/fbsLnNSugCs]
 
 Very nice!
 
@@ -74,7 +74,7 @@ Instead, Z could have told us what he is doing to turn the lights back on.
 
 Contrast this with Zohran Mamdani’s inaugural address as New York City mayor. Where Z traffics in percentages plucked from ether, Mamdani identifies actual causal mechanisms: “universal child care for the many by taxing the wealthiest few.” One can disagree with the policy, but the causal arrow is brutally clear—*this* revenue stream funds *that* program. When Mamdani promises to “freeze the rent” or make “buses fast and free,” he’s not invoking magical thinking. He’s proposing interventions with traceable effects.
 
-[Media]
+[Video: https://youtu.be/0xygR4LJ0R0]
 
 Pearl teaches us that causes precede effects in time. So what *actually* ends wars? Z’s speech admits it accidentally: “Russia will have to end the war—the moment they find one reason for peace more than for fighting.” Quite. And presidential speeches don’t typically register as reasons in Moscow’s causal calculus.
 
@@ -92,7 +92,7 @@ When states abandon “the function of structuring reality,” the repressed eve
 
 Yesterday, Russia launched several ballistic missiles at the center of Kharkiv, demolishing a 5-storey residential flat.
 
-[Media]
+[Video: https://youtu.be/OWBCs2Rv6Jo]
 
 Rescue dogs have found three bodies, including a 3-year old. There are probably more dead people under the rubble.
 
@@ -104,7 +104,7 @@ Z is rearranging deck chairs. He has appointed military intelligence chief Kyryl
 
 Although Budanov is more popular than many others in Z’s orbit, his political record is indelibly stained from 2020, when he lied about [Operation Avenue](https://en.wikipedia.org/wiki/Wagnergate), also known as Wagnergate. He was promoted to head military intelligence a day after backing Z’s claims that there was no such operation.
 
-[Media]
+[Video: https://youtu.be/7LRcri2g8bQ]
 
 Budanov is best buddies with the husband of the body woman and personal aide to Z. We wrote about that [four years ago](https://abdymok.substack.com/p/oleksandr-hohilashvili-busted?utm_source=publication-search).
 
@@ -222,7 +222,7 @@ Coalition of the Willing (c/o [President’s Office](https://www.president.gov.u
 
 The joker on the far right is ex-convict Charlie Kushner, who in 2005 was sentenced to two years in prison for tax evasion, illegal campaign contributions, and witness tampering—he hired a prostitute to seduce his brother-in-law cooperating with federal investigators, arranged for the encounter to be recorded, and then sent the tape to his sister in an attempt to intimidate them and prevent their testimony against him. Charlie today is US ambassador to France. His as-yet-unconvicted son Jared and Z took part in a press conference following the Paris affair, along with Trump's idiot special envoy Steve Witkoff.
 
-[Media]
+[Video: https://youtu.be/bTV-Y_M8NCc]
 
 If you make the grave mistake of subjecting yourself to this 50-minute performance, within minutes your vagus nerve will stage a full revolt and your insula will light up, as if your brain’s disgust center is physically trying to reject what your ears are processing. It turns out there are two very different kinds of “coalitions of the willing”: one involves serious nations making legally binding commitments to defend sovereignty with multilateral forces, ceasefire monitoring mechanisms, and intelligence-sharing frameworks; the other involves whatever that was.
 
@@ -618,7 +618,7 @@ Andrew @nyt woke up finally and filed a story[1](#footnote-1). As did David for 
 
 It’s Friday again and I’m in an incredibly good mood. The nippy weather will stay with us for at least another couple of weeks. Z and his top managers are leaving over the weekend for the Davos beano, where they will kowtow to Drump and his miserable lieutenants. America’s [big dick toilet salesman](https://www.emptywheel.net/2019/02/07/big-dick-toilet-salesman-matt-whitaker-crams-for-his-open-book-test/) mumbled something inchoherent the other day about our plight in California.
 
-[Media]
+[Video: https://youtu.be/sJZ_1c9D9fM]
 
 ---
 
@@ -670,7 +670,7 @@ Photo c/o [abdymok](https://sites.google.com/site/abdymok/home) c/o ai
 
 Treasury Secretary Scott Bessent explains that America needs Greenland because Europeans “project weakness.” Not minerals, not Arctic routes—weakness itself demands annexation. We’re the strongest country in the world, which settles matters. The dragon lived over the town for four hundred years, and they gave him maidens without so much as a meow. Good deeds you don’t forget—he boiled the lake once to prevent cholera[2](#footnote-2).
 
-[Media]
+[Video: https://youtu.be/TxVCod_AW2M]
 
 Compare Trump’s Greenland script with Putin’s Ukraine justifications. Same text, different accent, identical grammar: The territory’s been weaponized by hostile forces. Both are historical accidents begging for correction. International law? Cobwebs. What matters is positioning justified by Pechenegs and Vikings. Occupation becomes response, refusal justifies force. Look what you made me do, now with tariffs.
 
@@ -726,11 +726,11 @@ Zero canines present. Humans, however, abundant.
 
 Team USA’s burgomaster obvi is pumped for the Davos beano[1](#footnote-1).
 
-[Media]
+[Video: https://youtu.be/WHmb9DQQHDI]
 
 Yesterday we talked about Greenland and the ideology declaring itself. Today brings Gregory Bovino stepping from a Chicago courthouse in a Nazi uniform.
 
-[Media]
+[Video: https://youtu.be/my6bfA14vMQ]
 
 Bovino’s agents used chemical rounds and pepper balls near a children’s Halloween parade, breaking a 67-year-old citizen’s ribs. The judge sharply questioned why officers treated children at a parade as threats. Heinrich, dressed in livery, is shining the brass fittings on the cast iron door. Old man dragon had a cow, e-i-e-i-o.
 
@@ -902,7 +902,7 @@ KonMari sent me a link to the speech by Canada’s PM Carney at Davos this year.
 
 > V important speech, she said.
 
-[Media]
+[Video: https://youtu.be/WbjYc4-OuT0]
 
 My response:
 
@@ -1111,7 +1111,7 @@ Woo!
 
 ---
 
-[Media]
+[Video: https://youtu.be/skHDkOMd54k]
 
 Another project: helping the [Feldman Sisters](https://www.feldsist.com/) rest and relax a bit more, maybe raise awareness among American artists in NYC and Washington, DC by explaining Ukraine through their visual lexicon of identity, design, and style under bombardment.
 
@@ -1613,7 +1613,7 @@ In other news, postoponed trilateral peace talks moderated by Trump’s son-in-l
 
 Made the mistake of listening to politicians talk about [minerals extraction](https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial/) after waking up.
 
-[Media]
+[Video: https://youtu.be/eqsZE_IwBgU]
 
 While Russia launched 450 drones and 71 missiles at Ukraine's power grid in the coldest week of winter—and declared any Western peacekeepers "legitimate military targets"—Little Marco and JD hosted their critical minerals prom with 54 countries. As Russian forces intensified their air interdiction campaign around Kostiantynivka and the Kremlin vowed to fight until Ukraine "makes the appropriate decisions" (capitulates), Team USA signed MOUs about cobalt and announced "$30 billion in letters of interest" for rare earth projects. Trump's "energy truce" lasted exactly as long as Putin needed to stockpile ordnance. But hey, eleven new bilateral frameworks for processing dirt! Ukraine gets an 87,000-strong Russian drone army and fresh war crimes. America gets FORGE—the "successor to the Minerals Security Partnership." Batteries, not bodies.
 
@@ -1677,7 +1677,7 @@ Have a great weekend!
 
 # 
 
-[Media]
+[Video: https://youtu.be/CQUQr1Kns-E]
 
 ---
 
@@ -2488,7 +2488,7 @@ Worth noting that the man Budanov replaced at the Office of the President is And
 
 These are certainly not issues Piers Morgan asked Z about the other day during his 80-minute [uncensored interview](https://www.instagram.com/p/DU5w4CuCNS9/).
 
-[Media]
+[Video: https://youtu.be/mm49SGt_ghk]
 
 Instead, Z told him: “I want to say that I try to be as honest as possible in everything and with everyone. Cases of corruption exist, yes, but we are building a major anti-corruption infrastructure.” He is, as anyone can see, making excellent progress. On the subject of elections, Z noted that when Russians tell Americans that Ukraine can hold elections in one or two weeks, “they always forget that we are not Russia.” — which is, all things considered, a stupid thing to say.
 
@@ -2558,7 +2558,7 @@ It was human because Western intelligence had spent three decades not truly stud
 
 Z was also absent. Weeks earlier he had co-hosted Russia-1’s New Year’s Eve special alongside Maxim Galkin, while Vladimir Solovyov — later a daily advocate of Ukraine’s destruction — applauded in the audience. He was professionally and financially embedded in [Russia’s entertainment ecosystem](https://en.wikipedia.org/wiki/Kvartal_95_Studio) as Ukrainians were dismantling it with their bodies. In March he said Russians and Ukrainians were one people. In May he was standing outside Red Square.
 
-[Media]
+[Video: https://youtu.be/RBaM3qnQ_L4]
 
 That context illuminates what followed: Russian-adjacent entertainer in 2014, insurgent president in 2019, unprepared wartime leader in 2022 — surrounded, in emergency, by people who saw chaos not only as crisis but as opportunity. Yermak’s office became the centre of gravity. Z held the podium; the back office ran the accounts.
 
@@ -2914,7 +2914,7 @@ Six weeks later, Iran.
 
 Yesterday in the Senate, Tim Kaine read the NDS back to one of its authors with the patience of a man holding a receipt. If you arrest one foreign leader and assassinate another, is that not regime change? US Deputy Secretary of War Elbridge Colby — whom we have pillaged repeatedly — would not say. This is strategy’s first and most reliable instinct when pressed by reality: renegotiate the definitions. When language softens, missions expand. When missions expand, the documents are archived — diet plans tucked beneath a takeout menu.
 
-[Media]
+[Video: https://youtu.be/dPePCSBOsck]
 
 Mark Warner, fresh from classified briefings, reported no imminent threat from Iran. Only a succession of rationales: nuclear sites, then missiles, then naval assets, then regime change, now recast as necessity. A war of choice, he called it. Someone chose. It was not Congress.
 
@@ -2964,7 +2964,7 @@ Rice was National Security Advisor when the United States launched Operation Ira
 
 Rice was not a peripheral figure. She was in the room. She helped assemble and defend the bogus argument for launching that military misadventure. Today she is Director of Stanford University’s Hoover Institution. Har, har.
 
-[Media]
+[Video: https://youtu.be/TVNhdLKFPrk]
 
 ---
 
@@ -3131,7 +3131,7 @@ Our timeline, he will tell us, is ours and ours alone to control.
 
 The problem:
 
-[Media]
+[Video: https://youtu.be/5NPCtVbPrJk]
 
 The last piece I published this week began with a surgeon and ended with a general in Russia. In between, I tried to trace what happens when the instrument of knowledge loses contact with the thing it claims to know — and what it costs when no one in the room notices, or cares.
 
@@ -3341,7 +3341,7 @@ On the Ukraine jacket, Kim spent [quality time](https://www.nytimes.com/2026/03/
 
 *The Boys Who Ate the Mirror*
 
-[Media]
+[Video: https://youtu.be/J9IoUZGXHts]
 
 Sigh.
 
@@ -4240,7 +4240,7 @@ Another photo op for Z, meanwhile, in Spain:
 
 I watched this yesterday evening.
 
-[Media]
+[Video: https://youtu.be/gAgWepxd8dA]
 
 The hearing proceeded with admirable thoroughness. Senators pressed Tulsi on what was imminent, what was omitted, what was truncated and why. She answered carefully, which is to say she answered other questions than the ones posed.
 
@@ -4450,7 +4450,7 @@ Here’s a map of Russia’s drone attack yesterday.
 
 BBC has the details.
 
-[Media]
+[Video: https://youtu.be/txkyX3Yv-r0]
 
 [1](#footnote-anchor-1)
 
@@ -4818,7 +4818,7 @@ Yesterday’s post made a simple claim: that the future of drone warfare is not 
 
 George was listening to that teacher.
 
-[Media]
+[Video: https://youtu.be/ml-9lGCuTb4]
 
 He spoke, repeatedly, about a battlefield that had become transparent. About units that could no longer hide. About the need to distribute drones down to the smallest formations, to accept that every soldier would operate within a mesh of sensors and signals. He was, in other words, attempting to translate a Ukrainian reality into an American doctrine.
 
@@ -4887,7 +4887,7 @@ The institution that was supposed to say no has been carefully, methodically pre
 
 There is a Fox News correspondent named Trey — we have met him before, and again, and again — going back at least to February 20, 2022, when he was standing in a field somewhere in eastern Ukraine, narrating the opening phase of a war he did not understand:
 
-[Media]
+[Video: https://youtu.be/mssgNlsle8g]
 
 He has not changed.
 
@@ -5066,7 +5066,7 @@ Our AI-coordinated, glute-driven propulsion project became a good deal less pain
 
 [1](#footnote-anchor-1)
 
-[Media][Media]
+[Video: https://youtu.be/eEoIQLN2vy0][Video: https://youtu.be/bhe3_2zURiY]
 
 ---
 
@@ -5120,7 +5120,7 @@ This is harder than it sounds.
 
 Yesterday Z addressed the nation from Saint Sophia Cathedral. He quoted the inscription above the altar — God is in the midst of the city, it shall not be moved — and spoke of Ukraine as one great family, of children’s laughter, of the first peaceful Easter that was surely coming. His voice was steady. The manifest image was, for six minutes, complete and luminous and — I want to be careful here — genuinely moving. The cathedral does stand. The children do laugh. Someone did bake those paskas.
 
-[Media]
+[Video: https://youtu.be/biAKEJXBXRQ]
 
 On April 10th, two days before Easter, [Kyrylo Budanov](https://www.ukrinform.ua/rubric-ato/4111141-budanov-bez-ludej-vijni-ne-vigrautsa-droni-ne-zroblat-ce-za-nas.html) — who has headed the President’s Office since January 2nd, a promotion whose backstory [repays attention](https://abdymok.substack.com/p/day-1457?utm_source=publication-search) — gave an interview to Ukrinform and Novyny.LIVE that read like a dispatch from a different country entirely. He called draft evasion a “terrible problem” — страшенна проблема — and named the central contradiction of Ukrainian public life with a bluntness rare in any senior official, let alone the head of the President’s Office: everyone says the war must be fought to victory, and everyone flees mobilization. But his sharpest observation was this: Ukraine has somehow produced two kinds of hero simultaneously. The soldier at the front, bleeding. And the man who films himself telling the recruitment officer where to go, or boasting about how he slipped across the border. Both are heroes at the same time, Budanov said. This is a terrible problem. It shows the absence of unity. He asked the only question that follows logically from that observation: if everyone evades, will Ukraine remain on the political map of the world? His answer was unambiguous. No. It will not.
 
@@ -5178,7 +5178,7 @@ A country does not become ingenious because it wishes to. The soldiers are extra
 
 ---
 
-[Media]
+[Video: https://youtu.be/foyf6P9Vabk]
 
 ---
 
@@ -5427,7 +5427,7 @@ c/o [Oleh Smal](https://www.facebook.com/photo.php?fbid=2096611070485425&set=pb.
 
 On Saturday, April 18, a gunman opened fire in central Kyiv, killing at least seven people and wounding others. Body camera footage later revealed what happened when two patrol officers arrived at the scene: they saw wounded civilians including a child who was bleeding and pleading for help. Instead of engaging the shooter, the officers ran away. As Prosecutor General Ruslan Kravchenko stated, the armed man “continued unimpeded to move down the street and shoot defenseless passersby.” The gunman was eventually killed by special forces, but not before the damage was done.
 
-[Media]
+[Video: https://youtu.be/bAXcWm1_k1s]
 
 The officers faced charges of negligence with grave consequences—potentially five years imprisonment. The incident sparked immediate public outrage and raised urgent questions about accountability, training, and leadership.
 
@@ -5561,7 +5561,7 @@ One begins to suspect that many details are unnecessary.
 
 There was a [conversation with Amanpour](https://www.facebook.com/watch/?v=4509715932594959) about peace. It went well. It could hardly do otherwise.
 
-[Media]
+[Video: https://youtu.be/6Br_kdXR-sk]
 
 There were later remarks about American behavior, sharper than before. They appeared at a moment when silence had begun to look like a decision rather than an absence.
 
@@ -5577,7 +5577,7 @@ Elsewhere, other men speak.
 
 Donald Tusk and Emmanuel Macron meet and discuss unity. The word appears several times. It does not seem to burden them.
 
-[Media]
+[Video: https://youtu.be/60-VWqAbB_Q]
 
 At the same time, there are calculations. Not hidden exactly, but not emphasized. What is given, what is received, what is conditional.
 
@@ -5839,7 +5839,7 @@ Photo c/o Olha Stefanyshina, [Facebook](https://www.facebook.com/olga.kravets.79
 
 Watched the Кіллхаус trailer. Won’t be watching the movie.
 
-[Media]
+[Video: https://youtu.be/uxyXCavasA8]
 
 Shawn Ryan is already promoting a getting-killed-by-Ukrainian-drones podcast.
 
@@ -7870,7 +7870,7 @@ The veal dinner at Hrushevskogo Street 9a: that is the future. That is what we a
 
 On body armor and other shenanigans
 
-[Media]
+[Video: https://youtu.be/nYHXITFNALk]
 > **Honcharenko:** This is very important information, so let’s clarify everything. So, in March 2025, Minister Umerov invites you to see him. Is that correct? Did this take place in his office?
 >
 > **Zhumadilov:** No, this... it took place, I don’t remember exactly where, in an apartment on Hrushevskogo 9a. I’m not sure. He invited me. We, well, arrived at a location and at that location there was already, well, including this gentleman.
@@ -8598,7 +8598,7 @@ The difficulty is that the plumbing and the mansion may not be separate subjects
 
 That is why Poturaiev’s answer was so revealing. He did not deny anything. He did not explain anything. He merely moved the conversation from one place to another. The house became the faucet. The accusation became winter. Accountability became a distraction from survival.
 
-[Media]
+[Video: https://youtu.be/Z5AZ6ilujZE]
 
 It is an old trick, though war gives it fresh strength.
 
@@ -8852,13 +8852,13 @@ On the war jacket, Kharkiv and Chuhuiv:
 
 I just watched this:
 
-[Media]
+[Video: https://youtu.be/eXSZH-pNK_g]
 
 George says the name of the game is survival.
 
 Which looks like this:
 
-[Media]
+[Video: https://youtu.be/rSdrVFQGHxA]
 
 ---
 
@@ -8880,7 +8880,7 @@ What follows is his chronology. I have translated it as faithfully as I can.
 
 ---
 
-[Media]
+[Video: https://youtu.be/wKi1eEalG6s]
 
 ---
 
@@ -9394,7 +9394,7 @@ Wonderful.
 
 I’ve been listening to Danish synthpop artists all week. It’s making me dizzy.
 
-[Media]
+[Video: https://youtu.be/hYa7H1EmpCM]
 
 Have a great weekend!
 
@@ -9746,7 +9746,7 @@ None of this makes the rabbit’s old description of the trunk untrue. It makes 
 
 [1](#footnote-anchor-1)
 
-[Media]
+[Video: https://youtu.be/OugO7FvABpk]
 
 [2](#footnote-anchor-2)
 
@@ -10027,7 +10027,7 @@ It’s been disgusting to learn about the Trumps’ drone and scorched earth raw
 
 On June 28, Vladimir Putin addressed the United Russia Party Congress to explain that everything is going very well. Ukraine is retreating along the entire frontline. The West cannot win. Russia is strong, united, and has always been strong and united, which is why it always wins.
 
-[Media]
+[Video: https://youtu.be/jvFiIxQ9Sl0]
 
 Russia is also, simultaneously, going through a “difficult” and “fateful” time. Putin mentioned this too, in the same speech, without apparent embarrassment. The Kremlin is aware of all the problems and responding appropriately. Russia will fulfill all its social obligations. The gasoline shortages — nationwide, visible from space — went unmentioned, as did the Ukrainian drones that have been burning Russian oil infrastructure with the quiet diligence of a very motivated seasonal worker.
 
@@ -10095,7 +10095,7 @@ On [the twenty-fifth of June](https://www.pravda.com.ua/eng/news/2026/06/25/8041
 
 I have counted, because someone has to. Today is the seventh day. Thirty-three remain, assuming the operation survives its own naming, which is not guaranteed. Wars produce many things, including bird nests, faster than they produce forty consecutive days of anything.
 
-[Media]
+[Video: https://youtu.be/N4j8Bb6mQq0]
 
 What has happened in these seven days is this: nothing has happened that was not already happening. The State Security Service of Ukraine struck the Dubna communications center for the second time, which is impressive and also, if we are honest, a continuation of a sentence that began before Z sat down with General Khmara and decided the sentence needed a title. The refinery outside Moscow that supplies forty percent of the region’s fuel remains, according to reports, out of commission through the end of the year. This too predates the operation.
 
@@ -10145,7 +10145,7 @@ They came, as they always come now, in a manner that had long since stopped surp
 
 Of the newest and proudest children, little can honestly be reported, since eyewitness accounts of hypersonic Zircon arrivals are thin — they are faster than their own sound. The city hears the missile’s wake before it hears the missile, a boom that announces an object already past, followed a beat later by the sound of that object detonating. It arrives having already announced its own arrival, from the future, so to speak, of its own flight path.
 
-[Media]
+[Video: https://youtu.be/t3jkrfHIZcE]
 
 Preliminary damage report:
 
@@ -10174,7 +10174,7 @@ A famous Facebook influencer took my photo on the metro this morning after scold
 
 I was watching Z on [Face the Nation](https://www.cbsnews.com/face-the-nation/) add to the visual drama of yesterday’s tragedy as emergency crews worked in the background of a bombed out residential building in Darnytsia district.
 
-[Media]
+[Video: https://youtu.be/p6RP2C9uN-8]
 
 The death toll in Kyiv rose to 30 overnight.
 
@@ -10256,7 +10256,7 @@ The detonations continue at irregular intervals, as though the war has forgotten
 
 This is not damage. Damage implies something remains against which loss can be measured. This is a village being informed, street by street, that it used to exist. Billy Pilgrim would recognize the tense.
 
-[Media]
+[Video: https://youtu.be/UhQbEwQaoAc]
 
 Hours later, Z [sits down](https://archive.ph/jbqM9#selection-1765.0-2041.90) with a Tralfamadorian from *The* *Financial Times* and describes a war entering its decisive phase in the air. The land front is largely static. Russia has been denied the sea. The remaining contest is overhead, where, he argues, Ukraine’s principal weakness remains air defense. During Monday’s attack—the same attack that devastated Vyshneve—not one of the twenty-nine ballistic missiles was intercepted. Patriot interceptors, he says, sometimes arrive only a day before the barrage they are meant to stop.
 
@@ -10413,7 +10413,7 @@ Most of the 100 or so houses in the village were vaporized in secondary explosio
 
 ---
 
-[Media]
+[Video: https://youtu.be/JDvZP97W1nU]
 
 Listened to an unsatisfying podcast w/ Z stenographer Simon Shuster.
 
@@ -10571,7 +10571,7 @@ Not Iskanders. Not cruise missiles. Russia appears to have fired six to eight mo
 
 That isn’t a glitch. It’s physics.
 
-[Media]
+[Video: https://youtu.be/gdeP1TmVi1I]
 
 Designed to shoot down aircraft, S-400 missiles can also be fired at ground targets.
 
@@ -11709,7 +11709,7 @@ I was listening to Fedorov’s 96-minute exit interview for the second time at 2
 
 Who is “Vova”?
 
-[Media]
+[Video: https://youtu.be/dTvFnC-oFGw]
 
 Fedorov, for his part, offers his own tidy account of why he was really sacked — procurement reform, wounded interests, a system that couldn’t tolerate transparency. [It is not the account of Z,](https://www.youtube.com/watch?v=-HypRv9GHuI&t=23s)  who stayed entirely upstream of all that: two institutions failing to coordinate, a president forced to choose. Two men, two stories, and neither one touches the name that would make either version legible.
 
@@ -11781,7 +11781,7 @@ Why would anyone in their right mind build a factory to produce drones in Ukrain
 
 I’m unsure about the Song of the Week. Let’s go with Bulls on Parade.
 
-[Media]
+[Video: https://youtu.be/dIoqbMV1HTw]
 
 Have a great weekend!
 
@@ -12894,7 +12894,7 @@ Halushchenko, we recall, was remanded to custody on Feb. 17, 2026, for his alleg
 
 Details of the botched operation emerged during a three-hour bail hearing for Sense Bank officials at the High Anti-Corruption Court of Ukraine (HACC) on August 25.
 
-[Media]
+[Video: https://youtu.be/ZkGryMyQlik]
 
 What emerges from the hearing is less a sophisticated financial operation than a bureaucratic relay race in which nobody quite knew who was carrying the baton, where the finish line was, or why the President’s Office was involved in the first place.
 
@@ -12991,7 +12991,7 @@ In short: both the ex-minister and Budanov’s deputy have been sent to pre-tria
 
 Making matters worse, Anastasia tells us the security service loyal to Z is now trying to get direct access to the anti-corruption court's case-management system in order to learn which targets face imminent searches or asset seizures — useful for tipping off suspects or helping them flee.
 
-[Media]
+[Video: https://youtu.be/55FtfIk8U94]
 
 As of this writing, there have been 17 (18?) Russia air attack alerts in Kyiv over the past 24 hours lasting a total of at least 15 hours.
 
@@ -13009,7 +13009,7 @@ No one likes milling around subway platforms.
 
 Song of the Week is Silver Cord by King Gizzard and the Lizard Wizard.
 
-[Media]
+[Video: https://youtu.be/80yPrXVksss]
 
 Have a great weekend!
 
@@ -13271,7 +13271,7 @@ The picture that’s emerged is less spy thriller, more turf war between armed m
 
 This morning’s [Guardian](https://www.theguardian.com/world/2026/sep/03/ukraine-war-briefing-shameful-zelenskyy-furious-after-shootout-between-kyivs-spy-services) explainer tells us Stepan Kaplunov, deputy commander of the Russian Volunteer Corps ([RDK](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%87%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81) — Russian citizens who fight for Ukraine against Moscow, out of hatred for Putin’s regime), had reportedly gone missing days earlier. When “unknown men” turned up holding him at an address in Kyiv, HUR — Ukraine’s military intelligence, roughly its CIA — sent people to rescue him. It turned out the “unknown men” were SBU, Ukraine’s domestic security service, roughly its FBI, apparently acting on a tip that Russia’s FSB was plotting to kill Kaplunov — which is either excellent tradecraft or a coincidence so precise it deserves its own investigation.
 
-[Media]
+[Video: https://youtu.be/CxcHKmEOcMU]
 
 HUR is meant to be fighting the war. The SBU is meant to be protecting the state. Instead, on a residential street during morning rush hour, they discovered a third mission neither had trained for: each other.
 
@@ -13347,7 +13347,7 @@ Good morning.
 
 This week’s Song of the Week is Crooked Cowboy by ggwedolyn.
 
-[Media]
+[Video: https://youtu.be/PpZEzkrwYHc]
 
 Have a great weekend!
 
@@ -13701,7 +13701,7 @@ The honest split: Ukrainian strikes on Russian refining and exports account for 
 
 The pattern repeats in diplomacy, too. The son-in-law said over the weekend that if Ukraine agreed to give up territory, we would already have a deal. According to Jared, a peace agreement is prepared but stalled by Ukraine’s refusal to cede territory along lines demanded by Putin.
 
-[Media]
+[Video: https://youtu.be/qqtuDOaMc9A]
 
 Sigh.
 
@@ -16215,7 +16215,7 @@ Alex Salvi, who leads the Newsmax team, worked at One America News until 2021, t
 
 Since Day 1 of Russia’s genocidal campaign, Newsmax has, for the most part, been a [spectacularly unhinged](https://www.youtube.com/watch?v=0xygR4LJ0R0) MAGA propagandizing cesspool of anti-Ukraine bullshit. Russia’s federal Human Rights Commissioner (ombudswoman) Yana Lantratova, who is under [US and EU sanctions](https://www.opensanctions.org/entities/Q108757245/) and is [suspected by Ukraine’s SBU](https://war-sanctions.gur.gov.ua/en/sanctions/persons/904) of kidnapping children from Kherson, [said](https://t.me/lantratovaDOBRO/16085) yesterday that she will take the American team with her to Oleshky.
 
-[Media]
+[Video: https://youtu.be/rsAZ0D_0tIU]
 
 Newmax recently has given Trump the platform and Zelenskyy his interviews, but not as neutral observers or documentalists. I don’t understand why anyone would think it will be otherwise in Kherson. Looking on the bright side, maybe we’ll be surprised.
 
@@ -16379,7 +16379,7 @@ The moral is clear: always do the decent thing, even if it ends in a hairless Am
 
 Meanwhile, another American, Trey, is in town.
 
-[Media]
+[Video: https://youtu.be/9VsTpsD_dP0]
 
 I had intended to write about Trey and his asinine interview with Z this morning, but events overtook me.
 
