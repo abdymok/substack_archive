@@ -4466,7 +4466,7 @@ Serhiy Marchenko for the Economist[2](#footnote-2):
 [Image]
 *Map c/o @War\_Mapper*
 
-More than half of Kherson region’s one million residents fled after Russia took full control of Ukraine’s “fruit basket” in late February. Officials in Kyiv are reluctant to talk about why and how Russia’s army managed so quickly to capture the region, which is about **the size of South Carolina** — about 28,000 square kilometers.
+More than half of the Kherson region’s one million residents fled after Russia took full control of Ukraine’s “fruit basket” in late February. Officials in Kyiv are reluctant to talk about why and how Russia’s army managed so quickly to capture the region, which is about **the size of South Carolina** — about 28,000 square kilometers.
 
 On May 15, Oleksandr Karpiuk shared his thoughts about the disaster in a 48-minute long [rant](https://www.facebook.com/serg.marco/videos/473785101212594) posted to Facebook. Defense Express writes about it [here](https://defence-ua.com/minds_and_ideas/chomu_ne_pidirvali_mosti_z_krimu_pro_rozminuvannja_chongaru_ta_scho_vidbuvalos_u_pershi_dni_vtorgnennja_rf_na_pivdni_serg_marco-7373.html).
 
@@ -4906,7 +4906,7 @@ Which reminds me of this act of Ukrainian diplomatic finesse [earlier this month
 
 Maybe it’s time for Ukraine’s leaders to get their collective act together before Trump’s MAGA crew returns to Washington after midterm elections.
 
-Ukraine’s dependence on American benevolence could quickly become a liability after Uncle Joe becomes a lame duck. The risk of a Putin bootlicking а pro-Trump Republican Congress should not be underestimated.
+Ukraine’s dependence on American benevolence could quickly become a liability after Uncle Joe becomes a lame duck. The risk of a Putin-bootlicking, pro-Trump Republican Congress should not be underestimated.
 
 [1](#footnote-anchor-1)
 
@@ -4921,19 +4921,19 @@ Ukraine’s dependence on American benevolence could quickly become a liability 
 [Image]
 *Home on the range ( photo c/o abdymok )*
 
-**Friday, June 3, 2022, Day 26, Phase 3** marks the 100th day of fascist Russia’s genocidal war against Ukraine. It will also the last day of this daily chronicle about the bloody mess. It’s been fun, but not *that* fun.
+**Friday, June 3, 2022, Day 26, Phase 3** marks the 100th day of fascist Russia’s genocidal war against Ukraine. It will also be the last day of this daily chronicle about the bloody mess. It’s been fun, but not *that* fun.
 
 Instead of writing, I will be running.
 
 I much prefer spherical cows, factoring agreements and thinking about El Farol Bar problem[1](#footnote-1) than browsing battlefield posts on Telegram channels. Future projects abound, including goats, chickens, livestock guardian dogs. Maybe a cheese farm near the mighty Ros river on the border of Cherkasy region?
 
-Fred’s [Institute for the Study of War](https://www.understandingwar.org/), the same dream factory that in December 2021 gave us “[strategic misdirection](https://www.understandingwar.org/sites/default/files/Ukraine%20Invasion%20Forecast%20Series%20Part%201%20ISW%20CT%20December%202021.pdf),” assuming Putin would act within the bounds of rationality, as if he were rational, continues to publish daily [critical threat](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-may-29) reports, as well as [Stefan](https://www.facebook.com/stefan.korshak), who is in and out of the war zone. Ordinary Ukrainians follow news about the war from friends and family who live in invaded areas or who involved in the effort to liberate them.
+Fred’s [Institute for the Study of War](https://www.understandingwar.org/), the same dream factory that in December 2021 gave us “[strategic misdirection](https://www.understandingwar.org/sites/default/files/Ukraine%20Invasion%20Forecast%20Series%20Part%201%20ISW%20CT%20December%202021.pdf),” assuming Putin would act within the bounds of rationality, as if he were rational, continues to publish daily [critical threat](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-may-29) reports, as well as [Stefan](https://www.facebook.com/stefan.korshak), who is in and out of the war zone. Ordinary Ukrainians follow news about the war from friends and family who live in invaded areas or who are involved in the effort to liberate them.
 
 It’s difficult to predict when Phase 3 will end[2](#footnote-2).
 
 [Image]
 
-Z and his trusted advisors continue to ask urgently for more weapons and ammunition. They still haven’t apologized telling us Russia’s invasion was not imminent or inevitable, despite being told otherwise repeatedly[3](#footnote-3).
+Z and his trusted advisors continue to ask urgently for more weapons and ammunition. They still haven’t apologized for telling us Russia’s invasion was not imminent or inevitable, despite being told otherwise repeatedly[3](#footnote-3).
 
 Martial law has been extended to August 23, 2022. This means no one will be allowed early morning runs or to hang out late at Tootsie’s.
 
@@ -5053,12 +5053,12 @@ No one should pretend functioning democratic institutions exist. It should be on
 
 [Image]
 
-Tens and tens of thousands more people have died preventable gruesome deaths during the first 100 days in the ninth year of fascistic Russia’s genocidal war against Ukraine. The map below shows that most of the recent fighting is taking place in eastern Ukraine.
+Tens and tens of thousands more people have died preventable gruesome deaths during the first 100 days of fascistic Russia’s genocidal war against Ukraine. The map below shows that most of the recent fighting is taking place in eastern Ukraine.
 
 [Image]
 *Map c/o Nathan*
 
-The primary goal of the exercise — which began with the annexation of Crimea and occupation of areas of Donetsk and Luhansk regions in early 2014 — has remained the same: subjugation of Ukraine.
+The primary goal of the exercise — which began with the annexation of Crimea and the occupation of areas of the Donetsk and Luhansk regions in early 2014 — has remained the same: subjugation of Ukraine.
 
 Marian Kushnir from RFE/RL’s Ukrainian bureau filed this report from frontline Severodonetsk on June 3 (Day 100) to give you an idea of what today’s epicenter of the bloody mess looks and smells like.
 
@@ -5087,7 +5087,7 @@ What’s shocked me most over the last 100 days has been the amount of non-think
 
 The collection of out-of-work mercenaries and untrained Russian peasants sent to pillage towns around Kyiv early during the campaign is not a regular, combat-ready force, just a bunch of undisciplined licensed privateers[4](#footnote-4).
 
-Any army that robs and rapes civilians is not an effective fighting force. All the demonstrative acts of extreme violence evokes the Eternal Struggle, man against man against nature, reminding us that, in the end, there's no escape and that Ukraine’s pain is irrelevant.
+Any army that robs and rapes civilians is not an effective fighting force. All the demonstrative acts of extreme violence evoke the Eternal Struggle, man against man against nature, reminding us that, in the end, there's no escape and that Ukraine’s pain is irrelevant.
 
 While death claims all in the end, it is the struggle to survive that defines life, as evinced in the first stanza of the [original lyrics](https://en.wikipedia.org/wiki/State_Anthem_of_Ukraine) of Ukraine’s national anthem:
 
@@ -5141,7 +5141,7 @@ Konrad thinks we’re winning the war, kind of, or at least holding our own for 
 
 *Date: 2022-06-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
-My favorite member of parliament Mykola Tyshchenko was on display over the weekend standing next to Serhiy Leshchenko. Both were surveying damage by cruise missiles that hit a wagon repair factory in Kyiv’s Darnytsky district.
+My favorite member of parliament Mykola Tyshchenko was on display over the weekend, standing next to Serhiy Leshchenko. Both were surveying damage by cruise missiles that hit a wagon repair factory in Kyiv’s Darnytsky district.
 
 UK Ministry of Defence [said](https://twitter.com/DefenceHQ/status/1533681853311463428) the missile strike was “likely an attempt to disrupt the supply of Western military equipment to frontline Ukrainian units.”
 
@@ -5157,7 +5157,7 @@ I wonder how — or if — the war is changing that.
 
 [1](#footnote-anchor-1)
 
-Known in the underworld as *Kolya the Pump*, *Kolya-Obolonsky* and *Kolya the Pork Chop*, Tyshchenko is a brute, for a man almost 50 years old! [A Man in Full](http://Known in the underworld as Kolya the Pump, Kolya-Obolonsky and Kolya the Pork Chop, Tyshchenko is a brute, for a man almost 50 years old!). *The pork chop from Obolon* (September 10, 2021)
+Known in the underworld as *Kolya the Pump*, *Kolya-Obolonsky* and *Kolya the Pork Chop*, Tyshchenko is a brute, for a man almost 50 years old! [A Man in Full](https://abdymok.substack.com/p/a-man-in-full?s=w). *The pork chop from Obolon* (September 10, 2021)
 
 [2](#footnote-anchor-2)
 
@@ -5182,18 +5182,18 @@ At least, according to this [story](https://www.nytimes.com/live/2022/06/06/worl
 
 Last time I checked, Thomas Gibbons-Neff [served](https://www.nytimes.com/by/thomas-gibbons-neff) in the U.S. military, so it’s possible he knows what he’s talking about. He was a Marine, though, so it’s also possible he doesn’t.
 
-I don’t know what Ukraine’s version of [TRADOC](https://www.tradoc.army.mil/) is and how effective it is training up soldiers to use gifted gear. But using smart optics, night-vision goggles and rifle scopes isn’t exactly rocket science, especially if your life defends on it.
+I don’t know what Ukraine’s version of [TRADOC](https://www.tradoc.army.mil/) is and how effective it is training up soldiers to use gifted gear. But using smart optics, night-vision goggles and rifle scopes isn’t exactly rocket science, especially if your life depends on it.
 
 [Image]
 *Boxes of ATN BinoX thermal bioculars (Photo c/o ATN-Ukraine )*
 
-The [JIM LR](https://www.safran-group.com/sites/default/files/2021-05/d1592e_jim_lr.pdf)s are just a very pricey — maybe over-pricey — version of [ATN’s BinoX 4Ks](https://www.atncorp.com/day-night-binoculars-binox-4k-4-16x), which even this retired astigmatic very retired 98G with a J2 trailer learned how to use in less than 20 minutes in early May.
+The [JIM LRs](https://www.safran-group.com/sites/default/files/2021-05/d1592e_jim_lr.pdf) are just a very pricey — maybe overpriced — version of [ATN’s BinoX 4Ks](https://www.atncorp.com/day-night-binoculars-binox-4k-4-16x), which even this retired astigmatic very retired 98G with a J2 trailer learned how to use in less than 20 minutes in early May.
 
 Which brings me back to Tiger woman Avril and what she [told](https://abdymok.substack.com/p/day-3-phase-3?s=w) U.S. Senators on May 11 (Day 3, Phase 3)[1](#footnote-1):
 
 [Image]
 
-During the first three months of the war — and the three months before that and the three months before that — I have been unimpressed by the competence of Ukraine’s Defence Intelligence Agency and State Security Service. Ukraine’s Defense Minister and deputy Hanna both have zero (0) active military experience. The same goes for Z and most his draft-dodging team, including Oleksiy Arestovych, who was basically washed out of the ranks during the third year of the war.
+During the first three months of the war — and the three months before that and the three months before that — I have been unimpressed by the competence of Ukraine’s Defence Intelligence Agency and State Security Service. Ukraine’s Defense Minister and deputy Hanna both have zero (0) active military experience. The same goes for Z and most of his draft-dodging team, including Oleksiy Arestovych, who was basically washed out of the ranks during the third year of the war.
 
 Still, maybe they can speak to the “absorbing assistance” issue raised in Tom’s NYT article and by Avril?
 
