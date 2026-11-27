@@ -1102,7 +1102,7 @@ Dunno. Let’s check with Tiger Team…
 
 Yawn.
 
-Boom! @03.55. Probably am anti-missile batteries popping off.
+Boom! @03.55. Probably are anti-missile batteries popping off.
 
 (*to be continued*)
 
@@ -1124,7 +1124,7 @@ The time of impact was 05.50, give or take a couple of seconds. We know what was
 
 [Image]
 
-Another exploding object landed in Kyiv’s Svyatoshinsky District and incinerated several cars. Prob a Shakhed drone.
+Another exploding object landed in Kyiv’s Svyatoshinsky District and incinerated several cars. Prob a Shahed drone.
 
 [Video: https://youtu.be/Ob\_2i5P16VQ]
 
@@ -1150,15 +1150,15 @@ Here’s a different angle of the mess, c/o Marina, and her OnePlus telephone. I
 
 [Video: https://youtu.be/u4v3PE3t2UQ]
 
-I was fumbling with f-stop not far way from the [Eternal Park of Glory](https://en.wikipedia.org/wiki/Park_of_Eternal_Glory) trying to take a picture of the Mist Mesto bridge in the dark.
+I was fumbling with f-stop not far way from the [Eternal Park of Glory](https://en.wikipedia.org/wiki/Park_of_Eternal_Glory) trying to take a picture of the Mist Metro Bridge in the dark.
 
 [Image]
 
-The Kinzhal Russian hypersonic missile struck minutes later a couple of kilometers downriver.
+The Russian Kinzhal hypersonic missile struck a couple of kilometers downriver minutes later.
 
 [Image]
 
-Which reminds me of taking a different photograph in tricky light [a couple of years ago[1](#footnote-1).](https://abdymok.substack.com/p/coming-to-a-theater-near-you)
+Which reminds me of taking a different photograph in tricky light [a couple of years ago](https://abdymok.substack.com/p/coming-to-a-theater-near-you)[1](#footnote-1).
 
 [Image]
 
@@ -1174,18 +1174,18 @@ Which reminds me of taking a different photograph in tricky light [a couple of y
 
 *Win the war, go extinct*
 
-Inertia comes from the Latin word, iners, meaning idle, sluggish.We all know that water particles sticking to the bicycle tire fly off tangentially whenever a cyclist negotiates a tight curve that creates a force acting *away* from the center of the curve. It’s called ***inertia of direction*** and can cause bloody accidents, depending on your sense of balance. Just as potentially deadly is ***inertia of motion**,* when a force does not act on an object and continues to move at the same speed. When your bicycle comes to a sudden stop, for example, you fly over the handle bars.
+Inertia comes from the Latin word *iners*, meaning idle or sluggish. We all know that water particles sticking to the bicycle tire fly off tangentially whenever a cyclist negotiates a tight curve that creates a force acting *away* from the center of the curve. It’s called ***inertia of direction*** and can cause bloody accidents, depending on your sense of balance. Just as potentially deadly is ***inertia of motion**,* when no force acts on an object, it continues to move at the same speed. When your bicycle comes to a sudden stop, for example, you fly over the handlebars.
 
 This is all apropos of Valeriy Pekar’s article, titled “[Winning the War, Losing the Peace: Inertial Scenarios](https://forum.pravda.com.ua/index.php?topic=1131715.0),” appearing on Ukrainska Pravda’s forum the other day.
 
-I include the key 10 points, leaving out the *inertial scenarios* blah blah, which Ukraine’s cheerleaders abroad are leery of discussing, at least publicly, so far.
+I include the key 10 points, leaving out the *inertial scenarios* blah blah, which Ukraine’s cheerleaders abroad are leery of discussing, at least publicly so far.
 
 [Image]
 
 *Let’s take a look at the state of Ukraine affairs immediately following victory.*
 
-1. We won. The transition from war to peace is much more difficult than the transition from peace to war. The country lost a hundred thousand of the best people. The country is in ruins. Some cities have been completely destroyed, and in some regions there is a real humanitarian catastrophe. There is a huge hole in the budget, because the economy has shrunk a lot. Our best people, the military, return home exhausted. The first priority for them is the restoration of health and accommodation. Similarly, a significant part of the active minority of those who tirelessly worked for victory in the rear is exhausted. The whole society is traumatized.
-2. Reforms have not been carried out. They are "out of time," and no one particularly intended to carry them out. Ukraine has not fulfilled its obligations and therefore it receives neither sufficient money for reconstruction from international partners and donors nor membership in the European Union. The Ukrainian political elite insists on both money and membership ("first European integration, then reforms," "Winners are not judged," "You owe us because we saved you", etc.), but international partners are not convinced by this rhetoric. First, they have not forgotten the numerous previous deceptions. Secondly, they are afraid of the appearance of a new cohort of oligarchs who will emerge and start embezzling assistance money, for which they will be held accountable by constituents. Thirdly, no one in the EU needs a wants a new large member state that is a problem, not an opportunity.
+1. We won. The transition from war to peace is much more difficult than the transition from peace to war. The country lost a hundred thousand of its best people. The country is in ruins. Some cities have been completely destroyed, and in some regions there is a real humanitarian catastrophe. There is a huge hole in the budget, because the economy has shrunk a lot. Our best people, the military, return home exhausted. The first priority for them is the restoration of health and accommodation. Similarly, a significant part of the active minority of those who tirelessly worked for victory in the rear is exhausted. The whole society is traumatized.
+2. Reforms have not been carried out. They are "out of time," and no one particularly intended to carry them out. Ukraine has not fulfilled its obligations and therefore it receives neither sufficient money for reconstruction from international partners and donors nor membership in the European Union. The Ukrainian political elite insists on both money and membership ("first European integration, then reforms," "Winners are not judged," "You owe us because we saved you", etc.), but international partners are not convinced by this rhetoric. First, they have not forgotten the numerous previous deceptions. Secondly, they are afraid of the appearance of a new cohort of oligarchs who will emerge and start embezzling assistance money, for which they will be held accountable by their constituents. Thirdly, no one in the EU needs or wants a new large member state that is a problem, not an opportunity.
 3. The restoration of the country is put on hold. The end of hostilities and martial law actualizes the question of the return or non-return of those who left: European governments will gently push out those who have not taken root, and encourage those who can take root (because everyone needs educated hardworking people). Millions of families will face a choice: women with children return home to their husbands or men join their families. The decision will be made according to the assessment of the situation at that time.
 4. There is no well-paid work in Ukraine, because jobs in the private sector require private investment and the public sector is already overloaded. The conditions for creating your own business do not bear comparison with the neighbors (a large part of businesses have already relocated to the countries of Central and Eastern Europe). Schools and hospitals, without which life is impossible, are restored in minimal volumes. Newly liberated territories and completely destroyed cities require huge funds just to start life. Inflation, contained in 2022-2023 thanks to international aid, is starting to accelerate — and because in the absence of donor money for recovery, the state will be forced to turn on the printing press to rebuild at least critical infrastructure.
 5. The situation worsens, but does not cause protest: in Ukraine, people usually protest against injustice, and not against the deterioration of living conditions, and this happens as a result of sudden events, and not the slow "boiling of a frog.” And there is no one to protest: the active minority is exhausted, and perhaps even divided by artificial strife. Controlled media and social media contributors label any criticism of the government as undermining national unity. Russian propaganda, meanwhile has also not gone anywhere, even if Russia is already beginning to collapse after military defeat.
@@ -1196,8 +1196,8 @@ I include the key 10 points, leaving out the *inertial scenarios* blah blah, whi
 
 8. Against this background, the key reforms of previous years are winding down, and the people who implemented them risk going to prison (Such cases are well known from the beginning of 2023). Behind the scenes of this scene are characters close to the Russian special services (all names are known). The corruption vertical is closed at the top, anti-corruption bodies are under control, supervisory boards are destroyed, public organizations are either bought (not always for money, often for access to the media and the offices of power) or pushed to the margins. Court positive bloggers explain to the people in simple language why this is necessary.
 
-9. The most politically dangerous group are popular military and volunteer leaders. The most popular and most active of them are "removed from the board" by criminal proceedings for exceeding their powers, violating the rules and making decisions that caused material damage to the state (I think you understand perfectly how much officers and generals exceeded their powers during the war, and volunteers violated the rules). The exhaustion of society, the huge unsatisfied demand for justice and the awareness of the scale of our losses demand revenge on someone. Protests are marginalized, statements about the supremacy of justice over justice in conditions of low legal culture are not heard.
-10. Since the international partners did not provide either money or membership in the European Union, the people are told that the West abandoned us, drained us and deceived us. This plain and obvious thesis explains poverty and ruin, unemployment and rising prices well. For the next 25 years, Ukrainians experienced a sharp resentment for this behavior of the West. We are turning into a nation of offended victors, unable to draw conclusions (They are drawn either by the vanquished or by the successful victors). Here comes China with very favorable loan offers... Western intellectuals wisely shake their heads, repeating the phrase, "Ukraine never wastes a chance to waste all chances." This is how a generation passes. Everything that will happen after that is another generation, another story.
+9. The most politically dangerous group is made up of popular military and volunteer leaders. The most popular and most active of them are "removed from the board" by criminal proceedings for exceeding their powers, violating the rules and making decisions that caused material damage to the state (I think you understand perfectly how much officers and generals exceeded their powers during the war, and volunteers violated the rules). The exhaustion of society, the huge unsatisfied demand for justice and the awareness of the scale of our losses demand revenge on someone. Protests are marginalized, statements about the supremacy of justice over justice in conditions of low legal culture are not heard.
+10. Since the international partners did not provide either money or membership in the European Union, the people are told that the West abandoned us, drained us and deceived us. This plain and obvious thesis explains poverty and ruin, unemployment and rising prices well. For the next 25 years, Ukrainians will experience sharp resentment for this behavior of the West. We are turning into a nation of offended victors, unable to draw conclusions (They are drawn either by the vanquished or by the successful victors). Here comes China with very favorable loan offers... Western intellectuals wisely shake their heads, repeating the phrase, "Ukraine never wastes a chance to waste all chances." This is how a generation passes. Everything that will happen after that is another generation, another story.
 
 ---
 
@@ -1207,11 +1207,11 @@ I include the key 10 points, leaving out the *inertial scenarios* blah blah, whi
 
 *Da Vinci wolves *
 
-I started listening to practicing philosopher Vladimir talking about himself for Polit.ru ([Part 1](https://www.youtube.com/watch?v=-D7Y-_AvRLI&ab_channel=%D0%9F%D0%BE%D0%BB%D0%B8%D1%82.%D1%80%D1%83) [Пастухов о Пастухове] and [Part 2](https://www.youtube.com/watch?v=nbFrAXR4u3k&ab_channel=%D0%9F%D0%BE%D0%BB%D0%B8%D1%82.%D1%80%D1%83) [Русская матрица и русская революция]), hoping to hear more about MSD’s Fosamax marketing strategy in the CIS[1](#footnote-1). But almost immediately, predictably, my thoughts wandered and I thought about Shevernadze’s address to parliament in December 1990.
+I started listening to practicing philosopher Vladimir talking about himself for Polit.ru ([Part 1](https://www.youtube.com/watch?v=-D7Y-_AvRLI&ab_channel=%D0%9F%D0%BE%D0%BB%D0%B8%D1%82.%D1%80%D1%83) [Пастухов о Пастухове] and [Part 2](https://www.youtube.com/watch?v=nbFrAXR4u3k&ab_channel=%D0%9F%D0%BE%D0%BB%D0%B8%D1%82.%D1%80%D1%83) [Русская матрица и русская революция]), hoping to hear more about MSD’s Fosamax marketing strategy in the CIS[1](#footnote-1). But almost immediately, predictably, my thoughts wandered and I thought about Shevardnadze’s address to parliament in December 1990.
 
 [Video: https://youtu.be/jd9XBipnJOg]
 
-I was in Moscow at the time asking myself whether this meant the end of the revolution or the beginning of end, waving down cars the ruble equivalent of $1, although in those days I tried to pay in $2 bills.
+I was in Moscow at the time asking myself whether this meant the end of the revolution or the beginning of the end, waving down cars for the ruble equivalent of $1, although in those days I tried to pay in $2 bills.
 
 **At least the beginning of the end** (Part 1), answers Vladimir, who began consulting [MSD](https://www.msd.ru/) about the time I walked out the door four years later. He mentions some [MSD escapades](https://polit.ru/article/2020/10/28/pastuhovrusimp/) in other lectures, but he’s probably holding back the juiciest bits postdating my tenure, like the one below, fortunately.
 
@@ -1221,7 +1221,7 @@ I was in Moscow at the time asking myself whether this meant the end of the revo
 >
 > Возникла пауза, вот абсолютно такая, как в «12 стульях», я на это смотрел с большим интересом. Ко мне подошел один из организаторов, гениальный совершенно швейцарский адвокат, мой коллега, и сказал: «Слушай, ты знаешь, в Восточной Европе, похоже, одни русские самодостаточны, то есть им не нужен никто».
 
-Lovostatin to Kazakhstan is another story, but I can’t remember the conditions of that sale, along with Timoptic to Turkmenistan.
+Lovastatin to Kazakhstan is another story, but I can’t remember the conditions of that sale, along with Timoptic to Turkmenistan.
 
 ---
 
@@ -1235,7 +1235,7 @@ A decade later, we use red marks to identify corpses of self-sufficient invaders
 
 [Image]
 
-Recall that in November 2022 the Ukrainian Volunteer Corps was reformed as the [67th Separate Mechanized Brigade](https://en.wikipedia.org/wiki/67th_Mechanized_Brigade_(Ukraine)) and got a new patch. One of the battalions is named after “Hammer” Taras Bobanych, who died on April 8, 2022 in a battle near Izium, Kharkiv region.
+Recall that in November 2022 the Ukrainian Volunteer Corps was reformed as the [67th Separate Mechanized Brigade](https://en.wikipedia.org/wiki/67th_Mechanized_Brigade_(Ukraine)) and got a new patch. One of the battalions is named after “Hammer” Taras Bobanych, who died on April 8, 2022 in a battle near Izium in Kharkiv region.
 
 [Image]
 
@@ -1265,7 +1265,7 @@ Toronto TV did a piece about the unit after the Kharkiv counteroffensive this fa
 
 I’m torn between sorting out Ukraine’s pharmaceutical market, tracking cheap generic drugs smuggled into the country from Asia, investigating investment bank boutiques, researching post-invasion macroeconomic theory and/or re-editing unfinished stories about the war.
 
-Maybe just take some time off and run faster? That’s probably the best idea, since Iboga is short supply.
+Maybe just take some time off and run faster? That’s probably the best idea, since Iboga is in short supply.
 
 [Image]
 
