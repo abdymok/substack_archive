@@ -1,4 +1,4 @@
-# Iskander / abdymok Substack Archive — 2025
+### Iskander / abdymok Substack Archive — 2025
 
 280 posts.
 
@@ -3327,7 +3327,7 @@ In March, there was **zero** reduction in the level of terror caused by Russian 
 
 On March 25, the Kremlin [announced](http://en.kremlin.ru/events/president/news/76534):
 
-# A list of energy facilities of Russia and Ukraine covered by the temporary moratorium on strikes against the energy system, as agreed upon by the Russian and American sides
+### A list of energy facilities of Russia and Ukraine covered by the temporary moratorium on strikes against the energy system, as agreed upon by the Russian and American sides
 
 > 1. Oil refineries.
 >
@@ -4091,7 +4091,7 @@ Althoug Scott is my favorite among Donald’s cabinet picks, Team USA’s tariff
 
 ---
 
-# Fake push ups
+### Fake push ups
 
 Tip of the spear SecDef Pete disgraces himself on FoxNews.
 
@@ -6660,7 +6660,7 @@ Direct hits were recorded at six locations, as well as falling debris at 25 loca
 
 ---
 
-# International law, particularly the rules of international humanitarian law, prohibits the shooting of ballistic missiles at residential areas of large cities.
+### International law, particularly the rules of international humanitarian law, prohibits the shooting of ballistic missiles at residential areas of large cities.
 
 The meta-game is the game of games. It's the larger geopolitical contest of aggression and dominance. The meta-game for despots who refuse to play by the rules is how to stay in power.
 
@@ -8515,7 +8515,7 @@ The flight to Anchorage takes about four hours.
 
 \*\*\*
 
-# Two Jackasses, One Map Collection
+### Two Jackasses, One Map Collection
 
 *Neither side will open the other's doors or ride in the other's vehicles. If 10 US agents are posted outside a meeting room, 10 Russian agents will stand on the other side. Everything is matched body for body, gun for gun.* — [Secret Service Rushes to Alaska City for Trump-Putin Summit](https://www.bloomberg.com/news/articles/2025-08-14/secret-service-rushes-to-make-alaska-city-safe-for-trump-putin?srnd=homepage-europe) (Bloomberg, August 14, 2025)
 
@@ -9004,7 +9004,7 @@ If you’re not getting at least 8 hours regularly, the result is … fuzzy thin
 
 ---
 
-# Flying Blind and Loving It
+### Flying Blind and Loving It
 
 Czesław Miłosz had a useful term for people who mistake their intellectual submission for wisdom: *ketman*—the art of paying lip service to official doctrine while privately maintaining doubts. Today's Trump administration has managed something even more impressive: they've eliminated the doubts entirely by firing everyone who might have them.
 
@@ -9978,7 +9978,7 @@ Have a great weekend! Support independent artists!
 
 [Image]
 
-# Russia Invades Polish Airspace, So Trump Issues an Ultimatum to... NATO
+### Russia Invades Polish Airspace, So Trump Issues an Ultimatum to... NATO
 
 Russian drones crossed into Polish airspace last week. NATO territory. Article 5 stuff.
 
@@ -11803,7 +11803,7 @@ The big news in Kyiv is the deficit of electricity. DTEK has started switching t
 
 ---
 
-# An Annotated Manifesto Against Tidying Up Joy
+### An Annotated Manifesto Against Tidying Up Joy
 
 Marie, or KonMarie as she insists we call her (because one name wasn’t quite guru enough), has graced Google again this year with wisdom about finding joy at work. Her previous appearance concerned the radical notion of cleaning up after yourself—riveting stuff for a company worth billions.
 
@@ -11847,7 +11847,7 @@ Don’t take the elevator.
 
 [Image]
 
-# The Absurdist War Economy
+### The Absurdist War Economy
 
 So a casting agency pivots to drones and suddenly it’s got $1 billion in contracts. Fire Point went from scouting film locations for Z’s rom-coms to churning out exploding Styrofoam birds at thirty secret factories. The owner still runs a location scouting business. The CTO used to make concrete patio furniture. Now they’re building the Flamingo—a jet-powered drone with a one-ton warhead that got its name because they ran out of red paint. Z promises 3,000 of them this year. You cannot make this up[1](#footnote-1).
 
@@ -12582,7 +12582,7 @@ Now we know why.
 
 [Image]
 
-# Thug Life
+### Thug Life
 
 **November 2021**: Journalist Yuriy Butusov after Z’s five-hour presser: “I should have stood up and punched him in the face.” Only respect for the office held him back. We wrote then that Z had driven Ukraine into a double-tracked curve where the rear wheel bogey jumped the rails—flattening the economy while failing to prevent civilian deaths. Wagnergate, helicopter taxi services via the State Emergency Service, constant allegations of impropriety. “We must pull the lever,” Z said. But he was the trolley problem[1](#footnote-1).
 
