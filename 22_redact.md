@@ -56,7 +56,7 @@ In related news, Serhiy Leshchenko found himself in a mood to write something *m
 
 [Image]
 
-That anyone *anywhere* is so stupid as to take this laughable piece of shit seriously, with his his deranged fantasies about de-oligarchization, his bizarrely punctuated bullshit on behalf of those whose plan for Ukraine’s “security” is a [brief winter](https://www.facebook.com/abdymok/posts/4660129697414964?notif_id=1641314759783685&notif_t=feedback_reaction_generic&ref=notif) *[відпочинок](https://www.facebook.com/abdymok/posts/4660129697414964?notif_id=1641314759783685&notif_t=feedback_reaction_generic&ref=notif)* in Bukovel, is beyond me.
+That anyone *anywhere* is so stupid as to take this laughable piece of shit seriously, with his deranged fantasies about de-oligarchization, his bizarrely punctuated bullshit on behalf of those whose plan for Ukraine’s “security” is a [brief winter](https://www.facebook.com/abdymok/posts/4660129697414964?notif_id=1641314759783685&notif_t=feedback_reaction_generic&ref=notif) *[відпочинок](https://www.facebook.com/abdymok/posts/4660129697414964?notif_id=1641314759783685&notif_t=feedback_reaction_generic&ref=notif)* in Bukovel, is beyond me.
 
 Serhiy, like [Iuliia,](https://abdymok.substack.com/p/weightless-self-promotion) is thriving today, thanks to the *new* Kyiv Post’s ground glass editorial policy devised to delight only a handful of people. Looking on the bright side, the man they are paid to apologize for – the twitching chimp that is Zelensky *fils –* is unlikely to regain popularity thanks to op-eds published in any language anywhere, that is, unless Russia mounts a full-scale invasion.
 
@@ -156,7 +156,7 @@ Imagine, for a moment, the future of English-language news about Ukraine.
 
 You're minding your own business and browsing the web, checking social media, or something, and you plug a cable into the back of your head so you can physically experience the journalistic side of bullshit.
 
-Now imagine surfing to the *new* Kyiv Post’s [website](https://www.kyivpost.com/). Quickly, you click on a random link, only only to find yourself drowning in an essay about [global food security](https://www.kyivpost.com/ukraine-politics/the-looming-2022-food-crisis-how-ukraine-can-cope.html). You follow another story that brings you to Ukraine’s [Business Ombudsman](https://www.kyivpost.com/ukraine-politics/business-ombudsman-council-calls-for-radical-reform.html), an experience that reminds you of the shower scene from Alfred Hitchcock's *[Psycho](https://en.wikipedia.org/wiki/Psycho_(1960_film))*.
+Now imagine surfing to the *new* Kyiv Post’s [website](https://www.kyivpost.com/). Quickly, you click on a random link, only to find yourself drowning in an essay about [global food security](https://www.kyivpost.com/ukraine-politics/the-looming-2022-food-crisis-how-ukraine-can-cope.html). You follow another story that brings you to Ukraine’s [Business Ombudsman](https://www.kyivpost.com/ukraine-politics/business-ombudsman-council-calls-for-radical-reform.html), an experience that reminds you of the shower scene from Alfred Hitchcock's *[Psycho](https://en.wikipedia.org/wiki/Psycho_(1960_film))*.
 
 You click randomly to escape only to find yourself in the middle of Iuliia Mendel’s nod-along [fantasies](https://www.kyivpost.com/article/opinion/op-ed/coping-with-groundhog-day-in-kherson-region.html?fbclid=IwAR0jnj3Ly_blewgCCQhlggM4Rg8VkmWK-1hWCjJc-V-hH4P8IP59ZHCHEKw) about [Evergrande](https://www.kyivpost.com/world/china-vs-us-lessons-from-the-past-and-current-signals.html) and [groundhog day in Kherson region](https://www.kyivpost.com/article/opinion/op-ed/coping-with-groundhog-day-in-kherson-region.html).
 
@@ -505,7 +505,7 @@ There is no “Russian invasion” of Ukraine, which the United States and its a
 
 In this context, Russian obligations under the 1994 Budapest Memorandum have nothing to do with the internal Ukrainian conflict and does not apply to circumstances resulting from the action of internal factors there. The loss of territorial integrity by the Ukrainian state is the result of the processes that have taken place within it.
 
-The accusations of Russia contained in the American response that it “occupied Crimea” also do not stand up to scrutiny. In 2014, a coup d'etat took place in Kyiv, the initiators of which, with the support of the United States and its allies, supported the creation of a nationalist state that infringes on the rights of the Russian and Russian-speaking population, as well as other "non-titular" ethnic groups. It is not surprising, residents of Crimean voted for reunification with Russia. The decision of the people of Crimea and Sevastopol to return to the Russian Federation was made made by free will in the exercise of the right to self-determination enshrined in the UN Charter. No force or threat of force was used. The question of whether Crimea is a part of is closed.
+The accusations of Russia contained in the American response that it “occupied Crimea” also do not stand up to scrutiny. In 2014, a coup d'etat took place in Kyiv, the initiators of which, with the support of the United States and its allies, supported the creation of a nationalist state that infringes on the rights of the Russian and Russian-speaking population, as well as other "non-titular" ethnic groups. It is not surprising, residents of Crimean voted for reunification with Russia. The decision of the people of Crimea and Sevastopol to return to the Russian Federation was made by free will in the exercise of the right to self-determination enshrined in the UN Charter. No force or threat of force was used. The question of whether Crimea is a part of is closed.
 
 If Ukraine is accepted into NATO, there will be a real threat that the regime in Kyiv will try to “return” Crimea by force, drawing in the United States and its allies, in accordance with Art. 5 of the Washington Treaty, into a direct armed conflict with Russia with all the ensuing consequences.
 
@@ -850,7 +850,7 @@ I’ll probably update this page throughout the course of Day 3. Shout-out to al
 
 [Image]
 
-**08:38: -** Orc column of 100 vehicles from Vyshhorod spotted in [Kozarovychi](https://www.google.com/maps/place/Kozarovychi,+Kyiv+Oblast,+07332/@50.5971772,30.1938333,10.25z/data=!4m5!3m4!1s0x472ad78749b49b7d:0x265234b0edc3fb54!8m2!3d50.7598969!4d30.3613898) [reportedly](https://censor.net/ru/news/3319316/so_storony_vyshgoroda_v_kiev_dvijetsya_vrajeskaya_kolonna_okolo_100_edinits_bronetehniki_na_ee_bortah) heading heading south towards Kyiv. Expect liquidation.
+**08:38: -** Orc column of 100 vehicles from Vyshhorod spotted in [Kozarovychi](https://www.google.com/maps/place/Kozarovychi,+Kyiv+Oblast,+07332/@50.5971772,30.1938333,10.25z/data=!4m5!3m4!1s0x472ad78749b49b7d:0x265234b0edc3fb54!8m2!3d50.7598969!4d30.3613898) [reportedly](https://censor.net/ru/news/3319316/so_storony_vyshgoroda_v_kiev_dvijetsya_vrajeskaya_kolonna_okolo_100_edinits_bronetehniki_na_ee_bortah) heading south towards Kyiv. Expect liquidation.
 
 **08:00 -** Ze, Podoliak post self-aggrandizing [vids](https://t.me/V_Zelenskiy_official), say everything 100% a-okay.
 
@@ -1513,7 +1513,7 @@ About two thirds of the way through their [smug and toweringly unconvincing argu
 
 Of the many stains left across the Internet – rubber-stamp obviousness and desperate cries for attention being close-to-hand examples – surely one of the greasiest is saying “Washington’s best course is the one it’s on,” an endorsement that plays as reliably well in Kyiv these days as Torpedo the turtle cartwheeling 200 meters up in the air and landing on his back.
 
-I’ll write about about cake later.
+I’ll write about cake later.
 
 (*to be continued*)
 
@@ -1977,7 +1977,7 @@ My advice is to ignore Andy. Time better spent digesting Violetta’s [Battle fo
 *Maybe Belarus Won't Invade*
 
 [Image]
-*Kharkiv Economic University. Photo Photo c/o Третя Сила*
+*Kharkiv Economic University. Photo c/o Третя Сила*
 
 ######
 
@@ -2483,7 +2483,7 @@ We wrote abut Borodyanka on **[Day 9](https://abdymok.substack.com/p/day-9?s=w)*
 
 Let's say that more than a month *after* a mass murder had devastated Borodyanka, and at a moment when the miasma from the site could still be felt and smelled, a ticket-buying audience finally began paying attention.
 
-For more than eight years, the world needed to know **fascists**[1](#footnote-1) in Russia were sending soldiers to Ukraine to commit **genocide**[2](#footnote-2). During most of this period, we were told told fighting in eastern Ukraine was partly a **civil war** involving **rebels** and **separatists** opposing the central government in Kyiv. The pace of senseless killing intensified in February 2022.
+For more than eight years, the world needed to know **fascists**[1](#footnote-1) in Russia were sending soldiers to Ukraine to commit **genocide**[2](#footnote-2). During most of this period, we were told fighting in eastern Ukraine was partly a **civil war** involving **rebels** and **separatists** opposing the central government in Kyiv. The pace of senseless killing intensified in February 2022.
 
 Political leaders in Europe and journalists talked about the bloodshed as if it was entirely internal to Ukraine, a domestic affair brought on by **language politics**, **identity clashes** and **historical grievances**. Many of the same jingoism-resistant **nincompoops** made a beeline for chocolate shops in Lviv after Putin’s *special operation* began.
 
@@ -2656,7 +2656,7 @@ This might explain my skepticism about the prospects for a ceasefire in the fore
 
 [6](#footnote-anchor-6)
 
-For more than eight years, the world needed to know **fascists**[1](https://abdymok.substack.com/p/day-12-phase-2?s=w#footnote-1) in Russia were sending soldiers to Ukraine to commit **genocide**[2](https://abdymok.substack.com/p/day-12-phase-2?s=w#footnote-2). But during most of this period, we were told told fighting in eastern Ukraine was partly a **civil war** involving **rebels** and **separatists** opposing the central government in Kyiv. The pace of senseless killing intensified in February 2022. ([Day 12, Phase 2](https://abdymok.substack.com/p/day-12-phase-2?s=w). *On Becoming Ukrainian*. April 6, 2022)
+For more than eight years, the world needed to know **fascists**[1](https://abdymok.substack.com/p/day-12-phase-2?s=w#footnote-1) in Russia were sending soldiers to Ukraine to commit **genocide**[2](https://abdymok.substack.com/p/day-12-phase-2?s=w#footnote-2). But during most of this period, we were told fighting in eastern Ukraine was partly a **civil war** involving **rebels** and **separatists** opposing the central government in Kyiv. The pace of senseless killing intensified in February 2022. ([Day 12, Phase 2](https://abdymok.substack.com/p/day-12-phase-2?s=w). *On Becoming Ukrainian*. April 6, 2022)
 
 ---
 
@@ -3392,7 +3392,7 @@ A good quote from General Mark A. Milley, chairman of the Joint Chiefs of Staff,
 
 > “Time is not on Ukraine’s side. The outcome of this battle, right here, today, is dependent on the people in this room.”
 
-We all remember Mark, who was the one walking around around with the [big green map](https://www.washingtonpost.com/opinions/2022/03/08/ignatius-milley-ukraine-nato/) whispering to David about *intercepted messages*.
+We all remember Mark, who was the one walking around with the [big green map](https://www.washingtonpost.com/opinions/2022/03/08/ignatius-milley-ukraine-nato/) whispering to David about *intercepted messages*.
 
 [Image]
 
@@ -4607,8 +4607,8 @@ London-based practicing philosopher Vladimir Pastukhov on [Telegram](https://t.m
 
 1. Western elites perceived the collapse of the communist system as the collapse of Russia. The country was transferred to the category of "catching up" civilizations. This was greatly facilitated by the low self-esteem of Russian elites. Western governments did not take seriously the task of helping Russia to overcome the crisis of transition and lend a hand, as was done with Europe after World War II. Instead, they gave lots of bad advice. Left to its own devices, Russia quickly and irrevocably embarked on the path of building a "gangster state."
 2. NATO's direct participation in the Kosovo war in 1999 and the resolution of the crisis with demonstrative disregard for Russian participation contributed to the formation of a stable [Weimar Syndrome](https://www.nytimes.com/2014/05/02/opinion/cohen-russias-weimar-syndrome.html) in Moscow.
-3. The withdrawal of the United States from from the ABM agreement can be classified as a self-fulfilling prophecy. This move awakened in Russian military circles a sense of paranoia about the "first unanswered strike." It haunted Putin. Maybe it was a bad idea.
-4. Ukraine’s revolutions (Orange Revolution - 2003/2004, Revolution of Dignity - 2013/2014) aroused expectations that Russian influence in the post-Soviet space could be ended in a historically short period of time time. This sharply accelerated the course of events. The West began to stimulate the natural and justifiable desire of Ukraine to distance itself from Moscow.
+3. The withdrawal of the United States from the ABM agreement can be classified as a self-fulfilling prophecy. This move awakened in Russian military circles a sense of paranoia about the "first unanswered strike." It haunted Putin. Maybe it was a bad idea.
+4. Ukraine’s revolutions (Orange Revolution - 2003/2004, Revolution of Dignity - 2013/2014) aroused expectations that Russian influence in the post-Soviet space could be ended in a historically short period of time. This sharply accelerated the course of events. The West began to stimulate the natural and justifiable desire of Ukraine to distance itself from Moscow.
 5. The Collective West made promises to Ukraine that it either did not intend to keep in principle, or that it turned out to be impossible to keep after the fact. The included the promise to accept Ukraine into NATO. The pledge created the illusion of the existence of a mystical political “airbag” among Ukrainian leaders and provoked “dangerous driving” on those sharp bends where a more cautious driver usually slows down. Unfortunately, real assistance to Ukraine began to arrive after accident already occurred. It was no longer "technical assistance," but "emergency care."
 
 I’m not sure about number 3 and number 5. My eyes glaze over whenever I come into contact with the words Collective West.
@@ -5094,7 +5094,7 @@ Putin’s [spelled out](https://www.youtube.com/watch?v=_YRUlb_7T9o) his demands
 
 ---
 
-Putin may well have lacked "intentions" insofar as he failed to think about the new crimes he is now responsible for, but maybe the term "thinking" should be be reserved for a more reflective mode of rationality.
+Putin may well have lacked "intentions" insofar as he failed to think about the new crimes he is now responsible for, but maybe the term "thinking" should be reserved for a more reflective mode of rationality.
 
 To have "intentions" means thinking reflectively about one's own actions as a human being, whose own life and thinking is bound up with the life and thinking of others.
 
@@ -6305,7 +6305,7 @@ In other news, ex Prosecutor General Iryna Venediktova is moving to Switzerland.
 We have written about both previously and are not sad to see them go[2](#footnote-2).
 
 [Image]
-*Ukraine’s Minister of Foreign Affairs on August 3, 2022 proposed appointing Iryna Iryna Venedyktova to be ambassador to Switzerland*
+*Ukraine’s Minister of Foreign Affairs on August 3, 2022 proposed appointing Iryna Venedyktova to be ambassador to Switzerland*
 
 Which brings me to Taiwan and the unhelpful [op-ed](https://nyti.ms/3Jpeyog) appearing in The New York Times by Thomas Friedman.
 
@@ -6477,7 +6477,7 @@ Of course, there’s always *fragging*, if you don’t want to deal with the has
 
 During the second 100 days of the war we focused on pushing neuro-scientific buttons by controlling the virtual self from a location directly above the head in order to hover outside the body.
 
-Teleportation is essentially a means of projecting. It’s driven naturally, or you can chew on 5 mg of Coca leaves. The set-up is as follows: run at least five miles a day for for four months at a reasonably fast clip, concentrating on breathing, stride and tempo. Eating fresh fruit and vegetables and regularly getting at least eight hours of sleep (or more) helps create the illusion by speeding up production of the lipid-soluble endocannabinoid called anandamide in quantities to circulate from your blood into your brain.
+Teleportation is essentially a means of projecting. It’s driven naturally, or you can chew on 5 mg of Coca leaves. The set-up is as follows: run at least five miles a day for four months at a reasonably fast clip, concentrating on breathing, stride and tempo. Eating fresh fruit and vegetables and regularly getting at least eight hours of sleep (or more) helps create the illusion by speeding up production of the lipid-soluble endocannabinoid called anandamide in quantities to circulate from your blood into your brain.
 
 With the goal of improving commutes in the dark on [Fatty Bad Boy](https://lifejoy.ua/bikes/velosiped-28-cannondale-bad-boy-4-fatty-rigid-acera-24-ck.-2015-cherno-matovyy.html) I bought one of those small bicycle lamps a couple of months ago, a [Lezyne HECTO DRIVE XL](https://ride.lezyne.com/products/hecto-drive-500xl-1). Its box indicates it is a Special Edition. It has impressive maximum output of 500 lumens and eight output modes, including a Daytime Flash mode. Though it was assembled in China, its design and promotion originate in Redmond, Washington. It costs $44, or almost UAH 1,800. That’s about $5 less than the [KTV DRIVE PRO SMART REAR](https://ride.lezyne.com/products/ktv-pro-smart-rear).
 
@@ -7295,7 +7295,7 @@ But back to Samantha, whom President Z awarded an Order of Princess Olha, 1st gr
 
 [Image]
 
-[Wikipedia](https://en.wikipedia.org/wiki/Order_of_Princess_Olga) says the medal medal is adorned with four rectangular amethysts and features a gilded ornament with silver parts.
+[Wikipedia](https://en.wikipedia.org/wiki/Order_of_Princess_Olga) says the medal is adorned with four rectangular amethysts and features a gilded ornament with silver parts.
 
 In other news, Elon and his Starlink continue to malfunction, according to [Endgadget](https://www.engadget.com/ukraine-starlink-outages-russia-elon-musk-173909699.html), which cites a firewalled article from the [Financial Times](https://www.ft.com/content/9a7b922b-2435-4ac7-acdb-0ec9a6dc8397). This *news* has also been reported by [The Economist](https://www.economist.com/briefing/2022/10/06/elon-musks-foray-into-geopolitics-has-ukraine-worried), which also quotes anonymous Ukrainian officials whining about service malfunctionins after September 30.
 
