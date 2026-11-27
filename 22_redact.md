@@ -2811,11 +2811,11 @@ We’re all familiar with the loop-the-loop problem. The basic idea is to take s
 
 An accomplished aviator, he completed the manoeuvre on September 9, 1913 in the airspace above the Syretski military airfield in Kyiv. It was the beginning of aerobatics.
 
-In an article, titled "How I made a loop," published in the St. Petersburg newspaper on September 5, 1913, Nesterov wrote:
+In an article titled "How I made a loop," published in the St. Petersburg newspaper on September 5, 1913, Nesterov wrote:
 
 [Image]
 
-Nesterov’s loop should not be confused with the [graveyard spiral](https://en.wikipedia.org/wiki/Graveyard_spiral), the type of dangerous downward circling dive entered into accidentally by a pilot who is not trained or not proficient. Other names for this phenomenon include **suicide spiral**, **deadly spiral**, **death spiral** and **vicious spiral.** It’s the aviation equivalent of Putin’s decision to further invade Ukraine on February 24, 2022.
+Nesterov’s loop should not be confused with the [graveyard spiral](https://en.wikipedia.org/wiki/Graveyard_spiral), the type of dangerous downward circling dive a pilot enters accidentally who is not trained or not proficient. Other names for this phenomenon include **suicide spiral**, **deadly spiral**, **death spiral** and **vicious spiral.** It’s the aviation equivalent of Putin’s decision to further invade Ukraine on February 24, 2022.
 
 Which brings me to the mummification scenario[1](#footnote-1) proposed in an article appearing in Poligon about the Ukraine mess, titled [The Putin Crucible](https://medium.com/@abdymok/the-putin-crucible-a7b1d56f98dc).
 
@@ -3142,7 +3142,7 @@ And then a column, titled “[Sirens, loss, pain](https://www.washingtonpost.com
 
 Advise, scout and assist — *consilio speculator adiuvaret* — was the motto of the unit, disbanded last year, which, unlike [Detachment A](https://books.google.com.ua/books?id=ZYsgDgAAQBAJ&printsec=frontcover&dq=Special+Forces+Berlin:+Clandestine+Cold+War+Operations+of+the+U.S.+Army%E2%80%99s+Elite,+1956-1990&hl=en&sa=X&ved=2ahUKEwiUxeWRyqH3AhUHvosKHbPkDygQ6wF6BAgGEAE#v=onepage&q=Special%20Forces%20Berlin%3A%20Clandestine%20Cold%20War%20Operations%20of%20the%20U.S.%20Army%E2%80%99s%20Elite%2C%201956-1990&f=false) (masters of mayhem), did not provide drop zone reception committees and safe house locations or act as a HUMINT asset and information agent.
 
-A memento mori moment apropos of [Malcom](https://www.facebook.com/veteranfundua/posts/126895863268750), who reminds me of Sean Penn, without the ibogaine. I’ve been having nightmares about bumping into both of them at Tootsie Club.
+A memento mori moment apropos of [Malcolm](https://www.facebook.com/veteranfundua/posts/126895863268750), who reminds me of Sean Penn, without the ibogaine. I’ve been having nightmares about bumping into both of them at Tootsie Club.
 
 One reason to be generally dismissive of pro-Ukraine crusaders and TikTok-ing legionnaires is because many of them appear to be in poor physical and mental condition. They are not runners. A second is weightless self-promotion using outrageous claims to expertise. Looking on the positive side, I saw a bunch of kids wearing fatigues strenuously stretching yesterday morning in Shevchenko Park.
 
@@ -3162,7 +3162,7 @@ About the war. We are in a bloody, bloody phase of it. Lots of unspeakable trage
 *Phase 1 ended on March 25*
 
 [Image]
-*Dead Russian soldier turning into fertilizer somewhere near New York, Donetsk region . Photo c/o Brosok Mangusta*
+*Dead Russian soldier turning into fertilizer somewhere near New York, Donetsk region. Photo c/o Brosok Mangusta*
 
 Russia’s attempts to seize control of eastern Ukraine are doomed to fail, setting us up for Phase 3, which will start in early May. We don’t know yet when Phase 4 will start, since it depends on how much Russia destroys by then.
 
@@ -3282,7 +3282,7 @@ Preparations to greet the American dignitaries were underway downtown on Saturda
 [Image]
 *Saint Volodymyr Monument (Photo c/o abdymok )*
 
-A month after Lloyd’s last visit to town in October 2021, Z celebrated the “equator of his cadence,” with disasterous results[1](#footnote-1). But that’s another story.
+A month after Lloyd’s previous visit to town in October 2021, Z celebrated the “equator of his cadence,” with disasterous results[1](#footnote-1). But that’s another story.
 
 [1](#footnote-anchor-1)
 
@@ -3309,7 +3309,7 @@ Tactical military maps and analysis of the mess abound, which make the situation
 [Image]
 *German map of Ukrainian mud fields ..*
 
-The New York Times on Sunday [recapitulate](https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html)s three decades of confused relations between the United States and Ukraine. The article left out wacko reporting by the Moscow-centric newspaper, which for at least the past two decades has more often than not gotten its stories wrong about Ukraine.
+The New York Times on Sunday [recapitulates](https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html)s three decades of confused relations between the United States and Ukraine. The article left out wacko reporting by the Moscow-centric newspaper, which for at least the past two decades has more often than not gotten its stories wrong about Ukraine.
 
 [Image]
 
@@ -3351,7 +3351,7 @@ In news of the weird, state sleuths in Moscow yesterday announced investigations
 
 ---
 
-And this very very very long essay from Anne in The Atlantic, titled “[Ukraine and the Words That Lead to Mass Murder](https://www.theatlantic.com/magazine/archive/2022/06/ukraine-mass-murder-hate-speech-soviet/629629/),” that leaves out the part about western jornos parroting Kremlin talking points since at least 2014 about separatists who staged an insurrection in eastern Ukraine.
+And here’s this very, very, very long essay from Anne in The Atlantic, titled “[Ukraine and the Words That Lead to Mass Murder](https://www.theatlantic.com/magazine/archive/2022/06/ukraine-mass-murder-hate-speech-soviet/629629/),” which leaves out the part about Western jornos parroting Kremlin talking points since at least 2014 about separatists who staged an insurrection in eastern Ukraine.
 
 [Image]
 
@@ -3383,7 +3383,7 @@ We all remember Mark, who was the one walking around with the [big green map](ht
 
 To make a long story short, Ukraine decided not to trust U.S. intelligence about Russia’s plan to invade in October, November, December, January and the first half of February. Ze and his new defense minister downplayed the invasion threat deliberately, so ordinary Ukrainians would not panic, flee and tank the economy[1](#footnote-1).
 
-[One of the nice aspects about Substack’s CMS is the absence of the search function, which would help me remember all the times I scratched my head in disbelief whenever Ukrainians officials said an invasion by Russia was unlikely[2](#footnote-2).]
+[One of the nice aspects about Substack’s CMS is the absence of the search function, which would help me remember all the times I scratched my head in disbelief whenever Ukrainian officials said an invasion by Russia was unlikely[2](#footnote-2).]
 
 A quick boo at what I was writing[3](#footnote-3) in December after long chitchats during Shabat over liters of vodka with Mariupol residents visiting Kyiv convinces me that chronic remorse *is* a most undesirable sentiment, especially if you’re dead.
 
@@ -3762,7 +3762,7 @@ To the West of Kyiv is an ocean of flat fields (well, a bracelet of small sparse
 [Image]
 *Don’t Fight in Another Country’s War . By Graeme Wood for The Atlantic. (April 26, 2022)*
 
-I read though Graeme’s article quickly. Yes, volunteer fighters here are loud and annoying and, at times, unhelpful and rude, but, overall, they are good eggs. I haven’t chatted up [Malcom](https://www.theguardian.com/us-news/2022/apr/29/malcolm-nance-msnbc-pundit-ukraine-soldier-michael-harriot) yet (I think he’s memorizing the cyrilic alphabet and doing undercover stuff in Lviv), but I’ve bumped into several un-kitted up legionnaires and offered tips on everything from procuring night vision goggles, to tipping etiquette at Tootsie’s, running routes, jujitsu holds and local ibogaine treatment centers. Graeme’s expertise on anything Ukraine is obvi not ideal, but it would be churlish for me to hold that against him. If we can forgive Sabrina and Keith, we can forgive Graeme, too[1](#footnote-1).
+I read though Graeme’s article quickly. Yes, volunteer fighters here are loud and annoying and, at times, unhelpful and rude, but, overall, they are good eggs. I haven’t chatted up [Malcolm](https://www.theguardian.com/us-news/2022/apr/29/malcolm-nance-msnbc-pundit-ukraine-soldier-michael-harriot) yet (I think he’s memorizing the cyrilic alphabet and doing undercover stuff in Lviv), but I’ve bumped into several un-kitted up legionnaires and offered tips on everything from procuring night vision goggles, to tipping etiquette at Tootsie’s, running routes, jujitsu holds and local ibogaine treatment centers. Graeme’s expertise on anything Ukraine is obvi not ideal, but it would be churlish for me to hold that against him. If we can forgive Sabrina and Keith, we can forgive Graeme, too[1](#footnote-1).
 
 The same goes for Katie, who, along with dozens of foreign journalists, filed profoundly confusing and kooky reports from Donetsk basements when Russia-occupation forces invaded eastern Ukraine in 2014. Her article in appearing on April 30, 2022 in The Atlantic, titled “[Putin Isn’t the Only Autocrat Misusing History](https://www.theatlantic.com/ideas/archive/2022/04/russia-propaganda-influences-north-korea-china/629627/),” jogged memories of jingoism-free reportages from Donbas at the start of the war, [including her own for Sky News in 2014](https://news.sky.com/story/ukraine-villagers-trapped-between-battle-lines-10390309), which completely misrepresented the conflict. Tavernise syndrome, slightly adulterated no-Kremlin-fingerprint bullshit[2](#footnote-2).
 
@@ -3840,7 +3840,7 @@ Liz and Catherine can call me if they’re in Ukraine. I’ll give them a couple
 
 In other news, I have started to follow the exploits of “special operators from the United States, UK and Norway fighting for Ukraine” on [Twitter](https://twitter.com/DirtydozenEira). They complain Russia-occupation forces are not invading or occupying, but retreating. Next stop, Vigilance Elite w/ [Shawn](https://www.youtube.com/c/VigilanceElite) or an exclusive self-aggrandizing whatever by X22 on [Rumble](https://rumble.com/c/X22Report).
 
-And, of course, [Malcom](https://twitter.com/MalcolmNance), who is still hawking his They Want to Kill Americans book and re-channeling Uliia and Michael.
+And, of course, [Malcolm](https://twitter.com/MalcolmNance), who is still hawking his They Want to Kill Americans book and re-channeling Uliia and Michael.
 
 [Image]
 
@@ -3895,7 +3895,7 @@ LtCol Rip Rawlings [sounnds](https://twitter.com/RipRawlings/status/152196448789
 
 [Image]
 
-These legionnaires would benefit from some ibogaine and more opsec training. Maybe a pep talk with [Malcom,](http://@MalcolmNance) [Andy](http://@andymilburn8) or [Eira](http://@DirtydozenEira) would lift their spirits. Other solutions might include more PT, less gear, longer runs and a healthier diet. Even [James](https://twitter.com/jmvasquez1974/status/1522697320764252161/photo/1), who turned an ankle, is in low spirits.
+These legionnaires would benefit from some ibogaine and more opsec training. Maybe a pep talk with [Malcolm,](http://@MalcolmNance) [Andy](http://@andymilburn8) or [Eira](http://@DirtydozenEira) would lift their spirits. Other solutions might include more PT, less gear, longer runs and a healthier diet. Even [James](https://twitter.com/jmvasquez1974/status/1522697320764252161/photo/1), who turned an ankle, is in low spirits.
 
 Which brings me to retired US Army Maj. Gen. Mike Repass, who [blurted out](https://edition.cnn.com/2022/05/04/opinions/bergen-repass-ukraine-interview/index.html) the same gripes as Doc, Rat and Shadow.
 
@@ -6892,7 +6892,7 @@ Generals Zaluzhny and Zabrodsky pointed out a couple of weeks ago[1](#footnote-1
 
 [Image]
 
-Deployment of same would probably require the Third A (Accompanying)[2](#footnote-2). But judging by the crowd at [Tootsie Club](https://en.tootsie.kiev.ua/) over the weekend, the bonhomie, tits, etc, this process is already in full swing. Just ask [Malcom](https://twitter.com/MalcolmNance).
+Deployment of same would probably require the Third A (Accompanying)[2](#footnote-2). But judging by the crowd at [Tootsie Club](https://en.tootsie.kiev.ua/) over the weekend, the bonhomie, tits, etc, this process is already in full swing. Just ask [Malcolm](https://twitter.com/MalcolmNance).
 
 [Image]
 
