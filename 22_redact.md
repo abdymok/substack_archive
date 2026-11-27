@@ -90,7 +90,6 @@ Confused? You should be, according to [George Krol](https://eurasianet.org/memoi
 
 ###### *[Lukashenko](https://en.wikipedia.org/wiki/Alexander_Lukashenko) was elected president in 1994. He disbanded parliament two years later in an unconstitutional referendum. He then murdered or jailed his political opponents and extended and reformed his powers. He has a sick sense of humor and no one likes him. [Rahmon](https://en.wikipedia.org/wiki/Emomali_Rahmon) won undemocratic presidential elections five times (in [1994](https://en.wikipedia.org/wiki/1994_Tajik_presidential_election), [1999](https://en.wikipedia.org/wiki/1999_Tajik_presidential_election), [2006](https://en.wikipedia.org/wiki/2006_Tajik_presidential_election), [2013](https://en.wikipedia.org/wiki/2013_Tajik_presidential_election) and [2020](https://en.wikipedia.org/wiki/2020_Tajik_presidential_election)). In addition, he extended and reformed his powers based on the results of the national constitutional referendums of [1999](https://en.wikipedia.org/wiki/1999_Tajik_constitutional_referendum) and [2003](https://en.wikipedia.org/wiki/2003_Tajik_constitutional_referendum). Rahmon holds the lifetime title of Peshvoyi Millat ([Tajik](https://en.wikipedia.org/wiki/Tajik_language): Пешвои Миллат), which means “Leader of the Nation.” I don’t know much about [Japarov](https://en.wikipedia.org/wiki/Sadyr_Japarov) or [Pashinyan](https://en.wikipedia.org/wiki/Nikol_Pashinyan). Last time I checked, these weasels were in charge of small, poor, undemocratic countries which depend on Russia.*
 
-##
 
 ---
 
@@ -770,7 +769,6 @@ This bloody mess is starting to remind me of the last [Det-A](https://detachment
 
 ---
 
-##
 
 ---
 
