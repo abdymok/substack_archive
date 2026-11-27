@@ -2046,11 +2046,11 @@ The reason many don’t do so publicly is probably a matter of dignity, and the 
 
 Decision-makers in the West who used to keep track of notable things pundits have said about Ukraine are either dead, no longer employed or have come to the following conclusion: “We’ll be hearing this shit forever. And then we’ll die. And then our kids will be hearing it.”
 
-Current political crises are likely to prolong the liminal states for many career pundits specializing in ultra-competitive Ukraine-style politics. But they don’t have feel defensive about their apparently aimless activity on social networks and Zoom.
+Current political crises are likely to prolong the liminal states for many career pundits specializing in ultra-competitive Ukraine-style politics. But they don’t have to feel defensive about their apparently aimless activity on social networks and Zoom.
 
 Those who live abroad, especially in the United States, understand the current irregularities in their own political and economic environments just as well as anyone else. The pandemic offers them an ideal opportunity to change their career path and the screwed-up system of governance at home.
 
-The most common path to a career reinvention involves doing something on the side — cultivating knowledge, new skills and relationships - until one get strong new legs to walk on in exploring a new career. On nights and weekends, retired Ukraine experts can take part-time poetry courses, study philosophy, garden, adopt new pets and brainstorm about other counties, hopefully not ones in Europe.
+The most common path to a career reinvention involves doing something on the side — cultivating knowledge, new skills and relationships - until one gets strong new legs to walk on in exploring a new career. On nights and weekends, retired Ukraine experts can take part-time poetry courses, study philosophy, garden, adopt new pets and brainstorm about other countries, hopefully not ones in Europe.
 
 ---
 
@@ -2086,7 +2086,7 @@ Z, unfortunately, is not a logical positivist. He’s a cataplectic [non-cogniti
 
 Showman and presidential candidate Volodymyr Zelensky sat down with well-known Kyiv-based con artist Dmytro Gordon ([golden pyramid](https://www.youtube.com/watch?v=_NmvkH4CwvM)) in late December 2018. The men chatted for almost four hours straight about life on the planet earth.
 
-The three-part dialogue was posted to YouTube days before Ze announced his candidacy for president on New Years eve 2018.
+The three-part dialogue was posted to YouTube days before Ze announced his candidacy for president on New Year’s Eve 2018.
 
 Ze comes across as a likeable guy with many interesting stories. He tells the pyramid guy that he hasn’t decided whether or not to run for president, but it’s obvious he has.
 
@@ -2108,7 +2108,7 @@ Ze comes across as a likeable guy with many interesting stories. He tells the py
 
 **[Part 3](http://bit.ly/2UkQeO3)** of the chit chat is not very interesting.
 
-**[09.48]** Z talks about his wonderful relelationship with Ukrainian businessman Ihor Kolomoisky, who doesn’t pay his debts on time.
+**[09.48]** Z talks about his wonderful relationship with Ukrainian businessman Ihor Kolomoisky, who doesn’t pay his debts on time.
 
 ---
 
@@ -2127,7 +2127,7 @@ The first year of President Volodymyr Zelensky’s presidency is best described 
 **In a nutshell:**
 
 - **Bootlickery.** Zelensky *agreed* in September 2019 to go to a mic and announce investigations into Burisma/Biden at the behest of U.S. President Donald Trump, who was later impeached for blackmailing an ally.
-- **Russia’s invason.** Ukraine has made zero (0) progress to end Russia’s occupation of Crimea and parts of eastern Ukraine. Zelensky’s magical presidential campaign promise to end the war was just that.
+- **Russia’s invasion.** Ukraine has made zero (0) progress to end Russia’s occupation of Crimea and parts of eastern Ukraine. Zelensky’s magical presidential campaign promise to end the war was just that.
 - **The economy.** cf. [Operation Y](https://medium.com/@abdymok/operation-y-b2d557374ca7)
 - **Reforms.** What reforms? [Putting the Truba tapes in context](https://abdymok.substack.com/p/putting-the-truba-tapes-in-context)
 - **Civil liberties.** None left. cf. [Thug Life](https://abdymok.substack.com/p/thug-life)
@@ -2161,15 +2161,15 @@ It was a pathetic performance, one of Volodymyr Zelensky’s worst.
 
 There were few difficult questions during the hours-long ordeal, marked by long diatribes. Ukraine’s president lost his train of thought several times during the three-hour press conference in Kyiv and had to be reminded by his handlers what he was talking about.
 
-Zelensky appeared eager to talk about leaked recordings made in the office of his predecessor, Ukraine’s fifth President Petro Poroshenko. (Snippets of conversations between Poroshenko and former U.S. Secretary of State John Kerry and former U.S. President Joe Biden were released by a day earlier by member of parliament Andriy Derkach, giving the Prosecutor General’s Office just enough time to register a investigation of treason against Poroshenko before the start of the press conference.)
+Zelensky appeared eager to talk about leaked recordings made in the office of his predecessor, Ukraine’s fifth President Petro Poroshenko. (Snippets of conversations between Poroshenko and former U.S. Secretary of State John Kerry and former U.S. President Joe Biden were released a day earlier by member of parliament Andriy Derkach, giving the Prosecutor General’s Office just enough time to register an investigation of treason against Poroshenko before the start of the press conference.)
 
-> “As for me being the ‘verdict’ against Mr. Poroshenko ... I’m sure that all this is yet to come. You all saw yesterday’s scandal. I think they [Poroshenko and is team] governed the state in such a manner that they will face many different adventures and verdicts. …I don’t want to talk about it, because this is not my authority. The matter is up to the court," Zelensky said.
+> “As for me being the ‘verdict’ against Mr. Poroshenko ... I’m sure that all this is yet to come. You all saw yesterday’s scandal. I think they [Poroshenko and his team] governed the state in such a manner that they will face many different adventures and verdicts. …I don’t want to talk about it, because this is not my authority. The matter is up to the court," Zelensky said.
 
-Selective justice is common in Ukraine. “Friviolous, politically motivated criminal investigations against political rivals is a feature of ultra-competitive Ukraine-style politics.” (cf. 1,700-word op-ed, titled [One Year Later: Zelensky’s Moment of Reckoning](https://www.the-american-interest.com/2020/05/19/volodymyr-zelenskys-moment-of-reckoning/), appearing in The American Interest)
+Selective justice is common in Ukraine. “Frivolous, politically motivated criminal investigations against political rivals is a feature of ultra-competitive Ukraine-style politics.” (cf. 1,700-word op-ed, titled [One Year Later: Zelensky’s Moment of Reckoning](https://www.the-american-interest.com/2020/05/19/volodymyr-zelenskys-moment-of-reckoning/), appearing in The American Interest)
 
 [Image]
 
-Poroshenko is also suspected of illegally appointing of two members of Ukraine's High Court of Justice and illegally interfering in the work of the Kyiv Court of Appeal, as well as in the affairs of the Kyiv Regional Administrative Court involving the nationalization of PrivatBank. In addition, he has been accused of improperly appointing judges and a slew of other [make-believe crimes](https://abdymok.substack.com/p/13-bogus-investigations).
+Poroshenko is also suspected of illegally appointing two members of Ukraine's High Court of Justice and illegally interfering in the work of the Kyiv Court of Appeal, as well as in the affairs of the Kyiv Regional Administrative Court involving the nationalization of PrivatBank. In addition, he has been accused of improperly appointing judges and a slew of other [make-believe crimes](https://abdymok.substack.com/p/13-bogus-investigations).
 
 [Image]
 
@@ -2201,7 +2201,7 @@ In fact, Zelensky had absolutely no idea what he was talking about.
 
 [Image]
 
-Which got me thinking about Otto Neurath, the inventor of the [ISOTYPE](https://en.wikipedia.org/wiki/Isotype_(picture_language) "Isotype (picture language)") method of pictorial statistics, who, along with Rudolph, was a leading figures of the [Vienna Circle](https://en.wikipedia.org/wiki/Vienna_Circle "Vienna Circle").
+Which got me thinking about Otto Neurath, the inventor of the [ISOTYPE](https://en.wikipedia.org/wiki/Isotype_(picture_language) "Isotype (picture language)") method of pictorial statistics, who, along with Rudolph, was a leading figure of the [Vienna Circle](https://en.wikipedia.org/wiki/Vienna_Circle "Vienna Circle").
 
 > “Statistics is pure joy for the international proletariat in its relentless struggle against the ruling classes!'' Neurath once said famously.
 
@@ -2215,7 +2215,7 @@ Neither Neurath nor Russell would have agreed with Zelensky about Ukraine’s cu
 
 It’s day whatever of Ukraine’s coronavirus disease (COVID-19) disaster and it’s only getting worse.
 
-In a nutshell, the [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) over the last 90 days have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) [whacko algorithms](https://abdymok.substack.com/p/--35a), [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic thinking](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
+In a nutshell, the [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) over the last 90 days have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) [whacko algorithms](https://abdymok.substack.com/p/--35a), [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic thinking](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns) and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
 
 cf. [Isotype revisited](http://isotyperevisited.org/isotype-collection/index.html)
 
@@ -2241,9 +2241,9 @@ This same bold - ***and exquisitely nuanced*** - assertion is repeated daily by 
 
 [Image]
 
-The seven-day average of new COVID-19 cases in Ukraine flattened during the third week of April, according to officials statistics. Few trust the accuracy of the Health Ministry’s daily reports or understand calculations made to determine whether restrictive measures can be eased. One reason is because the algorithm changes almost daily, ostensibly in order to justify the decisions of national and local authorities to allow businesses to re-open.
+The seven-day average of new COVID-19 cases in Ukraine flattened during the third week of April, according to official statistics. Few trust the accuracy of the Health Ministry’s daily reports or understand calculations made to determine whether restrictive measures can be eased. One reason is because the algorithm changes almost daily, ostensibly in order to justify the decisions of national and local authorities to allow businesses to re-open.
 
-A good rule of thumb is to believe \*nothing\* Ukraine's heathcare officials say. the \*peaceful plateau\* approach to mitigate COVID-19 will likely last months, maybe years.
+A good rule of thumb is to believe \*nothing\* Ukraine's healthcare officials say. the \*peaceful plateau\* approach to mitigate COVID-19 will likely last months, maybe years.
 
 [Image]
 
