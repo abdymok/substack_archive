@@ -414,7 +414,7 @@ Which brings me to [Mozart Group](https://www.themozartgroup.com/).
 
 [Image]
 
-As we observed 11 months ago, Russia’s “further military invasion” has followed the script of the latest post-apocalyptic installment of the Road Warrior franchise. The story follows the the archetypical "Western” frontier movie motif, as deepwoken legionnaires rediscover their humanity, travel to a foreign land and help local inhabitants liquidate marauders led by Putin’s chef[1](#footnote-1).
+As we observed 11 months ago, Russia’s “further military invasion” has followed the script of the latest post-apocalyptic installment of the Road Warrior franchise. The story follows the archetypical "Western” frontier movie motif, as deepwoken legionnaires rediscover their humanity, travel to a foreign land and help local inhabitants liquidate marauders led by Putin’s chef[1](#footnote-1).
 
 [Image]
 
@@ -876,7 +876,7 @@ You know how literary hacks and opinion leaders have been bouncing around ideas 
 
 Well of course it’s galling. It’s irritating that any twerp anywhere can quantify/qualify the desire for freedom when it’s so freaking hard just to make up your mind when presented with a display of trowels.
 
-Not that that’s been an issue lately, but still.
+Not that’s been an issue lately, but still.
 
 Even more galling, duh, is when it works. Amidst the above-mentioned paraphernalia frenzy I’ve found myself falling head over heels for articles about corruption and the [crashingly unsexy](https://kyivindependent.com/opinion/andrii-borovyk-a-year-of-war-how-is-ukraine-transforming-right-now) Andriy Borovyk, who champions Ukraine’s form-follows-function fuzz, all designed quite smartly, built to last and affordable.
 
@@ -1038,7 +1038,7 @@ Writing for [The Atlantic](https://www.theatlantic.com/ideas/archive/2023/03/rus
 
 It is an exceptionally stupid essay. Don’t bother reading it.
 
-The New York Times and the The Washington Post, meanwhile, both cite unnamed U.S. officials *suggesting* that a pro-Ukraine group blew up Nord Stream pipelines in September, eight months *after* Russia attempted to decapitate Kyiv.
+The New York Times and the Washington Post, meanwhile, both cite unnamed U.S. officials *suggesting* that a pro-Ukraine group blew up Nord Stream pipelines in September, eight months *after* Russia attempted to decapitate Kyiv.
 
 [Image]
 
@@ -1178,13 +1178,13 @@ Inertia comes from the Latin word, iners, meaning idle, sluggish.We all know tha
 
 This is all apropos of Valeriy Pekar’s article, titled “[Winning the War, Losing the Peace: Inertial Scenarios](https://forum.pravda.com.ua/index.php?topic=1131715.0),” appearing on Ukrainska Pravda’s forum the other day.
 
-I include the key 10 points, leaving out the the *inertial scenarios* blah blah, which Ukraine’s cheerleaders abroad are leery of discussing, at least publicly, so far.
+I include the key 10 points, leaving out the *inertial scenarios* blah blah, which Ukraine’s cheerleaders abroad are leery of discussing, at least publicly, so far.
 
 [Image]
 
 *Let’s take a look at the state of Ukraine affairs immediately following victory.*
 
-1. We won. The transition from war to peace is much more difficult than the transition from peace to war. The country lost a hundred thousand of the best people. The country is in ruins. Some cities have been completely destroyed, and in some regions there is a real humanitarian catastrophe. There is a huge hole in the budget, because the economy has shrunk a lot. Our best people, the military, return home exhausted. The first priority for them is the restoration of health and accommodation. Similarly, a significant part of the active minority of those who tirelessly worked for victory in the rear is exhausted. The whole society is is traumatized.
+1. We won. The transition from war to peace is much more difficult than the transition from peace to war. The country lost a hundred thousand of the best people. The country is in ruins. Some cities have been completely destroyed, and in some regions there is a real humanitarian catastrophe. There is a huge hole in the budget, because the economy has shrunk a lot. Our best people, the military, return home exhausted. The first priority for them is the restoration of health and accommodation. Similarly, a significant part of the active minority of those who tirelessly worked for victory in the rear is exhausted. The whole society is traumatized.
 2. Reforms have not been carried out. They are "out of time," and no one particularly intended to carry them out. Ukraine has not fulfilled its obligations and therefore it receives neither sufficient money for reconstruction from international partners and donors nor membership in the European Union. The Ukrainian political elite insists on both money and membership ("first European integration, then reforms," "Winners are not judged," "You owe us because we saved you", etc.), but international partners are not convinced by this rhetoric. First, they have not forgotten the numerous previous deceptions. Secondly, they are afraid of the appearance of a new cohort of oligarchs who will emerge and start embezzling assistance money, for which they will be held accountable by constituents. Thirdly, no one in the EU needs a wants a new large member state that is a problem, not an opportunity.
 3. The restoration of the country is put on hold. The end of hostilities and martial law actualizes the question of the return or non-return of those who left: European governments will gently push out those who have not taken root, and encourage those who can take root (because everyone needs educated hardworking people). Millions of families will face a choice: women with children return home to their husbands or men join their families. The decision will be made according to the assessment of the situation at that time.
 4. There is no well-paid work in Ukraine, because jobs in the private sector require private investment and the public sector is already overloaded. The conditions for creating your own business do not bear comparison with the neighbors (a large part of businesses have already relocated to the countries of Central and Eastern Europe). Schools and hospitals, without which life is impossible, are restored in minimal volumes. Newly liberated territories and completely destroyed cities require huge funds just to start life. Inflation, contained in 2022-2023 thanks to international aid, is starting to accelerate — and because in the absence of donor money for recovery, the state will be forced to turn on the printing press to rebuild at least critical infrastructure.
@@ -1271,7 +1271,7 @@ Maybe just take some time off and run faster? That’s probably the best idea, s
 
 [Image]
 
-The order of battle hasn’t changed much since I last checked. We’re waiting for the spring rain and then for the ground to to dry before launching a counteroffensive.
+The order of battle hasn’t changed much since I last checked. We’re waiting for the spring rain and then for the ground to dry before launching a counteroffensive.
 
 Lots of experts are still talking, writing and opining about Ukraine. Michael McFaul at Stamford tweeted this the other day.
 
@@ -2361,7 +2361,7 @@ Remember this from one year *before* the all-out invasion?
 
 > Why close allies of [Z](https://www.washingtonpost.com/politics/2019/12/13/trump-promised-zelensky-white-house-meeting-more-than-dozen-other-leaders-got-one-instead/?itid=lk_inline_manual_3) have suddenly decided to open up about one of the longest-running dramas from the Trump era — the blitz of meetings, messages and public statements by Russia’s agents of influence in Ukraine — is a mystery. The Washington Post’s David Stern got the ball rolling on January 30, 2021 in an article, titled “[Ukraine stayed quiet during Trump-era pressures. Now it’s sharing some Giuliani tales.](https://www.washingtonpost.com/world/europe/ukraine-giuliani-biden-hunter/2021/01/29/592cecd6-54f7-11eb-acc5-92d2819a1ccb_story.html)”
 >
-> This is the same David Stern who teamed up with Kenneth Vogel in January 2017 to [write about](https://www.politico.com/story/2017/01/ukraine-sabotage-trump-backfire-233446) how Ukraine interfered in the the 2016 U.S. presidential election against Trump. And this is the same David Stern who a month later helped [whitewash](https://abdymok.medium.com/killing-the-story-64bd0f6840e8) the release of more than 280,000 text messages written by the daughter of Trump’s 2016 election campaign manager Paul Manafort[2](#footnote-2).
+> This is the same David Stern who teamed up with Kenneth Vogel in January 2017 to [write about](https://www.politico.com/story/2017/01/ukraine-sabotage-trump-backfire-233446) how Ukraine interfered in the 2016 U.S. presidential election against Trump. And this is the same David Stern who a month later helped [whitewash](https://abdymok.medium.com/killing-the-story-64bd0f6840e8) the release of more than 280,000 text messages written by the daughter of Trump’s 2016 election campaign manager Paul Manafort[2](#footnote-2).
 
 What is wrong with WAPO flaks?
 
@@ -2521,7 +2521,7 @@ This paragraph describes how Z was dressed.
 
 [Image]
 
-Wapo has been sitting on about 300 classified months-old leaks, rolling out the Ukraine-related ones for the last few weeks. No one in in Kyiv, including Z, is very impressed[1](#footnote-1). U.S. intelligence about Ukraine has historically been dubious.
+Wapo has been sitting on about 300 classified months-old leaks, rolling out the Ukraine-related ones for the last few weeks. No one in Kyiv, including Z, is very impressed[1](#footnote-1). U.S. intelligence about Ukraine has historically been dubious.
 
 Sharing operational military info with gabby Americans is a [no no](https://www.politico.com/newsletters/national-security-daily/2023/05/02/ukraine-withholding-counteroffensive-details-from-allies-00094828). Ukrainians only trust Ireland passport holders.
 
@@ -3481,7 +3481,7 @@ Belgorod oblast isn’t Russian-held territory. It’s part of Russia. And Micha
 
 I won’t tell it here for obvious reasons other than to note that [Tootsie Club](https://tootsie.kiev.ua/) regulars from Moscow and Minsk don’t regard themselves as *dissidents* or *freedom fighters*. Almost all have zero hand-fighting skills. As for MMA blowhards like Kapustin (aka Rex) , they are, as a rule, irrespective of nationality, as chauvinistic and loud as their Ukrainian consorts.
 
-Which brings me to to Andrei, who is standed in Norway and can’t figure out if he’s a hero or a villain[2](#footnote-2).
+Which brings me to Andrei, who is standed in Norway and can’t figure out if he’s a hero or a villain[2](#footnote-2).
 
 [Image]
 
@@ -4608,7 +4608,7 @@ The black hole of Ukraine-related bullshit looks deeper than ever, but for the h
 
 [Video: https://youtu.be/qSDTVIwA-6c]
 
-Valeriy’s tale illustrates the the gigantic disconnect between CNN’s situation room, reality, more looming disaster, Ukraine boosterism and neverending lame attempts at self-promotion.
+Valeriy’s tale illustrates the gigantic disconnect between CNN’s situation room, reality, more looming disaster, Ukraine boosterism and neverending lame attempts at self-promotion.
 
 [Image]
 
@@ -6257,7 +6257,7 @@ Keep in mind this desire to vandalize then was never political, nor was it payba
 
 Anyway, years later I was in Belgrade for a NOT ENTIRELY STRESS-FREE appointment, and – look, the city’s planners must have had a fondness for Rococo patterns or random chaos, because it took us for freaking ever to find the place – we parked our sensible, grownup Passat in a totally unorganized-looking lot, perfectly legally, and while we were inside some fun-loving kid decided to run a key all the way along the car’s left flank as the cross-stroke of a big, creepy A.
 
-Which leads one to think about circles closing and a larger form of justice, I suppose, like ethnic cleansing or sending a drone to to blow up your neighbor. Or it could just piss him off, which would explain recent loud explosions in Pskov, Moscow, Tula, Bryansk, Belgorod, Kursk et cetera.
+Which leads one to think about circles closing and a larger form of justice, I suppose, like ethnic cleansing or sending a drone to blow up your neighbor. Or it could just piss him off, which would explain recent loud explosions in Pskov, Moscow, Tula, Bryansk, Belgorod, Kursk et cetera.
 
 ---
 
@@ -7836,7 +7836,7 @@ Externalities (climate change, pandemics, technological change, wars of aggressi
 
 Non-Irish people: go do something else for a minute.
 
-Okay, I’ve had three people point me to [this article](https://www.irishtimes.com/life-style/people/2023/10/20/being-sick-was-a-wake-up-call-i-thought-if-i-was-to-die-what-is-the-one-thing-i-wish-i-had-done/) at the The Irish Times, each one claiming disbelief that such a gathering of words could come into existence[1](#footnote-1).
+Okay, I’ve had three people point me to [this article](https://www.irishtimes.com/life-style/people/2023/10/20/being-sick-was-a-wake-up-call-i-thought-if-i-was-to-die-what-is-the-one-thing-i-wish-i-had-done/) at the Irish Times, each one claiming disbelief that such a gathering of words could come into existence[1](#footnote-1).
 
 Chris Howden writes:
 
@@ -7964,7 +7964,7 @@ On Day 608, we accused editors at The Washington Post of **incompetence** for pu
 
 [Video: https://youtu.be/qz62eg5mrx0]
 
-The article, “based on on interviews with more than two dozen current and former Ukrainian, U.S. and Western intelligence and security officials who spoke on the condition of anonymity citing security concerns as well as the sensitivity of the subject,” is, er, **full of errors.**  At least that’s what Valeriy Kondratiuk says. He headed the counterintelligence department at Ukraine’s State Secuirty Service in 2014 and later the Defense Intelligency Agency (2015-2016) and Foreign Intelligence Service (2020).
+The article, “based on interviews with more than two dozen current and former Ukrainian, U.S. and Western intelligence and security officials who spoke on the condition of anonymity citing security concerns as well as the sensitivity of the subject,” is, er, **full of errors.**  At least that’s what Valeriy Kondratiuk says. He headed the counterintelligence department at Ukraine’s State Secuirty Service in 2014 and later the Defense Intelligency Agency (2015-2016) and Foreign Intelligence Service (2020).
 
 Who, namely, pitched the idea to write about the relationship between Ukraine’s secret services and the CIA during an ongoing war? The two flaks on the byline are Isabelle Khurshudyan, the newspaper’s Ukraine bureau chief, and Greg Miller, an investigative journalist for The Washington Post based in London.
 
@@ -8116,7 +8116,7 @@ Simon’s re-tweet of Ellen, former New York Times Moscow Bureau Chief, reminded
 
 As for hope ebbing, I don’t think so. The writings of Francis, Ellen and Simon are excessively melodramatic. So was the portrait of Z.
 
-Number lines and and timelines will make it simple enough to teach future generations what actually took place in Kyiv during the first two decades of the 21st century. Because we are a species that relies on socially transmitted information, Ukrainian kids will necessarily catch up very quickly.
+Number lines and timelines will make it simple enough to teach future generations what actually took place in Kyiv during the first two decades of the 21st century. Because we are a species that relies on socially transmitted information, Ukrainian kids will necessarily catch up very quickly.
 
 We all remember Ellen after the full-out invasion, yes?
 
@@ -8240,11 +8240,11 @@ The big news this week came on Saturday — the visit of Ursula von Leyen, who p
 
 A Ukrainian journalist at 17.54 asks Z a question:
 
-> This week, [The Economist](http://economist.com) published [an interview](https://www.economist.com/by-invitation/2023/11/01/the-commander-in-chief-of-ukraines-armed-forces-on-how-to-win-the-war) with Commander-in-Chief Varleriy Zaluzhny, who said decisive battlefield conditions today lend themselves to to “positional” warfare (as opposed to “maneuver” warfare) and that this benefits Russia’s efforts to prolong the war. What do you think about this? Has this been discussed at meetings between you and top military commanders? What steps is Ukraine taking to facilitate a “technological breakthrough” to change this trend?
+> This week, [The Economist](http://economist.com) published [an interview](https://www.economist.com/by-invitation/2023/11/01/the-commander-in-chief-of-ukraines-armed-forces-on-how-to-win-the-war) with Commander-in-Chief Varleriy Zaluzhny, who said decisive battlefield conditions today lend themselves to “positional” warfare (as opposed to “maneuver” warfare) and that this benefits Russia’s efforts to prolong the war. What do you think about this? Has this been discussed at meetings between you and top military commanders? What steps is Ukraine taking to facilitate a “technological breakthrough” to change this trend?
 
 Z responds, first by recalling how western leaders contemplated how long Ukraine would hold after Russia’s February 24, 2022 attempt to decapitate Kyiv.
 
-> […] Not all of them [western leaders] were in touch with us at that time. […] Nonetheless, I was absolutely confident then in our ability to repel the invasion. At that time, we were in a position Ukraine had never been in before. But we believed in ourselves a lot, and fought and emerged victorious. Today people are tired. People get tired. We are all people, irrespective of the positions we hold. There are different views of the situation. We are not at a stalemate. I emphasize this. […] Russia controls the skies. In the coming months we will try to conserve military manpower. No one wants to throw Ukrainian forces in meat storms against the enemy, like Russia does. What can we do? We are trying to get F-16s, but we have to wait for this while our pilots receive training. It’s a long process. Also, there is air defense. We have tried to get more air defense. When we will have have air defense systems at the front, our soldiers will move forward, taking part in counteroffensive operations. A year ago, we found ourselves in a dire, complicated situation. Everyone then said it was a stalemate, like today, but we successfully counterattacked in Kharkiv and Kherson regions. Everyone today has forgotten the clever tactical operations, which enabled those successes.
+> […] Not all of them [western leaders] were in touch with us at that time. […] Nonetheless, I was absolutely confident then in our ability to repel the invasion. At that time, we were in a position Ukraine had never been in before. But we believed in ourselves a lot, and fought and emerged victorious. Today people are tired. People get tired. We are all people, irrespective of the positions we hold. There are different views of the situation. We are not at a stalemate. I emphasize this. […] Russia controls the skies. In the coming months we will try to conserve military manpower. No one wants to throw Ukrainian forces in meat storms against the enemy, like Russia does. What can we do? We are trying to get F-16s, but we have to wait for this while our pilots receive training. It’s a long process. Also, there is air defense. We have tried to get more air defense. When we will have air defense systems at the front, our soldiers will move forward, taking part in counteroffensive operations. A year ago, we found ourselves in a dire, complicated situation. Everyone then said it was a stalemate, like today, but we successfully counterattacked in Kharkiv and Kherson regions. Everyone today has forgotten the clever tactical operations, which enabled those successes.
 >
 > There are various aspects of the situation today. Different people have different opinions of what to do. I don’t think we have time to mull our options and throw our hands up, because … What is the alternative? When we think about this or that option going forward, we need to always consider the alternative for our action [or inaction]. Of course, we must safeguard our people. That’s a fact. But what’s the alternative? Give up? Then we will have to turn over one third of our territory [to Russia]. And that will only be the beginning. We all know what a frozen conflict will lead to. We learned our lesson. Why do we decide to adopt one or another format [for conducting the war]? **We must all get together and work with our partners to address Russian air superiority and receive air defense systems, in order for our guys to go on the offensive. That’s what we should be thinking about, and only about that. We should be not thinking about where we will be tomorrow, but where we are today**. - *quick gist of Z’s response*[4](#footnote-4).
 
@@ -8352,7 +8352,7 @@ On the American jacket, this op-ed appearing on November 5 in [The Washington Po
 
 [Image]
 
-I asked several friends in Kyiv if they agree. Most do not. They reminded me of this time last year, of black outs, no running water and daily bomb alerts. Ukraine might be worse off in in Washington, D.C. than last November, at least according to Jason, but it feels a lot more safe in the capital than one year ago.
+I asked several friends in Kyiv if they agree. Most do not. They reminded me of this time last year, of black outs, no running water and daily bomb alerts. Ukraine might be worse off in Washington, D.C. than last November, at least according to Jason, but it feels a lot more safe in the capital than one year ago.
 
 [Image]
 
@@ -8530,7 +8530,7 @@ On the other hand, writing and revising copy entwined in the barbed wire of bull
 
 Isabelle and Shane’s article about Chervinsky orchestrating the explosion of a $16 billion undersea gas pipeline[1](#footnote-1) should be read while keeping in mind all the mistakes Isabelle and Greg made in their 4,000-word masterpiece about CIA fuckery with Ukraine, titled “[Ukrainian spies with deep ties to CIA wage shadow war against Russia](https://www.washingtonpost.com/world/2023/10/23/ukraine-cia-shadow-war-russia/),” which we picked apart on Day 608[2](#footnote-2) and thoroughly debunked on Day 611[3](#footnote-3) .
 
-> The article, “based on on interviews with more than two dozen current and former Ukrainian, U.S. and Western intelligence and security officials who spoke on the condition of anonymity citing security concerns as well as the sensitivity of the subject,” is, er, **full of errors.** At least that’s what Valeriy Kondratiuk says. He headed the counterintelligence department at Ukraine’s State Secuirty Service in 2014 and later the Defense Intelligency Agency (2015-2016) and Foreign Intelligence Service (2020).
+> The article, “based on interviews with more than two dozen current and former Ukrainian, U.S. and Western intelligence and security officials who spoke on the condition of anonymity citing security concerns as well as the sensitivity of the subject,” is, er, **full of errors.** At least that’s what Valeriy Kondratiuk says. He headed the counterintelligence department at Ukraine’s State Secuirty Service in 2014 and later the Defense Intelligency Agency (2015-2016) and Foreign Intelligence Service (2020).
 
 The moral of this story is that we should deeply suspicious all articles [The Washington Post](http://wapo.st) publishes about intelligence, or lack thereof, related to Ukraine during wartime.
 
@@ -8680,7 +8680,7 @@ Maybe Ukraine *is* a piano.
 
 [Image]
 
-Charlie Rose [chatted up Bibi and GS](https://charlierose.com/videos/21518), consecutively, in early 1994. I re-watched the back-to-back interviews yesterday and laughed, remembering their brief meeting in the Green Room before going on air. At the time, I was coptering over [Chara](https://www.mindat.org/feature-2025630.html) and eating reindeer hearts. Francis A later filled me about that revealing conversation, which has has everything to do with [alright](https://abdymok.substack.com/p/alright), back to square one, fallibility, or whatever you want to call it.
+Charlie Rose [chatted up Bibi and GS](https://charlierose.com/videos/21518), consecutively, in early 1994. I re-watched the back-to-back interviews yesterday and laughed, remembering their brief meeting in the Green Room before going on air. At the time, I was coptering over [Chara](https://www.mindat.org/feature-2025630.html) and eating reindeer hearts. Francis A later filled me about that revealing conversation, which has everything to do with [alright](https://abdymok.substack.com/p/alright), back to square one, fallibility, or whatever you want to call it.
 
 ---
 
@@ -8706,7 +8706,7 @@ As for the moral case, Hamas is a jihadist movement. Its leaders are barbarian k
 
 Ukraine clearly is *the* front line of an effort to upend the US-led world order. The reintroduction of wars of conquest would, by causing large-scale global economic disruption, make John Doe taxpayer, much poorer.
 
-Maintaining the rules-based international order is, in the long run, very good for the average American. The alternative is awful. **The problem is Team USA haphazardly re-writing the rules for its own benefit**. Compared to what supporting the the unredacted order has demanded in the past, the cost of supporting Ukraine is remarkably small considering the geopolitical upside. It’s an opportunity to protect something that benefits humankind, cheaply.
+Maintaining the rules-based international order is, in the long run, very good for the average American. The alternative is awful. **The problem is Team USA haphazardly re-writing the rules for its own benefit**. Compared to what supporting the unredacted order has demanded in the past, the cost of supporting Ukraine is remarkably small considering the geopolitical upside. It’s an opportunity to protect something that benefits humankind, cheaply.
 
 ---
 
@@ -8865,7 +8865,7 @@ The most comprehensive report on crypto and crypto in Ukraine is, of course, [th
 
 [Image]
 
-I never go to bomb shelters during missile alerts. This morning was no exception. But I popped in around 0640 after a run to check on how residents were coping. Most people appeared relaxed at Zvirynetska, hunkered down with smart phones and lawn chairs. Several well-fed stray dogs were in attendance, enjoying the the excitement and looking for hand outs.
+I never go to bomb shelters during missile alerts. This morning was no exception. But I popped in around 0640 after a run to check on how residents were coping. Most people appeared relaxed at Zvirynetska, hunkered down with smart phones and lawn chairs. Several well-fed stray dogs were in attendance, enjoying the excitement and looking for hand outs.
 
 Early on Saturday morning, there were several waves of attacks lasting more than five hours, [according to Ukraine’s Air Force](https://t.me/vanek_nikolaev/19337), which shot down 71. Some 66 of them were aimed at Kyiv.
 
@@ -8977,7 +8977,7 @@ I read this:
 
 [Image]
 
-I’m in the cohort of the the essay’s protagonist(s):
+I’m in the cohort of the essay’s protagonist(s):
 
 > **“People under fire couldn’t give a damn if Zaluzhny had a quarrel with Z or not,”** one commander says. Mr Drobovych agrees. When he chats to his comrades at the front, **no one is talking about the need to return to Kyiv to “fix politics”. The only discussion is about staying alive.** For this cohort of Ukrainians, there is no doubting the risk the enemy still poses. **“Russia is asking a simple question of us: life or death. That will keep us fighting, regardless of what happens in Kyiv or Washington.”**
 
@@ -9100,7 +9100,7 @@ Right, so postings to this site will be lightly muffled and sprinkled with the c
 
 [1](#footnote-anchor-1)
 
-**One caveat:** our medium-sized war is part of the world war that Russia kicked off in 2014 by annexing Crimea and invading eastern Ukraine, marking the the end of the international rules-based order that we found so comfy.
+**One caveat:** our medium-sized war is part of the world war that Russia kicked off in 2014 by annexing Crimea and invading eastern Ukraine, marking the end of the international rules-based order that we found so comfy.
 
 ---
 
@@ -9757,9 +9757,9 @@ Having frankly confessed my bias, which you can allow for as a sniper allows for
 
 And first, I do not yet see this war as one which has welded third-world governments (read: The Global South) into complete and sympathetic solidarity against what should be our common enemy. Ukrainians are united in a fierce detestation and defiance of the views and acts of authoritarians everywhere. I see zombified citizens of Russia and China stirred to the depths by a similar antipathy to their detractors, willingly duped by their demagogues into wreaking havoc and jumping at the chance they have longed for in vain for many years to resurrect their failed states as dominant global players.
 
-The fact that that the rate of consumption maintained during our collective defense is much greater relative to the highest possible rate of domestic production sustainable without continued promised foreign assistance should trouble us all.
+The fact that the rate of consumption maintained during our collective defense is much greater relative to the highest possible rate of domestic production sustainable without continued promised foreign assistance should trouble us all.
 
-No doubt the heroic remedy for this tragedy is for Russian soldiers, stricken by “[mouse fever](https://www.independent.co.uk/news/world/europe/mouse-fever-symptoms-russian-troops-b2467627.html),” to frag their commanding officers on the zero line, go home and make a revolution in their towns. But this is an impracticable solution, because they haven’t yet accepted the fact that that committing genocide rivets the intolerable yoke of fascism more tightly around their own necks. The chances of them yielding to the ecstasy of decency and common sense are, alas, zilch.
+No doubt the heroic remedy for this tragedy is for Russian soldiers, stricken by “[mouse fever](https://www.independent.co.uk/news/world/europe/mouse-fever-symptoms-russian-troops-b2467627.html),” to frag their commanding officers on the zero line, go home and make a revolution in their towns. But this is an impracticable solution, because they haven’t yet accepted the fact that committing genocide rivets the intolerable yoke of fascism more tightly around their own necks. The chances of them yielding to the ecstasy of decency and common sense are, alas, zilch.
 
 So, more of this:
 
