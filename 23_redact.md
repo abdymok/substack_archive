@@ -8222,7 +8222,7 @@ Looking on the positive side, we are all lucky to be alive in a country where th
 
 [Image]
 
-Yet Andy [@nyt](http://nyt.com) has published a depressing story about depressed Ukrainians, who sound a lot like depressed expat shitposters I’ve bumped into recently on social media. You know, the ones who swap war stories and their idiotic opinions about BIPOC and Israel’s war with Hamas. They include flabby ex-diplomats and burnt out veterans of foreign (mostly unsuccessful American) military campaigns, who enjoy “fighting” eachother on X and in Kyiv’s hipster bars, alas, instead of doing PT and putting their sought-after essential trench-clearing skills to good use.
+Yet Andy [@nyt](http://nyt.com) has published a depressing story about depressed Ukrainians, who sound a lot like depressed expat shitposters I’ve bumped into recently on social media. You know, the ones who swap war stories and their idiotic opinions about BIPOC and Israel’s war with Hamas. They include flabby ex-diplomats and burnt out veterans of foreign (mostly unsuccessful American) military campaigns, who enjoy “fighting” each other on X and in Kyiv’s hipster bars, alas, instead of doing PT and putting their sought-after essential trench-clearing skills to good use.
 
 [Image]
 
@@ -9264,7 +9264,7 @@ In such a situation, discord in Ukraine’s political leadership is extremely in
 
 Z takes risks. But if he’s driven to quash imaginary political rivals serving in the military, driven by the fussing of cockroaches in his unshaven head, the perdimonocle he arranges could more damaging than last year’s first “meat assaults.”
 
-Now everything is very very cold and the situation slippery, with politicians on both sides of the lake on collision courses with eachother. We cannot predict who will ultimately emerge victorious from their respective cement-headed fisticuffs. All wars pass through inflection points. Now is precisely such a moment — no less, but no more.
+Now everything is very very cold and the situation slippery, with politicians on both sides of the lake on collision courses with each other. We cannot predict who will ultimately emerge victorious from their respective cement-headed fisticuffs. All wars pass through inflection points. Now is precisely such a moment — no less, but no more.
 
 ---
 
