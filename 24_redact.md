@@ -3172,7 +3172,7 @@ Behavioralist/psychologist/economist David Kahneman has died.
 
 [Image]
 
-## 
+
 
 David at [The Atlantic](http://theatlantic.com) has a nice obit[2](#footnote-2).
 
@@ -11858,7 +11858,7 @@ Last time I checked, fascistic Russia was waging a genocidal campaign against Uk
 
 [The Perfect Has Become the Enemy of the Good in Ukraine](https://www.foreignaffairs.com/ukraine/perfect-has-become-enemy-good-ukraine-haass). *Why Washington Must Redefine Its Objectives* ([Foreign Affairs](http://foreignaffairs.com), November 3, 2024)
 
-##
+
 
 ---
 
