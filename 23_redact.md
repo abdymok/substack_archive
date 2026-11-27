@@ -20,7 +20,7 @@ For example, my last post was about the specific language Volodymyr Z used in on
 
 ## [Killing the Truth](http://news.bbc.co.uk/hi/english/static/audio_video/programmes/correspondent/transcripts/1932609.txt)
 
-For continuity’s sake, I have imported a some older posts from [Medium](https://abdymok.medium.com/), including [Plan A](https://abdymok.substack.com/p/plan-a), [Operation Ы](https://abdymok.substack.com/p/operation-y-b2d557374ca7), [Paul & Andriana](https://abdymok.substack.com/p/paul-and-andriana-5ece7524e592) and [The Hill](https://abdymok.substack.com/p/the-hill-fce76b85bb86). Some published articles, notes and miscellany are still available [c/o Google](https://sites.google.com/site/abdymok/home), including [Nil Heard](https://sites.google.com/site/abdymok/nil-heard) and [Before the Coup](https://sites.google.com/site/abdymok/articles/before-the-coup). Maybe I’ll export them here after Substack improves indexing on [Search.](https://abdymok.substack.com/archive?sort=new)
+For continuity’s sake, I have imported some older posts from [Medium](https://abdymok.medium.com/), including [Plan A](https://abdymok.substack.com/p/plan-a), [Operation Ы](https://abdymok.substack.com/p/operation-y-b2d557374ca7), [Paul & Andriana](https://abdymok.substack.com/p/paul-and-andriana-5ece7524e592) and [The Hill](https://abdymok.substack.com/p/the-hill-fce76b85bb86). Some published articles, notes and miscellany are still available [c/o Google](https://sites.google.com/site/abdymok/home), including [Nil Heard](https://sites.google.com/site/abdymok/nil-heard) and [Before the Coup](https://sites.google.com/site/abdymok/articles/before-the-coup). Maybe I’ll export them here after Substack improves indexing on [Search.](https://abdymok.substack.com/archive?sort=new)
 
 [Image]
 
@@ -744,7 +744,7 @@ Seymour says in this interview that he is a friend of Matt Taibbi, Elon’s budd
 
 We have no choice but to fall like rain from the sky and point out that whatever China, Farah, Seymour and Matt say about fascistic Russia’s genocidal campaign in Ukraine is irrelevant, irrelevant, irrelevant.
 
-But the same holds true for the masters of counterproductive pro-Ukraine boosterism who have been been pissing out increasing quantities of self-serving crap (Francis, Aslund, Kurkov, Ash et al) , working up a sweat at the edges of convention, then smashing on through with earnest whatever.
+But the same holds true for the masters of counterproductive pro-Ukraine boosterism who have been pissing out increasing quantities of self-serving crap (Francis, Aslund, Kurkov, Ash et al) , working up a sweat at the edges of convention, then smashing on through with earnest whatever.
 
 Looking on the bright side, all these experts hate themselves for *doing their job,*  for laboring at a tone of such inelegance and witlessness it feels like watching an old man attempt to take a crap.
 
@@ -1493,7 +1493,7 @@ We wrote about this more than a year ago when celebrating the 25th anniversary o
 
 The implosion at [Ripley’s](https://ripleysheroes.org/) reeks of Mozart.
 
-In the gaping void that is the revenue model for English-language *news* content about unspeakable tragedy, there are lots of previously ignored feature story possibilities of potential benefit to [Coffee or Die](https://coffeeordie.com/) and [Kyiv Post](http://kyivpost.com), but editors there have decided it is at best fiscally irresponsible – at worst it is thinking inside the box – to let such such opportunities be reported.
+In the gaping void that is the revenue model for English-language *news* content about unspeakable tragedy, there are lots of previously ignored feature story possibilities of potential benefit to [Coffee or Die](https://coffeeordie.com/) and [Kyiv Post](http://kyivpost.com), but editors there have decided it is at best fiscally irresponsible – at worst it is thinking inside the box – to let such opportunities be reported.
 
 [Image]
 
@@ -4448,7 +4448,7 @@ Recently, he’s everywhere, Ukrainsplaining[1](#footnote-1)[2](#footnote-2).
 
 [Image]
 
-I could add more [links](https://www.google.com/search?q=petraeus+ukraine&tbm=nws&sxsrf=APwXEddIWNsc6zvTznZki8H-m81qBTNtow:1687922069612&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwjNiPja_-T_AhWN7LsIHYpcBWoQpwV6BAgDEBM&biw=1350&bih=693&dpr=2.13) and give examples of extraordinary stupid observations, but I won’t, because it’s cloudy outside and I’m not in the mood. Suffice it to say it’s awful, almost as as bad as Mylovanov [Belarusplaining](https://twitter.com/Mylovanov/status/1673612169097748480).
+I could add more [links](https://www.google.com/search?q=petraeus+ukraine&tbm=nws&sxsrf=APwXEddIWNsc6zvTznZki8H-m81qBTNtow:1687922069612&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwjNiPja_-T_AhWN7LsIHYpcBWoQpwV6BAgDEBM&biw=1350&bih=693&dpr=2.13) and give examples of extraordinary stupid observations, but I won’t, because it’s cloudy outside and I’m not in the mood. Suffice it to say it’s awful, almost as bad as Mylovanov [Belarusplaining](https://twitter.com/Mylovanov/status/1673612169097748480).
 
 In other news, Dyumin.
 
@@ -4524,7 +4524,7 @@ Ivan’s argument that Russia’s leader desires to be judged on a higher level 
 
 Ivan’s “maybe common dreams, but national nightmares” observations about Europe, and the decolonization narrative trumping the Cold War narrative in India, China, Global South, are helpful. Ivan also touches on Ukraine’s “subjectiveness” (agency) briefly, a topic that popped up in 2021[1](#footnote-1).
 
-Tim during the Q&A part talks about the difference of being a public intellectual and an academic, whatever that is, touching on the stupidity and self-absorbtion of those who spend enormous amounts of time time worrying about being vaporized by nuclear weapons, in this case Russia’s, something we mumbled about on Day 4 of the current bloody mess[2](#footnote-2).
+Tim during the Q&A part talks about the difference of being a public intellectual and an academic, whatever that is, touching on the stupidity and self-absorbtion of those who spend enormous amounts of time worrying about being vaporized by nuclear weapons, in this case Russia’s, something we mumbled about on Day 4 of the current bloody mess[2](#footnote-2).
 
 Too bad no Ukrainians attending the gathering, if there were any, were given the microphone.
 
@@ -4990,7 +4990,7 @@ It’s a special kind of stupidity that would lead anyone to trust anybody/anyth
 
 According to the [Jacaard Index](https://www.statisticshowto.com/jaccard-index/#:~:text=The%20Jaccard%20similarity%20index%20(sometimes,more%20similar%20the%20two%20populations.) comparison, Cold War has 641 relations, while Newsweek Senior Editor William Arkin has 45. So, that’s 1.3% = 9 / 641 + 45).
 
-I mention this because Newsweek has been churning out lots of bullshit about Ukraine, including [Exclusive: The CIA's Blind Spot about the Ukraine War](https://www.newsweek.com/2023/07/21/exclusive-cias-blind-spot-about-ukraine-war-1810355.html) with Bill’s name on it. I suspect he and his anonymous interlocutors at DIA and CIA don’t understand Russian or Ukrainian or what the fuck they are are talking about.
+I mention this because Newsweek has been churning out lots of bullshit about Ukraine, including [Exclusive: The CIA's Blind Spot about the Ukraine War](https://www.newsweek.com/2023/07/21/exclusive-cias-blind-spot-about-ukraine-war-1810355.html) with Bill’s name on it. I suspect he and his anonymous interlocutors at DIA and CIA don’t understand Russian or Ukrainian or what the fuck they are talking about.
 
 But I was most curious about what, exactly, Bill actually *did* in Berlin.
 
@@ -5639,7 +5639,7 @@ Schwartz’s dragon comes to mind. Timothy hasn’t *lived* in Russia. Neither h
 
 Practicing philosopher Vladimir Pastukhov might help Timothy and Fiona *read* Russia better. Kirill Rogov is another [good source](https://www.youtube.com/playlist?list=PLzNN5L-CoQwt5xTDz6zT8JGP_RmnVDwYd), as are several self-exiled geographers, philosophers and historians who appear frequently on YouTube (Oreshkin, Zubov, Aleksashenko, Yakovenko, Inozemtsev et al).
 
-Ibrahim and Leonid, who are still in Russia, have produced more than [60 podcasts](https://www.youtube.com/playlist?list=PLya8rV6iWYRDBJtaX-RQu8Qf9-fyrk1Kt) about key phases of Russia’s history post-1917, if anyone wants to brush up on the All-Union Communist Party (Bolsheviks). Policymakers and narrative shapers might want to avoid popular self-exiled Russian conspiricists (Latynina, Belkovsky, Venediktov, Feigin, et al) who vlog daily about about the bloodbath, dabbling in conspiricism.
+Ibrahim and Leonid, who are still in Russia, have produced more than [60 podcasts](https://www.youtube.com/playlist?list=PLya8rV6iWYRDBJtaX-RQu8Qf9-fyrk1Kt) about key phases of Russia’s history post-1917, if anyone wants to brush up on the All-Union Communist Party (Bolsheviks). Policymakers and narrative shapers might want to avoid popular self-exiled Russian conspiricists (Latynina, Belkovsky, Venediktov, Feigin, et al) who vlog daily about the bloodbath, dabbling in conspiricism.
 
 Recent additions to “our tortured reading” include Russia’s War on Everyone. And what it means for you (Giles), Putin’s Wars. From Chechnya to Ukraine (Galeotti), Overreach: *The Inside Story of Putin’s War Against Ukraine* (Matthews), , Putin’s War on Ukraine: *Russia’s campaign for global counter-revolution* (Ramani), Invasion: *The inside story of Russia's bloody war and Ukraine's fight for survival* (Harding), The Fight of Our Lives: *My time with Z, Ukraine's battle for democracy, and what it means for the world* (Mendel), The War Came to Us: *Life and death in Ukraine* (Miller) and so on and so forth. The last two books are self-aggrandizing memoirs.
 
@@ -6277,7 +6277,7 @@ Looking back, those words don’t sound shrill enough.
 
 We re-contemplate Hemingway, Miłosz, Arendt, Vonnegut, Taras, Baradullin, Bykov et al and wonder **why it has taken more than a year** to build an international consensus among civilized nations to prevent **the commission of genocide by a fascistic regime**. As if this didn’t already happen in the not-so-distant past. Nuclear weapons comes to mind, but we concluded on Day 14 that **what will happen next can’t be avoided**, at least in respect to Armageddon.[2](#footnote-2)
 
-Life in Russia and Belarus today is the stuff of someone's bad erotic fantasy. Reading — even thinking — about civilized life there is harmful for immature minds. It’s a complete complete horror show, maybe even worse than occupied areas in eastern Ukraine.
+Life in Russia and Belarus today is the stuff of someone's bad erotic fantasy. Reading — even thinking — about civilized life there is harmful for immature minds. It’s a complete horror show, maybe even worse than occupied areas in eastern Ukraine.
 
 Today’s hat tip goes to Denys Kazansky for this clip illustrating 21st century-style **ethnocide**, Russia’s attempt to destroy Ukrainian culture while keeping the people.
 
@@ -6681,7 +6681,7 @@ I’ve refashioned it into the Poem of the Day.
 # recommended.
 #
 # If the value is '*', the record describes the default access policy
-# for any robot that has not not matched any of the other records. It is
+# for any robot that has not matched any of the other records. It is
 # not allowed to have two such records in the "/robots.txt" file.
 #
 # Disallow 
@@ -6992,7 +6992,7 @@ Practicing philosopher Volodymyr Pastukhov recalls the above passage in a pessim
 
 In other news, Ireland has announced that it will dole out EUR 1 billion to accommodate Ukrainian refugees. About 90,000 have sought shelter on our island so far.
 
-According to UN data, as of August 2023, the largest share of registered refugees are in Russia - 1.27 million, including including those forcibly deported (21%), Poland - 16% (970,000 people), Germany - 18% (1.08 million), Czech Republic - 6% (about 360,000) and Great Britain - 3% (210,000). About 2.3 million Ukrainians have found refuge in other countries in Europe and elsewhere.
+According to UN data, as of August 2023, the largest share of registered refugees are in Russia - 1.27 million, including those forcibly deported (21%), Poland - 16% (970,000 people), Germany - 18% (1.08 million), Czech Republic - 6% (about 360,000) and Great Britain - 3% (210,000). About 2.3 million Ukrainians have found refuge in other countries in Europe and elsewhere.
 
 ---
 
@@ -7888,7 +7888,7 @@ What is wrong with the editors at [The Washington Post](http://wapo.st)?
 
 [Image]
 
-We all remember remember William M. Arkin — the former U.S. intelligence analyst assigned to the West Berlin HQ command — who informed us \*under 100 CIA agents\* were managing the war in Ukraine for Team USA[1](#footnote-1).
+We all remember William M. Arkin — the former U.S. intelligence analyst assigned to the West Berlin HQ command — who informed us \*under 100 CIA agents\* were managing the war in Ukraine for Team USA[1](#footnote-1).
 
 > The job of a U.S. intelligence analyst at the West Berlin HQ during the late 1970s was boring as fuck. As I recall, HQ was located at the Clay Compound across from the cemetery. It was about a 30-minute walk from Andrews Kaserne. Military intelligence, per se, was in short supply there during Bill’s tour. Just ask anyone who worked on the Hill. He probably lived in the barracks, didn’t have German girlfriends and avoided smoking hash with anyone from USM-5 or Det-A[2](#footnote-2).
 
@@ -8417,9 +8417,9 @@ What could go wrong? Don’t look up!
 
 [Image]
 
-I suppose it’ll be just a matter of time before accusations of rigging and taint cloud the air, before blue-ticked shitbloggers on X and their burbling attack runts shit their collective underpants because  or  or or  or  or (over 3,000 subscribers!) aren’t nominated.
+I suppose it’ll be just a matter of time before accusations of rigging and taint cloud the air, before blue-ticked shitbloggers on X and their burbling attack runts shit their collective underpants because  or or  or (over 3,000 subscribers!) aren’t nominated.
 
-But it’s interesting nonetheless to learn that this Substack’s almost weekly [photos](https://photos.app.goo.gl/m2LThnn4anSnujA37) of our cat Balusha (updated each week at 5 AM CET unless of course I forgot to put one up the week before before which does happen now and again) are in the running for Best Substack Cat Photos in this year’s Photobloggies, an award that comes with a prize of a [Red Rubber Devil Duck](https://sciplus.com/red-devil-rubber-duckie/).
+But it’s interesting nonetheless to learn that this Substack’s almost weekly [photos](https://photos.app.goo.gl/m2LThnn4anSnujA37) of our cat Balusha (updated each week at 5 AM CET unless of course I forgot to put one up the week before which does happen now and again) are in the running for Best Substack Cat Photos in this year’s Photobloggies, an award that comes with a prize of a [Red Rubber Devil Duck](https://sciplus.com/red-devil-rubber-duckie/).
 
 [Image]
 
@@ -9535,7 +9535,7 @@ Finally, apropos of the clip inserted above, this:
 
 > An diesem Mittwoch hatte die Bremer Niederlassung der Deutsch-Israelischen Gesellschaft (DIG) Äußerungen von Gessen zur Lage im [Gazastreifen](https://www.zeit.de/thema/gazastreifen) heftig kritisiert und gefordert, die geplante Preisverleihung auszusetzen. Eine Ehrung Gessens "würde dem notwendigen entschlossenen Auftreten gegen den wachsenden Antisemitismus entgegenstehen", heißt es in einem [offenen Brief](https://www.dig-bremen.de/fileadmin/user_upload/Open_Letter_Masha_Gessen_2023.pdf) der Bremer DIG.
 >
-> Auslöser der DIG-Kritik und nun des Rückzugs der Böll-Stiftung ist ein [Essay von Gessen im](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust) *[New Yorker](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust)* vom 9. Dezember, in dem es unter anderem um die deutsche Israel-Politik geht. Gessen setzt sich darin kritisch mit der deutschen Erinnerungspolitik auseinander, darunter mit der umstrittenen [BDS-Resolution des Bundestags](https://www.zeit.de/politik/deutschland/2019-05/israel-boykott-bds-bundestag-foerderung-entzug), die die Israel-Boykott-Bewegung *Boycott, Divestment and Sanctions* als antisemitisch verurteilt. — [Zeit.de](https://www.zeit.de/kultur/2023-12/deutsch-israelische-gesellschaft-masha-gessen-kritik-hannah-arendt-preis)
+> Auslöser der DIG-Kritik und nun des Rückzugs der Böll-Stiftung ist ein [Essay von Gessen im](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust) *[New Yorker](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust)* vom 9. Dezember, in dem es unter anderem um die deutsche Israel-Politik geht. Gessen setzt sich darin kritisch mit der deutschen Erinnerungspolitik auseinander, darunter mit der umstrittenen [BDS-Resolution des Bundestags](https://www.zeit.de/politik/deutschland/2019-05/israel-boykott-bds-bundestag-foerderung-entzug), die Israel-Boykott-Bewegung *Boycott, Divestment and Sanctions* als antisemitisch verurteilt. — [Zeit.de](https://www.zeit.de/kultur/2023-12/deutsch-israelische-gesellschaft-masha-gessen-kritik-hannah-arendt-preis)
 
 We applaud the decision to cancel Masha’s prize, for what we think should be obvious reasons[2](#footnote-2). That he/she was considered in the first place is a travesty.
 
