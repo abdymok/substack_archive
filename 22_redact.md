@@ -2224,7 +2224,7 @@ And then there’s Andriy Yermak, the unexpected and un-elected head of the Pres
 Ze’s official [Telegram](https://t.me/V_Zelenskiy_official) posts photographs taken in all parts of Ukraine [daily](https://t.me/V_Zelenskiy_official/1037?single). So does the [Strategic Communications Department of the Armed Forces of Ukraine.](https://www.facebook.com/AFUStratCom)
 
 [Image]
-*Sunk somehwere near Sumy ( AFU Stratcom )*
+*Sunk somewhere near Sumy ( AFU Stratcom )*
 
 There is little reason to be optimistic that Russia’s invasion of Ukraine will end any time in the near future. That means lots more unspeakable tragedy and death. Looking on the positive side, warm damp weather has arrived and the scenery will change over the coming days and weeks.
 
@@ -2248,11 +2248,11 @@ Next up: “[Russian soldiers in Ukraine sabotaged own equipment, U.K. spy chief
 
 [Image]
 
-Indeed, altho it’s better much better than merely “extremely effective.” It’s fucking “[brilliant](https://abdymok.substack.com/p/lost-in-translation?s=w),” according to Mykhailo Podoliak, an advisor to Andriy Yermak, head of the President’s Office, who on March 21, 2022 [announced](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjissiz7PH2AhWEgv0HHYm6CugQFnoECBUQAQ&url=https%3A%2F%2Fwww.washingtonpost.com%2Fopinions%2F2022%2F03%2F21%2Fukraine-zelenskyy-the-west-underestimated-our-bravery-russia-brutality-civilians%2F&usg=AOvVaw2_lWlaI24qmBDCyx2RM-Ck) in Meryl’s and Amy’s newspaper that Ze is today **[The Leader of The New World Order](https://en.wikipedia.org/wiki/New_world_order_(politics))**. Yermak [doubled down](https://www.youtube.com/watch?v=5PSM7L33Zzg) on the wacko assertion days later in broken English during an interview with CNN’s Christian Amanpour.
+Indeed, although it’s much better than merely “extremely effective.” It’s fucking “[brilliant](https://abdymok.substack.com/p/lost-in-translation?s=w),” according to Mykhailo Podoliak, an advisor to Andriy Yermak, head of the President’s Office, who on March 21, 2022 [announced](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjissiz7PH2AhWEgv0HHYm6CugQFnoECBUQAQ&url=https%3A%2F%2Fwww.washingtonpost.com%2Fopinions%2F2022%2F03%2F21%2Fukraine-zelenskyy-the-west-underestimated-our-bravery-russia-brutality-civilians%2F&usg=AOvVaw2_lWlaI24qmBDCyx2RM-Ck) in Meryl’s and Amy’s newspaper that Ze is today **[The Leader of The New World Order](https://en.wikipedia.org/wiki/New_world_order_(politics))**. Yermak [doubled down](https://www.youtube.com/watch?v=5PSM7L33Zzg) on the wacko assertion days later in broken English during an interview with CNN’s Christian Amanpour.
 
 But I digress.
 
-I immediately disregarded what Britain’s spy chief said in the article, but did pay attention to commentary by [Alexey Muraiev](https://staffportal.curtin.edu.au/staff/profile/view/alexey-muraviev-8770eee9/), a national security expert at Australia’s Curtin University.
+I immediately disregarded what Britain’s spy chief said in the article, but I did pay attention to commentary by [Alexey Muraiev](https://staffportal.curtin.edu.au/staff/profile/view/alexey-muraviev-8770eee9/), a national security expert at Australia’s Curtin University.
 
 [Image]
 
@@ -2297,7 +2297,7 @@ It’s been unpleasant enough bumping into Ukraine-related PR crusades, but [Bil
 
 [Image]
 
-That’s why I probably misinterpret Sean’s shrill [scream for attention](https://www.theguardian.com/film/2022/apr/01/sean-penn-calls-for-billionaire-to-step-up-and-buy-aircraft-for-ukraine) amid all this death and sadness, for some billionaire to cough up $300 million for [“12 aircraft with better tech than Russian MiGs or SU’s.”](https://twitter.com/SeanPenn/status/1509626754847031320?s=20&t=f7S2nGNjPlgakZPoRIY6LQ)
+That’s why I probably misinterpret Sean’s shrill [scream for attention](https://www.theguardian.com/film/2022/apr/01/sean-penn-calls-for-billionaire-to-step-up-and-buy-aircraft-for-ukraine) amid all this death and sadness as a plea for some billionaire to cough up $300 million for [“12 aircraft with better tech than Russian MiGs or SU’s.”](https://twitter.com/SeanPenn/status/1509626754847031320?s=20&t=f7S2nGNjPlgakZPoRIY6LQ)
 
 [Image]
 
@@ -2314,7 +2314,7 @@ Ukraine, land of democratic dreamers and magical thinking. And [Masochism](https
 [Image]
 *Photo c/o Bochkala\_#TheWar c/o Reuters*
 
-It’s a quiet cold Sunday morning in Kyiv. I sit down to read about Ukraine…
+It’s a quiet, cold Sunday morning in Kyiv. I sit down to read about Ukraine…
 
 Five minutes later, I’m stuck in the middle of a 6,800-word Wall Street Journal [recapitulation](https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461) of the entire mess, titled “Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It.”
 
