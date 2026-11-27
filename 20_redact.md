@@ -4086,7 +4086,7 @@ Blue-ticked journalists are in increasingly low supply.
 
 Badass Belarusian women terrorized underfed riot police serving self-proclaimed President Alexander Lukashenko on Saturday and marched to Independence Square in Minsk.
 
-Blue-ticked foreign journalists did not cover the event. They left the country this week after pressure was cranked up. Some had claimed that they were followed and hacked. It’s a shame they missed today’s party, but there will be many more come.
+Blue-ticked foreign journalists did not cover the event. They left the country this week after pressure was cranked up. Some had claimed that they were followed and hacked. It’s a shame they missed today’s party, but there will be many more to come.
 
 [Image]
 
@@ -4136,13 +4136,13 @@ Putin and Lukashenko will likely discuss the *structure of criminality* in Belar
 
 According to Belarusian Investigative Committee Chairman Ivan Noskevich, there’s been a drop in ordinary mischief this year, compared to 2019. However, he noted a significant uptick in *information-related crimes* over the same period*.*
 
-This should reminds us that Foucault famously described Derrida as an *intellectual terrorist*, claiming the latter didn’t understand his gibberish because he was an idiot.
+This should remind us that Foucault famously described Derrida as an *intellectual terrorist*, claiming the latter didn’t understand his gibberish because he was an idiot.
 
 No one knows how many kidnappings and casualties will be required before Lukashenko and his henchmen are deposed.
 
-We can count on blue-ticked foreign journalists in Moscow to get crucial things wrong with respect to the current madness. It was unsettling and mildly annoying in August to read their disanologies with Russian interventions in Georgia and Ukraine.
+We can count on blue-ticked foreign journalists in Moscow to get crucial things wrong with respect to the current madness. It was unsettling and mildly annoying in August to read their disanalogies with Russian interventions in Georgia and Ukraine.
 
-There is kind of a moral panic today to much of what is going on and too few level-headed observations from people familiar with Karatkevich, Adamovich and Bykov. Or even N.R.M.
+There is a kind of moral panic today about much of what is going on and too few level-headed observations from people familiar with Karatkevich, Adamovich and Bykov. Or even N.R.M.
 
 ---
 
@@ -4234,7 +4234,7 @@ cf.
 
 [Image]
 
-Last remaining member of the Coordinating Council Presidium in Belarus Svetlana Alexievich [released a statement](https://pen-centre.by/en/2020/09/09/3779.html) on September 9, 2020.
+The last remaining member of the Coordinating Council Presidium in Belarus Svetlana Alexievich [released a statement](https://pen-centre.by/en/2020/09/09/3779.html) on September 9, 2020.
 
 Here’s a quick xlation:
 
@@ -4250,13 +4250,13 @@ Here’s a quick xlation:
 >
 > Here again, a stranger is ringing my doorbell ...
 >
-> [Svetlana Alexeivich](https://www.nobelprize.org/prizes/literature/2015/alexievich/facts/),
+> [Svetlana Alexievich](https://www.nobelprize.org/prizes/literature/2015/alexievich/facts/),
 >
 > Nobel laureate, head of the Belarusian PEN center
 
 ---
 
-***Dementors** (Хапуны,* var. *) are masked creatures widely considered to be one of the foulest to inhabit Belarus. They feed on human happiness and generate feelings of depression and despair in any person in close proximity to them. They are often referred to as "soul-suckers" and are closely associated with [Titushki](https://en.wikipedia.org/wiki/Titushky#:~:text=Titushky%20(plural%3B%20Ukrainian%3A%20%D1%82%D1%96%D1%82%D1%83%D1%88%D0%BA%D0%B8,purpose%20of%20performing%20illegal%20acts.), mercenary agents who supported the riot police during the Ukraine’s Revolution of Dignity in 2013-2014.*
+***Dementors** (Хапуны,* var. *) are masked creatures widely considered to be one of the foulest to inhabit Belarus. They feed on human happiness and generate feelings of depression and despair in any person in close proximity to them. They are often referred to as "soul-suckers" and are closely associated with [Titushki](https://en.wikipedia.org/wiki/Titushky#:~:text=Titushky%20(plural%3B%20Ukrainian%3A%20%D1%82%D1%96%D1%82%D1%83%D1%88%D0%BA%D0%B8,purpose%20of%20performing%20illegal%20acts.), mercenary agents who supported the riot police during Ukraine’s Revolution of Dignity in 2013-2014.*
 
 [Image]
 
@@ -4272,7 +4272,7 @@ Belarusian poet Vladimir Neklyaev, meanwhile, had this to say in an [interview](
 >
 > Why? To exact revenge!
 >
-> For what reason? Because both Minsk and Belarus have denied him power, the authority he, after deceiving the people, ascribed to himself in the Constitution and considered eternal. Why isn't he shooting yet? He is not shoot only because he lacks sufficient forces to deploy against Minsk and the entire country,” Neklyaev [said](https://belaruspartisan.by/politic/511719/).
+> For what reason? Because both Minsk and Belarus have denied him power, the authority he, after deceiving the people, ascribed to himself in the Constitution and considered eternal. Why isn't he shooting yet? He is not shooting only because he lacks sufficient forces to deploy against Minsk and the entire country,” Neklyaev [said](https://belaruspartisan.by/politic/511719/).
 
 
 ---
@@ -4289,7 +4289,7 @@ It is truly fascinating how the differences between blueticks and their native c
 
 This is a sentence from an otherwise uninteresting [2,500-word article](https://bit.ly/33cdjUE) about exiled Belarusian Svetlana Tikhanovskaya published in Buzzfeed. A Google search for “Lukashenko” + “iron” produces hundreds of thousands of matches for the boilerplate trope.
 
-There have been many cases throughout history where catastrophic failures have occurred when iron was below the ductile to brittle transition temperature.
+There have been many cases throughout history where catastrophic failures have occurred when iron was below the ductile-to-brittle transition temperature.
 
 ---
 
@@ -4317,7 +4317,7 @@ The last time I checked, Ukraine was fighting Russia-occupation forces in Donets
 
 [Image]
 
-Ukrainian Foreign Minister Dmytro Kuleba [blurted out](https://bit.ly/3inPksa) in an interview published on September 8, 2020 that he wanted to hear the position of the Belarusian opposition on the development future Ukraine-Belarus relations, about Russia’s aggression against Ukraine, annexation of Crimea, Russia’s war in Donbas, etc.
+Ukrainian Foreign Minister Dmytro Kuleba [blurted out](https://bit.ly/3inPksa) in an interview published on September 8, 2020 that he wanted to hear the position of the Belarusian opposition on the future development of Ukraine-Belarus relations, about Russia’s aggression against Ukraine, annexation of Crimea, Russia’s war in Donbas, etc.
 
 **As if he did not know already**.
 
