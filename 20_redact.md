@@ -2553,9 +2553,9 @@ At least [one public response](https://www.facebook.com/profile.php?id=100001919
 
 At least one third of Ukrainians have suspected for at least a year that Zelensky is a clown, however, few expected that the time would come when the standard of competency for foreign experts turned out to be the ability to construe accurately what has now become patently obvious.
 
-The ability to fill in missing information, a commonplace in human behavior, has been termed *analysis by synthesis*by psychologists. It refers to the strategy of internally generating or *shadowing*what people say (or do) so that we may more easily reduce the number of possibilities to consider.
+The ability to fill in missing information, a commonplace in human behavior, has been termed *analysis by synthesis* by psychologists. It refers to the strategy of internally generating or *shadowing* what people say (or do) so that we may more easily reduce the number of possibilities to consider.
 
-Policy makers in the west should take the time and make full use of their processing capacity to thoroughly examine Bohdan’s *sensitive knowledge*. As long as ignorance is bliss, Ukraine’s future will be static.
+Policymakers in the West should take the time and make full use of their processing capacity to thoroughly examine Bohdan’s *sensitive knowledge*. As long as ignorance is bliss, Ukraine’s future will be static.
 
 ---
 
@@ -2697,9 +2697,9 @@ Like Trump, Z has failed to deliver on his campaign promises. He has not ended R
 
 It’s true that some in Z’s circle were disappointed initially with Trump’s lieutenants, especially Rudy Giuliani, who demanded Z “go to a mic” to [announce publicly](https://www.nytimes.com/2019/11/07/world/europe/ukraine-trump-zelensky.html) investigations against former U.S. Vice President Joe Biden. Trump has since only reluctantly supplied Ukraine with defensive weapons. Yet Trump still hates Ukraine and opposes inviting his Z to the White House for a photo opportunity.
 
-It’s worth considering the gifts America’s supreme leader could give Z, if he wanted. Trump could destroy the reputation of Z’s arch rival Petro Poroshenko by providing unflattering details about U.S.-Ukraine relations when Barrack Obama was president. He could also help Z broker a deal with Putin.
+It’s worth considering the gifts America’s supreme leader could give Z, if he wanted. Trump could destroy the reputation of Z’s arch rival Petro Poroshenko by providing unflattering details about U.S.-Ukraine relations when Barack Obama was president. He could also help Z broker a deal with Putin.
 
-Z has said off record repeatedly that he will do what he can to help Trump. Any doubt about that was removed by a [press conference](https://abdymok.substack.com/p/ze-faces-retaliation-for-shit-talking) he gave last month that appeared aimed directly at the Kremlin and the White House.
+Z has said off the record repeatedly that he will do what he can to help Trump. Any doubt about that was removed by a [press conference](https://abdymok.substack.com/p/ze-faces-retaliation-for-shit-talking) he gave last month that appeared aimed directly at the Kremlin and the White House.
 
 While pro-Russia media in Ukraine publicly stroke Trump, Z can supply his re-election campaign with ammunition directly. There is, for example, the tape recording that [surfaced in Kyiv](https://www.washingtonpost.com/national-security/ukrainian-lawmaker-releases-leaked-phone-calls-of-biden-and-poroshenko/2020/05/19/cc1e6030-9a26-11ea-b60c-3be060a4f8e1_story.html?itid=lk_inline_manual_17), released by a member of parliament with ties to Russian intelligence, that captures Biden pressuring Poroshenko to fire a corrupt prosecutor — and is meant to revive the Trump camp’s false charge that Biden did so to help his son. Networks of Russian-run social media accounts are [systematically](https://www.nytimes.com/2020/06/15/technology/coronavirus-disinformation-russia-iowa-caucus.html?searchResultPosition=1) amplifying conspiracy theories spread by Trump’s sycophants.
 
@@ -2721,7 +2721,7 @@ It’s day whatever of Ukraine’s Covid-19 disaster and the situation is bleak.
 
 Attempts to mitigate the spread of the virus have failed miserably. Commuters during rush hour pack themselves like sardines into poorly ventilated mini-buses after waiting, coughing and spitting on long lines patrolled by 20-something-year old policemen.
 
-Ukraine has reached the maximum number of new infections per day, on the one hand, and officials have started removing quarantine restrictions, on the other. This brilliant strategy has been approved the nation’s supreme ruler Ze.
+Ukraine has reached the maximum number of new infections per day, on the one hand, and officials have started removing quarantine restrictions, on the other. This brilliant strategy has been approved by the nation’s supreme ruler Ze.
 
 [Image]
 
@@ -2833,11 +2833,11 @@ The finding illustrates the risks of allowing pro-Russia television channels to 
 
 [Image]
 
-The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) in over the last 100 days have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) [whacko algorithms](https://abdymok.substack.com/p/--35a), [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
+The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) over the last 100 days have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) [whacko algorithms](https://abdymok.substack.com/p/--35a), [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
 
 The result isn't unlike a horrible accident, except it’s been caused by an unemployed actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a victim.
 
-It should be abundantly obvious to anyone who has been paying attention that Ukraine’s *disruptor* President Volodymyr Zelensky is not a big fan dialectical discourse. He eschewed with great fanfare the Heglian approach of evolving real ideas (thesis vs antithesis) more than a year ago during the presidential election campaign.
+It should be abundantly obvious to anyone who has been paying attention that Ukraine’s *disruptor* President Volodymyr Zelensky is not a big fan of dialectical discourse. He eschewed with great fanfare the Hegelian approach of evolving real ideas (thesis vs antithesis) more than a year ago during the presidential election campaign.
 
 Problems caused by the non-expression of reality in rational categories during the pandemic have been manifold. Arguments expressed in memes decorated with pink unicorns and photo opportunities advertised on social media often muddle perceptions and previously accepted facts.
 
