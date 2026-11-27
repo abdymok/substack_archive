@@ -1085,7 +1085,7 @@ About 200 residents of Borodyanka [were evacuated yesterday](https://kyiv.tsn.ua
 
 My friends there live about four kilometers from the center of town, where there are lots of little dams and levees to control the spring floods and irrigate the surrounding whatever-they-grow-in-those fields.
 
-To make a long story short, the orcs invaded Borodyanka, got shot up, left Borodyanka, got shot up, came back to Borodyanka, got shot up, and then were herded by Ukranian defense forces into a bunch of boggy fields and turned into fertilizer for the secret pot plantation.
+To make a long story short, the orcs invaded Borodyanka, got shot up, left Borodyanka, got shot up, came back to Borodyanka, got shot up, and then were herded by Ukrainian defense forces into a bunch of boggy fields and turned into fertilizer for the secret pot plantation.
 
 It looked like a happy ending, until the orcs re-invaded and took the town’s remaining residents hostage. Then Russian planes dropped bombs on the town. A sad tale to ponder the next time you light up a joint and daydream about *denazification*.
 
@@ -1313,7 +1313,7 @@ The realization of the simple fact that Putin might actually resort to nuclear b
 [Image]
 *Illustration by Mykhailo Aleksandrov*
 
-A friend of mine, Olena, from Dnipro has a brother in Mariupol, whose wife there is sick. I met them a couple of months ago in Kyiv ago during Shabbat. Olena hasn’t heard from her brother for the last couple of weeks, so today I thought about Olena’s brother and his sick wife and the hundreds of thousands of people trapped there.
+A friend of mine, Olena, from Dnipro, has a brother in Mariupol whose wife is sick. I met them a couple of months ago in Kyiv during Shabbat. Olena hasn’t heard from her brother for the last couple of weeks, so today I thought about Olena’s brother and his sick wife and the hundreds of thousands of people trapped there.
 
 [Image]
 *Somewhere in Mariupol yesterday at the bottom of a deep bomb crater.*
@@ -1322,13 +1322,13 @@ Weaponizing refugees: Orcs bomb Mariupol maternity hospital. (Demonstrative acts
 
 ---
 
-A quick boo at the Ukraine’s Defense Intelligence Agency’s Telegram channel gets me thinking about how fighting tyranny with ineptitude and random Latin aphorisms is a bad idea.
+A quick boo at Ukraine’s Defense Intelligence Agency’s Telegram channel gets me thinking about how fighting tyranny with ineptitude and random Latin aphorisms is a bad idea.
 
 [Image]
 
 Which brings me to Kamala and Poland.
 
-The steeplechase of hacks making hay out of unspeakable tragedy now [involves](https://twitter.com/SeanPenn/status/1501603494725259264/photo/1) Sean Penn and greasy fuckpig Andriy Yermak. Ze whined this morning about not getting Mig-29s fast enuf during his daily TikTok pep talk.
+The steeplechase of hacks making hay out of unspeakable tragedy now [involves](https://twitter.com/SeanPenn/status/1501603494725259264/photo/1) Sean Penn and greasy fuckpig Andriy Yermak. Ze whined this morning about not getting MiG-29s fast enuf during his daily TikTok pep talk.
 
 [Radosław](https://www.facebook.com/radeksikorski/) has been mum, unless I missed something, the Pentagon [says](https://www.defense.gov/News/Releases/Release/Article/2960180/statement-by-pentagon-press-secretary-john-f-kirby-on-security-assistance-to-uk/) the deal is **dumb** and Austin calls the Polish proposal a [dead letter](https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html). Rinse, repeat.
 
@@ -1350,7 +1350,7 @@ Someone, please, pass on the info to Ze, Andriy and Sean.
 
 \*\*\*
 
-There’s a superabundance of documentary material on every aspect of what has brought Russia to “point zero” of its history. The neo-totalitarian mess managed by the insanely suspicious man in Moscow is deadly, much more dangerous than dictatorship or tyranny. Тotal domination is the only form of government with which co-existence is not possible - maybe not yet for the Germans and the French, but certainly for Ukrainians. That’s why there are only two possible outcomes of the ongoing war: Either Ukraine wins, or Russia loses.
+There’s a superabundance of documentary material on every aspect of what has brought Russia to “point zero” of its history. The neo-totalitarian mess managed by the insanely suspicious man in Moscow is deadly, much more dangerous than dictatorship or tyranny. Total domination is the only form of government with which co-existence is not possible - maybe not yet for the Germans and the French, but certainly for Ukrainians. That’s why there are only two possible outcomes of the ongoing war: Either Ukraine wins, or Russia loses.
 
 ---
 
@@ -1398,7 +1398,7 @@ This [aerial photo](https://www.facebook.com/groups/armia.sos/posts/330488763973
 
 During the day, the orcs will ransack the neighborhood stores for food, terrorize locals and steal anything of value. During the night, Ukrainian forces hunt the orcs down and turn them into fertilizer. It’s tricky, though, because they don’t want to kill civilians.
 
-Below is a video (c/o [Andriy](https://t.me/Tsaplienko)) from a Bayaktar drone vaporizing an orc command and control encampment near [Makariv](https://www.google.com/maps/place/Makariv,+Kyiv+Oblast/@50.3309595,29.7836775,10.25z/data=!4m5!3m4!1s0x472b40d936e5edcb:0x464b236ace9daa9!8m2!3d50.4573262!4d29.8126551), west of Kyiv.
+Below is a video (c/o [Andriy](https://t.me/Tsaplienko)) from a Bayraktar drone vaporizing an orc command and control encampment near [Makariv](https://www.google.com/maps/place/Makariv,+Kyiv+Oblast/@50.3309595,29.7836775,10.25z/data=!4m5!3m4!1s0x472b40d936e5edcb:0x464b236ace9daa9!8m2!3d50.4573262!4d29.8126551), west of Kyiv.
 
 Every morning, Kyiv State Regional Administration posts [updates](https://www.facebook.com/koda.gov.ua) about the situation in districts throughout the region.
 
@@ -1432,7 +1432,7 @@ What’s-his-face Podoliak, who advises the President’s Office, has said more 
 *Map c/o Critical Threats*
 
 
-**Russia has lost the war**, and the map above is misleading. The same goes for dozens of forecasts and studies published by [Institute for the Study of War](https://www.criticalthreats.org/the-project) and [Critical Threats](https://www.understandingwar.org/) over the six months leading up to the invasion. Both 501© think tanks are the brainchildren of Fred, who probably means well, but doesn’t have a clue.
+**Russia has lost the war**, and the map above is misleading. The same goes for dozens of forecasts and studies published by [Institute for the Study of War](https://www.criticalthreats.org/the-project) and [Critical Threats](https://www.understandingwar.org/) over the six months leading up to the invasion. Both 501(c) think tanks are the brainchildren of Fred, who probably means well, but doesn’t have a clue.
 
 Looking on the positive side, had it not been for Fred’s [page](https://www.aei.org/podcast/ukraine-update-frederick-kagan-on-the-jordan-b-peterson-podcast/) at the American Enterprise Institute, I wouldn’t have reminisced about Michael Solo, a Russian emigre and friend of the family who taught military history at West Point before Fred arrived there. It was Fred’s chit chat with Jordan Peterson, titled “[Ukraine Update,](https://www.youtube.com/watch?v=YDElXTPm3VQ&t=2s)” that led me to take a closer look at AEI’s/ISW’s reports and maps.
 
@@ -1477,7 +1477,7 @@ Or a nightmare about genocidal massacre, if it doesn't, like over Mariupol this 
 
 Last time I checked, we concluded *before* Putin decided to invade, that there were only two possible outcomes of the current mess: Continuation of WW4 or a coup. Biden and European leaders and NATO have been very late waking up to this fact.
 
-Thousands of innocent lives have already been lost needlessly. It’s Srebrinica all over again, multiplied daily.
+Thousands of innocent lives have already been lost needlessly. It’s Srebrenica all over again, multiplied daily.
 
 Save diplomacy for after WW4.
 
@@ -1584,7 +1584,7 @@ It isn’t.
 
 [Image]
 
-Amid all the death and sadness, scenes from [Russia’s siege of Mariupol](https://www.youtube.com/watch?v=9bTEHeLCpVk) remain the most horrific, with an advisor to the city saying there could be around [20,000 civilian casualties](https://en.wikipedia.org/wiki/Siege_of_Mariupol). That’s about three times the number of people massacred in Srebnica.
+Amid all the death and sadness, scenes from [Russia’s siege of Mariupol](https://www.youtube.com/watch?v=9bTEHeLCpVk) remain the most horrific, with an adviser to the city saying there could be around [20,000 civilian casualties](https://en.wikipedia.org/wiki/Siege_of_Mariupol). That’s about three times the number of people massacred in Srebrenica.
 
 Looking on the bright side, it’s obvious Russia will be defeated.
 
@@ -2752,7 +2752,7 @@ When in doubt, check w/ Hanna, who says [she does not know](https://bit.ly/3rg06
 
 [1](#footnote-anchor-1)
 
-A quick boo at the Ukraine’s Defense Intelligence Agency’s Telegram channel gets me thinking about how fighting tyranny with ineptitude and random Latin aphorisms is a bad idea. ([Day 15](https://abdymok.substack.com/p/day-15?s=w). *Mariupol Massacre*. March 10, 2022)
+A quick boo at Ukraine’s Defense Intelligence Agency’s Telegram channel gets me thinking about how fighting tyranny with ineptitude and random Latin aphorisms is a bad idea. ([Day 15](https://abdymok.substack.com/p/day-15?s=w). *Mariupol Massacre*. March 10, 2022)
 
 [2](#footnote-anchor-2)
 
