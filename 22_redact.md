@@ -6676,13 +6676,13 @@ The only way to radically change the strategic situation is undoubtedly for the 
 
 The subject can be narrowed down to the following concept: what forces and means are needed to this end? If we consider the 2023 campaign as a turning point, we need to return to the definition of the **center of gravity** for Russia in this conflict. After all, only an effective influence on the enemy's **center of gravity** could change the course of the war.
 
-Provided that such a **center of gravity** is control over Crimea, it is logical to assume planning for 2023 an operation or a series of operations to regain the peninsula. Such planning must first of all assume that the necessary pool of troops is available. And we are definitely not talking about Ukraine Army units already operating on the 2,500 km-long front line from Kherson to Kovel.
+Provided that such a **center of gravity** is control over Crimea, it is logical to assume planning an operation or a series of operations for 2023 to regain the peninsula. Such planning must first of all assume that the necessary pool of troops is available. And we are definitely not talking about Ukrainian Army units already operating on the 2,500 km-long front line from Kherson to Kovel.
 
 Preparation of an offensive campaign demands that Ukraine sets up one or more operational (operational-strategic) groupings of forces consisting of 10 to 20 combined arms brigades, depending on the intent and ambitions of the Ukrainian Command. In the current situation, the above could be done exclusively by replacing the main types of armament available to the already existing brigades with modern ones, provided by Ukraine's partners. Separately, a need should be highlighted to obtain more missiles and ammunition, artillery systems, missile launchers, electronic warfare (EW) assets, etc. All of this will require consolidated efforts of all partner countries, while taking up a significant amount of time and financial resources.
 
 Strictly speaking, all of this is directly and exclusively dependent on the resources available to Ukraine. While the situation with the number of forces is likely to look quite promising for the AFU, the same cannot be the Ukrainian view applied to heavy weaponry and ammunition. But, in any case, provided there is political will, timely and deliberate planning, with the use of the industrial base and reserves of the world’s leading powers, the task of setting up and properly equipping such groupings is seen as absolutely realistic.
 
-However, the outlined approach to defining the tasks of the 2023 military campaign for AFU seems too one-sided.
+However, the outlined approach to defining the tasks of the 2023 military campaign for the AFU seems too one-sided.
 
 **If the invaders lose Crimea?**
 
@@ -6704,7 +6704,7 @@ The main feature of fighting off the Russian army is not about Russia massively 
 
 This is most noticeable in terms of the maximum operating range of the assets of destruction. For the Russian armed forces, it’s up to 2,000 km, taking into account the range of air-based cruise missiles[2](#footnote-2), while for Ukraine’s forces it is actually a mere 100 km, which is limited to the range of missiles and the deployment depth for the outdated short-range ballistic missile systems[3](#footnote-3). Thus, from the onset of the large-scale aggression, Russian weapons could hit targets 20 times farther than the Ukrainians. Translated into the language of military practice, it means that the AFU, in the best-case scenario, are able to employ outdated launchers and strike no farther than the depth of the enemy's operational rear. At the same time, the enemy is able to inflict point strikes on targets across the entire depth of the country's territory, doing it with impunity.
 
-It’s precisely this capability that should be considered as the Russian army’s **center of gravity** from a military standpoint. As long as the current situation persists, this war can last for years.
+It’s precisely this capability that should be considered the Russian army’s **center of gravity** from a military standpoint. As long as the current situation persists, this war can last for years.
 
 How can this issue be addressed?
 
@@ -6714,7 +6714,7 @@ We are talking, of course, about Ukraine's partners supplying the relevant weapo
 
 Only in this case would it be possible to discuss the influence on Russia’s actual **center of gravity** in this war. It lies in the war’s "remote" nature for most average Russians. Thanks to this lack of proximity, they perceive not so painfully all the losses, failures, and most importantly, costs of this war in all its senses. A convincing example proving that this is a correct approach to be applied this year is the successful efforts of the Armed Forces of Ukraine to physically transfer the zone of hostilities to the temporarily occupied territory of the Autonomous Republic of Crimea. This was done by a series of successful missile strikes on the enemy's Crimea-based air bases, first of all, the Saki airfield[4](#footnote-4). The task of the Armed Forces of Ukraine for 2023 is to make these experiences even sharper and more tangible for the Russians and for other occupied regions, despite the massive distance to the targets.
 
-There is a need to pose the question even more broadly: what is the source of confidence, readiness, and most importantly, the need for the Russian leadership and society to support the war on Ukraine and sincerely believe that it must be completed as planned? In addition to the well-known reasons, such as the Kremlin’s desire to gain at least regional leadership, satisfying the claims of "getting up from their knees" and some frankly imperial ambitions, which are all acceptable to ordinary Russians, there is also a purely practical one. It refers precisely to the principles of employing the Russian army. This is about an aggressive type of war of annihilation, launched against a nation that lacks the military might to put up adequate resistance to the Russian troops. Simply put, it is precisely about that impunity that the lack of physical proximity ensures. This is the true **center of gravity** for the enemy. And we have no right to leave it without proper attention.
+There is a need to pose the question even more broadly: what is the source of confidence, readiness, and most importantly, the need for the Russian leadership and society to support the war on Ukraine and sincerely believe that it must be completed as planned? In addition to the well-known reasons, such as the Kremlin’s desire to gain at least regional leadership, satisfying the claims of "getting up from their knees" and some frankly imperial ambitions, which are all acceptable to ordinary Russians, there is also a purely practical one. It refers precisely to the principles of employing the Russian army. This is about a type of aggressive war of annihilation, launched against a nation that lacks the military might to put up adequate resistance to the Russian troops. Simply put, it is precisely about that impunity that the lack of physical proximity ensures. This is the true **center of gravity** for the enemy. And we have no right to leave it without proper attention.
 
 The picture can radically change due to appropriate planning and proper cooperation with Ukraine's partner countries. Comprehensive efforts to equip and re-equip the AFU with weapon systems of the appropriate range, with a proper long-term vision of the objectives, should become the long-sought game-changer. Only by balancing out the weapons’ operating range, thus disturbing the **center of gravity** for the enemy, can we get to a turning point in the ongoing war.
 
@@ -6722,7 +6722,7 @@ If Ukraine succeeds in receiving the appropriate weapons, operational and strate
 
 However, Ukraine can consider acquiring the relevant weapons systems from partners only as a solution for the transition period. From the first days of the Russian full-scale aggression, the Ukrainian side has faced the acute problem of restoring and establishing its own design and production capacities to manufacture high-tech weapon systems. Tactical and technical requirements for such systems should already include appropriate parameters, including their range. There is no doubt that Ukraine's national efforts to this end open up unlimited opportunities for international military-technical cooperation with partner countries.
 
-**Ukraine’s resistance depends of massive military and technical support from its partners**
+**Ukraine’s resistance depends on massive military and technical support from its partners**
 
 Considering the prospects of cooperation with partners in arms supplies to Ukraine, it is appropriate to note two significant factors that, from the onset of Russian aggression, have had a major influence on the adoption of relevant decisions, as well as the terms and volumes of supplies.
 
@@ -6730,21 +6730,21 @@ The first of them is a general misconception about the scale of the Russia-Ukrai
 
 Air raid sirens, missile attacks and bombardments of peaceful settlements, flows of refugees and prisoners of war, river crossings operations, and tank breakthrough attempts – for most people across the world, all of this remains only a ghostly history of the last century’s two world wars.
 
-At the same time, for ordinary citizens and AFU, all of the above has already become an integral part of everyday life. In terms of the engagement of personnel and equipment, Ukraine's effort to repel Russian aggression has already exceeded certain indicators of hostilities waged on its territory during WW2. The deployment of effective resistance to the more than a 300,000-strong grouping of the Russian armed forces required mobilization of hundreds of thousands and the need to equip them with tens of thousands of military equipment pieces. As for the daily munitions expenditure in Ukraine’s Armed Forces in terms of artillery rounds per gun, it is triple the indicators recorded by the British Army’s Royal Artillery during WWI. Taking into account the duration of the war and the prospects for the 2023 campaign, it is unlikely that these numbers will be decreasing.
+At the same time, for ordinary citizens and AFU, all of the above has already become an integral part of everyday life. In terms of the engagement of personnel and equipment, Ukraine's effort to repel Russian aggression has already exceeded certain indicators of hostilities waged on its territory during WW2. The deployment of effective resistance to the more than 300,000-strong Russian grouping required mobilization of hundreds of thousands of troops and the need to equip them with tens of thousands of pieces of military equipment. As for the daily munitions expenditure in Ukraine’s Armed Forces in terms of artillery rounds per gun, it is triple the rate recorded by the British Army’s Royal Artillery during WWI. Taking into account the duration of the war and the prospects for the 2023 campaign, it is unlikely that these numbers will be decreasing.
 
-Ukraine's effort to survive an onslaught of a superpower requires, and will continue to require, significant material resources and funds. In 2023, the significant volumes of military and technical assistance from partner countries must remain the material core of Ukraine’s resistance. After all, despite own losses due to Russia sanctions, dependence on Russian energy and individual attempts to pacify Russia, no country will ever be forgiven in world history for appeasing a blood-thirsty predator that gets further intoxicated on the blood it sheds.
+Ukraine's effort to survive an onslaught of a superpower requires, and will continue to require, significant material resources and funds. In 2023, the significant volumes of military and technical assistance from partner countries must remain the material core of Ukraine’s resistance. After all, despite its own losses due to Russian sanctions, dependence on Russian energy and individual attempts to pacify Russia, no country will ever be forgiven in world history for appeasing a blood-thirsty predator that gets further intoxicated on the blood it sheds.
 
 Another factor is the direct threat of the use by Russia, under certain circumstances, of tactical nuclear weapons. Battles on the territory of Ukraine have already demonstrated how much the Russian Federation neglects the issues of global nuclear security even in a conventional war[5](#footnote-5). In particular, since July 2022, Russian troops have set up a military base at the Zaporizhia Nuclear Power Plant, deploying heavy artillery, including BM-30 Smerch multiple rocket launchers, on its premises[6](#footnote-6).
 
 It is hard to imagine that even nuclear strikes will allow Russia to break Ukraine's will to resist. But the threat that will emerge for the whole of Europe cannot be ignored. The possibility of direct involvement of the world's leading powers in a "limited" nuclear conflict, bringing closer the prospect of World War III, cannot be completely ruled out either.
 
-As a forced step, which is still extremely necessary, we must return to the source of Russian confidence, which is impunity. Any Russian attempts at practical steps in the use of tactical nuclear weapons must be preempted by employing the entire arsenal of means at the disposal of world powers. After all, starting from this moment, Russia will become not only a threat to the peaceful coexistence of Ukraine, its neighbors, and a number of European countries but also a truly global-scale terrorist state.
+As a forced step, which is still extremely necessary, we must return to the source of Russian confidence, which is impunity. Any Russian attempts at practical steps in the use of tactical nuclear weapons must be preempted by employing the entire arsenal of means at the disposal of the world’s powers. After all, starting from this moment, Russia will become not only a threat to the peaceful coexistence of Ukraine, its neighbors, and a number of European countries but also a truly global-scale terrorist state.
 
 In our opinion, it is precisely taking into account such a complex and ambiguous combination of factors that the prospects of the 2023 military campaign should be considered. Only their full and comprehensive consideration will create the prerequisites for Ukraine to defeat the aggressor’s army and put to an end the destructive war that is raging in Europe.
 
 **General Valeriy Zaluzhny** *is Commander-in-Chief of the Armed Forces of Ukraine, member of the National Security and Defense Council of Ukraine*
 
-**Lieutenant General Mykhailo Zabrodsky***is First Deputy Chairman of the National Security, Defense, and Intelligence Committee of the Verkhovna Rada of Ukraine*
+**Lieutenant General Mykhailo Zabrodsky** *is First Deputy Chairman of the National Security, Defense, and Intelligence Committee of the Verkhovna Rada of Ukraine*
 
 [1](#footnote-anchor-1)
 
@@ -6785,7 +6785,7 @@ In early 2014 a bunch of things happened at once: the end of a revolution, annex
 
 Eight years later, Russia launched an all-out invasion, moving from a hybrid war to a conventional imperialist bloodbath copied from the old history books.
 
-Western leaders perfectly understand the true goals of Putin's foreign policy, but they have struggled to agree on a unified position on how to best to obliterate Russia’s center of gravity, what Carl von Clausewitz called *Schwerpunkt*. The 19th century Prussian theorist introduced the topic in his famous treaties, *[Vom Kriege](https://books.google.com.ua/books?id=189iDwAAQBAJ&hl=uk&source=gbs_book_other_versions)*, calling this the point where all force must be directed.
+Western leaders perfectly understand the true goals of Putin's foreign policy, but they have struggled to agree on a unified position on how best to obliterate Russia’s center of gravity, what Carl von Clausewitz called *Schwerpunkt*. The 19th century Prussian theorist introduced the topic in his famous treaties, *[Vom Kriege](https://books.google.com.ua/books?id=189iDwAAQBAJ&hl=uk&source=gbs_book_other_versions)*, calling this the point where all force must be directed.
 
 What is the center of gravity in this war? That depends greatly on who answers the question.
 
@@ -6813,13 +6813,13 @@ A close reading of yesterday’s revisionist speech on Day 200 by Z at a hush hu
 
 > “The events which will occur during the next three months are more important than ***everything***that transpired during the 31 years of Ukraine’s independence and ***everything*** since the founding of the European Union,” he added.
 
-This is a noble lie in platonic. It’s not something we think that’s true, but it’s what organizers of Z’s pep rally want us to believe. The problem is that punchy combinations of hooey and emotional power can’t replace competent governance and functioning democratic institutions. In other words, reality is more important than message.
+This is a noble lie in the Platonic sense. It’s not something we think is true, but it’s what organizers of Z’s pep rally want us to believe. The problem is that punchy combinations of hooey and emotional power can’t replace competent governance and functioning democratic institutions. In other words, reality is more important than message.
 
 [Image]
 
 That reality is that fascist Russia’s genocidal campaign is doomed.
 
-Regardless of whether areas in Kherson and Kharkiv regions are completely de-occupied this year, Putin is in a geopolitical trap and has helped Ukraine become the largest and best-equipped fighting force in Europe. He has made it easier to acquire the capability to blow things up things at great distances
+Regardless of whether areas in Kherson and Kharkiv regions are completely de-occupied this year, Putin is in a geopolitical trap and has helped Ukraine become the largest and best-equipped fighting force in Europe. He has made it easier to acquire the capability to blow things up at great distances
 
 [1](#footnote-anchor-1)
 
@@ -6848,18 +6848,18 @@ Similarly, I probably don’t check my wallet often enough to see if I’ll be a
 
 So rationality has costs.
 
-Which brings us to the banana and the watermelon, which arrived unexpectedly from Mykolaiv region last night, delivered to our doorstep with bunches of grapes. We put the banana on top of the watermelon in order to demonstrate the latter’s tremendous size. Unfortunately, the picture makes the watermelon look smaller than it actually is in respect to the banana.
+Which brings us to the banana and the watermelon, which arrived unexpectedly from Mykolaiv region last night, delivered to our doorstep with bunches of grapes. We put the banana on top of the watermelon in order to demonstrate the latter’s tremendous size. Unfortunately, the picture makes the watermelon look smaller than it actually is with respect to the banana.
 
 This got me wondering what Mykolaiv region’s official flower is.
 
-A brain that is going to soak up ecologically useful information, like where flowers and fruits come from, will probably have a survival advantatage over brains that just like to look at rocks or dirt or sand or sky. Flowers are forerunners of fruit. Ecosystems with lots of flowers are likely to be rich and productive. If you prefer to live in places with flowers, you are more likely to find yourself in a place with lots of food sources. And, more to the point, if you pay attention to where the flowers are now, you can predict where the watermelons will be several months from now.
+A brain that is going to soak up ecologically useful information, like where flowers and fruits come from, will probably have a survival advantage over brains that just like to look at rocks or dirt or sand or sky. Flowers are forerunners of fruit. Ecosystems with lots of flowers are likely to be rich and productive. If you prefer to live in places with flowers, you are more likely to find yourself in a place with lots of food sources. And, more to the point, if you pay attention to where the flowers are now, you can predict where the watermelons will be several months from now.
 
 [Image]
 *The “flower” of Mykolaiv region is a fake flower*
 
-My search for the official flower of Mykolaiv region ended in disappointment. It’s a fake flower dreamt up by Ukraine’s Culture Ministry. The exercise reminded me of the *realization* we came to on March 4, namely that Putin might actually a drop nuclear bomb to subdue Ukraine[1](#footnote-1). We concluded then what will happen cannot be avoided. If someone wants to kill himself, there’s little you can do to prevent it.
+My search for the official flower of the Mykolaiv region ended in disappointment. It’s a fake flower dreamt up by Ukraine’s Culture Ministry. The exercise reminded me of the *realization* we came to on March 4, namely that Putin might actually drop a nuclear bomb to subdue Ukraine[1](#footnote-1). We concluded then that what will happen cannot be avoided. If someone wants to kill himself, there’s little you can do to prevent it.
 
-The same goes with watermelons from Mykolaiv[2](#footnote-2). Either they arrive unexpectedly or they don't.
+The same goes for watermelons from Mykolaiv[2](#footnote-2). Either they arrive unexpectedly or they don't.
 
 The lesson Ukraine’s spherical cow teaches us is that numerous non-cooperating agents using the same pure strategy for analysis are guaranteed to fail. That's why we shouldn’t pay too much attention to official daily updates by ISW and foreign intelligence agencies about the status of fascist Russia’s genocidal campaign in Ukraine[3](#footnote-3).
 
