@@ -542,9 +542,9 @@ Moral of the story: Aleksandra’s sources are unreliable.
 
 I spent most of Saturday listening to panel discussions at [Munich Security Conference](https://www.youtube.com/watch?v=pebRHUUCe6Y&ab_channel=DWNews), where the **inadequacy** of Team USA’s response was on full display.
 
-Put bluntly, over the course of a year, the collective west has **failed to provide** Ukraine with enough guns and ammo to vaporize Russian invaders and offers zero clarity of what Ukraine’s victory will look like.
+Put bluntly, over the course of a year, the collective west has **failed to provide** Ukraine with enough guns and ammo to vaporize Russian invaders and offers zero clarity about what Ukraine’s victory will look like.
 
-Tony sounded like he was in a good mood, though, cheerfully agreeing with what Germany Foreign Affairs Annalena Baerbock was burbling about during their hour-long joint chit chat, titled Visions for Ukraine.
+Tony sounded like he was in a good mood, though, cheerfully agreeing with what Germany’s Foreign Minister Annalena Baerbock was burbling about during their hour-long joint chit chat, titled Visions for Ukraine.
 
 [Video: https://youtu.be/cEePsf7UmE8]
 
@@ -558,7 +558,7 @@ Ukraine’s Foreign Minister Dmytro Kuleba, in turn, said victory is
 
 **“Everything before then will be a war, one way or another,” Kuleba said.**
 
-Annalena emphasized we should remember all that has been achieved since the full-invasion started. Tony said there is a commitment to provide Ukraine with tools (but not all the tools) it requires to put Ukraine in the strongest possible position in the years ahead.
+Annalena emphasized we should remember all that has been achieved since the full-scale invasion began. Tony said there is a commitment to provide Ukraine with tools (but not all the tools) it requires to put Ukraine in the strongest possible position in the years ahead.
 
 **“It’s not just the weapons systems, it’s the training, maintenance and making sure all these things are being used in a comprehensive way to be successful,” Tony said.**
 
@@ -568,13 +568,13 @@ I decided to put some extra bandages and Celox in my EDC after watching this vid
 
 ---
 
-In other news, incomparable [John Simpson](https://www.bbc.com/news/world-europe-64662184), one more a harmless, affable British bumpkin known for a near-creepy obsession with himself (*Those were the days working with [Rory](https://abdymok.substack.com/p/day-21?utm_source=%2Fsearch%2Frory&utm_medium=reader2)*)has been pootling around Kyiv and has taken another drag-queen-on-poppers free-association [bitch-lurch](https://slangdefine.org/l/lurch-67f4.html) [non-interview](https://www.bbc.com/news/world-europe-64662184) with Z .
+In other news, incomparable [John Simpson](https://www.bbc.com/news/world-europe-64662184), once more a harmless, affable British bumpkin known for a near-creepy obsession with himself (*Those were the days working with [Rory](https://abdymok.substack.com/p/day-21?utm_source=%2Fsearch%2Frory&utm_medium=reader2)*)has been pootling around Kyiv and has taken another drag-queen-on-poppers free-association [bitch-lurch](https://slangdefine.org/l/lurch-67f4.html) [non-interview](https://www.bbc.com/news/world-europe-64662184) with Z .
 
 We all remember John, don’t we?
 
 [Video: https://youtu.be/TM9m1939Mjo]
 
-Which brings back me to Seymour Hersh, who tangled us up in a [TLDR](https://dictionary.cambridge.org/dictionary/english/tldr) fantasy last week.
+Which brings me back to Seymour Hersh, who tangled us up in a [TLDR](https://dictionary.cambridge.org/dictionary/english/tldr) fantasy last week.
 
 [[Image]Seymour Hersh
 
@@ -586,7 +586,7 @@ Read more
 
 3 years ago · 10232 likes · Seymour Hersh](https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
-Russia’s state wire service TASS quoted Hersh as [saying](https://t.me/tass_agency/179956) that he based his Substack debut on information provided by “a person, who knows rather a lot about what is going on.”
+Russia’s state wire service TASS quoted Hersh as [saying](https://t.me/tass_agency/179956) that he based his Substack debut on information provided by “a person who knows rather a lot about what is going on.”
 
 [Image]
 
@@ -1405,7 +1405,7 @@ Oblique muscles help you stand up straight. They also function together to let 
 
 [Image]
 
-The external oblique muscles cover the larger part of your waist and lie close to the skin surface, the internal ones are located near the abdomen. They ensure the stability of your torso and reduce the amount of stress placed on your hamstrings. Strong obliques enable better form and stability when running, allowing you to conserve energy and prevent injury.
+The external oblique muscles cover the larger part of your waist and lie close to the skin surface; the internal ones are located near the abdomen. They ensure the stability of your torso and reduce the amount of stress placed on your hamstrings. Strong obliques enable better form and stability when running, allowing you to conserve energy and prevent injury.
 
 Stair running is good for your obliques. And it improves agility, which could save your life during a missile attack.
 
@@ -1413,7 +1413,7 @@ Stair running is good for your obliques. And it improves agility, which could sa
 
 But it’s the thews in our heads we should be worried about, according to foreign journalists, who say many Ukrainians are losing their minds[1](#footnote-1), not getting enough sleep[2](#footnote-2) and being institutionalized[3](#footnote-3). Fighting is not good for your mental health[4](#footnote-4), according to the Lancet, and a major cause of PTSD[5](#footnote-5).
 
-Under the circumstances, legalizing recreational Psilocybin and marijuana is probably a good idea, because we would feel lighter. That way we would resemble avocados more and be less like coconuts.
+Under the circumstances, legalizing recreational psilocybin and marijuana is probably a good idea, because we would feel lighter. That way we would resemble avocados more and be less like coconuts.
 
 [1](#footnote-anchor-1)
 
@@ -1443,7 +1443,7 @@ Under the circumstances, legalizing recreational Psilocybin and marijuana is pro
 
 *Coros Vertix 2 *
 
-I agree with almost everything in Nikki writes in her “China Wins if Russia Conquers Ukraine” op-ed appearing this morning in The Wall Street Journal[1](#footnote-1). Unfortunately, top U.S. politicians in this and future administrations will be forced to send Det-A typs to accompany, that is, sign off on Third A waivers[2](#footnote-2)[3](#footnote-3).
+I agree with almost everything Nikki writes in her “China Wins if Russia Conquers Ukraine” op-ed appearing this morning in The Wall Street Journal[1](#footnote-1). Unfortunately, top U.S. politicians in this and future administrations will be forced to send Det-A types to accompany, that is, to sign off on Third A waivers[2](#footnote-2)[3](#footnote-3).
 
 [Image]
 
@@ -1459,11 +1459,11 @@ Unfortunately, many of those affected own automobiles and are aggressive drivers
 
 [Image]
 
-I stopped counting years ago how many times cars and trucks have almost maimed or killed me. The closest call with permanent debilitating injury or death came when a truck clipped my left handlebar on the road to Hoholiv, [a former Cossack town](https://www.google.com/maps/place/Hoholiv,+Kyiv+Oblast,+07452/@50.520072,31.0109246,13z/data=!3m1!4b1!4m6!3m5!1s0x40d4dffc6583164d:0x5e25e8870fc225d0!8m2!3d50.509297!4d31.0160571!16s%2Fm%2F0sgfr_d).
+I stopped counting years ago how many times cars and trucks have almost maimed or killed me. The closest call involving permanent, debilitating injury or death came when a truck clipped my left handlebar on the road to Hoholiv, [a former Cossack town](https://www.google.com/maps/place/Hoholiv,+Kyiv+Oblast,+07452/@50.520072,31.0109246,13z/data=!3m1!4b1!4m6!3m5!1s0x40d4dffc6583164d:0x5e25e8870fc225d0!8m2!3d50.509297!4d31.0160571!16s%2Fm%2F0sgfr_d).
 
 ---
 
-The Under Armour running app is almost like the Google fit app. It says this route is 10K.
+The Under Armour running app is almost like the Google Fit app. It says this route is 10K.
 
 [Image]
 
