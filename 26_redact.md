@@ -1678,7 +1678,6 @@ Have a great weekend!
 
 [2](#footnote-anchor-2)
 
-### 
 
 [Video: https://youtu.be/CQUQr1Kns-E]
 
