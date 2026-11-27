@@ -1,4 +1,4 @@
-# Iskander / abdymok Substack Archive — 2024
+### Iskander / abdymok Substack Archive — 2024
 
 300 posts.
 
@@ -9688,7 +9688,7 @@ Enough with the gibberish. Ukraine needs to get its governance act together, un-
 
 More than ten years have passed since the start of the war. Millions of Ukrainians have been displaced and hundreds of thousands killed or wounded. [According to the organization David once led,](https://babel.ua/en/news/110818-ukraine-has-the-highest-death-rate-and-the-lowest-birth-rate-in-the-world) the mortality rate in Ukraine is 18.6 per thousand people, the highest rate in the world. At the same time, the country has the lowest birth rate — only six children per thousand people — and remains mired in political chaos and economic confusion.
 
-# **What went wrong?**
+### **What went wrong?**
 
 It’s impossible to establish exactly the point during the second half of our 10-year war when function lost is lustre, when churning out Churchillian thoughts became secondary to their presentation on Telemarafon.
 
@@ -12487,7 +12487,7 @@ Uncle Joe not giving daddy a chance to “create peace.”
 
 ---
 
-# **[Russia grinds deeper into Ukraine after 1,000 days of grueling war](https://apnews.com/article/ukraine-russia-war-f7f56e494df1dbbcdec1853001796c45)**
+### **[Russia grinds deeper into Ukraine after 1,000 days of grueling war](https://apnews.com/article/ukraine-russia-war-f7f56e494df1dbbcdec1853001796c45)**
 
 Who approved this idiotic headline?
 
@@ -12521,11 +12521,11 @@ If you’re as bored as I am with the stream of retrograde newspeak from power-d
 
 ---
 
-# **[Russia grinds deeper into Ukraine after 1,000 days of grueling war](https://apnews.com/article/ukraine-russia-war-f7f56e494df1dbbcdec1853001796c45) — AP**
+### **[Russia grinds deeper into Ukraine after 1,000 days of grueling war](https://apnews.com/article/ukraine-russia-war-f7f56e494df1dbbcdec1853001796c45) — AP**
 
 ---
 
-# **[Long-range missiles against Russia: too late to save Ukraine?](https://www.france24.com/en/video/20241118-long-range-strikes-against-russia-is-it-too-late-to-save-ukraine) — France 24 c/o Reuters**
+### **[Long-range missiles against Russia: too late to save Ukraine?](https://www.france24.com/en/video/20241118-long-range-strikes-against-russia-is-it-too-late-to-save-ukraine) — France 24 c/o Reuters**
 
 ---
 
@@ -12977,7 +12977,7 @@ There is a story behind the above picture, but someone else will tell it. Basica
 
 The first thing that caught my eye this morning was this:
 
-# **[Exclusive: Trump team weighs direct talks with North Korea's Kim in new diplomatic push, sources sa](https://www.reuters.com/world/trump-team-weighs-direct-talks-with-north-koreas-kim-new-diplomatic-push-sources-2024-11-26/)y (Reuters, November 26, 2024)**
+### **[Exclusive: Trump team weighs direct talks with North Korea's Kim in new diplomatic push, sources sa](https://www.reuters.com/world/trump-team-weighs-direct-talks-with-north-koreas-kim-new-diplomatic-push-sources-2024-11-26/)y (Reuters, November 26, 2024)**
 
 ---
 
@@ -13541,7 +13541,7 @@ At least a couple kilos of kickback cash.
 
 ---
 
-# Revanchism
+### Revanchism
 
 1. **Russia and Ukraine**: Russia's military actions in Ukraine, particularly since the 2014 invasion, are driven by maniacal, *revanchist* sentiments.
 2. **Armenia and Azerbaijan**: The conflict between Armenia and Azerbaijan over Nagorno-Karabakh has seen *revanchist* rhetoric from Baku.
