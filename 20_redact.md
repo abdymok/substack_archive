@@ -269,7 +269,7 @@ In most Western coverage Ukraine’s ultra-competitive domestic politics is rare
 
 [Image]
 
-**London (CNN)** When Republican lawmakers this week[abruptly canceled](https://www.cnn.com/2020/03/11/politics/subpoena-vote-canceled-joe-biden/index.html)a plan to subpoena a former Ukrainian official in their investigations into the energy firm that hired former Vice President Joe Biden's son, they said it was to allow more time for senators to receive additional briefings.
+**London (CNN)** When Republican lawmakers this week[abruptly canceled](https://www.cnn.com/2020/03/11/politics/subpoena-vote-canceled-joe-biden/index.html) a plan to subpoena a former Ukrainian official in their investigations into the energy firm that hired former Vice President Joe Biden's son, they said it was to allow more time for senators to receive additional briefings.
 
 But a Ukrainian magazine editor has told CNN that the target of the subpoena, Andrii Telizhenko, once offered him money to lobby US senators on behalf of pro-Russian media outlets.
 
@@ -331,7 +331,7 @@ Speaking on Friday, Telizhenko said he understood the vote to subpoena him had b
 
 "Anybody who has tried to oppose the Democrats, including the President, has been called a Russian asset," Telizhenko said, denying the claim.
 
-Speaking to CNN before the decision to abandon the subpoena vote, Davidzon said he did not act on Telizhenko's offer, letting it go "as elegantly as possible." But in late 2019 he shared what he knew with US authorities after Telizhenko made a series of public comments in support of Giuliani. With Telizhenko poised to provide evidence to the Senate, Davidzon decided to go public. "This type of behaviour absolutely discredits any theories that Mr Telizhenko gives and makes me question his agenda," Davizdon said.
+Speaking to CNN before the decision to abandon the subpoena vote, Davidzon said he did not act on Telizhenko's offer, letting it go "as elegantly as possible." But in late 2019 he shared what he knew with US authorities after Telizhenko made a series of public comments in support of Giuliani. With Telizhenko poised to provide evidence to the Senate, Davidzon decided to go public. "This type of behaviour absolutely discredits any theories that Mr Telizhenko gives and makes me question his agenda," Davidzon said.
 
 "The message was evidence to me that, aside from claiming to be a Ukrainian patriot, Mr Telizhenko was probably working for someone with pro-Russian interests at heart and not in Ukraine's national security interests," he said.
 
@@ -413,15 +413,15 @@ Zelensky saw it differently.
 
 > …It seems to me that, for the first time in the history of independent Ukraine, the Prosecutor General may be a woman. (Applause) It seems to me that, for the first time in Ukraine’s history, the Prosecutor General will be a professional and productive person. Please support her," Zelensky [told](https://iportal.rada.gov.ua/meeting/stenogr/show/7393.html) lawmakers.
 
-It “seemed” different to MP Inna Sovsun (Holos faction), who minutes later [delivered](https://twitter.com/GolosZmin/status/1239828396764475394) an blistering speech from the Rada rostrum.
+It “seemed” different to MP Inna Sovsun (Holos faction), who minutes later [delivered](https://twitter.com/GolosZmin/status/1239828396764475394) a blistering speech from the Rada rostrum.
 
 > "Venedyktova’s score on the test when she tried to become a Supreme Court judge was 118.5. Why is this score important? Because this score was a failing score. We are talking about appointing someone to be Prosecutor General who failed the test to become a Supreme Court judge.
 >
 > I will tell you as a university teacher: a failing grade is a failing grade. Students are either held back or expelled for failing grades. They do not matriculate to the next course. That needs to be made clear…
 >
-> …Is it okay for you now to vote for the person who said in a speech from this rostrum that amnesty (for Maidan proteters) should be rescinded? …Think carefully about how you will sleep this night when you appoint a person who categorically does not support Maidan, someone who appointed Oleksandr Babikov (former lawyer to disgraced President Viktor Yanukovych) to be her deputy (at the SBI).
+> …Is it okay for you now to vote for the person who said in a speech from this rostrum that amnesty (for Maidan protesters) should be rescinded? …Think carefully about how you will sleep this night when you appoint a person who categorically does not support Maidan, someone who appointed Oleksandr Babikov (former lawyer to disgraced President Viktor Yanukovych) to be her deputy (at the SBI).
 
-Sovsun’s speech fell on deaf ears. Some 269 MPs supported Venedyktovna, who for the last two and a half months has worked as the acting head of [Ukraine's State Bureau of Investigations](https://dbr.gov.ua/) (SBI). Not a single deputy from the European Solidarity, Holos and Batkivshchyna factions voted in her favor.
+Sovsun’s speech fell on deaf ears. Some 269 MPs supported Venedyktova, who for the last two and a half months has worked as the acting head of [Ukraine's State Bureau of Investigations](https://dbr.gov.ua/) (SBI). Not a single deputy from the European Solidarity, Holos and Batkivshchyna factions voted in her favor.
 
 Venedyktova graduated from Kharkiv National University of Internal Affairs and specialized in commercial arbitration. She was number 3 in the Servant of the People Party list and headed parliament's legal policy committee. Zelensky tapped her in December to replace Roman Truba as acting SBI director.
 
