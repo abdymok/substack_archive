@@ -193,7 +193,7 @@ According to Russian journalist Leonid Radzikhovsky, there are two conflicting i
 
 > Russia, with Vladimir Putin as its leader, has become an enemy, or more precisely, *the enemy*, of Ukraine in official state discourse over the past eight years. That doesn’t mean individual Ukrainians aren’t allowed to support Putin, dream about the liquidation of Ukraine or reunification with Moscow.
 
-> One might think that having driven an aspen stake into the heart of Slavic Brotherhood and hanging the cross of Crimea on top of it Putin would be satisfied and leave Ukraine alone. Nope, nothing could be further than the truth.
+> One might think that having driven an aspen stake into the heart of Slavic Brotherhood and hanging the cross of Crimea on top of it Putin would be satisfied and leave Ukraine alone. Nope, nothing could be further from the truth.
 
 Radzikhovsky argues that Ukraine’s official state position toward Russia has changed since Russia seized annexed Crimea in 2014 and killed thousands of Ukrainians. It is different than it was and this cannot be otherwise.
 
@@ -217,7 +217,7 @@ Radzikhovsky says this could explain Putin’s threat to cut Ukraine into little
 
 [Image]
 
-*On January 26, 2021, Ex-MSD lawyer turned London-based lecturer Vladimir Pastukhov makes a couple of interesting points about the Ukraine-Russia mess in his blog [published](https://echo.msk.ru/blog/pastuhov_v/2970792-echo/?fbclid=IwAR0SlCh0x4mKGOYOoIlwHf5yoLPZxy0JwaxObSBb68qq5XBjq2_k47K9HG8) by Echo Moscow.* *Here’s a rough xlation.*
+*On January 26, 2022, Ex-MSD lawyer turned London-based lecturer Vladimir Pastukhov makes a couple of interesting points about the Ukraine-Russia mess in his blog [published](https://echo.msk.ru/blog/pastuhov_v/2970792-echo/?fbclid=IwAR0SlCh0x4mKGOYOoIlwHf5yoLPZxy0JwaxObSBb68qq5XBjq2_k47K9HG8) by Echo Moscow.* *Here’s a rough xlation.*
 
 1. Between these two extreme statements - "*They are all morons there.*” and “*They are geniuses of insidious intrigues, acting according to a meticulously verified and diabolical plan, one that is inaccessible to the understanding of mere mortals.*" there is a huge gray zone, a fog that hides a sad truth. People who determine the Kremlin’s policy today, ordinary citizens, are not fools, but too few stars have fallen from the sky. These people have a tenacious practical “peasant” mindset (although they are burdened with degrees). They see the risks. They believe that they have an “exit strategy.” But, as often happens with these people, they have not yet thought out the proposition [of invading Ukraine] thoroughly.
 
@@ -227,9 +227,9 @@ Radzikhovsky says this could explain Putin’s threat to cut Ukraine into little
 
 4. The secret, apparently, is that the Kremlin is hatching a “victory strategy” that will save it from all these troubles and mount a blitzkrieg as the only format of war acceptable to Russia. In a sense, the strange-sounding British statement about a coup d'état is not without meaning, because a coup in the broadest sense of any turmoil is the main condition for the success of Russian intervention. Without this, the military operation in Ukraine seems to me an extremely risky undertaking for the Kremlin. For it to be like in 1914, the resistance of the Ukrainian army must be undermined from within before Russian troops even cross the border. That is why the Kremlin is actively interested in whether Ukraine has died. ([Ще не вмерла Украiна](https://www.youtube.com/watch?v=nybtOIxlku8)?)
 
-5. What Russia is doing today most of all reminds me of the famous Psychic Attack scene from the movie [Chapaev.](https://en.wikipedia.org/wiki/Chapaev_(film))  It’s is a well-planned operation calculated down to the smallest psychological detail designed to cause panic in Kyiv. **It allows for activating all the underground "moles" Russia's foreign intelligence agencies have packed into country over the years.** The result should result in confusion and temporary paralysis of military machine, without which a "bloodless” invasion would be practically impossible. I'm afraid to make a mistake, but in the coming weeks, the center of gravity of the confrontation may move from the external borders into Ukraine. That is where events will transpire that will determine whether or not there will be a big war. If Ukraine resists a split and rebellion, there is a chance to avoid war. If it fails, a military invasion could become almost inevitable.
+5. What Russia is doing today most of all reminds me of the famous Psychic Attack scene from the movie [Chapaev.](https://en.wikipedia.org/wiki/Chapaev_(film))  It is a well-planned operation calculated down to the smallest psychological detail designed to cause panic in Kyiv. **It allows for activating all the underground "moles" Russia's foreign intelligence agencies have packed into country over the years.** The result should be confusion and temporary paralysis of military machine, without which a "bloodless” invasion would be practically impossible. I'm afraid to make a mistake, but in the coming weeks, the center of gravity of the confrontation may move from the external borders into Ukraine. That is where events will transpire that will determine whether or not there will be a big war. If Ukraine resists a split and rebellion, there is a chance to avoid war. If it fails, a military invasion could become almost inevitable.
 
-6. In a sense, the main enemy of Ukraine today is its internal mood, which provokes the aggressor and creates in him the illusion of the possibility of a "small victorious war." An ill-timed brawl between the two main political parties, an almost Putin-style fight against the oligarchs, the bombing of Zhytomyr to spite Moscow (a set of excessive and controversial measures to de-Russify the public sphere in a country where a third of the population continues to speak Russian) - all this contributes in various ways to the success of Russian aggression and creates fertile ground for emergence of an anti-Maidan movement. So far, the front line of the Russia-Ukraine war runs along Bankova Street [in Kyiv]. Or maybe [Ukraine] [has died] already?
+6. In a sense, the main enemy of Ukraine today is its internal mood, which provokes the aggressor and creates in him the illusion of the possibility of a "small victorious war." An ill-timed brawl between the two main political parties, an almost Putin-style fight against the oligarchs, the bombing of Zhytomyr to spite Moscow (a set of excessive and controversial measures to de-Russify the public sphere in a country where a third of the population continues to speak Russian) - all this contributes in various ways to the success of Russian aggression and creates fertile ground for the emergence of an anti-Maidan movement. So far, the front line of the Russia-Ukraine war runs along Bankova Street [in Kyiv]. Or maybe [Ukraine] [has died] already?
 
 ---
 
@@ -326,7 +326,7 @@ Not so fast, Mykhailo. Psaki [said](https://www.politico.com/news/2022/02/02/whi
 
 [Image]
 
-To make a long story short, Zelensky, Podoliak and Google Translate misunderstood the meaning the words “imminent” or “inevitable” trigger.
+To make a long story short, Zelensky, Podoliak and Google Translate misunderstood the meaning that the words “imminent” or “inevitable” trigger.
 
 Psaki did not.
 
@@ -340,7 +340,7 @@ I thought we covered this [story](https://abdymok.substack.com/p/teetering-on-th
 
 [Image]
 
-The rhetorical and analytical rift between Ukraine and America, which previously warned of an “imminent” (**not “inevitable”)** Russian invasion of Ukraine is discussed in an article, titled “[Blood Hype](https://www.economist.com/europe/why-ukraines-president-is-talking-down-the-threat-from-russia/21807491),” appearing in the February 5 edition of the Economist.
+The rhetorical and analytical rift between Ukraine and America, which had previously warned of an “imminent” (**not “inevitable”**) Russian invasion of Ukraine is discussed in an article, titled “[Blood Hype](https://www.economist.com/europe/why-ukraines-president-is-talking-down-the-threat-from-russia/21807491),” appearing in the February 5 edition of the Economist.
 
 [Image]
 
