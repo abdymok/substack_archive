@@ -8427,7 +8427,7 @@ It was warm on Saturday, almost balmy. The snow melted. The fog was thick. I pri
 [Image]
 *c/o abdymok*
 
-One passage of the 15,000-word interactive feature published by The New York Times last week jumped out at me[1](#footnote-1):
+One passage of the 15,000-word interactive whatever published by The New York Times last week jumped out at me[1](#footnote-1):
 
 [Image]
 
@@ -8585,12 +8585,12 @@ Happy holidaze!
 
 *Date: 2022-12-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
-*Supplements, sex and magnitism*
+*Supplements, sex and magnetism*
 
 [Image]
 *Photo c/o abdymok*
 
-For Z, who takes pride in his abs, magnitism and the resilience of his constituents, the rubber might meet the road, eventually. But forced conscription quotas and deadlines won’t be the reason. So, we can forget about [our new ambassador to Bulgaria](https://censor.net/ru/resonance/3389617/strategchniyi_proval_u_bolgar_chogo_ne_zrozumv_ofs_prezidenta_priznachayuchi_pan_laschuk), [power lifting in Dnipro](https://www.pravda.com.ua/rus/news/2022/12/26/7382408/) and Rule of Law *per se,* at least until the war ends.
+For Z, who takes pride in his abs, magnetism and the resilience of his constituents, the rubber might meet the road, eventually. But forced conscription quotas and deadlines won’t be the reason. So, we can forget about [our new ambassador to Bulgaria](https://censor.net/ru/resonance/3389617/strategchniyi_proval_u_bolgar_chogo_ne_zrozumv_ofs_prezidenta_priznachayuchi_pan_laschuk), [power lifting in Dnipro](https://www.pravda.com.ua/rus/news/2022/12/26/7382408/) and Rule of Law *per se,* at least until the war ends.
 
 This is why my eyes glazed over reading the nut graph of an article, titled “[Ukraine takes two steps forward, one step back in anti-corruption fight](https://www.politico.eu/article/ukraine-takes-two-steps-forward-one-step-back-in-anti-corruption-fight-constitutional-court-reform/),” appearing in [Politico](https://www.politico.eu/) on December 26.
 
@@ -8598,11 +8598,11 @@ This is why my eyes glazed over reading the nut graph of an article, titled “[
 
 **Face the facts.** No one in Ukraine, including Z, cares what the [Venice Commission](https://www.venice.coe.int/webforms/events/) thinks about anything, there is no momentum on the institution-building front and the French president’s opinion is irrelevant.
 
-Z’s three-ring circus approach to everything might be funny if one didn’t consider the enormous costs of a system of governmance that remains rotten to its core. As a consequence, traitors roam the streets of Vienna, billions of taxpayers’ dollars are wasted with impunity and the Pork Chop from Obolon remains at large[1](#footnote-1).
+Z’s three-ring circus approach to everything might be funny if one didn’t consider the enormous costs of a system of governance that remains rotten to its core. As a consequence, traitors roam the streets of Vienna, billions of taxpayers’ dollars are wasted with impunity and the Pork Chop from Obolon remains at large[1](#footnote-1).
 
 Ukraine’s judges, law enforcers and lawmakers have not only proven themselves incapable of rooting out corruption – they remain, in fact, the architects of the rancid system in place.
 
-Supplements, sex and magnitism won’t rectify the situation[2](#footnote-2).
+Supplements, sex and magnetism won’t rectify the situation[2](#footnote-2).
 
 [Image]
 *Photo c/o Ukrainska Pravda*
@@ -8613,7 +8613,7 @@ In psychotherapy, *The Empty Chair Technique* originating in *Gestalt Therapy* p
 
 [Image]
 
-Just ask Olesia Ilaschuk, Ukraine’s new ambassador to Bulgaria. She believes we should focus on the totality of Z’s functioning and relationships in the [here and now](https://dictionary.apa.org/here-and-now), rather than dwelling on air-raid alerts and past political screw ups, including [Operation Ы](https://abdymok.substack.com/p/operation-y-b2d557374ca7), [Wagnergate](https://abdymok.substack.com/p/drones-in-my-bones), [Chausgate](https://abdymok.substack.com/p/one-more-big-mistake), [Semenchenkogate](https://www.youtube.com/watch?v=2Opyqyz3xd4&ab_channel=PreZeDentTV), ad nauseum.
+Just ask Olesia Ilaschuk, Ukraine’s new ambassador to Bulgaria. She believes we should focus on the totality of Z’s functioning and relationships in the [here and now](https://dictionary.apa.org/here-and-now), rather than dwelling on air-raid alerts and past political screw ups, including [Operation Ы](https://abdymok.substack.com/p/operation-y-b2d557374ca7), [Wagnergate](https://abdymok.substack.com/p/drones-in-my-bones), [Chausgate](https://abdymok.substack.com/p/one-more-big-mistake), [Semenchenkogate](https://www.youtube.com/watch?v=2Opyqyz3xd4&ab_channel=PreZeDentTV), ad nauseam.
 
 [1](#footnote-anchor-1)
 
@@ -8631,13 +8631,13 @@ Just ask Olesia Ilaschuk, Ukraine’s new ambassador to Bulgaria. She believes w
 
 *Z's brain might be our worst enemy*
 
-Z’s defiant and uplifting oratory has already been chopped up and posted without much challenge in English and American newspapers, ezines and posted to TikTok.
+Z’s defiant and uplifting oratory has already been chopped up and circulated without much challenge in English- and American-language newspapers and ezines, and posted to TikTok.
 
 With all due respect, his 45-minute performance in parliament yesterday was *over the top*.
 
-The president said that Ukraine has changed the world, returned to it true values, has become one of the strongest and most free countries in the world. And that we are on the path to victory, thanks to our soldiers, our partners who give weapons, our people who pay taxes and thanks to our internal unity, which should change the traditions of Ukraine’s history of mistakes.
+The president said that Ukraine has changed the world, returned to its true values, has become one of the strongest and freest countries in the world. And that we are on the path to victory, thanks to our soldiers, our partners who give weapons, our people who pay taxes, and our internal unity, which should change the traditions of Ukraine’s history of mistakes.
 
-Invited by leaders of the United States and Europe to contribute something, anything, to Ukraine’s military defense, Z proclaimed: “Today NATO standards *are* being determined in Ukraine.” In anyone else this would be a solipsism, rather than one more delusion commingled with truth.
+Invited by leaders of the United States and Europe to contribute something, anything, to Ukraine’s military defense, Z proclaimed: “Today NATO standards *are* being determined in Ukraine.” In anyone else, this would be a solipsism, rather than one more delusion commingled with truth.
 
 Outside parliament, the Z cult in Ukraine is mild and reflective in comparison with the president’s cheerleaders abroad. The aftermath of February 24 has only reinforced a series of tropes and laid the groundwork for the president’s own plaudits. The rest of the world might wish that if Ukraine is going to stand for something, it (or its overpaid speechwriting class) would try to come up with more original — less Churchillian — motivational rhetoric.
 
