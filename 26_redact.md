@@ -12,7 +12,7 @@
 
 A year to forget, or a year to regret?
 
-[The New York Times](https://www.nytimes.com/interactive/2025/12/30/world/europe/ukraine-war-us-russia.html) on December 31, ran a 18,500-word article about how Team USA has helped Team Russia prolong its 12-year long genocidal war against Ukraine[1](#footnote-1). On January 1, 2025, the newspaper ran a 9,800-word article about AI and drone warfare, mostly in Ukraine[2](#footnote-2). I skimmed both.
+[The New York Times](https://www.nytimes.com/interactive/2025/12/30/world/europe/ukraine-war-us-russia.html) on December 31, ran an 18,500-word article about how Team USA has helped Team Russia prolong its 12-year-long genocidal war against Ukraine[1](#footnote-1). On January 1, 2025, the newspaper ran a 9,800-word article about AI and drone warfare, mostly in Ukraine[2](#footnote-2). I skimmed both.
 
 [Image]
 
@@ -40,7 +40,7 @@ The Dnipro River looks frozen solid. Didn’t see any ice fishermen.
 
 The thermoelectric stations in the distance appear to be working. That Moscow has been unable to blow them to smithereens is a testament to the incompetence of the Russian military or Ukraine’s air defense, or both.
 
-Re-listened to Judea Pearl Judea Pearl talking about the probabilistic approach to artificial intelligence and the development of Bayesian networks, as well as his theory of casual and counterfactual interference based on structural models.
+Re-listened to Judea Pearl talking about the probabilistic approach to artificial intelligence and the development of Bayesian networks, as well as his theory of causal and counterfactual inference based on structural models.
 
 [Video: https://youtu.be/9VsTpsD_dP0]
 
@@ -64,7 +64,7 @@ Very nice!
 
 “90 percent ready” sounds wonderfully precise—the sort of number that implies scientific rigor. But what does it actually *cause*? In Pearl’s framework, we must ask: if we *make* Ukrainians believe peace is imminent, does that bring peace closer, or does it merely create what the psychoanalyst identifies as a “split”: people who *know* there is war but act *as if* there isn’t?
 
-Z’s speech constructs an elaborate causal diagram where presidential rhetoric → hope → peace. But the arrows point the wrong way. The barometer doesn’t cause the atmospheric pressure. Moving the needle on public morale doesn’t generate electricty or end wars; it simply makes societies less prepared when reality—that stubborn thing—reasserts itself.
+Z’s speech constructs an elaborate causal diagram where presidential rhetoric → hope → peace. But the arrows point the wrong way. The barometer doesn’t cause the atmospheric pressure. Moving the needle on public morale doesn’t generate electricity or end wars; it simply makes societies less prepared when reality—that stubborn thing—reasserts itself.
 
 [Image]
 
@@ -94,7 +94,7 @@ Yesterday, Russia launched several ballistic missiles at the center of Kharkiv, 
 
 [Video: https://youtu.be/PpZEzkrwYHc]
 
-Rescue dogs have found three bodies, including a 3-year old. There are probably more dead people under the rubble.
+Rescue dogs have found three bodies, including a 3-year-old. There are probably more dead people under the rubble.
 
 [Image]
 
@@ -2428,7 +2428,7 @@ Alyaksandr Lukashenka is still president of Belarus.
 
 ---
 
-## Notes
+### Notes
 
 [^1]: [U.S. State Department, “1996 Human Rights Report: Belarus,” Bureau of Democracy, Human Rights, and Labor, January 30, 1997.](https://1997-2001.state.gov/global/human_rights/1996_hrp_report/belarus.html)
 
@@ -3370,7 +3370,7 @@ My neighbor from Semihory observed that this man knew more about goat theft than
 
 ---
 
-## I. On the Interview as Genre
+### I. On the Interview as Genre
 
 I raise this man only because I have been watching, with the mild fascination one gives a persistent weather system, the career of a young Irish influencer and vlogger who works in Ukraine and interviews presidents on camera while air raid sirens sound tastefully in the background.
 
@@ -3405,7 +3405,7 @@ The influencer moves on to the next question.
 
 ---
 
-## II. On the Redemption Arc, and Its Maintenance Costs
+### II. On the Redemption Arc, and Its Maintenance Costs
 
 The influencer’s story, which he tells with practiced fluency, is genuinely interesting.
 
@@ -3456,7 +3456,7 @@ The influencer thanks him and calls it amazing.
 
 ---
 
-## III. On the Comfortable Comparison
+### III. On the Comfortable Comparison
 
 Around the sixteenth minute, as reliably as a clock striking the hour, the vlogger raises Hitler.
 
@@ -3485,7 +3485,7 @@ And the influencer, who has spent years studying how extremist videos achieve th
 
 ---
 
-## IV. What My Neighbor from Semihory Would Have Said
+### IV. What My Neighbor from Semihory Would Have Said
 
 My neighbor from Semihory, who distrusted anyone with a clean conscience, would have liked the influencer well enough.
 
@@ -6310,7 +6310,7 @@ Which is, perhaps, the only genuinely hopeful sentence in this entire story.
 
 [2](#footnote-anchor-2)
 
-## [Statement by the Public Anti-Corruption Council at the Ministry of Defence of Ukraine Regarding the “Midas” Case](https://www.facebook.com/anticormou/posts/pfbid02nSnAanCGQ6TzdAJ2r2h7mZwvtGSJGYxofw49kS17KNqJvcmB2pnLnexaGA1Vjcuol)
+### [Statement by the Public Anti-Corruption Council at the Ministry of Defence of Ukraine Regarding the “Midas” Case](https://www.facebook.com/anticormou/posts/pfbid02nSnAanCGQ6TzdAJ2r2h7mZwvtGSJGYxofw49kS17KNqJvcmB2pnLnexaGA1Vjcuol)
 
 ❗️ In connection with the fact that society has received unverified but significant evidence of ties between former Minister of Defence of Ukraine Rustem Umerov, sanctioned businessman Tymur Mindich, and the company “Fire Point,” the Public Anti-Corruption Council at the Ministry of Defence of Ukraine announces the following:
 
@@ -9548,7 +9548,7 @@ What I can tell you is that the wolf they were looking for in the Botanical Gard
 
 ---
 
-## A Reader’s Guide to the ukraine@war Archive, 2021–2026
+### A Reader’s Guide to the ukraine@war Archive, 2021–2026
 
 ---
 
@@ -10881,7 +10881,7 @@ Last week Ukraine’s [outgoing defense minister said the country had successful
 
 If the reports describe the same event, Moscow has entered a different chapter of the war.
 
-## An old comparison
+### An old comparison
 
 People have begun comparing it with the Iran-Iraq War. The comparison is not exact. History rarely bothers with exact copies. It prefers family resemblance. During the 1980s neither Iran nor Iraq could defeat the other, so they began shooting missiles at each other’s cities instead. The newspapers eventually gave it a simple name: the War of the Cities. Simple names usually belong to complicated tragedies.
 
@@ -10889,7 +10889,7 @@ Readers with improbably good memories may recall that we wandered into the same 
 
 Three years later, the front has moved less than many expected. The mental map has moved rather farther.
 
-## Three roads
+### Three roads
 
 Ukraine now appears to be approaching the same destination by three different roads.
 
@@ -10907,7 +10907,7 @@ Perhaps there are factories nobody has mentioned. Perhaps “missile” has acqu
 
 **The third road** runs through Britain, which is working with Ukraine on a longer-range missile expected to enter production over the next several years.
 
-## The direction of travel
+### The direction of travel
 
 Three roads. Different travelers. The same destination.
 
@@ -11482,7 +11482,7 @@ Added the 2019 and 2000 markdown files for people to interrogate w/ gemini and c
 
 [Image]
 
-## 2019
+### 2019
 
 **01 — Zelenskyy’s Landslide Victory**
 *[Z and the Golden Pyramid Guy](https://abdymok.substack.com/p/z-and-the-golden-pyramid-guy)*
@@ -11526,7 +11526,7 @@ Added the 2019 and 2000 markdown files for people to interrogate w/ gemini and c
 
 ---
 
-## 2020
+### 2020
 
 **01 — “Operation Avenue” (Wagnergate)**
 *[Drones in my Bones](https://abdymok.substack.com/p/day-928)*
@@ -16068,7 +16068,7 @@ The land, at least, has been claimed.
 
 ---
 
-## Endnotes
+### Endnotes
 
 1. [The White House, statement on the Oleshky ceasefire](https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/). See also [Ukrainska Pravda on the humanitarian situation](https://www.pravda.com.ua/eng/news/2026/10/19/8058711/index.amp).
 2. [Ukraine’s General Staff announcement, via Ukrinform](https://www.ukrinform.net/rubric-ato/4178428-ukraine-to-implement-ceasefire-in-oleshky-area-from-midnight-on-october-27.html). See also [Reuters, October 27, on the ceasefire taking effect](https://www.reuters.com/world/europe/russia-ukraine-begin-localised-ceasefire-allow-humanitarian-operation-oleshky-2026-10-27/) and [Lubinets on the agreement, via Interfax-Ukraine](https://en.interfax.com.ua/news/general/1225484.html).
