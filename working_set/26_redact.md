@@ -622,7 +622,7 @@ Other pics are [here.](https://t.me/lossolomas_kyiv/91407?single)
 
 *Photo c/o abdymok, weird-looking missiles c/o AI (January 16, 2026)*
 
-Lots of light this morning from the balcony, but an air alert has just sounded, and it could go dark shortly. The citiy’s electricity wizards switched power back on at around 19:00 … for the entire night. The heat is on and we have running water.
+Lots of light this morning from the balcony, but an air alert has just sounded, and it could go dark shortly. The city’s electricity wizards switched power back on at around 19:00 … for the entire night. The heat is on and we have running water.
 
 [Image]
 
@@ -1916,7 +1916,7 @@ Looking on the positive side, today’s Russian KIA account is high and it gets 
 
 *Socks for Spring*
 
-On my Iphone as I write is a screenshot from [Vatican News](http://vaticannews.va). It shows Pope Leo XIV’s “solidarity amid Ukraine’s freezing winter”—three lorries carrying 80 electricity generators, along with medicine and food supplies, from Rome to Ukraine.
+On my iPhone as I write is a screenshot from [Vatican News](http://vaticannews.va). It shows Pope Leo XIV’s “solidarity amid Ukraine’s freezing winter”—three lorries carrying 80 electricity generators, along with medicine and food supplies, from Rome to Ukraine.
 
 [Image]
 
@@ -15349,7 +15349,7 @@ murals · [67](https://abdymok.github.io/mural/) · [40](https://abdymok.github.
 
 *Sophia Square in Kyiv (Photo c/o abdymok, October 7, 2026)*
 
-Pictures from Kremechuk (population 225,000) in Poltava region show the obliteration of an entire street this morning during latest combined Russian air attack on the country.
+Pictures from Kremenchuk (population 225,000) in Poltava region show the obliteration of an entire street this morning during latest combined Russian air attack on the country.
 
 [Image]
 
@@ -16002,7 +16002,7 @@ The revolving door works perfectly.
 
 Against our better judgement, we added this morning’s item to the [ledger of the apocalypse](https://abdymok.github.io/40/articles/critical-infrastructure-damage.html).
 
-You’ll notice the infrastructure page now has a dark background, courtesy of a little HTML and CSS surgery. The mobile landing page, however, has a different problem: on the Iphone 11, the opening screen stays blank until you tap it, at which point the full-bleed video of me running past evil monowheelers springs to life. The video works; it’s the autoplay on first load that doesn’t.
+You’ll notice the infrastructure page now has a dark background, courtesy of a little HTML and CSS surgery. The mobile landing page, however, has a different problem: on the iPhone 11, the opening screen stays blank until you tap it, at which point the full-bleed video of me running past evil monowheelers springs to life. The video works; it’s the autoplay on first load that doesn’t.
 
 A fix is in the works. But events, as ever, are moving too fast for us to dwell on them.
 
