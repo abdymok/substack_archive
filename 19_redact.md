@@ -64,7 +64,7 @@ she and 10 colleagues from una-unso were detained and then released by police.
 
 the rumble on the roof coincided with the arrival of kuchma, who threw a curveball by showing up two-and-a-half hours early. kuchma hastily honored shevchenko and departed.
 
-police then opened the park to protesters, who carried out what the opposition a “symbolic cleaning of the monument from the president,” before staging a rally that would culminate in much more violence at the presidential administration leading to hundreds of arrests.
+police then opened the park to protesters, who carried out what the opposition called a “symbolic cleaning of the monument from the president,” before staging a rally that would culminate in much more violence at the presidential administration leading to hundreds of arrests.
 
 but that’s another story.
 
@@ -104,7 +104,7 @@ putin didn’t become russian president until 2000, a year ***after*** a guard i
 
 [Image]
 
-i pointed out the most glaring mistakes to the magazine’s editors [joe plommer](https://www.facebook.com/joeplommer?__tn__=KH-R&eid=ARAqvPRVvVmSBI_8oxZjCI6-N0vDBTE0A_dH7vEAjwGOfHTvl8u6HZPgxz1rrlxBm4d02ESwjhlYoLC1&fref=mentions&__xts__%5B0%5D=68.ARAclboxePS_RSke6whyWRsXlPYB17t1tsIoCxfpJCP_KVe_3xpoyT1oSSi-_DQwoDjfSvOn8bHwhVT4iy8wmIumCUcy0u9r0Gyhb6DoXyCs83wfARVRZL2NlbtboUn81Y_-dalw3QEWc74L_lDAmW5d4zj8IqGh4QwNxfHQ1XlrKgkL2a61DuiTmPqKmq4zu8icVEQIFqBedkz3OUnbFp1YZERUVMxku9YLoWD9DAekkeOg981lGRDLGP17tNF5D79ocuI1in2mLajPA_ZGgQ0YDgp7l3nzIIGg8ABIjUyB5IF3UmRCUaqzp32Pj58bb_JigUaXyFt7SfTI), [david broder](https://www.facebook.com/david.broder.980?__tn__=KH-R&eid=ARDmh3-ncz2FsZBI9HNKV0FjRUsEu7CJCUAd6aJGWkeMF9Am58_EXKSfMU0pBaILLFLMokQ_haemGtLA&fref=mentions&__xts__%5B0%5D=68.ARAclboxePS_RSke6whyWRsXlPYB17t1tsIoCxfpJCP_KVe_3xpoyT1oSSi-_DQwoDjfSvOn8bHwhVT4iy8wmIumCUcy0u9r0Gyhb6DoXyCs83wfARVRZL2NlbtboUn81Y_-dalw3QEWc74L_lDAmW5d4zj8IqGh4QwNxfHQ1XlrKgkL2a61DuiTmPqKmq4zu8icVEQIFqBedkz3OUnbFp1YZERUVMxku9YLoWD9DAekkeOg981lGRDLGP17tNF5D79ocuI1in2mLajPA_ZGgQ0YDgp7l3nzIIGg8ABIjUyB5IF3UmRCUaqzp32Pj58bb_JigUaXyFt7SfTI) and [vololdymyr ishchenko](https://www.facebook.com/vishchenko?__tn__=CH-R&eid=ARDiaMPorUWOU-MUcg9jPI6FolXe7Ha1Xx3nGEi7B-XuHmnaKTAtTt8NHLuZq4Dbh9Ggx0VkQq7KcKeR&hc_ref=ARRhDK-VHrPHyBlAk3Dgq2MtuKFyoN7_Qu3I_QGG5i54vU13pedzM-DPEQfh2PfUkxI&fref=nf&__xts__[0]=68.ARAclboxePS_RSke6whyWRsXlPYB17t1tsIoCxfpJCP_KVe_3xpoyT1oSSi-_DQwoDjfSvOn8bHwhVT4iy8wmIumCUcy0u9r0Gyhb6DoXyCs83wfARVRZL2NlbtboUn81Y_-dalw3QEWc74L_lDAmW5d4zj8IqGh4QwNxfHQ1XlrKgkL2a61DuiTmPqKmq4zu8icVEQIFqBedkz3OUnbFp1YZERUVMxku9YLoWD9DAekkeOg981lGRDLGP17tNF5D79ocuI1in2mLajPA_ZGgQ0YDgp7l3nzIIGg8ABIjUyB5IF3UmRCUaqzp32Pj58bb_JigUaXyFt7SfTI) on social media.
+i pointed out the most glaring mistakes to the magazine’s editors [joe plommer](https://www.facebook.com/joeplommer?__tn__=KH-R&eid=ARAqvPRVvVmSBI_8oxZjCI6-N0vDBTE0A_dH7vEAjwGOfHTvl8u6HZPgxz1rrlxBm4d02ESwjhlYoLC1&fref=mentions&__xts__%5B0%5D=68.ARAclboxePS_RSke6whyWRsXlPYB17t1tsIoCxfpJCP_KVe_3xpoyT1oSSi-_DQwoDjfSvOn8bHwhVT4iy8wmIumCUcy0u9r0Gyhb6DoXyCs83wfARVRZL2NlbtboUn81Y_-dalw3QEWc74L_lDAmW5d4zj8IqGh4QwNxfHQ1XlrKgkL2a61DuiTmPqKmq4zu8icVEQIFqBedkz3OUnbFp1YZERUVMxku9YLoWD9DAekkeOg981lGRDLGP17tNF5D79ocuI1in2mLajPA_ZGgQ0YDgp7l3nzIIGg8ABIjUyB5IF3UmRCUaqzp32Pj58bb_JigUaXyFt7SfTI), [david broder](https://www.facebook.com/david.broder.980?__tn__=KH-R&eid=ARDmh3-ncz2FsZBI9HNKV0FjRUsEu7CJCUAd6aJGWkeMF9Am58_EXKSfMU0pBaILLFLMokQ_haemGtLA&fref=mentions&__xts__%5B0%5D=68.ARAclboxePS_RSke6whyWRsXlPYB17t1tsIoCxfpJCP_KVe_3xpoyT1oSSi-_DQwoDjfSvOn8bHwhVT4iy8wmIumCUcy0u9r0Gyhb6DoXyCs83wfARVRZL2NlbtboUn81Y_-dalw3QEWc74L_lDAmW5d4zj8IqGh4QwNxfHQ1XlrKgkL2a61DuiTmPqKmq4zu8icVEQIFqBedkz3OUnbFp1YZERUVMxku9YLoWD9DAekkeOg981lGRDLGP17tNF5D79ocuI1in2mLajPA_ZGgQ0YDgp7l3nzIIGg8ABIjUyB5IF3UmRCUaqzp32Pj58bb_JigUaXyFt7SfTI) and [volodymyr ishchenko](https://www.facebook.com/vishchenko?__tn__=CH-R&eid=ARDiaMPorUWOU-MUcg9jPI6FolXe7Ha1Xx3nGEi7B-XuHmnaKTAtTt8NHLuZq4Dbh9Ggx0VkQq7KcKeR&hc_ref=ARRhDK-VHrPHyBlAk3Dgq2MtuKFyoN7_Qu3I_QGG5i54vU13pedzM-DPEQfh2PfUkxI&fref=nf&__xts__[0]=68.ARAclboxePS_RSke6whyWRsXlPYB17t1tsIoCxfpJCP_KVe_3xpoyT1oSSi-_DQwoDjfSvOn8bHwhVT4iy8wmIumCUcy0u9r0Gyhb6DoXyCs83wfARVRZL2NlbtboUn81Y_-dalw3QEWc74L_lDAmW5d4zj8IqGh4QwNxfHQ1XlrKgkL2a61DuiTmPqKmq4zu8icVEQIFqBedkz3OUnbFp1YZERUVMxku9YLoWD9DAekkeOg981lGRDLGP17tNF5D79ocuI1in2mLajPA_ZGgQ0YDgp7l3nzIIGg8ABIjUyB5IF3UmRCUaqzp32Pj58bb_JigUaXyFt7SfTI) on social media.
 
 they told me there were no factual errors and, even if there are, it is because they only had limited space to explain what happened between the two rounds of the 2010 ukrainian presidential election.
 
@@ -112,11 +112,11 @@ ishchenko’s views about **the left** and **the right** in ukraine are what i f
 
 the battle between social-oriented, socialist economists on the left and libertarian economists on the right about economic reforms has been fought in the west for at least a century. in ukraine, [they are still fighting](https://capx.co/ukraine-has-become-socialisms-testing-ground-again/).
 
-**my comments on ivshchenko’s (left) musings:**
+**my comments on ishchenko’s (left) musings:**
 
 [Image]
 
-according to ivshchenko, left-oriented political groups in ukraine are forced to hold meetings secretly because of violent radical nationalists. this is false.
+according to ishchenko, left-oriented political groups in ukraine are forced to hold meetings secretly because of violent radical nationalists. this is false.
 
 [Image]
 
@@ -124,7 +124,7 @@ the sociologist tells jacobin russia’s unprovoked attack on ukrainian naval fo
 
 [Image]
 
-i know many ukrainian leftists. sometimes, i think my 17-year daughter is one of them.
+i know many ukrainian leftists. sometimes, i think my 17-year-old daughter is one of them.
 
 [Image]
 
