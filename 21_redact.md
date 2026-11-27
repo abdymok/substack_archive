@@ -571,7 +571,7 @@ The problem is not new. In 1994, Irish economist [William Brian Arthur](https://
 The more things change, the more they stay the same. Today a geisha meets you at the entrance to the bar, where little glass shrimp hang down from the ceiling. This is where Belarusian bitumen wholesalers rub shoulders with members of Ukraine’s state railways, investment bankers and mobsters from the country’s impoverished regions. Photographs of the magical food served are posted daily by customers on [Instagram](https://www.instagram.com/fenix.asia/). If you’re lucky, [Mykola the Pork Chop](https://abdymok.substack.com/p/a-man-in-full) might be there.
 
 [Image]
-*For more than a half century, this venue with its special aura was constantly updated, each time born again in a new quality. And now... Can you hear it? It is the fluttering of feathers of the legendary Phoenix, which melts into a world of contrasts and gastronomical metaphors. It says the time has come to enter a new epoch. The flight to success begins on our two strong wings.....*
+*For more than half a century, this venue with its special aura was constantly updated, each time born again in a new quality. And now... Can you hear it? It is the fluttering of feathers of the legendary Phoenix, which melts into a world of contrasts and gastronomical metaphors. It says the time has come to enter a new epoch. The flight to success begins on our two strong wings.....*
 
 ---
 
@@ -998,7 +998,7 @@ If you call the main number at the Kyiv Post these days, you might hear an answe
 
 "There's only three of us here," shrugs Luc. "Who else is going to answer the phone?"
 
-Though he may be a competent receptionist, Luc Chénier is best known for saying the obvious truths that nobody wants to hear. His return to the Kyiv Post as CEO has attracted a wild degree of controversy — and legions of detractors. Through it all, Luc remains an moonbat idiotarian and borderline incoherent Canadian who enjoys mansplaining and pretty sunsets.
+Though he may be a competent receptionist, Luc Chénier is best known for saying the obvious truths that nobody wants to hear. His return to the Kyiv Post as CEO has attracted a wild degree of controversy — and legions of detractors. Through it all, Luc remains a moonbat idiotarian and borderline incoherent Canadian who enjoys mansplaining and pretty sunsets.
 
 ---
 
@@ -1029,13 +1029,13 @@ My first thought: “A veteran of what?”
 
 The [headless drake](https://abdymok.substack.com/p/ukraines-headless-rooster) with the cormorant beak wearing the purple blouse has been removed from the playground in front of the President’s Office. The smiling red cat with human jaws wearing a blue crown and lilac intubated lion have also disappeared, along with all the other animals in the bestiary, including the yellow eared beast grasping a crustacean.
 
-The installation was inspired by the works of [Mariya Prymachenko](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9C%D0%B0%D1%80%D1%96%D1%8F_%D0%9E%D0%BA%D1%81%D0%B5%D0%BD%D1%82%D1%96%D1%97%D0%B2%D0%BD%D0%B0), a folk master of Ukrainian decorative painting. Sorry see it go.
+The installation was inspired by the works of [Mariya Prymachenko](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9C%D0%B0%D1%80%D1%96%D1%8F_%D0%9E%D0%BA%D1%81%D0%B5%D0%BD%D1%82%D1%96%D1%97%D0%B2%D0%BD%D0%B0), a folk master of Ukrainian decorative painting. Sorry to see it go.
 
 ---
 
 In other news, the sensitive puppy-dog man with the gruff exterior on November 23 said during a podcast, titled “[How to build independent media in Ukraine](https://www.atlanticcouncil.org/event/build-independent-media-in-ukraine/),” that if it hadn’t been for the Kyiv Post in 2014, Ukraine might not exist today.
 
-> “[W]hile I wish the world would learn Ukrainian, the reality is that this is still largely an English-speaking world. There are very few of our voices… We knocked down the argument that it was a U.S.-financed coup. That was bullshit. I’m sorry for the language, but we were there every single day during the revolution. We stayed our ground until the very, very end. We didn’t know how it was going to turn out…
+> “[W]hile I wish the world would learn Ukrainian, the reality is that this is still largely an English-speaking world. There are very few of our voices… We knocked down the argument that it was a U.S.-financed coup. That was bullshit. I’m sorry for the language, but we were there every single day during the revolution. We held our ground until the very, very end. We didn’t know how it was going to turn out…
 
 The depressing hour-long chit chat about the “commodity” of news content was hosted by the [Atlantic Council](https://www.atlanticcouncil.org/).
 
@@ -1060,7 +1060,7 @@ The depressing hour-long chit chat about the “commodity” of news content was
 [Image]
 *Photo c/o Paolo Pellegrin—Magnum Photos*
 
-Ukraine’s moron president is in trouble again, this time for using new H225 Super Puma helicopters bought by taxpapers for the [State Emergency Service](https://www.dsns.gov.ua/) as taxis to ferry himself and his greasy clown friends to and from Kyiv and the presidential residence in [Synyohora (Huta),](https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_%C2%AB%D0%A1%D0%B8%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE%D1%80%D0%B0%C2%BB) a 10,000-hectare playpen for public servants in Ivano-Frankivsk region.
+Ukraine’s moron president is in trouble again, this time for using new H225 Super Puma helicopters bought by taxpayers for the [State Emergency Service](https://www.dsns.gov.ua/) as taxis to ferry himself and his greasy clown friends to and from Kyiv and the presidential residence in [Synyohora (Huta),](https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_%C2%AB%D0%A1%D0%B8%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE%D1%80%D0%B0%C2%BB) a 10,000-hectare playpen for public servants in Ivano-Frankivsk region.
 
 The occasion: the 50th birthday of Andriy Yermak, the head of the President’s Office of Ukraine on Sunday, November 21.
 
@@ -1098,7 +1098,7 @@ Sweaty little fuckpigs working at the President’s Office have been looking for
 
     — ‘Everything will be fine’ is not one of them.
 
-Whatever meaningful the president will say has already been dissected into nicely pulverized pieces and digitized by an army of botfarmers with pre-authorized #hashtags.
+Whatever meaningful thing the president will say has already been dissected into nicely pulverized pieces and digitized by an army of botfarmers with pre-authorized #hashtags.
 
 ---
 
@@ -1119,7 +1119,7 @@ The press conference will take place at noon on Black Friday at [Creative States
 [Image]
 *caption...*
 
-So far, the best part of Ukrainian President Z’s [five and a half hour press conference](https://www.youtube.com/watch?v=PN-6XexNUQo) is what journalist Yuriy Butusov [said](https://www.pravda.com.ua/news/2021/11/26/7315382/) after it ended.
+So far, the best part of Ukrainian President Z’s [five-and-a-half-hour press conference](https://www.youtube.com/watch?v=PN-6XexNUQo) is what journalist Yuriy Butusov [said](https://www.pravda.com.ua/news/2021/11/26/7315382/) after it ended.
 
 > **“I should have stood up and punched him in the face.”**
 
@@ -1241,11 +1241,11 @@ The marathon press conference on November 26 in Kyiv changed all that.
 
 **Proposition**. Z, along with many of his top advisors, are at best incompetent and, at worst, unwitting accomplices of a Kremlin plot against Ukraine.
 
-This proposition is a statement which I think is in the process of becoming *common knowledge* in Ukraine and approaching the level of *mutual or shared knowledge* among policy makers in the United States and Europe. Many of Z’s nominal supporters say this proposition appears to be true, even if they are hesitant to say it out loud.
+This proposition is a statement which I think is in the process of becoming *common knowledge* in Ukraine and approaching the level of *mutual or shared knowledge* among policymakers in the United States and Europe. Many of Z’s nominal supporters say this proposition appears to be true, even if they are hesitant to say it out loud.
 
 However, even if the proposition is approaching the status of *mutual knowledge*, it was not close to the status of *common knowledge*, that is, until Z began referring to himself in the third person repeatedly during the press conference and declared dozens of times that he is Ukraine’s president.
 
-One may secretly believe that the president and his friends are defending national interests, but must continue to entertain the possibility that they aren’t, because a growing number people around them, including politicians and journalists, no longer share this view.
+One may secretly believe that the president and his friends are defending national interests, but must continue to entertain the possibility that they aren’t, because a growing number of people around them, including politicians and journalists, no longer share this view.
 
 Reconciling these opinions can require taking on some implausible hypotheses that are not otherwise supported by any evidence, such as the conjecture that Z’s patriotic speeches and gruelling schedule are merely “for show,” and that behind this facade there is actually a competent and qualified national leader.
 
@@ -1269,12 +1269,12 @@ A day earlier, Aleksander Lukashenko talked about his feelings for Russia’s Vl
 
 [Image]
 
-The two red blobs in upper left corner of the map (*below*) represent military formations in Belarus, which shares a 1,000-kilometer border with Ukraine.
+The two red blobs in the upper-left corner of the map (*below*) represent military formations in Belarus, which shares a 1,000-kilometer border with Ukraine.
 
 [Image]
 *Map c/o US embassy in Kyiv*
 
-On November 29, Lukashenko said Minsk would not sit idly on the sidelines if his blood brother declares all out war with Ukraine. "It is clear whose side Belarus will be on," he said.
+On November 29, Lukashenko said Minsk would not sit idly on the sidelines if his blood brother declares all-out war with Ukraine. "It is clear whose side Belarus will be on," he said.
 
 
 ---
