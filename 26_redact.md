@@ -40,7 +40,7 @@ Photo c/o [abdymok](https://sites.google.com/site/abdymok/home)
 
 The thermoelectric stations in the distance appear to be working. That Moscow has been unable to blow them to smithereens is a testament to the incompetence of the Russian military or Ukraine’s air defense, or both.
 
-Re-listened to Judea Pearl talking about the probabilistic approach to artificial intelligence and the development of Bayesian networks, as well as his theory of causal and counterfactual inference based on structural models.
+Re-listened to Judea Pearl Judea Pearl talking about the probabilistic approach to artificial intelligence and the development of Bayesian networks, as well as his theory of casual and counterfactual interference based on structural models.
 
 [Media]
 
@@ -1193,7 +1193,7 @@ Sigh.
 
 [US links security guarantees for Ukraine to peace deal ceding territory](https://archive.ph/mvSTG#selection-1577.0-1581.121). *Washington signalled Kyiv would receive more backing after any withdrawal from the Donbas, say people familiar with talks* ([The Financial Times](http://ft.com), January 27, 2026)
 
-Who, namely, indicated this *contingency*, and when? What *security guarantees*? Why would anyone trust *bodyguard paperwork* signed by Drump? If memory serves, at least three of the four authors of this article in 2014 didn’t even realize — or write at the time — that Russia was invading Ukraine, until at least 2018. Why should we take anything they say now about the war seriously?
+Who, namely, indicated this *contingency*, and when? What *security guarantees*? Why would anyone trust *bodyguard paperwork* signed by Drump? If memory serves, at least three of the four authors of this article in 2014 didn’t even realize — or write at the time — that Russia was invading Ukraine, until at least 2018. Why should we take anything they say now about about the war seriously?
 
 Ukraine will not *cede the Donbas region to Russia*.
 
@@ -1827,7 +1827,7 @@ Better to theorize about “narrative escalation dominance” than to note that 
 
 The problem with treating narrative as strategy: eventually someone has to keep the lights on.
 
-When your actual strategy has been to loot the energy infrastructure while opining about resilience, you end up celebrating €765 worth of electricity as if it were the Marshall Plan.
+When your actual strategy has been to loot the energy infrastructure while opining about about resilience, you end up celebrating €765 worth of electricity as if it were the Marshall Plan.
 
 ---
 
@@ -1955,7 +1955,7 @@ That’s the actual story of Kyiv’s freeze—practical, unglamorous, the kind 
 
 After accompanying police on welfare checks in neighborhoods on the left (eastern) bank of the Dnipro. [The New York Times](http://nyt.com) ran a print story about our adventure, with weeks-old video, headlining the suffering of residents freezing in their apartments[1](#footnote-1). The convoy of suffering tableaux was accompanied by a [105-second video](https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html?searchResultPosition=3) of Andrew — NYT’s bureau chief— saying that he “really has a sense of Kyiv unravelling.”
 
-Meanwhile, Simon dropped his Atlantic [tech-optimism fantasy](https://archive.ph/qwOZx#selection-611.0-617.68) about laser cannons. Both stories arrived precisely on February 10, 2026, when investigation would be awkward and atmosphere would be safe[2](#footnote-2). Access for deference.
+Meanwhile, Simon dropped dropped his Atlantic [tech-optimism fantasy](https://archive.ph/qwOZx#selection-611.0-617.68) about laser cannons. Both stories arrived precisely on February 10, 2026, when investigation would be awkward and atmosphere would be safe[2](#footnote-2). Access for deference.
 
 What else happened February 10th? US Ambassador to NATO Matthew Whitaker—former Iowa toilet-scam lawyer turned Trump loyalist—declared peace in Ukraine "as close as it's ever been." "I think we should continue to pray for peace," Whitaker said, "but at the same time, make sure Ukraine continues to have … all they need to defend themselves."
 
@@ -5489,7 +5489,7 @@ Without "dramatic change" to force structure, procurement, and inter-service coo
 
 *Donnyland*
 
-There is an old saying in the Kyrvyi Rih — though perhaps I invented it just now — that a man who perfects the art of kneeling will eventually forget how to stand..
+There is an old saying in the Kyrvyi Rih — though perhaps I invented it just now — that that a man who perfects the art of kneeling will eventually forget how to stand..
 
 Z is a practical man. He understands that dignity, like a good overcoat, must sometimes be pawned when winter is very cold. And the winter in the Dnipropetrovsk region has been very cold indeed, for many years now.
 
@@ -8684,7 +8684,7 @@ Photo c/o [abdymok](https://sites.google.com/site/abdymok/home) *enchanted* by A
 
 This is what the portal to Kyiv’s mystic triangle looks like facing due west.
 
-Someone posted a 56-second video of Oniks hypersonic missiles skipping into Kyiv. They travel at about 3,000 kilometers per hour and are difficult to shoot down. Russia’s combined air attacks on Tuesday morning killed two dozen people nationwide. Today is a day of mourning in Dnipro, where the death toll was highest.
+Someone posted a 56-second video of Oniks hypersonic missiles skipping into Kyiv. They travel at about 3,000 kilometers per hour and are difficult to shoot down. Russia’s combined air air attacks on Tuesday morning killed two dozen people nationwide. Today is a day of mourning in Dnipro, where the death toll was highest.
 
 ---
 
@@ -9352,7 +9352,7 @@ The two gentlemen moved on to discussing Cuba and what makes a good dive bar, on
 > Historians’ conversation, being unfettered and life-affirming, will usually cause other diners to fall silent, ashamed of their bourgeois values and enchanted by the exuberance of the ‘credentialed’. A kindly act is to draw them into your group by waving or going over to their tables, kneeling down before them and begging forgiveness in extravagant language. Try to sing the theme tunes from obscure Cossack ballads, quote from Ivan Ilyin, and – of course – lots and lots of regional accents and silly voices.  
 > — “The Historiography of Lunch” ([Day 934](https://abdymok.substack.com/p/day-943?utm_source=publication-search))
 
-It’s churlish to dwell on all that can go wrong with the professional historian. True, some aren’t completely annoying to be in the same room with, and some do [good work](https://web.archive.org/web/20011214052756/http://wwics.si.edu/kennan/), har[1](#footnote-1). And you have to admire the tenacity to remain in a profession wherein rejection and slamming criticism are just the beginning. Gaping insecurity, white-hot neediness, gelatin bravado – there are worse characteristics to have.
+It’s churlish to dwell on all that can go wrong with the professional historian. True, some aren’t completely annoying to be in the same room with, and some do [good work](https://web.archive.org/web/20011214052756/http://wwics.si.edu/kennan/), har har[1](#footnote-1). And you have to admire the tenacity to remain in a profession wherein rejection and slamming criticism are just the beginning. Gaping insecurity, white-hot neediness, gelatin bravado – there are worse characteristics to have.
 
 All of which are savagely thrashed in a most welcome 4-year old post of “Cheap Caviar Comes With the Job,” written by the alter ego of someone resembling [Nigel Planer](https://en.wikipedia.org/wiki/Nigel_Planer), whom you might recall as Neil the hippy on [The Young Ones](https://theyoungones.fandom.com/wiki/The_Young_Ones_Wiki).
 
@@ -13151,7 +13151,7 @@ Ukraine still has no good answer to the **jet-powered drones**, and this fact, o
 
 Here I would like to make a small philosophical detour, of the kind that irritates efficient people and comforts the rest of us. There is the time of physics — the neutral, indifferent time that appears in equations, that does not care whether you are asleep or awake, whether you are a general or a cabbage. And there is the other time, the time we actually live in, which philosophers call manifest and which everyone else simply calls time: the time in which ten kilograms of thermobaric compound crosses the sky above your head at six hundred kilometers an hour, and in which the word “fast enough” ceases to be an adjective and becomes a verdict. Ukraine failed to anticipate this shift *fast enough* — and I put those words in italics because their failure will never be measured by a calendar. It will be measured by a body under a roof, doing the arithmetic that only a body under a roof can do.
 
-Military planners are paid, among other things, to think about this second kind of time, which is unglamorous work compared to debating whether time flows or whether “now” means anything at all. Their question is smaller and more urgent: what kind of cheap, short-range missile do you need to run down a fast machine before it arrives, without spending your whole store of expensive interceptors and your fighter pilots’ flying hours to do it? Ukraine does not yet have that missile in sufficient number. It is simply a shortage that should have been anticipated.
+Military planners are paid, among other things, to think about this second kind of time, which is unglamorous work compared to debating whether time flows or whether “now” means anything at all. Their question is smaller and more urgent: what kind of cheap, short-range missile do you need to run down a fast machine before it arrives, without spending your whole store of expensive interceptors and your fighter pilots’ flying hours to do it? Ukraine does not yet have that missile in sufficient number. It is simply a shortage that should should have been anticipated.
 
 ---
 
@@ -16603,7 +16603,7 @@ What Trump said last night about Russia’s genocidal war against Ukraine.
 >
 > Ross Douthat: Who-- who do you trust more, President Putin or President Zelenskyy--
 >
-> President Donald Trump: Well, I’d rather not say, but I get along with both. I believe that war is going to end, and it’s gonna end soon. And the only reason it’s gonna end is because of me. There is tremendous hatred between President Putin and President Zelenskyy. And-- you know, I--
+> President Donald Trump: Well, I’d rather not say, but I get along with both. I believe that that war is going to end, and it’s gonna end soon. And the only reason it’s gonna end is because of me. There is tremendous hatred between President Putin and President Zelenskyy. And-- you know, I--
 >
 > Ross Douthat: Isn’t it more understandable coming from President Zelenskyy, given that his country was actually invaded?
 >
