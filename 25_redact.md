@@ -275,7 +275,7 @@ Keith’s goal, according to Keith:
 2. Save Ukraine and it’s sovereignty, and
 3. Make sure settlement to end the war is equitable and fair.
 
-Tulsi will will help out with the intelligence gathering and analysis part of the job. We have already rolled out the welcome mat for her in Kyiv and are sprucing up our [bioweapons labs.](https://en.wikipedia.org/wiki/Ukraine_bioweapons_conspiracy_theory)
+Tulsi will help out with the intelligence gathering and analysis part of the job. We have already rolled out the welcome mat for her in Kyiv and are sprucing up our [bioweapons labs.](https://en.wikipedia.org/wiki/Ukraine_bioweapons_conspiracy_theory)
 
 ---
 
@@ -705,7 +705,7 @@ In other news, Pete and John, picks to lead the Pentagon and the Central Intelli
 
 [Video: https://youtu.be/P6HUomndA5U]
 
-Z wants us to hope that Team USA is on Ukraine’s side. Maybe he should rethink what he expects from from the Golden Age of America, and why he does.
+Z wants us to hope that Team USA is on Ukraine’s side. Maybe he should rethink what he expects from the Golden Age of America, and why he does.
 
 Meanwhile, Russian invaders are shelling Pokrovsk, a small city in eastern Ukraine with a pre-war population of 60,000. About 10,000 people still live there.
 
@@ -1521,7 +1521,7 @@ Andy and Lara write about how religious some Ukrainians are, leaving out the par
 
 *Programmed for pleasure*
 
-What a fucking bore Donald has become. Look at him [lugubriously latch](https://www.foxnews.com/video/6368624897112) on to a scam with an eyeglazer from our least enjoyed Z. The gist of the bit? Rare earth minerals. That’s it. Har har. The edgelord forgets there’s ridicule already dripping from the offer (and that everyone in the dank neocon circle-jerk world has already linked to it) and puts on the tired old threadbare fisking gloves to dance like an idiot and have a lazy go at not looking moronic.
+What a fucking bore Donald has become. Look at him [lugubriously latch](https://www.foxnews.com/video/6368624897112) on to a scam with an eyeglazer from our least enjoyed Z. The gist of the bit? Rare earth minerals. That’s it. Har. The edgelord forgets there’s ridicule already dripping from the offer (and that everyone in the dank neocon circle-jerk world has already linked to it) and puts on the tired old threadbare fisking gloves to dance like an idiot and have a lazy go at not looking moronic.
 
 > “I told them [Ukraine] that I want the equivalent of $500 billion worth of rare earth. And they've essentially agreed to do that so at least we don’t feel stupid. Otherwise, we're stupid. I said to them we have to — 'we have to get something. We can’t continue to pay this money,'” Trump said.
 
@@ -2059,7 +2059,7 @@ On the American jacket, Stephen is “afraid to speak out of turn” and admit R
 
 [Video: https://youtu.be/4zwfukYhq-k]
 
-Tulsi, who obvi has never tipped for hours during a boring midz shift from a poz at any US intelligence agency, is issuing instructions to sack those those who have. I spent three years holding sexually explicit discussions using Le Fox Green at USM-5[1](#footnote-1). The experience improved my English and interpersonal skills.
+Tulsi, who obvi has never tipped for hours during a boring midz shift from a poz at any US intelligence agency, is issuing instructions to sack those who have. I spent three years holding sexually explicit discussions using Le Fox Green at USM-5[1](#footnote-1). The experience improved my English and interpersonal skills.
 
 [Video: https://youtu.be/gywqtXqYf-4]
 
@@ -2638,7 +2638,7 @@ Air defenders near Odesa over the weekend [posted a reel](https://www.instagram.
 
 ---
 
-[Team Ukraine is in Saudi Arabia](https://www.economist.com/europe/2025/03/09/america-and-ukraine-prepare-for-brutal-negotiations) today yukking it up with Team USA. Andriy, Rustem, Andriy and Pavlo are meeting tomorrow with Marco, Mike and Steven to explore **a framework for peace**, whatever that is. Z has accompanied UA’s delegation, but he’ll meet with the crown prince [who ordered journalist journalist Jamal chopped up into little bits eight years ago](https://en.wikipedia.org/wiki/Assassination_of_Jamal_Khashoggi).
+[Team Ukraine is in Saudi Arabia](https://www.economist.com/europe/2025/03/09/america-and-ukraine-prepare-for-brutal-negotiations) today yukking it up with Team USA. Andriy, Rustem, Andriy and Pavlo are meeting tomorrow with Marco, Mike and Steven to explore **a framework for peace**, whatever that is. Z has accompanied UA’s delegation, but he’ll meet with the crown prince [who ordered journalist Jamal chopped up into little bits eight years ago](https://en.wikipedia.org/wiki/Assassination_of_Jamal_Khashoggi).
 
 [Image]
 
@@ -2948,7 +2948,7 @@ Mike obvi hates his job and himself.
 
 Mike, now a purveyor of totalitarian kitsch, will go down in history as one more Donald flunky, along with Elon, Marco, Pete, Scott, Tulsi, Steven, et al.
 
-Donald, btw, [says](https://www.reuters.com/world/trump-says-he-will-be-speaking-with-russias-putin-tuesday-2025-03-17/) he will will chat up Vova tomorrow to discuss the framework of *The Grand Deal,* under which Team USA intends to sell out Ukraine in exchange for an imaginary white elephant.
+Donald, btw, [says](https://www.reuters.com/world/trump-says-he-will-be-speaking-with-russias-putin-tuesday-2025-03-17/) he will chat up Vova tomorrow to discuss the framework of *The Grand Deal,* under which Team USA intends to sell out Ukraine in exchange for an imaginary white elephant.
 
 > “We will be talking about land. We will be talking about power plants,” Trump said, when asked about concessions. “I think we have a lot of it already discussed very much by both sides, [Ukraine](https://www.theguardian.com/world/ukraine) and Russia. We are already talking about that, dividing up certain assets.” — Donald
 
@@ -3240,7 +3240,7 @@ Don, btw, was also born in the Bronx.
 
 *'No one leaked war plans' - Pete *
 
-A lifeboat can only save a subset of people from a sinking ship. Who should be prioritized? The trade-off between lives introduces factors like status or survival skills. *[The rule of double effect](https://plato.stanford.edu/entries/double-effect/)* — used to evaluate the permissibility of acting when one's otherwise legitimate act may also cause an effect one would otherwise be obliged to avoid — should be be considered.
+A lifeboat can only save a subset of people from a sinking ship. Who should be prioritized? The trade-off between lives introduces factors like status or survival skills. *[The rule of double effect](https://plato.stanford.edu/entries/double-effect/)* — used to evaluate the permissibility of acting when one's otherwise legitimate act may also cause an effect one would otherwise be obliged to avoid — should be considered.
 
 Fleeing to Mars is not an option.
 
@@ -3314,7 +3314,7 @@ Steven is hopeless.
 
 At the same time Mike spouted this bullshit yesterday, Z’s hometown Kryvy Rih, population 602,000, was being rocked by the biggest Russian UAV attack of the war (above).
 
-Since Team USA-Team Ukraine offered a 30-day truce proposal to Russia in mid-March, aerial attacks have increased. In total, during the first half of March, Russia launched over 16,500 FPV drones and will set set another absolute record in March - over 20,000.
+Since Team USA-Team Ukraine offered a 30-day truce proposal to Russia in mid-March, aerial attacks have increased. In total, during the first half of March, Russia launched over 16,500 FPV drones and will set another absolute record in March - over 20,000.
 
 - **Lancet loitering munitions:** Use dropped in the third week, with just over 20 deployed, down from 32 in week 1 and 35+ in week 2. Total for the first three weeks: ~100, averaging 4-5 per day, lower than 2024's daily average.
 - **Molniya-2 kamikaze drones:** Deployment increased, with over 150 used in the third week, up from 70 in week 1 and 120 in week 2. Total for the first three weeks: 340+, showing a steady rise.
@@ -3392,7 +3392,7 @@ And:
 
 **We all know Joe Kent.** He’s currently Tulsi’s chief of staff at [ODNI](https://www.dni.gov/) pending US Senate confirmation of his nomination to lead the [National Counterterrorism Center](https://www.dni.gov/index.php/nctc-who-we-are/director-nctc).
 
-Like Tulsi, Joe has never been to Ukraine and has been been a vocal critic of US funding for Ukraine. His social media activity and public statements have consistently reflected skepticism toward continued assistance, often aligning with pro-Russia narratives about the conflict. **Key points include**:
+Like Tulsi, Joe has never been to Ukraine and has been a vocal critic of US funding for Ukraine. His social media activity and public statements have consistently reflected skepticism toward continued assistance, often aligning with pro-Russia narratives about the conflict. **Key points include**:
 
 - **Echoing pro-Russian talking points:** Joe’s posts on Twitter in 2023–2024 mirrored content from [Ukraine Watch](https://t.me/ukraine_watch), a Telegram channel endorsed by the Russia’s government. This included framing US support for Ukraine as risky and unnecessary.
 - **Defending Putin’s territorial claims:** Shortly after Russia’s 2022 all-out invasion by air, sea and land, Joe described Putin’s demands on Ukrainian territory as “very reasonable,” signaling early alignment with Kremlin positions. So did Joe’s boss, Tulsi.
@@ -3701,7 +3701,7 @@ The chapter on Ukraine in the US 2025 National Trade Estimate 377-page report, t
 
 The [EBRD](https://euneighbourseast.eu/)’s regional economic prospects [report](https://euneighbourseast.eu/news/publications/ebrds-regional-economic-prospects-report/) on Ukraine is unappetizing.
 
-> Ukraine Ukraine entered 2025 with external financing secured but facing a slowdown in economic growth and accelerating inflation. The continuation of the war and deliberate attacks by Russia on electricity infrastructure caused power shortages, high prices of imported electricity and acute labour shortages. Real GDP growth slowed markedly from over 5 per cent in the first half of 2024 to around 2 per cent in the second half of the year. The resurgence of inflation in the second half of 2024 was driven by rising electricity costs, a correction in regulated utility prices, rapid real wage growth, and currency depreciation against the US dollar following relaxation of the exchange rate peg in October 2023. Annual inflation reached 12 per cent in December 2024 and is likely to remain at a similar level in the first half of 2025 before falling back to single digits towards the end of the year. The central bank reacted by raising the policy rate twice since December 2024, from 13.0 to 14.5 per cent, with further monetary tightening likely. The budget deficit for 2025 is projected at 19.4 per cent of GDP and will be fully financed through US$ 38.4 billion in external budget financing. This includes US$ 13.7 billion from the EU under Ukraine’s Facility, US$ 22.0 billion from the G7 countries based on revenue from frozen Russian assets and US$ 2.7 billion from the IMF. The negative factors that weighed on growth in the second half of 2024 are likely to persist in 2025. On the positive side, the proven resilience and adaptability of businesses, the well-functioning Black Sea trade corridor, strong public consumption stimulus and increasing military procurement from domestic industries are expected to support economic growth. Amid extreme uncertainty, GDP growth is expected to reach 3.5 per cent in 2025 and strengthen to 5.0 per cent in 2026, provided that an agreement to suspend fighting is reached by the end of 2025.
+> Ukraine entered 2025 with external financing secured but facing a slowdown in economic growth and accelerating inflation. The continuation of the war and deliberate attacks by Russia on electricity infrastructure caused power shortages, high prices of imported electricity and acute labour shortages. Real GDP growth slowed markedly from over 5 per cent in the first half of 2024 to around 2 per cent in the second half of the year. The resurgence of inflation in the second half of 2024 was driven by rising electricity costs, a correction in regulated utility prices, rapid real wage growth, and currency depreciation against the US dollar following relaxation of the exchange rate peg in October 2023. Annual inflation reached 12 per cent in December 2024 and is likely to remain at a similar level in the first half of 2025 before falling back to single digits towards the end of the year. The central bank reacted by raising the policy rate twice since December 2024, from 13.0 to 14.5 per cent, with further monetary tightening likely. The budget deficit for 2025 is projected at 19.4 per cent of GDP and will be fully financed through US$ 38.4 billion in external budget financing. This includes US$ 13.7 billion from the EU under Ukraine’s Facility, US$ 22.0 billion from the G7 countries based on revenue from frozen Russian assets and US$ 2.7 billion from the IMF. The negative factors that weighed on growth in the second half of 2024 are likely to persist in 2025. On the positive side, the proven resilience and adaptability of businesses, the well-functioning Black Sea trade corridor, strong public consumption stimulus and increasing military procurement from domestic industries are expected to support economic growth. Amid extreme uncertainty, GDP growth is expected to reach 3.5 per cent in 2025 and strengthen to 5.0 per cent in 2026, provided that an agreement to suspend fighting is reached by the end of 2025.
 
 [1](#footnote-anchor-1)
 
@@ -5088,7 +5088,7 @@ The problem is Donald and Vova may say seem to say the same things but don’t t
 >
 > If you take our drug, your budget will shrink by about a hundred dollars a month, and if you don’t, you might suffer a complex fracture, and then you will need a wheelchair that costs $1,000, a nurse for at least six months, rehab, and so on. The future would belong to them, as it were, if they just bought the medicine. I then carefully said that I do not see a big future for this advertising material in Russia. When asked for clarification, I answered: “In Russia, they don’t think so…”
 >
-> For Putin, every position is absolute. It is not measured by a number. Not by the amount of money, not by the number of human lives. He thinks that Trump thinks the same. That they are having a fundamental dispute, an argument, a clash. Like, since I’m stubborn, then he will be stubborn too, and so we will stand on this crooked bridge bridge until someone out-butts the other. But Trump is not about that. Donald is about money (but not in the sense that Putin is). He has a calculator in his head that constantly calculates what will be cheaper for him: to be friends or to fight? And he will choose whichever is cheaper.
+> For Putin, every position is absolute. It is not measured by a number. Not by the amount of money, not by the number of human lives. He thinks that Trump thinks the same. That they are having a fundamental dispute, an argument, a clash. Like, since I’m stubborn, then he will be stubborn too, and so we will stand on this crooked bridge until someone out-butts the other. But Trump is not about that. Donald is about money (but not in the sense that Putin is). He has a calculator in his head that constantly calculates what will be cheaper for him: to be friends or to fight? And he will choose whichever is cheaper.
 
 ---
 
@@ -5756,7 +5756,7 @@ The Europeans obvi are finding it enormously tedious dealing with Team USA’s �
 
 [Image]
 
-Team USA is in the *manufacturing-intelligence-assessments-to-align-with-its- bonkers-foreign-policy-narrative* phase of our long long war, now in its 12th year.
+Team USA is in the *manufacturing-intelligence-assessments-to-align-with-its- bonkers-foreign-policy-narrative* phase of our long war, now in its 12th year.
 
 [Video: https://youtu.be/qD2zrJ6uKk8]
 
@@ -5918,7 +5918,7 @@ But that’s another story.
 
 *Inflexible Poland *
 
-Self-opening shipping containers (in the sense of automated container wall and ceiling operations) are not widely available, but there have been significant advancements, thanks to Ukraine’s secret services, which fitted dozens of them in Chelyabinsk with with electronic locks and access control systems enabling remote management.
+Self-opening shipping containers (in the sense of automated container wall and ceiling operations) are not widely available, but there have been significant advancements, thanks to Ukraine’s secret services, which fitted dozens of them in Chelyabinsk with electronic locks and access control systems enabling remote management.
 
 Dozens of first-person view drones packed with explosives were the cargo of these contraptions, disguised as modular homes, which were launch pads for the op, nicknamed [Operation Spiderweb](https://t.me/SBUkr/14947), that destroyed more than a third (34%) of Team Russia’s strategic bomber fleet worth an estimated $7 billion over the weekend.
 
@@ -6106,7 +6106,7 @@ Maybe just stick to running?
 
 [Video: https://youtu.be/YURzrkH3Ugo]
 
-Yesterday evening Team Russia posted posted a nasty clip of Vova threatening our annihilation.
+Yesterday evening Team Russia posted a nasty clip of Vova threatening our annihilation.
 
 Should we conclude he is not intending to end the invasion?
 
@@ -8105,7 +8105,7 @@ Henry and Andriy want us to celebrate Ukraine’s laboratory of democracy @[Le P
 
 > La rue s'est mobilisée. La presse ukrainienne a grondé. [Les alliés occidentaux de l'Ukraine se sont inquiétés](https://archive.ph/o/CLoRY/https://www.lepoint.fr/monde/corruption-zelensky-seme-le-trouble-24-07-2025-2595024_24.php). Mais tout ce débat, loin de conduire à la cacophonie et à la crise qu'espéraient les ennemis du dehors, a débouché sur un compromis. (ibid)
 
-Le passage sur les "170 réformes en trois ans" mérite une mention spéciale pour son lyrisme comptable. BHL énumère ces réformes avec l'enthousiasme d'un commercial vantant les mérites d'un aspirateur révolutionnaire. Digitalisation de l'économie ! Décentralisation des infrastructures ! Armée de drones financée par crowdfunding ! On croirait lire un communiqué de presse gouvernemental relu par Ronsard. Cette capacité à transformer des mesures administratives en épopée héroïque relève du pur talent littéraire – dommage que la réalité soit généralement plus prosaïque que les envolées lyriques de notre Cicéron des plateaux télé.
+Le passage sur les "170 réformes en trois ans" mérite une mention spéciale pour son lyrisme comptable. BHL énumère ces réformes avec l'enthousiasme d'un commercial vantant les mérites d'un aspirateur révolutionnaire. Digitalisation de l'économie ! Décentralisation des infrastructures ! Armée de drones financée par crowdfunding ! On croirait lire un communiqué de presse gouvernemental relu par Ronsard. Cette capacité à transformer des mesures administratives en épopée héroïque relève du pur talent littéraire – dommage que la réalité soit généralement plus prosaïque les envolées lyriques de notre Cicéron des plateaux télé.
 
 ---
 
@@ -12632,7 +12632,7 @@ Kyiv has thousands of faces. And some of them we don’t even suspect exist. Beh
 
 Chorna Hora (Black Mountain) is the very center of the mystical-hilly Pechersk Triangle, which includes Lysa and Busova mountains.
 
-The secrecy of this historic area is fully explained by its name. Lysa Hora (Bald Mountain) is shrouded in legends of people being bricked up alive, which were supported by the preserved pagan shrine with a statue of Perun, that is, until the Wickians burned it down in 2013. Busova Hora (Bus’s Mountain) is in the Hryshko Botanical Garden[2](#footnote-2). No one likes to talk about about Chorna Hora because its history is said to be much scarier. Anyway, that’s where I live, right on the blue x.
+The secrecy of this historic area is fully explained by its name. Lysa Hora (Bald Mountain) is shrouded in legends of people being bricked up alive, which were supported by the preserved pagan shrine with a statue of Perun, that is, until the Wickians burned it down in 2013. Busova Hora (Bus’s Mountain) is in the Hryshko Botanical Garden[2](#footnote-2). No one likes to talk about Chorna Hora because its history is said to be much scarier. Anyway, that’s where I live, right on the blue x.
 
 ---
 
