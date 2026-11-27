@@ -8996,7 +8996,7 @@ In other news, if your approach to debate is to decide that the other person is 
 
 [Image]
 
-In recent years I have grown to resent the EUC: the seat, the drag-and-drop, speed tilt-back and BMS cut-out. The electric unicycle is of course indispensible for some exhibitionists, but for navigating downtown Kyiv it’s like using chopsticks to pull books off of shelves. It is irritating to have to constantly dismount at traffic lights and twist around in your tight-fitting neon green flourescent hot pants. The physics of being on one wheel is inherently unstable, like most of the tattoo artists who ride them.
+In recent years I have grown to resent the EUC: the seat, the drag-and-drop, speed tilt-back and BMS cut-out. The electric unicycle is of course indispensable for some exhibitionists, but for navigating downtown Kyiv it’s like using chopsticks to pull books off of shelves. It is irritating to have to constantly dismount at traffic lights and twist around in your tight-fitting neon green flourescent hot pants. The physics of being on one wheel is inherently unstable, like most of the tattoo artists who ride them.
 
 ---
 
