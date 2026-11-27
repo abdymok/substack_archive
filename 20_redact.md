@@ -3620,7 +3620,7 @@ It’s very early in Kyiv and videos of tortured Belarusians are being uploaded 
 
 The clips should be translated verbatim, dubbed, subtitled in dozens of languages, circulated widely and studied.
 
-It’s a shame Karatkievich, Bykov and Baradullin aren’t around to witness the brutal reality of what might become the happy ending of their country’s 25-year old nightmare.
+It’s a shame Karatkievich, Bykov and Baradullin aren’t around to witness the brutal reality of what might become the happy ending of their country’s 25-year-old nightmare.
 
 Karatkievich, who reminds me of the charging night on horseback, died when the Soviet Union was imploding. Ten years later, Baradullin and Bykov warned future generations might lose their way or be led astray by wacko despots.
 
@@ -4367,7 +4367,7 @@ Andrei Sannikov [obliged](https://www.facebook.com/andrei.sannikov.1/posts/37037
 
 At least four - and probably many more - English-language journalists say Putin’s meeting with Lukashenko in Sochi on Monday could determine the outcome of the revolution in Belarus.
 
-That’s a problem, because **western journalists are not there**.
+That’s a problem, because **Western journalists are not there**.
 
 ---
 
@@ -4575,7 +4575,7 @@ Kolesnikov says demonstrators in Belarus are clearly aware of the derisive, poli
 
 [Image]
 
-Signs poke fun of riot police using slang in the familiar \*you\* form. Some protesters wear colored masks and fake police uniforms with profane labels on their backs.
+Signs poke fun at riot police using slang in the familiar \*you\* form. Some protesters wear colored masks and fake police uniforms with profane labels on their backs.
 
 [Image]
 
@@ -4613,7 +4613,7 @@ cf. [Dialogue. Carnival. Chronotope](http://nevmenandr.net/dkx/)
 
 *Date: 2020-09-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
-*This whole is not a seamless coneness*
+*This whole is not a seamless oneness*
 
 [Image]
 
