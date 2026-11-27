@@ -1585,7 +1585,7 @@ I bumped into a very long line on the walk home last night. It signifies that Uk
 
 On the Team USA jacket, [I listened to Speaker Mike](https://www.c-span.org/video/?533580-1/house-republican-leadership-news-conference), who continues to put base politics ahead of national security interests. The MAGA maggot our-way-or-the-highway approach is doomed to failure.
 
-David at [The Atlantic](http://theatlantic.com) examines [Republican Party, Inc](https://www.theatlantic.com/ideas/archive/2024/02/republicans-are-no-longer-political-party/677437/), reminding me of Anne’s harping about about how *unreliable, unserious and silly* Team USA has become[1](#footnote-1).
+David at [The Atlantic](http://theatlantic.com) examines [Republican Party, Inc](https://www.theatlantic.com/ideas/archive/2024/02/republicans-are-no-longer-political-party/677437/), reminding me of Anne’s harping about how *unreliable, unserious and silly* Team USA has become[1](#footnote-1).
 
 [1](#footnote-anchor-1)
 
@@ -2354,7 +2354,7 @@ I leave you with today’s presidential pep talk.
 
 [Image]
 
-A major European city, Odesa, was hit with a ballistic missile in broad daylight, after a 5-hour long major drone attack overnight, during the funeral of a mother and her 4-month month old baby, who were killed last week with four other children. One dozen people died in that attack.
+A major European city, Odesa, was hit with a ballistic missile in broad daylight, after a 5-hour long major drone attack overnight, during the funeral of a mother and her 4-month old baby, who were killed last week with four other children. One dozen people died in that attack.
 
 [Video: https://youtu.be/J1S1N1mMihQ]
 
@@ -3327,7 +3327,7 @@ On the military jacket, Ukraine’s new Commander-in-Chief Oleksander Syrsky has
 
 **There are many things wrong with it**, including the translation.
 
-It’s okay to look on the bright side and sound upbeat about the war, but no one is interested in bullshit. This is one reason Syrsky’s predecessor was so popular: he called spades spades, unlike Z and his sycophants.
+It’s okay to look on the bright side and sound upbeat about the war, but no one is interested in bullshit. This is one reason Syrsky’s predecessor was so popular: he called spades, unlike Z and his sycophants.
 
 Yuriy has all the details:
 
@@ -3385,7 +3385,7 @@ And, finally, Chornomorsk native Ihor Verys [has won](https://www.irunfar.com/ih
 
 [Image]
 
-Whatever quid pro quo arrangement was reached in 2021 with the mob squad in Moscow to stop zapping American public servants has obvi blown up in Team USA’s face. Not pretty. The kurfuffle leaves leaves Avril waiving around the [NIH report on AHIs](https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities), and the State Department’s bureau for intelligence and research (INR) agreeing awkwardly with the assessment in public.
+Whatever quid pro quo arrangement was reached in 2021 with the mob squad in Moscow to stop zapping American public servants has obvi blown up in Team USA’s face. Not pretty. The kurfuffle leaves Avril waiving around the [NIH report on AHIs](https://www.nih.gov/news-events/news-releases/nih-studies-find-severe-symptoms-havana-syndrome-no-evidence-mri-detectable-brain-injury-or-biological-abnormalities), and the State Department’s bureau for intelligence and research (INR) agreeing awkwardly with the assessment in public.
 
 [Image]
 
@@ -3729,9 +3729,7 @@ SpaceX (known as Cosmolot), owned by Sergey Potapov and British businessman Arnu
 
 [Image]
 
-[[Image]Ukraine Economic Outlook WEEKLY
-
-Weekly monitoring of the securities market, commodities, cryptocurrencies. Review of the Ukrainian foreign exchange market and exchange rate forecast for the month ahead.
+[[Image]Ukraine Economic Outlook WEEKLY monitoring of the securities market, commodities, cryptocurrencies. Review of the Ukrainian foreign exchange market and exchange rate forecast for the month ahead.
 
 By Kyiv office](https://ueoweekly.substack.com?utm_source=substack&utm_campaign=publication_embed&utm_medium=web)
 
@@ -4165,7 +4163,7 @@ Also appearing in [The Atlantic](http://theatlantic.com) is a zillion-word artic
 
 ---
 
-On the Kyiv jacket, something went BOOM BOOM BOOM early this morning. Ukraine’s Air Force says it shot down 15 Iranian Shahed drones, so maybe that.
+On the Kyiv jacket, something went BOOM BOOM early this morning. Ukraine’s Air Force says it shot down 15 Iranian Shahed drones, so maybe that.
 
 [Image]
 
@@ -5610,7 +5608,7 @@ That said, what [The Washington Post](http://wapo.st) put their top editor throu
 
 *Whale songs and trout-flavored buns*
 
-We listened to the entire press press conference.
+We listened to the entire press conference.
 
 [Video: https://youtu.be/SphgMPF-4i0]
 
@@ -7977,7 +7975,7 @@ A deterministic pure strategy is guaranteed to fail because it suggests the dive
 
 [Image]
 
-Rationality is itself another tragedy of the commons. That’s when there are are two groups of people who are rational collectively but not jointly.
+Rationality is itself another tragedy of the commons. That’s when there are two groups of people who are rational collectively but not jointly.
 
 The irrational pink blob above we wrote about way back in April continues to expand[1](#footnote-1). Fall-back defensive positions, alas, are still nowhere to be found.
 
@@ -9033,7 +9031,7 @@ Or Ollie:
 
 Or better ask [Николаевский Ванёк](https://t.me/vanek_nikolaev/26273), who has over 2 million followers on Telegram.
 
-> […] Given the absolutely fucked-up communication from bottom to top, when commanders in the field are reporting *who the fuck knows knows what* to their superiors — and this is the case absolutely in ALL axis (except two, and that's because they changed the commanders there, appointing competent ones) — we may not be ready for the next fuck-up, and, again, we will have put out another “fire,” pulling important units from rest/preparation ahead of time. […]
+> […] Given the absolutely fucked-up communication from bottom to top, when commanders in the field are reporting *who the fuck knows what* to their superiors — and this is the case absolutely in ALL axis (except two, and that's because they changed the commanders there, appointing competent ones) — we may not be ready for the next fuck-up, and, again, we will have put out another “fire,” pulling important units from rest/preparation ahead of time. […]
 
 So, basically, almost total chaos, a command-and-control, er, breakdown.
 
@@ -10367,7 +10365,7 @@ I don’t know whether Z has made it back to Kyiv yet.
 
 [Video: https://youtu.be/tbjmIF74Pzg]
 
-The president was all about about bomb strikes in Zaporizhia in yesterday’s [pep talk](https://t.me/V_Zelenskiy_official/11866).
+The president was all about bomb strikes in Zaporizhia in yesterday’s [pep talk](https://t.me/V_Zelenskiy_official/11866).
 
 [Image]
 
@@ -10884,7 +10882,7 @@ There is a lot wrong with Keith’s essay. As I recall, he was one of the many j
 
 [Image]
 
-The Salomon Speed Cross is obvi the best choice for for stair running in warmer temperatures. The workouts fall into the category of plyometrics or neuromuscular training that decreases injury rates, improves speed and agility, vertical jump and ground contact agility.
+The Salomon Speed Cross is obvi the best choice for stair running in warmer temperatures. The workouts fall into the category of plyometrics or neuromuscular training that decreases injury rates, improves speed and agility, vertical jump and ground contact agility.
 
 The best — and most treacherous — route is along the outer walls of Kyiv Pechersk Lavra.
 
@@ -11588,7 +11586,7 @@ He says two key questions should be discussed:
 
 ---
 
-Z and his potent managers are about as *logical* as as Putin is *bound by rationality*. The either-or fallacy observed by Pastukhov presents two options — victory or defeat — as the only possibilities, while in reality more alternatives exist. The oversimplification is misleading, because it presents a choice between two extremes, disregarding other viable options. The hypothetical “vicious circle of syllogisms” Ukrainians are trapped in are examples of logical, deductive reasoning (two premises followed by a conclusion).
+Z and his potent managers are about as *logical* as Putin is *bound by rationality*. The either-or fallacy observed by Pastukhov presents two options — victory or defeat — as the only possibilities, while in reality more alternatives exist. The oversimplification is misleading, because it presents a choice between two extremes, disregarding other viable options. The hypothetical “vicious circle of syllogisms” Ukrainians are trapped in are examples of logical, deductive reasoning (two premises followed by a conclusion).
 
 *We*, at least *I*, certainly can’t be accused of that.
 
