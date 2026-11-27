@@ -4274,7 +4274,6 @@ Belarusian poet Vladimir Neklyaev, meanwhile, had this to say in an [interview](
 >
 > For what reason? Because both Minsk and Belarus have denied him power, the authority he, after deceiving the people, ascribed to himself in the Constitution and considered eternal. Why isn't he shooting yet? He is not shoot only because he lacks sufficient forces to deploy against Minsk and the entire country,” Neklyaev [said](https://belaruspartisan.by/politic/511719/).
 
-###
 
 ---
 
