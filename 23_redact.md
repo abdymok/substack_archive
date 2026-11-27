@@ -6235,7 +6235,7 @@ In other news, Catholics around the world are shaking their heads after the late
 
 It takes a special kind of stupid to say what the Pope said, much less think it. We consign the leader of 1 billion+ to the smelly sock drawer.
 
-On the domestic front, Z gave an one-hour weird and fawning TV interview to Наталія Мосейчук (@1+1), who dilligently reposted bits of it on her [Instagram page](https://www.instagram.com/moseichuk.official/).
+On the domestic front, Z gave a one-hour weird and fawning TV interview to Наталія Мосейчук (@1+1), who diligently reposted bits of it on her [Instagram page](https://www.instagram.com/moseichuk.official/).
 
 [Video: https://youtu.be/g\_jbz7w-Rks]
 
