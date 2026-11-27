@@ -4,7 +4,7 @@
 
 ---
 
-## This is (still) 'ukraine@war' 
+## This is (still) 'ukraine@war'
 
 *Date: 2023-01-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -286,7 +286,7 @@ Joe Biden. [Reuters](https://reut.rs/3ib4LsU) (January 6, 2022)
 
 ---
 
-## Getting Killed for Nothing 
+## Getting Killed for Nothing
 
 *Date: 2023-01-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -436,7 +436,7 @@ Alas, American policy makers remain confused, especially House Armed Services Ch
 
 ---
 
-## The 36-page Egg 
+## The 36-page Egg
 
 *Date: 2023-02-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -534,7 +534,7 @@ Moral of the story: Aleksandra’s sources are unreliable.
 
 ---
 
-## Fungible Ukraine 
+## Fungible Ukraine
 
 *Date: 2023-02-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -716,7 +716,7 @@ While death claims all in the end, it is the struggle to survive that defines li
 
 ---
 
-## Day 1 Year 2 
+## Day 1 Year 2
 
 *Date: 2023-02-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -758,7 +758,7 @@ Looking on the bright side, all these experts hate themselves for *doing their j
 
 ---
 
-## Day 2 Year 2 
+## Day 2 Year 2
 
 *Date: 2023-02-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -782,7 +782,7 @@ And Chien-Chi published an [album](https://www.mirrormedia.mg/projects/ccc_ukrai
 
 ---
 
-## Day 3 Year 2 
+## Day 3 Year 2
 
 *Date: 2023-02-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -820,7 +820,7 @@ Spring is next week, so I will get the bicycle in shape over the weekend. Walkin
 
 ---
 
-## Day 5 Year 2 
+## Day 5 Year 2
 
 *Date: 2023-02-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -850,7 +850,7 @@ The big news in Kyiv this week is that it’s no longer winter. Spring starts on
 
 ---
 
-## Day 6 Year 2 
+## Day 6 Year 2
 
 *Date: 2023-02-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -888,7 +888,7 @@ Ukraine’s aisles of anti-corruption *bricolage* teem with generations of yello
 
 ---
 
-## Day 7 Year 2 
+## Day 7 Year 2
 
 *Date: 2023-03-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -922,7 +922,7 @@ He may look tough and talk tough but people who know Maksym say he is warm and l
 
 ---
 
-## Day 8 Year 2 
+## Day 8 Year 2
 
 *Date: 2023-03-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -956,7 +956,7 @@ And let’s introduce MP Kira Rudyk to Kevin McCarthy, Speaker of the House and 
 
 ---
 
-## Day 9 Year 2 
+## Day 9 Year 2
 
 *Date: 2023-03-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -976,7 +976,7 @@ Looking on the bright side, running season has started.
 
 ---
 
-## Day 10 Year 2 
+## Day 10 Year 2
 
 *Date: 2023-03-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1002,7 +1002,7 @@ I forget how, exactly, we got Slavomir out of jail, but Ales and [Garry](https:/
 
 ---
 
-## Day 12 Year 2 
+## Day 12 Year 2
 
 *Date: 2023-03-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1024,7 +1024,7 @@ Yuck.
 
 ---
 
-## Day 13 Year 2 
+## Day 13 Year 2
 
 *Date: 2023-03-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1072,7 +1072,7 @@ Intelligence officials suspect Ukraine partisans behind Nord Stream bombings, ra
 
 ---
 
-## Day 14 Year 2 
+## Day 14 Year 2
 
 *Date: 2023-03-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1112,7 +1112,7 @@ Boom! @03.55. Probably am anti-missile batteries popping off.
 
 ---
 
-## Day 14 Year 2 (cont'd) 
+## Day 14 Year 2 (cont'd)
 
 *Date: 2023-03-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1136,7 +1136,7 @@ We recall almost being blown to smithereens by a Kh-101 on Day 230, October 10, 
 
 ---
 
-## Day 15 Year 2 
+## Day 15 Year 2
 
 *Date: 2023-03-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1168,7 +1168,7 @@ Which reminds me of taking a different photograph in tricky light [a couple of y
 
 ---
 
-## Inertial Ukraine 
+## Inertial Ukraine
 
 *Date: 2023-03-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1255,7 +1255,7 @@ Toronto TV did a piece about the unit after the Kharkiv counteroffensive this fa
 
 ---
 
-## Day Whatever 
+## Day Whatever
 
 *Date: 2023-03-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1329,7 +1329,7 @@ Happy Birthday!
 
 ---
 
-## Day 387 
+## Day 387
 
 *Date: 2023-03-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1437,7 +1437,7 @@ Under the circumstances, legalizing recreational Psilocybin and marijuana is pro
 
 ---
 
-## Messrs. Xi and Putin 
+## Messrs. Xi and Putin
 
 *Date: 2023-03-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1625,7 +1625,7 @@ I think about the mess differently, because my intellectual political baggage is
 
 ---
 
-## Poem of the Day 
+## Poem of the Day
 
 *Date: 2023-03-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1751,7 +1751,7 @@ Czeslaw Milosz
 
 ---
 
-## Day 400 
+## Day 400
 
 *Date: 2023-03-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1833,7 +1833,7 @@ From the [PDF archive](https://archive.kyivpost.com/PDF-archive/issue).
 
 ---
 
-## Look Over There 
+## Look Over There
 
 *Date: 2023-04-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1895,7 +1895,7 @@ In possibly-related other news, the Poles on April 5, 2023 in Warsaw bestowed up
 
 ---
 
-## Day 408 
+## Day 408
 
 *Date: 2023-04-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1937,7 +1937,7 @@ According to Vitaliy Portnikov, Putin’s objective remains the same: to obliter
 
 ---
 
-## Day 411 
+## Day 411
 
 *Date: 2023-04-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1963,7 +1963,7 @@ There is an active anti-Ukraine leaker on the loose. Our priority should be iden
 
 ---
 
-## Day 412 
+## Day 412
 
 *Date: 2023-04-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2023,7 +2023,7 @@ OG used to mean [Original Gangster](https://www.urbandictionary.com/define.php?t
 
 ---
 
-## Day 416 
+## Day 416
 
 *Date: 2023-04-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2147,7 +2147,7 @@ The reckoning won’t be pleasant.
 
 ---
 
-## Day 420 
+## Day 420
 
 *Date: 2023-04-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2709,7 +2709,7 @@ Another option — but I should prob agree with security first — is running ar
 
 ---
 
-## Day 442 
+## Day 442
 
 *Date: 2023-05-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2721,7 +2721,7 @@ Another option — but I should prob agree with security first — is running ar
 
 ---
 
-## Day 443 
+## Day 443
 
 *Date: 2023-05-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2955,7 +2955,7 @@ When straightening up, I saw the blue sea and sails.
 
 ---
 
-## Day 447 
+## Day 447
 
 *Date: 2023-05-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2993,7 +2993,7 @@ Here’s what Ukraine’s Armed Forces said was shot down:
 
 ---
 
-## Day 448 
+## Day 448
 
 *Date: 2023-05-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3019,7 +3019,7 @@ Why? Because we should know better.
 
 ---
 
-## Day 449 
+## Day 449
 
 *Date: 2023-05-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3097,7 +3097,7 @@ It’s complicated.
 
 ---
 
-## Day 451 
+## Day 451
 
 *Date: 2023-05-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3167,7 +3167,7 @@ Google’s GPS is apparently working again.
 
 ---
 
-## Day 453 
+## Day 453
 
 *Date: 2023-05-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3638,7 +3638,7 @@ Practicing philosopher [Vladimir Pastukhov](https://ru.wikipedia.org/wiki/%D0%9F
 
 ---
 
-## Day 464 
+## Day 464
 
 *Date: 2023-06-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3857,7 +3857,7 @@ Maybe identify and produce the EIA agent(s) and their interlocutors. We’ll ask
 
 ---
 
-## Day 470 
+## Day 470
 
 *Date: 2023-06-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3903,7 +3903,7 @@ Congratulations!
 
 ---
 
-## Day 471 
+## Day 471
 
 *Date: 2023-06-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4027,7 +4027,7 @@ I focus on this part of the front, because I have friends fighting there. Probab
 
 ---
 
-## Day 473 
+## Day 473
 
 *Date: 2023-06-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4104,7 +4104,7 @@ My immediate **fuck you** reaction to these two paragraphs could stem from the f
 
 ---
 
-## Day 481 
+## Day 481
 
 *Date: 2023-06-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4146,7 +4146,7 @@ The *[news](https://censor.net/ua/news/3425540/u_shevchenkivskomu_rayisudi_kyyev
 
 ---
 
-## Day 483 
+## Day 483
 
 *Date: 2023-06-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4250,7 +4250,7 @@ ATACMs are nice, but we need the third A to end this bloody mess.
 
 ---
 
-## Day 485 
+## Day 485
 
 *Date: 2023-06-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4274,7 +4274,7 @@ The cover, which reads “This is not a counteroffensive - this is a bloody cras
 
 ---
 
-## Day 486 
+## Day 486
 
 *Date: 2023-06-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4380,7 +4380,7 @@ In other news, practicing Russian philosopher Vladimir Pastukhov [observes](http
 
 ---
 
-## Day 489 
+## Day 489
 
 *Date: 2023-06-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4432,7 +4432,7 @@ Russia “came apart at the seams” last year. That was Day 150ish, when we all
 
 ---
 
-## Day 490 
+## Day 490
 
 *Date: 2023-06-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4468,7 +4468,7 @@ But that’s another story. Looking on the bright side, maybe David won’t tell
 
 ---
 
-## Day 491 
+## Day 491
 
 *Date: 2023-06-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4490,7 +4490,7 @@ Maybe Avril can ask Tiger Team to dig up *all* their archived convos since, er, 
 
 ---
 
-## Day 492 
+## Day 492
 
 *Date: 2023-06-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4508,7 +4508,7 @@ In other news, cupcake graduated college, becoming a member of the third generat
 
 ---
 
-## Day 493 
+## Day 493
 
 *Date: 2023-07-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4572,7 +4572,7 @@ A [friend of mine](https://www.instagram.com/p/CuDH_XcsR4z/?utm_source=ig_web_co
 
 ---
 
-## Day 496 
+## Day 496
 
 *Date: 2023-07-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4702,7 +4702,7 @@ On the 500th day of the war, let us rededicate ourselves to the straightforward 
 
 ---
 
-## Day 501 
+## Day 501
 
 *Date: 2023-07-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4788,7 +4788,7 @@ Ukrainians Die as America Dawdles. *Fears of ‘escalation’ leave Russia feeli
 
 ---
 
-## Day 503 
+## Day 503
 
 *Date: 2023-07-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4942,7 +4942,7 @@ Russia’s president is quoted saying he hopes they will continue fighting.
 
 ---
 
-## Day 508 
+## Day 508
 
 *Date: 2023-07-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5507,7 +5507,7 @@ Feel it again
 
 ---
 
-## Day 518 
+## Day 518
 
 *Date: 2023-07-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5575,7 +5575,7 @@ I stopped reading after the first *key assessment:*
 
 ---
 
-## Day 520 
+## Day 520
 
 *Date: 2023-07-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5863,7 +5863,7 @@ And on a street corner in suburban Washington, D.C. Mike Flynn is accosting pass
 
 ---
 
-## Day 532 
+## Day 532
 
 *Date: 2023-08-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6064,7 +6064,7 @@ It was a bad idea then and it’s a bad idea now.
 
 ---
 
-## Day 545 
+## Day 545
 
 *Date: 2023-08-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6962,7 +6962,7 @@ Editors at [The Washington Post](http://wapo.st) propose this **complicated comp
 
 ---
 
-## Day 581 
+## Day 581
 
 *Date: 2023-09-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7072,7 +7072,7 @@ In other news, I have inherited an Iphone and am enjoying playing silly games wi
 
 ---
 
-## Day 583 
+## Day 583
 
 *Date: 2023-09-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7192,7 +7192,7 @@ And, finally, Andreas [@bloomberg](https://www.bloomberg.com/opinion/articles/20
 
 ---
 
-## Day 588 
+## Day 588
 
 *Date: 2023-10-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7236,7 +7236,7 @@ I was immediately reminded of rural areas in the state of Kentucky.
 
 ---
 
-## Day 589 
+## Day 589
 
 *Date: 2023-10-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7374,7 +7374,7 @@ Miles [@RollingStone](https://www.rollingstone.com/culture/culture-commentary/el
 
 ---
 
-## Day 593 
+## Day 593
 
 *Date: 2023-10-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7494,7 +7494,7 @@ The five pillars of CQB are (1) gaining access (2) making entry (3) securing the
 
 ---
 
-## Day 595 
+## Day 595
 
 *Date: 2023-10-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7684,7 +7684,7 @@ Looking on the positive side, Penny knows a lot about the sort of graft that hob
 
 ---
 
-## Day 602 
+## Day 602
 
 *Date: 2023-10-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7716,7 +7716,7 @@ Song of the Day: Beverly Hills
 
 ---
 
-## Day 603 
+## Day 603
 
 *Date: 2023-10-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7828,7 +7828,7 @@ Externalities (climate change, pandemics, technological change, wars of aggressi
 
 ---
 
-## Day 605 
+## Day 605
 
 *Date: 2023-10-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8102,7 +8102,7 @@ Read more
 
 ---
 
-## Day 616 
+## Day 616
 
 *Date: 2023-11-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8210,7 +8210,7 @@ The mural reminded me of this[1](#footnote-1) and this[2](#footnote-2).
 
 ---
 
-## Day 620 
+## Day 620
 
 *Date: 2023-11-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8276,7 +8276,7 @@ As for seeking a ceasefire with Putin, practicing philosopher Volodymyr Pastukho
 
 ---
 
-## Day 621 
+## Day 621
 
 *Date: 2023-11-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8368,7 +8368,7 @@ And looking on the bright side — we always try to look on the bright side — 
 
 ---
 
-## Day 623 
+## Day 623
 
 *Date: 2023-11-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8409,7 +8409,7 @@ What could go wrong? Don’t look up!
 
 ---
 
-## Day 624 
+## Day 624
 
 *Date: 2023-11-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8443,7 +8443,7 @@ But…
 
 ---
 
-## Day 625 
+## Day 625
 
 *Date: 2023-11-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8590,7 +8590,7 @@ Oh, and Roman Chervinsky[3](#footnote-3)[4](#footnote-4). He’s still in jail.
 
 ---
 
-## Day 631 
+## Day 631
 
 *Date: 2023-11-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8710,7 +8710,7 @@ Maintaining the rules-based international order is, in the long run, very good f
 
 ---
 
-## Day 636 
+## Day 636
 
 *Date: 2023-11-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8784,7 +8784,7 @@ In other news, Chervinsky is still in [pre-trial confinement](https://censor.net
 
 ---
 
-## Day 638 
+## Day 638
 
 *Date: 2023-11-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9503,7 +9503,7 @@ Oh, and this from [Madiar](https://t.me/robert_magyar/733), the drone guy:
 
 ---
 
-## Day 659 
+## Day 659
 
 *Date: 2023-12-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9551,7 +9551,7 @@ We applaud the decision to cancel Masha’s prize, for what we think should be o
 
 ---
 
-## Day 660 
+## Day 660
 
 *Date: 2023-12-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9583,7 +9583,7 @@ On Thursday, Z slipped into his black pajamas and [visited](https://www.straitst
 
 ---
 
-## Day 662 
+## Day 662
 
 *Date: 2023-12-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9645,7 +9645,7 @@ Finally, [this](https://www.politico.com/news/2023/12/16/senators-no-imminent-de
 
 ---
 
-## Day 663 
+## Day 663
 
 *Date: 2023-12-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9683,7 +9683,7 @@ We all remember “[Operation Y](https://abdymok.substack.com/p/operation-y-cont
 
 ---
 
-## Day 664 
+## Day 664
 
 *Date: 2023-12-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9769,7 +9769,7 @@ So, more of this:
 
 ---
 
-## Day 669ish 
+## Day 669ish
 
 *Date: 2023-12-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
