@@ -2253,7 +2253,7 @@ A good rule of thumb is to believe \*nothing\* Ukraine's healthcare officials sa
 
 At the beginning of the outbreak, Ukraine had a chance to contain the novel virus by identifying each person bringing the infection into the country and stopping it before it spread in the community.
 
-President Volodymyr Zelensky [told](https://www.president.gov.ua/en/news/glava-derzhavi-postaviv-nizku-zavdan-kabinetu-ministriv-z-me-59533?fbclid=IwAR0b_JJ8MvMwFhAxs3H5IMbzQYJ4TXvrTrLkK7CYG_e0R_wip2kvdrzzdzs)us not to worry on January 31.
+President Volodymyr Zelensky [told](https://www.president.gov.ua/en/news/glava-derzhavi-postaviv-nizku-zavdan-kabinetu-ministriv-z-me-59533?fbclid=IwAR0b_JJ8MvMwFhAxs3H5IMbzQYJ4TXvrTrLkK7CYG_e0R_wip2kvdrzzdzs) us not to worry on January 31.
 
 [Image]
 
@@ -2281,13 +2281,13 @@ The idea that restrictions imposed in March could be lifted after hospitals were
 
 Ukraine’s Prosecutor General Iryna Venediktova early on May 20, 2020 opened a criminal case over so-called "Biden recordings" after a talk with Ukrainian President Volodymyr Zelensky after the latter himself confirmed his personal interest in this case.
 
-That what Ilya Novikov, the lawyer for former Petro Poroshenko, said during a press conference on May 20 in Kyiv.
+That was what Ilya Novikov, the lawyer for former President Petro Poroshenko, said during a press conference on May 20 in Kyiv.
 
 > "A criminal case into the so-called 'Biden's recordings' was opened early this morning …which itself in cases relating to the events happened four years ago testifies some particular interest of the leadership of the Office of Prosecutor General towards this issue," Novikov said at a press conference at [Interfax-Ukraine](https://en.interfax.com.ua/news/press-conference/663639.html).
 
 According to Novikov, there is information, which will be verified and specified, that the case was initiated following a conversation between Venediktova and Zelensky.
 
-The lawyer said the Zelensky demonstrated his personal interest in the given issue by statements he made at on May 20 at a the press conference marking his first year as president.
+The lawyer said Zelensky demonstrated his personal interest in the given issue by statements he made at the press conference on May 20 marking his first year as president.
 
 > "Zelensky said he is sure that Poroshenko's (guilty) verdict is a matter of time and that it is possible to qualify actions under the article of state treason… He thus publicly outlined his position... as a person who directly coordinates and is directly interested in these proceedings," the lawyer said.
 
@@ -2299,7 +2299,7 @@ Novikov said Poroshenko's defense team will try to establish the source of the l
 
 > "It (a source of records) could be from the American side. But Zelensky's statements and the behavior of the President's Office, the behavior of the Prosecutor General, speak in favor of the version that the recording could have come from the Ukrainian side, which is a huge problem and can undermine the possibility of conducting confidential conversations... with any foreign partners," the lawyer said.
 
-In turn, the lawyer Ihor Golovan noted that an important point was if the case if a subject of the Criminal Code. In particular, according to him, we are not talking about the disclosure of state secrets, confidentiality of correspondence or unlawful interception.
+In turn, the lawyer Ihor Golovan noted that an important point was whether the case is covered by the Criminal Code. In particular, according to him, we are not talking about the disclosure of state secrets, confidentiality of correspondence or unlawful interception.
 
 > "Those who registered criminal proceedings may be leery of divulging that the President's Office was the source of this whole story," Golovan said.
 
@@ -2307,9 +2307,9 @@ The lawyer said Zelensky "actually voiced the order" to open the case during his
 
 > "Along with our appeal about a deliberately false report about the crime, we will also insist on the fact of yesterday's press conference (MP Andriy Derkach, at which he voiced audio material about Biden's alleged pressure on Poroshenko, on the basis of which the PGO opened criminal proceedings), as well as on the fact of today's actions, when at the president's press conference his statements can be interpreted ... as an attempt to create the impression that the published fabrications were reliable (cases were opened)... These actions, taken together, look like high treason," Golovan said.
 
-As reported, on May 19, Derkach said he received the recordings from investigative journalists, and Poroshenko personally made recordings of his conversations with top U.S. officials, including former U.S. Secretary of State John Kerry and former U.S. Presdident Joe Biden, in 2015 and 2016.
+As reported, on May 19, Derkach said he received the recordings from investigative journalists, and Poroshenko personally made recordings of his conversations with top U.S. officials, including former U.S. Secretary of State John Kerry and former U.S. President Joe Biden, in 2015 and 2016.
 
-On May 20, Ukraine’s Prosecutor General’s Office entered in the Unified Register of Pretrial Investigations information about an article on high treason and abuse of power or official position at the request MP Derkach (independent). Derkach on Tuesday published audio materials that may indicate the influence of former U.S. Vice President Joseph Biden on Poroshenko.
+On May 20, Ukraine’s Prosecutor General’s Office entered in the Unified Register of Pretrial Investigations information about an article on high treason and abuse of power or official position at the request of MP Derkach (independent). Derkach on Tuesday published audio materials that may indicate the influence of former U.S. Vice President Joseph Biden on Poroshenko.
 
 ---
 
@@ -2332,7 +2332,7 @@ On May 20, Ukraine’s Prosecutor General’s Office entered in the Unified Regi
 
 [FoxNews](https://www.foxnews.com/politics/zelensky-probe-audio-biden-ukraine), [The Guardian](https://www.theguardian.com/world/2020/may/20/ukraine-joe-biden-petro-poroshenko-recordings-investigation), [The Washington Post](https://www.washingtonpost.com/national-security/ukrainian-lawmaker-releases-leaked-phone-calls-of-biden-and-poroshenko/2020/05/19/cc1e6030-9a26-11ea-b60c-3be060a4f8e1_story.html), [Euronews](https://www.euronews.com/2020/05/21/ukraine-opens-probe-into-leaked-biden-poroshenko-tapes), [Newsweek](https://www.newsweek.com/joe-biden-leaked-ukraine-calls-released-russian-special-operation-ex-president-claims-1505685), [Mother Jones](https://www.motherjones.com/politics/2020/05/a-new-giuliani-like-effort-to-smear-biden-over-ukraine-falls-flat/), [Bloomberg](https://www.bloomberg.com/news/articles/2020-05-20/what-we-learned-from-leaked-biden-tapes-and-what-we-didn-t), [The Daily Beast](https://www.thedailybeast.com/who-leaked-bidens-calls-to-ukraine), [The Independent](https://www.independent.co.uk/news/world/europe/ukraine-president-volodymyr-zelensky-mask-impeachment-news-a9524726.html), et cetera wrote about the leak, which was promoted a day earlier by [thousands of Kremlin bots](https://twitter.com/search?q=biden%20poroshenko&src=typed_query) and [pro-Trumpy ezines](https://www.zerohedge.com/geopolitical/phone-calls-between-quid-pro-joe-biden-and-ukraines-poroshenko-leak-explicitly-details). Even renowned Ukraine expert Nina Jankowicz had something to [say](https://twitter.com/wiczipedia/status/1262883314987302912). But ***all*** these stories and self-aggrandizing Twitter dot com posts missed the point.
 
-**On May 20**, President Volodymyr Zelensky was also eager to talk about the leak at a press conference teeming with pro-Russia trolls in Kyiv. He confirmed that the Prosecutor General’s Office had indeed registered a investigation of possible treason committed by Poroshenko based on the recordings.
+**On May 20**, President Volodymyr Zelensky was also eager to talk about the leak at a press conference teeming with pro-Russia trolls in Kyiv. He confirmed that the Prosecutor General’s Office had indeed registered an investigation of possible treason committed by Poroshenko based on the recordings.
 
 > “Yes, I heard about the [scandal] involving Poroshenko and Biden. I will comment about this. I don't think this is the last case Ukrainians, citizens of Ukraine, will hear about (*це не останній дзвінок,який побачать українці*). It's the job of Prosecutor General's Office and law-enforcement agencies to respond. I know that the Prosecutor General's Office yesterday registered a pretrial investigation on possible treason pursuant to the appeal by member of parliament Andriy Derkach. They will investigate. I know that [what Poroshenko said] may be qualified in the criminal proceeding as state treason. This is up to law-enforcement agencies to decide.” Zelensky [said](https://www.youtube.com/watch?v=jjOYcKTjudw&feature=emb_logo).
 
@@ -2371,11 +2371,11 @@ Novopecherski Lipky has got to be one of the worst places in Kyiv, maybe in the 
 
 Which brings us to the question of what exactly the gang of Montenegrin killers was thinking when they tracked down and shot at their target, reportedly a rival drug cartel boss, during the evening of May 26.
 
-Deputy Interior Minister Anton Gerashchenko posted a video of the actual hit [here](https://www.facebook.com/100002305693349/videos/2988345961252231/). The target was heavyset jogger wearing a face mask.
+Deputy Interior Minister Anton Gerashchenko posted a video of the actual hit [here](https://www.facebook.com/100002305693349/videos/2988345961252231/). The target was a heavyset jogger wearing a face mask.
 
 Two of the would-be killers were caught on camera after the assassination attempt. They don’t appear to be experienced assassins. Why such a small car?
 
-Ukraine’s National Police Chief [said](https://kyivoperativ.info/other/nacpoliciya-zatrimala-grupu-inozemnix-kileriv-za-zamax-na-vbivstvo-gromadyanina-chornogori%D1%97-u-stolici-igor-klimenko/?fbclid=IwAR2TtSQGtXnsGafPaW_UL5J32yHGUbb84e-ecBamHvTJEdjWyO7JdgsCmbE) the men arrived in early May from the Balkans, purchased, vehicles, automatic firearms and organized surveillance of their target and his family. On May 26 at around 18:30, two men fired five shots at their victim, wounding him, before driving their go-cart a couple of hundred of meters and setting it and themselves ablaze. Police said the shooters were waiting for their accomplices and panicked after the failed to show up.
+Ukraine’s National Police Chief [said](https://kyivoperativ.info/other/nacpoliciya-zatrimala-grupu-inozemnix-kileriv-za-zamax-na-vbivstvo-gromadyanina-chornogori%D1%97-u-stolici-igor-klimenko/?fbclid=IwAR2TtSQGtXnsGafPaW_UL5J32yHGUbb84e-ecBamHvTJEdjWyO7JdgsCmbE) the men arrived in early May from the Balkans, purchased vehicles and automatic firearms and organized surveillance of their target and his family. On May 26 at around 18:30, two men fired five shots at their victim, wounding him, before driving their go-cart a couple of hundred of meters and setting it and themselves ablaze. Police said the shooters were waiting for their accomplices and panicked after they failed to show up.
 
 [Image]
 
@@ -2434,9 +2434,9 @@ There are no good reasons for hardworking American taxpayers to shore up the cur
 
 Ukraine’s president reminds us of someone who is looking out through a closed window and cannot explain to himself the strange movements of passers-by. He cannot tell what sort of storm is raging out there or that these people might only be managing with difficulty to stay on their feet.
 
-Ordinary Ukainians won’t keel over if U.S. assistance dries up, but Volodymyr Zelensky might.
+Ordinary Ukrainians won’t keel over if U.S. assistance dries up, but Volodymyr Zelensky might.
 
-It would be disingenuous to claim that Zelensky's universal magnetism is down to "vibe" alone. But it's difficult to remember the last time we witnessed a vibe so giganticly stupid.
+It would be disingenuous to claim that Zelensky's universal magnetism is down to "vibe" alone. But it's difficult to remember the last time we witnessed a vibe so gigantically stupid.
 
 ---
 
@@ -2463,7 +2463,7 @@ Poroshenko’s lawyers [responded](https://abdymok.substack.com/p/zelensky-dest
 
 ---
 
-Last year, Zelensky inspired a cult-like following, but he failed to working on his own problems, which are manifold, starting with his disregard for dialectical discourse.
+Last year, Zelensky inspired a cult-like following, but he failed to work on his own problems, which are manifold, starting with his disregard for dialectical discourse.
 
 Evolving real ideas is not passé. Reality must be expressed in rational categories, or it is irrelevant. The exchange of ideas could have actually benefited Ukrainians during the election campaign and during the months preceding Ukraine’s COVID-19 disaster.
 
@@ -2491,7 +2491,7 @@ The working group on mathematical modeling of the SARS-CoV-2 coronavirus epidemi
 
 > "We can say that we avoided the peak, if we understand it as a very sharp rapid growth. But we did not avoid it, if we talk about the peak as a maximum. We had a plateau phase, it lasted about two weeks, we overcame the plateau phase. From the point of view of mathematics, the phase of the plateau is the peak when there is a maximum number of cases. There was a peak, and we overcame it." - ***[Ihor Brovchenko](http://www.nas.gov.ua/EN/PersonalSite/Statuses/Pages/default.aspx?PersonID=0000001387),** Deputy Director for Research at the Institute of Mathematical Machines and Systems of Ukraine’s National Academy of Sciences, PhD of Physical and Mathematical Sciences (Mechanics of Liquid, Gas and Plasma)*
 
-Lest you get the impression the Brovchenko thinks scientists use computer models because they can magically make ideas correct and not because it's less boring than using an abacus to calculate the development of the epidemic, he invoked the [Precautionary Principle](https://en.wikipedia.org/wiki/Precautionary_principle) a day earlier because there are so many unknowns.
+Lest you get the impression that Brovchenko thinks scientists use computer models because they can magically make ideas correct and not because it's less boring than using an abacus to calculate the development of the epidemic, he invoked the [Precautionary Principle](https://en.wikipedia.org/wiki/Precautionary_principle) a day earlier because there are so many unknowns.
 
 > “We have now come to a very important point in the development of the epidemic. On the one hand, we reached the maximum number of new infections per day, on the other hand, officials have started to remove restrictions and the number of contacts among the population will increase. Therefore, the situation requires great care, an effective monitoring system, an operational decision-making system and an effective system for implementing these decisions. It is too difficult to ‘invest’ it all in mathematical models. These models must be developed and used by decision-makers who have up-to-date information on the functioning of the system as a whole and the problems of each city and hospital. It is advisable, of course, to create think tanks at the line ministries in advance, and not just to develop models during an epidemic.” - *Ihor Brovchenko, [interview](http://www1.nas.gov.ua/svit/Article/Pages/20_1314_2.aspx), Svit. May 27, 2020.*
 
@@ -2529,7 +2529,7 @@ In the [second installment](https://www.youtube.com/watch?v=5ouEjlrqOSg&feature=
 >
 > Oleksiy Honcharuk, former prime minister - **self-aggrandizer, too much FB**
 >
-> Petro Poroshenko, former president - e**gomaniac manipulator**
+> Petro Poroshenko, former president - **egomaniac manipulator****
 >
 > Denys Yermak, brother of President’s Office Head - **loud oaf**
 >
