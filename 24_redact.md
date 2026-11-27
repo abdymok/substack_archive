@@ -14,7 +14,7 @@
 
 China will surely be reunified, and all Chinese on both sides of the Taiwan Strait should be bound by a common sense of purpose and share in the glory of the rejuvenation of the Chinese nation. — *[Xi Jinping](https://www.mfa.gov.cn/eng/zxxx_662805/202312/t20231231_11215608.html) (December 31, 2023)*
 
-Every since Triple C left Kyiv last week to Europe during the biggest air attack of The Great War, I have been thinking about Taiwan and Ukraine, two electoral democracies threatened by authoritarian regimes. They have roughly the same-sized resident population — 25 million — and large diasporas.
+Ever since Triple C left Kyiv last week to Europe during the biggest air attack of The Great War, I have been thinking about Taiwan and Ukraine, two electoral democracies threatened by authoritarian regimes. They have roughly the same-sized resident population — 25 million — and large diasporas.
 
 [Image]
 
@@ -8864,7 +8864,7 @@ The assertion that historical guilt is individual guilt *per se* is nothing more
 
 Stupidity, i.e. inability to understand the mechanism of events, can cause tremendous suffering. In this sense, the president who told us to dream about barbecues in May 2022 is guilty of stupidity, and his guilt has an individual character[1](#footnote-1).
 
-Historical guilt, however, is different. This weighs upon Z's six (оr seven) potent (*потужный*) managers, who in January 2022 refused to acknowledge the obvious — not out of stupidity, but, on the contrary, out a full understanding of "historical processes," i.e. a correct evaluation of the invasion our CIA director told them was both *unavoidable* and *imminent*[2](#footnote-2).
+Historical guilt, however, is different. This weighs upon Z's six (or seven) potent (*потужный*) managers, who in January 2022 refused to acknowledge the obvious — not out of stupidity, but, on the contrary, out a full understanding of "historical processes," i.e. a correct evaluation of the invasion our CIA director told them was both *unavoidable* and *imminent*[2](#footnote-2).
 
 This word game reminds me of the субъектность (*subjectiveness*) vs сувернность *(sovereignty)* confusion still clogging the heads of people who pour words daily into the supreme commander-in-chief’s mouth.
 
@@ -9790,7 +9790,7 @@ On that op-ed appearing in [The Hill](http://thehill.com) on September 17[2](#fo
 
 [Image]
 
-*Brinksmanship* is the practice of escalating tensions to the *brink* of disaster, with the intention of forcing an opponent to concede or back down. What the authors fail to recognize is that we passed over the *brink* more than two and a half years ago. We have been in post-disaster modeevery since.
+*Brinksmanship* is the practice of escalating tensions to the *brink* of disaster, with the intention of forcing an opponent to concede or back down. What the authors fail to recognize is that we passed over the *brink* more than two and a half years ago. We have been in post-disaster mode ever since.
 
 > The realization of the simple fact that Putin might actually resort to nuclear bombs to subdue Ukraine has led to a result that was exactly the opposite of what Kremlin planners were counting on. That’s because what will happen cannot be avoided. If someone wants to kill himself, there’s little you can do to prevent it. An increasing number of western leaders are thinking that if armageddon is indeed inevitable, then why bother delaying it[3](#footnote-3).
 
