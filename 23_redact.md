@@ -42,7 +42,7 @@ Fragments of the lives of others just drift in, make you wince, or roll your eye
 
 [Image]
 
-My favorite Twitter accounts involving Ukraine belong to [Iuliia](https://twitter.com/IuliiaMendel/status/1608787698415992832) and [Brian](https://twitter.com/BSBonner), who use it for self-promotion and anger management, respectively. The latter has tweeted more than 160,000 times! But I must of course now direct you at once to [the only Twitter stream that every really mattered](https://twitter.com/fireland/).
+My favorite Twitter accounts involving Ukraine belong to [Iuliia](https://twitter.com/IuliiaMendel/status/1608787698415992832) and [Brian](https://twitter.com/BSBonner), who use it for self-promotion and anger management, respectively. The latter has tweeted more than 160,000 times! But I must of course now direct you at once to [the only Twitter stream that ever really mattered](https://twitter.com/fireland/).
 
 ---
 
@@ -60,7 +60,7 @@ My favorite Twitter accounts involving Ukraine belong to [Iuliia](https://twitte
 
 Macroeconomic analysis of the mess will be provided by [Ukraine Economic Outlook](https://www.ukraine-economic-outlook.com/researches), the Kyiv-based macroeconomic analysis and forecasting group near and dear to my heart.
 
-Following Russia’s annexation of Crimea and invasion of eastern Ukraine in 2014, attempts to fix Ukraine’s economy failed, in part because there was no consensus among Ukraine’s benefactors, chiefly the International Monetary Fund, World Bank and U.S government, who offered flawed guidance about which changes were necessary and which were not.
+Following Russia’s annexation of Crimea and invasion of eastern Ukraine in 2014, attempts to fix Ukraine’s economy failed, in part because there was no consensus among Ukraine’s benefactors, chiefly the International Monetary Fund, World Bank and U.S. government, who offered flawed guidance about which changes were necessary and which were not.
 
 There was no consensus then about what the reforms should be. Just like there is none now.
 
@@ -162,7 +162,7 @@ Dog Squadron motto. [ASG](https://en.wikipedia.org/wiki/Asymmetric_Warfare_Group
 
 [Image]
 
-*I am remembering the last time I ate a marshmellow, or it’s completely fictional, because I don’t eat marshmellows, or it’s in the future, because I’m imagining eating a marshmellow after Ukraine wins the war. .*
+*I am remembering the last time I ate a marshmallow, or it’s completely fictional, because I don’t eat marshmallows, or it’s in the future, because I’m imagining eating a marshmallow after Ukraine wins the war. .*
 
 It’s not a funny situation.
 
@@ -190,7 +190,7 @@ Maybe Ukraine’s leaders are just trying to tell us that we’re on the right s
 
 Z told us before he ran for president that he occasionally talks with a supernatural entity. God was the word he used. He said then that these conversations are too intimate to divulge publicly[1](#footnote-1).
 
-Maybe the war has changed his mind? Perhaps he has eaten too many marshmellows?
+Maybe the war has changed his mind? Perhaps he has eaten too many marshmallows?
 
 [1](#footnote-anchor-1)
 
