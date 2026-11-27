@@ -273,7 +273,7 @@ A common mistake is to take denials by Russian officials at face value, especial
 
 [Image]
 
-Ukrainians have known for years that foreign linguistic experts pick up on much less in conversation than native speakers. However, few expected that the time would come when the standard of competency turns out to be the ability of smart alecs to construe accurately what have been officially classified as state secrets.
+Ukrainians have known for years that foreign linguistic experts pick up on much less in conversation than native speakers. However, few expected that the time would come when the standard of competency turns out to be the ability of smart alecs to construe accurately what has been officially classified as state secrets.
 
 [Wiretapping Medvedchuk: Ties with Poroshenko, Putin and Russia-occupation forces (Part 1)](https://www.youtube.com/watch?v=VZJG_RKktBQ&t=751s) is a case in point. The 46-minute YouTube reportage published by Bihus.info on May 17, 2021 has been viewed more than 570,000 times. Unfortunately, the “investigation” so far raises more questions than it answers.
 
@@ -409,7 +409,7 @@ Any kind of big conflict in Ukraine resembles a complicated game of chess. It’
 
 [Image]
 
-History will surely note this absurdly ill-timed Instagram selfie. On Wednesday, September 1, the Ukrainian president’s press secretary [posed](https://www.instagram.com/p/CTR7Bz-Hh-5/)twice for his 800 followers in Washington, DC: in the first photo, Serhiy Nykyforov looks serious, but in the second he sticks out his tongue and extends his arm to create the illusion that he is holding the Washington Monument between his fingertips.
+History will surely note this absurdly ill-timed Instagram selfie. On Wednesday, September 1, the Ukrainian president’s press secretary [posed](https://www.instagram.com/p/CTR7Bz-Hh-5/) twice for his 800 followers in Washington, DC: in the first photo, Serhiy Nykyforov looks serious, but in the second he sticks out his tongue and extends his arm to create the illusion that he is holding the Washington Monument between his fingertips.
 
 [Image]
 
@@ -461,7 +461,7 @@ At about 57 minutes into the BELLINGCAT presentation during the Media Developmen
 
 Unfortunately for Z and Grozev, ***subjectiveness*** is the correct translation for the word Z used [***субъектность*****]**.
 
-***Sovereignty*** [***сувернность***] — unlike ***subjectiveness —*** neither transcends nor resides in a person, but is a *sequence* of gestures and utterances – a repeated script – performed between those with credible parts to play and with command of the occasions in which to play them. That Z doesn’t know the difference is a problem.
+***Sovereignty*** [***суверенность***] — unlike ***subjectiveness —*** neither transcends nor resides in a person, but is a *sequence* of gestures and utterances – a repeated script – performed between those with credible parts to play and with command of the occasions in which to play them. That Z doesn’t know the difference is a problem.
 
 ---
 
@@ -500,13 +500,13 @@ The doctor-turned-politician has never served in the military or in Ukraine’s 
 
 Bezuhla [for about an hour](https://www.youtube.com/watch?v=jfbuGdt9JlM) on September 10 briefed reporters about a “**special intelligence event**” involving former members of the Wagner Private Military Company (PMC) who were lured to Minsk in July 2020.
 
-Unfortunately, her *report* raises more questions than it answered.
+Unfortunately, her *report* raises more questions than it answers.
 
 According to Bezuhla, **Plan "Г"** *is* the name of a contingency scenario worked up by Ukraine’s intelligence services under which a passenger airliner carrying Russian mercenaries from Minsk to Istanbul could have been forced to land in Ukraine (in order to arrest the mercenaries).
 
 ---
 
-***Plan "Г"** reminds me a lot of [Operation “Ы,”](https://abdymok.medium.com/operation-y-b2d557374ca7) the name of a popular soviet-era comedy where the protagonist, a student, catches three burglars without help when they decide to rob a warehouse. The scene from the film that comes to mind is when one of the criminals practices for the crime by placing his handkerchief over the nostrils of ceramic cats.*
+***Plan "Г"** reminds me a lot of [Operation “Ы,”](https://abdymok.medium.com/operation-y-b2d557374ca7) the name of a popular Soviet-era comedy where the protagonist, a student, catches three burglars without help when they decide to rob a warehouse. The scene from the film that comes to mind is when one of the criminals practices for the crime by placing his handkerchief over the nostrils of ceramic cats.*
 
 [Image]
 
@@ -564,7 +564,7 @@ According to Bezuhla, **Plan "Г"** *is* the name of a contingency scenario work
 
 [Image]
 
-[Феникс](https://fenixrestaurant.com.ua/index_en.html) (*Phoenix*), formerly called Еврика (*Eureka*) and Казбек (*Kazbek*), is a new fusion restaurant on Lesi Ukrainki Boulevard in Kyiv. On Thursday nights before the Orange Revolution, they used to have Georgian music and I would show up. It was a pretty cramped place, and it began to occur to me, “Should I go this Thursday or not?” I realized that a lot of other people, especially the regulars - mostly corrupt politicians, judges and money managers - would be asking themselves the same question.
+[Феникс](https://fenixrestaurant.com.ua/index_en.html) (*Phoenix*), formerly called Еврика (*Eureka*) and Казбек (*Kazbek*), is a new fusion restaurant on Lesi Ukrainki Boulevard in Kyiv. On Thursday nights before the Orange Revolution, they used to have Georgian music and I would show up. It was a pretty cramped place, and it began to occur to me, “Should I go this Thursday or not?” I realized that a lot of other people, especially the regulars – mostly corrupt politicians, judges and money managers - would be asking themselves the same question.
 
 The problem is not new. In 1994, Irish economist [William Brian Arthur](https://en.wikipedia.org/wiki/W._Brian_Arthur) defined it as the [El Farol Bar Problem](https://en.wikipedia.org/wiki/El_Farol_Bar_problem), a resource allocation puzzle involving non-cooperating agents where, if everyone uses the same pure strategy, it is guaranteed to fail, no matter what it is. Political upheaval - like a war — just adds another layer of complexity.
 
@@ -642,17 +642,17 @@ The strategy PIB’s supervisory board has come up with so far to solve the bank
 
 [Image]
 
-We all remember the twenty-second and the final episode of the [seventeenth season](https://en.wikipedia.org/wiki/The_Simpsons_(season_17)) of the American animated television series *[The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)*.
+We all remember the twenty-second and final episode of the [seventeenth season](https://en.wikipedia.org/wiki/The_Simpsons_(season_17)) of the American animated television series *[The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)*.
 
 *Simpsons* jokes have of course usually been sharp and carefully crafted, and never *too* easy, but I don’t recall anything as perfect as the Duff blimp crashing on the baseball field and, thinking his wife is aboard, the [Kris Benson](https://en.wikipedia.org/wiki/Kris_Benson) character cries out, ‘**This is the worst blimp crash ever!**’
 
-A millisecond after it takes your mind (well, my mind) to assemble the image of the burning Hindenberg, old Abe Simpson shouts from the stands: ‘Too soon!’
+A millisecond after it takes your mind (well, my mind) to assemble the image of the burning Hindenburg, old Abe Simpson shouts from the stands: ‘Too soon!’
 
 Just as you ask yourself, ‘Am I laughing at the Hindenberg?’ you realize the gag is *about* you even asking the question. Not a joke skirting around tragedy, which is easy, but a joke about the way we feel about jokes about tragedy. On the one hand it mocks the hubris and humorlessness of those who mine grief for agenda advancement, on the other it pokes at those whose laughter burns hottest at the point just beyond *too far.*
 
 That explains [Appeal to Pity](https://abdymok.substack.com/p/appeal-to-pity).
 
-According to the SPARK-Interfax system, Businessgroup LLC, which publishes the Kyiv Post and is 60% owned by Adnan Kivan (another 40% is owned by Kivan's partner in a number of other projects, Olha Pavlova), the publication in 2019 received UAH 6.649 million in losses, and in 2020 increased the loss by 64.2% - up to UAH 10.914 million. If in 2019 the company received income from operating activities in the amount of UAH 5.682 million, then in 2020 the loss from this activity amounted to UAH 10.914 million.
+According to the SPARK-Interfax system, Businessgroup LLC, which publishes the Kyiv Post and is 60% owned by Adnan Kivan (another 40% is owned by Kivan's partner in a number of other projects, Olha Pavlova), the publication reported a loss of UAH 6.649 million in 2019, and in 2020 increased its loss by 64.2% - up to UAH 10.914 million. If in 2019 the company received income from operating activities in the amount of UAH 5.682 million, then in 2020 the loss from this activity amounted to UAH 10.914 million.
 
 Adnan remarked the other day that he is a self-sufficient person and a 'believer.' He added, “Investments in media are investments that are pleasing to God."
 
