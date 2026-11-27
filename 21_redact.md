@@ -32,7 +32,7 @@ The most recent SBU skullduggery involves top SBU officers fighting for control 
 
 [Image]
 
-Which brings us back to the Wagner PMC scandal. YouTube has been busy [taking down videos](https://abdymok.substack.com/p/countdown-to-disaster) of Wagner PMC members fessing up to numerous murders in interviews with their Ukrainian handlers. But volumes of written proof documenting their [clandestine fuckery](https://abdymok.substack.com/p/clandestine-fuckery) continues to leak out on social media platforms.
+Which brings us back to the Wagner PMC scandal. YouTube has been busy [taking down videos](https://abdymok.substack.com/p/countdown-to-disaster) of Wagner PMC members fessing up to numerous murders in interviews with their Ukrainian handlers. But volumes of written proof documenting their [clandestine fuckery](https://abdymok.substack.com/p/clandestine-fuckery) continue to leak out on social media platforms.
 
 [Image]
 
@@ -40,7 +40,7 @@ According to BELLINGCAT’s Christo Grozev, Russian President Vladimir Putin has
 
 Ukraine’s Golden Triangle Guy [Dmytro Gordon](https://gordonua.com/) has taken a keen interest in the Wagner PMC case, along with his sidekick [ex-SBU chief Ihor Smeshko](https://www.youtube.com/watch?v=CjUREWf6ePM&feature=emb_logo).
 
-Intelligence chiefs in United States, the UK and Europe have for years known about Russia’s state-sponsored assassinations. Kremlin agents routinely roam throughout Europe stalking their targets and killing them. Little has been done to address the problem. Looking on the bright side, newly installed U.S. President Joe Biden has ordered a review of Russia’s wet work, including the [GRU’s infiltration via SolarWinds](https://www.securityinfowatch.com/cybersecurity/article/21206223/more-questions-than-answers-as-solarwinds-breach-probe-expands) of dozens of government agencies, as well as the as yet unaddressed [counter-intelligence threat of Rudy Giuliani.](https://www.emptywheel.net/2021/01/10/the-unaddressed-counterintelligence-threat-of-rudy-giuliani/ "Permanent Link: The Unaddressed Counterintelligence Threat of Rudy Giuliani")
+Intelligence chiefs in the United States, the UK and Europe have for years known about Russia’s state-sponsored assassinations. Kremlin agents routinely roam throughout Europe stalking their targets and killing them. Little has been done to address the problem. Looking on the bright side, newly installed U.S. President Joe Biden has ordered a review of Russia’s wet work, including the [GRU’s infiltration via SolarWinds](https://www.securityinfowatch.com/cybersecurity/article/21206223/more-questions-than-answers-as-solarwinds-breach-probe-expands) of dozens of government agencies, as well as the as-yet-unaddressed [counter-intelligence threat of Rudy Giuliani.](https://www.emptywheel.net/2021/01/10/the-unaddressed-counterintelligence-threat-of-rudy-giuliani/ "Permanent Link: The Unaddressed Counterintelligence Threat of Rudy Giuliani")
 
 ---
 
@@ -101,7 +101,7 @@ My advice is to not eat any of this crap. Stick with WinWay’s dried Papaya sti
 
 What links the President of the Ukraine, Volodymyr Zelensky, to protests in Belarus against strongman Aleksander Lukashenko, Russia’s annexation of Crimea and occupation of areas in Donbas?
 
-It’s not difficult to unravel several threads which hold together an extraordinary mystery involving Ukraine’s moron president, Russia’s secret services, conspiracies at the highest level, and at least one moving target, now running for his life with a million dollar price on his head.
+It’s not difficult to unravel several threads that hold together an extraordinary mystery involving Ukraine’s moron president, Russia’s secret services, conspiracies at the highest level, and at least one moving target, now running for his life with a million dollar price on his head.
 
 ---
 
@@ -125,7 +125,7 @@ Whatever. Welcome to the world of ultra-competitive Ukraine-style politics.
 
 **Past is prologue**
 
-Secret state security services these days are walking a tightrope. Any miscalculation, could result in a hilarious failure, such as the recent botched attempt to liquidate Alexey Navalny, or a bloody mess, like the [Battle of Kassam](https://en.wikipedia.org/wiki/Battle_of_Khasham).
+Secret state security services these days are walking a tightrope. Any miscalculation could result in a hilarious failure, such as the recent botched attempt to liquidate Alexey Navalny, or a bloody mess, like the [Battle of Kassam](https://en.wikipedia.org/wiki/Battle_of_Khasham).
 
 OPSEC fuck ups in former Soviet states in recent years have been manifold. They demonstrate nothing is more corrosive than official anonymity, a TOP SECRET clearance with access to sensitive compartmented information (SCI). Not leaving digital clues has become harder, further complicating the enterprise of carrying out clandestine fuckery without getting caught.
 
@@ -145,7 +145,7 @@ All this is apropos of the list of Wagner PMC fighters Ukraine’s ex-State Secu
 
 ---
 
-The order given in July 2020 to scupper an attempt by Ukraine’s security services to lure Wagner PMC fighters to Kyiv in order to arrest them has amazed intelligence agencies in western capitals. The months-long state-sponsored cover up of the decision has irritated the Zelensky’s critics in Ukraine’s parliament.
+The order given in July 2020 to scupper an attempt by Ukraine’s security services to lure Wagner PMC fighters to Kyiv in order to arrest them has amazed intelligence agencies in western capitals. The months-long state-sponsored cover up of the decision has irritated Zelensky’s critics in Ukraine’s parliament.
 
 ---
 
@@ -221,7 +221,7 @@ This script was made from audio tape – any inaccuracies are due to voices bein
 
 ---
 
-No one knows for sure whether BINKBEATS will provide the score for the WAGNERGATE Netflix docudrama, but we can be confident that the film(s) will chronicle years-long attempts for Ukraine’s intelligence services to lure dozens of private military contractors to Kyiv and arrest them.
+No one knows for sure whether BINKBEATS will provide the score for the WAGNERGATE Netflix docudrama, but we can be confident that the film(s) will chronicle years-long attempts by Ukraine’s intelligence services to lure dozens of private military contractors to Kyiv and arrest them.
 
 Unnamed sources in the President’s Office of Ukraine [denied reports](https://news.liga.net/politics/news/v-ofise-prezidenta-oprovergli-informatsiyu-o-vstreche-s-rassledovatelyami-iz-bellingcat) that a BELLINGCAT film crew memorialized officials’ recollection of events last July. The news follows [revelations](https://zn.ua/POLITICS/bellingcat-zapishet-pozitsiju-op-po-sryvu-operatsii-po-zaderzhaniju-vahnerovtsev-istochnik-znua.html) published by Dzerkalo Tyzhnia over the weekend about attempts by top intelligence officials in Kyiv to get Deputy Head of the UK’s Military Intelligence Section 6 to dissuade BELLINGCAT from going ahead with the project.
 
