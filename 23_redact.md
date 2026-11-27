@@ -260,7 +260,7 @@ About two-thirds of the way through this smug, precious, long-winded yet towerin
 
 [Image]
 
-[Helene](https://www.nytimes.com/by/helene-cooper), [Eric](https://www.nytimes.com/by/eric-schmitt) and [Julian](https://www.nytimes.com/by/julian-e-barnes) at The New York times tell us [Tiger Team](https://www.washingtonpost.com/national-security/2022/02/14/white-house-prepares-russian-invasion/) is re-thinking the time-proven concept that the Crimea variable (defined by Russia’s illegal annexation of the peninsula) won’t necessarily be available the next time Joe Biden promises *everything* to help Ukraine defend itself[1](#footnote-1)[2](#footnote-2).
+[Helene](https://www.nytimes.com/by/helene-cooper), [Eric](https://www.nytimes.com/by/eric-schmitt) and [Julian](https://www.nytimes.com/by/julian-e-barnes) at The New York Times tell us [Tiger Team](https://www.washingtonpost.com/national-security/2022/02/14/white-house-prepares-russian-invasion/) is re-thinking the time-proven concept that the Crimea variable (defined by Russia’s illegal annexation of the peninsula) won’t necessarily be available the next time Joe Biden promises *everything* to help Ukraine defend itself[1](#footnote-1)[2](#footnote-2).
 
 The story begins with details of secondary importance postponing the essential point to the very end, namely:
 
@@ -354,7 +354,7 @@ Just ask #fontfreak [John Hudson](https://twitter.com/John_Hudson), who these da
 
 [Image]
 
-The WSJ’s *exclusive* is conspicuous for the information it leaves out, some of which is filled in by RFE/RL’s Ukrainian service [post-publication](https://www.radiosvoboda.org/a/%D0%B2%D0%B1%D0%B8%D0%B2%D1%81%D1%82%D0%B2%D0%BE-%D0%BA%D1%96%D1%80%D1%94%D1%94%D0%B2%D0%B0/32233661.html) pow wow with a spy chief. As for Brett’s Ukraine-based exploits, including his harrowing escape to Lviv and Warsaw at the start of the blitzkrieg, they have been dutifully chronicled by storyteller [Neil](https://twitter.com/nealbascomb) over at [@Work/Craft/Life](https://www.workcraftlife.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile), a Substack page readers can *cultivate* for a $200 annually.
+The WSJ’s *exclusive* is conspicuous for the information it leaves out, some of which is filled in by RFE/RL’s Ukrainian service [post-publication](https://www.radiosvoboda.org/a/%D0%B2%D0%B1%D0%B8%D0%B2%D1%81%D1%82%D0%B2%D0%BE-%D0%BA%D1%96%D1%80%D1%94%D1%94%D0%B2%D0%B0/32233661.html) pow wow with a spy chief. As for Brett’s Ukraine-based exploits, including his harrowing escape to Lviv and Warsaw at the start of the blitzkrieg, they have been dutifully chronicled by storyteller [Neil](https://twitter.com/nealbascomb) over at [@Work/Craft/Life](https://www.workcraftlife.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile), a Substack page readers can *cultivate* for $200 annually.
 
 Many foreign journalists in Ukraine suffer from something called ‘impostor syndrome,’ a perpetual fear that someone will find out they don’t know what they’re talking about. Our job is to help them, if possible. It wasn’t in this case.
 
@@ -732,21 +732,21 @@ Turning the page after 365 days of war will not be possible. We are very angry a
 
 There are many irritating distractions.
 
-The include Xi Jinping and [Farah Stockman](https://www.nytimes.com/by/farah-stockman), a member of the editorial board of The New York Times, who wants us to reflect about the price humanity is paying for a year’s worth of gratuitous death and destruction[1](#footnote-1).
+They include Xi Jinping and [Farah Stockman](https://www.nytimes.com/by/farah-stockman), a member of the editorial board of The New York Times, who wants us to reflect about the price humanity is paying for a year’s worth of gratuitous death and destruction[1](#footnote-1).
 
-She is joined by [Seymour Hersh](https://seymourhersh.substack.com/p/the-crap-on-the-wall), who thinks that if facts proves him wrong, then the evidence is just part of a conspiracy and further proof he is correct.
+She is joined by [Seymour Hersh](https://seymourhersh.substack.com/p/the-crap-on-the-wall), who thinks that if facts prove him wrong, then the evidence is just part of a conspiracy and further proof he is correct.
 
 [Video: https://youtu.be/lUTwLiuiNh0]
 
 Seymour says in this interview that he is a friend of Matt Taibbi, Elon’s buddy.
 
-> *["Another All-Time Media Faceplant”](https://taibbi.substack.com/p/activism-uncensored-in-washington?utm_source=url)* American anti-Ukraine propaganda that reads like an ad for the Dynamic Tension body building program from [Charles Atlas](http://web.archive.org/web/20030402200041/http://www.charlesatlas.com/atlas_photos/atlas_photos.html) (World's Most Perfectly Developed Man). Except it’s a link to Matt’s Taibbi’s [substack](https://taibbi.substack.com/p/another-all-time-media-faceplant?utm_source=url). Remember Matt from Moscow? Of course, [we do](https://www.washingtonpost.com/outlook/the-two-expat-bros-who-terrorized-women-correspondents-in-moscow/2017/12/15/91ff338c-ca3c-11e7-8321-481fd63f174d_story.html)[2](#footnote-2).
+> *["Another All-Time Media Faceplant”](https://taibbi.substack.com/p/activism-uncensored-in-washington?utm_source=url)* American anti-Ukraine propaganda that reads like an ad for the Dynamic Tension bodybuilding program from [Charles Atlas](http://web.archive.org/web/20030402200041/http://www.charlesatlas.com/atlas_photos/atlas_photos.html) (World's Most Perfectly Developed Man). Except it’s a link to Matt Taibbi’s [Substack](https://taibbi.substack.com/p/another-all-time-media-faceplant?utm_source=url). Remember Matt from Moscow? Of course, [we do](https://www.washingtonpost.com/outlook/the-two-expat-bros-who-terrorized-women-correspondents-in-moscow/2017/12/15/91ff338c-ca3c-11e7-8321-481fd63f174d_story.html)[2](#footnote-2).
 
 We have no choice but to fall like rain from the sky and point out that whatever China, Farah, Seymour and Matt say about fascistic Russia’s genocidal campaign in Ukraine is irrelevant, irrelevant, irrelevant.
 
-But the same holds true for the masters of counterproductive pro-Ukraine boosterism who have been pissing out increasing quantities of self-serving crap (Francis, Aslund, Kurkov, Ash et al) , working up a sweat at the edges of convention, then smashing on through with earnest whatever.
+But the same holds true for the masters of counterproductive pro-Ukraine boosterism who have been pissing out increasing quantities of self-serving crap (Francis, Aslund, Kurkov, Ash et al), working up a sweat at the edges of convention, then smashing on through with earnest whatever.
 
-Looking on the bright side, all these experts hate themselves for *doing their job,*  for laboring at a tone of such inelegance and witlessness it feels like watching an old man attempt to take a crap.
+Looking on the bright side, all these experts hate themselves for *doing their job,* for laboring at a tone of such inelegance and witlessness it feels like watching an old man attempt to take a crap.
 
 [1](#footnote-anchor-1)
 
@@ -768,7 +768,7 @@ Looking on the bright side, all these experts hate themselves for *doing their j
 
 I decided not to start a list of all the foreign journalists who from 2016 to 2022 claimed that Russian-backed separatists were "ramping up" hostilities or taking "new aggressive steps" in eastern Ukraine. Although many of them are covering *this war*, too, there is, at least, a fresh pack of flaks bouncing around.
 
-Today I listened to Dmytro Gordon, a.k.a. [the Golden Pyramid guy](https://abdymok.medium.com/ze-and-the-golden-pyramid-guy-d486b34ba0e9), hagiographize the ex-former President’s Office unpaid adviser Oleksiy Arestovych, who has already moved past the war and is thinking of ultra-competitive Ukraine-style politics.
+Today I listened to Dmytro Gordon, a.k.a. [the Golden Pyramid guy](https://abdymok.medium.com/ze-and-the-golden-pyramid-guy-d486b34ba0e9), hagiographize the former President’s Office unpaid adviser Oleksiy Arestovych, who has already moved past the war and is thinking of ultra-competitive Ukraine-style politics.
 
 [Video: https://youtu.be/ZDVeV5vOxCI]
 
@@ -778,7 +778,7 @@ A colleague returned from Bakhmut/Soledar with a bunch of nice photos.
 
 [Image]
 
-And Chien-Chi published an [album](https://www.mirrormedia.mg/projects/ccc_ukraine_2023/index.html?fbclid=IwAR3jpbGKjK5RHNqHZKmD98UiwwZzJNB_ce_i5ZpJsOG6XaY4ccYqFYqgIX0) today. Thanks to him, **billions of people** living in Asia, especially Taiwan, don’t have to rely on the English-language press to understand what is actually taking place.
+And Chien-Chi published an [album](https://www.mirrormedia.mg/projects/ccc_ukraine_2023/index.html?fbclid=IwAR3jpbGKjK5RHNqHZKmD98UiwwZzJNB_ce_i5ZpJsOG6XaY4ccYqFYqgIX0) today. Thanks to him, **billions of people** living in Asia, especially Taiwan, don’t have to rely on the the English-language press to understand what is actually taking place.
 
 ---
 
@@ -788,7 +788,7 @@ And Chien-Chi published an [album](https://www.mirrormedia.mg/projects/ccc_ukrai
 
 *Take a stroll down easy street, U.S.A. *
 
-The deluge of words and pictures about Ukraine poured out over the internet to commemorate the one-year anniversary sucked out a lot of energy, so I went back to **alright.** for a head check[1](#footnote-1).
+The deluge of words and pictures about Ukraine poured out over the Internet to commemorate the one-year anniversary sucked out a lot of energy, so I went back to **alright.** for a head check[1](#footnote-1).
 
 Sheer bad luck led me [this](https://www.youtube.com/watch?v=WWlOidna_qw&ab_channel=%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D1%8B%D0%B9%D0%9A%D0%BE%D1%82) docudrama. I could not bring myself to watch it to the end (which might explain my memory lapses from 1988 and 1989).
 
@@ -834,7 +834,7 @@ I started following [Andrey Kurkov](https://en.wikipedia.org/wiki/Andrey_Kurkov)
 
 On the war front, nothing much has changed. Roger Cohen at The New York Times wrote a sensible article, titled [War in Ukraine Has Changed Europe Forever](https://www.nytimes.com/2023/02/26/world/europe/ukraine-russia-war.html). *No event has transformed the continent more profoundly since the end of the Cold War, and there is no going back now*.
 
-He recalled Berlin in the early 1980s, when Olaf was peacenik[1](#footnote-1).
+He recalled Berlin in the early 1980s, when Olaf was a peacenik[1](#footnote-1).
 
 [Image]
 
@@ -876,9 +876,9 @@ You know how literary hacks and opinion leaders have been bouncing around ideas 
 
 Well of course it’s galling. It’s irritating that any twerp anywhere can quantify/qualify the desire for freedom when it’s so freaking hard just to make up your mind when presented with a display of trowels.
 
-Not that’s been an issue lately, but still.
+Not that that’s been an issue lately, but still.
 
-Even more galling, duh, is when it works. Amidst the above-mentioned paraphernalia frenzy I’ve found myself falling head over heels for articles about corruption and the [crashingly unsexy](https://kyivindependent.com/opinion/andrii-borovyk-a-year-of-war-how-is-ukraine-transforming-right-now) Andriy Borovyk, who champions Ukraine’s form-follows-function fuzz, all designed quite smartly, built to last and affordable.
+Even more galling, duh, is when it works. Amid the above-mentioned paraphernalia frenzy, I’ve found myself falling head over heels for articles about corruption and the [crashingly unsexy](https://kyivindependent.com/opinion/andrii-borovyk-a-year-of-war-how-is-ukraine-transforming-right-now) Andriy Borovyk, who champions Ukraine’s form-follows-function fuzz, all designed quite smartly, built to last and affordable.
 
 Ukraine’s aisles of anti-corruption *bricolage* teem with generations of yellow and blue gadgets that all interlock and look really neat and just make sense to some upstart peckerwood flak at [The Washington Post](https://www.washingtonpost.com/opinions/2023/02/27/ukraine-war-zelensky-fighting-corruption/)[1](#footnote-1). I sometimes pause while my brain froths away over some junk (no matter the context) and I think, you know, this would be much easier with a snappy new open-bolt, blowback-operated submachine gun.
 
@@ -964,7 +964,7 @@ And let’s introduce MP Kira Rudyk to Kevin McCarthy, Speaker of the House and 
 
 A recent surge in linkery to some of this site’s more pointed comment on Kyiv’s [corporate lapdogs](https://abdymok.substack.com/p/something-memorable) and [demagogue paste-up artists](https://abdymok.substack.com/p/rats-on-a-journey) might lead to a conclusion that all that goes on here is potshot-taking and the raking of muck, when nothing could be further from the truth: regular readers of [ukraine@war](https://abdymok.substack.com/) will attest that most material posted here is [gently evocative](https://abdymok.substack.com/p/a-man-in-full), [quietly reverent](https://abdymok.substack.com/p/ukraines-spherical-cow), and more often than not focused on [building community](https://abdymok.substack.com/p/setting-the-plate-clear), on [uniting rather than dividing](https://abdymok.substack.com/p/countdown-to-disaster).
 
-We’ve taken a break from day-to-day war analysis because it tires our brain. As of this writing, Phase 3 of the bloody mess continues[1](#footnote-1). Stefan [churns out](https://www.facebook.com/stefan.korshak) reports about the tactical military situation almost daily.
+We’ve taken a break from day-to-day war analysis because it tires our brains. As of this writing, Phase 3 of the bloody mess continues[1](#footnote-1). Stefan [churns out](https://www.facebook.com/stefan.korshak) reports about the tactical military situation almost daily.
 
 [Image]
 
@@ -1038,7 +1038,7 @@ Writing for [The Atlantic](https://www.theatlantic.com/ideas/archive/2023/03/rus
 
 It is an exceptionally stupid essay. Don’t bother reading it.
 
-The New York Times and the Washington Post, meanwhile, both cite unnamed U.S. officials *suggesting* that a pro-Ukraine group blew up Nord Stream pipelines in September, eight months *after* Russia attempted to decapitate Kyiv.
+The New York Times and The Washington Post, meanwhile, both cite unnamed U.S. officials *suggesting* that a pro-Ukraine group blew up Nord Stream pipelines in September, eight months *after* Russia attempted to decapitate Kyiv.
 
 [Image]
 
