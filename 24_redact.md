@@ -86,15 +86,15 @@ On the Ukraine jacket, this:
 
 *Carpet bombing Ukraine *
 
-Based on feedback and some peyote-fuelled epiphanies on the mountainside at dawn, let me direct your attention to [Ukraine24](https://u24.gov.ua/), the official international celebrity-based fundraising platform of Ukraine. Not to be confused with another official war-related government program, [Telemarathon](https://www.youtube.com/watch?v=WY8sDvZdWEA), which almost noone watches and The New York Times writes about today[1](#footnote-1).
+Based on feedback and some peyote-fuelled epiphanies on the mountainside at dawn, let me direct your attention to [Ukraine24](https://u24.gov.ua/), the official international celebrity-based fundraising platform of Ukraine. Not to be confused with another official war-related government program, [Telemarathon](https://www.youtube.com/watch?v=WY8sDvZdWEA), which almost no one watches and The New York Times writes about today[1](#footnote-1).
 
 Z is on the opening page of Ukraine24 wearing pajamas.
 
-I don’t have great hopes for it becoming a reliable longterm source of funding and procurement freed of the sentimental histrionics and pre-emptive ridicule of any opposing view germane to charitable foundations, many of which popped up after February 24, 2022, to taking grim pleasure responding to every atrocity carried out in the name of *racism*, to forming – with a sort of shuddering inevitability – into a lockstep mosh pit in which the most cynical predictions of last fall – about those who would dare to advance a purchasing agenda on the back of inconceivable human tragedy – have become not only true, but somehow above criticism.
+I don’t have great hopes for it becoming a reliable long-term source of funding and procurement freed of the sentimental histrionics and pre-emptive ridicule of any opposing view germane to charitable foundations, many of which popped up after February 24, 2022, to taking grim pleasure responding to every atrocity carried out in the name of *racism*, to forming – with a sort of shuddering inevitability – into a lockstep mosh pit in which the most cynical predictions of last fall – about those who would dare to advance a purchasing agenda on the back of inconceivable human tragedy – have become not only true, but somehow above criticism.
 
 Conversely, I expect Ukraine24’s ambassadors to remain free of the gloomy handwringing that characterizes some expert Ukraine pundits, among whom, now and again, a flurry of concern arises over What Must Be Done about whatever bile currently poisons the postings and comment sections of online media. It shouldn’t be in the least surprising that xenophobic idiots and bots driven by bloodlust and malformed patriotism are sharing their opinions every chance they can get. Yes, there is unchecked hate speech. Great crimson swathes of it. Same as it ever was. Let them rant and screed and ‘fisk’ and bleat. As with any echo chamber, no one outside it is listening.
 
-What will be made evident, I hope, is that opposition to fascistic Russia’s campaign against Ukraine is not a reflexive ideological matter, born out of pity, ‘pro-democracy’ sentiment or what color underwear one prefers. It is rather awareness that the world is being sold an alternative bill of goods: one that is apparently having some success convincing people the genocide has everything to do with the the attacks of October 7, or America’s southern border, or, most galling of all, reunifying China by incorporating Taiwain.
+What will be made evident, I hope, is that opposition to fascistic Russia’s campaign against Ukraine is not a reflexive ideological matter, born out of pity, ‘pro-democracy’ sentiment or what color underwear one prefers. It is rather awareness that the world is being sold an alternative bill of goods: one that is apparently having some success convincing people the genocide has everything to do with the attacks of October 7, or America’s southern border, or, most galling of all, reunifying China by incorporating Taiwain.
 
 As opposed, let’s say, to it being about erasing Ukraine.
 
@@ -1200,7 +1200,7 @@ Asked over the weekend during an interview with [Italy’s Rai TV](https://www.r
 
 > Zaluzhny? This is a question about the people who should lead Ukraine. Surely a reset, a new beginning is necessary. I have in mind something serious, which is not about a single person but about the direction of the country's leadership. When we talk about this, I mean a turnover of a number of state leaders, not just in a single sector like the military.
 
-Whatever. Z’s biggest accomplishment was two years ago when Russia tried to decapitate the capital. He stayed put, instead of running away. But today the president refuses to acknowledge the simple fact that that his own political career is over. That’s because he and his team failed to prepare the country for the invasion in the first place, despite repeated warnings.
+Whatever. Z’s biggest accomplishment was two years ago when Russia tried to decapitate the capital. He stayed put, instead of running away. But today the president refuses to acknowledge the simple fact that his own political career is over. That’s because he and his team failed to prepare the country for the invasion in the first place, despite repeated warnings.
 
 The weather has been weird. I thought yesterday that winter is over, but I just looked out the window and now I’m not sure.
 
@@ -1577,7 +1577,7 @@ As of this writing, A total of 26 missiles of various types were launched:
 
 ---
 
-I bumped into a very long line on the walk home last night. It signifies that Ukrainians have, finally, caught on to the the piano booth trend.
+I bumped into a very long line on the walk home last night. It signifies that Ukrainians have, finally, caught on to the piano booth trend.
 
 [Image]
 
@@ -1699,7 +1699,7 @@ I thought yesterday about writing about the Gorbachev effect, but got bogged dow
 
 [Image]
 
-Today we mark the the 10-year anniversary of three days of bloody protests in Kyiv.
+Today we mark the 10-year anniversary of three days of bloody protests in Kyiv.
 
 [Video: https://youtu.be/Hbd9T5WKVnY]
 
@@ -1962,7 +1962,7 @@ Stefan wrote something long and windy about the last two years of our 10-year wa
 
 Feb 24 - Day 731 - Thanks to Readers, Gibbon and The Decline and Fall, Enter the Air War
 
-Hi All! Two years. Two friggin’ years. OK, first and foremost, now that we’ve hit 24 months of war, this post must start with a huge “thank you” to you guys, the readers. If I’m honest it’s not always fun and games and and upbeat conversations and pleasant people to hang out with, in an actual conventional war…
+Hi All! Two years. Two friggin’ years. OK, first and foremost, now that we’ve hit 24 months of war, this post must start with a huge “thank you” to you guys, the readers. If I’m honest it’s not always fun and games and upbeat conversations and pleasant people to hang out with, in an actual conventional war…
 
 Read more
 
@@ -2756,7 +2756,7 @@ A problem of translation, perhaps? Or maybe just muddled thinking.
 
 The problem is people are confusing nerves and sinews. “[Sinews of Peace](https://www.nato.int/docu/speech/1946/s460305a_e.htm)” is the name of one of Winston’s most famous speeches, which he delivered at Westminster College, Fulton, Missouri on March 5, 1946.
 
-The main differences between nerves and and sinews lies in their anatomical structures and functions. Nerves are part of the nervous system and are responsible for transmitting signals between the brain, spinal cord, and other parts of the body to control movement, sensation, and other bodily functions. Sinews, also known as tendons, on the other hand, are tough bands of dense fibrous connective tissue that connect muscle to bone, transmitting the mechanical forces of muscle contraction to the skeletal system.
+The main differences between nerves and sinews lies in their anatomical structures and functions. Nerves are part of the nervous system and are responsible for transmitting signals between the brain, spinal cord, and other parts of the body to control movement, sensation, and other bodily functions. Sinews, also known as tendons, on the other hand, are tough bands of dense fibrous connective tissue that connect muscle to bone, transmitting the mechanical forces of muscle contraction to the skeletal system.
 
 [4](#footnote-anchor-4)
 
@@ -3473,7 +3473,7 @@ Russia, with the help of Iran and North Korea, is attempting in Ukraine to creat
 
 On the USA jacket, Speaker Mike appears [in no hurry](https://www.bloomberg.com/news/articles/2024-04-03/us-house-s-ukraine-war-aid-vote-is-likely-weeks-or-more-away) to move legislation that would help Ukraine defend itself better, so Russia’s onslaught will continue well into the summer.
 
-On the Ukraine jacket, the latest [re-arrangement of deck chairs](https://zn.ua/POLITICS/zelenskij-uvolil-rjad-svoikh-sovetnikov-v-tom-chisle-shefira.html) at the President’s Office (Oleksandr Danilov, Serhiy Shefir, Andriy Smirnov) is not accidental and fits into the general context of our unending political crisis, which has many causes and and even more consequences.
+On the Ukraine jacket, the latest [re-arrangement of deck chairs](https://zn.ua/POLITICS/zelenskij-uvolil-rjad-svoikh-sovetnikov-v-tom-chisle-shefira.html) at the President’s Office (Oleksandr Danilov, Serhiy Shefir, Andriy Smirnov) is not accidental and fits into the general context of our unending political crisis, which has many causes and even more consequences.
 
 The lack of a clear strategy for victory amid chronic failures to support Ukraine’s Armed Forces (with necessary defensive fortifications, drones, electromagnetic gadgets) is painfully obvious. The “heroic stage” of the war ended at the end of 2022 with a counteroffensive near Kharkiv and Kherson. Ukraine’s own offensive during the summer of 2023 failed. Since then, we have withdrawn from at least three “iconic” lines of defense (Bakhmut, Avdiyivka, Marinka[1](#footnote-1)).
 
@@ -5428,7 +5428,7 @@ And, finally, Trump.
 
 The “Soros-funded prosecutor” part jumped out at me. Last time I checked, GS donated $1,000 also known as R-500 and the 9M729 (SSC-X-8), a new long-range missile that is reportedly a land-based version of the 3M14 Caliber. The 9M728 cruise missile has a maximum firing of 500 km while the 9M729 A cruise missile is designed to destroy land targets and is able to fly at a low altitude to reduce the risks of detection and complicate countermeasures. Their slower speeds and more consistent altitudes also make tasks such as maintaining data links with satellites easier.) to the colorofchange PAC in May 2021.
 
-I applaud all 12 members of the the trial jury, all Manhattan residents, for determining that Trump **illegally falsified business records** to cover up a [$130,000 payment](https://www.cbsnews.com/news/donald-trump-stormy-daniels-indictment-investigation-timeline-manhattan-district-attorney/) to adult film star Stormy Daniels before the 2016 election.
+I applaud all 12 members of the trial jury, all Manhattan residents, for determining that Trump **illegally falsified business records** to cover up a [$130,000 payment](https://www.cbsnews.com/news/donald-trump-stormy-daniels-indictment-investigation-timeline-manhattan-district-attorney/) to adult film star Stormy Daniels before the 2016 election.
 
 Justice is served. Go directly to jail.
 
@@ -5618,7 +5618,7 @@ Vova hinted that Russia could give high-tech weapons to non-state actors, that i
 
 What a jerk.
 
-Yesterday evening, I bumped into the the publishers of [The Black Sea Whale](https://blackseawhale.com/) on Desyatynna St. after lugging a new empty olive suitcase up the hill from the city's central department store [TSUM](https://tsum.ua/ua/), where they sell trout-flavored bread (UAH 60 for one bun) on the 5th floor.
+Yesterday evening, I bumped into the publishers of [The Black Sea Whale](https://blackseawhale.com/) on Desyatynna St. after lugging a new empty olive suitcase up the hill from the city's central department store [TSUM](https://tsum.ua/ua/), where they sell trout-flavored bread (UAH 60 for one bun) on the 5th floor.
 
 [Image]
 
@@ -6006,7 +6006,7 @@ Regular running at a heart rate that is [70 to 85 percent](http://www.runnerswor
 
 [Image]
 
-Which brings me the the map of foward lines of own troops (FLOTs).
+Which brings me the map of foward lines of own troops (FLOTs).
 
 [Image]
 
@@ -6538,7 +6538,7 @@ Yuriy Butusov writes [this](https://www.facebook.com/butusov.yuriy/posts/pfbid02
 
 ---
 
-As for the the Swedes, the Finns, the Balts, Poles, the Dutch and the Brits. Yes, they are with us, kind of, at least on Eurovision. I have no idea what Dmytro Ponamarenko, our ambassador to South Korea, has been up to since Z appointed him in late 2021.
+As for the Swedes, the Finns, the Balts, Poles, the Dutch and the Brits. Yes, they are with us, kind of, at least on Eurovision. I have no idea what Dmytro Ponamarenko, our ambassador to South Korea, has been up to since Z appointed him in late 2021.
 
 Yesterday, representing Hungary’s six-month presidency of the EU Council in Kyiv, Orban urged Ukraine to commit suicide (stop shooting) in order to facilitate peace talks with Russia.
 
@@ -7313,7 +7313,7 @@ His younger brother, Donald Jr, has called Z an “[ungrateful international wel
 
 ---
 
-If you’re being attacked on a piece of ground that’s not particularly important, staying put in the face of overwhelming force is stupid. You should retreat and live to fight another day. On the other hand, if you’re defending something genuinely important, to be *willing to die on on this hill* is a course of action you might take seriously.
+If you’re being attacked on a piece of ground that’s not particularly important, staying put in the face of overwhelming force is stupid. You should retreat and live to fight another day. On the other hand, if you’re defending something genuinely important, to be *willing to die on this hill* is a course of action you might take seriously.
 
 Rendezvous with death are common on battlefields, where soldiers fight to control the high ground. That’s what is taking place these days in Donbas, where the terrain is mostly flat as a pancake. It’s the Ukrainian equivalent to the coastal flood basin surrounded by forested limestone mountains near Thermopylae, where in 480 BC the Spartans and their allies, outnumbered fought to the last man against the advancing Persians under [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great).
 
@@ -7659,11 +7659,11 @@ VO₂ max is given in two ways: absolute and relative. Absolute is given in lite
 
 Junk is not a kick. It’s a way of life — [William S. Burroughs](https://www.theguardian.com/books/2009/jun/13/william-burroughs-digested-classics-junky)
 
-You know how literary hacks and opinion leaders have been bouncing around ideas about open society lately: they drone on about the the structured intimacy of clarifying one’s own image and choosing a life path while burning tires on the square after picking up gardening tools at the supermarket.
+You know how literary hacks and opinion leaders have been bouncing around ideas about open society lately: they drone on about the structured intimacy of clarifying one’s own image and choosing a life path while burning tires on the square after picking up gardening tools at the supermarket.
 
 Well of course it’s galling. It’s irritating that any anyone anywhere can qualify the desire for freedom when it’s so freaking hard just to make up your mind when presented with a display of trowels.
 
-Not that that’s been an issue lately, but I’m still looking for a decent spreader[1](#footnote-1).
+Not that’s been an issue lately, but I’m still looking for a decent spreader[1](#footnote-1).
 
 Amidst the above-mentioned paraphernalia frenzy I’ve found myself falling head over heels over [crashingly unsexy](https://nationalinterest.org/feature/ukraine-day-after-212067) op-eds championing Ukraine’s form-follows-function fuzz, all designed quite smartly, built to last and affordable.
 
@@ -8033,7 +8033,7 @@ Courtesy of the 79th Air Assault Brigade on the [Marinka axis](https://deepstate
 
 ---
 
-The chairman of parliament’s ad hoc investigation commission looking into alleged fraud involving the construction of of **fall-back defensive positions** is himself suspected of demanding kickbacks. He is member of parliament [Mykola Zadorozhny](https://en.interfax.com.ua/news/general/1000439.html), now an ex-member of the president’s Servant of the People faction, who previously ran Kvartal 95 Studio, a holiday organizing company.
+The chairman of parliament’s ad hoc investigation commission looking into alleged fraud involving the construction of **fall-back defensive positions** is himself suspected of demanding kickbacks. He is member of parliament [Mykola Zadorozhny](https://en.interfax.com.ua/news/general/1000439.html), now an ex-member of the president’s Servant of the People faction, who previously ran Kvartal 95 Studio, a holiday organizing company.
 
 [Image]
 
@@ -8916,7 +8916,7 @@ Asking questions in response to questions and then answering them is a tried-and
 
 [Video: https://youtu.be/K3fV1DEDYZo]
 
-One of the ugliest episodes occured 30 minutes into the performance when Z lit into [Ukrainska Pravda](http://pravda.com.ua) journalist Roman Kravets, who wanted to know Ukraine’s capacity for waging war and Z’s criteria for evaluating the efficacy of the country’s top “potent” managers.
+One of the ugliest episodes occurred 30 minutes into the performance when Z lit into [Ukrainska Pravda](http://pravda.com.ua) journalist Roman Kravets, who wanted to know Ukraine’s capacity for waging war and Z’s criteria for evaluating the efficacy of the country’s top “potent” managers.
 
 [Video: https://youtu.be/F6pq\_HqRAyM]
 
@@ -9786,7 +9786,7 @@ Yesterday we discussed **entropy-based warfare**, concluding that levels of diso
 
 High levels of entropy often prompt political leaders to adopt **strategic ambiguity** as a mechanism to cope with uncertainty. This explains why Z has been vague about his Victory Plan which can be later adapted to changing conditions without being constrained by rigid frameworks, such as the [Constitution of Ukraine](https://rm.coe.int/constitution-of-ukraine/168071f58b).
 
-The interaction between **entropy** and **causal ambiguity** can create what is known as the **causal ambiguity paradox**, which refers to the dual nature of **causal ambiguity** in war management, highlighting its protective benefits while simultaneously posing challenges for proactive weapons procurement, like, for example, buying *in advance* enough Mavic 3 drones to repulse “meat assaults,“ the military tactic employed by Russian forces in in eastern Ukraine.
+The interaction between **entropy** and **causal ambiguity** can create what is known as the **causal ambiguity paradox**, which refers to the dual nature of **causal ambiguity** in war management, highlighting its protective benefits while simultaneously posing challenges for proactive weapons procurement, like, for example, buying *in advance* enough Mavic 3 drones to repulse “meat assaults,“ the military tactic employed by Russian forces in eastern Ukraine.
 
 ---
 
@@ -10361,7 +10361,7 @@ Our expanding pink blob problem persists.
 
 [Image]
 
-Judging by the the video below, there’s not much left of Toretsk.
+Judging by the video below, there’s not much left of Toretsk.
 
 I don’t know whether Z has made it back to Kyiv yet.
 
@@ -10734,7 +10734,7 @@ Pinocchio
 
 * Food, fun, fab four*
 
-I never saw his face, only imagined it while I hollered down the phone line. I imagined the sort of angles and jut and and tan worn by urban sunbathers of the time. He was the new restaurant owner. I was the angry neighbor. It was 1984.
+I never saw his face, only imagined it while I hollered down the phone line. I imagined the sort of angles and jut and tan worn by urban sunbathers of the time. He was the new restaurant owner. I was the angry neighbor. It was 1984.
 
 A godsend apartment: the entire top floor of a two-storey walkup perched above the lifestyle porn and display-case kitsch of Glauber Strasse in Lichterfelde, a locality in the borough of Steglitz-Zehlendorf in Berlin. Roof garden out back, two rooms, a bay window.The rent was $250 a month, of which I paid half in liquor from the PX.
 
@@ -11764,7 +11764,7 @@ Next I listened to the 2-year anniversary after-action review of the exercise. I
 
 [Video: https://youtu.be/Im1NztWBaHI]
 
-Rebecca is on Kamala’s transition team and David is slumming around Budapest. If Donald wins the election this week, the team’s reunion might be postponed. They might all leave goverment service and join Alexander at the University of Virginia, or Colin at Stanford University, or wind up in jail.
+Rebecca is on Kamala’s transition team and David is slumming around Budapest. If Donald wins the election this week, the team’s reunion might be postponed. They might all leave government service and join Alexander at the University of Virginia, or Colin at Stanford University, or wind up in jail.
 
 [Image]
 
@@ -13130,7 +13130,7 @@ Uncle Joe wants the US Congress to approve more assistance for Ukraine.
 
 [Image]
 
-Elon tweets more assistance for Ukraine “is not ok,” but he is just one more unelected windbag. Uncle Joe was elected, US Senators and Congressmen/women were elected. Maybe Elon can run for national public office and vote against the measure. Until then, maybe he can try to convince legislators not to approve additional funding. We look forward to hearing his arguments, if he has any. Parrotting the the death squad next door, whispering in Donald’s ear, chatting up moron Joe, etc. will simply not suffice.
+Elon tweets more assistance for Ukraine “is not ok,” but he is just one more unelected windbag. Uncle Joe was elected, US Senators and Congressmen/women were elected. Maybe Elon can run for national public office and vote against the measure. Until then, maybe he can try to convince legislators not to approve additional funding. We look forward to hearing his arguments, if he has any. Parrotting the death squad next door, whispering in Donald’s ear, chatting up moron Joe, etc. will simply not suffice.
 
 ---
 
@@ -13459,7 +13459,7 @@ Sure, whatever. Anywho, Mike – typically unable to establish any sort of autho
 
 [Video: https://youtu.be/0T0Z6JPyvsg]
 
-I did not listen to to end of Petro’s monologue, which is in English.
+I did not listen to end of Petro’s monologue, which is in English.
 
 [Video: https://youtu.be/f\_XZUcBExag]
 
@@ -13955,7 +13955,7 @@ As of this writing (07.25), all the big booms have come from air defense rockets
 
 ---
 
-I mapped out the the route taken by the anonymous young soldier forcibly conscripted in Russia-occupied Donetsk region in February 2022.
+I mapped out the route taken by the anonymous young soldier forcibly conscripted in Russia-occupied Donetsk region in February 2022.
 
 He was dead seven months later.
 
