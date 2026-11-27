@@ -2206,7 +2206,7 @@ Which brings me to The Washington Post’s [editorial page](https://www.washingt
 
 The real appeal is the headline: after the original laugh, it might as well read *Lorem ipsum dolor sit amet....* Next stop, [Channel 7](https://7kanal.com.ua/), [Oprah](https://www.oprah.com/index.html) and The Washington Post’s [TikTok page](https://www.tiktok.com/@washingtonpost).
 
-And then there’s Andriy Yermak, the unexpected and un-elected head of the President’s Office, who [believes](https://www.washingtonpost.com/opinions/2022/03/21/ukraine-zelenskyy-the-west-underestimated-our-bravery-russia-brutality-civilians/) Ze is the “undisputed leader” of the “new world order.”
+And then there’s Andriy Yermak, the unexpected and unelected head of the President’s Office, who [believes](https://www.washingtonpost.com/opinions/2022/03/21/ukraine-zelenskyy-the-west-underestimated-our-bravery-russia-brutality-civilians/) Ze is the “undisputed leader” of the “new world order.”
 
 [Image]
 
@@ -2248,7 +2248,7 @@ Next up: “[Russian soldiers in Ukraine sabotaged own equipment, U.K. spy chief
 
 [Image]
 
-Indeed, although it’s much better than merely “extremely effective.” It’s fucking “[brilliant](https://abdymok.substack.com/p/lost-in-translation?s=w),” according to Mykhailo Podoliak, an advisor to Andriy Yermak, head of the President’s Office, who on March 21, 2022 [announced](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjissiz7PH2AhWEgv0HHYm6CugQFnoECBUQAQ&url=https%3A%2F%2Fwww.washingtonpost.com%2Fopinions%2F2022%2F03%2F21%2Fukraine-zelenskyy-the-west-underestimated-our-bravery-russia-brutality-civilians%2F&usg=AOvVaw2_lWlaI24qmBDCyx2RM-Ck) in Meryl’s and Amy’s newspaper that Ze is today **[The Leader of The New World Order](https://en.wikipedia.org/wiki/New_world_order_(politics))**. Yermak [doubled down](https://www.youtube.com/watch?v=5PSM7L33Zzg) on the wacko assertion days later in broken English during an interview with CNN’s Christian Amanpour.
+Indeed, although it’s much better than merely “extremely effective.” It’s fucking “[brilliant](https://abdymok.substack.com/p/lost-in-translation?s=w),” according to Mykhailo Podoliak, an adviser to Andriy Yermak, head of the President’s Office, who on March 21, 2022 [announced](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjissiz7PH2AhWEgv0HHYm6CugQFnoECBUQAQ&url=https%3A%2F%2Fwww.washingtonpost.com%2Fopinions%2F2022%2F03%2F21%2Fukraine-zelenskyy-the-west-underestimated-our-bravery-russia-brutality-civilians%2F&usg=AOvVaw2_lWlaI24qmBDCyx2RM-Ck) in Meryl’s and Amy’s newspaper that Ze is today **[The Leader of The New World Order](https://en.wikipedia.org/wiki/New_world_order_(politics))**. Yermak [doubled down](https://www.youtube.com/watch?v=5PSM7L33Zzg) on the wacko assertion days later in broken English during an interview with CNN’s Christian Amanpour.
 
 But I digress.
 
@@ -2355,7 +2355,7 @@ Footnote 13 takes you to the [BBC](https://www.bbc.com/news/world-europe-2896331
 [Image]
 *Photo c/o Стопкор*
 
-The “[vile purulence](https://abdymok.substack.com/p/a-separate-reality?s=w)“ London-based practicing philosopher Vladimir Pastukhov told us about ***before the invasion started*** was on full display over the weekend for foreign photographers wandering around Kyiv’s northwestern suburbs (Iprin, Bucha, [Borodyanka](https://abdymok.substack.com/p/day-9?s=w), Vorzel, Moshchun).
+The “[vile purulence](https://abdymok.substack.com/p/a-separate-reality?s=w)“ London-based practicing philosopher Vladimir Pastukhov told us about ***before the invasion started*** was on full display over the weekend for foreign photographers wandering around Kyiv’s northwestern suburbs (Irpin, Bucha, [Borodyanka](https://abdymok.substack.com/p/day-9?s=w), Vorzel, Moshchun).
 
 It’s too bad the world wasn’t paying attention when we experienced a similar nightmare nine years ago in Donbas. At the time, jingoism-resistant expats filed reports about pro-Russian separatist groups revolting against the government in Kyiv.
 
@@ -2367,7 +2367,7 @@ Pictures of the most recent carnage show us what Putin’s Special Operation in 
 
 Any army that robs and rapes civilians is not an effective fighting force. The collection of out-of-work mercenaries and untrained peasants sent to pillage towns around Kyiv is not a regular, combat-ready force, just a bunch of undisciplined licensed privateers, much like in Donbas nine years ago.
 
-The three-hour plus video below, recorded from 11:30 to 15:00 on Saturday, April 2, 2022, documents them sending home loot at [Russia-registered CDEK](https://www.cdek.ru/ru/offices/view/moz2-na-kuybysheva-32-ul-kuybysheva-32) express delivery service on [Kuibysheva street, 32](https://www.google.com/maps/place/Ulitsa+Kuybysheva+32,+Mazyr,+Belarus/@52.0510268,29.2503971,18z/data=!4m5!3m4!1s0x46d6122defb8fcfd:0x3cf735073b8eec28!8m2!3d52.0508899!4d29.2514002) in Mazyr, Belarus.
+The three-hour-plus video below, recorded from 11:30 to 15:00 on Saturday, April 2, 2022, documents them sending home loot at [Russia-registered CDEK](https://www.cdek.ru/ru/offices/view/moz2-na-kuybysheva-32-ul-kuybysheva-32) express delivery service on [Kuibysheva street, 32](https://www.google.com/maps/place/Ulitsa+Kuybysheva+32,+Mazyr,+Belarus/@52.0510268,29.2503971,18z/data=!4m5!3m4!1s0x46d6122defb8fcfd:0x3cf735073b8eec28!8m2!3d52.0508899!4d29.2514002) in Mazyr, Belarus.
 
 ###### **Timecodes:**
 
@@ -2602,7 +2602,7 @@ Ending Russia’s war against Ukraine is complicated by the inadequacy of formal
 
 *Date: 2022-04-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
-*Unaccountably Mislaid Solopsism*
+*Unaccountably Mislaid Solipsism*
 
 [Image]
 *Nathan’s map*
@@ -2611,7 +2611,7 @@ Over the last month and a half, we have alternatively explained, described and c
 
 A couple of days ago, we arrived at a blunt two-word assessment, replete w/ footnoted definitions, because the meaning that the words *trigger* should be clearly understood, especially since your life or your death may depend on it[6](#footnote-6).
 
-Which brings me Barrack Obama, who has also been thinking and talking about our bloody mess and its origins, [here,](https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/) at least, for more than one hour.
+Which brings me Barack Obama, who has also been thinking and talking about our bloody mess and its origins, [here,](https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/) at least, for more than an hour.
 
 [Image]
 
@@ -2652,7 +2652,7 @@ For more than eight years, the world needed to know **fascists**[1](https://abdy
 [Image]
 *UK Defense Intelligence map*
 
-BBC tells a [story](https://www.pravda.com.ua/rus/news/2022/04/10/7338511/) about the imminent inevitability[1](#footnote-1)of Russia’s further invasion of Ukraine, which U.S. and British intelligence services found out about during the summer of 2021.
+BBC tells a [story](https://www.pravda.com.ua/rus/news/2022/04/10/7338511/) about the imminent inevitability[1](#footnote-1) of Russia’s further invasion of Ukraine, which U.S. and British intelligence services found out about during the summer of 2021.
 
 The exact origin of the intelligence remains classified, but anonymous officials from both countries have said they obtained it from several sources and passed it on to Kyiv.
 
@@ -2720,7 +2720,7 @@ Ukraine’s president didn’t think the Russian leader’s crude comments were 
 [Image]
 *Google Ngram Viewer*
 
-I spent a lot of time during 2014 and 2015 watching battle clips from eastern Ukraine. Most of them were uploaded to a server, downloaded, dissected, translated, titled, worded over, packed into 90-second YouTube videos, used for presentation overlays, Instagram and Facebook posts and archived for later use in documentary films.
+I spent a lot of time during 2014 and 2015 watching battle clips from eastern Ukraine. Most of them were uploaded to a server, downloaded, dissected, translated, titled, voiced over, packed into 90-second YouTube videos, used for presentation overlays, Instagram and Facebook posts and archived for later use in documentary films.
 
 We all remember the first and second [battles for Donetsk Airport](https://en.wikipedia.org/wiki/Second_Battle_of_Donetsk_Airport) and the cyborgs who defended it. Sergei Loiko even wrote a book about it, [Airport](https://www.amazon.com/Airport-Ukrainian-Sergei-Loiko/dp/1522877878?asin=1522877878&revisionId=&format=4&depth=1), which sells for $20 on Amazon.
 
@@ -2769,7 +2769,7 @@ Oh, and fyi, all that was left of the [Kh-31P anti-radar air-to-ground missile](
 [Image]
 *Somewhere in Bucha, Kyiv region. Photo by Roman Pilipey @epaphotos*
 
-U.S. President Joe Biden has used the word ***genocide***to describe Russia’s further invasion of Ukraine[1](#footnote-1).
+U.S. President Joe Biden has used the word ***genocide*** to describe Russia’s further invasion of Ukraine[1](#footnote-1).
 
 Recall Phase 1 of the mess (February 24 - March 30). It ended with kitted up TikTokering legionnaires wandering around the outskirts of Kyiv taking selfies[2](#footnote-2).
 
@@ -5509,7 +5509,7 @@ Here’s a [quick translation](https://t.me/v_pastukhov/261) of what he opined y
 
 [2](#footnote-anchor-2)
 
-[Michael McFaul](https://en.wikipedia.org/wiki/Michael_McFaul) is a Russia expert and former U.S. Ambassador to Russia under Barrack Obama. [Andriy Yermak](https://en.wikipedia.org/wiki/Andriy_Yermak) is head of the President’s Office of Ukraine.
+[Michael McFaul](https://en.wikipedia.org/wiki/Michael_McFaul) is a Russia expert and former U.S. Ambassador to Russia under Barack Obama. [Andriy Yermak](https://en.wikipedia.org/wiki/Andriy_Yermak) is head of the President’s Office of Ukraine.
 
 ---
 
