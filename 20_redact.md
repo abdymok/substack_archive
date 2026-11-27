@@ -3680,7 +3680,7 @@ It’s day whatever of Ukraine’s COVID-19 disaster and it’s obvious somethin
 
 The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) over the seven months have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) whacko algorithms, [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
 
-The result isn't unlike a horrible accident, except it’s been caused by an former comedian actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a victim.
+The result isn't unlike a horrible accident, except it’s been caused by a former comedian and actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a victim.
 
 ---
 
@@ -3774,7 +3774,7 @@ The same martians who misreported Russia’s invasion of Ukraine in 2014 have be
 
 We can see with our own eyes in the clips below that, in fact, Lukashenko did not stage a comeback, regain momentum or maintain his composure this week.
 
-The last dictator in Europe spent most of Sunday at Independence Palace monitoring nationwide protests against his misrule. At around 18.00, he and his 15-year old son Kolya hightailed it to their Ostroshitskii Gorodok residence, changed into SWAT gear, grabbed guns and flew by helicopter back to the palace.
+The last dictator in Europe spent most of Sunday at Independence Palace monitoring nationwide protests against his misrule. At around 18.00, he and his 15-year-old son Kolya hightailed it to their Ostroshitskii Gorodok residence, changed into SWAT gear, grabbed guns and flew by helicopter back to the palace.
 
 By the time Lukashenko and his son arrived, the demonstration against him had ended and the protesters were on their way home.
 
@@ -3818,7 +3818,7 @@ The deliberate and systematic destruction of the culture of an ethnic group is c
 
 Belarusian officials have been accused of carrying out policies ethnocide and linguacide for more than 25 years.
 
-As election campaign were announced in Kyiv on April 22, 2019 in Kyiv, Volodymyr Zelensky [addressed his adoring fans](https://www.youtube.com/watch?v=lEM2JIfHcSM) and delivered a short message to people living in other post-Soviet countries.
+As the election campaign was launched in Kyiv on April 22, 2019, Volodymyr Zelensky [addressed his adoring fans](https://www.youtube.com/watch?v=lEM2JIfHcSM) and delivered a short message to people living in other post-Soviet countries.
 
 > “While I’m still not officially the president, let me say the following words as an ordinary citizen of Ukraine to citizens of all former states of the USSR: Look at us, everything is possible,” Zelensky [said](https://www.youtube.com/watch?v=lEM2JIfHcSM).
 
@@ -3988,9 +3988,9 @@ cf. [Kommersant interview](https://bit.ly/3hIy9RD)
 
 It’s day whatever of Ukraine’s COVID-19 disaster and it’s obvious something has gone horribly wrong.
 
-The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) in over the six months have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) whacko algorithms, [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
+The [positive dynamics of morbidity](https://abdymok.substack.com/p/postive-dynamics-of-morbidity) over the six months have been driven by [pathological bad thinking,](https://abdymok.substack.com/p/cataplectic-non-cognitivism) whacko algorithms, [formulations of set theory without variables](https://abdymok.substack.com/p/zeteams-replication-crisis), [kooky mitigation models for flattening the curve](https://abdymok.substack.com/p/ukraines-ugly-little-covid-19-secrets), [magical epidemic fantasies](https://abdymok.substack.com/p/magical-epidemic-thinking-22a), [irredeemable health officials](https://abdymok.substack.com/p/ukraines-irredeemable-health-ministry), [pandemic politics](https://abdymok.substack.com/p/zes-covid-clowns)and false assumptions promulgated by [poorly calibrated agents](https://abdymok.substack.com/p/what-makes-soup-soup) with [bad ideas](https://abdymok.substack.com/p/ukraines-human-sacrifice-experiment) who abandoned the [precautionary principle](https://abdymok.substack.com/p/the-precautionary-principle).
 
-The result isn't unlike a horrible accident, except it’s been caused by an former comedian actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a victim.
+The result isn't unlike a horrible accident, except it’s been caused by a former comedian and actor desperate for attention and applause. You want to laugh and be entertained, but you also want to avoid becoming a victim.
 
 ---
 
@@ -4014,7 +4014,7 @@ The revolution has lasted 25 days so far, more than enough time to make several 
 
 [Image]
 
-The first is that the question “**Who wins?”** is self-undermining at this stage. The second is Belarusians have already accomplished a lot without much outside help, and the third is keeping it this way is probably a good idea.
+The first is that the question **“Who wins?”** is self-undermining at this stage. The second is Belarusians have already accomplished a lot without much outside help, and the third is keeping it this way is probably a good idea.
 
 **We can conclude that Belarusians do not require:**
 
@@ -4040,11 +4040,11 @@ Alexander Lukashenko is currently the Belarusian president who, according to int
 
 He is *unpopular* and would lose a repeat presidential election, if one could be arranged within **the next 64 days**. That’s why he and Russian officials are now calling for changes to be made to the Constitution instead.
 
-The creation two weeks ago of the Coordinating Council representing civil society has been instructive, not least because the exercise illustrates the **impossibility** of dialogue between Lukashenko and his critics in Belarus.
+The creation of the Coordinating Council two weeks ago representing civil society has been instructive, not least because the exercise illustrates the **impossibility** of dialogue between Lukashenko and his critics in Belarus.
 
 [Image]
 
-As of this writing, four of the seven members of the council’s presidium are in prison or traveling abroad. Of the remaining three, Maria Kalesnikava and Maksym Znak, have stopped making sense. That leaves Svetlana Alexievich, who has said Putin might help.
+As of this writing, four of the seven members of the council’s presidium are in prison or traveling abroad. Of the remaining three, Maria Kalesnikava and Maksym Znak have stopped making sense. That leaves Svetlana Alexievich, who has said Putin might help.
 
 Putin won’t help.
 
