@@ -3676,7 +3676,7 @@ Alya footnotes **passionaries**, crediting [Lev Gumilev](https://ru.wikipedia.or
 
 [Image]
 
-Lev devotes an entire chapter to *passionarity* starting on page 33. I picked up the book when I was carousing in St. Petersburg in 1991. I’ve been reading portions of the manifest every since, usually late at night when I have difficulty falling asleep.
+Lev devotes an entire chapter to *passionarity* starting on page 33. I picked up the book when I was carousing in St. Petersburg in 1991. I’ve been reading portions of the manifest ever since, usually late at night when I have difficulty falling asleep.
 
 As for RDK, I would refer Sam and Alya to the project’s kick-off presser eight months ago. They should study the video **carefully** before writing more articles about RDK.
 
@@ -7066,7 +7066,7 @@ Here is the summary of the group’s August monthly report:
 
 > ---
 
-In other news, I have inherited an Iphone and am enjoying playing silly games with it.
+In other news, I have inherited an iPhone and am enjoying playing silly games with it.
 
 [Image]
 
@@ -9785,7 +9785,7 @@ He looked at me as if I was nuts.
 
 No one talked about Z or the war.
 
-On the drive back to Kyiv, air pressure in one of the car’s tires dropped. A cousin from Odesa called from a border crossing between Ukraine and Hungary to ask about the problem. He was driving back to Kyiv from Slovenia with his 17-year old son who attends a naval academy near Ljubljana. Some remote monitoring app alerted him to our pressure problem via Iphone.
+On the drive back to Kyiv, air pressure in one of the car’s tires dropped. A cousin from Odesa called from a border crossing between Ukraine and Hungary to ask about the problem. He was driving back to Kyiv from Slovenia with his 17-year old son who attends a naval academy near Ljubljana. Some remote monitoring app alerted him to our pressure problem via iPhone.
 
 ---
 
