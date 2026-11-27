@@ -143,9 +143,9 @@ i would argue, as has [imf group ukraine](http://imfgroup.com.ua/en/), that left
 
 He was sitting in the first row of a packed auditorium near Victory Square in Kyiv. The occasion was the January 29, 2019 forum, dubbed “From Kruty to Brussels. We will go our own way.”
 
-That was the last time I saw [Maksym Martyniuk](https://maximmartynuk.com/), who did just that. The driving force behind Ukraine’s growing land reform movement voluntarily left a job the country’s well-wishers hope he will return to — if not this year than next, if not under this government then during the next one.
+That was the last time I saw [Maksym Martyniuk](https://maximmartynuk.com/), who did just that. The driving force behind Ukraine’s growing land reform movement voluntarily left a job the country’s well-wishers hope he will return to — if not this year then next, if not under this government then during the next one.
 
-Maksymiuk was appointed acting Minister of Agriculture on November 28, 2018, two months *before* incumbent Petro Poroshenko formally kicked off his reelection campaign. News of his resignation was announced one day *after* the president signed into law the umpteenth extension of the moratorium on farmland sales in Ukraine.
+Martyniuk was appointed acting Minister of Agriculture on November 28, 2018, two months *before* incumbent Petro Poroshenko formally kicked off his reelection campaign. News of his resignation was announced one day *after* the president signed into law the umpteenth extension of the moratorium on farmland sales in Ukraine.
 
 [Image]
 
@@ -221,7 +221,7 @@ results of ukraine’s six previous presidential elections:
 
 showman and presidential candidate volodymyr z sat down with well-known kyiv-based con artist dmytro gordon ([golden pyramid](https://www.youtube.com/watch?v=_NmvkH4CwvM)) in late december 2018. the men chatted for almost four hours straight about life on the planet earth.
 
-the three-part dialogue was posted to youtube days before z announced his candidacy for president on new years eve 2018.
+the three-part dialogue was posted to youtube days before z announced his candidacy for president on New Year’s Eve 2018.
 
 z comes across as a likeable guy with many interesting stories. he tells the pyramid guy that he hasn’t decided whether or not to run for president, but it’s obvious he has.
 
@@ -243,7 +243,7 @@ z comes across as a likeable guy with many interesting stories. he tells the pyr
 
 **[part 3](http://bit.ly/2UkQeO3)** of the chit chat is not very interesting.
 
-**[09.48]** talks about his wonderful releationship with ukrainian businessman ihor kolomoisky, who doesn’t pay his debts on time ;-)
+**[09.48]** talks about his wonderful relationship with ukrainian businessman ihor kolomoisky, who doesn’t pay his debts on time ;-)
 
 ---
 
@@ -257,13 +257,13 @@ z comes across as a likeable guy with many interesting stories. he tells the pyr
 
 [Image]
 
-At least no one will be able argue that Ukrainians knew little about they person they gambled on to become the country’s sixth president.
+At least no one will be able to argue that Ukrainians knew little about the person they gambled on to become the country’s sixth president.
 
 Volodymyr Zelensky — who calls himself **Ze** —since late February has been the odds-on betting favorite to win the second round of Ukraine’s presidential election on April 21.
 
 The three-month campaign of the 41-year old from Kryviy Rih has featured upbeat video clips and choreographed remarks, almost exclusively from television screens and smartphones. His social media messages on [Facebook](https://www.facebook.com/zelenskiy95?epa=SEARCH_BOX) and [Instagram](https://www.instagram.com/zelenskiy_official/) range from [pink unicorns](https://www.facebook.com/ze2019official/videos/1504131519724418/) to [bare-breasted calisthenics](https://www.instagram.com/p/Bp6bCrNlxHJ/). They have resonated with ordinary Ukrainians much more deeply than sensible arguments made seriously by his opponent, incumbent President Petro Poroshenko.
 
-In a bizarre [three-and-a-half hour interview](http://bit.ly/2Uzp5X2%29) posted to YouTube days before announcing his candidacy on January 1, 2019, Ze said he was newcomer to politics, that he had not prepared a platform to run on, acquainted himself with international leaders or foreign policy matters or otherwise prepared himself to govern the country.
+In a bizarre [three-and-a-half hour interview](http://bit.ly/2Uzp5X2%29) posted to YouTube days before announcing his candidacy on January 1, 2019, Ze said he was a newcomer to politics, that he had not prepared a platform to run on, acquainted himself with international leaders or foreign policy matters or otherwise prepared himself to govern the country.
 
 [Image]
 
@@ -533,7 +533,7 @@ mylovanov has [sidestepped](https://thepage.com.ua/exclusive/v-minekonomike-rass
 
 however, supykhanov jr. by his actions has backed this claim. on october 23, he [submitted](https://declarations.com.ua/declaration/nacp_3971a261-0809-4c2b-8b46-7d19dd60101d) his declaration to the national agency on corruption prevention (nacp) as a candidate to head agrarian fund.
 
-according to unofficial information circulating in government quarters, mylovanov’s deputy taras vysotsky, lissitsa’s protégé, intends to correct this “blunder.” vysotsky’s key task will be organizing the visibility of a possible competition for vacant post. in addition to supykhanov, two additional candidates for will compete for the position. lissitsa currently plays the role of “[grey cardinal of the agricultural sector](https://t.me/ukrainianinsider/26?fbclid=IwAR1vBSwc513mwbqM711pArqCZCY_KWKWRP0uIfIZvY_homa3h3hh3nhm3h3nhm)” and trusted “[bag man](https://t.me/ukrainianinsider/26?fbclid=IwAR1vBSwc513mwbqM711pArqCZCY_KWKWRP0uIfIZvY_homa3h3hh3nhm3h3nhm)” of the economy ministry’s agri-business portfolio.
+according to unofficial information circulating in government quarters, mylovanov’s deputy taras vysotsky, lissitsa’s protégé, intends to correct this “blunder.” vysotsky’s key task will be organizing the visibility of a possible competition for vacant post. in addition to supykhanov, two additional candidates will compete for the position. lissitsa currently plays the role of “[grey cardinal of the agricultural sector](https://t.me/ukrainianinsider/26?fbclid=IwAR1vBSwc513mwbqM711pArqCZCY_KWKWRP0uIfIZvY_homa3h3hh3nhm3h3nhm)” and trusted “[bag man](https://t.me/ukrainianinsider/26?fbclid=IwAR1vBSwc513mwbqM711pArqCZCY_KWKWRP0uIfIZvY_homa3h3hh3nhm3h3nhm)” of the economy ministry’s agri-business portfolio.
 
 as a former executive of the [agroton company](https://www.rbc.ua/ukr/news/a-lissitsa-pokidaet-zayavil-o-vyhode-iz-sostava-direktorov-17052011111200), lissitsa has ties to borys supykhanov, the founder and member of the supervisory board of agroton (the company in which lissitsa himself was the youngest managing partner). agroton formally belongs to [yuriy zhuravlev](https://opendatabot.ua/c/30280120), who now lives in occupied crimea.
 
@@ -589,11 +589,11 @@ the 2019 elections opened up new and hitherto unprecedented opportunities to bor
 
 as a functionary of the agro-industrial complex, supykhanov sr. said he wanted to organize a “[fertilizers in exchange for grain](https://zn.ua/ECONOMICS/kazhdomu_sezonu_svoy_ministr.html)” business in an interview with media back in the 1990s. if his efforts culminate in success, it’s easy to predict the demise of agrarian fund. the supykhanov father-and-son duo would have access to the agrarian fund’s uah 7 billion in assets in the form, mainly, grain in warehouses and highly liquid fertilizers (uah 1.5 billion worth). moreover, through their former top manager alex lissitsa, whom the media already has confidently dubbed the “shadow minister of the agro-industrial complex” under the authority of mylovanov, they have lobbied the new “formal” minister with the idea that agrarian fund should simply be [liquidated](https://thepage.com.ua/experts/uvolnenie-kotoroe-mozhet-zakonchitsya-skandalom). it’s not difficult to guess at what “discounts” the commodity stores of the once successful state agricultural trader will be sold.
 
-the one aspect of this sordid story that remains unclear is the role of timofiy mylovanov himself. in the company of so-called mazhery (well-endowed progeny of former corrupt ukrainian officials), supyhanov jr. was heard recently in a kyiv restaurant boasting that he successfully passed an interview with mylovanov, because the new “hipster minister” admired his nifty jacket. mylovanov even inquired about the brand so he could by one himself.
+the one aspect of this sordid story that remains unclear is the role of timofiy mylovanov himself. in the company of so-called mazhery (well-endowed progeny of former corrupt ukrainian officials), supyhanov jr. was heard recently in a kyiv restaurant boasting that he successfully passed an interview with mylovanov, because the new “hipster minister” admired his nifty jacket. mylovanov even inquired about the brand so he could buy one himself.
 
 it is difficult to believe ukraine’s new minister of economics, trade and agriculture did not take an interest in the biography of either supykhanov sr., who watched over the agro-industrial complex under yanukovych the prime minister, or the biography of his son, whose two-decades long career path is a classic example of a state budget pilferer.
 
-there is one aspect of this story which remains a mystery. why did timofiy mylovanov trust the recommendations of his old kyiv school of economics partner alex lissitsa and regard the person wearing a nifty jacket an interview with as a “new face”? do we chalk this up to mylovanov’s inexperience and naivet? or is there another explanation?
+there is one aspect of this story which remains a mystery. why did timofiy mylovanov trust the recommendations of his old kyiv school of economics partner alex lissitsa and regard the person wearing a nifty jacket an interview with as a “new face”? do we chalk this up to mylovanov’s inexperience and naïveté? or is there another explanation?
 
 ---
 
@@ -608,21 +608,21 @@ drumpy’s demise
 [Image]
 *u.s. secretary of state mike pompeo and u.s. eu ambassador gordon sondland*
 
-**kyiv**. the trump administration’s preoccupation with ukraine traces back to the [doxing](https://medium.com/@abdymok/killing-the-story-64bd0f6840e8) of paul manafort’s daughter by a obscure darknet hactivist group named cyberguerilla. the dump contained almost 300,000 text messages linking manafort to millions of dollars in secret, illegal offshore payments for his work in ukraine. the messages [confirmed](https://medium.com/@abdymok/the-massacre-in-kyiv-three-years-ago-coincided-with-russias-military-invasion-of-ukraine-starting-597c208514b9) suspicions that manafort is a crook and [a sexual deviant](https://lareviewofbooks.org/article/kompromat-or-revelations-from-the-unpublished-portions-of-andrea-manaforts-hacked-texts/).
+**kyiv**. the trump administration’s preoccupation with ukraine traces back to the [doxing](https://medium.com/@abdymok/killing-the-story-64bd0f6840e8) of paul manafort’s daughter by an obscure darknet hacktivist group named cyberguerilla. the dump contained almost 300,000 text messages linking manafort to millions of dollars in secret, illegal offshore payments for his work in ukraine. the messages [confirmed](https://medium.com/@abdymok/the-massacre-in-kyiv-three-years-ago-coincided-with-russias-military-invasion-of-ukraine-starting-597c208514b9) suspicions that manafort is a crook and [a sexual deviant](https://lareviewofbooks.org/article/kompromat-or-revelations-from-the-unpublished-portions-of-andrea-manaforts-hacked-texts/).
 
 *calibre* western media largely ignored the [february 2017 dump](https://archive.cyberguerrilla.org/a/2017/?s=manafort&submit.x=0&submit.y=0), focusing instead on the so-called *[black ledger](https://medium.com/@abdymok/ukraine-clinton-collusion-case-413b87bdd903),* a partial handwritten account of payouts to ex-ukrainian president’s viktor yanukovych’s minions, including manafort. the ledger was [removed](https://medium.com/@abdymok/ukraine-clinton-collusion-case-413b87bdd903) from yanukovych’s party of regions headquarters in kyiv on or around february 18, 2014 after anti-government protesters set fire to the building. bits of it popped up during the summer of 2016 when manafort was picked to manage trump’s election campaign, courtesy of ukrainian member of parliament serhiy leshchenko.
 
 [Image]
 *this $750,000 payment to manafort was made, according to special counsel robert mueller*
 
-leshchenko’s scoop made headlines, but u.s. justice department’s money laundering and asset recovery section (mlars) two years earlier (in [january 2014](http://bit.ly/349kgnQ)) began investigating manafort for money laundering. at least one *black ledger* payment for $750,000 through a shell company in belize involving manafort, was corroborated by mueller’s investigation, but that was the tip the iceberg.
+leshchenko’s scoop made headlines, but u.s. justice department’s money laundering and asset recovery section (mlars) two years earlier (in [january 2014](http://bit.ly/349kgnQ)) began investigating manafort for money laundering. at least one *black ledger* payment for $750,000 through a shell company in belize involving manafort, was corroborated by mueller’s investigation, but that was the tip of the iceberg.
 
 [Image]
 *review of four fisa applications and other aspects of fbi’s crossfire hurricane investigation (p. 398)*
 
 for the past three years, ukraine has been a chip on trump’s shoulder. he saw allegations in 2016 about manafort as part of a plot to undermine his bid for the white house and reverse the election result.
 
-trump’s true interest in ukraine lies in his ongoing obsession with the daft conspiracy theory that he was set up by the deep state and foreign intelligence services of several key u.s. allies. the goal of the imaginary plot was to destroy trump’s campaign and, if that didn’t work, his presidency. u.s. attorney general bill barr, secretary of state mike pompeo and at least a few u.s. senators today believe this is a legitimate line of inquiry and have promised to “leave no stone unturned” in investigating of meddling by ukraine in the 2016 u.s. presidential election.
+trump’s true interest in ukraine lies in his ongoing obsession with the daft conspiracy theory that he was set up by the deep state and foreign intelligence services of several key u.s. allies. the goal of the imaginary plot was to destroy trump’s campaign and, if that didn’t work, his presidency. u.s. attorney general bill barr, secretary of state mike pompeo and at least a few u.s. senators today believe this is a legitimate line of inquiry and have promised to “leave no stone unturned” in investigating meddling by ukraine in the 2016 u.s. presidential election.
 
 six years since the start of the revolution of dignity, ukraine remains a ***sham democracy***. it is a primitive post-soviet feudal autocracy. democracy here is not underpinned by elections or coordinated work of institutions, but by popular uprisings. absent them, even the illusion of democracy would not exist.
 
