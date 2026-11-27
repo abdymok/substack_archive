@@ -708,7 +708,7 @@ And we will fuck putin, we will.
 
 [Image]
 
-In exercising my empowered agency as a purveyor of information about the on-going *further* invasion – or, rather, vile purulence – I have already discovered an interesting contrast between reporting on this sure-to-be-cracking story.
+In exercising my empowered agency as a purveyor of information about the ongoing *further* invasion – or, rather, vile purulence – I have already discovered an interesting contrast between reporting on this sure-to-be-cracking story.
 
 On the [Ukrainian jacket](https://web.archive.org/web/20020702230534/http://lookinside-images.amazon.com/Qffs+v35leqBpC89D8L+PGZipV3N+HndeB0kTBspAkbMOhNfYJdGyBuukKF6Ljqzu2YuCQ4r/DM=), it’s all in your face, famous tongues just a-snakin’ away, badass chains nestled in luxurious chest hair. But on the [Russian jacket](https://www.youtube.com/watch?v=T3pYbzFrnQU), lots of Photoshopping has gone down, and all that supermacho chest growth has already started to recede. So far.
 
@@ -745,9 +745,9 @@ Oh, and our first Russian [prisoners of war](https://www.facebook.com/CinCAFU/po
 [Image]
 *Photo c/o abdymok*
 
-Walk to work was uneventful. Air-raid sirens and lots of gun-toting civvies in the center of town.
+The walk to work was uneventful. Air-raid sirens and lots of gun-toting civvies in the center of town.
 
-Hanna [sez](https://bit.ly/3MaB8C6) it’s **Battle for Kyiv Day**. She just [posted a vid](https://www.facebook.com/ganna.maliar/posts/2096776003814764) of Ukrainian military vehicles comandeered by invading orcs racing to Kyiv from Hostomel.
+Hanna [sez](https://bit.ly/3MaB8C6) it’s **Battle for Kyiv Day**. She just [posted a vid](https://www.facebook.com/ganna.maliar/posts/2096776003814764) of Ukrainian military vehicles commandeered by invading orcs racing to Kyiv from Hostomel.
 
 ---
 
@@ -759,7 +759,7 @@ Hanna [sez](https://bit.ly/3MaB8C6) it’s **Battle for Kyiv Day**. She just [po
 
 **News just in:** the interlopers were [blown to smithereens](https://nv.ua/kyiv/okkupanty-zahvatili-dva-avto-vsu-i-napravlyalis-v-centr-kieva-ih-obezvredili-50219892.html). Or friendly fire?
 
-But… Defense Ministry [sez](https://www.facebook.com/photo/?fbid=258784736434612&set=a.229159256063827) a group of orcs are active in Kyiv’s Obolon region, urges citizens to be vigilant and liquidate them w/ Molotov cocktails.
+But… Defense Ministry [sez](https://www.facebook.com/photo/?fbid=258784736434612&set=a.229159256063827) a group of orcs are active in Kyiv’s Obolon region, and urged citizens to be vigilant and liquidate them w/ Molotov cocktails.
 
 [Image]
 
@@ -780,7 +780,7 @@ This bloody mess is starting to remind me of the last [Det-A](https://detachment
 
 [Image]
 
-It’s was a quiet night in Kyiv, until around 4:30 when I heard the sound of a jet, that is, one (1) missile, flying overhead. That was followed 30 seconds later by three big muffled explosions. [Whump, Whump. Whump.](https://twitter.com/dronedept/status/1497034478786646016) Ukraine’s Deputy Interior Minister Anton Gerashchenko [said](https://korrespondent.net/city/kiev/4451232-v-kyeve-hremiat-vzryvy-okkupanty-ustroyly-ataku) the blasts, registered in Kyiv’s Pechersky and Holosiivsky districts, and across the river in Pozniaky, were probably cruise or ballistic missile strikes. He added [later](https://korrespondent.net/ukraine/politics/4449636-vtorzhenye-rossyy-v-ukraynu-onlain) that Ukraine’s anti-aircraft defense had shot down an enemy airborne vehicle in the skies over Darnytsky District on [Oleksandra Koshytsya Street, 7](https://korrespondent.net/ukraine/politics/4449636-vtorzhenye-rossyy-v-ukraynu-onlain).
+It was a quiet night in Kyiv, until around 4:30 when I heard the sound of a jet, that is, one (1) missile, flying overhead. That was followed 30 seconds later by three big muffled explosions. [Whump, Whump. Whump.](https://twitter.com/dronedept/status/1497034478786646016) Ukraine’s Deputy Interior Minister Anton Gerashchenko [said](https://korrespondent.net/city/kiev/4451232-v-kyeve-hremiat-vzryvy-okkupanty-ustroyly-ataku) the blasts, registered in Kyiv’s Pechersky and Holosiivsky districts, and across the river in Pozniaky, were probably cruise or ballistic missile strikes. He added [later](https://korrespondent.net/ukraine/politics/4449636-vtorzhenye-rossyy-v-ukraynu-onlain) that Ukraine’s anti-aircraft defense had shot down an enemy airborne vehicle in the skies over Darnytsky District on [Oleksandra Koshytsya Street, 7](https://korrespondent.net/ukraine/politics/4449636-vtorzhenye-rossyy-v-ukraynu-onlain).
 
 [Turned out](https://korrespondent.net/city/kiev/4451239-v-kyeve-priamoe-popadanye-v-zhyloi-dom) to be a direct hit on a residential building.
 
@@ -800,7 +800,7 @@ We had to sign language our way out of an encounter with police at Druzhba Narod
 
 [Image]
 
-I didn’t see any “enemy sabotage groups” on my walk home from the center of town, which was almost deserted. I did pass a couple of groups of young chainsmoking men wearing black clothes (probably plainclothes police).
+I didn’t see any “enemy sabotage groups” on my walk home from the center of town, which was almost deserted. I did pass a couple of groups of young chain-smoking men wearing black clothes (probably plainclothes police).
 
 [Image]
 
@@ -862,7 +862,7 @@ I’ll probably update this page throughout the course of Day 3. Shout-out to al
 
 **06:02** - Kyiv City State Administration’s [Telegram channel](https://t.me/KyivCityOfficial) providing official updates on the madness.
 
-**05:49** - So much for the “qulet lull.” Shitload of gunfire near Beresteiska and around Polytech. Bridge at Beresteiska on Prospekt Peremohy [blown up](https://www.google.com/maps/place/Beresteiska+Station/@50.4585628,30.4202799,18z/data=!4m5!3m4!1s0x40d4cc467f31f119:0xe8347c607b020b39!8m2!3d50.4582274!4d30.4201369) to impede orc advance.
+**05:49** - So much for the “quiet lull.” Shitload of gunfire near Beresteiska and around Polytech. Bridge at Beresteiska on Prospekt Peremohy [blown up](https://www.google.com/maps/place/Beresteiska+Station/@50.4585628,30.4202799,18z/data=!4m5!3m4!1s0x40d4cc467f31f119:0xe8347c607b020b39!8m2!3d50.4582274!4d30.4201369) to impede orc advance.
 
 **05:39** - lol ))
 
@@ -870,7 +870,7 @@ I’ll probably update this page throughout the course of Day 3. Shout-out to al
 
 **05:30** - The orcs are all over the place. Friendly fire near [Beresteiska Station](https://www.google.com/maps/place/Beresteiska+Station/@50.4587865,30.4169754,16.75z/data=!4m5!3m4!1s0x40d4cc467f31f119:0xe8347c607b020b39!8m2!3d50.4582274!4d30.4201369), along Prospekt Peremohy, near [Shuliavska Station](https://www.google.com/maps/place/Shuliavka,+Kyiv,+02000/@50.4517074,30.4442303,14z/data=!3m1!4b1!4m5!3m4!1s0x40d4cc29cbac5d45:0x5b09d85959d3a4fd!8m2!3d50.4533821!4d30.4529396) and [Kyiv Polytech](https://www.google.com/maps/place/Shuliavka,+Kyiv,+02000/@50.453566,30.4484528,14.5z/data=!4m5!3m4!1s0x40d4cc29cbac5d45:0x5b09d85959d3a4fd!8m2!3d50.4533821!4d30.4529396) across from the Zoo. The boys and girls at Korrespondent posting [pics/vids](https://korrespondent.net/city/kiev/4451659-v-kyeve-ydut-boy-za-tets-6-y-voynskuui-chast) of the mess.
 
-**05:00** - Lots of automatic gun fire now. [Fighting](https://korrespondent.net/city/kiev/4451659-v-kyeve-ydut-boy-za-tets-6-y-voynskuui-chast) near power-generating plant [across the river](https://www.google.com/maps/search/%D0%A2%D0%AD%D0%A6-6/@50.5550445,30.5427338,11.25z) in Troieshchyna.
+**05:00** - Lots of automatic gunfire now. [Fighting](https://korrespondent.net/city/kiev/4451659-v-kyeve-ydut-boy-za-tets-6-y-voynskuui-chast) near power-generating plant [across the river](https://www.google.com/maps/search/%D0%A2%D0%AD%D0%A6-6/@50.5550445,30.5427338,11.25z) in Troieshchyna.
 
 **04:58** - Small arms fire in Kyiv. Dunno where from. Maybe on the left bank of Dnipro. Not fireworks.
 
@@ -928,7 +928,7 @@ I’ve decided to put myself on a news-about-what’s-going-on diet until the en
 
 ---
 
-*["Another All-Time Media Faceplant”](https://taibbi.substack.com/p/activism-uncensored-in-washington?utm_source=url)* American anti-Ukraine propaganda that reads like an ad for the Dynamic Tension body building program from [Charles Atlas](http://web.archive.org/web/20030402200041/http://www.charlesatlas.com/atlas_photos/atlas_photos.html) (World's Most Perfectly Developed Man). Except it’s a link to Matt’s [substack](https://taibbi.substack.com/p/another-all-time-media-faceplant?utm_source=url). Remember Matt from Moscow? Of course, [we do](https://www.washingtonpost.com/outlook/the-two-expat-bros-who-terrorized-women-correspondents-in-moscow/2017/12/15/91ff338c-ca3c-11e7-8321-481fd63f174d_story.html).
+*["Another All-Time Media Faceplant”](https://taibbi.substack.com/p/activism-uncensored-in-washington?utm_source=url)* American anti-Ukraine propaganda that reads like an ad for the Dynamic Tension bodybuilding program from [Charles Atlas](http://web.archive.org/web/20030402200041/http://www.charlesatlas.com/atlas_photos/atlas_photos.html) (World's Most Perfectly Developed Man). Except it’s a link to Matt’s [substack](https://taibbi.substack.com/p/another-all-time-media-faceplant?utm_source=url). Remember Matt from Moscow? Of course, [we do](https://www.washingtonpost.com/outlook/the-two-expat-bros-who-terrorized-women-correspondents-in-moscow/2017/12/15/91ff338c-ca3c-11e7-8321-481fd63f174d_story.html).
 
 Which reminds me of Fred and friends and their loopy counterfactual from December 2021.
 
@@ -970,12 +970,12 @@ Downtown Kyiv yesterday evening felt terribly lonely. City state administration 
 [Image]
 *lva Tolstoho Square*
 
-It’s not a bright idea these days to snap anywhere. A guard in front of the Leonardo Business Center bolted out of booth waving his pistol when I took a photo of the German embassy on Bohdana Khmelnytskoho street. Wound up having to mumble something in Irish gaelic to prove my passport wasn’t fake.
+It’s not a bright idea these days to snap anywhere. A guard in front of the Leonardo Business Center bolted out of booth waving his pistol when I took a photo of the German embassy on Bohdana Khmelnytskoho street. Wound up having to mumble something in Irish Gaelic to prove my passport wasn’t fake.
 
 [Image]
 *Bohdana Khmelnytskoho Street*
 
-If you’re interesting in reading about Russia’s demonstrative acts of extreme violence, lots of expats are posting military updates. Here’s [one](https://www.facebook.com/stefan.korshak) from a Yale graduate. And [Belarus expert](https://www.nytimes.com/1997/03/27/world/us-expels-a-belarus-diplomat-and-warns-of-repression-there.html) Steven Erlanger [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=&cad=rja&uact=8&ved=2ahUKEwiZspjq-KP2AhXhpIsKHQKKCEgQxfQBKAB6BAgEEAI&url=https%3A%2F%2Fwww.nytimes.com%2F2022%2F02%2F28%2Fworld%2Feurope%2Frussia-ukraine-military.html&usg=AOvVaw3kBPrqALX_H_alsA19FwQF).
+If you’re interested in reading about Russia’s demonstrative acts of extreme violence, lots of expats are posting military updates. Here’s [one](https://www.facebook.com/stefan.korshak) from a Yale graduate. And [Belarus expert](https://www.nytimes.com/1997/03/27/world/us-expels-a-belarus-diplomat-and-warns-of-repression-there.html) Steven Erlanger [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=&cad=rja&uact=8&ved=2ahUKEwiZspjq-KP2AhXhpIsKHQKKCEgQxfQBKAB6BAgEEAI&url=https%3A%2F%2Fwww.nytimes.com%2F2022%2F02%2F28%2Fworld%2Feurope%2Frussia-ukraine-military.html&usg=AOvVaw3kBPrqALX_H_alsA19FwQF).
 
 Wow! Talk about longevity.
 
@@ -993,10 +993,10 @@ Wow! Talk about longevity.
 
 1. All the experience I have accumulated over almost forty years of work in the field of conflict resolution suggests that the success of any complex negotiation does not depend on the skill of the negotiators, their good or bad will, but on the presence or absence of a negotiating formula and negotiating position. If there are none, if before the start of negotiations at least one of the parties has not formulated a position that allows for the existence of points of contact, the negotiations are meaningless even if the mediator is the Pope or the Chief Rabbi.
 2. The second condition for successful negotiations is realism. In the current situation, realism presupposes an honest and courageous recognition of the fact that there is no negotiating formula for making peace between Russia and Ukraine today. It doesn't exist in principle. That is, if Crimea, Donbas, the neutral status of Ukraine, restitution, militarization, compensation, satisfaction and so on become the subject of discussion, negotiations can be curtailed immediately, because they will yield zero results. On all these issues, Russia and Ukraine, and more broadly, Russia and the West, are now unable to agree.
-3. The third indispensable condition for conducting any negotiations, with the exception of negotiations on complete and unconditional surrender, is to give both parties the opportunity to save face. This is triple important when it comes to negotiations between belligerent countries, where governments are backed by enraged masses warmed by bloodshed. The point is no longer what Putin and Zelensky can agree on, but what the masses behind them can accept. Putin depends on the mood of the masses just as much as Zelensky, just the format is different. Nothing that goes against the expectations of the masses, neither one nor the other can sign. We have already seen this in Paris.
-4. Based on these three conditions, the negotiation formula looks like a very narrow isthmus with an almost illusory possibility to walk on water “like on dry land.” Speech can and should be exclusively about the conditions of a truce, and not peace. This is the only more or less working window of opportunity. Stabilization of the situation here and now without even trying to give a hint about in what direction, how and how quickly this conflict should be resolved. The limit of the possible is an armistice agreement, like with Japan, leaving all questions open, but allowing somehow to streamline humanitarian problems.
-5. The only point of discussion and, accordingly, the point of contact today can and should be humanitarian issues. Cessation of new killings, exchange of prisoners and corpses. The only way to save face is a tear on the cheek, even if it's a crocodile tear. Crocodiles also have children and even grandchildren. Leaving the humanitarian zone means the death of the negotiation process. There can be only one general thesis now - any ideas and ambitions, grievances and claims cannot be an excuse for the nightmare into which it all resulted.
-6. From a practical point of view, the base can be agreements on a ceasefire and the withdrawal of Russian troops to positions before February 24, with the exception of the territories of Russia-occupied areas of Donetsk and Luhansk regions, which Russia unilaterally recognized as independent states and which in any case were not controlled by Ukraine until February 24. Everything else should be left for later. This is in the interests of Ukraine, which needs to save the lives of its citizens, and this does not contradict Putin’s concept of “fraternal peoples”: South and North Korea are generally one people, but they can only exist on opposite sides of the barbed wire.
+3. The third indispensable condition for conducting any negotiations, with the exception of negotiations on complete and unconditional surrender, is to give both parties the opportunity to save face. This is triply important when it comes to negotiations between belligerent countries, where governments are backed by enraged masses warmed by bloodshed. The point is no longer what Putin and Zelensky can agree on, but what the masses behind them can accept. Putin depends on the mood of the masses just as much as Zelensky, just the format is different. Neither one nor the other can sign anything that goes against the expectations of the masses. We have already seen this in Paris.
+4. Based on these three conditions, the negotiation formula looks like a very narrow isthmus with an almost illusory possibility to walk on water “like on dry land.” Speech can and should be exclusively about the conditions of a truce, and not peace. This is the only more or less working window of opportunity. Stabilization of the situation here and now without even trying to give a hint as to the direction, timing or speed at which this conflict should be resolved. The limit of the possible is an armistice agreement, like with Japan, leaving all questions open, but allowing somehow to streamline humanitarian problems.
+5. The only point of discussion and, accordingly, the point of contact today can and should be humanitarian issues. Cessation of new killings, exchange of prisoners and corpses. The only way to save face is a tear on the cheek, even if it's a crocodile tear. Crocodiles also have children and even grandchildren. Leaving the humanitarian zone means the death of the negotiation process. There can be only one general thesis now - any ideas and ambitions, grievances and claims cannot be an excuse for the nightmare that resulted.
+6. From a practical point of view, the base can be agreements on a ceasefire and the withdrawal of Russian troops to positions before February 24, with the exception of the Russia-occupied areas of the Donetsk and Luhansk regions, which Russia unilaterally recognized as independent states and which in any case were not controlled by Ukraine until February 24. Everything else should be left for later. This is in the interests of Ukraine, which needs to save the lives of its citizens, and this does not contradict Putin’s concept of “fraternal peoples”: South and North Korea are generally one people, but they can only exist on opposite sides of the barbed wire.
 
 ---
 
