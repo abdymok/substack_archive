@@ -28,7 +28,7 @@ The most recent SBU skullduggery involves top SBU officers fighting for control 
 
 [Image]
 
-> [This all was] the result was a radical plan to liquidate [head of the SBU’s internal security directorate Andriy] Naumov. After it failed, the standard propaganda scenario along the lines of ‘Who yells louder to arrest the thief’ ensued. Conclusions? There are almost none. It’s just the end of a banal many-month special investigation, Mykhailo Podoliak, advisor to President’s Office Head Andriy Yermak, [said](https://www.facebook.com/story.php?story_fbid=1080921129014072&id=100012885856065) on Facebook.
+> [This all was] the result of a radical plan to liquidate [head of the SBU’s internal security directorate Andriy] Naumov. After it failed, the standard propaganda scenario along the lines of ‘Who yells louder to arrest the thief’ ensued. Conclusions? There are almost none. It’s just the end of a banal many-month special investigation, Mykhailo Podoliak, advisor to President’s Office Head Andriy Yermak, [said](https://www.facebook.com/story.php?story_fbid=1080921129014072&id=100012885856065) on Facebook.
 
 [Image]
 
@@ -125,11 +125,11 @@ Whatever. Welcome to the world of ultra-competitive Ukraine-style politics.
 
 **Past is prologue**
 
-Secret state security services these days are walking a tightrope. Any miscalculation could result in a hilarious failure, such as the recent botched attempt to liquidate Alexey Navalny, or a bloody mess, like the [Battle of Kassam](https://en.wikipedia.org/wiki/Battle_of_Khasham).
+Secret state security services these days are walking a tightrope. Any miscalculation could result in a hilarious failure, such as the recent botched attempt to liquidate Alexey Navalny, or a bloody mess, like the [Battle of Khasham](https://en.wikipedia.org/wiki/Battle_of_Khasham).
 
 OPSEC fuck ups in former Soviet states in recent years have been manifold. They demonstrate nothing is more corrosive than official anonymity, a TOP SECRET clearance with access to sensitive compartmented information (SCI). Not leaving digital clues has become harder, further complicating the enterprise of carrying out clandestine fuckery without getting caught.
 
-Crusaders like Julian Assange and Eduard Snowden a decade ago warned about Big Brother wanting to monitor our phone calls and track our movements. The information age has instead allowed anyone with a computer, a decent Internet connection and a couple thousand dollars to keep track of would-be guardians of the state. Shadowing inept operatives has never been easier or more entertaining.
+Crusaders like Julian Assange and Edward Snowden a decade ago warned about Big Brother wanting to monitor our phone calls and track our movements. The information age has instead allowed anyone with a computer, a decent Internet connection and a couple thousand dollars to keep track of would-be guardians of the state. Shadowing inept operatives has never been easier or more entertaining.
 
 Which brings us to Ukraine’s state security services and their year-long operation against Russian agents and Wagner PMC (Private Military Company).
 
@@ -159,7 +159,7 @@ The order given in July 2020 to scupper an attempt by Ukraine’s security servi
 
 **Andriy Yermak, Head of the President’s Office of Ukraine, is in a lot of trouble.**
 
-> “The truth is that in 2018 I gave authorization to prepare this operation, which was the most difficult one in the history of the Ukrainian special services. The truth is that our intelligence services, in cooperation with Western partners, prepared it brilliantly, down to the smallest detail. And The bitter truth is that in the last hours before the arrest of the criminals, information about the operation was leaked from the President’s Office of Ukraine to Russia. In the summer of 2020, a year after I left office, this happened. And it is the direct responsibility of Volodymyr Zelensky," ex-President Petro Poroshenko said in a [video](https://www.facebook.com/petroporoshenko/posts/2385129268288118) posted to his Facebook account on March 4, 2021.
+> “The truth is that in 2018 I gave authorization to prepare this operation, which was the most difficult one in the history of the Ukrainian special services. The truth is that our intelligence services, in cooperation with Western partners, prepared it brilliantly, down to the smallest detail. And the bitter truth is that in the last hours before the arrest of the criminals, information about the operation was leaked from the President’s Office of Ukraine to Russia. In the summer of 2020, a year after I left office, this happened. And it is the direct responsibility of Volodymyr Zelensky," ex-President Petro Poroshenko said in a [video](https://www.facebook.com/petroporoshenko/posts/2385129268288118) posted to his Facebook account on March 4, 2021.
 
 ---
 
@@ -275,25 +275,25 @@ A common mistake is to take denials by Russian officials at face value, especial
 
 Ukrainians have known for years that foreign linguistic experts pick up on much less in conversation than native speakers. However, few expected that the time would come when the standard of competency turns out to be the ability of smart alecs to construe accurately what have been officially classified as state secrets.
 
-[Wiretapping Medvedchuk: Ties with Poroshenko, Putin and Russia-occupation forces (Part 1)](https://www.youtube.com/watch?v=VZJG_RKktBQ&t=751s) is a case in point. The 46-minute YouTube reportage published by Bihus.info of May 17, 2021 has been viewed more than 570,000 times. Unfortunately, the “investigation” so far raises more questions than it answers.
+[Wiretapping Medvedchuk: Ties with Poroshenko, Putin and Russia-occupation forces (Part 1)](https://www.youtube.com/watch?v=VZJG_RKktBQ&t=751s) is a case in point. The 46-minute YouTube reportage published by Bihus.info on May 17, 2021 has been viewed more than 570,000 times. Unfortunately, the “investigation” so far raises more questions than it answers.
 
-##### Who made the recordings? Who leaked them? Why Now?
+##### Who made the recordings? Who leaked them? Why now?
 
 It’s nearly impossible to detect manipulation in digital recordings with a nearly absolute level of certainty, so it’s important to first establish the chain of custody of the archive.
 
-It seems to be generally accepted that the recorded voices are without doubt those of the Medvedchuk, his assistant in Donbas and Russian officials. The main task is now to identify the authenticity of the incriminating conversations.
+It seems to be generally accepted that the recorded voices are without doubt those of Medvedchuk, his assistant in Donbas and Russian officials. The main task is now to identify the authenticity of the incriminating conversations.
 
 According to IOCE principles (International Organization of Computer Evidence), the delivery of digital evidence must be carried out by a person who is forensically competent. Furthermore, access, storage or transfer of digital evidence must be fully documented, preserved and available for review, in order to be of any forensic value.
 
 While Ukrainian politician Viktor Medvedchuk and his interlocutors seem to understand exactly what they are saying in the excerpts presented, Bihus.info and the President’s Office of Ukraine are still struggling to digest all the conversations fully, at least publicly.
 
-If the existing evidence consists only of the approximately 10 minutes long snippets presented, one could possibly imagine some manipulations or doctoring by a “potential aggressor.” However, authors tell us they have in their possession four years worth of Medvedchuk’s chit chats, so it seems hard to believe that such a huge amount of evidence could have been doctored or manipulated.
+If the existing evidence consists only of the approximately 10-minute-long snippets presented, one could possibly imagine some manipulations or doctoring by a “potential aggressor.” However, authors tell us they have in their possession four years’ worth of Medvedchuk’s chit chats, so it seems hard to believe that such a huge amount of evidence could have been doctored or manipulated.
 
 Those familiar with the recordings cannot effectively ask decision-makers to ***listen faster***, nor will study of non-normative speech per se produce direct improvement in their ability to hear at the rate Medvedchuk and his comrades speak.
 
 Local journalists who have listened to all the leaked intercepts are either finding it enormously difficult to report what was actually said or are playing dumb while busily compartmentalizing the information for future use in political campaigns.
 
-That some ***hear***what may be obscured or totally lacking in the recordings is principally because a significant portion of what can be understood is supplied by the context of the exchanges. Native speakers draw on vast amounts of shared knowledge to construct meaning when they are listening. It is not so much that the speech sounds ***contain***meaning; it is rather that they ***trigger***meaning.
+That some ***hear***what may be obscured or totally lacking in the recordings is principally because a significant portion of what can be understood is supplied by the context of the exchanges. Native speakers draw on vast amounts of shared knowledge to construct meaning when they are listening. It is not so much that the speech sounds ***contain*** meaning; it is rather that they ***trigger***meaning.
 
 As an example, consider this dialogue in which Medvedchuk on July 15, 2014 chit chats with his assistant in Donetsk, Dmytro Doroshenko. Relying chiefly on voice quality and hesitant speech, both appear to understand that a major scandal is in the offing.
 
