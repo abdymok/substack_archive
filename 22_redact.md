@@ -6554,9 +6554,9 @@ when it travels at a certain trajectory and speed,
 
 can turn anyone into a target.
 
-At some point the frenetic pleasures of bootstrapping ground-floorism — of decorating the open society landscape with victims of the regime — we and others found themselves entirely dwarved by the realization no one in the collective West really cared enough to pitch in and that, perhaps, it was time to disappear. This moment of clarity, reached some time in early 1997, led me to withdraw from day to day grind of managing chaos, theoretically to regroup in Warsaw, Budapest and Belgrade and find, oh what’s the term, focus. Then I moved to Kyiv and went insane.
+At some point the frenetic pleasures of bootstrapping ground-floorism — of decorating the open society landscape with victims of the regime — we and others found ourselves entirely dwarfed by the realization that no one in the collective West really cared enough to pitch in and that, perhaps, it was time to disappear. This moment of clarity, reached some time in early 1997, led me to withdraw from the day-to-day grind of managing chaos, theoretically to regroup in Warsaw, Budapest and Belgrade and find, oh what’s the term, focus. Then I moved to Kyiv and went insane.
 
-I’ve been trying to imagine what the best way to describe the Ukraine part. There are the visits in 1969 and 1976, stop-overs in 1986 and 1988, the 1990-1991 part, as well as the 1993 Crimea adventure. Since 1999, half the time – the half I’m certain was completely out of my control – I handled *news* like it was about to explode. It felt very much like an old coat on a broken hanger rumbling along in an old, broken truck. Unpleasant but the sort of thing that, at the time, you just sort of blink your way through and be glad there’s somewhere to sleep at night.
+I’ve been trying to imagine what the best way is to describe the Ukraine part. There are the visits in 1969 and 1976, stop-overs in 1986 and 1988, the 1990-1991 part, as well as the 1993 Crimea adventure. Since 1999, half the time – the half I’m certain was completely out of my control – I handled *news* like it was about to explode. It felt very much like an old coat on a broken hanger rumbling along in an old, broken truck. Unpleasant but the sort of thing that, at the time, you just sort of blink your way through and be glad there’s somewhere to sleep at night.
 
 [Image]
 *Let’s revolt! (October 21, 2004)*
@@ -6823,7 +6823,7 @@ Regardless of whether areas in Kherson and Kharkiv regions are completely de-occ
 
 [1](#footnote-anchor-1)
 
-[2023 Military Campaign Propects](https://www.ukrinform.ua/rubric-ato/3566162-ak-zabezpeciti-voennu-kampaniu-u-2023-roci-ukrainskij-poglad.html). *The Ukrainian view* (September 7, 2022)
+[2023 Military Campaign Prospects](https://www.ukrinform.ua/rubric-ato/3566162-ak-zabezpeciti-voennu-kampaniu-u-2023-roci-ukrainskij-poglad.html). *The Ukrainian view* (September 7, 2022)
 
 [2](#footnote-anchor-2)
 
@@ -7909,7 +7909,7 @@ Later, rinse, repeat.
 
 Slow dark blackout days in Kyiv are a great foundation for many things: building a long aerobic base, a huge variety in metabolism daily, since there are three-hour chunks at z1 slow movement, but also some z3 in steep non-technical climbs and even some z4 and z5 in certain zones, if you want to go fast.
 
-Unfortunately, there have been plenty of anerobic enhanced non-divergent stunts engineered by self-aggrandizing doucherockets whose mission in life is to make Z look heroic. The latest is a [hairbrained decision](https://detector.media/community/article/204942/2022-11-14-khersonskyy-ekstses-yak-poiednaty-interesy-suspilstva-zhurnalistiv-vlady-ta-viyskovykh/) to revoke the accreditation of journalists who arrived in liberated Kherson ahead of the *leader*.
+Unfortunately, there have been plenty of anaerobic-enhanced, non-divergent stunts engineered by self-aggrandizing doucherockets whose mission in life is to make Z look heroic. The latest is a [harebrained decision](https://detector.media/community/article/204942/2022-11-14-khersonskyy-ekstses-yak-poiednaty-interesy-suspilstva-zhurnalistiv-vlady-ta-viyskovykh/) to revoke the accreditation of journalists who arrived in liberated Kherson ahead of the *leader*.
 
 ---
 
@@ -7942,7 +7942,7 @@ Recall what we concluded on Day 11 of fascistic Russia’s genocidal campaign ag
 
 Since then, for at least 254 days, policy makers in the West attempted unsuccessfully to figure out how best to respond to the oligophrens and psychopaths running the show in Moscow[2](#footnote-2).
 
-Meanwhile, tens of thousands of people have died needless, painful deaths.
+Meanwhile, tens of thousands of people have died needless and painful deaths.
 
 [1](#footnote-anchor-1)
 
@@ -7963,7 +7963,7 @@ Meanwhile, tens of thousands of people have died needless, painful deaths.
 [Image]
 *Vydubichi. November 19, 2022 (Photo c/o abdymok )*
 
-The title of lesson 19 of Timothy Snyder’s on-line course, “Oligarchies in Ukraine and Russia,” sounded interesting, so I listened to the lecture. Twice. And then I looked at the [syllabus](https://snyder.substack.com/p/syllabus-of-my-ukraine-lecture-class).
+The title of lesson 19 of Timothy Snyder’s online course, “Oligarchies in Ukraine and Russia,” sounded interesting, so I listened to the lecture. Twice. And then I looked at the [syllabus](https://snyder.substack.com/p/syllabus-of-my-ukraine-lecture-class).
 
 Nothing about Murti-Bing pills or the Sino-Mongolian army or Murti-Bingism.
 
@@ -7971,7 +7971,7 @@ I didn’t learn anything about oligarchies in Russia and Ukraine from this lect
 
 Whatever.
 
-I think about the mess differently, because my intellectual political baggage is packed with Miłosz, Budinas, Bykov, Taras, Baradullin et al. Last time I checked, Poland’s experiment in state building had devolved into a weird pseudo religious strain of electoral authoritarianism.
+I think about the mess differently, because my intellectual political baggage is packed with Miłosz, Budinas, Bykov, Taras, Baradullin et al. Last time I checked, Poland’s experiment in state building had devolved into a weird pseudo-religious strain of electoral authoritarianism.
 
 Oh, and Tim has teamed up with Z and @U24\_gov\_ua to raise funds to buy [a fleet of naval drones](https://www.navalnews.com/naval-news/2022/11/ukraine-maritime-drone-strikes-again-reports-indicate-attack-on-novorossiysk/). Apropos of nothing, Z yesterday announced at the ***[Bloomberg](https://www.youtube.com/watch?v=V9eF1EuQAps&ab_channel=%D0%9E%D1%84%D1%96%D1%81%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8)*** [New Economy Forum](https://www.youtube.com/watch?v=V9eF1EuQAps&ab_channel=%D0%9E%D1%84%D1%96%D1%81%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8) that there is no corruption in Ukraine.
 
@@ -7986,7 +7986,7 @@ Which reminds me of this [Podereviansky](https://uk.wikipedia.org/wiki/%D0%9B%D0
 
 > Once upon a time there was a rooster and a cat who lived in the forest. The fox wanted to eat the rooster for dinner. This tale follows similar plot, but instead of the rooster and cat, we have two pederasts, Vasyl and Petro.
 >
-> One day, the two seek refuge in the woods to escape the dreariness of modern existence. Globablism and civilization catch up with them when Mikita – a cannibal – tries to eat Petro for purely ideological reasons. Mikita, you see, had spent his whole life fighting globalism, which, for some unknown reason, he blamed pederasts for.
+> One day, the two seek refuge in the woods to escape the dreariness of modern existence. Globalism and civilization catch up with them when Mikita – a cannibal – tries to eat Petro for purely ideological reasons. Mikita, you see, had spent his whole life fighting globalism, which, for some unknown reason, he blamed pederasts for.
 >
 > The story has a happy ending, though. Instead of eating Petro, Mikita becomes a pederast, too. And in so doing, good conquers evil, etc.
 
@@ -8012,7 +8012,7 @@ It reminds me of Z, who [told us](https://www.reuters.com/world/europe/ukraines-
 [Image]
 *Books to borrow. Cover c/o archive.org*
 
-The last chapter, IX, is about my room mate from Riga in Moscow, Edik, who enjoyed fighting with his elbows, energized by [The Origins of Totalitarianism](https://archive.org/details/originsoftotalit0000unse_j3v9/page/n5/mode/2up).
+The last chapter, IX, is about my roommate from Riga in Moscow, Edik, who enjoyed fighting with his elbows, energized by [The Origins of Totalitarianism](https://archive.org/details/originsoftotalit0000unse_j3v9/page/n5/mode/2up).
 
 Which brings me to this paragraph of an op-ed by David in The Washington Post, titled “[The U.S. seeks to support Ukraine, but contain the war.](https://www.washingtonpost.com/opinions/2022/11/18/ukraine-war-william-burns-russia-poland-missile/)”
 
@@ -8020,7 +8020,7 @@ Which brings me to this paragraph of an op-ed by David in The Washington Post, t
 
 Brave, charismatic? Maybe desperate? What does “direct conflict” mean? And no, sorry, William is *not* fluent in Russian. He knows the alphabet and dozens of words. His pronunciation is lousy.
 
-Looking on the positive side, Lloyd in Hallifax [says](https://www.defense.gov/News/News-Stories/Article/Article/3224096/austin-says-ukraine-matters-to-all-peoples-and-nations/) Team USA *is* meeting the urgent, historic security challenge Russia’s tyranny poses to the rules-based international order.
+Looking on the positive side, Lloyd in Halifax [says](https://www.defense.gov/News/News-Stories/Article/Article/3224096/austin-says-ukraine-matters-to-all-peoples-and-nations/) Team USA *is* meeting the urgent, historic security challenge Russia’s tyranny poses to the rules-based international order.
 
 Wonderful. Let’s just hope we aren’t irradiated and freeze to death during the process.
 
@@ -8179,7 +8179,7 @@ Rinse, repeat. We need to knock Russia off balance instead of playing invincibil
 
 ukraine@war
 
-2023 Military Campaign Propects
+2023 Military Campaign Prospects
 
 (This article appeared on September 7 on Ukraine’s state-run news agency Ukrinform) How long the war could last and how can Ukraine win it As understood by the absolute majority of military experts and analysts today, the large-scale war unleashed by Russia against Ukraine on February 24, 2022 c…
 
