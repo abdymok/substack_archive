@@ -5801,7 +5801,7 @@ It’s too depressing this early in the morning to discuss 2,200 pages of infogr
 
 As for Ukraine’s military mobilization shitshow, the last time I checked, fascist Russia’s genocidal campaign was in full swing. Anyone, male or female or both, between the ages of 18 and 60 who thought they could/would/should avoid participating in the nation’s defense, should think again, reevaluate options, life goals, etc. Twice, maybe three times.
 
-Predictably, the Pork Chop from Obolon[1](#footnote-1), also known as member of parliament Mykola Tyshchenko, has [inserted](https://www.facebook.com/photo?fbid=5614923431874226&set=a.100645566635401) himself into the imbroglio.
+Predictably, the Pork Chop from Obolon[1](#footnote-1), also known as MP Mykola Tyshchenko, has [inserted](https://www.facebook.com/photo?fbid=5614923431874226&set=a.100645566635401) himself into the imbroglio.
 
 [Image]
 
@@ -5884,7 +5884,7 @@ I drew a blank on God’s plan. I remember Z [saying](https://www.youtube.com/wa
 [Image]
 *Victoria Spartz’s Trump endorsement and Mykhailo holding bags of weed*
 
-The earliest surviving mention of Michael is in a 3rd century BCE Jewish apocalypse, the [Book of Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch). This lists him as one of seven archangels (the remaining names are Uriel, Raguel, Raphael, Sariel, Gabriel, and Remiel), who, according to a slightly later work, the [Book of Tobit](https://en.wikipedia.org/wiki/Book_of_Tobit), "stand ready and enter before the glory of the Lord."
+The earliest surviving mention of Michael is in a third-century BCE Jewish apocalypse, the [Book of Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch). This lists him as one of seven archangels (the remaining names are Uriel, Raguel, Raphael, Sariel, Gabriel, and Remiel), who, according to a slightly later work, the [Book of Tobit](https://en.wikipedia.org/wiki/Book_of_Tobit), "stand ready and enter before the glory of the Lord."
 
 U.S. Congresswoman Victoria Spartz[1](#footnote-1) and Mykhailo Monia, also known as Myhail Pomohaibo, share the same faith. They are both Orthodox Christians. I’m not sure about Trump or Tyshchenko[2](#footnote-2).
 
@@ -5893,7 +5893,7 @@ Which brings me to Mariana. Again[3](#footnote-3).
 [Image]
 *Member of Parliament Mariana Bezuhla chairs the Rada’s special investigation committee looking into possible screw-ups involving Ukraine’s national security*
 
-Marcy Kaptur, Democratic Congresswoman, Co-Chair of the Congressional Ukraine Caucus took a swipe at Vicky in her [statement](https://kaptur.house.gov/media-center/press-releases/kaptur-statement-support-president-zelenskyy-presidential-officials).
+Marcy Kaptur, a Democratic congresswoman and co-chair of the Congressional Ukraine Caucus, took a swipe at Vicky in her [statement](https://kaptur.house.gov/media-center/press-releases/kaptur-statement-support-president-zelenskyy-presidential-officials).
 
 > "On an overwhelmingly bipartisan basis, the United States Congress – led by the Congressional Ukraine Caucus – has spearheaded support for the sovereign nation of Ukraine in its heroic efforts to defend the homeland and end Russia’s brutal war," Kaptur said after Vicky asked Uncle Joe to vet Z’s trusted accomplices.
 
@@ -5967,7 +5967,7 @@ The ninth week of running during the ninth year of the war.
 
 ---
 
-On the final flight of stairs this morning, my thoughts turned to [Mylovanov](https://www.facebook.com/profile.php?id=100004775745586), who, to my amazement,says he***works***for the President’s Office.
+On the final flight of stairs this morning, my thoughts turned to [Mylovanov](https://www.facebook.com/profile.php?id=100004775745586), who, to my amazement, says he ***works*** for the President’s Office.
 
 [Image]
 
@@ -6018,7 +6018,7 @@ The same goes for Ukraine’s top cop, Iryna Venedyktova, whom Zelensky sacked t
 [Image]
 *Despite flattering coverage in the Kyiv Post, Prosecutor General Iryna Venedyktova was sacked on July 17, 2022*
 
-Venedyktova did not fix the Prosecutor General’s Office or root out endemic corruption. She instead spent a lot of time harrassing former President Petro Poroshenko and Zelensky’s critics, including the puppy-dog editor of the Kyiv Post with the gruff exterior, who was forced to publish glowing ariticles about her hard work[1](#footnote-1)[2](#footnote-2).
+Venedyktova did not fix the Prosecutor General’s Office or root out endemic corruption. She instead spent a lot of time harassing former President Petro Poroshenko and Zelensky’s critics, including the puppy-dog editor of the Kyiv Post with the gruff exterior, who was forced to publish glowing articles about her hard work[1](#footnote-1)[2](#footnote-2).
 
 In other news, Natasha from Fred’s dream factory ISW [babbles](https://www.pravda.com.ua/articles/2022/07/18/7358659/) about what Russia’s further invasion plans might be. We all recall ISW’s pre-invasion assessment of Putin as a rational actor and the war-adjacent content milling of other Beltway-based experts[3](#footnote-3).
 
@@ -6059,7 +6059,7 @@ At least, Victoria isn’t a Ukraine expert.
 
 We concluded on Day 22 that Russia would be defeated and that Phase 3 of this bloody mess would last for months[1](#footnote-1).
 
-American lawmakers, such as Victoria, will be asked to support, if not authorize, the Third A, provided they are re-elected. Attempts by Ukraine’s current crop of political leaders to alienate her and Trump disciples is, at best, counterproductive, politically, and maybe disastrous, militarily.
+American lawmakers, such as Victoria, will be asked to support, if not authorize, the Third A, provided they are re-elected. Attempts by Ukraine’s current crop of political leaders to alienate her and Trump’s disciples are, at best, counterproductive, politically, and maybe disastrous, militarily.
 
 [Image]
 
@@ -6086,13 +6086,13 @@ War-adjacent content millers are weary of uncertainty. They continue to ask stup
 
 Ukraine’s political leaders are increasingly dissatisfied and angry. They are tired of making inspirational video clips. It’s impossible to analyze or predict what Putin will do next. They are forced to rely on pep talks about the future.
 
-The outcome of the war today depends on western arms supplies to Ukraine. Without them, Ukraine will be erased, literally, blown to smithereens. Limited western supplies may turn the conflict into a protracted war, while unlimited supplies will allow Ukraine to start retaking areas in some places along the 2,400-kilometer long front line.
+The outcome of the war today depends on western arms supplies to Ukraine. Without them, Ukraine will be erased, literally, blown to smithereens. Limited western supplies may turn the conflict into a protracted war, while unlimited supplies will allow Ukraine to start retaking areas in some places along the 2,400-kilometer-long front line.
 
 We can rule out the first option, because the collective west, led by Uncle Joe, *is* giving Ukraine guns. The third scenario is unlikely, unless/until Russia commits more gruesome barbaric acts resulting in the sudden deaths of hundreds, maybe thousands, maybe tens of thousands, of innocent civilians. Picture, for example, the *accidental* shelling of Zaporizhia’s nuclear power reactor. **So, we’re left with the second option: a protracted war.**
 
 **Boom!**
 
-Moderate, measured deliveries of weapons to Ukraine may prevent a strategic offensive operation without Russia declaring all-out mobilization and declaring full-scale war. American generals [say](https://www.defense.gov/News/News-Stories/Article/Article/3100163/defense-leaders-meet-to-bolster-ukraine-support/) that’s the most likely scenario, but we don’t trust them or their British counterparts.
+Moderate, measured deliveries of weapons to Ukraine may prevent a strategic offensive operation without Russia ordering all-out mobilization and declaring full-scale war. American generals [say](https://www.defense.gov/News/News-Stories/Article/Article/3100163/defense-leaders-meet-to-bolster-ukraine-support/) that’s the most likely scenario, but we don’t trust them or their British counterparts.
 
 Looking on the bright side, further major territorial gains in Ukraine are unlikely this summer. The contact line is more or less as long as it was two months ago — roughly the distance from Warsaw to Barcelona.
 
