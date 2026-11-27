@@ -6,7 +6,7 @@
 
 ## Weightless Self-promotion
 
-*Date: 2022-01-01 | Status: Published | Audience: only_paid*
+*Date: 2022-01-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Photo courtesy of Iuliia Mendel*
@@ -25,7 +25,7 @@ Someone once told me that the real appeal of [Ukraine’s global voice](https://
 
 ## Wolf Update
 
-*Date: 2022-01-05 | Status: Published | Audience: only_paid*
+*Date: 2022-01-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -64,7 +64,7 @@ Serhiy, like [Iuliia,](https://abdymok.substack.com/p/weightless-self-promotion)
 
 ## Axis of Weasels
 
-*Date: 2022-01-09 | Status: Published | Audience: only_paid*
+*Date: 2022-01-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -95,7 +95,7 @@ Confused? You should be, according to [George Krol](https://eurasianet.org/memoi
 
 ## Stay Out of Doorways!
 
-*Date: 2022-01-12 | Status: Published | Audience: only_paid*
+*Date: 2022-01-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Tactical Athletics at Tootsie's*
 
@@ -119,7 +119,7 @@ Whatever. Carousing is not only a key to Special Operations success but is also 
 
 ## Big Day Wednesday
 
-*Date: 2022-01-18 | Status: Published | Audience: only_paid*
+*Date: 2022-01-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -145,7 +145,7 @@ Whatever. Carousing is not only a key to Special Operations success but is also 
 
 ## Attack of the Vengeful Hairdresser
 
-*Date: 2022-01-19 | Status: Published | Audience: only_paid*
+*Date: 2022-01-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Physically experiencing the journalistic side of bullshit.*
 
@@ -177,7 +177,7 @@ Also, there is a kick to the balls, strong enough to lift a man off the ground, 
 
 ## Russia's Sick Logic
 
-*Date: 2022-01-21 | Status: Published | Audience: only_paid*
+*Date: 2022-01-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A Perfectly Terrible Date*
 
@@ -211,7 +211,7 @@ Radzikhovsky says this could explain Putin’s threat to cut Ukraine into little
 
 ## Putin's 'Psychic Attack'
 
-*Date: 2022-01-26 | Status: Published | Audience: only_paid*
+*Date: 2022-01-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Rooting out Russia's moles*
 
@@ -235,7 +235,7 @@ Radzikhovsky says this could explain Putin’s threat to cut Ukraine into little
 
 ## On the Edge of Inanity
 
-*Date: 2022-01-30 | Status: Published | Audience: only_paid*
+*Date: 2022-01-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *President Volodymyr Zelensky. Photo c/o President’s Office*
@@ -294,7 +294,7 @@ So far, the moral of this story is that U.S. military intelligence may not be pr
 
 ## Lost in Translation
 
-*Date: 2022-02-04 | Status: Published | Audience: only_paid*
+*Date: 2022-02-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Imminent inevitability*
 
@@ -368,7 +368,7 @@ I once read that many white male Ukraine experts suffer from something called �
 
 ## 'It's Your Duty, My Beauty'
 
-*Date: 2022-02-09 | Status: Published | Audience: only_paid*
+*Date: 2022-02-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Doorman with Nukes and No Friends*
 
@@ -416,7 +416,7 @@ Biden’s Spokeswoman Jen Psaki agreed that Putin’s rape joke was outrageous, 
 
 ## To Kill a Dragon
 
-*Date: 2022-02-14 | Status: Published | Audience: only_paid*
+*Date: 2022-02-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The wishy-washy West. What else is the Kremlin counting on?*
 
@@ -456,7 +456,7 @@ PS online: *While this article was waiting for a meeting with the reader, it bec
 
 ## The Big Sig
 
-*Date: 2022-02-15 | Status: Published | Audience: only_paid*
+*Date: 2022-02-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *No Chicken Served on Chicken Friday*
 
@@ -482,7 +482,7 @@ It’s not entirely outside the arena of the possible that I’ll figure this ou
 
 ## WTF?
 
-*Date: 2022-02-17 | Status: Published | Audience: only_paid*
+*Date: 2022-02-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Russia's batshit letter to Uncle Sam, NATO*
 
@@ -518,7 +518,7 @@ In this regard, we draw attention to the fact that President of Russia Vladimir 
 
 ## On the Roasting of Chicken
 
-*Date: 2022-02-19 | Status: Published | Audience: only_paid*
+*Date: 2022-02-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Stay-behind sabotage*
 
@@ -577,7 +577,7 @@ Stuff the chicken with a good walnut of unsalted butter, into which you have mas
 
 ## Air Drums Over Kyiv
 
-*Date: 2022-02-20 | Status: Published | Audience: only_paid*
+*Date: 2022-02-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Phat Beats and Rare Grooves*
 
@@ -637,7 +637,7 @@ Looking on the positive side, Ukraine’s Defense Minister Oleksiy Reznikov has 
 
 ## In Principle, If
 
-*Date: 2022-02-21 | Status: Published | Audience: only_paid*
+*Date: 2022-02-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *It's All Completely Notional*
 
@@ -657,7 +657,7 @@ That’s where we’re at.
 
 ## A Separate Reality
 
-*Date: 2022-02-23 | Status: Published | Audience: only_paid*
+*Date: 2022-02-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Swing for a ruble, blow for a penny*
 
@@ -695,7 +695,7 @@ Practicing philosopher Vladimir Pastukhov [sums up](https://echo.msk.ru/blog/pas
 
 ## Day 1
 
-*Date: 2022-02-24 | Status: Published | Audience: only_paid*
+*Date: 2022-02-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Wandering around with suitcases*
 
@@ -738,7 +738,7 @@ Oh, and our first Russian [prisoners of war](https://www.facebook.com/CinCAFU/po
 
 ## Day 2 (update)
 
-*Date: 2022-02-25 | Status: Published | Audience: only_paid*
+*Date: 2022-02-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Remember Det-A?*
 
@@ -774,7 +774,7 @@ This bloody mess is starting to remind me of the last [Det-A](https://detachment
 
 ## Day 2
 
-*Date: 2022-02-25 | Status: Published | Audience: only_paid*
+*Date: 2022-02-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Enemy sabotage groups*
 
@@ -822,7 +822,7 @@ It’s 06.17 and I just heard more explosions.
 
 ## Day 3
 
-*Date: 2022-02-26 | Status: Published | Audience: only_paid*
+*Date: 2022-02-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Battle for Kyiv*
 
@@ -878,7 +878,7 @@ I’ll probably update this page throughout the course of Day 3. Shout-out to al
 
 ## Day 4
 
-*Date: 2022-02-27 | Status: Published | Audience: only_paid*
+*Date: 2022-02-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Sine ira et studio*
 
@@ -907,7 +907,7 @@ Team USA should authorize [A3E](https://www.centcom.mil/MEDIA/igphoto/2002185548
 
 ## Day 5
 
-*Date: 2022-02-28 | Status: Published | Audience: only_paid*
+*Date: 2022-02-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The walk to work*
 
@@ -946,7 +946,7 @@ It was the “**bounded rationality**” bullshit that sent me down a rabbit hol
 
 ## Day 6
 
-*Date: 2022-03-01 | Status: Published | Audience: only_paid*
+*Date: 2022-03-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Demonstrative Acts of Extreme Violence*
 
@@ -983,7 +983,7 @@ Wow! Talk about longevity.
 
 ## End of Hostilities?
 
-*Date: 2022-03-01 | Status: Published | Audience: only_paid*
+*Date: 2022-03-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Formula for Peace*
 
@@ -1002,7 +1002,7 @@ Wow! Talk about longevity.
 
 ## Day 7
 
-*Date: 2022-03-02 | Status: Published | Audience: only_paid*
+*Date: 2022-03-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Giant pink blob*
 
@@ -1040,7 +1040,7 @@ The pink blob is more reddish in this Russian invasion map by [Readovka](https:/
 
 ## Day 8
 
-*Date: 2022-03-03 | Status: Published | Audience: only_paid*
+*Date: 2022-03-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Stay out of doorways!*
 
@@ -1063,7 +1063,7 @@ Oh, and if anyone comes across the Belarusian saboteurs sent to Ukraine listed b
 
 ## Day 9
 
-*Date: 2022-03-04 | Status: Published | Audience: only_paid*
+*Date: 2022-03-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Battle for Borodyanka*
 
@@ -1094,7 +1094,7 @@ It looked like a happy ending, until the orcs re-invaded and took the town’s r
 
 ## Day 10
 
-*Date: 2022-03-05 | Status: Published | Audience: only_paid*
+*Date: 2022-03-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Simplifying public-facing nouns*
 
@@ -1131,7 +1131,7 @@ Conserve letters: **Zaporizhia**. There’s no good reason for double up “***z
 
 ## Day 11
 
-*Date: 2022-03-06 | Status: Published | Audience: only_paid*
+*Date: 2022-03-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Tickling Russia with sanctions*
 
@@ -1200,7 +1200,7 @@ The last part of the letter talks about how Russia’s further invasion of Ukrai
 
 ## Day 12
 
-*Date: 2022-03-07 | Status: Published | Audience: only_paid*
+*Date: 2022-03-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Fixed my shoe*
 
@@ -1246,7 +1246,7 @@ Practicing London-based philosopher Vladimir Pastukhov has written another [prag
 
 ## Day 13
 
-*Date: 2022-03-08 | Status: Published | Audience: only_paid*
+*Date: 2022-03-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Дракон*
 
@@ -1278,7 +1278,7 @@ Not much to report this morning. Shoe holding up. Thinking lots about dragons.
 
 ## Day 14
 
-*Date: 2022-03-09 | Status: Published | Audience: only_paid*
+*Date: 2022-03-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *What will happen next can't be avoided*
 
@@ -1311,7 +1311,7 @@ The realization of the simple fact that Putin might actually resort to nuclear b
 
 ## Day 15
 
-*Date: 2022-03-10 | Status: Published | Audience: only_paid*
+*Date: 2022-03-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Mariupol Massacre*
 
@@ -1345,7 +1345,7 @@ Someone, please, pass on the info to Ze, Andriy and Sean.
 
 ## Day 16
 
-*Date: 2022-03-11 | Status: Published | Audience: only_paid*
+*Date: 2022-03-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Unspeakable Gratuitous Cruelty*
 
@@ -1383,7 +1383,7 @@ For eight years, U.S. and European diplomats have been dreaming up and proposing
 
 ## Day 17
 
-*Date: 2022-03-12 | Status: Published | Audience: only_paid*
+*Date: 2022-03-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *So Far Beyond Horror*
 
@@ -1430,7 +1430,7 @@ What’s-his-face Podoliak, who advises the President’s Office, has said more 
 
 ## Day 18
 
-*Date: 2022-03-13 | Status: Published | Audience: only_paid*
+*Date: 2022-03-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *US funded biolabs?*
 
@@ -1457,7 +1457,7 @@ And [this](https://x.com/TulsiGabbard/status/1502960938147729413) just in from T
 
 ## Day 19
 
-*Date: 2022-03-14 | Status: Published | Audience: only_paid*
+*Date: 2022-03-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Cruise Missile Diplomacy*
 
@@ -1496,7 +1496,7 @@ Save diplomacy for after WW4.
 
 ## Day 20
 
-*Date: 2022-03-15 | Status: Published | Audience: only_paid*
+*Date: 2022-03-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Torpedo the Flying Turtle*
 
@@ -1519,7 +1519,7 @@ I’ll write about cake later.
 
 ## Day 21
 
-*Date: 2022-03-16 | Status: Published | Audience: only_paid*
+*Date: 2022-03-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Nothing glorious about war*
 
@@ -1580,7 +1580,7 @@ So depressing.
 
 ## Day 22
 
-*Date: 2022-03-17 | Status: Published | Audience: only_paid*
+*Date: 2022-03-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Third A*
 
@@ -1643,7 +1643,7 @@ Wednesday was quiet in Kyiv during the day. For the past week or so, the Russian
 
 ## Day 23
 
-*Date: 2022-03-18 | Status: Published | Audience: only_paid*
+*Date: 2022-03-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *With Your Shield or On It*
 
@@ -1667,7 +1667,7 @@ Stephanie and I might be the only Irish citizens who remain in Ukraine’s capit
 
 ## Day 24
 
-*Date: 2022-03-19 | Status: Published | Audience: only_paid*
+*Date: 2022-03-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *More Smart Optics, Please*
 
@@ -1696,7 +1696,7 @@ Tik Tok influencers, meanwhile, have identified at least three individuals direc
 
 ## Day 25
 
-*Date: 2022-03-20 | Status: Published | Audience: only_paid*
+*Date: 2022-03-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Burb Battles*
 
@@ -1708,7 +1708,7 @@ Mark Solonin [chats up](https://www.youtube.com/watch?v=1KyToBZxZO4&t=1922s) a \
 
 ## Day 26
 
-*Date: 2022-03-21 | Status: Published | Audience: only_paid*
+*Date: 2022-03-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Biden visits Poland*
 
@@ -1791,7 +1791,7 @@ Joe and Olaf should keep this passage in mind:
 
 ## Day 27
 
-*Date: 2022-03-22 | Status: Published | Audience: everyone*
+*Date: 2022-03-22 | Status: Published | Audience: everyone | Type: newsletter*
 
 *Groundhog Day*
 
@@ -1816,7 +1816,7 @@ More about [Chornobaivka](https://vgoru.org/post/trohi-pro-legendarnu-chornobayi
 
 ## Day 28
 
-*Date: 2022-03-23 | Status: Published | Audience: only_paid*
+*Date: 2022-03-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Limbo under Razor Wire*
 
@@ -1868,7 +1868,7 @@ Leonid Radzikhovsky in Moscow thinks it will take at least two months before ord
 
 ## Day 29
 
-*Date: 2022-03-24 | Status: Published | Audience: only_paid*
+*Date: 2022-03-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Mad Max*
 
@@ -1909,7 +1909,7 @@ Ukraine today does not need NATO troops or NATO advice or NATO training. We need
 
 ## Day 30
 
-*Date: 2022-03-25 | Status: Published | Audience: only_paid*
+*Date: 2022-03-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *TikTok legionnaires*
 
@@ -1970,7 +1970,7 @@ My advice is to ignore Andy. Time better spent digesting Violetta’s [Battle fo
 
 ## Day 1, Phase 2
 
-*Date: 2022-03-26 | Status: Published | Audience: only_paid*
+*Date: 2022-03-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Maybe Belarus Won't Invade*
 
@@ -2001,7 +2001,7 @@ Belarus. The Belarusian soldiers who want to further invade Ukraine can simply j
 
 ## Day 2, Phase 2
 
-*Date: 2022-03-27 | Status: Published | Audience: only_paid*
+*Date: 2022-03-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Exploding Head Syndrome*
 
@@ -2036,7 +2036,7 @@ I watched uncle Joe’s [speech](https://www.youtube.com/watch?v=Ou5-_wtoUaQ) in
 
 ## Day 3, Phase 2
 
-*Date: 2022-03-28 | Status: Published | Audience: only_paid*
+*Date: 2022-03-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Window on the 29th Floor*
 
@@ -2095,7 +2095,7 @@ American legionnaire TikTok-ers, meanwhile, are posting lots of [vids](https://t
 
 ## Day 4, Phase 2
 
-*Date: 2022-03-29 | Status: Published | Audience: only_paid*
+*Date: 2022-03-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *S/Lab Ultra 3*
 
@@ -2134,7 +2134,7 @@ Running season starts on Friday.
 
 ## Day 5, Phase 2
 
-*Date: 2022-03-30 | Status: Published | Audience: only_paid*
+*Date: 2022-03-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Sacrifice*
 
@@ -2184,7 +2184,7 @@ We should all be nicer to Ukraine experts. I try, but without much success. The 
 
 ## Day 6, Phase 2
 
-*Date: 2022-03-31 | Status: Published | Audience: only_paid*
+*Date: 2022-03-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *From Zero to Hero*
 
@@ -2227,7 +2227,7 @@ And then there’s Andriy Yermak, the unexpected and un-elected head of the Pres
 
 ## Day 7, Phase 2
 
-*Date: 2022-04-01 | Status: Published | Audience: only_paid*
+*Date: 2022-04-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Dyversanti? Diversionists?*
 
@@ -2288,7 +2288,7 @@ And finally there is Rhys, maybe a distant cousin, who is now on the record sayi
 
 ## Day 8, Phase 2
 
-*Date: 2022-04-02 | Status: Published | Audience: only_paid*
+*Date: 2022-04-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Romeo in Black Jeans*
 
@@ -2320,7 +2320,7 @@ Ukraine, land of democratic dreamers and magical thinking. And [Masochism](https
 
 ## Day 9, Phase 2
 
-*Date: 2022-04-03 | Status: Published | Audience: only_paid*
+*Date: 2022-04-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Jingoism-Resistant Rebel Bullshit*
 
@@ -2361,7 +2361,7 @@ Footnote 13 takes you to the [BBC](https://www.bbc.com/news/world-europe-2896331
 
 ## Day 10, Phase 2
 
-*Date: 2022-04-04 | Status: Published | Audience: only_paid*
+*Date: 2022-04-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *One Big Crime Scene*
 
@@ -2414,7 +2414,7 @@ The three-hour plus video below, recorded from 11:30 to 15:00 on Saturday, April
 
 ## Day 11, Phase 2
 
-*Date: 2022-04-05 | Status: Published | Audience: only_paid*
+*Date: 2022-04-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *How Many Fingers?*
 
@@ -2468,7 +2468,7 @@ But obvi the question we should be asking is “What should we do with Russia?�
 
 ## Day 12, Phase 2
 
-*Date: 2022-04-06 | Status: Published | Audience: only_paid*
+*Date: 2022-04-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *On Becoming Ukrainian*
 
@@ -2509,7 +2509,7 @@ Political leaders in Europe and journalists talked about the bloodshed as if it 
 
 ## Day 13, Phase 2
 
-*Date: 2022-04-07 | Status: Published | Audience: only_paid*
+*Date: 2022-04-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Map c/o @war\_mapper*
@@ -2556,7 +2556,7 @@ So, there you have it. Two not exactly mutually exclusive explanations.
 
 ## Day 14, Phase 2
 
-*Date: 2022-04-08 | Status: Published | Audience: only_paid*
+*Date: 2022-04-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Likeable Moments of Self-deprecation*
 
@@ -2613,7 +2613,7 @@ Ending Russia’s war against Ukraine is complicated by the inadequacy of formal
 
 ## Day 15, Phase 2
 
-*Date: 2022-04-09 | Status: Published | Audience: only_paid*
+*Date: 2022-04-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Unaccountably Mislaid Solopsism*
 
@@ -2660,7 +2660,7 @@ For more than eight years, the world needed to know **fascists**[1](https://abdy
 
 ## Day 16, Phase 2
 
-*Date: 2022-04-10 | Status: Published | Audience: only_paid*
+*Date: 2022-04-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *UK Defense Intelligence map*
@@ -2694,7 +2694,7 @@ Footnote 13 takes you to the [BBC](https://www.bbc.com/news/world-europe-2896331
 
 ## Day 17, Phase 2
 
-*Date: 2022-04-11 | Status: Published | Audience: only_paid*
+*Date: 2022-04-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Rape Joke Gone Wrong*
 
@@ -2726,7 +2726,7 @@ Ukraine’s president didn’t think the Russian leader’s crude comments were 
 
 ## Day 18, Phase 2
 
-*Date: 2022-04-12 | Status: Published | Audience: only_paid*
+*Date: 2022-04-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Divine rule and Sarin*
 
@@ -2775,7 +2775,7 @@ Oh, and fyi, all that was left of the [Kh-31P anti-radar air-to-ground missile](
 
 ## Day 19, Phase 2
 
-*Date: 2022-04-13 | Status: Published | Audience: only_paid*
+*Date: 2022-04-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The immodest end to us all*
 
@@ -2815,7 +2815,7 @@ We are smack dab in the middle of a catastrophe of such magnitude that there is 
 
 ## Day 20, Phase 2
 
-*Date: 2022-04-14 | Status: Published | Audience: only_paid*
+*Date: 2022-04-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Photo c/o Bochkala\_#The War!*
@@ -2848,7 +2848,7 @@ Dodging water jets is probably a reference the ingenious water features found at
 
 ## The Putin Crucible
 
-*Date: 2022-04-14 | Status: Published | Audience: only_paid*
+*Date: 2022-04-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Three scenarios ending Russia’s special operation in Ukraine*
 
@@ -2924,7 +2924,7 @@ A compromise solution to the situation will almost certainly greatly upset the r
 
 ## Day 21, Phase 2
 
-*Date: 2022-04-15 | Status: Published | Audience: only_paid*
+*Date: 2022-04-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -2940,7 +2940,7 @@ As if the outcome of this bloody mess was ever in doubt.
 
 ## Day 22, Phase 2
 
-*Date: 2022-04-16 | Status: Published | Audience: only_paid*
+*Date: 2022-04-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *My Favorite Vegetable is Pelmeni*
 
@@ -2997,7 +2997,7 @@ Trying to figure out what Putin is planning is no longer very interesting, becau
 
 ## Day 23, Phase 2
 
-*Date: 2022-04-17 | Status: Published | Audience: only_paid*
+*Date: 2022-04-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Outrageous Claims to Expertise*
 
@@ -3040,7 +3040,7 @@ Oh, and the White House has minted up Ze [commemorative coins](https://www.white
 
 ## Day 24, Phase 2
 
-*Date: 2022-04-18 | Status: Published | Audience: only_paid*
+*Date: 2022-04-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *A bombed out residential building in Kyiv. Photo by Umit Bektas /Reuters*
@@ -3072,7 +3072,7 @@ During most of this period, journalists told us fighting in eastern Ukraine was 
 
 ## Day 25, Phase 2
 
-*Date: 2022-04-19 | Status: Published | Audience: only_paid*
+*Date: 2022-04-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Underclass Devoid of Class Consciousness*
 
@@ -3135,7 +3135,7 @@ This translates to **all hell will definitely break loose**. And it did, two yea
 
 ## Day 26, Phase 2
 
-*Date: 2022-04-20 | Status: Published | Audience: only_paid*
+*Date: 2022-04-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Guerra en Ucrania*
 
@@ -3170,7 +3170,7 @@ About the war. We are in a bloody, bloody phase of it. Lots of unspeakable trage
 
 ## Day 58
 
-*Date: 2022-04-21 | Status: Published | Audience: only_paid*
+*Date: 2022-04-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Phase 1 ended on March 25*
 
@@ -3196,7 +3196,7 @@ I’ve been using [Deepstate UA](https://deepstatemap.live/#10/49.1175/37.8129)�
 
 ## Day 28, Phase 2
 
-*Date: 2022-04-22 | Status: Published | Audience: only_paid*
+*Date: 2022-04-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Buried by the Times*
 
@@ -3233,7 +3233,7 @@ Ukraine is a sham democracy, a primitive post-soviet feudal autocracy that is n
 
 ## Day 29, Phase 2
 
-*Date: 2022-04-23 | Status: Published | Audience: only_paid*
+*Date: 2022-04-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Invaders Must Die*
 
@@ -3266,7 +3266,7 @@ There is a profound contradiction and contrast between the delivery of a punch a
 
 ## Day 30, Phase 2 (Day 59)
 
-*Date: 2022-04-24 | Status: Published | Audience: only_paid*
+*Date: 2022-04-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Corridor to Transdniester*
 
@@ -3305,7 +3305,7 @@ A month after Lloyd’s last visit to town in October 2021, Z celebrated the “
 
 ## Day 31, Phase 2
 
-*Date: 2022-04-25 | Status: Published | Audience: only_paid*
+*Date: 2022-04-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Keep Sending Night Vision Gear*
 
@@ -3336,7 +3336,7 @@ Spare us the rhetoric, just send guns.
 
 ## Day 32, Phase 2
 
-*Date: 2022-04-26 | Status: Published | Audience: only_paid*
+*Date: 2022-04-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Surrender or Flee*
 
@@ -3374,7 +3374,7 @@ Looking on the bright side, maybe the new crop of jornos this time around will p
 
 ## Day 33, Phase 2
 
-*Date: 2022-04-27 | Status: Published | Audience: only_paid*
+*Date: 2022-04-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Requiem for Ukraine (cont'd)*
 
@@ -3428,7 +3428,7 @@ Just how precious or sacred *are* you, really, if a bear can suddenly rip off pa
 
 ## The Fight at Night
 
-*Date: 2022-04-27 | Status: Published | Audience: only_paid*
+*Date: 2022-04-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Lighting up the Battlefield*
 
@@ -3466,7 +3466,7 @@ Chang leaves on Wednesday for frontline Dnipro, near where night-time battles er
 
 ## Day 34, Phase 2
 
-*Date: 2022-04-28 | Status: Published | Audience: only_paid*
+*Date: 2022-04-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Separatist underpants*
 
@@ -3498,7 +3498,7 @@ Using terms like **rebels,** **separatists**, **breakaway regions** and **insurr
 
 ## Day 35, Phase 2
 
-*Date: 2022-04-29 | Status: Published | Audience: only_paid*
+*Date: 2022-04-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Status Quo Dum Milito (contd)*
 
@@ -3557,7 +3557,7 @@ Russia’s defeat on the battlefield will become increasingly apparent over the 
 
 ## Day 36, Phase 2
 
-*Date: 2022-04-30 | Status: Published | Audience: only_paid*
+*Date: 2022-04-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Thermal Battlefield*
 
@@ -3620,7 +3620,7 @@ These are the inevitable snarls from those who daily chant via anecdotal, decont
 
 ## Day 38, Phase 2
 
-*Date: 2022-05-02 | Status: Published | Audience: only_paid*
+*Date: 2022-05-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Weapons, Weapons, Weapons*
 
@@ -3677,7 +3677,7 @@ Using terms like **rebels,** **separatists**, **breakaway regions** and **insurr
 
 ## Day 39, Phase 2
 
-*Date: 2022-05-03 | Status: Published | Audience: only_paid*
+*Date: 2022-05-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Peace of Westphalia?*
 
@@ -3739,7 +3739,7 @@ London-based philosopher Volodymyr Pastukhov has this to [say](https://t.me/v_pa
 
 ## Day 40, Phase 2
 
-*Date: 2022-05-04 | Status: Published | Audience: only_paid*
+*Date: 2022-05-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Finding FLOTS, Green IR Lasers*
 
@@ -3768,7 +3768,7 @@ To the West of Kyiv is an ocean of flat fields (well, a bracelet of small sparse
 
 ## Day 41, Phase 2
 
-*Date: 2022-05-05 | Status: Published | Audience: only_paid*
+*Date: 2022-05-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ruska Lozova Op Begins*
 
@@ -3822,7 +3822,7 @@ The key to sleeping safely in Russia-occupied areas during May will be snoozing 
 
 ## Day 42, Phase 2
 
-*Date: 2022-05-06 | Status: Published | Audience: only_paid*
+*Date: 2022-05-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Counterattacks*
 
@@ -3875,7 +3875,7 @@ I regard the BBC as the gold standard in this regard, as does Mr. Kivan. We both
 
 ## Day 43, Phase 2
 
-*Date: 2022-05-07 | Status: Published | Audience: only_paid*
+*Date: 2022-05-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Whiny Legionnaires*
 
@@ -3924,7 +3924,7 @@ It’s a prelude for what will occur in Russia-occupied regions in southern Ukra
 
 ## Phase 2 Ends
 
-*Date: 2022-05-08 | Status: Published | Audience: only_paid*
+*Date: 2022-05-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Front kick to the face*
 
@@ -4001,7 +4001,7 @@ Reginald Barker’s [pacifist](https://en.wikipedia.org/wiki/Pacifist) [allegori
 
 ## Day 1, Phase 3
 
-*Date: 2022-05-09 | Status: Published | Audience: only_paid*
+*Date: 2022-05-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Putin's second-to-last parade*
 
@@ -4038,7 +4038,7 @@ I practically never look at the greasy [rag](https://www.kyivpost.com/) anymore,
 
 ## Day 2, Phase 3
 
-*Date: 2022-05-10 | Status: Published | Audience: only_paid*
+*Date: 2022-05-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Leaky intelligence*
 
@@ -4099,7 +4099,7 @@ David Ignatius [informs us](https://www.washingtonpost.com/opinions/2022/01/11/u
 
 ## Day 3, Phase 3
 
-*Date: 2022-05-11 | Status: Published | Audience: only_paid*
+*Date: 2022-05-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Absorbing Additional Assistance*
 
@@ -4166,7 +4166,7 @@ This bloody mess is starting to remind me of the last [Det-A](https://detachment
 
 ## Day 4, Phase 3
 
-*Date: 2022-05-12 | Status: Published | Audience: only_paid*
+*Date: 2022-05-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Night Sight Fright Fight*
 
@@ -4199,7 +4199,7 @@ We have located at least part of the historic shipment of tactical optical gear 
 
 ## Day 5, Phase 3
 
-*Date: 2022-05-13 | Status: Published | Audience: only_paid*
+*Date: 2022-05-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Putin Shot Dead?*
 
@@ -4268,7 +4268,7 @@ This bloody mess is starting to remind me of the last [Det-A](https://detachment
 
 ## Day 6, Phase 3
 
-*Date: 2022-05-14 | Status: Published | Audience: only_paid*
+*Date: 2022-05-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Unbounded Irrationality*
 
@@ -4327,7 +4327,7 @@ U.S. and allied non-permissive environment specialists have already landed in Ky
 
 ## Day 7, Phase 3
 
-*Date: 2022-05-15 | Status: Published | Audience: only_paid*
+*Date: 2022-05-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *With Love From America*
 
@@ -4365,7 +4365,7 @@ While kooky conspiracy scandals cooked up by Trump’s re-election campaigners a
 
 ## Day 8, Phase 3
 
-*Date: 2022-05-16 | Status: Published | Audience: only_paid*
+*Date: 2022-05-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Mistaking Trust for Camaraderie*
 
@@ -4419,7 +4419,7 @@ It was only matter of time before someone with an aura of credibility decided to
 
 ## Day 9, Phase 3
 
-*Date: 2022-05-17 | Status: Published | Audience: only_paid*
+*Date: 2022-05-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Explosion-prone macroeconomics*
 
@@ -4472,7 +4472,7 @@ Serhiy Marchenko for the Economist[2](#footnote-2):
 
 ## Day 10, Phase 3
 
-*Date: 2022-05-18 | Status: Published | Audience: only_paid*
+*Date: 2022-05-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *How Russia Stole Ukraine's Fruit Basket*
 
@@ -4496,7 +4496,7 @@ To make a long story short, Ukraine was unprepared to protect its fruit basket.
 
 ## Day 11, Phase 3
 
-*Date: 2022-05-19 | Status: Published | Audience: only_paid*
+*Date: 2022-05-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Support Independent Artists*
 
@@ -4545,7 +4545,7 @@ I am reminded again of [The Sacrifice](https://www.youtube.com/watch?v=AVjmnbVVX
 
 ## Day 12, Phase 3
 
-*Date: 2022-05-20 | Status: Published | Audience: only_paid*
+*Date: 2022-05-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Popasna Salient*
 
@@ -4586,7 +4586,7 @@ In other news, I was listening to All Invaders Must Die on my walk home from For
 
 ## Day 13, Phase 3
 
-*Date: 2022-05-21 | Status: Published | Audience: only_paid*
+*Date: 2022-05-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Shatterproof Cameleon Lenses*
 
@@ -4623,7 +4623,7 @@ And I ordered a new pair of glasses with category 4 lenses that allow 5% light t
 
 ## Day 14, Phase 3
 
-*Date: 2022-05-22 | Status: Published | Audience: only_paid*
+*Date: 2022-05-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Sievierodonetsk (Severodonetsk) Salient*
 
@@ -4653,7 +4653,7 @@ In other news, martial law has been [extended](https://t.me/yzheleznyak/1709) un
 
 ## Day 15, Phase 3
 
-*Date: 2022-05-23 | Status: Published | Audience: only_paid*
+*Date: 2022-05-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Battle of Severodonetsk, Part 2*
 
@@ -4684,7 +4684,7 @@ Haidai on May 23 said that during the attack on Severodonetsk, the enemy was act
 
 ## Day 16, Phase 3
 
-*Date: 2022-05-24 | Status: Published | Audience: only_paid*
+*Date: 2022-05-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Lyman, Popasna, Bakhmut, Severodonetsk*
 
@@ -4730,7 +4730,7 @@ I’m in the *[крiпатура](https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%
 
 ## Day 17, Phase 3
 
-*Date: 2022-05-25 | Status: Published | Audience: only_paid*
+*Date: 2022-05-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *War-adjacent content milling*
 
@@ -4783,7 +4783,7 @@ European Pravda’s [rebuttal](https://bit.ly/3LZ0bqx) to the NYT editorial is m
 
 ## Day 18, Phase 3
 
-*Date: 2022-05-26 | Status: Published | Audience: only_paid*
+*Date: 2022-05-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Lyman Salient*
 
@@ -4813,7 +4813,7 @@ The gist of this post is no one knows what the fuck is actually happening in Don
 
 ## Day 19, Phase 3
 
-*Date: 2022-05-27 | Status: Published | Audience: only_paid*
+*Date: 2022-05-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Repeated Bout Effect*
 
@@ -4866,7 +4866,7 @@ Donbas situation this morning, c/o Nathan.
 
 ## Day 20, Phase 3
 
-*Date: 2022-05-28 | Status: Published | Audience: only_paid*
+*Date: 2022-05-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Weapons, weapons, weapons*
 
@@ -4900,7 +4900,7 @@ The past exists to be exploited, possibilities are many and prices are negotiabl
 
 ## Day 21, Phase 3
 
-*Date: 2022-05-29 | Status: Published | Audience: only_paid*
+*Date: 2022-05-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Hinge Point in Modern History*
 
@@ -4929,7 +4929,7 @@ Ukraine’s dependence on American benevolence could quickly become a liability 
 
 ## Day 96
 
-*Date: 2022-05-30 | Status: Published | Audience: only_paid*
+*Date: 2022-05-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Home on the range ( photo c/o abdymok )*
@@ -4966,7 +4966,7 @@ Martial law has been extended to August 23, 2022. This means no one will be allo
 
 ## Day 23, Phase 3
 
-*Date: 2022-05-31 | Status: Published | Audience: only_paid*
+*Date: 2022-05-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Nathan’s map*
@@ -4988,7 +4988,7 @@ In other news, Kilian [tore up Zegama 2022](https://www.runnersworld.com/es/noti
 
 ## Day 24, Phase 3
 
-*Date: 2022-06-01 | Status: Published | Audience: only_paid*
+*Date: 2022-06-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Photo c/o Finbarr O'Reilly*
@@ -5024,7 +5024,7 @@ I’m not sure about [this](https://en.wikipedia.org/wiki/List_of_conflicts_by_d
 
 ## Day 99
 
-*Date: 2022-06-02 | Status: Published | Audience: only_paid*
+*Date: 2022-06-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Died Some, Pro Patria*
 
@@ -5060,7 +5060,7 @@ No one should pretend functioning democratic institutions exist. It should be on
 
 ## Day 26, Phase 3
 
-*Date: 2022-06-03 | Status: Published | Audience: only_paid*
+*Date: 2022-06-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *100-day wrap-up*
 
@@ -5132,7 +5132,7 @@ Carousing is not only a key to Special Operations success but is also a great wa
 
 ## Day Whatever
 
-*Date: 2022-06-05 | Status: Published | Audience: only_paid*
+*Date: 2022-06-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 One of the problems with focusing on enemy cruise missiles flying over your head is the tendency to zoom in too closely on minute details of a specific section of the war map, an impact area, hopefully, where you are not physically present. This distracts you from the big picture, which shows how *little* the forward lines of own troops (FLOTs) have changed in the past month — mostly not in Russia’s favor.
 
@@ -5152,7 +5152,7 @@ Konrad thinks we’re winning the war, kind of, or at least holding our own for 
 
 ## Kolya
 
-*Date: 2022-06-06 | Status: Published | Audience: only_paid*
+*Date: 2022-06-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 My favorite member of parliament Mykola Tyshchenko was on display over the weekend standing next to Serhiy Leshchenko. Both were surveying damage by cruise missiles that hit a wagon repair factory in Kyiv’s Darnytsky district.
 
@@ -5180,7 +5180,7 @@ Known in the underworld as *Kolya the Pump*, *Kolya-Obolonsky* and *Kolya the Po
 
 ## Absorbing Assistance
 
-*Date: 2022-06-07 | Status: Published | Audience: only_paid*
+*Date: 2022-06-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Exhibit A: The JIM LR problem*
 
@@ -5220,7 +5220,7 @@ It’s easy to talk endlessly about not receiving enough foreign military assist
 
 ## Behind the Binoculars
 
-*Date: 2022-06-08 | Status: Published | Audience: only_paid*
+*Date: 2022-06-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Come back in a week*
 
@@ -5246,7 +5246,7 @@ The only rebellion in eastern Ukraine in early 2014 was in the heads of clueless
 
 ## Callibrated Coercion
 
-*Date: 2022-06-09 | Status: Published | Audience: only_paid*
+*Date: 2022-06-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Photo c/o Maxar*
@@ -5305,7 +5305,7 @@ Kiiara. [Gold lyrics,](https://www.google.com/search?q=kiiara+gold+lyrics&oq=kii
 
 ## Scared Shitless
 
-*Date: 2022-06-10 | Status: Published | Audience: only_paid*
+*Date: 2022-06-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Lousy availability heuristics*
 
@@ -5333,7 +5333,7 @@ Read more
 
 ## The Big Three
 
-*Date: 2022-06-13 | Status: Published | Audience: only_paid*
+*Date: 2022-06-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Photo by Pavel Volkov*
@@ -5360,7 +5360,7 @@ It is unclear whether Germany, France and Italy will help Ukraine out with weapo
 
 ## Mixing Entanglement Between Spins
 
-*Date: 2022-06-14 | Status: Published | Audience: only_paid*
+*Date: 2022-06-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Just answer the question*
 
@@ -5398,7 +5398,7 @@ Looking on the positive side, Ukraine’s leaders now realize the mismatch betwe
 
 ## Welcome to our Farm!
 
-*Date: 2022-06-16 | Status: Published | Audience: only_paid*
+*Date: 2022-06-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Mario, Emmanuel and Olaf tempt fate in Kyiv*
 
@@ -5428,7 +5428,7 @@ As we already noted, Italy and Germany lost WWII. France surrendered in 1940 to 
 
 ## Blur Building
 
-*Date: 2022-06-17 | Status: Published | Audience: only_paid*
+*Date: 2022-06-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Un’architettura atmosferica*
 
@@ -5460,7 +5460,7 @@ We are living in sham democracy, a primitive post-soviet feudal autocracy not u
 
 ## Day 115
 
-*Date: 2022-06-18 | Status: Published | Audience: only_paid*
+*Date: 2022-06-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ignore analysts. Stay away from experts.*
 
@@ -5491,7 +5491,7 @@ The moral of the Russia invasion of Ukraine story continues to elude Fred and Sa
 
 ## Top-level TikTok
 
-*Date: 2022-06-21 | Status: Published | Audience: only_paid*
+*Date: 2022-06-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The McFaul-Yermak Group*
 
@@ -5528,7 +5528,7 @@ Here’s a [quick translation](https://t.me/v_pastukhov/261) of what he opined y
 
 ## Eat, Sleep, Fight
 
-*Date: 2022-06-24 | Status: Published | Audience: only_paid*
+*Date: 2022-06-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Tough rules, clear and quick steps*
 
@@ -5573,7 +5573,7 @@ Decrepitude at Ukraine’s State Security Service stopped being *news* since at 
 
 ## Горе от ума
 
-*Date: 2022-06-27 | Status: Published | Audience: only_paid*
+*Date: 2022-06-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *У стра́ха глаза́ велики́*
 
@@ -5615,7 +5615,7 @@ I started running at the end of Phase 2 of fascist Russia’s genocidal campaign
 
 ## The Seedler
 
-*Date: 2022-06-28 | Status: Published | Audience: only_paid*
+*Date: 2022-06-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Merck Sharp & Dohme flashback*
 
@@ -5652,7 +5652,7 @@ Here’s a quick xlation of Vladimir’s flashback.
 
 ## Proximity-based Cheese Grinding
 
-*Date: 2022-06-29 | Status: Published | Audience: only_paid*
+*Date: 2022-06-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Answering the call*
 
@@ -5675,7 +5675,7 @@ Penn has made it his business to turn up in news-making places. He made [an unex
 
 ## How Fast Can You Run?
 
-*Date: 2022-06-30 | Status: Published | Audience: only_paid*
+*Date: 2022-06-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine Intelligence update*
 
@@ -5700,7 +5700,7 @@ The difference between *shorterm* and an *extended period* can be measured in mi
 
 ## Getting the Roast Ready
 
-*Date: 2022-07-01 | Status: Published | Audience: only_paid*
+*Date: 2022-07-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine is the oven*
 
@@ -5746,7 +5746,7 @@ It now dawns on me the whole reason for typing out these longish quasi-recipes i
 
 ## The Third A
 
-*Date: 2022-07-04 | Status: Published | Audience: only_paid*
+*Date: 2022-07-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Abnormal saccading*
 
@@ -5801,7 +5801,7 @@ This is not a war of attrition, and Moscow’s goal is not to capture and contro
 
 ## Spontaneous Mass Confusion
 
-*Date: 2022-07-06 | Status: Published | Audience: only_paid*
+*Date: 2022-07-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Dry white wine with ice*
 
@@ -5842,7 +5842,7 @@ Fred & Co., who in December 2021 told us, “Putin is and remains a rational act
 
 ## Crime, Coffee & Cocktails
 
-*Date: 2022-07-07 | Status: Published | Audience: only_paid*
+*Date: 2022-07-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Slush fund management in Ukraine*
 
@@ -5857,7 +5857,7 @@ Looking on the positive side, the performance of Ukraine’s government, parliam
 
 ## God's (Dragon) Plan
 
-*Date: 2022-07-08 | Status: Published | Audience: only_paid*
+*Date: 2022-07-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Reality, nightmare, insanity, madness*
 
@@ -5890,7 +5890,7 @@ I drew a blank on God’s plan. I remember Z [saying](https://www.youtube.com/wa
 
 ## Ukraine's Guardian Angels
 
-*Date: 2022-07-11 | Status: Published | Audience: only_paid*
+*Date: 2022-07-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Vicky, Mike, Mariana and Marcy*
 
@@ -5930,7 +5930,7 @@ Mariana, like Marcy, does not want us to focus on Bankova Street shenanigans.
 
 ## Ongoing Dialogue
 
-*Date: 2022-07-12 | Status: Published | Audience: only_paid*
+*Date: 2022-07-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Handling Kyiv better than Kabul*
 
@@ -5957,7 +5957,7 @@ As for Yermak, OPSEC, weapons proliferation, etc, we [revoked](https://abdymok.s
 
 ## Noblesville, Ukraine
 
-*Date: 2022-07-14 | Status: Published | Audience: only_paid*
+*Date: 2022-07-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Authentic for men*
 
@@ -6017,7 +6017,7 @@ More about ATN [here](https://techiia.com/news/fundaciya-techiya-pridbala-smart-
 
 ## Day 145
 
-*Date: 2022-07-18 | Status: Published | Audience: only_paid*
+*Date: 2022-07-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ultra-competitive Ukraine-style politics*
 
@@ -6053,7 +6053,7 @@ In other news, Natasha from Fred’s dream factory ISW [babbles](https://www.pra
 
 ## Take Me to the Fire
 
-*Date: 2022-07-21 | Status: Published | Audience: only_paid*
+*Date: 2022-07-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Throw me in*
 
@@ -6088,7 +6088,7 @@ Meanwhile, it might not be a bad idea to [unclassify](https://apnews.com/article
 
 ## Axial Inanity
 
-*Date: 2022-07-23 | Status: Published | Audience: only_paid*
+*Date: 2022-07-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Putin's premature death*
 
@@ -6126,7 +6126,7 @@ Andy is already famous in Ukraine for his previous [botched reports](https://abd
 
 ## Day 150ish
 
-*Date: 2022-07-26 | Status: Published | Audience: only_paid*
+*Date: 2022-07-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Spontaneous mass confusion*
 
@@ -6186,7 +6186,7 @@ Wut? No, Sorry. Kyiv, especially the venues on Reiterska St. in the center, does
 
 ## Darkness in Sight
 
-*Date: 2022-07-27 | Status: Published | Audience: only_paid*
+*Date: 2022-07-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Michael's next Fallujah*
 
@@ -6215,7 +6215,7 @@ Looking on the positive side, ibogaine therapy clinics are popping up in Kyiv.
 
 ## Masterclass in Messaging
 
-*Date: 2022-07-28 | Status: Published | Audience: only_paid*
+*Date: 2022-07-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Devotional navels and genitalia*
 
@@ -6247,7 +6247,7 @@ A close reading of the presiden’ts increasingly voluminous revisionist speeche
 
 ## Status Not Available
 
-*Date: 2022-07-30 | Status: Published | Audience: only_paid*
+*Date: 2022-07-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Tropical butterfly wings*
 
@@ -6284,7 +6284,7 @@ What registered in my mind – what I remember today, sitting here this morning 
 
 ## Gigantic Strategic Failure
 
-*Date: 2022-08-03 | Status: Published | Audience: only_paid*
+*Date: 2022-08-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Breathing, stride, tempo*
 
@@ -6329,7 +6329,7 @@ The moral of the story is that endorphins do not pass the blood-brain barrier. T
 
 ## We Are All Anandamide Factories
 
-*Date: 2022-08-05 | Status: Published | Audience: only_paid*
+*Date: 2022-08-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 The neuromodulatory system plays important roles in central nervous system development, synaptic plasticity, and the response to endogenous and environmental insults, such as war. Endogenous cannabinoids are molecules made by your body during a good sleep, provided you have a healthy diet and are properly hydrated.
 
@@ -6367,7 +6367,7 @@ I was tempted to check his pulse but thought better of it after he burped,
 
 ## On Bullshit
 
-*Date: 2022-08-11 | Status: Published | Audience: only_paid*
+*Date: 2022-08-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Propounding nonsense*
 
@@ -6405,7 +6405,7 @@ Maybe this means we should ignore what Z, Kuleba, Yermak, Leshchenko and Podolia
 
 ## Day 175ish
 
-*Date: 2022-08-16 | Status: Published | Audience: only_paid*
+*Date: 2022-08-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *More stalemate and energetic dancing*
 
@@ -6434,7 +6434,7 @@ Looking on the bright side, we got three months of running in over the summer an
 
 ## Ukraine's International Legion
 
-*Date: 2022-08-18 | Status: Published | Audience: only_paid*
+*Date: 2022-08-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Problems in paradise?*
 
@@ -6466,7 +6466,7 @@ Of course, there’s always *fragging*, if you don’t want to deal with the has
 
 ## OBE Report
 
-*Date: 2022-08-29 | Status: Published | Audience: only_paid*
+*Date: 2022-08-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Gifts from the brain*
 
@@ -6514,7 +6514,7 @@ Rather than heaping ridicule on Melinda, I leave you with this recipe for Caesar
 
 ## Day 190
 
-*Date: 2022-09-01 | Status: Published | Audience: only_paid*
+*Date: 2022-09-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Pivot*
 
@@ -6548,7 +6548,7 @@ It’s too early to report successes and failures of this genius assault plan. U
 
 ## Alright.
 
-*Date: 2022-09-08 | Status: Published | Audience: only_paid*
+*Date: 2022-09-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 *Kyiv at dawn (September 7, 2022)*
@@ -6616,7 +6616,7 @@ Since the new year I’m quite confident the grim realities of the recent past a
 
 ## Sovereign State (The Operator)
 
-*Date: 2022-09-09 | Status: Published | Audience: only_paid*
+*Date: 2022-09-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Serhiy and his automotrice*
 
@@ -6636,7 +6636,7 @@ Playing temporary court jester to the wrong-and-strong, [killvlogging](https://w
 
 ## 2023 Military Campaign Prospects
 
-*Date: 2022-09-12 | Status: Published | Audience: only_paid*
+*Date: 2022-09-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Ukrainian view*
 
@@ -6787,7 +6787,7 @@ Hinshaw D., Parkinson J. (2022, July 5). [Russian Army Turns Ukraine’s Larges
 
 ## Day 201
 
-*Date: 2022-09-12 | Status: Published | Audience: only_paid*
+*Date: 2022-09-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Schwerpunkt*
 
@@ -6846,7 +6846,7 @@ Regardless of whether areas in Kherson and Kharkiv regions are completely de-occ
 
 ## Fake Flowers
 
-*Date: 2022-09-14 | Status: Published | Audience: only_paid*
+*Date: 2022-09-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Just use a bottle opener*
 
@@ -6892,7 +6892,7 @@ The lesson Ukraine’s spherical cow teaches us is that numerous non-cooperating
 
 ## Day 204
 
-*Date: 2022-09-15 | Status: Published | Audience: only_paid*
+*Date: 2022-09-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Advising, assisting, accompanying*
 
@@ -6941,7 +6941,7 @@ A lot of people have asked about the watermelon from Mykolaiv. I’ll post a fol
 
 ## Day 211
 
-*Date: 2022-09-22 | Status: Published | Audience: only_paid*
+*Date: 2022-09-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Random notes*
 
@@ -7072,7 +7072,7 @@ Earlier in the day, Russia’s Defense Minister Sergei Shoigu and Putin addresse
 
 ## Day 212
 
-*Date: 2022-09-23 | Status: Published | Audience: only_paid*
+*Date: 2022-09-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Butter and guns*
 
@@ -7125,7 +7125,7 @@ Chip is a [real character](https://en.wikipedia.org/wiki/Chip_Roy), almost as bi
 
 ## Vicky & Ammo Inc.
 
-*Date: 2022-09-28 | Status: Published | Audience: only_paid*
+*Date: 2022-09-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Revenge politics*
 
@@ -7161,7 +7161,7 @@ Thanks, Oleksiy!
 
 ## Day 219
 
-*Date: 2022-09-30 | Status: Published | Audience: only_paid*
+*Date: 2022-09-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Putin's doom loop*
 
@@ -7195,7 +7195,7 @@ There is no reason to think that nuclear war is inevitable, but the trend is now
 
 ## Day 224
 
-*Date: 2022-10-05 | Status: Published | Audience: only_paid*
+*Date: 2022-10-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Making dragon soup*
 
@@ -7271,7 +7271,7 @@ And finally, maps. Lots more maps.
 
 ## Day 227
 
-*Date: 2022-10-08 | Status: Published | Audience: only_paid*
+*Date: 2022-10-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *War sketches*
 
@@ -7309,7 +7309,7 @@ Plus the Crimean Bridge :-)
 
 ## Day 230
 
-*Date: 2022-10-11 | Status: Published | Audience: only_paid*
+*Date: 2022-10-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Speed trials*
 
@@ -7338,7 +7338,7 @@ Shrapnel from the missile is scattered all over the place. We know it’s a Kh-1
 
 ## 231 - 74 = 157
 
-*Date: 2022-10-12 | Status: Published | Audience: only_paid*
+*Date: 2022-10-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Neverending Phase 3*
 
@@ -7389,7 +7389,7 @@ Finally, the last thing anyone wants to hear – during the days of rotting flow
 
 ## Day 243
 
-*Date: 2022-10-25 | Status: Published | Audience: only_paid*
+*Date: 2022-10-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Moral idiocy and geopolitical blindness*
 
@@ -7431,7 +7431,7 @@ Last time I checked on Beebe:
 
 ## Day 245
 
-*Date: 2022-10-27 | Status: Published | Audience: only_paid*
+*Date: 2022-10-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *My lumen collection*
 
@@ -7470,7 +7470,7 @@ You cannot donate to Ukraine@War with PayPal. No credit cards are accepted, and 
 
 ## Day 246
 
-*Date: 2022-10-28 | Status: Published | Audience: only_paid*
+*Date: 2022-10-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Open Society, Solzhenitsyn and Kirill*
 
@@ -7656,7 +7656,7 @@ The ascension is similar to climbing onto the next anthropological stage. No one
 
 ## Satan's Combat Misquitoes
 
-*Date: 2022-10-30 | Status: Published | Audience: only_paid*
+*Date: 2022-10-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Dirty-bomb tactics*
 
@@ -7698,7 +7698,7 @@ Putin’s looney speech at the Valdai Forum stirred up memories of Kirill[2](#fo
 
 ## Shaping Ukraine's Strategic Objectives
 
-*Date: 2022-11-04 | Status: Published | Audience: only_paid*
+*Date: 2022-11-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Sovereignty vs. subjectiveness*
 
@@ -7741,7 +7741,7 @@ Kupchan was probably out eating lunch when we cleared the air last September abo
 
 ## Lex and Fiona
 
-*Date: 2022-11-05 | Status: Published | Audience: only_paid*
+*Date: 2022-11-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Shadow effect*
 
@@ -7766,7 +7766,7 @@ Lex has chatted up lots controversial people, such as Noam Chomsky, Jordan Peter
 
 ## Day 259
 
-*Date: 2022-11-08 | Status: Published | Audience: only_paid*
+*Date: 2022-11-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Are we dead yet?*
 
@@ -7816,7 +7816,7 @@ Stefan provides tactical details about the bloody mess [here](https://www.facebo
 
 ## Autumn ends
 
-*Date: 2022-11-10 | Status: Published | Audience: only_paid*
+*Date: 2022-11-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *If you're walking on eggs don't hop*
 
@@ -7851,7 +7851,7 @@ I am of late – for the first time, and possibly the last – finding myself en
 
 ## Melodrama
 
-*Date: 2022-11-12 | Status: Published | Audience: only_paid*
+*Date: 2022-11-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *And spin and spin*
 
@@ -7889,7 +7889,7 @@ Stay tuned.
 
 ## z1 Slow Movement
 
-*Date: 2022-11-15 | Status: Published | Audience: only_paid*
+*Date: 2022-11-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Oligophrens and psychopaths*
 
@@ -7942,7 +7942,7 @@ Unfortunately, there have been plenty of anerobic enhanced non-divergent stunts 
 
 ## 265 - 11 = 254
 
-*Date: 2022-11-16 | Status: Published | Audience: only_paid*
+*Date: 2022-11-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Stalin's bullet list*
 
@@ -7969,7 +7969,7 @@ Meanwhile, tens of thousands of people have died needless, painful deaths.
 
 ## History of Modern Ukraine
 
-*Date: 2022-11-19 | Status: Published | Audience: only_paid*
+*Date: 2022-11-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Classroom lectures*
 
@@ -8007,7 +8007,7 @@ Which reminds me of this [Podereviansky](https://uk.wikipedia.org/wiki/%D0%9B%D0
 
 ## The Captive Mind
 
-*Date: 2022-11-20 | Status: Published | Audience: only_paid*
+*Date: 2022-11-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *IX: The lesson of the Baltics*
 
@@ -8041,7 +8041,7 @@ Wonderful. Let’s just hope we aren’t irradiated and freeze to death during t
 
 ## Pugnacious Individualism
 
-*Date: 2022-11-24 | Status: Published | Audience: only_paid*
+*Date: 2022-11-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's trolley problem*
 
@@ -8104,7 +8104,7 @@ It is almost 20 years since Masha teamed up with Steven Korn, a former CNN execu
 
 ## Barrel-chested Freedom Fighters
 
-*Date: 2022-11-25 | Status: Published | Audience: only_paid*
+*Date: 2022-11-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Technical water and invincibility points*
 
@@ -8130,7 +8130,7 @@ I had intended to write something about [invincibility points](https://www.ukrin
 
 ## Practical Homicide Investigation
 
-*Date: 2022-11-26 | Status: Published | Audience: only_paid*
+*Date: 2022-11-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ukraine's counterfactual scad*
 
@@ -8161,7 +8161,7 @@ Fred’s fears about Ukraine *becoming* “a permanent economic basket case” a
 
 ## Our Assets of Their Destruction
 
-*Date: 2022-11-29 | Status: Published | Audience: only_paid*
+*Date: 2022-11-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Eschew the bullet hell*
 
@@ -8208,7 +8208,7 @@ Read more
 
 ## Z & Elon
 
-*Date: 2022-12-01 | Status: Published | Audience: only_paid*
+*Date: 2022-12-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Spare me their Twitter bullshit*
 
@@ -8231,7 +8231,7 @@ My two Twitter accounts are [abdymok](https://twitter.com/abdymok) and [dronedep
 
 ## Regulated Shamanic Reforms
 
-*Date: 2022-12-14 | Status: Published | Audience: only_paid*
+*Date: 2022-12-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ayn Rand kamikaze drones*
 
@@ -8264,7 +8264,7 @@ But that’s another story.
 
 ## Day 295
 
-*Date: 2022-12-15 | Status: Published | Audience: only_paid*
+*Date: 2022-12-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A big stupid circle*
 
@@ -8312,7 +8312,7 @@ Think [JDAM strikes](https://www.youtube.com/watch?v=o5bH7VurGTs&ab_channel=matt
 
 ## Day 296
 
-*Date: 2022-12-16 | Status: Published | Audience: only_paid*
+*Date: 2022-12-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A big bucket of sand*
 
@@ -8353,7 +8353,7 @@ In other news, Christmas trees have gone on sale at [dozens of locations](https:
 
 ## Day 297
 
-*Date: 2022-12-17 | Status: Published | Audience: only_paid*
+*Date: 2022-12-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Dead white male expat monkeys*
 
@@ -8404,7 +8404,7 @@ In other words, art lives longer than dead white male expat monkeys.
 
 ## Day 298
 
-*Date: 2022-12-18 | Status: Published | Audience: only_paid*
+*Date: 2022-12-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The slush palace*
 
@@ -8433,7 +8433,7 @@ It was warm on Saturday, almost balmy. The snow melted. The fog was thick. I pri
 
 ## Day 300ish
 
-*Date: 2022-12-20 | Status: Published | Audience: only_paid*
+*Date: 2022-12-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Inside the wire*
 
@@ -8487,7 +8487,7 @@ Start writing today. Use the button below to create your Substack and connect yo
 
 ## Join my chat
 
-*Date: 2022-12-20 | Status: Published | Audience: only_paid*
+*Date: 2022-12-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A private space for us to converse and connect*
 
@@ -8517,7 +8517,7 @@ This is a conversation space in the Substack app that I set up exclusively for m
 
 ## Day 303
 
-*Date: 2022-12-23 | Status: Published | Audience: only_paid*
+*Date: 2022-12-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The porosity of recombinants*
 
@@ -8579,7 +8579,7 @@ David recently [advertised](https://www.washingtonpost.com/opinions/2022/12/20/u
 
 ## Day 306
 
-*Date: 2022-12-26 | Status: Published | Audience: only_paid*
+*Date: 2022-12-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Year in review*
 
@@ -8596,7 +8596,7 @@ Happy holidaze!
 
 ## The Empty Chair Technique
 
-*Date: 2022-12-28 | Status: Published | Audience: only_paid*
+*Date: 2022-12-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Supplements, sex and magnitism*
 
@@ -8640,7 +8640,7 @@ Just ask Olesia Ilaschuk, Ukraine’s new ambassador to Bulgaria. She believes w
 
 ## Over the Top
 
-*Date: 2022-12-29 | Status: Published | Audience: only_paid*
+*Date: 2022-12-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Z's brain might be our worst enemy*
 
