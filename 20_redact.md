@@ -3164,23 +3164,23 @@ Stay strong, stay smart, stay healthy. My ass.
 
 KYIV. On July 13, about a dozen young employees of the National Bank of Ukraine called for the central bank to remain independent in a YouTube message addressed to President Volodymyr Zelensky.
 
-The two-minute clip is a thinly-veiled PR attack on Serhiy Kruglyk's candidacy to replace Yakiv Smolii as NBU governor, featuring self-appointed members of “[Children of Soros](https://balashov.com.ua/blogs/deti-sorosa.html),” the group of \*woke\* banking bloggers that has rapidly turned the [President’s Office](https://www.president.gov.ua/news/volodimir-zelenskij-proviv-telefonnu-rozmovu-z-direktorom-ro-62277)’s NBU governor candidate selection process into a three-ring circus.
+The two-minute clip is a thinly veiled PR attack on Serhiy Kruglyk's candidacy to replace Yakiv Smolii as NBU governor, featuring self-appointed members of “[Children of Soros](https://balashov.com.ua/blogs/deti-sorosa.html),” the group of \*woke\* banking bloggers that has rapidly turned the [President’s Office](https://www.president.gov.ua/news/volodimir-zelenskij-proviv-telefonnu-rozmovu-z-direktorom-ro-62277)’s NBU governor candidate selection process into a three-ring circus.
 
-> **Article 85** of Ukraine’s Constitution gives parliament the power [to appoint and remove](https://www.kmu.gov.ua/storage/app/imported_content/document/110977042/Constitution_eng.doc) the central bank chairman, as well as half the total members of the NBU Council. **Articles 99** says the currency unit of Ukraine shall be hryvnia and ensuring the stability of the currency unit “shall be the major function of the central bank.” The NBU Council, according to **Article 100**, “shall develop the basic principles of monetary and credit policy, and control its implementation.”
+> **Article 85** of Ukraine’s Constitution gives parliament the power [to appoint and remove](https://www.kmu.gov.ua/storage/app/imported_content/document/110977042/Constitution_eng.doc) the central bank chairman, as well as half the total members of the NBU Council. **Article 99** says the currency unit of Ukraine shall be hryvnia and ensuring the stability of the currency unit “shall be the major function of the central bank.” The NBU Council, according to **Article 100**, “shall develop the basic principles of monetary and credit policy, and control its implementation.”
 
 The same [Truman Agency](https://truman.ua/en/seed_the_deed) that has undercut Kruglyk’s candidacy, abetted on [Twitter](https://twitter.com/tashecon/status/1282953450033119232) by world famous Ukraine experts Anders Aslund and Timothy Ash, produced the \*woke\* NBU employees-for-independence advertorial.
 
-Which brings us to the question why Aslund, Ash and Ukrainian media have put Kruglyk into what Ash calls “the old school banking and industrial lobby,” since he is undoubtedly the most *progressively independent* of the [nine candidates](https://zn.ua/ukr/ECONOMICS/zmi-opublikuvali-prezidentskij-spisok-kandidativ-na-post-hlavi-nbu-podrobitsi.html) for central bank governor [shortlisted](https://zn.ua/ukr/ECONOMICS/zmi-opublikuvali-prezidentskij-spisok-kandidativ-na-post-hlavi-nbu-podrobitsi.html) by the Kyiv-based Zerkalo Nedeli ezine.
+Which brings us to the question of why Aslund, Ash and Ukrainian media have put Kruglyk into what Ash calls “the old school banking and industrial lobby,” since he is undoubtedly the most *progressively independent* of the [nine candidates](https://zn.ua/ukr/ECONOMICS/zmi-opublikuvali-prezidentskij-spisok-kandidativ-na-post-hlavi-nbu-podrobitsi.html) for central bank governor [shortlisted](https://zn.ua/ukr/ECONOMICS/zmi-opublikuvali-prezidentskij-spisok-kandidativ-na-post-hlavi-nbu-podrobitsi.html) by the Kyiv-based Zerkalo Nedeli ezine.
 
 Ukraine Economic Outlook economist Grigory Kukuruza [explains](https://www.facebook.com/photo.php?fbid=1700111990126500&set=a.597301697074207&type=3&theater):
 
 > "Competitors threw all their strength into knocking down the favorite - Serhiy Kruglyk – to replace Smolii at the central bank.
 >
-> A weeks-long 'black' PR campaign has been waged against him on such popular websites as Liga.net, using materials which do not meet journalistic standards," Kukuruza sad.
+> A weeks-long 'black' PR campaign has been waged against him on such popular websites as Liga.net, using materials which do not meet journalistic standards," Kukuruza said.
 
 Indeed. The exact same candidates as in the Zerkalo Nedeli article [are mentioned](https://finance.liga.net/ekonomika/article/sekret-zelenskogo-pryamo-seychas-prezident-vybiraet-glavu-nbu-kakie-familii-na-stole) by three journalists from Liga.net in an *[insider report](https://finance.liga.net/ekonomika/article/sekret-zelenskogo-pryamo-seychas-prezident-vybiraet-glavu-nbu-kakie-familii-na-stole)* linking to another Truman Agency advertisement against Kruglyk that appeared last week under the Ukraine Confidential banner.
 
-What Platonic ideal is the Truman Agency is attempting to channel? And then there's the practical question: Does this PR agency want Ukraine’s navigation of banking intuitions to become the stuff of social networking rumors?
+What Platonic ideal is the Truman Agency attempting to channel? And then there's the practical question: Does this PR agency want Ukraine’s navigation of banking institutions to become the stuff of social networking rumors?
 
 **So far, eight of the nine candidates identified by Ukrainian western media and banking experts have been unable to demonstrate to western governments and international financial organizations that they have no ties with oligarchs and former NBU Chairwoman Valeria Hontareva and would truly act independently if named to head the central bank.**
 
@@ -3207,11 +3207,11 @@ You can’t help but admire someone who has a well developed, deep sense of humi
 
 The story of National Bank of Ukraine Governor appointee Kyrylo Shevchenko’s path from TERF in Tula to trans-inclusive in Kyiv via Stakhanov by way of Kharkiv sounds impressive. (So far, if we ignore the Finance and Credit horror stories).
 
-In humans, there are two types in dominant personalities - one named social dominance and the other aggressive dominance. The former rely on persuading others by reasoning, and the latter uses aggression, threat, deceit and flattery.
+In humans, there are two types of dominant personalities - one named social dominance and the other aggressive dominance. The former rely on persuading others by reasoning, and the latter uses aggression, threat, deceit and flattery.
 
 An interesting fact: Flanges (cheek-pads) appear on the face of a male orangutan only when that individual is physically strong and socially dominant.
 
-But I digress. Shevchenko’s website [says](https://kirillshevchenko.com/en/ya-vsegda-otnoshus-s-uvazheniem-k-svoej-rabote-kirill-shevchenko-ceo-ukrgazbank/) he has **devoted** more than a quarter of a century to the banking sector and worked his way up from a regular economist to a top manager - the CEO of one of the largest banks in Ukraine. He believes his main **secret to success** is loyalty and respect for the profession, customers and employees.
+But I digress. Shevchenko’s website [says](https://kirillshevchenko.com/en/ya-vsegda-otnoshus-s-uvazheniem-k-svoej-rabote-kirill-shevchenko-ceo-ukrgazbank/) he has **devoted** more than a quarter of a century to the banking sector and worked his way up from a regular economist to a top manager – the CEO of one of the largest banks in Ukraine. He believes his main **secret to success** is loyalty and respect for the profession, customers and employees.
 
 > “In general, Ukraine has quite a lot of resources and opportunities for a quick recovery from the crisis. Our strong suits are the agricultural sector, IT and huge human potential. At the same time, it is important to believe in yourself, and everything will work out,” Shevchenko is quoted as [saying](https://kirillshevchenko.com/en/ya-vsegda-otnoshus-s-uvazheniem-k-svoej-rabote-kirill-shevchenko-ceo-ukrgazbank/) in a post dated July 3, 2020.
 
@@ -3225,7 +3225,7 @@ Disgraced former Economy Minister Timofiy Mylovanov does. He said Shevchenko is 
 
 ---
 
-Parliament’s Committee on Finance, Tax and Customs Policy on July 16, 2020 recommended members of parliament to Shevchenko’s candidacy for NBU governor after [chatting him up](https://www.facebook.com/zheleznyak.y/posts/2636605393265612).
+Parliament’s Committee on Finance, Tax and Customs Policy on July 16, 2020 recommended Shevchenko’s candidacy to members of parliament for NBU governor after [chatting him up](https://www.facebook.com/zheleznyak.y/posts/2636605393265612).
 
 **Holos Party MP Yaroslav Zhelezniak [said](https://www.facebook.com/zheleznyak.y/videos/2636627539930064/) committee members asked Shevchenko four questions:**
 
@@ -3233,7 +3233,7 @@ Parliament’s Committee on Finance, Tax and Customs Policy on July 16, 2020 rec
 >
 > "I will not allow uncontrolled inflation or emissions."
 >
-> 2) What your attitude towards cooperation with the IMF?
+> 2) What is your attitude towards cooperation with the IMF?
 >
 > "The NBU must continue cooperation with the IMF. It is extremely important. We should also cooperate with other international financial institutions.”
 >
@@ -3275,7 +3275,7 @@ President Volodymyr Zelensky on July 16 [said](https://www.pravda.com.ua/rus/new
 
 [Image]
 
-This reminds of what a young barista woman told me about a customer who came in with a mask, but was not wearing it. When she asked the customer to put on her mask please, the woman said: "Why? There's no-one in here."
+This reminds me of what a young barista woman told me about a customer who came in with a mask, but was not wearing it. When she asked the customer to put on her mask please, the woman said: "Why? There's no-one in here."
 
 ---
 
@@ -3343,11 +3343,11 @@ Confusing matters further, Truman Agency published a sketchy 2-minute video on Y
 
 It’s day whatever of Ukraine’s COVID-19 disaster and increasingly apparent that something is horribly wrong. So, they’ve decided to chop the country up into zones.
 
-Health Ministry officials are finding increasingly difficult to tamp down positive test results for the virus and have decided to extend quarantine measures for one more month according to yet-to-be-fully-explained algorithms.
+Health Ministry officials are finding it increasingly difficult to tamp down positive test results for the virus and have decided to extend quarantine measures for one more month according to yet-to-be-fully-explained algorithms.
 
 No one knows how many people are actually dying from COVID-19 since morbidity statistics remain hush-hush confidential on government orders. Hospital beds are filling up to capacity in some western regions, but these [reports](https://hvylya.net/news/211865-vrach-iz-zakarpatya-ozvuchila-realnuyu-situaciyu-s-covid-19-v-ukraine) are widely ignored by most media.
 
-The latest bright idea is to assign colors (rules) for zones (green, yellow, orange, red) throughout Ukraine, depending on the epidemiological situation, which no one is really sure of because of the inadequate low-level of testing.
+The latest bright idea is to assign colors (rules) for zones (green, yellow, orange, red) throughout Ukraine, depending on the epidemiological situation, which no one is really sure of because of the inadequate low level of testing.
 
 [Image]
 
@@ -3365,7 +3365,7 @@ In economic news, everything is bad and getting worse.
 
 [Image]
 
-It’s day whatever of Ukraine’s COVID-19 disaster and spread of the disease throughout the country has spiraled out of control. No one can’t be absolutely sure how bad the situation is, because health officials aren’t telling the truth, so we have to rely on common sense, our own eyes and eyewitness doctor accounts of the unfolding tragedy.
+It’s day whatever of Ukraine’s COVID-19 disaster and spread of the disease throughout the country has spiraled out of control. No one can be absolutely sure how bad the situation is, because health officials aren’t telling the truth, so we have to rely on common sense, our own eyes and eyewitness doctor accounts of the unfolding tragedy.
 
 Ukraine’s official response to the disease has been like a deflated helium balloon, just sad, sinking and going nowhere.
 
@@ -3373,7 +3373,7 @@ Populist leaders around the world have exploited the pandemic. Ukrainian Preside
 
 ---
 
-**This is what the Zelensky [said](https://www.president.gov.ua/en/news/mi-gotovi-do-drugoyi-hvili-epidemiyi-ale-spodivayemosya-sho-62321) on July 20, 2020:**
+**This is what Zelensky [said](https://www.president.gov.ua/en/news/mi-gotovi-do-drugoyi-hvili-epidemiyi-ale-spodivayemosya-sho-62321) on July 20, 2020:**
 
 [Image]
 
@@ -3383,7 +3383,7 @@ Populist leaders around the world have exploited the pandemic. Ukrainian Preside
 
 ---
 
-Dialectical discourse under Zelensky is no longer possible in Ukraine, where *thesis*and its *antithesis* have been made irrelevant.
+Dialectical discourse under Zelensky is no longer possible in Ukraine, where *thesis* and its *antithesis* have been made irrelevant.
 
 The Hegelian approach no longer applies to any important issue. Evolving real ideas is passé. Reality here can no longer be expressed in rational categories.
 
@@ -3407,7 +3407,7 @@ Ukraine’s official response: ceasefire violations do not invalidate the truce.
 
 Rudolf Carnap appeals to the [Principle of Sufficient Reason](https://onlinelibrary.wiley.com/doi/10.1111/ejop.12130) as a proper principle in the development of the theory of extension, which is a proper subject within scientific philosophy. In Carnap we can find a kind of reciprocal relation between science, where ultimately the principle of indifference rules, and scientific philosophy, where …
 
-> …”it is also generally agreed that this determination of extension involves uncertainty and possible error. But since this holds for all concepts of empirical science, nobody regards this fact as a sufficient reason for rejecting the concepts of the theory of extension. The sources of uncertainty are chiefly the following: first, the linguist's acceptance of the result that a given thing is denoted by 'Hund' for Karl may be erroneous, e.g., due to a misunderstanding or a factual erroro of Karl's and, second, the generalization of things which he has not tested suffers, of course, from the uncertainty of all inductive infererence. Carnap, ”Meaning and Synonymy in Natural Languages" ([source](https://www.jstor.org/stable/4318221))
+> …”it is also generally agreed that this determination of extension involves uncertainty and possible error. But since this holds for all concepts of empirical science, nobody regards this fact as a sufficient reason for rejecting the concepts of the theory of extension. The sources of uncertainty are chiefly the following: first, the linguist's acceptance of the result that a given thing is denoted by 'Hund' for Karl may be erroneous, e.g., due to a misunderstanding or a factual error of Karl's and, second, the generalization of things which he has not tested suffers, of course, from the uncertainty of all inductive inference. Carnap, ”Meaning and Synonymy in Natural Languages" ([source](https://www.jstor.org/stable/4318221))
 
 Which brings us to Mississippi or maybe Tennessee…
 
@@ -3425,7 +3425,7 @@ Hundreds of freedom-loving Ukrainian TV and print journalists are making last-mi
 
 This army of journalists won’t actually travel to Minsk, because that’s too dangerous. They will be there *virtually*, re-sharing photographs of violence via Facebook and Twitter.
 
-The boilerplate stuff, meanwhile, is being dreamed up and written right now in the heads of their editors, who will undoubtedly use various off-the-wall narratives, depending on their level of their ignorance.
+The boilerplate stuff, meanwhile, is being dreamed up and written right now in the heads of their editors, who will undoubtedly use various off-the-wall narratives, depending on their level of ignorance.
 
 ---
 
