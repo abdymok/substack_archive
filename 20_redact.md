@@ -11,9 +11,9 @@
 *adventures in financial illiteracy*
 
 [Image]
-*(clockwise: prime minister oleksiy honcharuk, economy minister timofiy mylovanov, deputy heads of the national bank kateryna rozhkova, and dmytro sologub, the bank’s head yakiv smolii, deputy finance minister yuriy butsa, finance minister oksana markarova, finance ministry chief economist oleksandra betliy, a meet to discuss hryvnia fluctuation at the cabinet of ministers building in downtown kyiv, on dec. 16, 2019. photo by kmu.gov.ua)*
+*(clockwise: prime minister oleksiy honcharuk, economy minister timofiy mylovanov, deputy heads of the national bank kateryna rozhkova, and dmytro sologub, the bank’s head yakiv smolii, deputy finance minister yuriy butsa, finance minister oksana markarova, finance ministry chief economist oleksandra betliy, a meeting to discuss hryvnia fluctuation at the cabinet of ministers building in downtown kyiv, on dec. 16, 2019. photo by kmu.gov.ua)*
 
-ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. however, few expected that the time would come when the standard of competency turned out to be the ability to agree **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), the difference in meaning between *разбрат* (**a** **falling out**) and *разврат* (**debauchery**), оr how best to explain macroeconomic policy to a ukraine’s president, who does not know the difference.
+ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. however, few expected that the time would come when the standard of competency turned out to be the ability to agree **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), the difference in meaning between *разбрат* (**a** **falling out**) and *разврат* (**debauchery**), or how best to explain macroeconomic policy to a ukraine’s president, who does not know the difference.
 
 the quality of the unedited [90-minute long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the december 16, 2019 meeting is **excellent**. it documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in october 2019 to coordinate macroeconomic policy.
 
@@ -908,7 +908,7 @@ Shmyhal said that as there is no first deputy prime minister at the moment, he w
 
 In addition to announcing an **emergency situation regime**, the Cabinet established an **interagency working group** to coordinate the activities of executive authorities to combat the spread of COVID-19.
 
-The Cabinet has not said what further steps it will take take in order to contain the spread of COVID-19 other than extending the nationwide self-isolation and quarantine period through April 24.
+The Cabinet has not said what further steps it will take in order to contain the spread of COVID-19 other than extending the nationwide self-isolation and quarantine period through April 24.
 
 **Emergency situation regime** should not be confused with **a state of emergency**, which, according to Para 21 of Article 106 of Ukraine’s Constitution is **declared** by the president and **confirmed** by parliament.
 
@@ -982,7 +982,7 @@ There’s been a lot of chatter about holding an extraordinary parliament plenar
 
 [Image]
 
-**(Illustration from from [#Stay\_home](https://twitter.com/hashtag/Stay_home?src=hashtag_click) series by Andriy Yermolenko)**
+**(Illustration from [#Stay\_home](https://twitter.com/hashtag/Stay_home?src=hashtag_click) series by Andriy Yermolenko)**
 
 Ukraine’s Health Ministry on March 27 [said](https://covid19.com.ua/) it has so far tested **1,401** people nationwide for the coronavirus (COVID-19) disease, with 310 testing positive. Kyiv Mayor Vitali Klitschko the same day [said](https://www.pravda.com.ua/rus/news/2020/03/27/7245365/) **1,500** residents of Kyiv have been tested, with 55 testing positive.
 
@@ -1714,7 +1714,7 @@ It’s not rare for incompetent people to think they are amazing, or for skilled
 
 *It’s too bad western journalists who write about Ukraine have difficulty understanding Russian, much less Ukrainian. That ability might enable them to understand, at least, why the president and his mono-majority’s MPs are increasingly regarded as self-serving creeps. The crisis has so far offered a convenient pretext for President Volodymyr Zelensky to consolidate power, but the act is already wearing thin.*
 
-Zelensky and his his Servant of the People faction in parliament have so far failed to assist healthcare workers who are battling the coronavirus epidemic. They are only interested in ‘political dividends,’ according to critics in parliament.
+Zelensky and his Servant of the People faction in parliament have so far failed to assist healthcare workers who are battling the coronavirus epidemic. They are only interested in ‘political dividends,’ according to critics in parliament.
 
 "The bill on medical insurance, co-authored by former President Petro Poroshenko, is straightforward. If a doctor gets sick, he will receive about UAH 200,000 from this insurance. If, God forbid, the healthcare worker dies because of COVID-19, then his or her family will receive about UAH 500,000," co-Chairman of the European Solidarity faction Artur Herasymov (European Solidarity faction) said on Wednesday.
 
@@ -2303,7 +2303,7 @@ In turn, the lawyer Ihor Golovan noted that an important point was if the case i
 
 > "Those who registered criminal proceedings may be leery of divulging that the President's Office was the source of this whole story," Golovan said.
 
-The lawyer said said Zelensky "actually voiced the order" to open the case during his press conference.
+The lawyer said Zelensky "actually voiced the order" to open the case during his press conference.
 
 > "Along with our appeal about a deliberately false report about the crime, we will also insist on the fact of yesterday's press conference (MP Andriy Derkach, at which he voiced audio material about Biden's alleged pressure on Poroshenko, on the basis of which the PGO opened criminal proceedings), as well as on the fact of today's actions, when at the president's press conference his statements can be interpreted ... as an attempt to create the impression that the published fabrications were reliable (cases were opened)... These actions, taken together, look like high treason," Golovan said.
 
@@ -2703,7 +2703,7 @@ Z has said off record repeatedly that he will do what he can to help Trump. Any 
 
 While pro-Russia media in Ukraine publicly stroke Trump, Z can supply his re-election campaign with ammunition directly. There is, for example, the tape recording that [surfaced in Kyiv](https://www.washingtonpost.com/national-security/ukrainian-lawmaker-releases-leaked-phone-calls-of-biden-and-poroshenko/2020/05/19/cc1e6030-9a26-11ea-b60c-3be060a4f8e1_story.html?itid=lk_inline_manual_17), released by a member of parliament with ties to Russian intelligence, that captures Biden pressuring Poroshenko to fire a corrupt prosecutor — and is meant to revive the Trump camp’s false charge that Biden did so to help his son. Networks of Russian-run social media accounts are [systematically](https://www.nytimes.com/2020/06/15/technology/coronavirus-disinformation-russia-iowa-caucus.html?searchResultPosition=1) amplifying conspiracy theories spread by Trump’s sycophants.
 
-At the moment, Ukraine’s law-enforcement agencies aren’t getting much traction — and Trump’s prospects in November are [trending downward](https://www.cnn.com/2020/06/21/politics/trump-voters-polls-analysis/index.html). But Z and Trump are resourceful. Both are disruptors who are willing to take risks and break norms. In 2016, no one expected expected Trump to become president.
+At the moment, Ukraine’s law-enforcement agencies aren’t getting much traction — and Trump’s prospects in November are [trending downward](https://www.cnn.com/2020/06/21/politics/trump-voters-polls-analysis/index.html). But Z and Trump are resourceful. Both are disruptors who are willing to take risks and break norms. In 2016, no one expected Trump to become president.
 
 Now, Zelensky needs his reelection.
 
@@ -2741,9 +2741,9 @@ The result isn't unlike a horrible accident, except it’s been caused by an une
 
 [Image]
 
-*(clockwise: prime minister oleksiy honcharuk, economy minister timofiy mylovanov, deputy heads of the national bank kateryna rozhkova, and dmytro sologub, the bank’s head yakiv smolii, deputy finance minister yuriy butsa, finance minister oksana markarova, finance ministry chief economist oleksandra betliy, a meet to discuss hryvnia fluctuation at the cabinet of ministers building in downtown kyiv, on dec. 16, 2019. photo by kmu.gov.ua)*
+*(clockwise: prime minister oleksiy honcharuk, economy minister timofiy mylovanov, deputy heads of the national bank kateryna rozhkova, and dmytro sologub, the bank’s head yakiv smolii, deputy finance minister yuriy butsa, finance minister oksana markarova, finance ministry chief economist oleksandra betliy, a meeting to discuss hryvnia fluctuation at the cabinet of ministers building in downtown kyiv, on dec. 16, 2019. photo by kmu.gov.ua)*
 
-**kyiv.** ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. however, few expected that the time would come when the standard of competency turned out to be the ability to agree **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), the difference in meaning between *разбрат* (**a falling out**) and *разврат*(**debauchery**), оr how best to explain macroeconomic policy to a ukraine’s president, who does not know the difference.
+**kyiv.** ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. however, few expected that the time would come when the standard of competency turned out to be the ability to agree **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), the difference in meaning between *разбрат* (**a falling out**) and *разврат*(**debauchery**), or how best to explain macroeconomic policy to a ukraine’s president, who does not know the difference.
 
 the quality of the unedited [90-minute long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the december 16, 2019 meeting is **excellent**. it documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in october 2019 to coordinate macroeconomic policy.
 
@@ -3022,7 +3022,7 @@ What follows is an English-language translation of his speech. The full transcri
 >
 > We strictly adhered to the market flexible exchange rate formation and at the same time ensured the stability of the hryvnia. We were criticized for strengthening the hryvnia last year, with critics saying the NBU's policy in the foreign exchange market was too passive. However, we attracted a record amount of $8 billion from the market to the reserve. Today we have gold and foreign exchange reserves at the level of $25.5 billion. In two years, the volume of gold and foreign exchange reserves has increased from $18 to $28 billion. At the same time, our critics ignored the fact that our reserves were growing, not least due to the inflow of foreign currency from non-residents. Thanks to this, we overcame coronavirus turbulence in the foreign exchange market in March quite painlessly and quickly.
 >
-> In 2019, we began large-scale currency liberalization. It was a real revolution that Ukrainian business and citizens have been waiting for for a quarter of a century. We have already lifted about 40 currency restrictions. The banking system is healthy, highly liquid and profitable. Ukrainians vote for it with money when they carry it on deposit. Since the beginning of 2018, hryvnia deposits of the population have increased one and a half times. Moreover, thanks to the relentless long-term preparation of banks for potential problems, the banking system has entered a coronavirus crisis stronger than ever. Now it is an outpost of financial stability and a lifeline for the economy.
+> In 2019, we began large-scale currency liberalization. It was a real revolution that Ukrainian business and citizens have been waiting for a quarter of a century. We have already lifted about 40 currency restrictions. The banking system is healthy, highly liquid and profitable. Ukrainians vote for it with money when they carry it on deposit. Since the beginning of 2018, hryvnia deposits of the population have increased one and a half times. Moreover, thanks to the relentless long-term preparation of banks for potential problems, the banking system has entered a coronavirus crisis stronger than ever. Now it is an outpost of financial stability and a lifeline for the economy.
 >
 > Cashless is gradually becoming commonplace in the lives of Ukrainians. Thanks to numerous initiatives of the NBU during my term, the share of non-cash payments among all transactions using payment cards has increased from 39% to 55% percent. The National Bank has become even more transparent and open.
 >
@@ -3054,7 +3054,7 @@ The quality of the unedited [90-minute long audio recording](https://drive.goog
 
 Ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. However, few expected that the time would come when the standard of competency turned out to be the ability to agree **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), about the difference in meaning between *разбрат* (**a falling out**) and *разврат*(**debauchery**) оr how best to explain macroeconomic policy to a Ukraine’s president, who obviously does not know the difference.
 
-**Contrary to most local and international media reports,** the recording does not reveal Zelensky’s financial illiteracy per se, but what what Ukraine’s macroeconomic policy was then and should be in the future.
+**Contrary to most local and international media reports,** the recording does not reveal Zelensky’s financial illiteracy per se, but what Ukraine’s macroeconomic policy was then and should be in the future.
 
 All participants appeared to understand what they were saying. They struggled politely, always audibly and at times incoherently, to agree on how best to explain to Zelensky why low inflation and a strong hryvnia was the correct policy for the economy.
 
@@ -3166,7 +3166,7 @@ KYIV. On July 13, about a dozen young employees of the National Bank of Ukraine 
 
 The two-minute clip is a thinly-veiled PR attack on Serhiy Kruglyk's candidacy to replace Yakiv Smolii as NBU governor, featuring self-appointed members of “[Children of Soros](https://balashov.com.ua/blogs/deti-sorosa.html),” the group of \*woke\* banking bloggers that has rapidly turned the [President’s Office](https://www.president.gov.ua/news/volodimir-zelenskij-proviv-telefonnu-rozmovu-z-direktorom-ro-62277)’s NBU governor candidate selection process into a three-ring circus.
 
-> **Article 85** of Ukraine’s Constitution gives parliament the power [to appoint and remove](https://www.kmu.gov.ua/storage/app/imported_content/document/110977042/Constitution_eng.doc) the central bank bank chairman, as well as half the total members of the NBU Council. **Articles 99** says the currency unit of Ukraine shall be hryvnia and ensuring the stability of the currency unit “shall be the major function of the central bank.” The NBU Council, according to **Article 100**, “shall develop the basic principles of monetary and credit policy, and control its implementation.”
+> **Article 85** of Ukraine’s Constitution gives parliament the power [to appoint and remove](https://www.kmu.gov.ua/storage/app/imported_content/document/110977042/Constitution_eng.doc) the central bank chairman, as well as half the total members of the NBU Council. **Articles 99** says the currency unit of Ukraine shall be hryvnia and ensuring the stability of the currency unit “shall be the major function of the central bank.” The NBU Council, according to **Article 100**, “shall develop the basic principles of monetary and credit policy, and control its implementation.”
 
 The same [Truman Agency](https://truman.ua/en/seed_the_deed) that has undercut Kruglyk’s candidacy, abetted on [Twitter](https://twitter.com/tashecon/status/1282953450033119232) by world famous Ukraine experts Anders Aslund and Timothy Ash, produced the \*woke\* NBU employees-for-independence advertorial.
 
@@ -4288,7 +4288,7 @@ It is truly fascinating how the differences between blueticks and their native c
 
 > **Europe’s last dictator has ruled Belarus with an iron fist since 1994.**
 
-This is a sentence from from an otherwise uninteresting [2,500-word article](https://bit.ly/33cdjUE) about exiled Belarusian Svetlana Tikhanovskaya published in Buzzfeed. A Google search for “Lukashenko” + “iron” produces hundreds of thousands of matches for the boilerplate trope.
+This is a sentence from an otherwise uninteresting [2,500-word article](https://bit.ly/33cdjUE) about exiled Belarusian Svetlana Tikhanovskaya published in Buzzfeed. A Google search for “Lukashenko” + “iron” produces hundreds of thousands of matches for the boilerplate trope.
 
 There have been many cases throughout history where catastrophic failures have occurred when iron was below the ductile to brittle transition temperature.
 
@@ -4554,7 +4554,7 @@ He opines that the confrontation with everything official there is designed to r
 
 > [The events] resemble a merry carnival exposing an already caricatured dictator as a naked emperor, *roi pour rire*, a king to be laughed at, Kolesnikov [said](https://carnegie.ru/commentary/82723).
 
-Which brings us to [Mikhail Bakhtin](https://en.wikipedia.org/wiki/Mikhail_Bakhtin), a philosopher of language, who last century in Vitebsk thought a lot about about ***thinking the essence of the word in its correspondence to being***.
+Which brings us to [Mikhail Bakhtin](https://en.wikipedia.org/wiki/Mikhail_Bakhtin), a philosopher of language, who last century in Vitebsk thought a lot about ***thinking the essence of the word in its correspondence to being***.
 
 Kolesnikov says what’s going on in Belarus today indeed resembles a ***carnival***, which is the opposite of official ceremonies and actions, which seemed to have migrated from the Middle Ages to modern post-Soviet autocracies, in this case, Belarus.
 
@@ -5020,7 +5020,7 @@ Back in Sophocle’s day, the whole concept of civil disobedience, rule and bein
 
 Secret state security services these days are walking a tightrope. Any miscalculation, could result in a hilarious failure, such as the recent botched attempt to liquidate Alexey Navalny, or a bloody mess, like the [Battle of Kassam](https://en.wikipedia.org/wiki/Battle_of_Khasham).
 
-OPSEC fuck ups in the United States and former Soviet states in recent years have been manifold. They demonstrate nothing is more corrosive than official anonymity and TOP SECRET security clearances. Not leaving digital clues has become harder, further complicating the enterprise of carrying out clandestine fuckery without without getting caught.
+OPSEC fuck ups in the United States and former Soviet states in recent years have been manifold. They demonstrate nothing is more corrosive than official anonymity and TOP SECRET security clearances. Not leaving digital clues has become harder, further complicating the enterprise of carrying out clandestine fuckery without getting caught.
 
 Julian Assange and Eduard Snowden a decade ago warned about Big Brother wanting to monitor our phone calls and track our movements. The information age has instead allowed anyone with a computer and a decent Internet connection to keep track of would-be guardians of the state. Shadowing inept operatives has never been easier or more entertaining.
 
@@ -5048,7 +5048,7 @@ Which brings us to Ukraine’s state security services and their year-long opera
 
 Ex President Petro Poroshenko on said on December 30, 2020 said that he had authorized the operation of the country’s special forces to lure Russian mercenaries, including members of Wagner PMC, to Ukraine in order to detain them.
 
-> "At the end of 2018, as then Supreme Commander-in-Chief of the Armed Forces, I authorized this operation. …I will not not allow to the investigation to be closed, to papered over, lied about or allow persons to evade their responsibility for commission of a crime of treason,” Poroshenko [said](https://www.youtube.com/watch?v=NrojoLqYsX4&ab_channel=5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB).
+> "At the end of 2018, as then Supreme Commander-in-Chief of the Armed Forces, I authorized this operation. …I will not allow to the investigation to be closed, to papered over, lied about or allow persons to evade their responsibility for commission of a crime of treason,” Poroshenko [said](https://www.youtube.com/watch?v=NrojoLqYsX4&ab_channel=5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB).
 
 Poroshenko said the targets of the operation included dozens involved in the downing of the MH17 plane, the downing of the IL-76 plane with paratroopers in Luhansk, as well as Russian officials who gave criminal orders.
 
