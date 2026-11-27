@@ -1926,7 +1926,7 @@ We are at stage five of a four-stage disaster management response.
 
 ---
 
-Verkhovna Rada Commissioner for Human Rights Liudmyla Denisova on March 24, 2022 [accused](https://www.facebook.com/denisovaombudsman/videos/971688386885235/) Russia of forcibly displacing, that is deporting, **hundreds of thousands** of Ukainians and funneling them to “filtration camps” in Russia before re-settling them east of the Urals. Sound familiar? It should.
+Verkhovna Rada Commissioner for Human Rights Liudmyla Denisova on March 24, 2022 [accused](https://www.facebook.com/denisovaombudsman/videos/971688386885235/) Russia of forcibly displacing, that is deporting, **hundreds of thousands** of Ukrainians and funneling them to “filtration camps” in Russia before re-settling them east of the Urals. Sound familiar? It should.
 
 Even worse, foreign media are reiterating Moscow’s justification for committing this war crime without pointing out to their readers that what the Kremlin says is complete bullshit.
 
