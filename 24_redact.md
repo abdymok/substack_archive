@@ -9393,7 +9393,7 @@ Wonderful. Maybe that should have been the main focus six months ago.
 
 ---
 
-In other news, Lucy at [The Guardian](http://theguardian.com) is getting a lot of criticism for her completely batshit review of BBC’s three-part mini series about of Z, which is def not meant for an Ukrainian audience[2](#footnote-2).
+In other news, Lucy at [The Guardian](http://theguardian.com) is getting a lot of criticism for her completely batshit review of BBC’s three-part mini series about of Z, which is def not meant for a Ukrainian audience[2](#footnote-2).
 
 [1](#footnote-anchor-1)
 
