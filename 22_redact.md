@@ -5262,7 +5262,7 @@ Recall our key points from Day 11 of this bloody mess[5](#footnote-5).
 
 [Image]
 
-The reason Tiger Team may have less information than they would like about Ukraine’s operations is that it’s not very flattering. And it’s the only job of a platoon of doucherockets to keep it from becoming public and to whine about the West not doing enough.
+The reason Tiger Team may have less information than they would like about Ukraine’s operations is that the information is not very flattering. And it’s the only job of a platoon of doucherockets to keep it from becoming public and to whine about the West not doing enough.
 
 Ukraine remains a sham democracy, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance, much less competency, would not exist.
 
@@ -5528,13 +5528,13 @@ At around 30’, he began mumbling about democracy.
 
 > "When you defend democracy, there can be no question that all your tools are democratic. Because democracy is an opportunity for dialogue, and the right to choose, and freedom. All this is correct. But when there is a war, there is no time for dialogue. Unfortunately. There is no time for discussion, because time is not counted in seconds, not in minutes, time is counted in people, in the number of survivors and the number of the dead."
 
-The president said clear and tough rules, clear and quick steps without dialogue, talks - "this is no longer about democracy."
+The president said clear and tough rules, clear and quick steps without dialogue or talks - "this is no longer about democracy."
 
 > "I must state: In order to protect freedom and democracy in the state, sometimes you need to act quickly and undemocratically. But when the war ends, this will bring results," he said.
 
 Democracy means different things to different people.
 
-Since Independence — and I was here for that in 1991 — Ukraine has a remained a *sham democracy*, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings (2000, 2004, 2014). Absent them, even the illusion of tolerance, much less official competency, would not exist.
+Since Independence — and I was here for that in 1991 — Ukraine has remained a *sham democracy*, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings (2000, 2004, 2014). Absent them, even the illusion of tolerance, much less official competency, would not exist.
 
 Which brings me to [this](https://www.politico.com/news/2022/06/23/zelenskyy-top-spy-security-failures-00041794?s=09&fbclid=IwAR3ZswXH3ZB4zR1EZVbcraYS862b9lATOimEwQuT0fIT9s8xa_ZfNZ-1Ods):
 
@@ -5546,7 +5546,7 @@ It’s not exactly, er, *news* that Ukraine’s top spy is incompetent, or worse
 >
 > Looking on the bright side, this means that if you’re a good journalist in Ukraine, you don't have an Achilles' heel. Because you're just a piece of shit in the middle of the track that eventually is going to get run over. And if the trolley's going to be Z!Team, then you're going to derail it[1](#footnote-1).
 
-Decrepitude at Ukraine’s State Security Service stopped being *news* since at least 2020[2](#footnote-2), and that’s leaving out the Mylovanov bits.
+Decrepitude at Ukraine’s State Security Service has not been *news* since at least 2020[2](#footnote-2), and that’s leaving out the Mylovanov bits.
 
 [1](#footnote-anchor-1)
 
@@ -5650,7 +5650,7 @@ Almost as depressing as it is distressing.
 
 Sean Penn is producing an untitled documentary for VICE Studios, a U.S.-Canadian digital media and broadcasting company, [according to Variety](https://variety.com/2022/film/news/sean-penn-ukraine-documentary-russia-invasion-1235189570/). It’s a Vice Studios production in association with [Endeavor Content](https://variety.com/t/endeavor-content/) and Vice World News.
 
-I haven’t figured out how to watch any recent [Vice produced crap](https://video.vice.com/en_us/topic/ukraine) about Ukraine without having to pay for it. They’ve posted a couple of minutes-long Ukraine-related clips to [YouTube](https://www.youtube.com/results?search_query=vice+news+ukraine&sp=CAI%253D).
+I haven’t figured out how to watch any recent [Vice-produced crap](https://video.vice.com/en_us/topic/ukraine) about Ukraine without having to pay for it. They’ve posted a couple of Ukraine-related clips, each a few minutes long to [YouTube](https://www.youtube.com/results?search_query=vice+news+ukraine&sp=CAI%253D).
 
 At least [Done+Dusted](https://www.doneanddusted.com/) isn’t involved… [Oh](https://variety.com/2022/tv/news/voloymyr-zelenskyy-nbc-news-ukraine-answering-the-call-1235304460/).
 
@@ -5669,7 +5669,7 @@ Penn has made it his business to turn up in news-making places. He made [an unex
 [Image]
 *Typical 10k run in Kyiv (Map c/o Google )*
 
-Minimum standards for the Navy SEAL PST 1.5 mile run is 10’30” — Det-A slobs have to run 2 miles in under 15’12” — so you should be able to complete this 10K loop in at least 47 minutes, on a good day, if you’re in at least in halfway decent shape.
+The minimum standard for the Navy SEAL PST 1.5-mile run is 10’30” — Det-A slobs have to run 2 miles in under 15’12” — so you should be able to complete this 10K loop in at least 47 minutes, on a good day, if you’re in halfway decent shape.
 
 Our perception of time is based on our knowledge of change, according to Avril, who [yesterday](https://www.reuters.com/world/europe/putin-still-wants-most-ukraine-war-outlook-grim-us-intelligence-chief-2022-06-29/) blurted out her latest assessment of fascist Russia’s genocidal campaign in Ukraine.
 
@@ -5677,7 +5677,7 @@ Our perception of time is based on our knowledge of change, according to Avril, 
 
 Whether Avril and Tiger Team have made progress assessing Ukraine’s *capacity* *to absorb additional assistance* remains a mystery, but I have.[1](#footnote-1)
 
-The difference between *shorterm* and an *extended period* can be measured in milliseconds, minutes, hours, months or perhaps decades, depending on if your life is hanging by a thread in a trench outside of Bakhmut or if you are hunkered down in a 100-foot deep root cellar drinking Mukuzani somewhere in Kyiv region’s Appalachians.
+The difference between *short-term* and an *extended period* can be measured in milliseconds, minutes, hours, months or perhaps decades, depending on whether your life is hanging by a thread in a trench outside of Bakhmut or if you are hunkered down in a 100-foot-deep root cellar drinking Mukuzani somewhere in Kyiv region’s Appalachians.
 
 [1](#footnote-anchor-1)
 
@@ -5752,7 +5752,7 @@ Yesterday, browning our July 4th roast, we noted the alarming number of reports 
 
 [Image]
 
-In early March, critical threats experts, relying on proximity-based content millers, focused our attention early on the 60-kilometer long column of Russian military vehicles sent to decapitate Kyiv. Today they are [drawing our attention](https://www.nytimes.com/2022/07/03/world/europe/ukraine-war-lysychansk.html) to the tactical withdrawal of Ukrainian forces from what remains of an already bombed-out city in Luhansk region.
+In early March, critical threats experts, relying on proximity-based content millers, focused our attention early on the 60-kilometer-long column of Russian military vehicles sent to decapitate Kyiv. Today they are [drawing our attention](https://www.nytimes.com/2022/07/03/world/europe/ukraine-war-lysychansk.html) to the tactical withdrawal of Ukrainian forces from what remains of an already bombed-out city in the Luhansk region.
 
 [Image]
 
@@ -5762,9 +5762,9 @@ Saccades are rapid eye movements designed to shift the fovea to objects of visua
 
 The tug of war between abnormal saccading and the nature of cognition — processing what our attention is drawn to — and journalism is the mental operation that Daniel Kahneman and Amos Tversky call the Availability Heuristic.
 
-Journalism focuses on sudden events, and events are more often bad than good — blowing up the tops of highrise residential buildings in Kyiv’s Shevchenkivsky district, the bombing of mall in Kremenchuk, flattening a resort complex near Odesa, the abrupt withdrawal of Ukrainian forces from Severodonetsk and Lysychansk, et cetera. Positive developments unfold gradually, incrementally and can transform the situation without ever creating a headline.
+Journalism focuses on sudden events, and events are more often bad than good — blowing up the tops of highrise residential buildings in Kyiv’s Shevchenkivsky district, the bombing of a mall in Kremenchuk, flattening a resort complex near Odesa, the abrupt withdrawal of Ukrainian forces from Severodonetsk and Lysychansk, et cetera. Positive developments unfold gradually, incrementally and can transform the situation without ever creating a headline.
 
-On top of this built-in bias, proximity-based content milling on social media has added two conscious biases: the programming policy “If it bleeds it leads,” an attempt to parlay our morbid interest in disasters into military advantage, and the commitment of a former Marine infantrymen to exposing tactical screw-ups in the belief that recognition of same is a good way to improve progress on battlefield prowess.
+On top of this built-in bias, proximity-based content milling on social media has added two conscious biases: the programming policy “If it bleeds it leads,” an attempt to parlay our morbid interest in disasters into military advantage, and the commitment of a former Marine infantryman to exposing tactical screw-ups in the belief that recognition of the same is a good way to improve progress on battlefield prowess.
 
 Looking on the positive side, four journalists at the Washington Post [make](https://www.washingtonpost.com/world/2022/07/03/lysychansk-luhansk-russia-ukraine-war/) the exact same mistake, maybe after reading the NYT’s bullshit.
 
@@ -5795,9 +5795,9 @@ This is not a war of attrition, and Moscow’s goal is not to capture and contro
 [Image]
 *Illustration: Nathalie Lees/The Guardian*
 
-The beano in Lugano and shithow over mandatory registration with military offices has shed some light on the capacity of Ukraine to absorb outside assistance and organize its defense without pronounced inefficiency and self-induced stupidity.
+The beano in Lugano and shithow over mandatory registration with military offices have shed some light on the capacity of Ukraine to absorb outside assistance and organize its defense without pronounced inefficiency and self-induced stupidity.
 
-It’s too depressing this early in the morning to discuss 2,200-pages of infographics from Lake Como. Yaroslav provides a first impression below. His written reaction is [here](https://www.facebook.com/Jaroslav.Romanchuk/posts/pfbid02zJ25xJx8RwDYxiHYG73j3VazxuKBHdPh6poC2LjZqdP8PXbZf8m1j3gvBWnBtvVQl).
+It’s too depressing this early in the morning to discuss 2,200 pages of infographics from Lake Como. Yaroslav provides a first impression below. His written reaction is [here](https://www.facebook.com/Jaroslav.Romanchuk/posts/pfbid02zJ25xJx8RwDYxiHYG73j3VazxuKBHdPh6poC2LjZqdP8PXbZf8m1j3gvBWnBtvVQl).
 
 As for Ukraine’s military mobilization shitshow, the last time I checked, fascist Russia’s genocidal campaign was in full swing. Anyone, male or female or both, between the ages of 18 and 60 who thought they could/would/should avoid participating in the nation’s defense, should think again, reevaluate options, life goals, etc. Twice, maybe three times.
 
