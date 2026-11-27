@@ -1028,7 +1028,7 @@ And the Washington Post [says](https://www.washingtonpost.com/national-security/
 
 [Image]
 
-The orcs in the Russian convoy represented by the giant pink blob don’t appear to be motivated or capable fighters. If they attempt to enter Kyiv, they will be vaporized. And If they fan out and encircle the capital in the coming weeks, we’ll hunt them down and turn them into fertilizer.
+The orcs in the Russian convoy represented by the giant pink blob don’t appear to be motivated or capable fighters. If they attempt to enter Kyiv, they will be vaporized. And if they fan out and encircle the capital in the coming weeks, we’ll hunt them down and turn them into fertilizer.
 
 So much for the giant pink blob.
 
@@ -1047,11 +1047,11 @@ The pink blob is more reddish in this Russian invasion map by [Readovka](https:/
 [Image]
 *Russia’s new flag in a couple of months*
 
-At around 01.40 this morning, I awoke to the sound of [very loud explosions](https://lb.ua/society/2022/03/03/507763_kiievi_prolunali_kilka_potuzhnih.html) (at least four) and flashes of light . Stumbled around the apartment for next 20 minutes. Then went back to sleep.
+At around 01.40 this morning, I awoke to the sound of [very loud explosions](https://lb.ua/society/2022/03/03/507763_kiievi_prolunali_kilka_potuzhnih.html) (at least four) and flashes of light. Stumbled around the apartment for next 20 minutes. Then went back to sleep.
 
 Charles from CBS thought it was nuclear lightning strike :-) I am not at liberty to divulge what actually caused the explosions, because that would be tantamount to divulging classified info.
 
-I saw lots of cars driving in the wrong direction on one-way streets walking to work, but that’s nothing compared to this commute in [Chernihiv](https://www.google.com/maps/place/Chernihiv,+Chernihiv+Oblast,+14039/@51.4957591,31.2204991,12z/data=!3m1!4b1!4m5!3m4!1s0x46d5488971ee3597:0x2a2348d3e76038b5!8m2!3d51.4982!4d31.2893499).
+I saw lots of cars driving the wrong way on one-way streets as I walked to work, but that’s nothing compared to this commute in [Chernihiv](https://www.google.com/maps/place/Chernihiv,+Chernihiv+Oblast,+14039/@51.4957591,31.2204991,12z/data=!3m1!4b1!4m5!3m4!1s0x46d5488971ee3597:0x2a2348d3e76038b5!8m2!3d51.4982!4d31.2893499).
 
 Oh, and if anyone comes across the Belarusian saboteurs sent to Ukraine listed below, take them prisoner yourself or send them my way and I’ll deal with them directly.
 
@@ -1068,16 +1068,16 @@ Oh, and if anyone comes across the Belarusian saboteurs sent to Ukraine listed b
 *Battle for Borodyanka*
 
 [Image]
-*Photo c/o Dmytro Kuleba , c/o Reuters...*
+*Photo c/o Dmytro Kuleba, c/o Reuters...*
 
 
 Borodyanka, sometimes spelled Borodianka, is an urban-type settlement in Kyiv region and the administrative center of its eponymous district. Population: 13,044, about 1,000 more than 20 years ago.
 
-The town is located on the river Zdvyzh which is a tributary of the Teteriv River [at the end](https://www.floodmap.net/?gi=711635) of the Polesia flood basin. It’s about 40 kilometers northwest of Kyiv, depending on what route you take.
+The town is located on the river Zdvyzh, which is a tributary of the Teteriv River [at the end](https://www.floodmap.net/?gi=711635) of the Polesia flood basin. It’s about 40 kilometers northwest of Kyiv, depending on what route you take.
 
 I’ve bicycled there numerous times. Terrain: **flat as a pancake**.
 
-They grow a lot of pot in Borodyanka, so I’ve been following closely the battle there since [Day 1](https://abdymok.substack.com/p/russias-further-invasion-day-1?s=w), occasionally posting videos on of the mess at @[dronedept](https://twitter.com/dronedept/status/1498790785210372103) (while being careful not to divulge critical time-sensitive info about the secret plantation and frantic efforts to dislodge the orcs that rolled in on February 24).
+They grow a lot of pot in Borodyanka, so I’ve been following closely the battle there since [Day 1](https://abdymok.substack.com/p/russias-further-invasion-day-1?s=w), occasionally posting videos of the mess to @[dronedept](https://twitter.com/dronedept/status/1498790785210372103) (while being careful not to divulge critical time-sensitive info about the secret plantation and frantic efforts to dislodge the orcs that rolled in on February 24).
 
 There’s a [little airport](https://www.google.com/maps/@50.662565,29.9329307,3a,75y,222.15h,40.96t/data=!3m8!1e1!3m6!1sAF1QipPgS5q_eU8JTkGxbPJM1G_PloGd7EYZQnn49O1W!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPgS5q_eU8JTkGxbPJM1G_PloGd7EYZQnn49O1W%3Dw203-h100-k-no-pi0-ya358.3119-ro-0-fo100!7i13200!8i6600) in Borodyanka, but that’s [another story](https://en.wikipedia.org/wiki/Borodianka_(air_base)).
 
@@ -1123,7 +1123,7 @@ It is at best linguistically irresponsible – at worst it is stupid journalisti
 
 So, edit problematic features out. Just spell it. This is war, for Chrissake, not a classroom at NYU. Use Google Maps for place names.
 
-Conserve letters: **Zaporizhia**. There’s no good reason for double up “***zh***s.” Don’t repeat “***y***s” in surnames, except Zelensk***yy*** — but not Zelensk***iy***, Zelensk***yi***. Maybe just write Ze, or Z. The same goes for “***i***s,” as in *[Iul](https://abdymok.substack.com/p/weightless-self-promotion?s=w)**[iia](https://abdymok.substack.com/p/weightless-self-promotion?s=w)** [[Mendel]](https://abdymok.substack.com/p/weightless-self-promotion?s=w)*. Her name is painful to look at, much less pronounce correctly, or even think about otherwise.
+Conserve letters: **Zaporizhia**. There’s no good reason to double up “***zh***s.” Don’t repeat “***y***s” in surnames, except Zelensk***yy*** — but not Zelensk***iy***, Zelensk***yi***. Maybe just write Ze, or Z. The same goes for “***i***s,” as in *[Iul](https://abdymok.substack.com/p/weightless-self-promotion?s=w)**[iia](https://abdymok.substack.com/p/weightless-self-promotion?s=w)** [[Mendel]](https://abdymok.substack.com/p/weightless-self-promotion?s=w)*. Her name is painful to look at, much less pronounce correctly, or even think about otherwise.
 
 ---
 
@@ -1159,7 +1159,7 @@ Whoever wrote the letter says his/her *speciality* is analysis and complains tha
 
 > You need to write in a victorious style so that there are no questions.
 
-He/she says it’s likely Central Bank boss Elvira Nabullina and her assistants will blamed for not doing enough to mitigate damage from sanctions to what’s left of the country’s economy.
+He/she says it’s likely Central Bank boss Elvira Nabullina and her assistants will be blamed for not doing enough to mitigate damage from sanctions to what’s left of the country’s economy.
 
 > No one knew that there would be such a war, so no one prepared for such sanctions.
 
@@ -1175,13 +1175,13 @@ The author says leaders of Ukraine’s pro-Russia Opposition Platform - For Life
 
 > [Viktor] Medvedchuk is a coward, he fled. [Yuriy] Boiko refuses to work with us. They wanted to bring in [Oleh] Tsarev, but even our pro-Russia allies were against this. Bring back [disgraced ex-President Viktor] Yanukovych?
 
-Whoever wrote the letter says it will be impossible to get enough Russians to occupy, must less manage, a vanquished Ukraine.
+Whoever wrote the letter says it will be impossible to get enough Russians to occupy, much less manage, a vanquished Ukraine.
 
-> Even with minimal resistance, we need 500,000 or more occupiers. And that’s not counting the people who will put in charge of managing the supply system.
+> Even with minimal resistance, we need 500,000 or more occupiers. And that’s not counting the people who will be put in charge of managing the supply system.
 
 As for KIAs and MIAs, the picture is murky.
 
-> Casualties: I don't know how many there are. No one knows. There was command and control during first two days of the specop, but now no one has a clue about what’s going on. KIAs are definitely in the thousands. Maybe 10,000, maybe 5,000 or maybe only 2,000.
+> Casualties: I don't know how many there are. No one knows. There was command and control during the first two days of the specop, but now no one has a clue about what’s going on. KIAs are definitely in the thousands. Maybe 10,000, maybe 5,000 or maybe only 2,000.
 
 Other interesting bits from the bitchy letter:
 
@@ -1217,7 +1217,7 @@ So, we’re very angry at the orcs this morning.
 
 ---
 
-I listened to [Feygin Live](https://www.youtube.com/watch?v=MWkNry5BMRo) w/ Illarionov and Latynina’s [chit chat](https://www.youtube.com/watch?v=J5dn_dPXuIY) with Podoliak. Glad to hear both guests say “**I made a mistake”** by not believing months of Tiger Team warnings about Putin’s intention to further invade Ukraine. Admitting fuck-ups makes it less likely they will repeat them. Same goes for Fred and Kimberly at the [Institute for the Study of War](https://www.understandingwar.org/), which posts an [update](https://www.understandingwar.org/backgrounder/ukraine-conflict-update-16) on the current tactical situation. ISF analysts are probably hoping everyone has forgotten their counterfactual “bounds of Putin’s rationality” [bullshit](https://www.understandingwar.org/report/putins-likely-course-action-ukraine-part-1).
+I listened to [Feygin Live](https://www.youtube.com/watch?v=MWkNry5BMRo) w/ Illarionov and Latynina’s [chit chat](https://www.youtube.com/watch?v=J5dn_dPXuIY) with Podoliak. Glad to hear both guests say “**I made a mistake”** by not believing months of Tiger Team warnings about Putin’s intention to further invade Ukraine. Admitting fuck-ups makes it less likely they will repeat them. Same goes for Fred and Kimberly at the [Institute for the Study of War](https://www.understandingwar.org/), which posts an [update](https://www.understandingwar.org/backgrounder/ukraine-conflict-update-16) on the current tactical situation. ISW analysts are probably hoping everyone has forgotten their counterfactual “bounds of Putin’s rationality” [bullshit](https://www.understandingwar.org/report/putins-likely-course-action-ukraine-part-1).
 
 ---
 
@@ -1229,7 +1229,7 @@ Practicing London-based philosopher Vladimir Pastukhov has written another [prag
 
 > Knowing Putin, his words “everything is going according to plan” should be read “everything went wrong,” the words “we will not use conscripts” should be understood as “we are already using conscripts, forcing them to sign a contract by force before being sent into battle” and the words “we are not going to introduce martial law and call up reservists” should be understood as “we are very serious about this now, we think."
 >
-> In general, the president’s l[atest public appearance](https://www.youtube.com/watch?v=EMsrcC67iTk) and strange entourage (surrounded by Amazons frozen like statues) does not add optimism. Although Putin tried to broadcast several conflicting signals to the outside world at once, reflecting the imbalance of the twilight state of his soul, the overall vector remains negative: We will bury you. This, of course, is Putin putting a brave face on an already awful situation. Nevertheless, purely theoretically, he still has a ghost of a chance to slip out of the mousetrap.
+> In general, the president’s [latest public appearance](https://www.youtube.com/watch?v=EMsrcC67iTk) and strange entourage (surrounded by Amazons frozen like statues) does not add optimism. Although Putin tried to broadcast several conflicting signals to the outside world at once, reflecting the imbalance of the twilight state of his soul, the overall vector remains negative: We will bury you. This, of course, is Putin putting a brave face on an already awful situation. Nevertheless, purely theoretically, he still has a ghost of a chance to slip out of the mousetrap.
 >
 > Zelensky has to keep in mind two objective circumstances: the ability and readiness of Russia to launch one or more limited-yield nuclear strikes with virtually impunity. The West’s position non-intervention under no circumstances has already been voiced, i.e., NATO's refusal to resolve the issue of a “no-fly” zone over Ukrainian skies, NATO proclamation that it is not a party to the conflict. Despite the resistance of the Ukrainian army and volunteer fighters against Russian invaders, which exceeds the wildest of expectations, the continuation of the war will lead to colossal casualties for the Ukrainian people. Therefore, despite all the atrocities Russia has already committed in Ukraine, Zelensky has to think about the possibility of a compromise.
 >
@@ -1287,9 +1287,9 @@ Over the last two weeks, Russia’s “further military invasion” has followed
 *Volunteer fighters from the United States, UK, Sweden, Lithuania, Brazil, Canada, Poland, Georgia, etc. have arrived.*
 
 
-Whether Ukraine requires the additional fire power to prevent the situation from devolving further into barbarity is no longer debatable. Its own army, territorial defense units and volunteer hit squads have done an excellent job, so far. The last time I checked, officials had even [released](https://www.pravda.com.ua/rus/news/2022/02/27/7326457/) members of the Tornado death squad from prison to help keep the peace.
+Whether Ukraine requires the additional firepower to prevent the situation from devolving further into barbarity is no longer debatable. Its own army, territorial defense units and volunteer hit squads have done an excellent job, so far. The last time I checked, officials had even [released](https://www.pravda.com.ua/rus/news/2022/02/27/7326457/) members of the Tornado death squad from prison to help keep the peace.
 
-As of March 8, 2022, in Kyiv region the orcs are physically resident only in the part of the map shaded in red. They ride around in armored vehicles, loot, and shoot dead civilians who get in their way. Finding and vaporizing them shouldn’t be difficult. It ain’t rocket science. More like pest control.
+As of March 8, 2022, in the Kyiv region the orcs are physically resident only in the part of the map shaded in red. They ride around in armored vehicles, loot, and shoot dead civilians who get in their way. Finding and vaporizing them shouldn’t be difficult. It ain’t rocket science. More like pest control.
 
 [Image]
 *Map c/o Kyiv State Regional Administration*
@@ -2578,7 +2578,7 @@ Before it’s too late.
 
 [1](#footnote-anchor-1)
 
-Whether Ukraine requires the additional fire power to prevent the situation from devolving further into barbarity is no longer debatable. Its own army, territorial defense units and volunteer hit squads have done an excellent job, so far. The last time I checked, officials had even [released](https://www.pravda.com.ua/rus/news/2022/02/27/7326457/) members of the Tornado death squad from prison to help keep the peace. ([Day 14](https://abdymok.substack.com/p/day-14?s=w), Mar 9, 2022)
+Whether Ukraine requires the additional firepower to prevent the situation from devolving further into barbarity is no longer debatable. Its own army, territorial defense units and volunteer hit squads have done an excellent job, so far. The last time I checked, officials had even [released](https://www.pravda.com.ua/rus/news/2022/02/27/7326457/) members of the Tornado death squad from prison to help keep the peace. ([Day 14](https://abdymok.substack.com/p/day-14?s=w), Mar 9, 2022)
 
 [2](#footnote-anchor-2)
 
