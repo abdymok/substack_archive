@@ -542,7 +542,7 @@ Moral of the story: Aleksandra’s sources are unreliable.
 
 I spent most of Saturday listening to panel discussions at [Munich Security Conference](https://www.youtube.com/watch?v=pebRHUUCe6Y&ab_channel=DWNews), where the **inadequacy** of Team USA’s response was on full display.
 
-Put bluntly, over the course of a year, the collective west has **failed to provide** Ukraine with enough guns and ammo to vaporize Russian invaders and offers zero clarity about what Ukraine’s victory will look like.
+Put bluntly, over the course of a year, the collective West has **failed to provide** Ukraine with enough guns and ammo to vaporize Russian invaders and offers zero clarity about what Ukraine’s victory will look like.
 
 Tony sounded like he was in a good mood, though, cheerfully agreeing with what Germany’s Foreign Minister Annalena Baerbock was burbling about during their hour-long joint chit chat, titled Visions for Ukraine.
 
@@ -1184,7 +1184,7 @@ I include the key 10 points, leaving out the *inertial scenarios* blah blah, whi
 
 *Let’s take a look at the state of Ukraine affairs immediately following victory.*
 
-1. We won. The transition from war to peace is much more difficult than the transition from peace to war. The country lost a hundred thousand of its best people. The country is in ruins. Some cities have been completely destroyed, and in some regions there is a real humanitarian catastrophe. There is a huge hole in the budget, because the economy has shrunk a lot. Our best people, the military, return home exhausted. The first priority for them is the restoration of health and accommodation. Similarly, a significant part of the active minority of those who tirelessly worked for victory in the rear is exhausted. The whole society is traumatized.
+1. We won. The transition from war to peace is much more difficult than the transition from peace to war. The country lost a hundred thousand of its best people. The country is in ruins. Some cities have been completely destroyed, and in some regions there is a real humanitarian catastrophe. There is a huge hole in the budget, because the economy has shrunk a lot. Our best people, the military, return home exhausted. The first priority for them is the restoration of health and housing. Similarly, a significant part of the active minority of those who tirelessly worked for victory in the rear is exhausted. The whole society is traumatized.
 2. Reforms have not been carried out. They are "out of time," and no one particularly intended to carry them out. Ukraine has not fulfilled its obligations and therefore it receives neither sufficient money for reconstruction from international partners and donors nor membership in the European Union. The Ukrainian political elite insists on both money and membership ("first European integration, then reforms," "Winners are not judged," "You owe us because we saved you", etc.), but international partners are not convinced by this rhetoric. First, they have not forgotten the numerous previous deceptions. Secondly, they are afraid of the appearance of a new cohort of oligarchs who will emerge and start embezzling assistance money, for which they will be held accountable by their constituents. Thirdly, no one in the EU needs or wants a new large member state that is a problem, not an opportunity.
 3. The restoration of the country is put on hold. The end of hostilities and martial law actualizes the question of the return or non-return of those who left: European governments will gently push out those who have not taken root, and encourage those who can take root (because everyone needs educated hardworking people). Millions of families will face a choice: women with children return home to their husbands or men join their families. The decision will be made according to the assessment of the situation at that time.
 4. There is no well-paid work in Ukraine, because jobs in the private sector require private investment and the public sector is already overloaded. The conditions for creating your own business do not bear comparison with the neighbors (a large part of businesses have already relocated to the countries of Central and Eastern Europe). Schools and hospitals, without which life is impossible, are restored in minimal volumes. Newly liberated territories and completely destroyed cities require huge funds just to start life. Inflation, contained in 2022-2023 thanks to international aid, is starting to accelerate — and because in the absence of donor money for recovery, the state will be forced to turn on the printing press to rebuild at least critical infrastructure.
@@ -6846,7 +6846,7 @@ Air defense systems shot down three dozen. The remaining seven did damage in Che
 
 [Image]
 
-About twenty minutes *before* the Ukraine’s air defense forces finished their post-attack reconnaissance check, around 0615, I went for a run.
+About twenty minutes *before* Ukraine’s air defense forces finished their post-attack reconnaissance check, around 0615, I went for a run.
 
 ---
 
