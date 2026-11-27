@@ -344,7 +344,7 @@ The rhetorical and analytical rift between Ukraine and America, which had previo
 
 [Image]
 
-Like Podoliak, the author of this article confuses “imminent” with “inevitable.” The “rift” is not rhetorical or analytical. As we explained above, it’s linguistic. Words do not contain meaning, they *trigger* meaning. Rinse, repeat.
+Like Podoliak, the author of this article confuses “imminent” with “inevitable.” The “rift” is not rhetorical or analytical. As we explained above, it’s linguistic. Words do not contain meaning, they *trigger* meaning. Rinse, repeat..
 
 ---
 
@@ -1258,7 +1258,7 @@ Which reminds me of this excerpt from this [post](https://abdymok.substack.com/p
 
 ---
 
-If talks between Ukraine and Russia result in anything, Putin might be able to continue bargaining for a couple more years. But if talks fail, then a zero-sum game begins: either a coup before WWIV, or full-blown WWIV before the coup. Rinse, repeat.
+If talks between Ukraine and Russia result in anything, Putin might be able to continue bargaining for a couple more years. But if talks fail, then a zero-sum game begins: either a coup before WWIV, or full-blown WWIV before the coup. Rinse, repeat..
 
 ---
 
@@ -1330,7 +1330,7 @@ Which brings me to Kamala and Poland.
 
 The steeplechase of hacks making hay out of unspeakable tragedy now [involves](https://twitter.com/SeanPenn/status/1501603494725259264/photo/1) Sean Penn and greasy fuckpig Andriy Yermak. Ze whined this morning about not getting MiG-29s fast enuf during his daily TikTok pep talk.
 
-[Radosław](https://www.facebook.com/radeksikorski/) has been mum, unless I missed something, the Pentagon [says](https://www.defense.gov/News/Releases/Release/Article/2960180/statement-by-pentagon-press-secretary-john-f-kirby-on-security-assistance-to-uk/) the deal is **dumb** and Austin calls the Polish proposal a [dead letter](https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html). Rinse, repeat.
+[Radosław](https://www.facebook.com/radeksikorski/) has been mum, unless I missed something, the Pentagon [says](https://www.defense.gov/News/Releases/Release/Article/2960180/statement-by-pentagon-press-secretary-john-f-kirby-on-security-assistance-to-uk/) the deal is **dumb** and Austin calls the Polish proposal a [dead letter](https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html). Rinse, repeat..
 
 [Image]
 
@@ -1440,7 +1440,7 @@ Beltway bullshit about off-ramps for Russia abounds. I usually pay more attentio
 
 Experts in the West who are trying to figure out why Fred’s assessments have been consistently flawed should put on thinking caps. Unfortunately, many do not even speak or understand Russian or Ukrainian.
 
-In a nutshell, Putin is and remains an *irrational actor* who is *less* well-grounded in reality than most world leaders. “Bounded rationality” is *irrelevant* for explaining the Russian leader’s decisions or actions. Rinse, repeat.
+In a nutshell, Putin is and remains an *irrational actor* who is *less* well-grounded in reality than most world leaders. “Bounded rationality” is *irrelevant* for explaining the Russian leader’s decisions or actions. Rinse, repeat..
 
 And [this](https://x.com/TulsiGabbard/status/1502960938147729413) just in from Tulsi:
 
@@ -1886,7 +1886,7 @@ In other news, Joe is in Brussels today chatting up European heads of state abou
 
 That could translate into free geiger counters, atropine jabs and hamzat suits.
 
-**NATO’s primary responsibility is to ensure that the war does not escalate beyond Ukraine**, Jens said. Rinse, repeat.
+**NATO’s primary responsibility is to ensure that the war does not escalate beyond Ukraine**, Jens said. Rinse, repeat..
 
 ---
 
@@ -3393,7 +3393,7 @@ Which brings me to this [chit chat](https://twitter.com/PuckNews/status/15187084
 
 [Image]
 
-There must be something wrong with me. I was overcome by nausea and stopped listening around the 20-minute mark when they started talking about the genisis of Ukraine’s neo-Nazis and Azov.
+There must be something wrong with me. I was overcome by nausea and stopped listening around the 20-minute mark when they started talking about the genesis of Ukraine’s neo-Nazis and Azov.
 
 Nothing that a quick run won’t cure.
 
@@ -3696,7 +3696,7 @@ This kind of jibberish is an ad for metal prongy things to hold up paper rolls. 
 [Image]
 *Map c/o WAPO c/o Fred*
 
-I fixed the Washington Post’s [map](https://www.washingtonpost.com/national-security/2022/04/30/ukraine-russia-artillery/), which the newspaper got from [Fred](https://www.criticalthreats.org/). There are no “Russian-held” or “separatist-controlled areas” in Ukraine, just Russia-occupied areas. Rinse, repeat.
+I fixed the Washington Post’s [map](https://www.washingtonpost.com/national-security/2022/04/30/ukraine-russia-artillery/), which the newspaper got from [Fred](https://www.criticalthreats.org/). There are no “Russian-held” or “separatist-controlled areas” in Ukraine, just Russia-occupied areas. Rinse, repeat..
 
 Maybe replace the Crimea portion of the map w/ this:
 
@@ -4109,7 +4109,7 @@ I don’t want to be too hard on Avril and Scott (the latter reminds me of an ac
 
 The testimony reminded me of a spherical cow in a vacuum, the butt of a joke making fun of oversimplified assumptions sometimes made by theoretical physicists. “Use a bottle opener,” by contrast, is the nagging accusation against the deductive logic and analytical models cooked up by venture capitalists who enter into “factoring agreements” with Russian banks in Ukraine[1](#footnote-1).
 
-When it comes to intelligence about Ukraine, Avril and Scott should be relying more on inductive reasoning, the system of inference describing the relation between propositions on intelligence, and propositions that extend beyond the intelligence, such as predictions over future intelligence, and general conclusions on all possible intelligence. Rinse, repeat
+When it comes to intelligence about Ukraine, Avril and Scott should be relying more on inductive reasoning, the system of inference describing the relation between propositions on intelligence, and propositions that extend beyond the intelligence, such as predictions over future intelligence, and general conclusions on all possible intelligence. Rinse, repeat.
 
 Remember what we said on Day 11[2](#footnote-2) and February 19, 2022[3](#footnote-3).
 
@@ -4365,11 +4365,11 @@ Ukraine’s first wartime foreign minister and Tony again met on Sunday in Berli
 
 War, poverty, stupidity and disease have prevented Ukraine from realizing its full potential since at least 2019, with poor judgment and comprehension, among other mental limitations, leading to a series of grotesque and more or less self-inflicted failures in democratic governance and foreign relations.
 
-Tiger Team[1](#footnote-1) in November, December, January and February informed Ukraine’s leaders, Dmytro included, that Putin intended to launch a all-out invasion and decapitate Kyiv. Central Intelligence Agency Director William Burns even met with Ze in the capital to brief him in person about the Kremlin’s plans[2](#footnote-2).
+Tiger Team[1](#footnote-1) in November, December, January and February informed Ukraine’s leaders, Dmytro included, that Putin intended to launch an all-out invasion and decapitate Kyiv. Central Intelligence Agency Director William Burns even met with Ze in the capital to brief him in person about the Kremlin’s plans[2](#footnote-2).
 
 Yet two weeks later, the president summoned foreign journalists to his office to play down the possibility of an imminent - or inevitable - attack. He said Russia’s military build-up was *less* threatening than similar deployments made a year earlier[3](#footnote-3).
 
-Ze’s pow wow with the William took place a month after the husband of president’s body woman and personal aide was busted for throwing a temper tantrum after police stopped his caravan near a checkpoint in eastern Ukraine[4](#footnote-4).
+Ze’s pow wow with the William took place a month after the husband of the president’s body woman and personal aide was busted for throwing a temper tantrum after police stopped his caravan near a checkpoint in eastern Ukraine[4](#footnote-4).
 
 Which brings me to Kyrylo and Dominic and their [EXCLUSIVE](https://www.youtube.com/watch?v=MZbm5DvMw8w&t=6s) scream for attention aired on May 13 by Sky News.
 
@@ -4378,7 +4378,7 @@ Which brings me to Kyrylo and Dominic and their [EXCLUSIVE](https://www.youtube.
 
 I found the 140-second long interview, during which Kyrylo predicts Putin’s demise, a few fries short of a Happy Meal.
 
-Mykhailo chirped two days later, tweeting Ukraine can end the war by the end of the year, providing the a *real* embargo on Russian oil imports is imposed “[+ tanks, planes and artillery](https://twitter.com/Podolyak_M/status/1525741382232690688/).”
+Mykhailo chirped two days later, tweeting Ukraine can end the war by the end of the year, provided that a *real* embargo on Russian oil imports is imposed “[+ tanks, planes and artillery](https://twitter.com/Podolyak_M/status/1525741382232690688/).”
 
 [Image]
 
@@ -4423,9 +4423,9 @@ Whether or not Ukraine can absorb additional assistance, military and financial,
 
 Who, exactly, are Tiger Team’s most valued sources of information about the experiment underway in Ukraine remains top secret codeword WHATEVER, not revealed without SCI access. Sources may not have been identified or even exist. For all we know, it could be a DNI wild goose chase using AI.
 
-There’s been lots of talk lately about refreshing, reconstituting — maybe even reinventing — Ukraine’s export-driven economy. The plan, if it exists, is either a work in progress or a disaster in the making, depending on whether you think the speed of economic growth trumps the choice of the social-oriented Leftist taxation system supported by populist Servant of the People members of parliament (the largest faction).
+There has been lots of talk lately about refreshing, reconstituting — maybe even reinventing — Ukraine’s export-driven economy. The plan, if it exists, is either a work in progress or a disaster in the making, depending on whether you think the speed of economic growth trumps the choice of the social-oriented Leftist taxation system supported by populist Servant of the People members of parliament (the largest faction).
 
-Which brings me to Servant of the Peoples chief *[fiscalist](https://zn.ua/ECONOMICS/doloj-hetmantseva-predprinimateli-nachali-sbor-podpisej-pod-pismom-k-zelenskomu.html)*Danylo Hetmantsev, chairman of the Rada’s committee on finance, tax and customs policy, who yesterday announced on [Telegram](https://t.me/getmantsevdanil/2966) the creation of the National Council that will include world renowned economists.
+Which brings me to Servant of the People’s chief *[fiscalist](https://zn.ua/ECONOMICS/doloj-hetmantseva-predprinimateli-nachali-sbor-podpisej-pod-pismom-k-zelenskomu.html)*Danylo Hetmantsev, chairman of the Rada’s committee on finance, tax and customs policy, who yesterday announced on [Telegram](https://t.me/getmantsevdanil/2966) the creation of the National Council that will include world-renowned economists.
 
 - **Yuriy Gorodnichenko**, Professor of Economics, University of California, Berkeley
 - **Tymofiy Milovanov**, President of the Kyiv School of Economics, Associate Professor at the University of Pittsburgh
@@ -4439,7 +4439,7 @@ Which brings me to Servant of the Peoples chief *[fiscalist](https://zn.ua/ECONO
 
 Hetmantsev said a company from the top three global companies in strategic consulting would also be represented.
 
-The news came days after bizarre comments about the future of the country’s economy made by Ukraine’s finance minister for the Economist.
+The news came days after bizarre comments about the future of the country’s economy made by Ukraine’s finance minister for The Economist.
 
 [Image]
 
@@ -4466,9 +4466,9 @@ Serhiy Marchenko for the Economist[2](#footnote-2):
 [Image]
 *Map c/o @War\_Mapper*
 
-More than half of Kherson region’s one million residents fled after Russia took full control Ukraine’s “fruit basket” in late February. Officials in Kyiv are reluctant to talk about why and how Russia’s army managed so quickly to capture the region, which is about **the size of South Carolina** — about 28,000 square kilometers.
+More than half of Kherson region’s one million residents fled after Russia took full control of Ukraine’s “fruit basket” in late February. Officials in Kyiv are reluctant to talk about why and how Russia’s army managed so quickly to capture the region, which is about **the size of South Carolina** — about 28,000 square kilometers.
 
-On May 15, Olekslandr Karpiuk shared his thoughts about the disaster in a 48-minute long [rant](https://www.facebook.com/serg.marco/videos/473785101212594) posted to Facebook. Defense Express writes about it [here](https://defence-ua.com/minds_and_ideas/chomu_ne_pidirvali_mosti_z_krimu_pro_rozminuvannja_chongaru_ta_scho_vidbuvalos_u_pershi_dni_vtorgnennja_rf_na_pivdni_serg_marco-7373.html).
+On May 15, Oleksandr Karpiuk shared his thoughts about the disaster in a 48-minute long [rant](https://www.facebook.com/serg.marco/videos/473785101212594) posted to Facebook. Defense Express writes about it [here](https://defence-ua.com/minds_and_ideas/chomu_ne_pidirvali_mosti_z_krimu_pro_rozminuvannja_chongaru_ta_scho_vidbuvalos_u_pershi_dni_vtorgnennja_rf_na_pivdni_serg_marco-7373.html).
 
 [Image]
 *Oleksandr Pavliuk with a nifty set of night-vision goggles*
@@ -4488,13 +4488,13 @@ To make a long story short, Ukraine was unprepared to protect its fruit basket.
 *Support Independent Artists*
 
 [Image]
-*10-year old Emma raising money for her mobilized father in Uzhhorod. Photo c/o Serhiy Hudak*
+*10-year-old Emma raising money for her mobilized father in Uzhhorod. Photo c/o Serhiy Hudak*
 
 The headlines are depressing.
 
 According to my historiography, we’re in the ninth year of World War IV. World War III started in 1947 and ended in 1984 (my recollection[1](#footnote-1)), and World War II, a continuation of World War I (1914-1917), began in 1939. So, I’ve lived during at least two world wars (and maybe three if you believe in reincarnation).
 
-Those interested in the current world war should listen to Roman Bezsmertny’s account of Russia’s botched attempt to decapitate Kyiv. He was with his 83-year old mother in [Motyzhyn](https://www.google.com/search?q=motyzhin+to+kyiv&client=ubuntu&hs=7GZ&channel=fs&sxsrf=ALiCzsa5xJ0sX3a50TpYxCxSdAceQhEAlA%3A1652925169819&ei=8aKFYvLGMcSPxc8P8tSe8AY&ved=0ahUKEwiyg9mMuur3AhXER_EDHXKqB24Q4dUDCA0&uact=5&oq=motyzhin+to+kyiv&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAEyBwghEAoQoAE6BwgAEEcQsAM6BAgAEA06BAguEA06CgguEMcBEK8BEA06BggAEA0QHjoICAAQDRAFEB46CAgAEAgQDRAeSgQIQRgASgQIRhgAUM0FWOgSYIsUaAFwAXgAgAHoAYgB4QmSAQUwLjcuMZgBAKABAcgBCMABAQ&sclient=gws-wiz), a small town 50 kilometers west of capital that Russian troops occupied in late February. What a nightmare.
+Those interested in the current world war should listen to Roman Bezsmertny’s account of Russia’s botched attempt to decapitate Kyiv. He was with his 83-year-old mother in [Motyzhyn](https://www.google.com/search?q=motyzhin+to+kyiv&client=ubuntu&hs=7GZ&channel=fs&sxsrf=ALiCzsa5xJ0sX3a50TpYxCxSdAceQhEAlA%3A1652925169819&ei=8aKFYvLGMcSPxc8P8tSe8AY&ved=0ahUKEwiyg9mMuur3AhXER_EDHXKqB24Q4dUDCA0&uact=5&oq=motyzhin+to+kyiv&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAEyBwghEAoQoAE6BwgAEEcQsAM6BAgAEA06BAguEA06CgguEMcBEK8BEA06BggAEA0QHjoICAAQDRAFEB46CAgAEAgQDRAeSgQIQRgASgQIRhgAUM0FWOgSYIsUaAFwAXgAgAHoAYgB4QmSAQUwLjcuMZgBAKABAcgBCMABAQ&sclient=gws-wiz), a small town 50 kilometers west of capital that Russian troops occupied in late February. What a nightmare.
 
 Roman helped Ukraine with the Orange Revolution in the early 2000s (when he said he stopped fearing death by unnatural causes). I laughed at that part and recalled TBDD dioxin. The [case](https://www.kyivpost.com/article/content/ukraine-politics/dead-end-51514.html) remains unsolved.
 
@@ -4508,7 +4508,7 @@ My legionnaire friends and Det-A deadbeats are nagging me for night vision equip
 
 > “Thank you. Nope. I am not at the front line. But thank you.”
 
-I attempted unsuccessfully earlier this month to arrange for [Chien-Chi](https://www.magnumphotos.com/photographer/chien-chi-chang/), the Michael Jordan of war photographer/correspondents, to take pictures of Ukrainians using computerized night vision optics, specifically ATN gear, in the field. I’ll try again when he comes back to Kyiv. It would also be nice if the President’s Office lets him poke around Bankova. That way billions of Mandarin and Taiwanese speakers can learn WTF is going on with Ukraine from an independent — read: not state-controlled China government — source.
+I attempted unsuccessfully earlier this month to arrange for [Chien-Chi](https://www.magnumphotos.com/photographer/chien-chi-chang/), the Michael Jordan of war photographerss and correspondents, to take pictures of Ukrainians using computerized night vision optics, specifically ATN gear, in the field. I’ll try again when he comes back to Kyiv. It would also be nice if the President’s Office lets him poke around Bankova. That way billions of Mandarin and Taiwanese speakers can learn WTF is going on with Ukraine from an independent — read: not state-controlled China government — source.
 
 ---
 
@@ -4557,7 +4557,7 @@ This “newspaper of record” has gotten the story about Ukraine wrong regularl
 
 The task of Team USA in this war is simple: defenestration of fascist Russia's genocidal regime, w/ the help of Ukraine and 41 allied countries.
 
-Rinse, repeat
+Rinse, repeat.
 
 ---
 
@@ -4584,7 +4584,7 @@ Eliot Cohen has a nice [thread](https://twitter.com/EliotACohen/status/152765253
 - It’s not particularly surprising that at this point in a grinding, bloody war [@nytimes](https://twitter.com/nytimes), and some American think tanks as well as in the French, German and Italian governments look for a way out with a compromise that will dismember Ukraine further.
 - The spirit of appeasement and surrender will always be with us; the willingness to sell out people fighting for their freedom and their lives will always be with us; the fear of success in defeating dictators will always be with us.
 - There are plenty of hardheaded reasons to arm and support Ukraine to the maximum - indeed, it would be catastrophic on purely geopolitical grounds to sell them out. But this is also a moral issue.
-- The good news is that the Ukrainians are resolute, the US is doing the right thing, and the key allies - front line states above all, but also UK, Canada, and others - are in it to win. For the rest, they get the reputations of a Duranty or a Chamberlain. Deservedly.
+- The good news is that the Ukrainians are resolute, the US is doing the right thing, and the key allies - front-line states above all, but also the UK and Canada, and others - are in it to win. For the rest, they get the reputations of a Duranty or a Chamberlain. Deservedly.
 
 ---
 
@@ -4594,7 +4594,7 @@ London-based practicing philosopher Vladimir Pastukhov on [Telegram](https://t.m
 2. NATO's direct participation in the Kosovo war in 1999 and the resolution of the crisis with demonstrative disregard for Russian participation contributed to the formation of a stable [Weimar Syndrome](https://www.nytimes.com/2014/05/02/opinion/cohen-russias-weimar-syndrome.html) in Moscow.
 3. The withdrawal of the United States from the ABM agreement can be classified as a self-fulfilling prophecy. This move awakened in Russian military circles a sense of paranoia about the "first unanswered strike." It haunted Putin. Maybe it was a bad idea.
 4. Ukraine’s revolutions (Orange Revolution - 2003/2004, Revolution of Dignity - 2013/2014) aroused expectations that Russian influence in the post-Soviet space could be ended in a historically short period of time. This sharply accelerated the course of events. The West began to stimulate the natural and justifiable desire of Ukraine to distance itself from Moscow.
-5. The Collective West made promises to Ukraine that it either did not intend to keep in principle, or that it turned out to be impossible to keep after the fact. The included the promise to accept Ukraine into NATO. The pledge created the illusion of the existence of a mystical political “airbag” among Ukrainian leaders and provoked “dangerous driving” on those sharp bends where a more cautious driver usually slows down. Unfortunately, real assistance to Ukraine began to arrive after accident already occurred. It was no longer "technical assistance," but "emergency care."
+5. The Collective West made promises to Ukraine that it either did not intend to keep in principle, or that it turned out to be impossible to keep after the fact. This included the promise to accept Ukraine into NATO. The pledge created the illusion of the existence of a mystical political “airbag” among Ukrainian leaders and provoked “dangerous driving” on those sharp bends where a more cautious driver usually slows down. Unfortunately, real assistance to Ukraine began to arrive after the accident already occurred. It was no longer "technical assistance," but "emergency care."
 
 I’m not sure about number 3 and number 5. My eyes glaze over whenever I come into contact with the words Collective West.
 
@@ -5697,7 +5697,7 @@ Olaf mumbled in an exclusive CBS [interview](https://www.cbsnews.com/news/ukrain
 
 [Image]
 
-***This is not a war of attrition western media say it is***[1](#footnote-1)[2](#footnote-2)**.**Putin is at war with the collective West. Russia’s genocidal campaign in Ukraine is a means to an end. Rinse, repeat. ***The goal of the exercise is not to devour undigestible Ukrainian territory***, but to rise in the world pecking order by asserting dominance over Europe’s wishy washy leaders, including Olaf, who continues to pretend he’s not on the menu.
+***This is not a war of attrition western media say it is***[1](#footnote-1)[2](#footnote-2)**.**Putin is at war with the collective West. Russia’s genocidal campaign in Ukraine is a means to an end. Rinse, repeat.. ***The goal of the exercise is not to devour undigestible Ukrainian territory***, but to rise in the world pecking order by asserting dominance over Europe’s wishy washy leaders, including Olaf, who continues to pretend he’s not on the menu.
 
 Think about cooking a roast. Pretend Ukraine is the oven. You take the roast out of the fridge and let it stand at room temperature at least a half hour before starting. Immediately before browning, you wrap it up in paper towels (*night night roast*) until the surface is dry.
 
@@ -5770,7 +5770,7 @@ Looking on the positive side, four journalists at the Washington Post [make](htt
 
 [Image]
 
-This is not a war of attrition, and Moscow’s goal is not to capture and control more Ukrainian territory. Rinse, repeat. Pulverizing Ukraine is a means to an end and the sooner jornos communicate this coherently the better.
+This is not a war of attrition, and Moscow’s goal is not to capture and control more Ukrainian territory. Rinse, repeat.. Pulverizing Ukraine is a means to an end and the sooner jornos communicate this coherently the better.
 
 [1](#footnote-anchor-1)
 
@@ -7857,7 +7857,7 @@ What?
 
 [Image]
 
-Dear Henry! Russia has achieved *nothing* militarily in this almost 9-month campaign. **Rinse, repeat.** And you, Henry, assisted a bloody dictator!
+Dear Henry! Russia has achieved *nothing* militarily in this almost 9-month campaign. **Rinse, repeat..** And you, Henry, assisted a bloody dictator!
 
 Somewhere in the gaping void of insecurity that permeates dispatches about our unspeakable tragedy there lie previously ignored democracy promotion possibilities. We know flaks employed by NYT and FT haven’t found them yet. Timothy Snyder [@CNN](https://edition.cnn.com/videos/tv/2022/11/11/timothy-snyder-ukraine-midterms-democracy-history.cnn) thinks he has, but we’re not convinced.
 
@@ -8171,7 +8171,7 @@ From the onset of the all-out invasion, Russia’s weapons could hit targets 2,0
 
 > As long as the current situation persists, this war can last for years.
 
-Rinse, repeat. We need to knock Russia off balance instead of playing invincibility games with diesel generators.
+Rinse, repeat.. We need to knock Russia off balance instead of playing invincibility games with diesel generators.
 
 [1](#footnote-anchor-1)
 
@@ -8275,7 +8275,7 @@ Pop rock stars[1](#footnote-1), Hollywood actors[2](#footnote-2) and presidentia
 
 Before the February 2022, the outside world lived in fantasy land about Ukraine and Z because of loopy reporting. No one was *that* interested in Kyiv until the blitzkrieg. World leaders have only just recently showed signs of coming to their senses.
 
-A lot of people have asked whether Z and his followers can be convinced to reach an accommodation with Vova in order to end the bloodletting. The answer is no for a zillion reasons. Russia’s military forces in Ukraine must be defeated and driven out. It’s a simple as that. The invaders must die. Rinse, repeat.
+A lot of people have asked whether Z and his followers can be convinced to reach an accommodation with Vova in order to end the bloodletting. The answer is no for a zillion reasons. Russia’s military forces in Ukraine must be defeated and driven out. It’s a simple as that. The invaders must die. Rinse, repeat..
 
 Think [JDAM strikes](https://www.youtube.com/watch?v=o5bH7VurGTs&ab_channel=mattezyk69).
 
