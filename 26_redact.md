@@ -1,4 +1,4 @@
-# Iskander / abdymok Substack Archive — 2026
+### Iskander / abdymok Substack Archive — 2026
 
 271 posts.
 
@@ -666,7 +666,7 @@ I just read a crazy article by [CNN](http://cnn.com) about how much fun it is to
 
 Photo c/o [abdymok](https://sites.google.com/site/abdymok/home) c/o ai
 
-# Weakness Demands Annexation
+### Weakness Demands Annexation
 
 *mysteries of an atom / looking into the abyss / seeing all the infinite fun*
 
@@ -1678,7 +1678,7 @@ Have a great weekend!
 
 [2](#footnote-anchor-2)
 
-# 
+### 
 
 [Video: https://youtu.be/CQUQr1Kns-E]
 
@@ -5960,7 +5960,7 @@ At that point, the flattering fictions of wartime will become less useful. And t
 
 ---
 
-# Translated Transcript — July 8, 2025
+### Translated Transcript — July 8, 2025
 
 *Language original: Russian*
 
@@ -11462,7 +11462,7 @@ They wait.
 
 ---
 
-# Housekeeping
+### Housekeeping
 
 Added the 2019 and 2000 markdown files for people to interrogate w/ gemini and created a tinyurl link — <https://tinyurl.com/abdymok-notes> and
 
@@ -12062,7 +12062,7 @@ In the meantime, be fast, keep your shelter route memorized, and try not to noti
 
 Yesterday's post put words in Z's mouth before he'd said them: no interceptors, everyone's on their own, things will be bad. It looked like a rhetorical flourish. A few hours later it became the headline.¹
 
-# [Ukraine fails to halt Russian barrage as Z blames partners for ‘horrific casualties’](https://www.washingtonpost.com/world/2026/08/05/ukraine-fails-stop-russian-missile-barrage-after-zelensky-says-interceptors-gone/)
+### [Ukraine fails to halt Russian barrage as Z blames partners for ‘horrific casualties’](https://www.washingtonpost.com/world/2026/08/05/ukraine-fails-stop-russian-missile-barrage-after-zelensky-says-interceptors-gone/)
 
 *U.S.-made systems are Kyiv’s only means to shoot down ballistic missiles, and Ukraine says it has run out of interceptors. Seventeen Ukrainians died overnight. - [The Washington Post](http://wapo.com), August 6, 2026*
 
@@ -14711,7 +14711,7 @@ The lists are, in their own way, a record of what keeps getting broken and what 
 
 ---
 
-# What Would Prove Us Wrong?
+### What Would Prove Us Wrong?
 
 Text within this block will maintain its original spacing when published
 
@@ -14986,7 +14986,7 @@ The thing underneath all the others.
 
 ---
 
-# Not-so-rapid response
+### Not-so-rapid response
 On Friday the New York Times [informed the world](https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html), in the plain indicative, that Russia is planning its most powerful blow yet. On the top floor of the article, where readers of headlines never climb, the paper admits it had no way to authenticate the document.
 
 The document was shown in Paris, to donors, by the same minister who told parliament in August that all would be well. Fifteen gigawatts available in August, fifteen gigawatts to be destroyed in October. It is the same fifteen, as reusable as a placard.
@@ -15446,7 +15446,7 @@ Photo c/o [abdymok](https://sites.google.com/site/abdymok/home) (October 11, 202
 
 I include this photo only to point out that yesterday when I looked directly left over Holosiivsky Park I saw a firey ball of something falling down on village of Chabany, est. population 5,000. Southwest of me.
 
-# The energy truce that isn’t
+### The energy truce that isn’t
 
 On October 11, Donald Trump announced that an energy ceasefire was in effect, that both sides had agreed, and that neither should dare break it. Kyiv’s presidential office said it knew nothing about it. Whether Moscow had agreed was not immediately clear. Z had said only that Ukraine would stop striking Russian energy infrastructure if Russia did the same. One text offers a proposition, the other announces a done deal. A truce that exists only on one side of the table is, so far, a monologue.
 
@@ -15531,7 +15531,7 @@ There is a lot of stuff to add to the chronology, which I’ll be working on thr
 
 [Image]
 
-# The Man on the Corner
+### The Man on the Corner
 
 Team USA is reportedly threatening to cut off intelligence to Kyiv unless Ukraine stops hitting Russian oil refineries. If true, Washington would be turning intelligence-sharing into leverage to protect Russian energy infrastructure. A threat is not a cutoff, and an absent warning is not a deliberately withheld one.
 
@@ -15788,7 +15788,7 @@ A fix is in the works. But events, as ever, are moving too fast for us to dwell 
 
 [Image]
 
-# **“You talk so much about my president, President Trump, being a humanitarian. You are a humanitarian also, sir. I salute that. I commend you, and I thank you again.”**
+### **“You talk so much about my president, President Trump, being a humanitarian. You are a humanitarian also, sir. I salute that. I commend you, and I thank you again.”**
 
 So said US envoy Steve Witkoff to Vladimir Putin in St. Petersburg on October 21, 2026. Putin had just announced the release of Stephen Hubbard, 74, an American held for more than four years. Trump had asked the day before. The release is good news, and we are glad of it. But it is a rule of public life that the man who opens a door is not thereby a humanitarian. He may merely be the man who locked it.
 
@@ -16007,7 +16007,7 @@ And the people of all those other towns are waiting for theirs to be told.
 
 [Image]
 
-# The People on the Land
+### The People on the Land
 
 The Russian-occupied eastern bank of Kherson region is roughly the size of New Jersey, with about 64 times fewer people living there today[1](#footnote-1). From space it looks like an enormous, flattened lung spread across the steppe, with the Dnipro along its western edge and the land opening south toward the Black Sea and Crimea. The landscape remains vast. The human presence within it has dwindled.
 
