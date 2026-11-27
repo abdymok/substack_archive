@@ -318,7 +318,7 @@ That same evening, the fourth American cargo plane with lethal military supplies
 
 ---
 
-Mykhailo Podoliak, an advisor to the head of the President’s Office, thinks the president’s messaging has been brilliant.
+Mykhailo Podoliak, an adviser to the head of the President’s Office, thinks the president’s messaging has been brilliant.
 
 > "The political and media discussion around the threat of a new escalation in Eastern Europe is finally getting rid of excessive emotions. We see that even White House Spokeswoman Psaki said it was a mistake to use the word "inevitably" ["неминуче"] in relation to the threat of escalation. This is an important diplomatic result, thanks to the activity of President Zelensky," he said on February 3 in an [interview](https://interfax.com.ua/news/political/795909.html) with Interfax-Ukraine.
 
@@ -374,7 +374,7 @@ I once read that many white male Ukraine experts suffer from something called �
 
 [Image]
 
-During the last several months I’ve read many probabilistic analyses of the possibility that Russia intends to further invade Ukraine. Their authors conclude that it is not only possible, but rather likely this could occur in the coming weeks.
+During the last several months I’ve read many probabilistic analyses of the possibility that Russia intends to further invade Ukraine. Their authors conclude that it is not only possible, but rather likely that this could occur in the coming weeks.
 
 Their arguments, some of them rolled out on Twitter, have shaken European leaders, led the U.S. Embassy in Kyiv to start [thinking](https://www.buzzfeednews.com/article/christopherm51/russia-ukraine-us-troops-refugees) about relocation to Lviv and forced the international community to worry about the doorman with nukes and no friends.
 
@@ -436,9 +436,9 @@ There was an obvious split in the West's approach to resolving the current crisi
 
 The Normandy Format grandees go to the Kremlin without much fuss. For them, the biggest problem today is not Moscow, but Kyiv. With Moscow, all disagreements are only in public. In fact, most of the European establishment would breathe a sigh of relief if Ukraine agreed to the “normalization” of relations with Russia, legally recognizing the loss of Crimea and, in fact, part of the Donbas. The notorious Finlandization of Ukraine is a working model for all participants in the Normandy format, except for Ukraine itself.
 
-But the Anglo-Saxons decided to double the Kremlin stake and offered to play Russian roulette with a counterfeit revolver. Washington responded to the imitation of war by provoking war, putting Moscow in an extremely difficult position. You create the appearance of readiness to attack, then we declare your attack inevitable and unavoidable. If you attack, then you will be responsible the disaster and we’ll wash our hands of it. In fact, you won’t go further than Kyiv, but you won’t attack, which means we scared you and prevented the war. This a the type of war of nerves that severs veins.
+But the Anglo-Saxons decided to double the Kremlin stake and offered to play Russian roulette with a counterfeit revolver. Washington responded to the imitation of war by provoking war, putting Moscow in an extremely difficult position. You create the appearance of readiness to attack, then we declare your attack inevitable and unavoidable. If you attack, then you will be responsible for the disaster and we’ll wash our hands of it. In fact, you won’t go further than Kyiv, but you won’t attack, which means we scared you and prevented the war. This is the type of war of nerves that severs veins.
 
-In fact, so far the Americans are actively bombing Zhytomyr, making it a twin of Voronezh. Nothing in the past few years (excluding Russian aggression) has done more economic damage to Ukraine than the American "war on the doorstep" propaganda campaign. The closure of airspace over Ukraine, the refusal of Western insurance companies to work in Ukraine, the evacuation of embassies and the practical isolation of the country in a matter of weeks - I don’t understand who is under sanctions here? In the framework of the American game, Ukraine looks like even more of a bargaining chip in bargaining with the Russians than in the framework of the Franco-German shuttle diplomacy. This puts Ukraine in a very difficult position. In fact, objectively today everyone is playing against Ukraine.
+In fact, so far the Americans are actively bombing Zhytomyr, making it a twin of Voronezh. Nothing in the past few years (excluding Russian aggression) has done more economic damage to Ukraine than the American "war on the doorstep" propaganda campaign. The closure of airspace over Ukraine, the refusal of Western insurance companies to work in Ukraine, the evacuation of embassies and the practical isolation of the country in a matter of weeks - I don’t understand who is under sanctions here? In the framework of the American game, Ukraine looks like even more of a bargaining chip in negotiations with the Russians than in the framework of the Franco-German shuttle diplomacy. This puts Ukraine in a very difficult position. In fact, objectively today everyone is playing against Ukraine.
 
 For Ukraine itself, in the current situation, the choice is extremely simplified to a crystal-clear dilemma - Finlandization or war? The possibility of balancing in the mystical "third dimension" between these two options is almost exhausted. The problem is that neither the elites of Ukraine nor the Ukrainian society were ready to make the final choice. The formula "War and peace" (in the Trotskyist interpretation of "Neither peace nor war") is no longer workable for Zelensky, and the formula "War or peace" is a political trap for him. Whatever he chooses, society will not approve.
 
@@ -448,7 +448,7 @@ At the same time, the Finlandization in Ukraine is understood extremely primitiv
 
 Of course, there is another alternative to defeat - war. I consider it immoral and pointless to discuss the question of whether the Ukrainian society today is ready for a total war. But, even if we assume that it is ready, and even assume that this war will end in a peace that suits Ukraine, then with a huge degree of probability a total war will lead to a total exhaustion of the nation's forces and, most likely, will become a point of historical fracture, which will be very difficult to overcome. I note that we learned the real price of the victory of the USSR in World War II in 1991. One thing is clear today - Ukraine will have to fight against Russia alone, albeit with the military, financial and political support of the West.
 
-The West’s counterplay is objectively exerting additional pressure on Ukraine today more than on Russia. Zelensky has less and less time to make a decision, and any clear decision will drastically complicate his plans for re-election for the next term. But it is not easy for Russia either, with minimal provocation it will be very difficult for it not to start a war, after which the carriage of Russian foreign policy will very quickly turn into a pumpkin. Western hesitation is the Kremlin's last hope. They are waiting for Macron and Scholz, on their part, by persuasion, and Biden and Johnson, with their provocations, to force Zelensky to recognize the annexation of Crimea, which will allow Putin to pull his boots out of the rotten Crimean swamp. But if Zelensky does not make any decision, no one will benefit.
+The West’s counterplay is objectively exerting more pressure on Ukraine today than on Russia. Zelensky has less and less time to make a decision, and any clear decision will drastically complicate his plans for re-election for the next term. But it is not easy for Russia either, with minimal provocation it will be very difficult for it not to start a war, after which the carriage of Russian foreign policy will very quickly turn into a pumpkin. Western hesitation is the Kremlin's last hope. They are waiting for Macron and Scholz, on their part, by persuasion, and Biden and Johnson, with their provocations, to force Zelensky to recognize the annexation of Crimea, which will allow Putin to pull his boots out of the rotten Crimean swamp. But if Zelensky does not make any decision, no one will benefit.
 
 PS online: *While this article was waiting for a meeting with the reader, it became clear that massive "pressure on Russia" seems to be working against Ukraine. Ukraine’s ambassador to the UK spoke about the possibility of Ukraine's voluntary refusal to join NATO, if this helps to avoid a war with Russia...*
 
@@ -502,17 +502,17 @@ The original, full text can be found [here](https://www.facebook.com/10006939207
 
 There is no “Russian invasion” of Ukraine, which the United States and its allies have been declaring at the official level since last fall, and no invasion is planned, so statements about “Russia’s responsibility for the escalation” cannot be regarded otherwise than as an attempt to put pressure on and devalue Russia’s proposals for security guarantees.
 
-In this context, Russian obligations under the 1994 Budapest Memorandum have nothing to do with the internal Ukrainian conflict and does not apply to circumstances resulting from the action of internal factors there. The loss of territorial integrity by the Ukrainian state is the result of the processes that have taken place within it.
+In this context, Russian obligations under the 1994 Budapest Memorandum have nothing to do with the internal Ukrainian conflict and do not apply to circumstances resulting from the action of internal factors there. The loss of territorial integrity by the Ukrainian state is the result of the processes that have taken place within it.
 
-The accusations of Russia contained in the American response that it “occupied Crimea” also do not stand up to scrutiny. In 2014, a coup d'etat took place in Kyiv, the initiators of which, with the support of the United States and its allies, supported the creation of a nationalist state that infringes on the rights of the Russian and Russian-speaking population, as well as other "non-titular" ethnic groups. It is not surprising, residents of Crimean voted for reunification with Russia. The decision of the people of Crimea and Sevastopol to return to the Russian Federation was made by free will in the exercise of the right to self-determination enshrined in the UN Charter. No force or threat of force was used. The question of whether Crimea is a part of is closed.
+The accusations of Russia contained in the American response that it “occupied Crimea” also do not stand up to scrutiny. In 2014, a coup d'etat took place in Kyiv, the initiators of which, with the support of the United States and its allies, supported the creation of a nationalist state that infringes on the rights of the Russian and Russian-speaking population, as well as other "non-titular" ethnic groups. It is not surprising that residents of Crimea voted for reunification with Russia. The decision of the people of Crimea and Sevastopol to return to the Russian Federation was made by free will in the exercise of the right to self-determination enshrined in the UN Charter. No force or threat of force was used. The question of whether Crimea is part of Russia is closed.
 
 If Ukraine is accepted into NATO, there will be a real threat that the regime in Kyiv will try to “return” Crimea by force, drawing in the United States and its allies, in accordance with Art. 5 of the Washington Treaty, into a direct armed conflict with Russia with all the ensuing consequences.
 
-The thesis repeated in the US response that Russia allegedly “ignited the conflict in Donbas” is untenable. The reason for the conflict are purely domestic in nature. The settlement is possible only through the implementation of the Minsk agreements and the "Package of Measures," the priority and responsibility for the implementation of which are clearly defined and unanimously confirmed by UN Security Council Resolution 2202, including the United States, France and Great Britain. In paragraph 2 of this resolution, Kyiv, Donetsk and Luhansk are named as parties. None of these documents mentions Russia's responsibility for the conflict in Donbas. Russia, together with the OSCE, plays the role of a mediator in the main negotiating format - the Contact Group - and together with Berlin and Paris - in the Normandy format, which formulates recommendations to the parties to the conflict and monitors their implementation.
+The thesis repeated in the US response that Russia allegedly “ignited the conflict in Donbas” is untenable. The reasons for the conflict are purely domestic in nature. The settlement is possible only through the implementation of the Minsk agreements and the "Package of Measures," the priority and responsibility for the implementation of which are clearly defined and unanimously confirmed by UN Security Council Resolution 2202, including the United States, France and Great Britain. In paragraph 2 of this resolution, Kyiv, Donetsk and Luhansk are named as parties. None of these documents mentions Russia's responsibility for the conflict in Donbas. Russia, together with the OSCE, plays the role of a mediator in the main negotiating format - the Contact Group - and together with Berlin and Paris - in the Normandy format, which formulates recommendations to the parties to the conflict and monitors their implementation.
 
 To de-escalate the situation around Ukraine, it is fundamentally important to take the following steps. They include compelling Kyiv to comply with the "Package of Measures," stopping the supply of weapons to Ukraine, withdrawing all Western advisers and instructors from there, refusing NATO countries from any joint exercises with the Armed Forces of Ukraine and withdrawing all foreign weapons previously delivered to Kyiv outside Ukrainian territory.
 
-In this regard, we draw attention to the fact that President of Russia Vladimir Putin, at a press conference following the talks in Moscow with President of France Empress Macron on February 7, 2022, stressed that we are open to dialogue. He urged that we “think about stable conditions security for all, equal for all participants in international life.”
+In this regard, we draw attention to the fact that President of Russia Vladimir Putin, at a press conference following the talks in Moscow with President of France Empress Macron on February 7, 2022, stressed that we are open to dialogue. He urged that we “think about stable conditions of security for all, equal for all participants in international life.”
 
 ---
 
@@ -541,7 +541,7 @@ U.S. military officials, including US President Joe Biden, on the other hand, ar
 
 ---
 
-Someone just asked what I, as a Irish citizen, thought of [this](https://foreignpolicy.com/2022/02/18/russia-ukraine-arrest-assassination-invasion/).
+Someone just asked what I, as an Irish citizen, thought of [this](https://foreignpolicy.com/2022/02/18/russia-ukraine-arrest-assassination-invasion/).
 
 [Image]
 
@@ -587,7 +587,7 @@ Stuff the chicken with a good walnut of unsalted butter, into which you have mas
 
 I listened to the president’s [scream for attention](https://www.youtube.com/watch?v=EFV5nw1UUNY) in Munich amid all this death and sadness, though there’s no need for you to bother (if you do go there, carry with you the image of animated, disheveled Z [chatting up](https://www.instagram.com/p/CaLEOXVAJUu/) the president of France after returning to Kyiv for dinner).
 
-Dead white male Bohdan Nayahlo - working remotely from Barcelona - has published an English-language translation of the breathless [rant](https://www.kyivpost.com/eastern-europe/ukrainian-president-makes-historic-speech-in-munich.html) in full, calling it “historic.”
+Dead white male Bohdan Nahaylo - working remotely from Barcelona - has published an English-language translation of the breathless [rant](https://www.kyivpost.com/eastern-europe/ukrainian-president-makes-historic-speech-in-munich.html) in full, calling it “historic.”
 
 [Image]
 
@@ -625,7 +625,7 @@ In Vilnius on Saturday, US Secretary of Defense Lloyd J. Austin III [said](https
 
 Wonderful. And Emmanuel will chat up Putin in Moscow. Again.
 
-Looking on the positive side, Ukraine’s Defense Minister Oleksiy Reznikov has for weeks been [telling us](https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html) that the risks of a Russian invasion of Ukraine are low, with his deputy Hanna Moliar [talking down the threat](https://www.youtube.com/watch?app=desktop&v=cD6V0A4-LAA&fbclid=IwAR0bOHYeDQhzN-usjDjIrAxH_1Ijt3ePnGndC8jcY6thxk8bI9n90UxGQjA).
+Looking on the positive side, Ukraine’s Defense Minister Oleksiy Reznikov has for weeks been [telling us](https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html) that the risks of a Russian invasion of Ukraine are low, with his deputy Hanna Maliar [talking down the threat](https://www.youtube.com/watch?app=desktop&v=cD6V0A4-LAA&fbclid=IwAR0bOHYeDQhzN-usjDjIrAxH_1Ijt3ePnGndC8jcY6thxk8bI9n90UxGQjA).
 
 ---
 
@@ -663,7 +663,7 @@ That’s where we’re at.
 
 [Image]
 
-After the previous episode of the tragicomedy, many fans were impressed by [Tiger Team’](https://www.nbcnews.com/politics/white-house/white-house-leading-tabletop-exercises-preparation-possible-russian-in-rcna16263)s multi-faceted intelligence-sourced [universe of invasion plans](https://www.nytimes.com/2022/02/21/us/politics/biden-putin.html?searchResultPosition=1), expecting a bloody massacre after the Russia’s strike group reached Kyiv. But Russia’s blitzkrieg of Ukraine has turned out to be a classic illustration of the saying ***swing for a ruble, blow for a penny*** (*замах на рубль удар на копейку*). So far.
+After the previous episode of the tragicomedy, many fans were impressed by [Tiger Team](https://www.nbcnews.com/politics/white-house/white-house-leading-tabletop-exercises-preparation-possible-russian-in-rcna16263)s multi-faceted intelligence-sourced [universe of invasion plans](https://www.nytimes.com/2022/02/21/us/politics/biden-putin.html?searchResultPosition=1), expecting a bloody massacre after Russia’s strike group reached Kyiv. But Russia’s blitzkrieg of Ukraine has turned out to be a classic illustration of the saying ***swing for a ruble, blow for a penny*** (*замах на рубль удар на копейку*). So far.
 
 New protagonists in the Russia State Duma and Federation Council looked painfully promising yesterday and some pundits immediately began to suspect something awful, but even they did not expect such a deafening failure. Instead of rolling out something convincing, the sycophants regurgitated poorly glued pronouncements about de-Nazification, Bandera fascism and genocide in Donbas. The Kremlin’s anti-Ukraine campaign began to resemble Carlos Castaneda’s *[A Separate Reality](https://en.wikipedia.org/wiki/A_Separate_Reality)*, without the ibogaine.
 
@@ -673,7 +673,7 @@ As we duly [noted](https://abdymok.substack.com/p/last-ditch-lunacy?utm_source=u
 
 [Image]
 
-Putin’s [spelled out](https://www.youtube.com/watch?v=tl2m6LVHY58) his demands less ambiguously on February 22, 2022.
+Putin [spelled out](https://www.youtube.com/watch?v=tl2m6LVHY58) his demands less ambiguously on February 22, 2022.
 
 1. Ukraine’s de-nazification
 2. Ukraine’s demilitarization
@@ -2609,7 +2609,7 @@ Ending Russia’s war against Ukraine is complicated by the inadequacy of formal
 
 Over the last month and a half, we have alternatively explained, described and compared the prelude and execution of the ongoing unspeakable tragedy in various ways - from an episode of the post-apocalyptic Mad Max action film series[1](#footnote-1) to an improvisation of novel inspired by [Between the Buried and Me](https://en.wikipedia.org/wiki/Between_the_Buried_and_Me)[2](#footnote-2), the final act of the ballet Gayane[3](#footnote-3), a dialogue from Motl, Peysi the Cantor's Son[4](#footnote-4) and the witch scene from a WWIII capstone film[5](#footnote-5).
 
-A couple of days ago, we arrived at a blunt two-word assessment, replete w/ footnoted definitions, because the meaning the words *trigger* should be clearly understood, especially since your life or your death may depend on it[6](#footnote-6).
+A couple of days ago, we arrived at a blunt two-word assessment, replete w/ footnoted definitions, because the meaning that the words *trigger* should be clearly understood, especially since your life or your death may depend on it[6](#footnote-6).
 
 Which brings me Barrack Obama, who has also been thinking and talking about our bloody mess and its origins, [here,](https://www.theatlantic.com/ideas/archive/2022/04/barack-obama-interview-disinformation-ukraine/629496/) at least, for more than one hour.
 
@@ -5070,7 +5070,7 @@ CIA Director William Burns met with Z in Kyiv on January 12 to share intelligenc
 
 One month later, Putin blurted out after a beano with Macron in Moscow that Ukraine should *bite the pillow* and *fulfill her* *duty*[2](#footnote-2). Few people expected at the time that Russia’s supreme leader intended to commit genocidal acts in order to prevent more atrocities.
 
-Putin’s [spelled out](https://www.youtube.com/watch?v=_YRUlb_7T9o) his demands on February 22, 2022[3](#footnote-3).
+Putin [spelled out](https://www.youtube.com/watch?v=_YRUlb_7T9o) his demands on February 22, 2022[3](#footnote-3).
 
 1. Ukraine must be demilitarized/denazified
 2. Ukraine must not to join NATO
