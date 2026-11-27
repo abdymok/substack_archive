@@ -8206,13 +8206,13 @@ Z invites Elon to Kyiv. Ugh.
 
 Maybe [The Operator](https://abdymok.substack.com/p/sovereign-state) can arrange the visit. Sean Penn can accompany. With [Imagine Dragons](https://www.instagram.com/p/CgVGLfCvlC3/). They can all sing [Carol of the Bells](https://www.youtube.com/watch?v=EKkzbbLYPuI) after Klitschko erects the [12-meter tall diesel-generator powered Xmas tree](https://www.reuters.com/world/kyiv-s-mayor-we-cannot-allow-putin-steal-our-christmas-2022-11-29/) next week.
 
-Some time ago, before Putin tried to decapitate Kyiv, Ukraine [announced](https://mediasat.info/ru/2021/02/03/igor-yaremchuk-ukrtelecom/) that every community with a hundred potential broadband subscribers would have ADSL brought to them. Months later my local *mairie* in Semihory snapped into action by putting a petition on its reception desk. But in a village where the median age is about seventy, and where there are probably more hatchets than computers, and where no one ever goes to the *селсовет,* there was no mad rush to sign up. So I had to do it myself.
+Some time ago, before Putin tried to decapitate Kyiv, Ukraine [announced](https://mediasat.info/ru/2021/02/03/igor-yaremchuk-ukrtelecom/) that every community with a hundred potential broadband subscribers would have ADSL brought to their homes. Months later my local *mairie* in Semihory snapped into action by putting a petition on its reception desk. But in a village where the median age is about seventy, and where there are probably more hatchets than computers, and where no one ever goes to the *селсовет,* there was no mad rush to sign up. So I had to do it myself.
 
-For years I tried to get satellite to work, but the rates were always ridiculous (consumption-wise, analogous to a hundred bucks for a bowl of tapwater), and while my Fijitsu could theoretically be configured to negotiate the VPN moat and drawbridge of satellite broadband, people were happy to point out that no one ever had.
+For years I tried to get satellite to work, but the rates were always ridiculous (consumption-wise, analogous to a hundred bucks for a bowl of tapwater), and while my Fujitsu could theoretically be configured to negotiate the VPN moat and drawbridge of satellite broadband, people were happy to point out that no one ever had.
 
 After Kyivstar erected a tower up the road, though, rates became more affordable. Thanks to Elon, I pay nothing for my Starlink connection. Packages are on offer that compete in price with terrestrial DSL, without miserly bandwidth limitations. So I just signed the hell up, using a false name and fake address. My connection is a lot faster than the retired Russian general with the pig and goat cheese farm two *хутори* away.
 
-My two Twitter accounts are [abdymok](https://twitter.com/abdymok) and [dronedept](https://twitter.com/dronedept). I use them to keep track of [bodega cats](https://twitter.com/Bodegacats_) and Ukraine experts, such as [Timothy Snyder](https://twitter.com/TimothyDSnyder), who is finding it enormously difficult to put together a lecture about Ukraine’s contemporary political history post Independence.
+My two Twitter accounts are [abdymok](https://twitter.com/abdymok) and [dronedept](https://twitter.com/dronedept). I use them to keep track of [bodega cats](https://twitter.com/Bodegacats_) and Ukraine experts, such as [Timothy Snyder](https://twitter.com/TimothyDSnyder), who is finding it enormously difficult to put together a lecture about Ukraine’s contemporary political history post-Independence.
 
 ---
 
@@ -8233,7 +8233,7 @@ The final class is not about unfettered muddling and unclarity during the 2000s,
 
 Pre-war Ukraine should be remembered as a sham democracy, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings ([2001](https://en.wikipedia.org/wiki/Ukraine_without_Kuchma), [2004](https://en.wikipedia.org/wiki/Orange_Revolution), [2013](https://en.wikipedia.org/wiki/Revolution_of_Dignity)). Absent them, even the illusion of tolerance, much less competency, would not exist. What happens after we win the war is anyone’s guess. Should we embrace pan-European socialist-style remedies? Or should we emulate Ireland?
 
-Which brings me to the non-existent seven-foot tall monument of Ronald Reagan in Kyiv, c/o Jeff Stein at [The Washington Post](https://edition.cnn.com/2022/12/13/politics/us-patriot-missile-defense-system-ukraine/index.html).
+Which brings me to the non-existent seven-foot-tall monument of Ronald Reagan in Kyiv, c/o Jeff Stein at [The Washington Post](https://edition.cnn.com/2022/12/13/politics/us-patriot-missile-defense-system-ukraine/index.html).
 
 [Image]
 
@@ -8383,7 +8383,7 @@ We see beautiful people celebrating not so much the death of a dictator as the d
 
 The most beautiful nation in the world!
 
-The inability to let go of the past means there is little room left for the present. Instead of the present - a collection of unfinished stories and unnecessary things - we experience the desire to return home after extricating ourselves from the bloody mess and mountains of slush we have been mired in for so long.
+The inability to let go of the past means there is little room left for the present. Instead of the present – a collection of unfinished stories and unnecessary things – we experience the desire to return home after extricating ourselves from the bloody mess and mountains of slush we have been mired in for so long.
 
 In other words, art lives longer than dead white male expat monkeys.
 
@@ -8427,11 +8427,11 @@ It was warm on Saturday, almost balmy. The snow melted. The fog was thick. I pri
 [Image]
 *c/o abdymok*
 
-One passage of the 15,000-word interactive whatever published by The New York Times last week jumped out at me[1](#footnote-1):
+One passage of the 15,000-word interactive feature published by The New York Times last week jumped out at me[1](#footnote-1):
 
 [Image]
 
-Burns and non-permissive environment specialists later visited Kyiv and schemed with indigenous commandos at [Tootsie Club](https://en.tootsie.kiev.ua/) about possible plans to liberate future oppressed residents of the Ukraine’s capital. The plans were not made public[2](#footnote-2). Two weeks later, the US State Department told Americans to get out of the country immediately[3](#footnote-3).
+Burns and non-permissive environment specialists later visited Kyiv and schemed with indigenous commandos at [Tootsie Club](https://en.tootsie.kiev.ua/) about possible plans to liberate future oppressed residents of Ukraine’s capital. The plans were not made public[2](#footnote-2). Two weeks later, the US State Department told Americans to get out of the country immediately[3](#footnote-3).
 
 Which leaves us living out the last stanzas of [Inside the Wire](https://www.youtube.com/watch?v=tCxheyDT3BE), a cult song by [Bolt Cutter](https://en.wikipedia.org/wiki/Bolt_Thrower), an English death metal band from Coventry.
 
