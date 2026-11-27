@@ -3421,7 +3421,7 @@ Just how precious or sacred *are* you, really, if a bear can suddenly rip off pa
 
 ###### Lighting up the Battlefield
 
-ATN-Ukraine, which is helping defenders of Ukraine to see at night and shoot straight, did a lot more than paint Easter eggs for the Orthodox holiday this year. The U.S.-Ukraine Business Council [member](https://www.usubc.org/site/usubc-members-and-associate-members-list) has provided millions of dollars worth of cutting edge thermal imaging technology to foreign legionnaires and Ukrainian soldiers on the battlefield.
+ATN-Ukraine, which is helping defenders of Ukraine to see at night and shoot straight, did a lot more than paint Easter eggs for the Orthodox holiday this year. The U.S.-Ukraine Business Council [member](https://www.usubc.org/site/usubc-members-and-associate-members-list) has provided millions of dollars worth of cutting-edge thermal imaging technology to foreign legionnaires and Ukrainian soldiers on the battlefield.
 
 [Image]
 
@@ -3433,9 +3433,9 @@ Ukraine’s military needs are changing as battles shift to Donbas and southern 
 
 When Ukrainian forces [battled Russia-occupation forces](https://www.economist.com/the-economist-explains/2022/02/15/why-donetsk-and-luhansk-are-at-the-heart-of-the-ukraine-crisis) in 2014 their lack of night-vision hampered them. Since then they have been stocking up. America provided a batch of 2,500 military systems in 2018, and other countries have been donating hardware. On April 9, Britain promised to send more night-vision equipment to Ukraine. And although America attempted to strictly control the export of night-vision technology for years, today there are many systems available on the open market, including ATN’s gear, which has been licensed to export to Ukraine. Come Back Alive, a fundraiser for Ukraine’s military, has supplied more than 1,000 thermal imagers since 2014. Other systems may be adapted to see through the gloom, as well.
 
-ATN contraptions can be used as a scope or with a head/helmet mount, or even used on rifles and drones. They are also useful tools for driving, walking, map reading, surveillance, administering, and vehicle maintenance or repair. The IR light-emitting source in these goggles accurately draws the image in dark conditions and with the image intensifier tube, the results get even better.
+ATN contraptions can be used as a scope or with a head/helmet mount, or even used on rifles and drones. They are also useful tools for driving, walking, map reading, surveillance, administration, and vehicle maintenance or repair. The IR light-emitting source in these goggles accurately draws the image in dark conditions and with the image intensifier tube, the results get even better.
 
-The company in April [announced](https://www.prweb.com/releases/2022/04/prweb18593498.htm) shipments of approximately 9,000 night vision and thermal optics being shipped to Ukrainian forces in an effort to help them in the field.
+The company in April [announced](https://www.prweb.com/releases/2022/04/prweb18593498.htm) shipments of approximately 9,000 night-vision and thermal-optics devices shipped to Ukrainian forces in an effort to help them in the field.
 
 “Night optics are critical to the successful defense of Ukraine from the Russian invaders, and we are confident this will be a large step in improving the capabilities of the Ukrainian forces in the field,” Vayn said.
 
@@ -3524,7 +3524,7 @@ I listened to the beginning of London-based practicing philosopher Vladimir Past
 
 ---
 
-Military expert Oleh Zhdadov [assesses](https://www.youtube.com/watch?v=IT1NMIwNDBo) yesterday’s cruise missile attacks on Kyiv and cities in central Ukraine, sez it marks “a new stage” of Russia’s offensive military operation in Ukraine. In other words, the beginning of the end of Phase 2. Phase 3 (counter-offensive) is scheduled to start on May 10[3](#footnote-3).
+Military expert Oleh Zhdanov [assesses](https://www.youtube.com/watch?v=IT1NMIwNDBo) yesterday’s cruise missile attacks on Kyiv and cities in central Ukraine, sez it marks “a new stage” of Russia’s offensive military operation in Ukraine. In other words, the beginning of the end of Phase 2. Phase 3 (counter-offensive) is scheduled to start on May 10[3](#footnote-3).
 
 [1](#footnote-anchor-1)
 
@@ -3708,7 +3708,7 @@ London-based philosopher Volodymyr Pastukhov has this to [say](https://t.me/v_pa
 
 > Putin’s regime has entered the stage of agony. This was the result of a fatal military-political mistake made by the "collective Putin," which I’m starting to think wasn’t actually planning for a war, but for a special operation. But it got into a war, and not with Ukraine, but with NATO. The fact that NATO is fighting remotely only exacerbates the situation.
 >
-> The calculation was precisely based on the fact that there would be no real war. Russia wanted to scare the NATO hedgehog with a naked army, in principle, but they were not ready for a long war. It turned out differently than the planners expected. The Europeans, who had been pretending to be a dead cat for twenty years, suddenly showed bared its fangs and unsheathed its claws. Now every extra month of the war works against Russia, as the number of weapons supplied to Ukraine is growing exponentially, increasing the combat capability of the Ukrainian army, while Russian resources are only decreasing.
+> The calculation was precisely based on the fact that there would be no real war. Russia wanted to scare the NATO hedgehog with a naked army, in principle, but they were not ready for a long war. It turned out differently than the planners expected. The Europeans, who had been pretending to be a dead cat for twenty years, suddenly bared their fangs and unsheathed its claws. Now every extra month of the war works against Russia, as the number of weapons supplied to Ukraine is growing exponentially, increasing the combat capability of the Ukrainian army, while Russian resources are only decreasing.
 >
 > The mousetrap has slammed shut. Russia got into a war that is neither practically nor theoretically possible to win. The hysteria in the Kremlin and the media controlled by it cannot essentially change anything. History does not forgive such mistakes, but puts them in a corner. Russia’s “collective Putin” has three ways out:
 >
@@ -3762,7 +3762,7 @@ To the West of Kyiv is an ocean of flat fields (well, a bracelet of small sparse
 [Image]
 *Don’t Fight in Another Country’s War . By Graeme Wood for The Atlantic. (April 26, 2022)*
 
-I read though Graeme’s article quickly. Yes, volunteer fighters here are loud and annoying and, at times, unhelpful and rude, but, overall, they are good eggs. I haven’t chatted up [Malcolm](https://www.theguardian.com/us-news/2022/apr/29/malcolm-nance-msnbc-pundit-ukraine-soldier-michael-harriot) yet (I think he’s memorizing the cyrilic alphabet and doing undercover stuff in Lviv), but I’ve bumped into several un-kitted up legionnaires and offered tips on everything from procuring night vision goggles, to tipping etiquette at Tootsie’s, running routes, jujitsu holds and local ibogaine treatment centers. Graeme’s expertise on anything Ukraine is obvi not ideal, but it would be churlish for me to hold that against him. If we can forgive Sabrina and Keith, we can forgive Graeme, too[1](#footnote-1).
+I read though Graeme’s article quickly. Yes, volunteer fighters here are loud and annoying and, at times, unhelpful and rude, but, overall, they are good eggs. I haven’t chatted up [Malcolm](https://www.theguardian.com/us-news/2022/apr/29/malcolm-nance-msnbc-pundit-ukraine-soldier-michael-harriot) yet (I think he’s memorizing the cyrilic alphabet and doing undercover stuff in Lviv), but I’ve bumped into several un-kitted up legionnaires and offered tips on everything from procuring night-vision goggles, to tipping etiquette at Tootsie’s, running routes, jujitsu holds and local ibogaine treatment centers. Graeme’s expertise on anything Ukraine is obvi not ideal, but it would be churlish for me to hold that against him. If we can forgive Sabrina and Keith, we can forgive Graeme, too[1](#footnote-1).
 
 The same goes for Katie, who, along with dozens of foreign journalists, filed profoundly confusing and kooky reports from Donetsk basements when Russia-occupation forces invaded eastern Ukraine in 2014. Her article appearing in The Atlantic on April 30, 2022, titled “[Putin Isn’t the Only Autocrat Misusing History](https://www.theatlantic.com/ideas/archive/2022/04/russia-propaganda-influences-north-korea-china/629627/),” jogged memories of jingoism-free reportages from Donbas at the start of the war, [including her own for Sky News in 2014](https://news.sky.com/story/ukraine-villagers-trapped-between-battle-lines-10390309), which completely misrepresented the conflict. Tavernise syndrome, slightly adulterated no-Kremlin-fingerprint bullshit[2](#footnote-2).
 
@@ -4003,7 +4003,7 @@ Dozens of gas-guzzling sedans ferried courageous U.S. diplomats to the second la
 
 ---
 
-There’s has been lots of speculation about what Putin plans to say in his May 9, 2022 speech. Sorry, not interested. [Jill is, tho, and so is Abby](https://twitter.com/InsidePolitics/status/1523369642688974853).
+There has been lots of speculation about what Putin plans to say in his May 9, 2022 speech. Sorry, not interested. [Jill is, tho, and so is Abby](https://twitter.com/InsidePolitics/status/1523369642688974853).
 
 [Image]
 
@@ -4034,7 +4034,7 @@ I practically never look at the greasy [rag](https://www.kyivpost.com/) anymore,
 
 No one is sure what’s going on, including Uncle Joe, who has reportedly told Tiger Team to stop leaking information[1](#footnote-1) about what intelligence America’s spy agencies are sharing with Ze. Leaked intelligence, as we all know, is a *double entendre*, that is, open to two interpretations, one of which is usually indecent or risqué, in this case the latter. Just ask [Oleksiy](https://www.youtube.com/channel/UCjWy2g76QZf7QLEwx4cB46g). It’s his specialty.
 
-There are upsides[2](#footnote-2) and downsides[3](#footnote-3) to throwing operation security out the window, depending if you’re a legionnaire standing in the dark near a wooded area between open fields on the outskirts of [Ruska Lozova,](https://en.wikipedia.org/wiki/Ruska_Lozova) or merely a voyeur pundit staking out a large Beltway bathroom.
+There are upsides[2](#footnote-2) and downsides[3](#footnote-3) to throwing operation security out the window, depending on whether you’re a legionnaire standing in the dark near a wooded area between open fields on the outskirts of [Ruska Lozova,](https://en.wikipedia.org/wiki/Ruska_Lozova) or merely a voyeur pundit staking out a large Beltway bathroom.
 
 Which, apropos of this murky stage of the war, brings me to [Fred](https://en.wikipedia.org/wiki/Frederick_Kagan), who joins [Andriy](https://en.wikipedia.org/wiki/Andriy_Yermak) at [Time Magazine](https://time.com/6174713/ukraine-war-free-people/)’s *urinoir*.
 
@@ -4044,7 +4044,7 @@ I still haven’t gotten over Andriy’s zillion-word op-ed appearing in this gr
 
 [Image]
 
-It wouldn’t make a difference if he had wrote “the first world order *never.*”
+It wouldn’t make a difference if he had written “the first world order *never.*”
 
 Enter [David](https://www.theatlantic.com/ideas/archive/2022/03/russian-military-power-weakness-ukraine/623323/), who recently opined that [Russia’s Initial Failures Don’t Mean Ukraine Will Survive](https://www.theatlantic.com/ideas/archive/2022/03/russian-military-power-weakness-ukraine/623323/).
 
@@ -4115,7 +4115,7 @@ Remember what we said on Day 11[2](#footnote-2) and February 19, 2022[3](#footno
 
 ---
 
-Looking on the positive side, a legionnaire associated with Detachment A[4](#footnote-4) sent me some snaps yesterday of the kids unloading a fresh shipment of smart night thermal optics, binoculars and scopes.
+Looking on the positive side, a legionnaire associated with Detachment A[4](#footnote-4) sent me some snaps yesterday of the kids unloading a fresh shipment of smart night-vision thermal optics, binoculars and scopes.
 
 [Image]
 
@@ -4265,7 +4265,7 @@ This bloody mess is starting to remind me of the last [Det-A](https://detachment
 Those in the U.S. intelligence community who thought Russia would steamroll Ukraine into submission should resign. Yesterday.
 
 [Image]
-*America’s cheesy approach towards Ukraine was on full display on Tuesday during the public portion threats hearing at the Senate Armed Services Committee*
+*America’s cheesy approach towards Ukraine was on full display on Tuesday during the public portion of the threats hearing at the Senate Armed Services Committee*
 
 ---
 
@@ -4471,7 +4471,7 @@ More than half of Kherson region’s one million residents fled after Russia too
 On May 15, Olekslandr Karpiuk shared his thoughts about the disaster in a 48-minute long [rant](https://www.facebook.com/serg.marco/videos/473785101212594) posted to Facebook. Defense Express writes about it [here](https://defence-ua.com/minds_and_ideas/chomu_ne_pidirvali_mosti_z_krimu_pro_rozminuvannja_chongaru_ta_scho_vidbuvalos_u_pershi_dni_vtorgnennja_rf_na_pivdni_serg_marco-7373.html).
 
 [Image]
-*Oleksandr Pavliuk with a nifty set of night vision goggles*
+*Oleksandr Pavliuk with a nifty set of night-vision goggles*
 
 Oleksandr — now equipped with a new set of NVGs (are those a pair of [ATN PS-31 3s?](https://www.prweb.com/releases/2022/04/prweb18593498.htm)) — is a volunteer fighter with lots of combat experience. He’s followed by almost 60,000 fans.
 
@@ -5182,7 +5182,7 @@ At least, according to this [story](https://www.nytimes.com/live/2022/06/06/worl
 
 Last time I checked, Thomas Gibbons-Neff [served](https://www.nytimes.com/by/thomas-gibbons-neff) in the U.S. military, so it’s possible he knows what he’s talking about. He was a Marine, though, so it’s also possible he doesn’t.
 
-I don’t know what Ukraine’s version of [TRADOC](https://www.tradoc.army.mil/) is and how effective it is training up soldiers to use gifted gear. But using smart optics, night vision goggles and rifle scopes isn’t exactly rocket science, especially if your life defends on it.
+I don’t know what Ukraine’s version of [TRADOC](https://www.tradoc.army.mil/) is and how effective it is training up soldiers to use gifted gear. But using smart optics, night-vision goggles and rifle scopes isn’t exactly rocket science, especially if your life defends on it.
 
 [Image]
 *Boxes of ATN BinoX thermal bioculars (Photo c/o ATN-Ukraine )*
@@ -5869,7 +5869,7 @@ Evgeny Schwartz’s play Дракон ([The Dragon](https://a7sharp9.com/dragon.
 
 So now Zelensky is Lancelot and Putin is the Dragon?
 
-If I understand correctly, the night vision goggles, HIMARS, Baretta machine guns, counterbattery radar systems and sniper rifles received by Z’s Beautiful Maiden are allegorical representations of the various gifts — magic carpet, invisibility cap, energy drinks, etc — the handlers in Schwartz’s play bestowed on Lancelot.
+If I understand correctly, the night-vision goggles, HIMARS, Baretta machine guns, counterbattery radar systems and sniper rifles received by Z’s Beautiful Maiden are allegorical representations of the various gifts — magic carpet, invisibility cap, energy drinks, etc — the handlers in Schwartz’s play bestowed on Lancelot.
 
 I drew a blank on God’s plan. I remember Z [saying](https://www.youtube.com/watch?v=fwuOfFlLn88&ab_channel=%D0%92%D0%B3%D0%BE%D1%81%D1%82%D1%8F%D1%85%D1%83%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D0%B0) [49.32] that he speaks with a supernatural entity and that these conversations are too intimate to divulge, publicly. You’ll have to ask him for the details, privately.
 
