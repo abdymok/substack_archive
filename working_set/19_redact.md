@@ -185,7 +185,7 @@ lesya hasn’t made the archive public yet, so we have to rely on her and bihus.
 
 *Date: 2019-03-31 | Status: Published | Audience: only_paid*
 
-*poroshenko, zelensky, tymoshenko: 25%, 23%, 17%, respectively.*
+*poroshenko, Z, tymoshenko: 25%, 23%, 17%, respectively.*
 
 Z, poroshenko, tymoshenko: 30%, 20%, 10%, respectively.
 
