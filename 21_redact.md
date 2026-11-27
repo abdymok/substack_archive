@@ -127,7 +127,7 @@ Whatever. Welcome to the world of ultra-competitive Ukraine-style politics.
 
 Secret state security services these days are walking a tightrope. Any miscalculation, could result in a hilarious failure, such as the recent botched attempt to liquidate Alexey Navalny, or a bloody mess, like the [Battle of Kassam](https://en.wikipedia.org/wiki/Battle_of_Khasham).
 
-OPSEC fuck ups in former Soviet states in recent years have been manifold. They demonstrate nothing is more corrosive than official anonymity, a TOP SECRET clearance with access to sensitive compartmented information (SCI). Not leaving digital clues has become harder, further complicating the enterprise of carrying out clandestine fuckery without without getting caught.
+OPSEC fuck ups in former Soviet states in recent years have been manifold. They demonstrate nothing is more corrosive than official anonymity, a TOP SECRET clearance with access to sensitive compartmented information (SCI). Not leaving digital clues has become harder, further complicating the enterprise of carrying out clandestine fuckery without getting caught.
 
 Crusaders like Julian Assange and Eduard Snowden a decade ago warned about Big Brother wanting to monitor our phone calls and track our movements. The information age has instead allowed anyone with a computer, a decent Internet connection and a couple thousand dollars to keep track of would-be guardians of the state. Shadowing inept operatives has never been easier or more entertaining.
 
