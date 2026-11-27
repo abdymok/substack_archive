@@ -789,7 +789,7 @@ According to the post, on January 31 and February 8, 2020, Secretary of the Nati
 
 [Image]
 
-SAPO said the information on the possible commission of a criminal offense was entered into the Unified Register of Pretrial Investigations on the grounds of a crime under Part 2 of Article 367 of Ukraine's Criminal Code on March 23, 2020. In accordance with Article 214 of Ukraine’s Criminal Procedure Code of Ukraine. Investigation of the matter was entrusted to investigators of the central office of Ukraine's State Bureau of Investigations (SBI).
+SAPO said the information on the possible commission of a criminal offense was entered into the Unified Register of Pretrial Investigations on the grounds of a crime under Part 2 of Article 367 of Ukraine's Criminal Code on March 23, 2020. In accordance with Article 214 of Ukraine’s Criminal Procedure Code. Investigation of the matter was entrusted to investigators of the central office of Ukraine's State Bureau of Investigations (SBI).
 
 Honcharuk served as Prime Minister of Ukraine from August 29, 2019 to March 4, 2020.
 
@@ -819,7 +819,7 @@ He also accused Yemets of blocking the work of Medical Procurements of Ukraine.
 
 > “Purchases have been blocked by the Health Ministry for three weeks… You have tied [unblocking] it to the appointment of your protégé. You now have to bear responsibility for this. …You told me this in the courtyard of the Health Ministry last Friday. Good. Let it be," he [added](https://www.facebook.com/photo.php?fbid=10157442023134580&set=a.10152314239194580&type=3&theater).
 
-Yemets knows Ukraine’s health care system stinks. He said in this interview that it’s resources should be used to benefit citizens under the age of 65. As far as he’s concerned, anyone older can [drop dead](https://censor.net.ua/n3184427).
+Yemets knows Ukraine’s health care system stinks. He said in this interview that its resources should be used to benefit citizens under the age of 65. As far as he’s concerned, anyone older can [drop dead](https://censor.net.ua/n3184427).
 
 > “I urge not only the state, but also businesses in Ukraine work with us to make sure that our tests - both express (PCR) and serological - are in adequate supply for all Ukrainians. We know statistics, how many people are over 65 years old. Although it's a shame, the average life expectancy for men, in my opinion, is 65. Therefore, I will say frankly that financiers who should help us are counting people who are still alive. I'm not joking and I'm not scaring anyone. I tell them the following often: Calculate what we need to spend on living people, not corpses," he said.
 
@@ -898,7 +898,7 @@ Deputy Prime Minister, Minister of Digital Transformation Mykhailo Fedorov will 
 
 ---
 
-Shmyhal said that as there is no first deputy prime minister at the moment, he would responsible for the economic bloc, energy, justice and the Ministry of Internal Affairs.
+Shmyhal said that as there is no first deputy prime minister at the moment, he would be responsible for the economic bloc, energy, justice and the Ministry of Internal Affairs.
 
 [Image]
 
@@ -1012,7 +1012,7 @@ Health officials have since reported positive confirmed test results for COVID-1
 [Image]
 *US Secretary of State Mike Pompeo meets Z in Kyiv (January 30, 2020)*
 
-On January 31, 2019, Z [declared](https://www.president.gov.ua/en/news/glava-derzhavi-postaviv-nizku-zavdan-kabinetu-ministriv-z-me-59533?fbclid=IwAR0b_JJ8MvMwFhAxs3H5IMbzQYJ4TXvrTrLkK7CYG_e0R_wip2kvdrzzdzs) to Ukrainians and the world that the spread of coronavirus (COVID-19) in Ukraine was “completely controlled and remained in the field of his constant attention.”
+On January 31, 2020, Z [declared](https://www.president.gov.ua/en/news/glava-derzhavi-postaviv-nizku-zavdan-kabinetu-ministriv-z-me-59533?fbclid=IwAR0b_JJ8MvMwFhAxs3H5IMbzQYJ4TXvrTrLkK7CYG_e0R_wip2kvdrzzdzs) to Ukrainians and the world that the spread of coronavirus (COVID-19) in Ukraine was “completely controlled and remained in the field of his constant attention.”
 
 The president said Ukrainian health officials were continuously monitoring the spread of the virus abroad and taking preventive measures inside the country.
 
