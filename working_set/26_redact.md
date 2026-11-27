@@ -16,7 +16,7 @@
 
 A year to forget, or a year to regret?
 
-[The New York Times](https://www.nytimes.com/interactive/2025/12/30/world/europe/ukraine-war-us-russia.html) on December 31, ran a 18,500-word article about how Team USA has helped Team Russia prolong its 12-year long genocidal war against Ukraine[1](#footnote-1). On January 1, 2025, the newspaper ran a 9,800-word article about AI and drone warfare, mostly in Ukraine[2](#footnote-2). I skimmed both.
+[The New York Times](https://www.nytimes.com/interactive/2025/12/30/world/europe/ukraine-war-us-russia.html) on December 31, ran an 18,500-word article about how Team USA has helped Team Russia prolong its 12-year-long genocidal war against Ukraine[1](#footnote-1). On January 1, 2025, the newspaper ran a 9,800-word article about AI and drone warfare, mostly in Ukraine[2](#footnote-2). I skimmed both.
 
 [Image]
 
@@ -44,7 +44,7 @@ The Dnipro River looks frozen solid. Didn’t see any ice fishermen.
 
 The thermoelectric stations in the distance appear to be working. That Moscow has been unable to blow them to smithereens is a testament to the incompetence of the Russian military or Ukraine’s air defense, or both.
 
-Re-listened to Judea Pearl Judea Pearl talking about the probabilistic approach to artificial intelligence and the development of Bayesian networks, as well as his theory of casual and counterfactual interference based on structural models.
+Re-listened to Judea Pearl talking about the probabilistic approach to artificial intelligence and the development of Bayesian networks, as well as his theory of causal and counterfactual inference based on structural models.
 
 [Video: https://youtu.be/9VsTpsD\_dP0]
 
@@ -102,7 +102,7 @@ Yesterday, Russia launched several ballistic missiles at the center of Kharkiv, 
 
 [Video: https://youtu.be/PpZEzkrwYHc]
 
-Rescue dogs have found three bodies, including a 3-year old. There are probably more dead people under the rubble.
+Rescue dogs have found three bodies, including a 3-year-old. There are probably more dead people under the rubble.
 
 [Image]
 
@@ -144,11 +144,11 @@ Ex Prime Minister Shmyhal turned Defense Minister is now Energy Minister. Milita
 
 Confused?
 
-Don’t be. Looking on the bright side, there will no elections or referendums, just endless bullshit about holding them.
+Don’t be. Looking on the bright side, there will be no elections or referendums, just endless bullshit about holding them.
 
 [Image]
 
-*Ukrainian Politics Has Reawakened. Z Must Tread Carefully. The Ukrainian leader is reshuffling his cabinet as a corruption scandal reshapes the political landscape at a pivotal point in peace negotiations ( The New York Times , January 4, 2026)*
+*Ukrainian Politics Has Reawakened. Z Must Tread Carefully. The Ukrainian leader is reshuffling his cabinet as a corruption scandal reshapes the political landscape at a pivotal point in peace negotiations (The New York Times, January 4, 2026)*
 
 The above article is bonkers. The author has obvi not chatted up Roman Chervinsky, Ruslan Magomedrasulov, Oleksandr Zholobetsky, etc.
 
@@ -228,7 +228,7 @@ The last thing you want during a war is to slip and break your hip. On days like
 
 [Image]
 
-*Coalition of the Willing (c/o President’s Office , Paris, January 6, 2026)*
+*Coalition of the Willing (c/o President’s Office, Paris, January 6, 2026)*
 
 The joker on the far right is ex-convict Charlie Kushner, who in 2005 was sentenced to two years in prison for tax evasion, illegal campaign contributions, and witness tampering—he hired a prostitute to seduce his brother-in-law cooperating with federal investigators, arranged for the encounter to be recorded, and then sent the tape to his sister in an attempt to intimidate them and prevent their testimony against him. Charlie today is US ambassador to France. His as-yet-unconvicted son Jared and Z took part in a press conference following the Paris affair, along with Trump's idiot special envoy Steve Witkoff.
 
@@ -250,7 +250,7 @@ There is the ice we navigate each morning on the downhill route to wherever we m
 
 A thin coat of snow over ice makes running less slippery.
 
-I spent six years in the US military, the last two unvoluntarily. Towards the end of my one and only *overseas* *tour,* Reagan thought it was a great idea to assault Grenada. [Operation Fury](https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada) it was called. The farcical stunt killed 19 American invaders, at least three in a Blackhawk helicopter crash and others in friendly-fire incidents.
+I spent six years in the US military, the last two involuntarily. Towards the end of my one and only *overseas* *tour,* Reagan thought it was a great idea to assault Grenada. [Operation Fury](https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada) it was called. The farcical stunt killed 19 American invaders, at least three in a Blackhawk helicopter crash and others in friendly-fire incidents.
 
 That's what came to mind reading about Trump's Venezuelan adventure, wherein a Chinook gets shot three times while buzzing Caracas, the flight leader takes one in the leg, and the whole thing nearly goes sideways[1](#footnote-1).
 
@@ -258,7 +258,7 @@ That's what came to mind reading about Trump's Venezuelan adventure, wherein a C
 
 ------------------------------------------------------------------------
 
-On the Ukraine file, Andrew's writing about the intelligence shuffle at SBU and GUR, working the angle that Z's sidelining popular generals ahead of possible elections. Actually, no—according to clientele at [Tootsie Club](https://en.tootsie.kiev.ua/), where foreign flaks should cultivate reliable sources. The article reminds me of *disinfo* appearing in [zn.ua](http://zn.ua) remarking that [Financial Times](https://www.ft.com/content/73140502-f8e1-427e-b70a-04e2489cae67) flaks obvi **don’t understand what they are writing about** when in comes to ultra-competitive Ukraine-style politics[2](#footnote-2).
+On the Ukraine file, Andrew's writing about the intelligence shuffle at SBU and GUR, working the angle that Z's sidelining popular generals ahead of possible elections. Actually, no—according to clientele at [Tootsie Club](https://en.tootsie.kiev.ua/), where foreign flaks should cultivate reliable sources. The article reminds me of *disinfo* appearing in [zn.ua](http://zn.ua) remarking that [Financial Times](https://www.ft.com/content/73140502-f8e1-427e-b70a-04e2489cae67) flaks obvi **don’t understand what they are writing about** when it comes to ultra-competitive Ukraine-style politics[2](#footnote-2).
 
 > Питання тільки в тому, чи розуміє це тепер уже колишній начальник ГУР Кирило Буданов. Видання *Financial* *Times* дуже [помиляється](https://www.ft.com/content/73140502-f8e1-427e-b70a-04e2489cae67)[3](#footnote-3), стверджуючи, нібито Зеленський місяць умовляв Буданова очолити його офіс. Це не так. Буданов хотів цього статусу. І ті самі 12 пунктів, які він приніс президенту, — пряме підтвердження цього[4](#footnote-4).
 
@@ -292,7 +292,7 @@ So: helicopters shot up over Caracas, tankers seized in international waters, Ru
 
 *Photo c/o abdymok (January 8, 2026)*
 
-I caught the third wave (or was it the fourth?) of missiles reaching their destination in Kyiv with an Iphone, but posting the moving pics now would give away our Gravehawk positions. The latest attack, which started around 1 a.m. was loud and annoying and deadly.
+I caught the third wave (or was it the fourth?) of missiles reaching their destination in Kyiv with an iPhone, but posting the moving pics now would give away our Gravehawk positions. The latest attack, which started around 1 a.m. was loud and annoying and deadly.
 
 [Image]
 
@@ -470,15 +470,15 @@ Saboteurs early this morning torched two sedans in the parking lot of the swanky
 
 [Image]
 
-*Photo c/o abdymok , fixed w/ ai (January 11, 2026)*
+*Photo c/o abdymok, fixed w/ AI (January 11, 2026)*
 
-When I asked for a better Black Woodpecker pic, ai coughed this up:
+When I asked for a better Black Woodpecker pic, AI coughed this up:
 
 [Image]
 
 *ibidem*
 
-Lol ) The wrong half of the moon is visible[1](#footnote-1).
+Lol) The wrong half of the moon is visible[1](#footnote-1).
 
 Woke up to an inspirational clip:
 
@@ -496,7 +496,7 @@ Only two months before Spring!
 
 ------------------------------------------------------------------------
 
-On the Ukraine jacket, government [is awarding strip mining contracts](https://www.reuters.com/world/europe/ukraine-picks-us-linked-investors-develop-dobra-lithium-deposit-2026-01-12/) to weathly investors connected to Drump[2](#footnote-2).
+On the Ukraine jacket, government [is awarding strip mining contracts](https://www.reuters.com/world/europe/ukraine-picks-us-linked-investors-develop-dobra-lithium-deposit-2026-01-12/) to wealthy investors connected to Drump[2](#footnote-2).
 
 Z is looking forward to the beano at Davos this year:
 
@@ -528,13 +528,13 @@ Four killed, scores wounded.
 
 [Image]
 
-*Russian attack on January 13, 2026 (Graphic c/o Strategic Aviation )*
+*Russian attack on January 13, 2026 (Graphic c/o Strategic Aviation)*
 
 So, yesterday’s attack complicated an already bad situation. CHP-5, the central heating and electricity plant, isn’t pumping out enough heat and electricity to provide for Kyiv districts on the western side (Right Bank) of the Dnipro. This has led to unscheduled emergency blackouts, even for critical infrastructure, closure of supermarkets, suspension of electrified bus/trolley service, et cetera = misery for hundreds of thousands, what we whined about on Day 1416[1](#footnote-1).
 
 [Image]
 
-*Freezing our way to victory! (Photo c/o abdymok , made to look colder c/o ai. January 13, 2026)*
+*Freezing our way to victory! (Photo c/o abdymok, made to look colder c/o AI. January 13, 2026)*
 
 And I didn’t even mention the situation on the Left Bank, which is even worse. **The January 9th strikes knocked out power to 70% of Kyiv, with Moscow’s stated aim to “disconnect the city” entirely according to Ukrenergo.** Some neighborhoods on have been without reliable electricity for days now—emergency services have graciously set up warming tents with hot food stations, because apparently we’ve time-traveled back to the siege warfare era. Z calls them “Points of Invincibility”—complete with hot drinks, charging stations, and a warm welcome. Nothing says invincibility quite like huddling in a tent for basic human warmth. **In December, Kyiv residents averaged a delightful 9.5 hours without electricity per day.**
 
@@ -546,7 +546,7 @@ And I didn’t even mention the situation on the Left Bank, which is even worse.
 
 [Image]
 
-*Combined Heat and Power Plant \#5 (Photo c/o abdymok , January 12, 2026)*
+*Combined Heat and Power Plant \#5 (Photo c/o abdymok, January 12, 2026)*
 
 It’s warmer if you keep moving, but being in perpetual motion burns a lot of calories and people get tired. **Over 700,000 consumers lost power in the past week before it was gradually restored.** The attacks on January 9th were described as “one of the most massive attacks on the capital’s energy infrastructure,” with Deputy Energy Minister Mykola Kolisnyk helpfully noting that **Russia is “going all in” to destroy Ukraine’s power system, launching attacks just five days apart.** The intention is crystal clear—as one resident cheerfully noted, “they’re trying to freeze us.” At least they waited for the cold snap.
 
@@ -592,7 +592,7 @@ According to Adam, Drump pledged 83 times to change the algorithm without succes
 
 [Image]
 
-*6 Takeaways on the Unwinding U.S.-Ukraine Alliance . A Times investigation reveals the inside story of the Trump administration’s chaotic push for a peace deal and its erratic role in the war ( The New York Times , December 30, 2025)*
+*6 Takeaways on the Unwinding U.S.-Ukraine Alliance. A Times investigation reveals the inside story of the Trump administration’s chaotic push for a peace deal and its erratic role in the war (The New York Times, December 30, 2025)*
 
 ------------------------------------------------------------------------
 
@@ -620,7 +620,7 @@ Other pics are [here.](https://t.me/lossolomas_kyiv/91407?single)
 
 [Image]
 
-*Photo c/o abdymok , weird-looking missiles c/o ai (January 16, 2026)*
+*Photo c/o abdymok, weird-looking missiles c/o AI (January 16, 2026)*
 
 Lots of light this morning from the balcony, but an air alert has just sounded, and it could go dark shortly. The citiy’s electricity wizards switched power back on at around 19:00 … for the entire night. The heat is on and we have running water.
 
@@ -680,7 +680,7 @@ I just read a crazy article by [CNN](http://cnn.com) about how much fun it is to
 
 [Image]
 
-*Photo c/o abdymok c/o ai*
+*Photo c/o abdymok c/o AI*
 
 # Weakness Demands Annexation
 
@@ -834,7 +834,7 @@ The brass fittings won’t shine themselves.
 
 [Image]
 
-*Illustration by abdymok w/ ai (January 21, 2026)*
+*Illustration by abdymok w/ AI (January 21, 2026)*
 
 Running water returned this morning. Heating too. Electricity. I took a long shower—the kind you take when you’re not sure when the next one might be—then made the catastrophic decision to set up a Xiaomi Smart Electric Hot Water Dispenser via Wi-Fi at 5:00 a.m.
 
@@ -914,7 +914,7 @@ The real danger in Kyiv isn’t freezing to death—it’s being impaled by fall
 
 [Image]
 
-*Photo c/o abdymok augmented w/ ai (January 20, 2026)*
+*Photo c/o abdymok augmented w/ AI (January 20, 2026)*
 
 KonMari sent me a link to the speech by Canada’s PM Carney at Davos this year.
 
@@ -1114,7 +1114,7 @@ Since it was [Z’s birthday](https://www.pravda.com.ua/eng/news/2025/01/25/7492
 
 [Image]
 
-*Photo by abdymok , ai c/o ChatGpt (January 26, 2026)*
+*Photo by abdymok, AI c/o ChatGPT (January 26, 2026)*
 
 The [Renaissance Hotel](https://en.wikipedia.org/wiki/Fairmont_Grand_Hotel_Kyiv) ablaze in the stamp’s background is a monument to the hubris of the jackass who built the edifice for \$95 million in 2010, around the time his [Kyiv Post](https://www.kyivpost.com/) vanity project undercut everyone else’s English-language Ukraine news and threw in access to PDF versions of old issues they deleted from their archive twenty years ago.
 
@@ -1210,15 +1210,15 @@ We’re all about maintenance these days, having realized that the only way to m
 
 [Image]
 
-*Photo c/o abdymok c/o ai (January 28, 2026)*
+*Photo c/o abdymok c/o AI (January 28, 2026)*
 
 Sigh.
 
 [Image]
 
-*US links security guarantees for Ukraine to peace deal ceding territory . Washington signalled Kyiv would receive more backing after any withdrawal from the Donbas, say people familiar with talks ( The Financial Times , January 27, 2026)*
+*US links security guarantees for Ukraine to peace deal ceding territory. Washington signalled Kyiv would receive more backing after any withdrawal from the Donbas, say people familiar with talks (The Financial Times, January 27, 2026)*
 
-Who, namely, indicated this *contingency*, and when? What *security guarantees*? Why would anyone trust *bodyguard paperwork* signed by Drump? If memory serves, at least three of the four authors of this article in 2014 didn’t even realize — or write at the time — that Russia was invading Ukraine, until at least 2018. Why should we take anything they say now about about the war seriously?
+Who, namely, indicated this *contingency*, and when? What *security guarantees*? Why would anyone trust *bodyguard paperwork* signed by Drump? If memory serves, at least three of the four authors of this article in 2014 didn’t even realize — or write at the time — that Russia was invading Ukraine, until at least 2018. Why should we take anything they say now about the war seriously?
 
 Ukraine will not *cede the Donbas region to Russia*.
 
@@ -1238,7 +1238,7 @@ In Ukraine when sirens designed specifically to wake you up before you become pa
 
 [Image]
 
-*Special dispatch: I was caught in a Russian attack last night – this is Ukraine’s brutal reality as talks grind on ( The Independent , January 28, 2026)*
+*Special dispatch: I was caught in a Russian attack last night – this is Ukraine’s brutal reality as talks grind on (The Independent, January 28, 2026)*
 
 *Don’t stay in hotels. Stay awake. Stay un-exploded.*
 
@@ -1348,7 +1348,7 @@ Almost thirteen years ago this February, hours before the massacre, politicians 
 
 [Image]
 
-*Photo c/o abdymok c/o ai (February 21, 2014)*
+*Photo c/o abdymok c/o AI (February 21, 2014)*
 
 But the people on Independence Square took the intentional stance toward themselves. They had beliefs about dignity. Desires for sovereignty. And they decided—rationally, given those beliefs and desires—to refuse the deal opposition leaders had just accepted.
 
@@ -1512,7 +1512,7 @@ For reasons that should have been glaringly obvious four years ago, we remain to
 
 Hours earlier, Z also sounded ebullient.
 
-> “The de-escalation measures ... are helping to build public trust in the negotiation process and its possible outcome.” - [Z](https://t.me/V_Zelenskiy_official/17833) (pep talk, February 2, 2026)
+> “The de-escalation measures... are helping to build public trust in the negotiation process and its possible outcome.” - [Z](https://t.me/V_Zelenskiy_official/17833) (pep talk, February 2, 2026)
 
 As of this writing, Russia has hit a high-rise residential building in the middle of Kyiv. Five districts of the capital reported strikes. Two districts, more than 1,100 high-rise residential buildings, are without heat. The temperature is -25°C. De-escalation is going splendidly.
 
@@ -1526,7 +1526,7 @@ De-escalation map (February 3, 2026)
 
 [Image]
 
-*Daten und Analyse: Marcus Welsch Analysen zum Schutz ukrainischer Städte und Infrastruktur ( MONITOR LUFTKRIEG UKRAINE, January 2026)*
+*Daten und Analyse: Marcus Welsch Analysen zum Schutz ukrainischer Städte und Infrastruktur (MONITOR LUFTKRIEG UKRAINE, January 2026)*
 
 **OUTLOOK (AUSBLICK) 2026**
 
@@ -1644,7 +1644,7 @@ In other news, postponed trilateral peace talks moderated by Trump’s son-in-la
 
 [Image]
 
-*Russia and Ukraine Resume Talks After a Huge Attack by Moscow. U.S., Russian and Ukrainian negotiators are meeting in the United Arab Emirates, but Russia continues to pummel Ukraine and has not softened demands that Kyiv calls unacceptable ( The New York Times , February 4, 2026)*
+*Russia and Ukraine Resume Talks After a Huge Attack by Moscow. U.S., Russian and Ukrainian negotiators are meeting in the United Arab Emirates, but Russia continues to pummel Ukraine and has not softened demands that Kyiv calls unacceptable (The New York Times, February 4, 2026)*
 
 ------------------------------------------------------------------------
 
@@ -1682,7 +1682,7 @@ Which reminds me: I wanted to ask AI to fix that photo of Oleh passing out pitch
 
 [Image]
 
-*Photo c/o abdymok enchanted w/ ai (February 2014)*
+*Photo c/o abdymok enchanted w/ AI (February 2014)*
 
 I'll ask him about news photography ethics and AI over Mukuzani. The woman claiming to be [KonMari](https://konmari.com/?srsltid=AfmBOoojzkEQS0SIAoCZdKMPfU5RoHZ9s-p2lDHJecqag0fFvdk8qhTA) managing this Substack says I should always indicate when AI was used to *enchant* the photo. She keenly observed that my most famous photo from February 17, 2024, with something like 24,000 views, was altered with a free version of [Prisma](https://play.google.com/store/apps/details/Prisma_Art_Effect_Photo_Editor?id=com.neuralprisma&hl=uk).
 
@@ -1746,7 +1746,7 @@ I’ve decided to enchant at least one old pic a day with AI.
 
 [Image]
 
-*Photo c/o abdymok , enchanted with AI (late 2013, Independence Square, Kyiv)*
+*Photo c/o abdymok, enchanted with AI (late 2013, Independence Square, Kyiv)*
 
 ChatGPT did a great job sharpening the scythe.
 
@@ -1864,7 +1864,7 @@ Better to theorize about “narrative escalation dominance” than to note that 
 
 The problem with treating narrative as strategy: eventually someone has to keep the lights on.
 
-When your actual strategy has been to loot the energy infrastructure while opining about about resilience, you end up celebrating €765 worth of electricity as if it were the Marshall Plan.
+When your actual strategy has been to loot the energy infrastructure while opining about resilience, you end up celebrating €765 worth of electricity as if it were the Marshall Plan.
 
 ------------------------------------------------------------------------
 
@@ -1920,7 +1920,7 @@ On my Iphone as I write is a screenshot from [Vatican News](http://vaticannews.v
 
 [Image]
 
-*The Pope’s solidarity amid Ukraine’s freezing winter . Pope Leo has arranged for the delivery of 80 electricity generators, along with medicine and food supplies, to Ukraine ( Vatican News , February 10, 2026)*
+*The Pope’s solidarity amid Ukraine’s freezing winter. Pope Leo has arranged for the delivery of 80 electricity generators, along with medicine and food supplies, to Ukraine (Vatican News, February 10, 2026)*
 
 Eighty generators. For a country of 37 million people. That’s one generator per 462,500 people.
 
@@ -1992,7 +1992,7 @@ That’s the actual story of Kyiv’s freeze—practical, unglamorous, the kind 
 
 After accompanying police on welfare checks in neighborhoods on the left (eastern) bank of the Dnipro. [The New York Times](http://nyt.com) ran a print story about our adventure, with weeks-old video, headlining the suffering of residents freezing in their apartments[1](#footnote-1). The convoy of suffering tableaux was accompanied by a [105-second video](https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html?searchResultPosition=3) of Andrew — NYT’s bureau chief— saying that he “really has a sense of Kyiv unravelling.”
 
-Meanwhile, Simon dropped dropped his Atlantic [tech-optimism fantasy](https://archive.ph/qwOZx#selection-611.0-617.68) about laser cannons. Both stories arrived precisely on February 10, 2026, when investigation would be awkward and atmosphere would be safe[2](#footnote-2). Access for deference.
+Meanwhile, Simon dropped his Atlantic [tech-optimism fantasy](https://archive.ph/qwOZx#selection-611.0-617.68) about laser cannons. Both stories arrived precisely on February 10, 2026, when investigation would be awkward and atmosphere would be safe[2](#footnote-2). Access for deference.
 
 What else happened February 10th? US Ambassador to NATO Matthew Whitaker—former Iowa toilet-scam lawyer turned Trump loyalist—declared peace in Ukraine "as close as it's ever been." "I think we should continue to pray for peace," Whitaker said, "but at the same time, make sure Ukraine continues to have … all they need to defend themselves."
 
@@ -2060,7 +2060,7 @@ Har, har.
 
 [Image]
 
-*Enchanted c/o ai (February 12, 2026)*
+*Enchanted c/o AI (February 12, 2026)*
 
 In an ideal world, the three journalists who co-authored yesterday’s piece in the *Financial Times* would resign. But we don’t live in an ideal world.
 
@@ -2296,7 +2296,7 @@ A correct prescription administered to a patient whose institutions have been re
 
 [Image]
 
-*Trump Pizza Station, aka Nolan r.i.p. (Photo c/o abdymok )*
+*Trump Pizza Station, aka Nolan r.i.p. (Photo c/o abdymok)*
 
 At approximately the same hour, [the chat window](https://www.youtube.com/watch?v=JFUtzDPo0YA) of a Ukrainian-language broadcast was in full philosophical session. Pany Renata was welcoming arrivals with small hug emojis and reminding the assembly that Z-symbols were not permitted. Ihor Cherepanya was proposing Roman Chervinsky for Minister of Defense. Someone from Kryvyi Rih announced himself. Flowers were distributed.
 
@@ -2584,7 +2584,7 @@ Anent the infographic whipped up by Notebook LM for this week, the daughter of f
 
 [Image]
 
-*Photo enchanted with AI (c/o abdymok , February 21, 2014, taken from the 13th floor of the Hotel Ukraine)*
+*Photo enchanted with AI (c/o abdymok, February 21, 2014, taken from the 13th floor of the Hotel Ukraine)*
 
 It is 05:30 on Sunday morning in Kyiv and Russia has already launched at least 16 rockets at the city. CNN’s Clarissa Ward, who told *[Politico](http://politico.com)*’s Dasha Burns this week that Ukrainians no longer feel superhuman — that they feel broken, exhausted, barely able to get out of bed — is somewhere in the city on assignment. If she can get to the Motherland monument in Park Slava before sunrise, the lighting over the Dnipro will be perfect. So will the drones. It would make rather better television than the [soggy toast anniversary package](https://edition.cnn.com/2026/02/20/world/zelensky-ukraine-war-last-four-years-intl) filed on Friday and sourced entirely from Z’s own circle. The real story is elsewhere. It has been elsewhere for some time.
 
@@ -2624,7 +2624,7 @@ Moscow estimated ten percent would fight. Washington planned for a government in
 
 [Image]
 
-*Photo enchanted with AI (c/o abdymok , February 23, 2026)*
+*Photo enchanted with AI (c/o abdymok, February 23, 2026)*
 
 I deliberately wrote nothing yesterday for the occasion. There is something false in anniversary grief, the way there is something false in free bliny at the local Selpo on Masnytsya — the appetite is real enough, but the calendar has pre-emptied it, formatted it, made it available at the checkout counter. Sympathy that arrives on schedule is sympathy that has made other arrangements.
 
@@ -2698,7 +2698,7 @@ Trypilska is named after Trypillia — a civilization known largely through what
 
 [Image]
 
-*Overlooking Semihory (Photo c/o abdymok )*
+*Overlooking Semihory (Photo c/o abdymok)*
 
 There is an old saying in Semihory — though perhaps I am inventing it just now, which is a Ukrainian tradition too — that the man who arrives after the fire to explain how he would have put it out deserves a certain kind of respect. Not admiration, you understand. A certain kind of respect.
 
@@ -2858,7 +2858,7 @@ The war — and it is a war, the President said so himself, in capital letters �
 
 [Image]
 
-*Former US Special Envoy for Ukraine Keith Kellogg praises Team USA’s attack on Iran ( Fox News , March 1, 2026)*
+*Former US Special Envoy for Ukraine Keith Kellogg praises Team USA’s attack on Iran (Fox News, March 1, 2026)*
 
 Meanwhile, Persian-language broadcasters were defunded. VPN access programs were cut. Civil-society tools were dismantled. Then bombs were dropped. The Iranian people were encouraged to reclaim their institutions.
 
@@ -3300,7 +3300,7 @@ Looking at Washington this week, one wonders about the sample size.
 
 [Image]
 
-*Dnipro (March 9, 2026, Photo c/o abdymok )*
+*Dnipro (March 9, 2026, Photo c/o abdymok)*
 
 ------------------------------------------------------------------------
 
@@ -3817,7 +3817,7 @@ And then he would have waited, patiently, like a man whose mitochondria were, al
 
 [Image]
 
-*The Yevhen Paton Bridge in Kyiv has been in operation for since 1953. It might self-destruct at any moment (Photo c/o Historical Kyiv )*
+*The Yevhen Paton Bridge in Kyiv has been in operation since 1953. It might self-destruct at any moment (Photo c/o Historical Kyiv)*
 
 The crossing protocol for private vehicles on the Paton Bridge is simple: windows open, seat belts off — the reasoning being that if the bridge eventually demolishes itself, as bridges here apparently do, one should be prepared to swim[1](#footnote-1).
 
@@ -4163,13 +4163,13 @@ On Monday morning, the air raid sirens over Kyiv did what they always do — the
 
 [Image]
 
-*Zala Lancet drone (Photo c/o Wikipedia )*
+*Zala Lancet drone (Photo c/o Wikipedia)*
 
 What made this attack weird — and strangely instructive — was what the drones were not. At least one was a Lancet, a weapon designed for close frontline work, with a combat range of 30 to 80 kilometers. EW expert Serhiy “Flash” Beskrestnov—appointed advisor to Ukraine’s new Defense Minister Mykhailo Fedorov in January—[posited](https://t.me/serhii_flash/7118) that to reach Kyiv, the Russians had stripped out the warheads and replaced them with extra batteries, launching from the nearest possible point, waiting for a favorable wind. They were not, in any meaningful sense, trying to destroy anything. They were trying to produce a photograph, he said. A fragment on the Maidan. Something to show Putin. Something to show the Russian people. The whole elaborate operation — forty Lancets, a swarm of accompanying Shaheds carrying planted Lancet debris — was, at its core, a content strategy.
 
 [Image]
 
-*Fedorov and Flash (Photo c/o Defense Ministry of Ukraine )*
+*Fedorov and Flash (Photo c/o Defense Ministry of Ukraine)*
 
 Wut? I thought about Serhiy’s dubious unsubstantiated wacko explanation for a long time afterward. About the distance between the weapon and its purpose. About a military that will spend enormously, and sacrifice real capability, for the appearance of a result.
 
@@ -4213,7 +4213,7 @@ The general drinks too much in a city at war, because the war is long and the ev
 
 And now, a third figure enters the story, attempting to bridge the gap between the heavy tube and the weightless chatroom. [In an interview with the New York Post](https://nypost.com/2026/03/16/world-news/ukraine-ready-to-jump-in-to-help-us-as-other-american-allies-drag-feet-zelensky-tells-post/), Z proposes a “drone deal” to Donald Trump, offering to turn Ukraine into the world’s laboratory—a factory where American finance meets Ukrainian scar tissue. He speaks of a world where missiles are ending and thousands of drones are beginning, where the distance of 1,000 kilometers is crossed tomorrow by a machine made for the price of a used car. Yesterday he [presented King Charles an Ipad](https://www.youtube.com/watch?v=Go_iRIs-7qc) to keep track of combined air attacks on Ukraine. “Flash” [posted](https://t.me/serhii_flash/7120) a picture of it on his Telegram page.
 
-Z offers to train American troops in the art of this new, cheap war, noting with a certain grim politeness that despite their previous wars, they have not experienced this one. What he may not have fully accounted for is that [the drone market he is pitching into is already being carved up](https://finance.yahoo.com/news/military-drone-company-tied-trump-195629023.html). Donald Trump Jr. sits on the board of drone maker Unusual Machines, holds a major stake in Anduril through his investment firm 1789 Capital, and has received Army orders connected to his position—orders whose price, charged to U.S. taxpayers, was not disclosed. Eric Trump, meanwhile, promotes Israeli drone maker Xtend to his followers on X. A drone company counting both brothers as “notable investors” has just announced a merger with a Florida golf course operator, the combined entity promising to support “American drone industry dominance” through “strategic defense partnerships.” The golf courses, the press release notes, may serve as proving grounds. Elon Musk [announced](https://finance.yahoo.com/news/tesla-could-become-major-player-105417517.html) drone manufacturing plans last summer..
+Z offers to train American troops in the art of this new, cheap war, noting with a certain grim politeness that despite their previous wars, they have not experienced this one. What he may not have fully accounted for is that [the drone market he is pitching into is already being carved up](https://finance.yahoo.com/news/military-drone-company-tied-trump-195629023.html). Donald Trump Jr. sits on the board of drone maker Unusual Machines, holds a major stake in Anduril through his investment firm 1789 Capital, and has received Army orders connected to his position—orders whose price, charged to U.S. taxpayers, was not disclosed. Eric Trump, meanwhile, promotes Israeli drone maker Xtend to his followers on X. A drone company counting both brothers as “notable investors” has just announced a merger with a Florida golf course operator, the combined entity promising to support “American drone industry dominance” through “strategic defense partnerships.” The golf courses, the press release notes, may serve as proving grounds. Elon Musk [announced](https://finance.yahoo.com/news/tesla-could-become-major-player-105417517.html) drone manufacturing plans last summer.
 
 Z is not merely asking America to learn from Ukraine. He is, perhaps without quite realizing it, competing with the president’s sons and the richest man in the world, who also happens to be Trump’s biggest campaign donor. I’ll leave out the bits about Palantir, whose reps are also regulars at Tootsie Club.
 
@@ -4396,7 +4396,7 @@ The building opposite Trump Pizza Station is also, in its way, prepared. It has 
 
 [Image]
 
-*Belarusian strongman Alexander Lukashenko chats up Ayatollah Ali Khamenei in Tehran, Iran (Photo c/o Office of the Supreme Leader , November 7, 2006)*
+*Belarusian strongman Alexander Lukashenko chats up Ayatollah Ali Khamenei in Tehran, Iran (Photo c/o Office of the Supreme Leader, November 7, 2006)*
 
 My old friend [Valentyn](https://knihi.com/Valancin_Taras/Na_vyspie_uspaminau_mp3.zip.html) knew nothing about physics but lots about tyrants, despots and their flunkies—the kind that entangled eastern Europe after the World War II—used to say: the information is in the correlations, not in the parts.
 
@@ -4528,7 +4528,7 @@ BBC has the details.
 
 [Image]
 
-*Day 997 . The Harlequin (November 16, 2024)*
+*Day 997. The Harlequin (November 16, 2024)*
 
 This morning I poked around in the archives for unflattering stuff I have written about Pete in order to check with [Pangram](https://www.pangram.com/) if AI generated it.
 
@@ -4854,13 +4854,13 @@ It was, briefly, a good day. If memory serves, I took [Triple C](https://www.mag
 
 [Image]
 
-*Randy opposite Valery in Kyiv, April 24, 2022 (Photo c/o US State Department )*
+*Randy opposite Valery in Kyiv, April 24, 2022 (Photo c/o US State Department)*
 
 There is a particular American habit, visible in moments of institutional stress, of confusing motion with control. A man removes another man from his post and calls it strategy. The act itself becomes the argument. And so Pete Hegseth has decided to sack General Randy A. George, and in doing so has offered us not merely a personnel change, but a small window into how this war — the one we discussed yesterday, the one made of drones and arithmetic — is being misunderstood at the highest levels.[2](#footnote-2).
 
 [Image]
 
-*The Fast Clock and the Cheap Kill. How Ukraine solved the drone interceptor problem while everyone else held a meeting about it. (p. 8, c/o adymok , April 2, 2026)*
+*The Fast Clock and the Cheap Kill. How Ukraine solved the drone interceptor problem while everyone else held a meeting about it. (p. 8, c/o abdymok, April 2, 2026)*
 
 General George’s offense, if it can be called that, was not failure. It was attention. He had been looking, with increasing seriousness, at Ukraine.
 
@@ -5095,7 +5095,7 @@ The flower pot missed. We looked up, stood in the rain a moment, and moved on. S
 
 [Image]
 
-*Rat on a journey . c/o Mariia Prymachenko (1963)*
+*Rat on a journey. c/o Mariia Prymachenko (1963)*
 
 To all my American friends, you are fucked — though you probably already knew that, which is, in its own way, a kind of wisdom. Citizens may not all be accountable. They remain responsible, however. This is the distinction that history, that most patient and least forgiving of schoolteachers, tends to enforce long after the classroom has emptied.
 
@@ -5181,7 +5181,7 @@ Yesterday Z addressed the nation from Saint Sophia Cathedral. He quoted the insc
 
 On April 10th, two days before Easter, [Kyrylo Budanov](https://www.ukrinform.ua/rubric-ato/4111141-budanov-bez-ludej-vijni-ne-vigrautsa-droni-ne-zroblat-ce-za-nas.html) — who has headed the President’s Office since January 2nd, a promotion whose backstory [repays attention](https://abdymok.substack.com/p/day-1457?utm_source=publication-search) — gave an interview to Ukrinform and Novyny.LIVE that read like a dispatch from a different country entirely. He called draft evasion a “terrible problem” — страшенна проблема — and named the central contradiction of Ukrainian public life with a bluntness rare in any senior official, let alone the head of the President’s Office: everyone says the war must be fought to victory, and everyone flees mobilization. But his sharpest observation was this: Ukraine has somehow produced two kinds of hero simultaneously. The soldier at the front, bleeding. And the man who films himself telling the recruitment officer where to go, or boasting about how he slipped across the border. Both are heroes at the same time, Budanov said. This is a terrible problem. It shows the absence of unity. He asked the only question that follows logically from that observation: if everyone evades, will Ukraine remain on the political map of the world? His answer was unambiguous. No. It will not.
 
-The scientific image underneath his words is not comfortable. Two million Ukrainians wanted for violating military registration rules. Systemic violations documented during conscription — beatings, arbitrary seizures, men taken from streets. Support for a negotiated end to the war risen from twenty-seven percent in 2023 to sixty-nine percent in 2025. A practice called busification so common it has its own word, which is always the sign that something has become ordinary.
+The scientific image underneath his words is not comfortable. Two million Ukrainians wanted for violating military registration rules. Systemic violations documented during conscription — beatings, arbitrary seizures, men taken from streets. Support for a negotiated end to the war has risen from twenty-seven percent in 2023 to sixty-nine percent in 2025. A practice called busification so common it has its own word, which is always the sign that something has become ordinary.
 
 Z almost never discusses any of this publicly.
 
@@ -5489,7 +5489,7 @@ Apparently, a woman looking at herself in a mirror during wartime is more danger
 
 *Photo c/o abdymok (April 18, 2026)*
 
-We’re about a week away from the lilac bloom. Someone thought it was a great idea to start selling pizza outside the venue from 6:30 a.m..
+We’re about a week away from the lilac bloom. Someone thought it was a great idea to start selling pizza outside the venue from 6:30 a.m.
 
 ---
 
@@ -5569,7 +5569,7 @@ Without "dramatic change" to force structure, procurement, and inter-service coo
 
 *Donnyland*
 
-There is an old saying in the Kryvyi Rih — though perhaps I invented it just now — that that a man who perfects the art of kneeling will eventually forget how to stand..
+There is an old saying in Kryvyi Rih — though perhaps I invented it just now — that a man who perfects the art of kneeling will eventually forget how to stand.
 
 Z is a practical man. He understands that dignity, like a good overcoat, must sometimes be pawned when winter is very cold. And the winter in the Dnipropetrovsk region has been very cold indeed, for many years now.
 
@@ -5921,7 +5921,7 @@ It’s technical. It’s tedious. It’s a little painful.
 
 *Knife fights and drone strikes*
 
-On Sunday I wondered whether Jorge Luis Borges was a deontologist and re-read parts of Immanuel Kant's *Critique of Pure Reason,* asking what we can know and how certain we can be about it[1](#footnote-1) . Unsurprisingly, I drifted quickly into a deep sleep. Wilfrid Sellars attempted to reconcile the differences between consequentialism and deontology by developing constitutivism — which claims, in a nutshell, that in virtue of being an agent who acts, you are already committed to certain moral norms[2](#footnote-2) . Borges, it turns out, was more interested in knife fighting than grand moral systems[3](#footnote-3).
+On Sunday I wondered whether Jorge Luis Borges was a deontologist and re-read parts of Immanuel Kant's *Critique of Pure Reason,* asking what we can know and how certain we can be about it[1](#footnote-1). Unsurprisingly, I drifted quickly into a deep sleep. Wilfrid Sellars attempted to reconcile the differences between consequentialism and deontology by developing constitutivism — which claims, in a nutshell, that in virtue of being an agent who acts, you are already committed to certain moral norms[2](#footnote-2). Borges, it turns out, was more interested in knife fighting than grand moral systems[3](#footnote-3).
 
 ------------------------------------------------------------------------
 
@@ -6349,7 +6349,7 @@ cf. *Fire Point produces the Flamingo* ([Inside Ukraine’s quest to build a mis
 
 [Image]
 
-*Where Is the 'Flamingo'? An Analysis of All Known Ukrainian FP-5 Missile Strikes ( Oboronka , April 28, 2026)*
+*Where Is the 'Flamingo'? An Analysis of All Known Ukrainian FP-5 Missile Strikes (Oboronka, April 28, 2026)*
 
 ------------------------------------------------------------------------
 
@@ -6465,7 +6465,7 @@ This is not a thought experiment.
 
 [Image]
 
-*Photo c/o abdymok (c/o Anonymous Impostor's Club , May 1, 2026)*
+*Photo c/o abdymok (c/o Anonymous Impostor's Club, May 1, 2026)*
 
 ------------------------------------------------------------------------
 
@@ -7641,7 +7641,7 @@ Z is/was wearing black pajamas at the [B9+ whatever](https://www.nato.int/en/new
 
 [Image]
 
-*Dan and Z (Photo c/o President’s Office , May 13, 2026)*
+*Dan and Z (Photo c/o President’s Office, May 13, 2026)*
 
 Reportedly, pieces of paper were signed.
 
@@ -7705,7 +7705,7 @@ Emergency workers are still pulling dead bodies out from the rubble of the apart
 
 [Image]
 
-*KNU Shevchenko (c/o abdymok , May 15, 2026)*
+*KNU Shevchenko (c/o abdymok, May 15, 2026)*
 
 ------------------------------------------------------------------------
 
@@ -7713,7 +7713,7 @@ Problems in Latvia.
 
 [Image]
 
-*Latvian government collapses over Russia-bound Ukrainian drones ( The Financial Times , May 15, 2026)*
+*Latvian government collapses over Russia-bound Ukrainian drones (The Financial Times, May 15, 2026)*
 
 A quarter of the 1.8 million people who live in Latvia are ethnic Russians. Less than 8,000 soldiers serve actively in their puny army.
 
@@ -7795,7 +7795,7 @@ Igor Ivanovich Sikorsky (1889–1972) was a Russian-American aviation pioneer bo
 
 [2](#footnote-anchor-2)
 
-For a detailed scholarly examination of *Ґедз* and its companion satirical journals (*Budiak* and *Rep’iakhy*) as historical sources on the Ukrainian Revolution of 1917–1921, see Svitlana Pankova, *[Teкст, контекст і підтекст](https://antikvar.ua/tekst-kontekst-i-pidtekst)* (Text, Context, and Subtext), . Pankova’s work recovers the identities of the artists and traces the political significance of satirical graphics during the Central Rada period, treating these magazines not merely as ephemeral publications but as instruments of nation-building during Ukraine’s founding moment.
+For a detailed scholarly examination of *Ґедз* and its companion satirical journals (*Budiak* and *Rep’iakhy*) as historical sources on the Ukrainian Revolution of 1917–1921, see Svitlana Pankova, *[Teкст, контекст і підтекст](https://antikvar.ua/tekst-kontekst-i-pidtekst)* (Text, Context, and Subtext),. Pankova’s work recovers the identities of the artists and traces the political significance of satirical graphics during the Central Rada period, treating these magazines not merely as ephemeral publications but as instruments of nation-building during Ukraine’s founding moment.
 
 ---
 
@@ -8130,7 +8130,7 @@ What strikes the observer is not the chaos but its *courtesy*. Everyone apologiz
 
 [Image]
 
-*May 21, 2026 (Photo c/o abdymok )*
+*May 21, 2026 (Photo c/o abdymok)*
 
 From the eighth floor, the sunrise behaves itself.
 It arrives modestly, like a guest who understands the limits of hospitality. The pink clouds gather at a polite angle; the light distributes itself with a certain civic fairness: a portion to the apartment blocks on the left, a portion to the villas below, and a diluted remainder to the distant high-rises.
@@ -8773,7 +8773,7 @@ And the more insistently officials speak about the faucet, the more people begin
 
 [Image]
 
-*Zircon (c/o Militarny )*
+*Zircon (c/o Militarny)*
 
 The boys and girls from Kyiv’s Reuters bureau were out snapping [pics](https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/).
 
@@ -8799,7 +8799,7 @@ Ordinarily, lobbing hypersonic missiles into densely populated large cities woul
 
 This is what the portal to Kyiv’s mystic triangle looks like facing due west.
 
-Someone posted a 56-second video of Oniks hypersonic missiles skipping into Kyiv. They travel at about 3,000 kilometers per hour and are difficult to shoot down. Russia’s combined air air attacks on Tuesday morning killed two dozen people nationwide. Today is a day of mourning in Dnipro, where the death toll was highest.
+Someone posted a 56-second video of Oniks hypersonic missiles skipping into Kyiv. They travel at about 3,000 kilometers per hour and are difficult to shoot down. Russia’s combined air attacks on Tuesday morning killed two dozen people nationwide. Today is a day of mourning in Dnipro, where the death toll was highest.
 
 ------------------------------------------------------------------------
 
@@ -8905,7 +8905,7 @@ Large rabbits nibble on the crops and attract muscular raptors — eagles among 
 
 [Image]
 
-*Road to nowhere (Photo c/o abdymok , enchanted w/ AI)*
+*Road to nowhere (Photo c/o abdymok, enchanted w/ AI)*
 
 It’s a dreamy place to be — and I’m stuck in Kyiv for the weekend.
 
@@ -9279,7 +9279,7 @@ What would they make of this morning?
 
 [Image]
 
-*Firefighters work at a site of the Dormition Cathedral of the Kyiv Pechersk Lavra monastery, which burns after it was hit during Russian missile and drone strikes, amid Russia’s attack on Ukraine, in Kyiv, Ukraine June 15, 2026. ( Ukrainian Culture Ministry/Handout/Reuters)*
+*Firefighters work at a site of the Dormition Cathedral of the Kyiv Pechersk Lavra monastery, which burns after it was hit during Russian missile and drone strikes, amid Russia’s attack on Ukraine, in Kyiv, Ukraine June 15, 2026. (Ukrainian Culture Ministry/Handout/Reuters)*
 
 This was the second strike on the Lavra since the full-scale invasion began. The first, in January, damaged structures near the Far Caves and the Church of the Conception of St. Anne. The Lavra is a UNESCO World Heritage site. It is also, apparently, a target.
 
@@ -9441,7 +9441,7 @@ Kyiv’s rooms close for every reason except the one anyone admits to out loud �
 
 [Image]
 
-*Photo c/o Ruslan Lobanov ( Wartime Sketches )*
+*Photo c/o Ruslan Lobanov (Wartime Sketches)*
 
 ------------------------------------------------------------------------
 
@@ -10138,7 +10138,7 @@ Have a great weekend!
 
 [Image]
 
-*c/o Grade 1 Ukraine Strain . Why is everything so heavy? March 20, 2023)*
+*c/o Grade 1 Ukraine Strain. Why is everything so heavy? March 20, 2023)*
 
 ------------------------------------------------------------------------
 
@@ -10529,13 +10529,13 @@ Ukraine is good at snapping stuff together. But assembling hundreds of intercept
 
 [Image]
 
-*Z and Trump (Ankara, July 8, 2026, Photo c/o Z )*
+*Z and Trump (Ankara, July 8, 2026, Photo c/o Z)*
 
 Photos of Vyshneve, the village one mile south of Kyiv that was incinerated on July 6, have started popping up on the internet.
 
 [Image]
 
-*Vyshneve (Photo c/o Микола Калашник . Libkos has a bunch of photos of the aftermath here )*
+*Vyshneve (Photo c/o Микола Калашник. Libkos has a bunch of photos of the aftermath here)*
 
 Most of the 100 or so houses in the village were vaporized in secondary explosions, the cause of which no one wants to talk about publicly. Prime Minister Svyrydenko [said](https://kyiv.tsn.ua/en/kyiv/worst-destruction-since-the-war-began-svyrydenko-reveals-shocking-scale-of-overnight-strike-on-vyshneve-3122084.html) the tragedy illustrates “the most extensive destruction to the residential sector since the start of the full-scale invasion.”
 
@@ -10583,7 +10583,7 @@ Z was asked about it on July 9. [He answered by voice message](https://interfax.
 
 [Image]
 
-*Ukroboronprom HQ is up the street from Lukyanivka, which was obliterated before Z announced his 40-day plan (Photo c/o abdymok , June 14, 2026)*
+*Ukroboronprom HQ is up the street from Lukyanivka, which was obliterated before Z announced his 40-day plan (Photo c/o abdymok, June 14, 2026)*
 
 The strike itself came the night before, on July 6, and the explosions that followed were not modest. The Kyiv Regional Military Administration counted nine dead. A spokeswoman for the State Emergency Service reported that rescuers were still working through the aftermath at thirty-five separate locations, which is the kind of number that tells you more than any statement does.
 
@@ -11070,7 +11070,7 @@ It was a gracious sentence built around an event that has not happened.
 
 Here is how it read from Washington, in the Institute for the Study of War’s nightly assessment:
 
-Z “dismissed ... Syrsky and appointed ... Drapaty as his replacement late on July 21.” — I[nstitute for the Study of War](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-21-2026/), July 21, 2026
+Z “dismissed... Syrsky and appointed... Drapaty as his replacement late on July 21.” — I[nstitute for the Study of War](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-21-2026/), July 21, 2026
 
 Note the tense.
 
@@ -11771,7 +11771,7 @@ The pattern extends to the press. Modern authoritarian systems rarely require ov
 
 [Image]
 
-*The photograph is about appearance. This post is about governance. (Photo c/o Z , July 28, 2026)*
+*The photograph is about appearance. This post is about governance. (Photo c/o Z, July 28, 2026)*
 
 ------------------------------------------------------------------------
 
@@ -11899,7 +11899,7 @@ The sky looks almost the same as it did last year.
 
 [Image]
 
-*(Photo c/o abdymok , July 29, 2026)*
+*(Photo c/o abdymok, July 29, 2026)*
 
 Turns out **around seven to nine** major attacks over the last 19-month period occurred on or within three days of a full Moon. Full Buck Moon reached its peak on Wednesday.
 
@@ -11909,7 +11909,7 @@ On the war jacket, absurdity as self-parody. Ukraine has spent years demonstrati
 
 [Image]
 
-*The Financial Times , July 31, 2026*
+*The Financial Times, July 31, 2026*
 
 Careful not to license the country intercepting Russian ballistic missiles. One imagines Lockheed Martin can rest easy knowing the greater proliferation risk lies not in Moscow’s missile factories, but in the people trying to shoot their products down.
 
@@ -12425,7 +12425,7 @@ You can route around a broken state. You cannot route around a ballistic missile
 
 [Image]
 
-*CNN , August 12, 2026*
+*CNN, August 12, 2026*
 
 Every civilization without a written account of its own beginnings invented one. Myths of origin are not lies. They are what grows where evidence should be. We still do this. We have historians now, and journalists, and podcast hosts with ring lights. The evidence is not scarce. The myth wins anyway.
 
@@ -12725,7 +12725,7 @@ Matthew chats up the CEO of Ukraine’s largest missile producer.
 
 [Image]
 
-*WSJ , August 15, 2026*
+*WSJ, August 15, 2026*
 
 The genre trick here is simple: describe a woman who makes cruise missiles using the exact prose you’d use for a woman who makes throw pillows, and hope nobody notices the join. It almost works. Six days to two and a half hours — that’s the wing production time, and also roughly how long it takes the piece to go from “flower pots” to “2,500-pound warhead” without changing tone.
 
@@ -12805,7 +12805,7 @@ Funny, incidentally, that NABU dropped its own trailer the same week, for an ent
 
 [Image]
 
-*Day 642 . Weighing bribes (November 27, 2023)*
+*Day 642. Weighing bribes (November 27, 2023)*
 
 ------------------------------------------------------------------------
 
@@ -13363,7 +13363,7 @@ Ukraine still has no good answer to the **jet-powered drones**, and this fact, o
 
 Here I would like to make a small philosophical detour, of the kind that irritates efficient people and comforts the rest of us. There is the time of physics — the neutral, indifferent time that appears in equations, that does not care whether you are asleep or awake, whether you are a general or a cabbage. And there is the other time, the time we actually live in, which philosophers call manifest and which everyone else simply calls time: the time in which ten kilograms of thermobaric compound crosses the sky above your head at six hundred kilometers an hour, and in which the word “fast enough” ceases to be an adjective and becomes a verdict. Ukraine failed to anticipate this shift *fast enough* — and I put those words in italics because their failure will never be measured by a calendar. It will be measured by a body under a roof, doing the arithmetic that only a body under a roof can do.
 
-Military planners are paid, among other things, to think about this second kind of time, which is unglamorous work compared to debating whether time flows or whether “now” means anything at all. Their question is smaller and more urgent: what kind of cheap, short-range missile do you need to run down a fast machine before it arrives, without spending your whole store of expensive interceptors and your fighter pilots’ flying hours to do it? Ukraine does not yet have that missile in sufficient number. It is simply a shortage that should should have been anticipated.
+Military planners are paid, among other things, to think about this second kind of time, which is unglamorous work compared to debating whether time flows or whether “now” means anything at all. Their question is smaller and more urgent: what kind of cheap, short-range missile do you need to run down a fast machine before it arrives, without spending your whole store of expensive interceptors and your fighter pilots’ flying hours to do it? Ukraine does not yet have that missile in sufficient numbers. It is simply a shortage that should have been anticipated.
 
 ------------------------------------------------------------------------
 
@@ -13783,7 +13783,7 @@ Meanwhile, Z is over 5,000 miles away in Canada, which is at war with America.
 
 He is on the front page of [The New York Times](https://www.nytimes.com/2026/09/09/world/europe/ukraine-war-cost.html) for all the wrong reasons, which, by the way, the article only alludes to.
 
-Here’s the short version, for readers who don’t don’t study ultra-competitive Ukraine-style politics: ministers, prosecutors, state companies, people close to the president’s office — one scandal after another. Intelligence agencies have literally shot at each other. Officials get fired, arrested, investigated. Then come the denials, the leaks, the parliamentary shouting, and the calm assurances that everything is under control.
+Here’s the short version, for readers who don’t study ultra-competitive Ukraine-style politics: ministers, prosecutors, state companies, people close to the president’s office — one scandal after another. Intelligence agencies have literally shot at each other. Officials get fired, arrested, investigated. Then come the denials, the leaks, the parliamentary shouting, and the calm assurances that everything is under control.
 
 That’s the first thing worth noticing: things keep happening.
 
@@ -13943,7 +13943,7 @@ Every bridegroom needs an uncle. Donald Trump Jr. found his in the Bahamas in Ma
 
 [Image]
 
-*Russian Businessman Paid for Donald Trump Jr.’s Lavish Wedding After-Party . The payments, totaling hundreds of thousands of dollars, represented an extraordinary flouting of ethical norms for an American president’s family member ( The New York Times , September 15, 2026)*
+*Russian Businessman Paid for Donald Trump Jr.’s Lavish Wedding After-Party. The payments, totaling hundreds of thousands of dollars, represented an extraordinary flouting of ethical norms for an American president’s family member (The New York Times, September 15, 2026)*
 
 [ProPublica’s reporting](https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin) puts the bill in the hundreds of thousands, routed through a Dubai entity the boxing association uses for its money. Trump Jr.’s spokesman didn’t dispute any of it — Kremlev, he said, is simply a friend, met through hunting, bonded over boxing, and never once, in all that friendship, has politics come up. The family’s fuller statement, once the story broke, was that friendship doesn’t require a political motive. It is the kind of sentence that asks to be believed rather than examined.
 
@@ -13977,7 +13977,7 @@ Next week marks the seventh anniversary of their first meeting — and, fittingl
 
 [Image]
 
-*September 25, 2019 (Photo c/o Wikipedia )*
+*September 25, 2019 (Photo c/o Wikipedia)*
 
 Trump has his uncle in the Bahamas. Z has his partners.
 
@@ -14309,7 +14309,7 @@ Moscow refinery: actually stopped.
 
 The SBU said Ukrainian forces struck the Moscow refinery on September 20. Fire Point said its FP-1 drones were involved; Reuters reported that both primary crude-distillation units caught fire and that repairs could take several weeks.
 
-According to the Financial Times, “diesel” came up repeatedly in Trump’s call with Z on Sunday: “diesel, diesel ... diesel.”
+According to the Financial Times, “diesel” came up repeatedly in Trump’s call with Z on Sunday: “diesel, diesel... diesel.”
 
 Then Trump posted his own diagnosis on Truth Social:
 
@@ -14886,7 +14886,7 @@ On July 1, Fedorov stood before a placard the size of a barn door and informed u
 
 [Image]
 
-*Z (Photo c/o President’s Office , September 2, 2026)*
+*Z (Photo c/o President’s Office, September 2, 2026)*
 
 On September 1, the president told us, standing, as he does for these occasions, that Russia’s skies would effectively be closed. Two months separate the two announcements, and a wise woman will note that skies, like husbands, tend to do what they please once the speech is over. The placard, at least, was the right size for the job: a barn door, and the horse, as ever, was elsewhere.
 
@@ -15347,7 +15347,7 @@ murals · [67](https://abdymok.github.io/mural/) · [40](https://abdymok.github.
 
 [Image]
 
-*Sophia Square in Kyiv (Photo c/o abdymok , October 7, 2026)*
+*Sophia Square in Kyiv (Photo c/o abdymok, October 7, 2026)*
 
 Pictures from Kremechuk (population 225,000) in Poltava region show the obliteration of an entire street this morning during latest combined Russian air attack on the country.
 
@@ -15393,7 +15393,7 @@ murals · [67](https://abdymok.github.io/mural/) · [40](https://abdymok.github.
 
 [Image]
 
-*Sophie’s Square in Kyiv (Photo c/o abdymok , October 8, 2026)*
+*Sophie’s Square in Kyiv (Photo c/o abdymok, October 8, 2026)*
 
 Oh, imagine my surprise bumping into Jonathan riding on the metro to Golden Gate this morning.
 
@@ -15674,7 +15674,7 @@ Households can store water. They cannot run a city.
 
 [Image]
 
-*Gadgets (Photo c/o abdymok , October 12, 2026)*
+*Gadgets (Photo c/o abdymok, October 12, 2026)*
 
 Twenty-two days to the midterms. Congress can hold the purse and the hearings. It cannot hold the pen, and the pen has so far been pointed at Kyiv.
 
@@ -16680,7 +16680,7 @@ Oh, and Aunt Claude and Uncle ChatGPT teamed up to produce an annotated bibliogr
 
 Today is David’s big day at the White House. He leads a delegation to discuss the Oleshky op and peace ideas with America’s first lady. Melania is either unaware or uninterested in how compromised David is in Kyiv. We hope she got the brief, but we assume she didn’t. Newsmax will be there. Awards will be exchanged.
 
-*Acid, or hammers?* That question comes from recordings NABU released yesterday as part of Operation Carthage. The speakers discuss, among other things, their U-420 chain of shops selling psilocybin candy bars and funny-tasting THC cigarettes. One of them settles on hammers. Another conversation covers how to launder money, and detectives gave it its own slide. The audio is excellent. The last three syllables of David’s surname are clipped off ;-)
+*Acid, or hammers?* That question comes from recordings NABU released yesterday as part of Operation Carthage. The speakers discuss, among other things, their U-420 chain of shops selling psilocybin candy bars and funny-tasting THC cigarettes. One of them settles on hammers. Another conversation covers how to launder money, and detectives gave it its own slide. The audio is excellent. The last three syllables of David’s surname are clipped off;-)
 
 [Image]
 
@@ -16744,7 +16744,7 @@ It’s for researchers checking what was claimed on a given day, journalists tra
 
 *Servant of the People parliament faction leader David Arakhamia “speaking from the heart” to US First Lady Melania Trump on November 5 in the White House (Photo c/o Arab News)*
 
-> “It’s going to be a big agreement, and it’s going to involve more than Ukraine ... I could even say it might involve all of Europe. It’s going to be a big, beautiful agreement, and everyone’s going to be thrilled.”
+> “It’s going to be a big agreement, and it’s going to involve more than Ukraine... I could even say it might involve all of Europe. It’s going to be a big, beautiful agreement, and everyone’s going to be thrilled.”
 
 Trump said this to reporters at the White House on November 5, 2026, after meeting privately with Russian envoy Kirill Dmitriev. He did not provide details.
 
@@ -17552,9 +17552,9 @@ From Kyiv the view is different. We have seen where this walk leads. And we are 
 
 *Translation:* “Question: The US negotiators Kushner and Witkoff are flying on to Moscow today. Are they also doing so on behalf of the Europeans? Kornelius: I addressed that a moment ago. I’m happy to repeat it. **There is an understanding on four principles reached in Abu Dhabi**. There is the understanding that the negotiations will be expanded to include the Europeans. The negotiators will now travel to Moscow with this package. Follow-up: But the Europeans are not present in Moscow. Is the agreement then being broken straight away by the US negotiators? Kornelius: We are now waiting for the Russian reaction.”
 
-> Es gibt einen Angriff der Ukrainer vor der Küste von Libyen ... Wie groß ist also die Sorge, gerade wenn man sieht, dass Russland jetzt Estland als NATO-Land und EU-Land vorwirft, den Luftraum für die ukrainischen Angriffe zur Verfügung zu stellen?
+> Es gibt einen Angriff der Ukrainer vor der Küste von Libyen... Wie groß ist also die Sorge, gerade wenn man sieht, dass Russland jetzt Estland als NATO-Land und EU-Land vorwirft, den Luftraum für die ukrainischen Angriffe zur Verfügung zu stellen?
 
-*Translation:* “There has been an attack by Ukrainians off the coast of Libya ... So how great is the concern, especially when one sees that Russia is now accusing Estonia, as a NATO and EU country, of making its airspace available for the Ukrainian attacks?”
+*Translation:* “There has been an attack by Ukrainians off the coast of Libya... So how great is the concern, especially when one sees that Russia is now accusing Estonia, as a NATO and EU country, of making its airspace available for the Ukrainian attacks?”
 
 [1](#footnote-anchor-1)
 
