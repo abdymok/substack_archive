@@ -3282,7 +3282,7 @@ Preparations to greet the American dignitaries were underway downtown on Saturda
 [Image]
 *Saint Volodymyr Monument (Photo c/o abdymok )*
 
-A month after Lloyd’s previous visit to town in October 2021, Z celebrated the “equator of his cadence,” with disasterous results[1](#footnote-1). But that’s another story.
+A month after Lloyd’s previous visit to town in October 2021, Z celebrated the “equator of his cadence,” with disastrous results[1](#footnote-1). But that’s another story.
 
 [1](#footnote-anchor-1)
 
@@ -3299,7 +3299,7 @@ A month after Lloyd’s previous visit to town in October 2021, Z celebrated the
 [Image]
 *St. Michael’s Monastery. Photo c/o Stefaniia Bern (April 24, 2022).*
 
-Phase 3 (May 9) starts in 15 days. Each successive phase is longer than the previous one, with each new day of the war making possible what was impossible yesterday. That translates to more unspeakable tragedy, despair and death. So, keep sending night vision gear, espectially [ATN](https://twitter.com/atnzaporizhia) contraptions.
+Phase 3 (May 9) starts in 15 days. Each successive phase is longer than the previous one, with each new day of the war making possible what was impossible yesterday. That translates to more unspeakable tragedy, despair and death. So, keep sending night vision gear, especially [ATN](https://twitter.com/atnzaporizhia) contraptions.
 
 [Image]
 *Map c/o @jomini*
@@ -3313,7 +3313,7 @@ The New York Times on Sunday [recapitulates](https://www.nytimes.com/2022/04/24/
 
 [Image]
 
-The war carries both for Russia and Ukraine the threat of a fatal geopolitical catastrophe. Betting on an uncompromising victory is like playing with fire in an already burning casino. So, it would be nice if Germany, France and Italy got their collective act together quickly and started helping [more](https://bloom.bg/3OxLzRe) faster.
+The war carries the threat of a fatal geopolitical catastrophe for both Russia and Ukraine. Betting on an uncompromising victory is like playing with fire in an already burning casino. So, it would be nice if Germany, France and Italy got their collective act together quickly and started helping [more](https://bloom.bg/3OxLzRe) faster.
 
 Spare us the rhetoric, just send guns.
 
@@ -3429,11 +3429,11 @@ ATN co-founder Mark Vayn, who was born in Ukraine, and the company co-founder Ja
 
 [Image]
 
-Ukraine’s military needs are changing as battles shift to Donbas and southern regions. The urgency of equipping soldiers with night optical/observation devices (nvds/nods), was underscored on Tuesday by U.S. Defense Secretary Lloyd Austin [during a meeting](https://www.youtube.com/watch?v=uObPs5_Yih0) of the Ukraine Defense Consultative Group, a gathering of military leaders from 40 countries in Ramstein, Germany.
+Ukraine’s military needs are changing as battles shift to Donbas and southern regions. The urgency of equipping soldiers with night optical/observation devices (nvds/nods) was underscored on Tuesday by U.S. Defense Secretary Lloyd Austin [during a meeting](https://www.youtube.com/watch?v=uObPs5_Yih0) of the Ukraine Defense Consultative Group, a gathering of military leaders from 40 countries in Ramstein, Germany.
 
 When Ukrainian forces [battled Russia-occupation forces](https://www.economist.com/the-economist-explains/2022/02/15/why-donetsk-and-luhansk-are-at-the-heart-of-the-ukraine-crisis) in 2014 their lack of night-vision hampered them. Since then they have been stocking up. America provided a batch of 2,500 military systems in 2018, and other countries have been donating hardware. On April 9, Britain promised to send more night-vision equipment to Ukraine. And although America attempted to strictly control the export of night-vision technology for years, today there are many systems available on the open market, including ATN’s gear, which has been licensed to export to Ukraine. Come Back Alive, a fundraiser for Ukraine’s military, has supplied more than 1,000 thermal imagers since 2014. Other systems may be adapted to see through the gloom, as well.
 
-ATN contraptions can used as a scope or with a head/helmet mount, or even used on rifles and drones. They are also useful tool for driving, walking, map reading, surveillance, administering, and vehicle maintenance or repair. The IR light-emitting source in these goggles accurately draws the image in dark conditions and with the image intensifier tube, the results get even better.
+ATN contraptions can be used as a scope or with a head/helmet mount, or even used on rifles and drones. They are also useful tools for driving, walking, map reading, surveillance, administering, and vehicle maintenance or repair. The IR light-emitting source in these goggles accurately draws the image in dark conditions and with the image intensifier tube, the results get even better.
 
 The company in April [announced](https://www.prweb.com/releases/2022/04/prweb18593498.htm) shipments of approximately 9,000 night vision and thermal optics being shipped to Ukrainian forces in an effort to help them in the field.
 
@@ -3496,11 +3496,11 @@ The loud explosion you heard yesterday evening was a cruise missile crashing int
 
 [Image]
 
-Mykhailo Podoliak, adviser to the head of the President’s Office Andriy Yermak, [said on Twitter](https://twitter.com/Podolyak_M/status/1519734791041605635) that the missile landed about just kilometers away from where Ze minutes earlier chatted up U.N. Secretary General António Guterres.
+Mykhailo Podoliak, adviser to the head of the President’s Office Andriy Yermak, [said on Twitter](https://twitter.com/Podolyak_M/status/1519734791041605635) that the missile landed just kilometers from where Ze had been minutes earlier chatted up U.N. Secretary General António Guterres.
 
 > “Why does Russia have a seat on the U.N. Security Council?” he asked.
 
-Most responses were as idiotic as Podoliak’s rhetorical question. In fact, the missle struck 4.7 kilometers from the President’s Office.
+Most responses were as idiotic as Podoliak’s rhetorical question. In fact, the missile struck 4.7 kilometers from the President’s Office.
 
 ---
 
@@ -3624,9 +3624,9 @@ Jason served as an Army infantry captain in Iraq, in a war the United States sho
 
 ---
 
-The next time you find yourself listening to middle-aged men talking about guns focus your attention instead on reason, science, humanism and progress.
+The next time you find yourself listening to middle-aged men talking about guns, focus your attention instead on reason, science, humanism and progress.
 
-Go for a run, drink Mukuzani. Тake a nap.
+Go for a run, drink Mukuzani. Take a nap.
 
 That’s exactly what I did on Sunday, May 1, on Day 67 (Day 37, Phase 2) in the ninth year of Russia’s war against Ukraine.
 
