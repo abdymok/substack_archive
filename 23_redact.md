@@ -654,7 +654,7 @@ Tomorrow, we’ll mark the ninth anniversary of the [massacre](https://abdymok.b
 
 Following Biden’s trip to Kyiv on Monday morning, Vitaly Portnikov [recalls](https://youtu.be/nhG57vnjMmM) Ronald Reagan’s visit to West Berlin in 1987, when in front of the Brandenburg Gate he asked Gorbachev to tear down the wall, signalling to the world that it’s possible — and necessary — for good to conquer evil. That’s probably the Berlin speech most Americans remember.
 
-But I hark back to remarks Reagan delivered five years *earlier* in front of the Charlottenburg Palace, where he blurted out “[Berlin bleibt doch Berlin](https://www.google.com/search?q=berlin+bleibt+doch+berlin&oq=Berlin+bleibt+doch+Berlin&aqs=chrome.0.0i355i512j46i512j0i22i30j0i22i30.1125j0j4&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7d17c78b,vid:MT-e8E_9aM4),” the chorus of a folk song everyone laughed about afterwards.
+But I hark back to remarks Reagan delivered five years *earlier* in front of the Charlottenburg Palace, where he blurted out “[Berlin bleibt doch Berlin](https://www.google.com/search?q=berlin+bleibt+doch+berlin&oq=Berlin+bleibt+doch+Berlin&aqs=chrome.0.0i355i512j46i512j0i22i30i625l2j0i22i30j0i22i30i625l2j0i390l3.1125j0j4&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7d17c78b,vid:MT-e8E_9aM4),” the chorus of a folk song everyone laughed about afterwards.
 
 [Video: https://youtu.be/0\_01DoypQQM]
 
