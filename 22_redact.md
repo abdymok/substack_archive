@@ -344,7 +344,7 @@ The rhetorical and analytical rift between Ukraine and America, which had previo
 
 [Image]
 
-Like Podoliak, the author of this article confuses “imminent” with “inevitable.” The “rift” is not rhetorical or analytical. As we explained above, it’s linguistic. Words do not contain meaning, they *trigger* meaning. Rinse, repeat..
+Like Podoliak, the author of this article confuses “imminent” with “inevitable.” The “rift” is not rhetorical or analytical. As we explained above, it’s linguistic. Words do not contain meaning, they *trigger* meaning. Rinse, repeat.
 
 ---
 
@@ -1258,7 +1258,7 @@ Which reminds me of this excerpt from this [post](https://abdymok.substack.com/p
 
 ---
 
-If talks between Ukraine and Russia result in anything, Putin might be able to continue bargaining for a couple more years. But if talks fail, then a zero-sum game begins: either a coup before WWIV, or full-blown WWIV before the coup. Rinse, repeat..
+If talks between Ukraine and Russia result in anything, Putin might be able to continue bargaining for a couple more years. But if talks fail, then a zero-sum game begins: either a coup before WWIV, or full-blown WWIV before the coup. Rinse, repeat.
 
 ---
 
@@ -1330,7 +1330,7 @@ Which brings me to Kamala and Poland.
 
 The steeplechase of hacks making hay out of unspeakable tragedy now [involves](https://twitter.com/SeanPenn/status/1501603494725259264/photo/1) Sean Penn and greasy fuckpig Andriy Yermak. Ze whined this morning about not getting MiG-29s fast enuf during his daily TikTok pep talk.
 
-[Radosław](https://www.facebook.com/radeksikorski/) has been mum, unless I missed something, the Pentagon [says](https://www.defense.gov/News/Releases/Release/Article/2960180/statement-by-pentagon-press-secretary-john-f-kirby-on-security-assistance-to-uk/) the deal is **dumb** and Austin calls the Polish proposal a [dead letter](https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html). Rinse, repeat..
+[Radosław](https://www.facebook.com/radeksikorski/) has been mum, unless I missed something, the Pentagon [says](https://www.defense.gov/News/Releases/Release/Article/2960180/statement-by-pentagon-press-secretary-john-f-kirby-on-security-assistance-to-uk/) the deal is **dumb** and Austin calls the Polish proposal a [dead letter](https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html). Rinse, repeat.
 
 [Image]
 
@@ -1440,7 +1440,7 @@ Beltway bullshit about off-ramps for Russia abounds. I usually pay more attentio
 
 Experts in the West who are trying to figure out why Fred’s assessments have been consistently flawed should put on thinking caps. Unfortunately, many do not even speak or understand Russian or Ukrainian.
 
-In a nutshell, Putin is and remains an *irrational actor* who is *less* well-grounded in reality than most world leaders. “Bounded rationality” is *irrelevant* for explaining the Russian leader’s decisions or actions. Rinse, repeat..
+In a nutshell, Putin is and remains an *irrational actor* who is *less* well-grounded in reality than most world leaders. “Bounded rationality” is *irrelevant* for explaining the Russian leader’s decisions or actions. Rinse, repeat.
 
 And [this](https://x.com/TulsiGabbard/status/1502960938147729413) just in from Tulsi:
 
@@ -1886,7 +1886,7 @@ In other news, Joe is in Brussels today chatting up European heads of state abou
 
 That could translate into free geiger counters, atropine jabs and hamzat suits.
 
-**NATO’s primary responsibility is to ensure that the war does not escalate beyond Ukraine**, Jens said. Rinse, repeat..
+**NATO’s primary responsibility is to ensure that the war does not escalate beyond Ukraine**, Jens said. Rinse, repeat.
 
 ---
 
@@ -2464,7 +2464,7 @@ But obvi the question we should be asking is “What should we do with Russia?�
 
 ### In Ukraine your internationalism can and should be your patriotism.
 
-We wrote abut Borodyanka on **[Day 9](https://abdymok.substack.com/p/day-9?s=w)** of Russia’s further invasion. That was March 4. Ukraine’s top cop Iryna Venediktova [woke up](https://focus.ua/uk/ukraine/511334-v-borodyanke-naihudshaya-po-kievskoy-oblasti-situaciya-v-plane-chelovecheskih-zhertv-venediktova) to the disaster the day before yesterday, saying mass civilian killings there make the [blood bath in Bucha](https://edition.cnn.com/videos/world/2022/04/05/volodymyr-zelensky-full-united-nations-speech-bucha-massacre-sot-vpx.cnn) look like a picnic.
+We wrote abut Borodyanka on **[Day 9](https://abdymok.substack.com/p/day-9?s=w)** of Russia’s further invasion. That was March 4. Ukraine’s top cop Iryna Venedyktova [woke up](https://focus.ua/uk/ukraine/511334-v-borodyanke-naihudshaya-po-kievskoy-oblasti-situaciya-v-plane-chelovecheskih-zhertv-venediktova) to the disaster the day before yesterday, saying mass civilian killings there make the [blood bath in Bucha](https://edition.cnn.com/videos/world/2022/04/05/volodymyr-zelensky-full-united-nations-speech-bucha-massacre-sot-vpx.cnn) look like a picnic.
 
 Let's say that more than a month *after* a mass murder had devastated Borodyanka, and at a moment when the miasma from the site could still be felt and smelled, a ticket-buying audience finally began paying attention.
 
@@ -3696,7 +3696,7 @@ This kind of jibberish is an ad for metal prongy things to hold up paper rolls. 
 [Image]
 *Map c/o WAPO c/o Fred*
 
-I fixed the Washington Post’s [map](https://www.washingtonpost.com/national-security/2022/04/30/ukraine-russia-artillery/), which the newspaper got from [Fred](https://www.criticalthreats.org/). There are no “Russian-held” or “separatist-controlled areas” in Ukraine, just Russia-occupied areas. Rinse, repeat..
+I fixed the Washington Post’s [map](https://www.washingtonpost.com/national-security/2022/04/30/ukraine-russia-artillery/), which the newspaper got from [Fred](https://www.criticalthreats.org/). There are no “Russian-held” or “separatist-controlled areas” in Ukraine, just Russia-occupied areas. Rinse, repeat.
 
 Maybe replace the Crimea portion of the map w/ this:
 
@@ -5697,7 +5697,7 @@ Olaf mumbled in an exclusive CBS [interview](https://www.cbsnews.com/news/ukrain
 
 [Image]
 
-***This is not a war of attrition western media say it is***[1](#footnote-1)[2](#footnote-2)**.**Putin is at war with the collective West. Russia’s genocidal campaign in Ukraine is a means to an end. Rinse, repeat.. ***The goal of the exercise is not to devour undigestible Ukrainian territory***, but to rise in the world pecking order by asserting dominance over Europe’s wishy washy leaders, including Olaf, who continues to pretend he’s not on the menu.
+***This is not a war of attrition western media say it is***[1](#footnote-1)[2](#footnote-2)**.**Putin is at war with the collective West. Russia’s genocidal campaign in Ukraine is a means to an end. Rinse, repeat. ***The goal of the exercise is not to devour undigestible Ukrainian territory***, but to rise in the world pecking order by asserting dominance over Europe’s wishy washy leaders, including Olaf, who continues to pretend he’s not on the menu.
 
 Think about cooking a roast. Pretend Ukraine is the oven. You take the roast out of the fridge and let it stand at room temperature at least a half hour before starting. Immediately before browning, you wrap it up in paper towels (*night night roast*) until the surface is dry.
 
@@ -5770,7 +5770,7 @@ Looking on the positive side, four journalists at the Washington Post [make](htt
 
 [Image]
 
-This is not a war of attrition, and Moscow’s goal is not to capture and control more Ukrainian territory. Rinse, repeat.. Pulverizing Ukraine is a means to an end and the sooner jornos communicate this coherently the better.
+This is not a war of attrition, and Moscow’s goal is not to capture and control more Ukrainian territory. Rinse, repeat. Pulverizing Ukraine is a means to an end and the sooner jornos communicate this coherently the better.
 
 [1](#footnote-anchor-1)
 
@@ -6285,7 +6285,7 @@ While some international legionnaires, including at least one gung-ho retired U.
 [Image]
 *Source: Wikipedia*
 
-In other news, ex Prosecutor General Iryna Venediktova is moving to Switzerland. She joins ex Defense Minister Andriy Taran as a member of Ukraine’s diplomatic corps. Both are now ambassadors.
+In other news, ex Prosecutor General Iryna Venedyktova is moving to Switzerland. She joins ex Defense Minister Andriy Taran as a member of Ukraine’s diplomatic corps. Both are now ambassadors.
 
 We have written about both previously and are not sad to see them go[2](#footnote-2).
 
@@ -6334,7 +6334,7 @@ Unlike running, ibogamine (Ibogaine, Iboga) is no pleasure party. It’s a monot
 
 Which brings me to Amnesty International, which yesterday published a tone-deaf [brief](https://www.amnesty.org/en/latest/news/2022/08/ukraine-ukrainian-fighting-tactics-endanger-civilians/), titled “**Ukrainian fighting tactics endanger civilians**.” Oksana Pokalchuk from AI’s Ukraine office said in a long, whiny letter on [Facebook](https://www.facebook.com/oksana.pokalchuk/posts/pfbid02pax1cm8BLehweuHEjXvVbqDCRP95e3qwgbrvahZyqnFaeHPW6HDuJvntuDGkTMEal) that she and her colleagues were not involved in drafting the 1,791-word whatever, which I stopped reading after the headline.
 
-Predictably, Ukraine’s president, foreign minister and defense minister threw a hissy fit, all saying the international human rights organization had failed to distinguish between the oppressor and the oppressed, shifted responsibility from agressor to the victim, et cetera.
+Predictably, Ukraine’s president, foreign minister and defense minister threw a hissy fit, all saying the international human rights organization had failed to distinguish between the oppressor and the oppressed, shifted responsibility from aggressor to the victim, et cetera.
 
 In other news, the law on compulsory insurance of journalists in the war zone has come into force. It mandates additional guarantees of protection for journalists working in areas of military operations, in particular, providing for their mandatory insurance at the expense of the employer in case of harm to their life and health in connection with the performance of professional duties.
 
@@ -6662,11 +6662,11 @@ In addition to the purely military advantages, this kind of strategic action in 
 
 It is easy to conclude that such promising success in southern and, to some extent, in eastern Ukraine, in the territorial sense, must be based on reliable defenses and preservation of control over the temporarily occupied Autonomous Republic of Crimea. Indeed, Crimea was and remains the basis for supply routes on the southern strategic flank of Russian aggression. The territory of the peninsula allows deploying significant numbers of troops and supplies. Finally, Crimea hosts the main naval base of Russia’s Black Sea Fleet, as well as a network of airfields, for launching airstrikes almost across the entire territory of mainland Ukraine. Some analysts are inclined to suggest that it is control over the territory of the Crimean Peninsula that the Russian forces see as a **center of gravity** in the ongoing war.
 
-However, looking into the situation that the Ukrainian Armed Forces are likely face in 2023, these things don’t look so clear. In fact, for the AFU the situation will be a complex mix of the actual location of the line of contact, the available resources, the pool of combat-ready forces, and, obviously, the strategic initiative that will remain in the enemy’s hands.
+However, looking into the situation that the Ukrainian Armed Forces are likely to face in 2023, these things don’t look so clear. In fact, for the AFU the situation will be a complex mix of the actual location of the line of contact, the available resources, the pool of combat-ready forces, and, obviously, the strategic initiative that will remain in the enemy’s hands.
 
 Along with this, pursuing the said logic, it is necessary to note reservations about the tentative line of contact from the Ukrainian perspective. Its outlines have an extremely disadvantageous configuration in the already mentioned Izium and Bakhmut directions. Substantial efforts on the part of the Russians to wedge into Ukraine’s defenses constrain any operational maneuver and require essentially doubling the number of forces in the area to contain the enemy. The situation becomes especially acute amid the lack of firepower assets and insufficient air defenses.
 
-The situation in southern and eastern areas of Ukraine looks no better. The threat of enemy advance toward Zaporizhia has already been mentioned. In addition, there is a persistent threat enemy gaining partial success from the direction of Hulyai Pole, which under certain conditions could create a threat of an entire grouping of Ukrainian troops in the east of Ukraine being encircled.
+The situation in southern and eastern areas of Ukraine looks no better. The threat of enemy advance toward Zaporizhia has already been mentioned. In addition, there is a persistent threat of the enemy gaining partial success from the direction of Hulyai Pole, which under certain conditions could create a threat of an entire grouping of Ukrainian troops in the east of Ukraine being encircled.
 
 The fact that the enemy has an operational bridgehead on the right bank of the Dnipro River requires additional efforts to prevent its expansion.
 
@@ -6732,7 +6732,7 @@ Air raid sirens, missile attacks and bombardments of peaceful settlements, flows
 
 At the same time, for ordinary citizens and AFU, all of the above has already become an integral part of everyday life. In terms of the engagement of personnel and equipment, Ukraine's effort to repel Russian aggression has already exceeded certain indicators of hostilities waged on its territory during WW2. The deployment of effective resistance to the more than 300,000-strong Russian grouping required mobilization of hundreds of thousands of troops and the need to equip them with tens of thousands of pieces of military equipment. As for the daily munitions expenditure in Ukraine’s Armed Forces in terms of artillery rounds per gun, it is triple the rate recorded by the British Army’s Royal Artillery during WWI. Taking into account the duration of the war and the prospects for the 2023 campaign, it is unlikely that these numbers will be decreasing.
 
-Ukraine's effort to survive an onslaught of a superpower requires, and will continue to require, significant material resources and funds. In 2023, the significant volumes of military and technical assistance from partner countries must remain the material core of Ukraine’s resistance. After all, despite its own losses due to Russian sanctions, dependence on Russian energy and individual attempts to pacify Russia, no country will ever be forgiven in world history for appeasing a blood-thirsty predator that gets further intoxicated on the blood it sheds.
+Ukraine's effort to survive an onslaught of a superpower requires, and will continue to require, significant material resources and funds. In 2023, the significant volumes of military and technical assistance from partner countries must remain the material core of Ukraine’s resistance. After all, despite its own losses due to Russian sanctions, its dependence on Russian energy and individual attempts to pacify Russia, no country will ever be forgiven by history for appeasing a blood-thirsty predator that gets further intoxicated on the blood it sheds.
 
 Another factor is the direct threat of the use by Russia, under certain circumstances, of tactical nuclear weapons. Battles on the territory of Ukraine have already demonstrated how much the Russian Federation neglects the issues of global nuclear security even in a conventional war[5](#footnote-5). In particular, since July 2022, Russian troops have set up a military base at the Zaporizhia Nuclear Power Plant, deploying heavy artillery, including BM-30 Smerch multiple rocket launchers, on its premises[6](#footnote-6).
 
@@ -7066,13 +7066,13 @@ Earlier in the day, Russia’s Defense Minister Sergei Shoigu and Putin addresse
 [Image]
 *c/o US Department of Defense*
 
-I watched General Pat’s 38-minute briefing at the Pentagon, so you don’t have to. The first five minutes are about what the US Defense Department is doing to fulfill its *sacred obligation* make life more affordable for underpaid American soldiers, e.g. reforming the commissary funding model.
+I watched General Pat’s 38-minute briefing at the Pentagon, so you don’t have to. The first five minutes are about what the US Defense Department is doing to fulfill its *sacred obligation* to make life more affordable for underpaid American soldiers, e.g. reforming the commissary funding model.
 
 *(**Disclaimer:** From 1981 to 1984, I paid rent with cartons of cigarettes and booze purchased at the [Truman Plaza PX](https://catalog.archives.gov/search?q=Truman%20Plaza%20main%20PX,%20an%20Army%2FAir%20Force%20Exchange%20facility&tabType=image&rows=100&f.materialsType=photographsandgraphics) in Berlin).*
 
 On the Ukraine jacket, Pat said Russia’s invasion of Ukraine **has been a gigantic failure that’s expected to get worse**. He talked a lot about PDAs ([Presidential Drawdown Authority for Ukraine](https://crsreports.congress.gov/product/pdf/IF/IF12040)). What I found most interesting about his presentation were the weird medals on his chest. They look very heavy.
 
-Two days before Russia launched its all-out invasion in, Putin demanded[1](#footnote-1)
+Two days before Russia launched its all-out invasion, Putin demanded[1](#footnote-1)
 
 1. Ukraine’s de-nazification
 2. Ukraine’s demilitarization
@@ -7084,7 +7084,7 @@ Ukraine, of course, met none of these demands, and Russia launched an all-out in
 
 [Image]
 
-We, of course, ignored and disparaged Fred, depending on our mood, ragged a bit on foreign legionairre TikTokers, except our Sheik Mansur Battalion buddies, and disgregarded bullshit UK intelligence reports.
+We, of course, ignored and disparaged Fred, depending on our mood, ragged a bit on foreign legionnaire TikTokers, except our Sheik Mansur Battalion buddies, and disregarded bullshit UK intelligence reports.
 
 Next came the 2022 running season, which kicked off in mid May.
 
@@ -7191,7 +7191,7 @@ There is no reason to think that nuclear war is inevitable, but the trend is now
 
 National Bank of Ukraine head Kyrylo Shevchenko has resigned because of health-related issues, according to his [Facebook page](https://www.facebook.com/KyryloShevchenkoCEO/posts/pfbid0rSLXm7KWtR9UCX1py1eerjPSybhCmWx7N4cUPmNNwBVC54z7o7ZPjCDAnD1VaViFl). We will remember him for bailing out banks belonging to his friends and printing lots of hryvnia.
 
-The story Shevchenko’s path from TERF in Tula to trans-inclusive in Kyiv via Stakhanov by way of Kharkiv sounded impressive at the time, when we all ignored the Finance and Credit Bank horror stories[1](#footnote-1).
+The story of Shevchenko’s path from TERF in Tula to trans-inclusive in Kyiv via Stakhanov by way of Kharkiv sounded impressive at the time, when we all ignored the Finance and Credit Bank horror stories[1](#footnote-1).
 
 Alas, Operation Y has long been forgotten and we must move on[2](#footnote-2).
 
@@ -7203,12 +7203,12 @@ In related news, dozens of Ukrainian economists, sociologists, legal experts, sc
 
 Defeating Russia should mean it’s time for Ukraine’s top officials to kill the dragon in themselves, but they’re not thinking about Schwartz’s play[3](#footnote-3)[4](#footnote-4).
 
-Ukraine has a remained a *sham democracy*, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings and war (2000, 2004, 2014, 2022). Absent them, even the illusion of tolerance, much less official competency, would not exist[5](#footnote-5).
+Ukraine has remained a *sham democracy*, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings and war (2000, 2004, 2014, 2022). Absent them, even the illusion of tolerance, much less official competency, would not exist[5](#footnote-5).
 
 Punchy combinations of frankness and emotional power don’t trump competent governance. In other words, message isn’t as important as reality, minus cuddle parties and pep talks[6](#footnote-6).
 
 [Image]
-*They will all by dragons again (handpainted sticker on a Kyiv signpost - July, 2020)*
+*They will all be dragons again (handpainted sticker on a Kyiv signpost - July, 2020)*
 
 ---
 
@@ -7857,7 +7857,7 @@ What?
 
 [Image]
 
-Dear Henry! Russia has achieved *nothing* militarily in this almost 9-month campaign. **Rinse, repeat..** And you, Henry, assisted a bloody dictator!
+Dear Henry! Russia has achieved *nothing* militarily in this almost 9-month campaign. **Rinse, repeat.** And you, Henry, assisted a bloody dictator!
 
 Somewhere in the gaping void of insecurity that permeates dispatches about our unspeakable tragedy there lie previously ignored democracy promotion possibilities. We know flaks employed by NYT and FT haven’t found them yet. Timothy Snyder [@CNN](https://edition.cnn.com/videos/tv/2022/11/11/timothy-snyder-ukraine-midterms-democracy-history.cnn) thinks he has, but we’re not convinced.
 
@@ -8171,7 +8171,7 @@ From the onset of the all-out invasion, Russia’s weapons could hit targets 2,0
 
 > As long as the current situation persists, this war can last for years.
 
-Rinse, repeat.. We need to knock Russia off balance instead of playing invincibility games with diesel generators.
+Rinse, repeat. We need to knock Russia off balance instead of playing invincibility games with diesel generators.
 
 [1](#footnote-anchor-1)
 
@@ -8275,7 +8275,7 @@ Pop rock stars[1](#footnote-1), Hollywood actors[2](#footnote-2) and presidentia
 
 Before the February 2022, the outside world lived in fantasy land about Ukraine and Z because of loopy reporting. No one was *that* interested in Kyiv until the blitzkrieg. World leaders have only just recently showed signs of coming to their senses.
 
-A lot of people have asked whether Z and his followers can be convinced to reach an accommodation with Vova in order to end the bloodletting. The answer is no for a zillion reasons. Russia’s military forces in Ukraine must be defeated and driven out. It’s a simple as that. The invaders must die. Rinse, repeat..
+A lot of people have asked whether Z and his followers can be convinced to reach an accommodation with Vova in order to end the bloodletting. The answer is no for a zillion reasons. Russia’s military forces in Ukraine must be defeated and driven out. It’s a simple as that. The invaders must die. Rinse, repeat.
 
 Think [JDAM strikes](https://www.youtube.com/watch?v=o5bH7VurGTs&ab_channel=mattezyk69).
 
