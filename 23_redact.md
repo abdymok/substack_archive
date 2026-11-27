@@ -60,7 +60,7 @@ My favorite Twitter accounts involving Ukraine belong to [Iuliia](https://twitte
 
 Macroeconomic analysis of the mess will be provided by [Ukraine Economic Outlook](https://www.ukraine-economic-outlook.com/researches), the Kyiv-based macroeconomic analysis and forecasting group near and dear to my heart.
 
-Following Russia’s annexation of Crimea and invasion of eastern Ukraine in 2014, attempts to fix Ukraine’s economy failed, in part because there was no consensus among Ukraine’s benefactors, chiefly the International Monetary Fund, the World Bank and the U.S. government, who offered flawed guidance about which changes were necessary and which were not.
+Following Russia’s annexation of Crimea and invasion of eastern Ukraine in 2014, attempts to fix Ukraine’s economy failed, in part because there was no consensus among Ukraine’s benefactors, chiefly the International Monetary Fund, the World Bank and the U.S. government, which offered flawed guidance about which changes were necessary and which were not.
 
 There was no consensus then about what the reforms should be. Just like there is none now.
 
@@ -384,7 +384,7 @@ Many foreign journalists in Ukraine suffer from something called ‘impostor syn
 
 Take, for example, the Kyiv manicurist who during blackouts paints her own nails at state-sponsored “invincibility points" with electricity produced by donated generators. Power outages did not *cause* her self manicures, even though they have become highly, highly correlated since early in October.
 
-Other examples of *dogfooding* in big cities are abundant. One of my favorites takes place in the morning of the last Tuesday of each month in the center of town. That’s when a team of municipal workers rides around in a truck with power tools screwing in new bicycle-lane barriers. Very few people ride bicycles or scooters in Kyiv during the winter and the gut cause of extensive bicycle-lane barrier damage is unknown to me. But I suspect many are deliberately broken, or broken *enough*, in order for them to be repaired or replaced.
+Other examples of *dogfooding* in big cities are abundant. One of my favorites takes place on the morning of the last Tuesday of each month in the center of town. That’s when a team of municipal workers rides around in a truck with power tools screwing in new bicycle-lane barriers. Very few people ride bicycles or scooters in Kyiv during the winter and the root cause of extensive bicycle-lane barrier damage is unknown to me. But I suspect many are deliberately broken, or broken *enough*, in order for them to be repaired or replaced.
 
 A *dogfooding loop*, as it were.
 
@@ -392,9 +392,9 @@ A *dogfooding loop*, as it were.
 
 Which brings me to the democratization of causality.
 
-Physics, which is based on Algebra, doesn’t distinguish between these two equations, but the Causal Model does, because it differentiates between different types of perturbation and considers not only possibilities *contained* in data, but those *triggered* by data.
+Physics, which is based on algebra, doesn’t distinguish between these two equations, but the Causal Model does, because it differentiates between different types of perturbation and considers not only possibilities *contained* in data, but those *triggered* by data.
 
-We can extrapolate the model to explain the [not-so-surprising resignation](https://www.mil.gov.ua/news/2023/01/24/ministr-oboroni-ukraini-pidtrimav-prohannya-vyacheslava-shapovalova-shhodo-jogo-zvilnennya-z-posadi-zastupnika/) of Ukraine’s Deputy Defense Minister Vyachoslav Shapovalov his week after media reports caused a stir, alleging his department signed contracts with a company that was spending way too much money on eggs, *deliberately*, ostensibly to line someone’s pockets. Not exactly *dogfeeding*, but almost.
+We can extrapolate the model to explain the [not-so-surprising resignation](https://www.mil.gov.ua/news/2023/01/24/ministr-oboroni-ukraini-pidtrimav-prohannya-vyacheslava-shapovalova-shhodo-jogo-zvilnennya-z-posadi-zastupnika/) of Ukraine’s Deputy Defense Minister Vyacheslav Shapovalov this week after media reports caused a stir, alleging his department signed contracts with a company that was spending way too much money on eggs, *deliberately*, ostensibly to line someone’s pockets. Not exactly *dogfeeding*, but almost.
 
 Reasoning with uncertainty (war) isn’t the same as reasoning with cause and effect, which is a far more complicated task. Reasoning with intervention and introspection lead us to invoke causal models and ask questions, like “What are Ukraine’s objectives?” and “What is the next step?”
 
@@ -414,7 +414,7 @@ Which brings me to [Mozart Group](https://www.themozartgroup.com/).
 
 [Image]
 
-As we observed 11 months ago, Russia’s “further military invasion” has followed the script of the latest post-apocalyptic installment of the Road Warrior franchise. The story follows the archetypical "Western” frontier movie motif, as deepwoken legionnaires rediscover their humanity, travel to a foreign land and help local inhabitants liquidate marauders led by Putin’s chef[1](#footnote-1).
+As we observed 11 months ago, Russia’s “further military invasion” has followed the script of the latest post-apocalyptic installment of the Road Warrior franchise. The story follows the archetypal “Western” frontier movie motif, as deepwoken legionnaires rediscover their humanity, travel to a foreign land and help local inhabitants liquidate marauders led by Putin’s chef[1](#footnote-1).
 
 [Image]
 
@@ -602,7 +602,7 @@ Russia’s state wire service TASS quoted Hersh as [saying](https://t.me/tass_ag
 
 [Image]
 
-It was a beautiful blue cool clear day in Kyiv. The excitement of Biden's not-so-secret visit to Kyiv could be felt everywhere in the capital. Secret service agents have been scouting out the capital for weeks.
+It was a beautiful blue cool clear day in Kyiv. The excitement of Biden's not-so-secret visit to Kyiv could be felt everywhere in the capital. Secret Service agents have been scouting out the capital for weeks.
 
 A day before Biden's arrival, Russia eerily staged large-scale strategic (nuclear) deterrence training exercises and turned on its “Monolith” central command system, a gesture as costly as it is meaningless, because what will happen can’t be avoided.
 
@@ -612,7 +612,7 @@ Wouldn't it be easier for the Supreme Commander to respond symmetrically and fly
 
 [Image]
 
-The realization of the simple fact that Putin might actually turn Ukraine into a pile of radioactive dust has led to a result that was exactly the opposite of what Kremlin planners were counting on. That’s because what will happen cannot be avoided. If someone wants to kill himself, there’s little you can do to prevent it. An increasing number of western leaders are thinking that if armageddon is indeed inevitable, then why bother delaying it.
+The realization of the simple fact that Putin might actually turn Ukraine into a pile of radioactive dust has led to a result that was exactly the opposite of what the Kremlin planners were counting on. That’s because what will happen cannot be avoided. If someone wants to kill himself, there’s little you can do to prevent it. An increasing number of Western leaders are thinking that if armageddon is indeed inevitable, then why bother delaying it.
 
 We came to that conclusion on Day 14[1](#footnote-1).
 
@@ -654,13 +654,13 @@ Tomorrow, we’ll mark the ninth anniversary of the [massacre](https://abdymok.b
 
 Following Biden’s trip to Kyiv on Monday morning, Vitaly Portnikov [recalls](https://youtu.be/nhG57vnjMmM) Ronald Reagan’s visit to West Berlin in 1987, when in front of the Brandenburg Gate he asked Gorbachev to tear down the wall, signalling to the world that it’s possible — and necessary — for good to conquer evil. That’s probably the Berlin speech most Americans remember.
 
-But I hark back to remarks Reagan delivered five years *earlier* in front of the Charlottenburg Palace, where he blurted out the “[Berlin bleibt doch Berlin](https://www.google.com/search?q=berlin+bleibt+doch+berlin&oq=Berlin+bleibt+doch+Berlin&aqs=chrome.0.0i355i512j46i512j0i22i30i625l2j0i22i30j0i22i30i625l2j0i390l3.1125j0j4&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7d17c78b,vid:MT-e8E_9aM4)” the chorus of a folk song everyone laughed about afterwards.
+But I hark back to remarks Reagan delivered five years *earlier* in front of the Charlottenburg Palace, where he blurted out “[Berlin bleibt doch Berlin](https://www.google.com/search?q=berlin+bleibt+doch+berlin&oq=Berlin+bleibt+doch+Berlin&aqs=chrome.0.0i355i512j46i512j0i22i30j0i22i30.1125j0j4&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7d17c78b,vid:MT-e8E_9aM4),” the chorus of a folk song everyone laughed about afterwards.
 
 [Video: https://youtu.be/0\_01DoypQQM]
 
 The enclave at the time was [chock full of irony](https://abdymok.substack.com/p/the-hill-fce76b85bb86?utm_source=%2Fsearch%2Fusm-5&utm_medium=reader2), sexual tension and intellectual ferment, enriched with fingerfuls of hash and concerts at the Metropol. As I recall, Olaf, today’s chancellor of Germany, was [staging protests](https://www.washingtonpost.com/archive/politics/1983/10/23/more-than-a-million-protest-missiles-in-western-europe/9d703245-36fa-40ce-8714-e281f796a472/) to prevent the United States from stationing Pershing missiles in Europe.
 
-In his 1982 pep talk, Reagan invoked Thomas Mann, who once wrote that “A man lives not only his personal life as an individual, but also consciously or unconsciously the life of his epoch.'' I liked that part.
+In his 1982 pep talk, Reagan invoked Thomas Mann, who once wrote that “A man lives not only his personal life as an individual, but also consciously or unconsciously the life of his epoch.” I liked that part.
 
 The same words describe Kyiv today … *where each moment of everyday life is spent against the backdrop of suffering and chaos. To be a Ukrainian is to live the great historic struggle of this age, the latest — hopefully not fatal — chapter in our endless quest for fast running times and liberty*.
 
@@ -682,11 +682,11 @@ We’ve come a long way since Day 26 of Russia’s full-out invasion, but not ne
 
 [Image]
 
-No sooner than I had recalled 1982 Ronald’s speech in Berlin did Timothy Snyder slap up a bunch of Thomas Mann quotes on Twitter[1](#footnote-1).
+No sooner had I recalled Ronald’s 1982 speech in Berlin than Timothy Snyder slapped up a bunch of Thomas Mann quotes on Twitter[1](#footnote-1).
 
-Modern history tells us that Ukrainians haven’t been well served by their **elected** leaders, most of whom have been cahoots with Russia or stupid[2](#footnote-2).
+Modern history tells us that Ukrainians haven’t been well served by their **elected** leaders, most of whom have been in cahoots with Russia or stupid[2](#footnote-2).
 
-> More six years since the start of the Revolution of Dignity, Ukraine remains a **sham democracy**. It is a primitive post-soviet feudal autocracy. Democracy here is not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of democracy would not exist[3](#footnote-3).
+> More six years since the start of the Revolution of Dignity, Ukraine remains a **sham democracy**. It is a primitive post-Soviet feudal autocracy. Democracy here is not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of democracy would not exist[3](#footnote-3).
 
 One year of war hasn’t changed this.
 
@@ -1371,7 +1371,7 @@ Developments in Ukraine today are putting their stamp on the way that the strugg
 
 Maybe, but not as cool as the boastful and fatalistic Irish, who today are making progress, slow progress. Ukrainians are indeed wonderful, like people everywhere, but not without gigantic governance problems.
 
-**As we are fond of repeating:** Ukraine remains a sham democracy. It is a primitive post-soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of democracy would not exist[4](#footnote-4).
+**As we are fond of repeating:** Ukraine remains a sham democracy. It is a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of democracy would not exist[4](#footnote-4).
 
 This war might change that, or it might not.
 
@@ -3499,7 +3499,7 @@ When it comes to its northern neighbor, Ukraine has little to be proud of. From 
 
 Besides, cheap Belarusian bitumen! But resource allocation puzzles involving non-cooperating agents where everyone uses the same wacko strategy, are guaranteed to fall apart, no matter what they are. Political upheaval — like revolutions — and war just adds more layers of complexity[4](#footnote-4).
 
-Ukraine, like Belarus and Russia, remains a **sham democracy**. It is a primitive post-soviet feudal autocracy. Democracy here is not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of democracy would not exist[5](#footnote-5). Maybe this will change after the war.
+Ukraine, like Belarus and Russia, remains a **sham democracy**. It is a primitive post-Soviet feudal autocracy. Democracy here is not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of democracy would not exist[5](#footnote-5). Maybe this will change after the war.
 
 The bureaucratic condition of the country is depressingly consistent: a ludicrous system that’s politically unrealistic and dangerously over-regulated. Here’s incomplete list of state agencies *looking after* domestic and foreign investors, not including the State Migration Service and [investment nannies](https://vlex.com/vid/investment-nanny-law-adopted-854321528).
 
