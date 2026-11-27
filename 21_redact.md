@@ -1127,11 +1127,9 @@ Butusov added that only respect for the state and the office of the president he
 
 ---
 
-######
 
 [Image]
 
-######
 
 The coup (переворот), part of the sub-genre of political hip hop, is once again in vogue in Ukraine, thanks to Z, who kicked off the proceedings with a lame attempt to regain a degree of authority against the background of constant criticism regarding the Wagnergate fuck-up and other serious allegations of impropriety and stupidity, like using the State Emergency Service as a helicopter taxi service.
 
@@ -1222,7 +1220,6 @@ This is why the Kremlin’s Plan A failed.
 
 [Ported over an old Medium entry, titled “[anschluss of ukraine before — or after — sochi olympics](https://abdymok.substack.com/p/the-kremlins-plan-anschluss-of-ukraine-before-or-after-sochi-olympics-6ac57530e063): *the kremlin had contingency plans (October 25, 2014*)]
 
-###
 
 ---
 
@@ -1279,7 +1276,6 @@ The two red blobs in upper left corner of the map (*below*) represent military f
 
 On November 29, Lukashenko said Minsk would not sit idly on the sidelines if his blood brother declares all out war with Ukraine. "It is clear whose side Belarus will be on," he said.
 
-######
 
 ---
 
