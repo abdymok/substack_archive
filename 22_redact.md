@@ -4363,7 +4363,7 @@ Dmytro thinks Ukraine has *[finally won the trust](https://www.politico.com/news
 
 Ukraine’s first wartime foreign minister and Tony again met on Sunday in Berlin, where the two men chatted about the war. Both attended a NATO foreign ministers’ meeting there to discuss supplies of humanitarian assistance and the weapons needed to defend against Russia.
 
-War, poverty, stupidity and disease have prevented Ukraine from realizing its full potential since at least 2019, with poor judgment and comprehension, among other mental limitations, leading to a series of grotesque and more or less self-inflicted failures in democratic governance and foreign relations.
+War, poverty, stupidity and disease have prevented Ukraine from realizing its full potential since since at least 2019, with poor judgment and comprehension, among other mental limitations, leading to a series of grotesque and more or less self-inflicted failures in democratic governance and foreign relations.
 
 Tiger Team[1](#footnote-1) in November, December, January and February informed Ukraine’s leaders, Dmytro included, that Putin intended to launch an all-out invasion and decapitate Kyiv. Central Intelligence Agency Director William Burns even met with Ze in the capital to brief him in person about the Kremlin’s plans[2](#footnote-2).
 
@@ -4411,7 +4411,7 @@ It was only matter of time before someone with an aura of credibility decided to
 *Explosion-prone macroeconomics*
 
 [Image]
-*South Korean Navy Seal with is squad somewhere in Ukraine. Photo courtesy of Visegrad 24*
+*South Korean Navy SEAL with his squad somewhere in Ukraine. Photo courtesy of Visegrad 24*
 
 The Russian invasion part of this bloody mess is rapidly coming to a close as Ukraine’s defenders, including Ken and the younger generation of Det-A deadbeats, hunt down and vaporize demoralized orcs in eastern regions of the country. Liberating areas in the south, where Russian invaders early in the campaign dug in without much, if any, resistance, will be the focus of counterattacks and panicky retreat during the upcoming months.
 
@@ -4541,7 +4541,7 @@ I am reminded again of [The Sacrifice](https://www.youtube.com/watch?v=AVjmnbVVX
 
 [Fred](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-may-19) cites an intercept [published](https://www.youtube.com/watch?v=8XKX9DwTuMU) by Ukraine’s Defence Intelligence agency suggesting some of the 400 orcs transferred to western Donetsk region from Kharkiv region are “shocked” by the intensity of the fighting compared with their previous deployment.
 
-The 4-min convo — replete with glaring transcription errors — is between a mobilized kid from Russia-occupied Donetsk region and his father. The former bitches his unit was sent to the contact line without rations and the necessary gear, not even a shovel, and says they all plan on deserting next week.
+The four-minute conversation — replete with glaring transcription errors — is between a mobilized kid from Russia-occupied Donetsk region and his father. The former bitches his unit was sent to the contact line without rations and the necessary gear, not even a shovel, and says they all plan on deserting next week.
 
 The Russia-occupation force KIA count near Popasna is likely to balloon in the upcoming days.
 
@@ -4600,7 +4600,7 @@ I’m not sure about number 3 and number 5. My eyes glaze over whenever I come i
 
 ---
 
-In other news, I took Sam the bike to the repair shop for a check-up. We decided experiment with a new crankset, chainset and seat.
+In other news, I took Sam the bike to the repair shop for a check-up. We decided to experiment with a new crankset, chainset and seat.
 
 [Image]
 
@@ -4622,9 +4622,9 @@ Maps of the battlefield today look almost static, reminiscent of World War I.
 [Image]
 *Map c/o Liveuamap*
 
-Yuriy was in Sievierodonetsk (Severodonetsk) [chatting up](https://www.youtube.com/watch?v=qqXO6486FT0) Troeshchyna resident Petr Tuzik, a commander from the National Guard’s Svoboda Battalion, amid the an artillery barrage.
+Yuriy was in Sievierodonetsk (Severodonetsk) [chatting up](https://www.youtube.com/watch?v=qqXO6486FT0) Troeshchyna resident Petr Tuzik, a commander from the National Guard’s Svoboda Battalion, amid an artillery barrage.
 
-The unit posted the video below from Rubizhne the other day.
+The unit posted a video below from Rubizhne the other day.
 
 Here are guys from the 115th Brigade responding to their comrades, who a couple of days earlier complained about being under-equipped.
 
@@ -4821,7 +4821,7 @@ Liberty *is* priceless, but you can’t enjoy it if you’ve been shot in the ba
 
 Ted and I worked for Project Development International just before the collapse of the USSR. We spent a lot of time together crisscrossing continents for Joe Filner, arranging shady deals involving everything from graphite foil, explosive rope, to iron pellets and gold dust.
 
-Ted *finally* wrote his [book](https://www.amazon.com/Herr-Krupps-Berthawerk-Theodore-Lehman/dp/0982065744), which he tested out on me in during early morning chit chats in shady basement bars across the crumbling Soviet empire.
+Ted *finally* wrote his [book](https://www.amazon.com/Herr-Krupps-Berthawerk-Theodore-Lehman/dp/0982065744), which he tested out on me during early-morning chit chats in shady basement bars across the crumbling Soviet empire.
 
 [Image]
 *Joe Filner, Project Development International CEO (c/o C-Span )*
@@ -4875,7 +4875,7 @@ Modifications of extant [rants](https://www.washingtonpost.com/national-security
 
 [Image]
 
-Just consider the many ways in which [self-aggrandizing bullshit](https://www.kyivpost.com/ukraine-politics/periscope-4.html) can be given timeliness and vitality for a for an ocean of idiots nodding right along.
+Just consider the many ways in which [self-aggrandizing bullshit](https://www.kyivpost.com/ukraine-politics/periscope-4.html) can be given timeliness and vitality for for an ocean of idiots nodding right along.
 
 The past exists to be exploited, possibilities are many and prices are negotiable. Ambitious and forward-thinking politicians (those with established ties to multinational investment bankers, please) can contact me at the usual addresses.
 
