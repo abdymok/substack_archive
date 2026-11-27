@@ -52,7 +52,7 @@ I’ll try to scare the shit out of him if our paths cross, physically, or we ca
 
 [1](#footnote-anchor-1)
 
-[Z Expresses Hope for 2025, but Russia Presses On With Attacks](https://www.nytimes.com/2025/01/01/world/europe/ukraine-russia-war-zelensky.html).I*n his New Year’s address, President Volodymyr Z of Ukraine urged continued U.S. support* ([The New York Times](http://nyt.com), January 1, 2025)
+[Z Expresses Hope for 2025, but Russia Presses On With Attacks](https://www.nytimes.com/2025/01/01/world/europe/ukraine-russia-war-zelensky.html). *In his New Year’s address, President Volodymyr Z of Ukraine urged continued U.S. support* ([The New York Times](http://nyt.com), January 1, 2025)
 
 [2](#footnote-anchor-2)
 
@@ -70,7 +70,7 @@ I’ll try to scare the shit out of him if our paths cross, physically, or we ca
 
 A new cover for a book that does not as yet exist.
 
-Matthew Livelsberger, a highly decorated active duty US Army Green Beret, shot himself in the head seconds before self-immolation. The 37-year old soldier was home on leave from Stuttgart, Germany.
+Matthew Livelsberger, a highly decorated active duty US Army Green Beret, shot himself in the head seconds before self-immolation. The 37-year-old soldier was home on leave from Stuttgart, Germany.
 
 The New Year’s Day explosion outside Trump International Hotel in Las Vegas was reported about 8:40 a.m. local time, [police said](https://www.youtube.com/watch?v=dGOmJUMTWWA).
 
@@ -84,7 +84,7 @@ The gunman, Mevlut Mert Altıntas, an officer in Ankara’s riot police squad, y
 
 [Image]
 
-A third jacket cover can be lifted from Z’s annual holiday speech featuring a not too subtle visual hint of a waving American flag superimposed on the titanium Mat’ Rodina monument.
+A third jacket cover can be lifted from Z’s annual holiday speech featuring a not-too-subtle visual hint of a waving American flag superimposed on the titanium Mat’ Rodina monument.
 
 Not unlike photographs, human speech is also composed of figurative expressions. The photographic representation of reality is a metaphorical image of another reality, which remains visually absent. Similarly, words which may be obscured or totally lacking in a tirade can be *understood* by the context of the presentation. It is not so much that the speech sounds "contain" meaning; it is rather that they "trigger" meaning.
 
@@ -163,7 +163,7 @@ No one in Ukraine should count on Donald to do the right thing. Ever.
 >
 > Today, there are big problems starting with mobilization and ending with corruption in absolutely all areas. Without justice, a society where everyone works for the same goal is impossible. And without this, in turn, the struggle is impossible.
 
-Z, meanwhile, sounds like a damaged vinyl record that plays the same segment over and over. He' is stuck in the groove between “an acceptable way out is impossible” and “a possible way out is unacceptable.” This is the same person who was told five months in advance that Russia would definitely invade and decided not to warn anyone.
+Z, meanwhile, sounds like a damaged vinyl record that plays the same segment over and over. He’s stuck in the groove between “an acceptable way out is impossible” and “a possible way out is unacceptable.” This is the same person who was told five months in advance that Russia would definitely invade and decided not to warn anyone.
 
 [1](#footnote-anchor-1)
 
