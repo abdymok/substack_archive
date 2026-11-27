@@ -140,7 +140,7 @@ Russia’s attacks have killed dozens and wounded hundreds over the last several
 
 ---
 
-## Day 680 
+## Day 680
 
 *Date: 2024-01-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -172,7 +172,7 @@ On the Taiwan jacket, [China is flying balloons over the Taiwan Strait](https://
 
 ---
 
-## Day 681 
+## Day 681
 
 *Date: 2024-01-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -264,7 +264,7 @@ As of this writing early Monday morning, at least a dozen Ту-95МС strategic 
 
 ---
 
-## Day 684 
+## Day 684
 
 *Date: 2024-01-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -423,7 +423,7 @@ Elections here are not scheduled until the war ends. Like Argentina, Ukraine is 
 
 ---
 
-## Day 688 
+## Day 688
 
 *Date: 2024-01-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -508,7 +508,7 @@ Walking above Vydubychi, Great and Blue Tits, zipping by like tiny ФОПs.
 
 ---
 
-## Day 691 
+## Day 691
 
 *Date: 2024-01-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -765,7 +765,7 @@ Polls show continued declining public trust in Z, who is a political corpse[1](#
 
 ---
 
-## Day 700 
+## Day 700
 
 *Date: 2024-01-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -777,7 +777,6 @@ We are still smack in the middle of Phase 3.
 
 [Image]
 
-### 
 
 As of this writing, Team USA has decided to suspend military assistance to Ukraine until the White House can agree with MAGA maniacs about securing the southern border, whatever that means. Team Europe says it wants to help Ukraine, but member states don’t possess enough guns and ammunition to help.
 
@@ -797,7 +796,7 @@ In related news, today Ukraine celebrates the [Day of Foreign Intelligence](http
 
 ---
 
-## Day 701 
+## Day 701
 
 *Date: 2024-01-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -823,7 +822,7 @@ No one in their right mind believes anything Team Russia says. About anything. T
 
 ---
 
-## Day 702 
+## Day 702
 
 *Date: 2024-01-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -901,7 +900,7 @@ In 2009, I produced my first calendar. And it was awful: the colors were off and
 
 ---
 
-## Day 704 
+## Day 704
 
 *Date: 2024-01-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -953,7 +952,7 @@ When it comes to intelligence about Ukraine, we should be relying more on induct
 
 ---
 
-## Day 705 
+## Day 705
 
 *Date: 2024-01-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -977,7 +976,7 @@ Nikki [sez](https://www.cnbc.com/2024/01/28/nikki-haley-slams-trump-for-trying-t
 
 ---
 
-## Day 706 
+## Day 706
 
 *Date: 2024-01-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1060,7 +1059,7 @@ Or maybe [this](https://www.facebook.com/karl.volokh/posts/pfbid08SZueckF3KYzSu2
 
 ---
 
-## Day 707ish 
+## Day 707ish
 
 *Date: 2024-01-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1084,7 +1083,7 @@ We got the answer to the second question yesterday evening. Most Ukrainians woul
 
 ---
 
-## Day 707 
+## Day 707
 
 *Date: 2024-01-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1122,7 +1121,7 @@ It obviously does not.
 
 ---
 
-## Day 708 
+## Day 708
 
 *Date: 2024-02-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1156,7 +1155,7 @@ The Aidar Battalion in which Zhenya served during 2014 was a rag tag bunch. The 
 
 ---
 
-## Day 709 
+## Day 709
 
 *Date: 2024-02-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1276,7 +1275,7 @@ Only are closing in on the 10-year anniversary of the start of Russia’s invasi
 
 ---
 
-## Day 715 
+## Day 715
 
 *Date: 2024-02-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1442,7 +1441,7 @@ Z refuses to recognize that his current term as president is his last. This, per
 
 ---
 
-## Day 720 
+## Day 720
 
 *Date: 2024-02-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1494,7 +1493,7 @@ We will keep tabs on this foolishness.
 
 ---
 
-## Day 721 
+## Day 721
 
 *Date: 2024-02-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1540,7 +1539,7 @@ Mike probably wants to chit chat about the idiotic linkage of the measure to bor
 
 ---
 
-## Day 722 
+## Day 722
 
 *Date: 2024-02-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1593,7 +1592,7 @@ David at [The Atlantic](http://theatlantic.com) examines [Republican Party, Inc]
 
 ---
 
-## Day 723 
+## Day 723
 
 *Date: 2024-02-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1741,7 +1740,7 @@ And, of course, marking the 10-year anniversary.
 
 ---
 
-## Day 727 
+## Day 727
 
 *Date: 2024-02-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1777,7 +1776,7 @@ As you can see in this photo, the weather in Kyiv is wonderful. It’s has been 
 
 ---
 
-## Day 728 
+## Day 728
 
 *Date: 2024-02-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1891,7 +1890,7 @@ Words matter. Not making sense is a bad idea in the middle of a war.
 
 ---
 
-## Day 733 
+## Day 733
 
 *Date: 2024-02-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1938,7 +1937,7 @@ On the Team USA jacket, Uncle Joe [is scheduled to meet](https://www.bloomberg.c
 
 ---
 
-## Day 734 
+## Day 734
 
 *Date: 2024-02-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -1978,7 +1977,7 @@ On the macroeconomic jacket, I lingered on page 28 of Ukraine Economic Outlook�
 
 ---
 
-## Day 735 
+## Day 735
 
 *Date: 2024-02-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2142,7 +2141,7 @@ Devoted readers of this Substack will recall the post about dogfeeding from Janu
 
 ---
 
-## Day 738 
+## Day 738
 
 *Date: 2024-03-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2248,7 +2247,7 @@ It is difficult to be pessimistic on a sunny spring day after surviving the tent
 
 ---
 
-## Day 741 
+## Day 741
 
 *Date: 2024-03-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2302,7 +2301,7 @@ Ukraine will play defense in 2024 and go back on the attack in 2025, provided we
 
 ---
 
-## Day 742 
+## Day 742
 
 *Date: 2024-03-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2346,7 +2345,7 @@ I leave you with today’s presidential pep talk.
 
 ---
 
-## Day 743 
+## Day 743
 
 *Date: 2024-03-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2408,7 +2407,7 @@ Looking on the bright side, more than 1,000 dead invaders. KIA counts have been 
 
 ---
 
-## Day 745 
+## Day 745
 
 *Date: 2024-03-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2505,7 +2504,7 @@ And, finally, Russia [reportedly](https://gazeta.ua/ru/articles/np/_veroyatnoe-u
 
 ---
 
-## Day 747 
+## Day 747
 
 *Date: 2024-03-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2545,7 +2544,7 @@ Berliner Zeitung published a [nice story](https://www.berliner-zeitung.de/mensch
 
 ---
 
-## Day 748 
+## Day 748
 
 *Date: 2024-03-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2587,7 +2586,7 @@ Today’s song of the day: Babylon
 
 ---
 
-## Day 749 
+## Day 749
 
 *Date: 2024-03-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2683,7 +2682,7 @@ I’m tempted to get a pair of [HOKA Cielo X1s](https://www.youtube.com/watch?v=
 
 ---
 
-## Day 751 
+## Day 751
 
 *Date: 2024-03-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2764,7 +2763,7 @@ The main differences between nerves and sinews lies in their anatomical structur
 
 ---
 
-## Day 755 
+## Day 755
 
 *Date: 2024-03-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2822,7 +2821,7 @@ Today’s song of the day is Temporary. Buy multiple copies! The last gig of the
 
 ---
 
-## Day 756 
+## Day 756
 
 *Date: 2024-03-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -2874,7 +2873,7 @@ On the Russian jacket, practicing philosopher Vladimir Pastukhov [opines](https:
 
 ---
 
-## Day 757 
+## Day 757
 
 *Date: 2024-03-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3335,7 +3334,7 @@ Yuriy has all the details:
 
 ---
 
-## Day 768 
+## Day 768
 
 *Date: 2024-04-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3421,7 +3420,7 @@ Yep.
 
 ---
 
-## Day 770 
+## Day 770
 
 *Date: 2024-04-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3455,7 +3454,7 @@ Andy co-founded [Mozart Group,](https://twitter.com/andymilburn8/status/16205091
 
 ---
 
-## Day 771 
+## Day 771
 
 *Date: 2024-04-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3561,7 +3560,7 @@ According to the [Institute of Mass Information (IMI)](https://imi.org.ua/monito
 
 ---
 
-## Day 773 
+## Day 773
 
 *Date: 2024-04-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3631,7 +3630,7 @@ Turns out he also specializes in *miscoding*.
 
 ---
 
-## Day 775 
+## Day 775
 
 *Date: 2024-04-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3677,7 +3676,7 @@ Ending on a positive note, this video of a thwarted attack on the zero line near
 
 ---
 
-## Day 776 
+## Day 776
 
 *Date: 2024-04-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3769,7 +3768,7 @@ And, finally, [c/o Yuriy](https://t.me/ButusovPlus/9420), a Ukrainian soldier, n
 
 ---
 
-## Day 778 
+## Day 778
 
 *Date: 2024-04-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3823,7 +3822,7 @@ In other news, [Ukraine Economic Outlook](https://ueoweekly.substack.com/) shows
 
 ---
 
-## Day 779 
+## Day 779
 
 *Date: 2024-04-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3885,7 +3884,7 @@ Meir’s wisdom [extends further](https://web.archive.org/web/20080625025712/htt
 
 ---
 
-## Day 782 
+## Day 782
 
 *Date: 2024-04-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3939,7 +3938,7 @@ Finally, street fighting with Humvees. The 57th? Wait for it:
 
 ---
 
-## Day 783 
+## Day 783
 
 *Date: 2024-04-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -3967,7 +3966,7 @@ This is indeed a big moment for Mike, who delayed consideration of aid to Ukrai
 
 ---
 
-## Day 784 
+## Day 784
 
 *Date: 2024-04-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4141,7 +4140,7 @@ Here’s what’s left of Serebyansky Forest south of Kreminna in Luhansk region
 
 ---
 
-## Day 790 
+## Day 790
 
 *Date: 2024-04-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4171,7 +4170,7 @@ Hoka’s [J-Frames(TM)](https://www.facebook.com/watch/?v=616908319584876) in my
 
 ---
 
-## Day 791 
+## Day 791
 
 *Date: 2024-04-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4203,7 +4202,7 @@ The latest batch of guns and ammo is not a response to the strategic challenges 
 
 ---
 
-## Day 792 
+## Day 792
 
 *Date: 2024-04-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4237,7 +4236,7 @@ Have a wonderful day!
 
 ---
 
-## Day 793 
+## Day 793
 
 *Date: 2024-04-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4588,7 +4587,7 @@ It’s hard to imagine why any military draft anywhere would be successful in th
 
 ---
 
-## Day 803 
+## Day 803
 
 *Date: 2024-05-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4646,7 +4645,7 @@ Looking on the bright side, Hakeem’s no-bullshit message makes sense. He didn�
 
 ---
 
-## Day 805 
+## Day 805
 
 *Date: 2024-05-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4696,7 +4695,7 @@ Passionarians were the first whom Russians hunted for first in occupied Ukraine.
 
 ---
 
-## Day 806 
+## Day 806
 
 *Date: 2024-05-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4771,7 +4770,7 @@ https://tinyurl.com/2x9cr2aj
 
 ---
 
-## Day 810 
+## Day 810
 
 *Date: 2024-05-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -4855,7 +4854,7 @@ Oleh says 200 residents are still waiting to be evacuated.
 
 ---
 
-## Day 812 
+## Day 812
 
 *Date: 2024-05-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5015,7 +5014,7 @@ And, finally, Belarus, where Lukashenko has instructed the new KGB chief to thwa
 
 ---
 
-## Day 818 
+## Day 818
 
 *Date: 2024-05-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5131,7 +5130,7 @@ Yuriy, a critic, [offers a critique](https://www.youtube.com/watch?v=GGa4C14ykpI
 
 ---
 
-## Day 820 
+## Day 820
 
 *Date: 2024-05-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5231,7 +5230,7 @@ I watched Z’s hour-long pow wow with [The New York Times](https://www.facebook
 
 ---
 
-## Day 824 
+## Day 824
 
 *Date: 2024-05-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5328,7 +5327,7 @@ And, finally, on a lighter note:
 
 ---
 
-## Day 826 
+## Day 826
 
 *Date: 2024-05-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5356,7 +5355,7 @@ Stefaniia is a Ukrainian journalist who leaving the Reuters news bureau in Kyiv 
 
 ---
 
-## Day 827 
+## Day 827
 
 *Date: 2024-05-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5384,7 +5383,7 @@ The Interfax-Ukraine news agency has been flooded by [condolence messages](https
 
 ---
 
-## Day 828 
+## Day 828
 
 *Date: 2024-05-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5602,7 +5601,7 @@ That said, what [The Washington Post](http://wapo.st) put their top editor throu
 
 ---
 
-## Day 834 
+## Day 834
 
 *Date: 2024-06-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5682,7 +5681,7 @@ And finally, Chien-Chi Chang’s [Under the Banner. No Escape](https://www.mirro
 
 ---
 
-## Day 838 
+## Day 838
 
 *Date: 2024-06-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5714,7 +5713,7 @@ Details [here](https://interfax.com.ua/news/general/992397.html).
 
 ---
 
-## Day 839 
+## Day 839
 
 *Date: 2024-06-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5754,7 +5753,7 @@ Never end an article with a quote.
 
 ---
 
-## Day 840 
+## Day 840
 
 *Date: 2024-06-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5838,7 +5837,7 @@ So, good for him!
 
 ---
 
-## Day 842 
+## Day 842
 
 *Date: 2024-06-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5868,7 +5867,7 @@ Russia first invaded Ukraine in February 20, 2014. This is the 11th year of the 
 
 ---
 
-## Day 843 
+## Day 843
 
 *Date: 2024-06-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5956,7 +5955,7 @@ I eat meat rarely. Yesterday’s barbecue was an exception. Very tasty, not very
 
 ---
 
-## Day 845 
+## Day 845
 
 *Date: 2024-06-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6036,7 +6035,7 @@ Unlike running, ibogamine (Ibogaine, Iboga) is no pleasure party. It’s a monot
 
 ---
 
-## Day 847 
+## Day 847
 
 *Date: 2024-06-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6074,7 +6073,7 @@ Donations are free!
 
 ---
 
-## Day 848 
+## Day 848
 
 *Date: 2024-06-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6108,7 +6107,7 @@ We wrote about that on [Day 847](https://abdymok.substack.com/p/day-847).
 
 ---
 
-## Day 849 
+## Day 849
 
 *Date: 2024-06-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6272,7 +6271,7 @@ Kellogg and Fleitz authored a paper, titled “[America First, Russia, & Ukraine
 
 ---
 
-## Day 853 
+## Day 853
 
 *Date: 2024-06-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6404,7 +6403,7 @@ And, finally, some time this week – during the time it took for my aging, perf
 
 ---
 
-## Day 859 
+## Day 859
 
 *Date: 2024-07-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6466,7 +6465,7 @@ Looking on the positive side, [Russian KIA counts](https://russian-casualties.in
 
 ---
 
-## Day 860 
+## Day 860
 
 *Date: 2024-07-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6564,7 +6563,7 @@ Easy enough to laugh at. That is, until its impact [hits home](https://abdymok.s
 
 ---
 
-## Day 861 
+## Day 861
 
 *Date: 2024-07-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6630,7 +6629,7 @@ Turned out Tucker [lied](https://t.me/tayni_deputata/9473).
 
 ---
 
-## Day 861ish 
+## Day 861ish
 
 *Date: 2024-07-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6834,7 +6833,7 @@ We’ll end today’s post with this video of Modi and Vova yucking it up yester
 
 ---
 
-## Day 868 
+## Day 868
 
 *Date: 2024-07-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6946,7 +6945,7 @@ And, finally, a 25-year old man [jumped from the glass bridge](https://www.44.ua
 
 ---
 
-## Day 870 
+## Day 870
 
 *Date: 2024-07-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -6988,7 +6987,7 @@ Finally, sad [news](https://www.abc.net.au/news/2024-07-12/seven-australians-kil
 
 ---
 
-## Day 873 
+## Day 873
 
 *Date: 2024-07-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7136,7 +7135,7 @@ We recall that nimrods working for [The Washington Post](https://www.youtube.com
 
 ---
 
-## Day 875 
+## Day 875
 
 *Date: 2024-07-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7345,7 +7344,7 @@ Yesterday, practicing philosopher Volodymyr Pastukhov used the *dying on this hi
 
 ---
 
-## Day 880 
+## Day 880
 
 *Date: 2024-07-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7405,7 +7404,7 @@ When I was a drug dealer for [MSD](https://www.msd.com/) during the early 1990s,
 
 ---
 
-## Day 881 
+## Day 881
 
 *Date: 2024-07-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7457,7 +7456,7 @@ Whatever happens next, the frame seems be shifting, ever so slightly, thanks, in
 
 ---
 
-## Day 882 
+## Day 882
 
 *Date: 2024-07-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7525,7 +7524,7 @@ It would be disingenuous to claim that Z's universal magnetism is down to vibe a
 
 ---
 
-## Day 883 
+## Day 883
 
 *Date: 2024-07-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7647,7 +7646,7 @@ VO₂ max is given in two ways: absolute and relative. Absolute is given in lite
 
 ---
 
-## Day 887 
+## Day 887
 
 *Date: 2024-07-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7729,7 +7728,7 @@ Unfortunately, something has to give. In order to accomplish Z’s goals, Ukrain
 
 ---
 
-## Day 888 
+## Day 888
 
 *Date: 2024-07-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7775,11 +7774,10 @@ As we noted yesterday, there is no polemic between Z and his top managers and or
 
 [Day 887](https://abdymok.substack.com/p/day-887). *An addict never stops growing. Stupider.* (July 29, 2024)
 
-###
 
 ---
 
-## Day 889 
+## Day 889
 
 *Date: 2024-07-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7825,7 +7823,7 @@ Looking on the positive side, dead hanging. I have started hanging from a bar to
 
 ---
 
-## Day 890 
+## Day 890
 
 *Date: 2024-08-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -7887,7 +7885,7 @@ Z blames battlefield setbacks on the failure of partners to equip three of 14 ne
 
 ---
 
-## Day 891 
+## Day 891
 
 *Date: 2024-08-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8011,7 +8009,7 @@ I had been unaware of speed-dating and the [Bumble dating app](https://bumble.co
 
 ---
 
-## Day 895 
+## Day 895
 
 *Date: 2024-08-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8173,7 +8171,7 @@ Last time I checked, JD knows zippolla about Ukraine and Germany and Russia. “
 
 ---
 
-## Day 898 
+## Day 898
 
 *Date: 2024-08-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8281,7 +8279,7 @@ Some might argue that Ukraine has done the most obvious thing, finally.
 
 ---
 
-## Day 901 
+## Day 901
 
 *Date: 2024-08-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8389,7 +8387,7 @@ The end of a pithy [Telegram post](https://t.me/v_pastukhov/1203) by practicing 
 
 ---
 
-## Day 903 
+## Day 903
 
 *Date: 2024-08-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8443,7 +8441,7 @@ Z scuppered an op — authorized in 2018 by his predecessor Petro Poroshenko —
 
 ---
 
-## Day 904 
+## Day 904
 
 *Date: 2024-08-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8507,7 +8505,7 @@ The above video is Z introducing Kyrylenko as Donetsk region boss in 2019. Syrsk
 
 ---
 
-## Day 905 
+## Day 905
 
 *Date: 2024-08-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8594,7 +8592,7 @@ What I’m thinking about this morning is defensive fortifications that were pai
 
 ---
 
-## Day 908 
+## Day 908
 
 *Date: 2024-08-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -8774,7 +8772,7 @@ Today’s song of the day: Smile More Often by Rolliks
 
 ---
 
-## Day 912 
+## Day 912
 
 *Date: 2024-08-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9127,7 +9125,7 @@ Data on the damage and casualties are being clarified.
 
 ---
 
-## Day 923 
+## Day 923
 
 *Date: 2024-09-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9359,7 +9357,7 @@ That way we can avoid future misunderstandings about Z, [Operation Avenue](https
 
 ---
 
-## Day 929 
+## Day 929
 
 *Date: 2024-09-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9407,7 +9405,7 @@ In other news, Lucy at [The Guardian](http://theguardian.com) is getting a lot o
 
 ---
 
-## Day 930 
+## Day 930
 
 *Date: 2024-09-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9437,7 +9435,7 @@ On the running jacket, I badly stubbed my left pinky toe and am thinking of goin
 
 ---
 
-## Day 931 
+## Day 931
 
 *Date: 2024-09-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9564,7 +9562,7 @@ Yikes.
 
 ---
 
-## Day 933 
+## Day 933
 
 *Date: 2024-09-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9598,7 +9596,7 @@ On military matters, it might be better for Z to talk less and be thought a fool
 
 ---
 
-## Day 934 
+## Day 934
 
 *Date: 2024-09-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -9828,7 +9826,7 @@ No one wants to give Russian spies in Ukraine access to TERCOM datasets, which e
 
 ---
 
-## Day 939 
+## Day 939
 
 *Date: 2024-09-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -10335,7 +10333,6 @@ Methylene dioxyamphetamine came to mind. And the Hotel Moskva, where I spent wee
 
 [How the Collapse of the Soviet Union Took America By Surprise](https://lithub.com/timothy-snyder-on-how-the-collapse-of-the-soviet-union-took-america-by-surprise/). *What Freedom Means in Moments of Economic and Political Transformation* ([Literary Hub](http://lithub.com), September 17, 2024)
 
-###
 
 ---
 
@@ -10391,7 +10388,7 @@ Yeah, we can understand this impulse. And we agree than any cease-fire wouldn’
 
 ---
 
-## Day 951 
+## Day 951
 
 *Date: 2024-10-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -10466,7 +10463,7 @@ On the Kyiv running jacket, new merch[1](#footnote-1).
 
 ---
 
-## Day 953 
+## Day 953
 
 *Date: 2024-10-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -10520,7 +10517,7 @@ Same goes for the [Poisoned Drink Game](https://www.darksidedisplays.com/poisone
 
 ---
 
-## Day 954 
+## Day 954
 
 *Date: 2024-10-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -10782,7 +10779,7 @@ A shout out to all my friends living in the tropical depression that is Florida.
 
 ---
 
-## Day 961 
+## Day 961
 
 *Date: 2024-10-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -11088,7 +11085,7 @@ Looking on the bright side, Uncle Joe and Z will remain in touch, at least *virt
 
 ---
 
-## Day 968 
+## Day 968
 
 *Date: 2024-10-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -11135,7 +11132,7 @@ What some called Berlin 40 years ago. (Cf. [The Hill](https://abdymok.substack.c
 
 ---
 
-## Day 971 
+## Day 971
 
 *Date: 2024-10-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -11223,7 +11220,7 @@ Anne wrote a nice essay[1](#footnote-1).
 
 ---
 
-## Day 973 
+## Day 973
 
 *Date: 2024-10-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -11267,7 +11264,7 @@ U.S. Secretary of Defense Lloyd J. Austin III first briefed Z in person about th
 
 ---
 
-## Day 974 
+## Day 974
 
 *Date: 2024-10-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -11551,7 +11548,7 @@ Kharkiv was reportedly also hit with more Grom E1s, a hybrid of cruise missile a
 
 ---
 
-## Day 980 
+## Day 980
 
 *Date: 2024-10-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -11658,7 +11655,7 @@ I agree. To that end, Z should complain less, maybe concentrate less on partners
 
 ---
 
-## Day 982 
+## Day 982
 
 *Date: 2024-11-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -11924,7 +11921,7 @@ Z had problems w/ teleprompter last night.
 
 ---
 
-## Day 988 
+## Day 988
 
 *Date: 2024-11-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -12261,7 +12258,7 @@ And, finally, this morning’s shoot-down tally.
 
 ---
 
-## Day 995 
+## Day 995
 
 *Date: 2024-11-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -12331,7 +12328,7 @@ On the Ukraine war jacket, last night Z wore his black pajama top, talked a litt
 
 ---
 
-## Day 996 
+## Day 996
 
 *Date: 2024-11-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -12507,7 +12504,7 @@ The second funniest thing (after the OIG report) I read this morning was this:
 
 ---
 
-## Day M 
+## Day M
 
 *Date: 2024-11-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -12677,7 +12674,7 @@ Clayton is priceless in a vapid kind of way. He’ll be back with updates.
 
 ---
 
-## Day 1003 (contd) 
+## Day 1003 (contd)
 
 *Date: 2024-11-21 | Status: Published | Audience: everyone | Type: newsletter*
 
@@ -12759,7 +12756,7 @@ Maybe they know something I do not. The streets downtown are kinda empty this mo
 
 ---
 
-## Day 1004 
+## Day 1004
 
 *Date: 2024-11-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -12963,7 +12960,7 @@ Read more
 
 ---
 
-## Day 1008 
+## Day 1008
 
 *Date: 2024-11-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -13309,7 +13306,7 @@ All the talk about Ukraine being invited to join NATO — or NATO providing secu
 
 ---
 
-## Day 1014 
+## Day 1014
 
 *Date: 2024-12-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -13715,7 +13712,7 @@ Song of the day is 4’33”.
 
 ---
 
-## Day 1024 
+## Day 1024
 
 *Date: 2024-12-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -13859,7 +13856,7 @@ Z is scheduled to meet with European leaders at a beano in Brussels later this w
 
 ---
 
-## Day 1029 
+## Day 1029
 
 *Date: 2024-12-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -13905,7 +13902,7 @@ Keith will join Lex, a shill for people who often don’t know what they’re ta
 
 ---
 
-## Day 1030 
+## Day 1030
 
 *Date: 2024-12-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -13931,7 +13928,7 @@ Oh, dear.
 
 ---
 
-## Day 1031 
+## Day 1031
 
 *Date: 2024-12-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
