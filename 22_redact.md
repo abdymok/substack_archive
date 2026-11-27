@@ -6105,7 +6105,7 @@ That means the center of gravity of the bloody mess, at least for the rest of th
 [Image]
 *Residents of Kyiv contemplating news of Putin’s premature death (Photo c/o Ruslan Lobanov )*
 
-And jornoists, which brings me to yesterday’s [news](https://www.nytco.com/press/andrew-kramer-named-ukraine-bureau-chief/) about the creation of the Ukraine *bureau* of The New York Times. The announcement comes two months after The Washington Post [did the same thing](https://www.washingtonpost.com/pr/2022/05/11/isabelle-khurshudyan-max-bearak-lead-new-washington-post-bureau-kyiv/). I’m not sure about CNN. Last time I checked, they working out of a coffee shop closer to Poland.
+And jornoists, which brings me to yesterday’s [news](https://www.nytco.com/press/andrew-kramer-named-ukraine-bureau-chief/) about the creation of the Ukraine *bureau* of The New York Times. The announcement comes two months after The Washington Post [did the same thing](https://www.washingtonpost.com/pr/2022/05/11/isabelle-khurshudyan-max-bearak-lead-new-washington-post-bureau-kyiv/). I’m not sure about CNN. Last time I checked, they were working out of a coffee shop closer to Poland.
 
 Andy is already famous in Ukraine for his previous [botched reports](https://abdymok.medium.com/ukraine-baffled-by-bullshit-from-the-nyt-7c1fd32552ae) about the country from Moscow. So is Iuliia, whose *[contributions](https://www.nytimes.com/2019/05/01/us/politics/biden-son-ukraine.html)* to The New York Times before becoming Z’s spokeswoman raised eyebrows. She currently *contributes* [op-eds](https://www.washingtonpost.com/search/?query=iuliia+mendel&btn-search=) to The Washington Post. No one knows exactly what her role is at the [Kyiv Post](https://www.kyivpost.com/contact-us), which doesn’t list her on its masthead, not that it matters. Maybe she’s just a *contributor*.
 
@@ -6123,9 +6123,9 @@ Cognitive science professor Steven Pinker has [brought our attention](https://tw
 
 [Image]
 
-The *[proposal](https://gsinstitute.org/proposal-for-a-un-general-assembly-resolution-on-the-threat-of-nuclear-weapons-use-arising-from-the-ukraine-conflict/)* was published in [The Hill](https://thehill.com/opinion/international/3565996-nuclear-strategy-and-ending-the-war-in-ukraine/) on July 19 by former Costa Rica President and Nobel Peace Laureate Oscar Arias and Jonathan Granoff, President of the Global Security Institute, and a Nobel Peace Prize nominee.
+The *[proposal](https://gsinstitute.org/proposal-for-a-un-general-assembly-resolution-on-the-threat-of-nuclear-weapons-use-arising-from-the-ukraine-conflict/)* was published in [The Hill](https://thehill.com/opinion/international/3565996-nuclear-strategy-and-ending-the-war-in-ukraine/) on July 19 by former Costa Rican president and Nobel Peace laureate Oscar Arias and Jonathan Granoff, president of the Global Security Institute and a Nobel Peace Prize nominee.
 
-If history has taught us anything it’s that appeasing dictators does not work. The goal should be getting rid of Putin, not placating him. We thank Steven for bringing to our attention the proposal, which we can immediately disregard.
+If history has taught us anything, it’s that appeasing dictators does not work. The goal should be getting rid of Putin, not placating him. We thank Steven for bringing to our attention the proposal, which we can immediately disregard.
 
 In other news, Kim and Fred have teamed up with IBM and the boys and girls at the ISW’s [David Petraeus Center for Emerging Leaders](https://www.understandingwar.org/general-david-h-petraeus-center-emerging-leaders) to help us visualize FUBAR.
 
@@ -6159,7 +6159,7 @@ I enjoyed the photos, but had difficulty reading all 1,000 words. The cuddling p
 
 [Image]
 
-Wut? No, Sorry. Kyiv, especially the venues on Reiterska St. in the center, does not have a reputation of being *cool*. [Club Skrat](https://www.google.com/maps/place/Club+Skrat/@48.0538986,24.20135,19.75z/data=!4m5!3m4!1s0x4737a98d491e89f1:0xc43a209b0e4c7864!8m2!3d48.0540331!4d24.2015974) in Rakhiv is, but probably not this year because of the war and monkeypox.
+Wut? No, Sorry. Kyiv, especially the venues on Reiterska St. in the center, does not have a reputation for being *cool*. [Club Skrat](https://www.google.com/maps/place/Club+Skrat/@48.0538986,24.20135,19.75z/data=!4m5!3m4!1s0x4737a98d491e89f1:0xc43a209b0e4c7864!8m2!3d48.0540331!4d24.2015974) in Rakhiv is, but probably not this year because of the war and monkeypox.
 
 [1](#footnote-anchor-1)
 
@@ -6253,13 +6253,13 @@ nato wto chechnya milosovic afghanistan girkin cyberterrorism fsb network lukash
 
 Approaching Friendship of Peoples (Дружба Народов), I stopped so I could try to get some.
 
-It was at a stage in life when going out for the evening meant heading home no earlier than an hour before curfew, and it was a stage in time when it, — the holy grail, unavailable in Kyiv for reasons rumored to involve Russia’s attempt to decapitate the capital — would occasionally be available under the counter at small venues near the metro station.
+It was at a stage in life when going out for the evening meant heading home no earlier than an hour before curfew, and it was a stage in time when it — the holy grail, unavailable in Kyiv for reasons rumored to involve Russia’s attempt to decapitate the capital — would occasionally be available under the counter at small venues near the metro station.
 
 When they could be found, it was almost freakishly desirable. It was *one:* romantically-dangerously illegal, having fallen off a truck somewhere east of the border; *two:* far better than Ukrainе-sourced stuff (which is awful – all packaged up and disappointing); *three:* far, far better than the Moldovan crap one imagines to be found from whatever is swept up off the floor of an abandoned rural hut; and *four:* despite the markup, they were relatively cheap.
 
 On that night I remember anticipating something memorable. I’d had five glasses of white beer and listened to hours of complaints about the international legion without much enthusiasm before riding up the hill on my bicycle.
 
-At Friendship of Peoples, I dismounted, hitting the ground with a purposeful if half-drunk stride and, like any good Irishman, avoided eye contact with passer-by patrols. This being my early sixties, I was almost certainly engaged in an inner dialogue about the status of my relationships with everything.
+At Friendship of Peoples, I dismounted, hitting the ground with a purposeful if half-drunk stride and, like any good Irishman, avoided eye contact with passing patrols. This being my early sixties, I was almost certainly engaged in an inner dialogue about the status of my relationships with everything.
 
 Two stores down. No luck here, no luck there.
 
