@@ -6,7 +6,7 @@
 
 ## Day 1044
 
-*Date: 2025-01-02 | Status: Published | Audience: only_paid*
+*Date: 2025-01-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Qui Ose Gagne*
 
@@ -62,7 +62,7 @@ I’ll try to scare the shit out of him if our paths cross, physically, or we ca
 
 ## Day 1045 
 
-*Date: 2025-01-03 | Status: Published | Audience: only_paid*
+*Date: 2025-01-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Flawed and impractical *
 
@@ -100,7 +100,7 @@ Yikes.
 
 ## Day 1048
 
-*Date: 2025-01-06 | Status: Published | Audience: only_paid*
+*Date: 2025-01-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *You are the company you keep *
 
@@ -136,7 +136,7 @@ It’s the warmest winter in the history of Kyiv, so far. More than 52 warm-day 
 
 ## Day 1049
 
-*Date: 2025-01-07 | Status: Published | Audience: only_paid*
+*Date: 2025-01-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Four systemic failures*
 
@@ -185,7 +185,7 @@ Z, meanwhile, sounds like a damaged vinyl record that plays the same segment ove
 
 ## Day 1050
 
-*Date: 2025-01-08 | Status: Published | Audience: only_paid*
+*Date: 2025-01-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Windmills and whales*
 
@@ -233,7 +233,7 @@ Ingratiating himself with Donald won’t help fix that.
 
 ## Day 1051
 
-*Date: 2025-01-09 | Status: Published | Audience: only_paid*
+*Date: 2025-01-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *General Rule Number 1*
 
@@ -297,7 +297,7 @@ The blast left bodies strewn across a road alongside injured residents. Public t
 
 ## Day 1052
 
-*Date: 2025-01-10 | Status: Published | Audience: only_paid*
+*Date: 2025-01-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Three questions for strangers*
 
@@ -357,7 +357,7 @@ A drone smacked into a high-rise residential building in Kyiv last night. More p
 
 ## Day 1055
 
-*Date: 2025-01-13 | Status: Published | Audience: only_paid*
+*Date: 2025-01-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *One in ten absent*
 
@@ -403,7 +403,7 @@ That Donald thinks so indicates he is spending too much time at the club with Pa
 
 ## Day 1056
 
-*Date: 2025-01-14 | Status: Published | Audience: only_paid*
+*Date: 2025-01-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Full Wolf Moon*
 
@@ -475,7 +475,7 @@ Călin Georgescu - Does Romania's Coup Reveal NATO's Desperation to Push WW3? | 
 
 ## Day 1057 
 
-*Date: 2025-01-15 | Status: Published | Audience: only_paid*
+*Date: 2025-01-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Peace through ignorance *
 
@@ -523,7 +523,7 @@ The all-clear signal was given shortly after 8 a.m..
 
 ## Day 1058
 
-*Date: 2025-01-16 | Status: Published | Audience: only_paid*
+*Date: 2025-01-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Closing wedges *
 
@@ -603,7 +603,7 @@ Terrors in my head — [deadmau5](https://www.youtube.com/watch?v=GQA3ktfGJhI)
 
 ## Day 1059 
 
-*Date: 2025-01-17 | Status: Published | Audience: only_paid*
+*Date: 2025-01-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Fairness versus collection *
 
@@ -645,7 +645,7 @@ Mostly daily updates on the 2022 Russian invasion of Ukraine.](https://stefankor
 
 ## Day 1062 
 
-*Date: 2025-01-20 | Status: Published | Audience: only_paid*
+*Date: 2025-01-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Trump's promises, Kyiv's flattery*
 
@@ -693,7 +693,7 @@ No level of assistance, covert or public, will suffice without:
 
 ## Day 1063 
 
-*Date: 2025-01-21 | Status: Published | Audience: only_paid*
+*Date: 2025-01-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Golden Age of America*
 
@@ -719,7 +719,7 @@ And, finally, here’s Elon doing his best Josh imitation. What a jackass.
 
 ## Day 1064
 
-*Date: 2025-01-22 | Status: Published | Audience: only_paid*
+*Date: 2025-01-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Femsplaining totalitarianism*
 
@@ -755,7 +755,7 @@ Looking on the bright side, the days are getting longer.
 
 ## Day 1065
 
-*Date: 2025-01-23 | Status: Published | Audience: only_paid*
+*Date: 2025-01-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Conan's dogs*
 
@@ -819,7 +819,7 @@ There are contingency plans.
 
 ## 1066
 
-*Date: 2025-01-24 | Status: Published | Audience: only_paid*
+*Date: 2025-01-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Something soup*
 
@@ -865,7 +865,7 @@ What happens this year is anyone’s guess.
 
 ## Day 1067
 
-*Date: 2025-01-25 | Status: Published | Audience: only_paid*
+*Date: 2025-01-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Holiday of disappointments *
 
@@ -895,7 +895,7 @@ In other Ukraine news, Defense Minster Rustem Umerov [sacked](https://censor.net
 
 ## Day 1069
 
-*Date: 2025-01-27 | Status: Published | Audience: only_paid*
+*Date: 2025-01-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Two peas in a pod*
 
@@ -997,7 +997,7 @@ Anne, we recall, in January wrote about obscuratism recently in an essay, titled
 
 ## Day 1070
 
-*Date: 2025-01-28 | Status: Published | Audience: only_paid*
+*Date: 2025-01-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Frères d'armes*
 
@@ -1067,7 +1067,7 @@ Warren at [The Guardian](http://thegaurdian.com) sez:
 
 ## Day 1071 
 
-*Date: 2025-01-29 | Status: Published | Audience: only_paid*
+*Date: 2025-01-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Cruelty in war is not a sin *
 
@@ -1127,7 +1127,7 @@ It's 2025 and Ukraine’s top brass isn’t the same as it was three years ago.
 
 ## Day 1073
 
-*Date: 2025-01-30 | Status: Published | Audience: only_paid*
+*Date: 2025-01-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Poppies and Sage *
 
@@ -1191,7 +1191,7 @@ The last time I checked, Albania’s president is elected by the parliament, aka
 
 ## Day 1074 
 
-*Date: 2025-01-31 | Status: Published | Audience: only_paid*
+*Date: 2025-01-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The client is always wrong *
 
@@ -1259,7 +1259,7 @@ Have a great weekend!
 
 ## Day 1075
 
-*Date: 2025-02-01 | Status: Published | Audience: only_paid*
+*Date: 2025-02-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Odesa under ballistic attack*
 
@@ -1287,7 +1287,7 @@ Just listened to Keith on FOXNEWS in a [Special Report](https://www.foxnews.com/
 
 ## Day 1077
 
-*Date: 2025-02-03 | Status: Published | Audience: only_paid*
+*Date: 2025-02-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Their tongues are wet *
 
@@ -1349,7 +1349,7 @@ Fourteen people died, including two kids, after a Russian missile flattened a re
 
 ## Day 1077ish 
 
-*Date: 2025-02-04 | Status: Published | Audience: only_paid*
+*Date: 2025-02-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Rare earth and other things *
 
@@ -1379,7 +1379,7 @@ Donald wants the other half?
 
 ## Day 1078 
 
-*Date: 2025-02-05 | Status: Published | Audience: only_paid*
+*Date: 2025-02-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Golden Age of Brown Noses*
 
@@ -1445,7 +1445,7 @@ He’ll prob also ask about combat immunity for Ukrainian military officers rece
 
 ## Day 1079
 
-*Date: 2025-02-06 | Status: Published | Audience: only_paid*
+*Date: 2025-02-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Europe's bible belt *
 
@@ -1517,7 +1517,7 @@ Andy and Lara write about how religious some Ukrainians are, leaving out the par
 
 ## Day 1084
 
-*Date: 2025-02-11 | Status: Published | Audience: only_paid*
+*Date: 2025-02-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Programmed for pleasure*
 
@@ -1561,7 +1561,7 @@ Last time I checked, the Europeans are unable to protect themselves, much less U
 
 ## Day 1085
 
-*Date: 2025-02-12 | Status: Published | Audience: only_paid*
+*Date: 2025-02-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ballistic missile attack on Kyiv *
 
@@ -1607,7 +1607,7 @@ Have a great day!
 
 ## Day 1086
 
-*Date: 2025-02-13 | Status: Published | Audience: only_paid*
+*Date: 2025-02-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Flattering appeasement*
 
@@ -1657,7 +1657,7 @@ Actually, no. The making-shit-up playbook has been poorly conceived. There were 
 
 ## Day 1087
 
-*Date: 2025-02-14 | Status: Published | Audience: only_paid*
+*Date: 2025-02-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Full Snow Moon*
 
@@ -1713,7 +1713,7 @@ Have a lovely weekend!
 
 ## Day 1090
 
-*Date: 2025-02-17 | Status: Published | Audience: only_paid*
+*Date: 2025-02-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Gelatin bravado *
 
@@ -1755,7 +1755,7 @@ It’s vulgar to dwell on what else can go wrong with Europe’s heads of state.
 
 ## Day 1091
 
-*Date: 2025-02-18 | Status: Published | Audience: only_paid*
+*Date: 2025-02-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The time loop*
 
@@ -1779,7 +1779,7 @@ Keith should decline the offer and instead inquire about why Z is so unpopular.
 
 ## Day 1092
 
-*Date: 2025-02-19 | Status: Published | Audience: only_paid*
+*Date: 2025-02-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The dogs of war *
 
@@ -1825,7 +1825,7 @@ I suspect GS is disappointed in [Scott](https://en.wikipedia.org/wiki/Scott_Bess
 
 ## Day 1093
 
-*Date: 2025-02-20 | Status: Published | Audience: only_paid*
+*Date: 2025-02-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Conquering woke culture *
 
@@ -1889,7 +1889,7 @@ Commit this skizzieren to memory:
 
 ## Day 1094
 
-*Date: 2025-02-21 | Status: Published | Audience: only_paid*
+*Date: 2025-02-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *27 days until Spring*
 
@@ -1941,7 +1941,7 @@ Have a great weekend!
 
 ## Day 1097
 
-*Date: 2025-02-24 | Status: Published | Audience: only_paid*
+*Date: 2025-02-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Unhappy anniversary*
 
@@ -1991,7 +1991,7 @@ This 21-minute video illustrates bloodbath outside of Pokrovsk in Donetsk region
 
 ## Day 1098
 
-*Date: 2025-02-25 | Status: Published | Audience: only_paid*
+*Date: 2025-02-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The one-yard line *
 
@@ -2049,7 +2049,7 @@ The title of the clip is, er, perhaps, too suggestive.
 
 ## Day 1099
 
-*Date: 2025-02-26 | Status: Published | Audience: only_paid*
+*Date: 2025-02-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Egregious violations of trust *
 
@@ -2105,7 +2105,7 @@ Vova and Donald will likely agree to at least pause the fighting at the expense 
 
 ## Day 1100
 
-*Date: 2025-02-27 | Status: Published | Audience: only_paid*
+*Date: 2025-02-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Un-big minerals deal *
 
@@ -2157,7 +2157,7 @@ And, finally, this gem from Laura and Pete:
 
 ## Day 1101
 
-*Date: 2025-02-28 | Status: Published | Audience: only_paid*
+*Date: 2025-02-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Thumb rings for archers*
 
@@ -2201,7 +2201,7 @@ Have a great weekend!
 
 ## Day 1102
 
-*Date: 2025-03-01 | Status: Published | Audience: only_paid*
+*Date: 2025-03-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Z's Hero Call *
 
@@ -2247,7 +2247,7 @@ Z does not have this. Neither do Keir and Emmanuel. But Donald does. And Vova is
 
 ## Day 1104
 
-*Date: 2025-03-03 | Status: Published | Audience: only_paid*
+*Date: 2025-03-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Junction of exaggerated expression*
 
@@ -2297,7 +2297,7 @@ We should prob stop sharing secrets with Team USA entirely.
 
 ## Day 1105
 
-*Date: 2025-03-04 | Status: Published | Audience: only_paid*
+*Date: 2025-03-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The wrong door *
 
@@ -2359,7 +2359,7 @@ We might learn more about Team USA’s plans for Z and Ukraine during Donald’s
 
 ## Day 1106
 
-*Date: 2025-03-05 | Status: Published | Audience: only_paid*
+*Date: 2025-03-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Black hole of Ukraine-related bullshit *
 
@@ -2405,7 +2405,7 @@ Madyar posts from the front:
 
 ## Day 1107 
 
-*Date: 2025-03-06 | Status: Published | Audience: only_paid*
+*Date: 2025-03-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Risk, ambition, power *
 
@@ -2504,7 +2504,7 @@ Sam [chatted up](https://www.youtube.com/watch?v=cGFjDdN_tm4) Niall, a historian
 
 ## Day 1108 
 
-*Date: 2025-03-07 | Status: Published | Audience: only_paid*
+*Date: 2025-03-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Misreading the room*
 
@@ -2580,7 +2580,7 @@ Finally, bad news from Russia’s Kursk region, where Ukraine is losing round.
 
 ## Day 1109 
 
-*Date: 2025-03-08 | Status: Published | Audience: everyone*
+*Date: 2025-03-08 | Status: Published | Audience: everyone | Type: newsletter*
 
 *Random thoughts*
 
@@ -2616,7 +2616,7 @@ Steven Pinker, who wrote [The Better Angels of Our Nature: Why Violence has Decl
 
 ## Day 1111
 
-*Date: 2025-03-10 | Status: Published | Audience: only_paid*
+*Date: 2025-03-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Our hearts have teeth *
 
@@ -2660,7 +2660,7 @@ The lady who cut my hair told me about an regular American client she had for ye
 
 ## Day 1112
 
-*Date: 2025-03-11 | Status: Published | Audience: only_paid*
+*Date: 2025-03-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Move fast and destroy*
 
@@ -2716,7 +2716,7 @@ That’s a paltry sum, relatively — 0.118% of Team USA’s GDP. Complete disgr
 
 ## Day 1113
 
-*Date: 2025-03-12 | Status: Published | Audience: only_paid*
+*Date: 2025-03-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Blood Worm Full Moon *
 
@@ -2774,7 +2774,7 @@ Yesterday the temperature was 19C.
 
 ## Day 1114 
 
-*Date: 2025-03-13 | Status: Published | Audience: only_paid*
+*Date: 2025-03-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Truce versus ceasefire*
 
@@ -2838,7 +2838,7 @@ Today Lukashenko is making [an official visit](https://t.me/pul_1/16049) to Mosc
 
 ## Day 1115 
 
-*Date: 2025-03-14 | Status: Published | Audience: only_paid*
+*Date: 2025-03-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Russia + Belarus = 0 *
 
@@ -2894,7 +2894,7 @@ Have a great weekend!
 
 ## Day 1116
 
-*Date: 2025-03-15 | Status: Published | Audience: only_paid*
+*Date: 2025-03-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Unseeing idiocy *
 
@@ -2928,7 +2928,7 @@ Putin has rejected the Team USA-Team Ukraine proposal for an immediate truce. Ma
 
 ## Day 1118
 
-*Date: 2025-03-17 | Status: Published | Audience: only_paid*
+*Date: 2025-03-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The fly agaric *
 
@@ -2970,7 +2970,7 @@ Such bullshit. Get rid of Marco, too.
 
 ## Day 1119
 
-*Date: 2025-03-18 | Status: Published | Audience: only_paid*
+*Date: 2025-03-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A Munich moment*
 
@@ -3010,7 +3010,7 @@ Madyar posts another vidrep.
 
 ## Day 1120
 
-*Date: 2025-03-19 | Status: Published | Audience: only_paid*
+*Date: 2025-03-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Negotiations and the elephant*
 
@@ -3052,7 +3052,7 @@ Z, currently in Finland, said he’s waiting for Donald’s team to provide deta
 
 ## Day 1121 
 
-*Date: 2025-03-20 | Status: Published | Audience: only_paid*
+*Date: 2025-03-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Operation Restore Sanity*
 
@@ -3102,7 +3102,7 @@ The possibilities are endless.
 
 ## Day 1122 
 
-*Date: 2025-03-21 | Status: Published | Audience: only_paid*
+*Date: 2025-03-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Slightly east of northeast*
 
@@ -3134,7 +3134,7 @@ Have a great weekend!
 
 ## Day 1123
 
-*Date: 2025-03-22 | Status: Published | Audience: everyone*
+*Date: 2025-03-22 | Status: Published | Audience: everyone | Type: newsletter*
 
 *Aspirin tablet or hockey puck? *
 
@@ -3194,7 +3194,7 @@ If Steven wants to adopt Moscow’s reading of events as his own, he owes the re
 
 ## Day 1125
 
-*Date: 2025-03-24 | Status: Published | Audience: only_paid*
+*Date: 2025-03-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Steven the hockey puck*
 
@@ -3236,7 +3236,7 @@ Don, btw, was also born in the Bronx.
 
 ## Day 1126
 
-*Date: 2025-03-25 | Status: Published | Audience: only_paid*
+*Date: 2025-03-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *'No one leaked war plans' - Pete *
 
@@ -3304,7 +3304,7 @@ Steven is hopeless.
 
 ## Day 1127 
 
-*Date: 2025-03-26 | Status: Published | Audience: only_paid*
+*Date: 2025-03-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Very bad decision-making under pressure*
 
@@ -3372,7 +3372,7 @@ Stats c/o [Oleksandr Kovalenko](https://t.me/zloyodessit/23967)
 
 ## Day 1128 
 
-*Date: 2025-03-27 | Status: Published | Audience: only_paid*
+*Date: 2025-03-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A jamboree of jackasses *
 
@@ -3435,7 +3435,7 @@ There is no truce. There is no ceasefire.
 
 ## Day 1129 
 
-*Date: 2025-03-28 | Status: Published | Audience: only_paid*
+*Date: 2025-03-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Down with the sickness *
 
@@ -3477,7 +3477,7 @@ Have a great weekend!
 
 ## Day 1129 (contd)
 
-*Date: 2025-03-28 | Status: Published | Audience: only_paid*
+*Date: 2025-03-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *24 hours of darkness *
 
@@ -3533,7 +3533,7 @@ JD’s 11th-hour decision elevates the US delegation visit, with the vice presid
 
 ## Day 1131 
 
-*Date: 2025-03-31 | Status: Published | Audience: only_paid*
+*Date: 2025-03-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *No truce. No ceasefire. Zero progress *
 
@@ -3573,7 +3573,7 @@ Actually, no. **Zero progress.**
 
 ## Day 1133
 
-*Date: 2025-04-01 | Status: Published | Audience: only_paid*
+*Date: 2025-04-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Novos ordlo seclorum*
 
@@ -3645,7 +3645,7 @@ Yuri posts a vid of an expensive bunker/death trap no one wants to use. Ukraine 
 
 ## Day 1134
 
-*Date: 2025-04-02 | Status: Published | Audience: only_paid*
+*Date: 2025-04-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Acryllic intellects *
 
@@ -3715,7 +3715,7 @@ The [EBRD](https://euneighbourseast.eu/)’s regional economic prospects [report
 
 ## Day 1135
 
-*Date: 2025-04-03 | Status: Published | Audience: only_paid*
+*Date: 2025-04-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The skies are heavy, my ears are wet*
 
@@ -3769,7 +3769,7 @@ Yesterday Russia lobbed a ballistic missile at Z’s home down Kryvyi Rih (popul
 
 ## Day 1136
 
-*Date: 2025-04-04 | Status: Published | Audience: only_paid*
+*Date: 2025-04-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Our beef is beautiful *
 
@@ -3835,7 +3835,7 @@ Have a great weekend!
 
 ## Day 1137
 
-*Date: 2025-04-05 | Status: Published | Audience: only_paid*
+*Date: 2025-04-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Arsonists recruited online*
 
@@ -3865,7 +3865,7 @@ Actually, no truce, no ceasefire, zero progress.
 
 ## Day 1138
 
-*Date: 2025-04-06 | Status: Published | Audience: only_paid*
+*Date: 2025-04-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A field of dandelions*
 
@@ -3887,7 +3887,7 @@ Kh-101 cruise missile launched by Russian strategic bombers were also launched t
 
 ## Day 1139 
 
-*Date: 2025-04-07 | Status: Published | Audience: only_paid*
+*Date: 2025-04-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Missiles and silence*
 
@@ -3915,7 +3915,7 @@ It’s unclear how much longer Team USA will continue faking the peace process.
 
 ## Day 1140 
 
-*Date: 2025-04-08 | Status: Published | Audience: only_paid*
+*Date: 2025-04-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Tariffs and conspicuous consumption*
 
@@ -3959,7 +3959,7 @@ Z, meanwhile, said nothing in daily pep talk. Same old same old.
 
 ## Day 1141
 
-*Date: 2025-04-09 | Status: Published | Audience: only_paid*
+*Date: 2025-04-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Spring/Summer ukraine@war*
 
@@ -4015,7 +4015,7 @@ What could go wrong?
 
 ## Day 1142 
 
-*Date: 2025-04-10 | Status: Published | Audience: only_paid*
+*Date: 2025-04-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Headless ducks*
 
@@ -4061,7 +4061,7 @@ Just ask James, who profiles our prime-time comedian for BBC[1](#footnote-1).
 
 ## Day 1143
 
-*Date: 2025-04-11 | Status: Published | Audience: only_paid*
+*Date: 2025-04-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Make-believe push ups *
 
@@ -4129,7 +4129,7 @@ Evaluating the US ambo’s tweets is about as stupid as pretending Russia didn�
 
 ## Day 1144
 
-*Date: 2025-04-12 | Status: Published | Audience: only_paid*
+*Date: 2025-04-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Divvying up Ukraine like Berlin*
 
@@ -4175,7 +4175,7 @@ Last time I checked, Keith was commander of SOCEUR after the decapitation of Yug
 
 ## Day 1145
 
-*Date: 2025-04-13 | Status: Published | Audience: only_paid*
+*Date: 2025-04-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Palm Sunday massacre*
 
@@ -4201,7 +4201,7 @@ Today’s disaster in Sumy follows a similar strike in Z’s hometown Kryvyi Rih
 
 ## Day 1146
 
-*Date: 2025-04-14 | Status: Published | Audience: only_paid*
+*Date: 2025-04-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Spring in Kyiv, again*
 
@@ -4233,7 +4233,7 @@ That Donald or any of the miserable people who surround him will visit Ukraine t
 
 ## Day 1147 
 
-*Date: 2025-04-15 | Status: Published | Audience: only_paid*
+*Date: 2025-04-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Easter cake blasphemy*
 
@@ -4269,7 +4269,7 @@ Nowadays you can just buy what looks like a big sugary cookie.
 
 ## Day 1148
 
-*Date: 2025-04-16 | Status: Published | Audience: only_paid*
+*Date: 2025-04-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Full-fledged Easter cakes*
 
@@ -4298,7 +4298,7 @@ In other words, bullshit. And then Steven blurts out there might be “compellin
 
 ## Day 1149
 
-*Date: 2025-04-17 | Status: Published | Audience: only_paid*
+*Date: 2025-04-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Falun Zhoutian Fa*
 
@@ -4332,7 +4332,7 @@ Steven and little Marco have been invited to a beano in Paris [hosted by Emmanue
 
 ## Day 1150 
 
-*Date: 2025-04-18 | Status: Published | Audience: only_paid*
+*Date: 2025-04-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Talk is cheap *
 
@@ -4376,7 +4376,7 @@ And so it goes.
 
 ## Day 1150 (update)
 
-*Date: 2025-04-18 | Status: Published | Audience: only_paid*
+*Date: 2025-04-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Little Marco's peace theory*
 
@@ -4390,7 +4390,7 @@ Little Marco thinks (or thought) Team USA could talk Team Russia into stopping i
 
 ## Day 1153 
 
-*Date: 2025-04-21 | Status: Published | Audience: only_paid*
+*Date: 2025-04-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Signal chats and religious rot*
 
@@ -4420,7 +4420,7 @@ On the Ukraine jacket, Easter cakes.
 
 ## Day 1154
 
-*Date: 2025-04-22 | Status: Published | Audience: only_paid*
+*Date: 2025-04-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Deep squats and dead hangs *
 
@@ -4468,7 +4468,7 @@ Actually, what Putin said is that Russia will target Ukrainian soldiers wherever
 
 ## Day 1155 
 
-*Date: 2025-04-23 | Status: Published | Audience: only_paid*
+*Date: 2025-04-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Conditional surrender *
 
@@ -4524,7 +4524,7 @@ Looking on the bright side, more than 1,200 invaders were killed yesterday. Mady
 
 ## Day 1156
 
-*Date: 2025-04-24 | Status: Published | Audience: only_paid*
+*Date: 2025-04-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Potent blood symbolism*
 
@@ -4566,7 +4566,7 @@ On the running jacket, lots of it, bombs or no bombs. Time trials next week.
 
 ## Day 1157 
 
-*Date: 2025-04-25 | Status: Published | Audience: only_paid*
+*Date: 2025-04-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The finish line, again*
 
@@ -4610,7 +4610,7 @@ I think I pulled a muscle in my shoulder during a dead hang this week, but our s
 
 ## Day 1158
 
-*Date: 2025-04-26 | Status: Published | Audience: only_paid*
+*Date: 2025-04-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Tyrant, ruffian, buffoon, despot*
 
@@ -4636,7 +4636,7 @@ You don’t shake hands with someone who is up to his elbows in blood. You don�
 
 ## Day 1160 
 
-*Date: 2025-04-28 | Status: Published | Audience: only_paid*
+*Date: 2025-04-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Don't work the metaphor *
 
@@ -4688,7 +4688,7 @@ Turns out Chuck, who reminded me of Bruce, is a [special correspondent for the K
 
 ## Day 1161 
 
-*Date: 2025-04-29 | Status: Published | Audience: only_paid*
+*Date: 2025-04-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *End of the animal kingdom*
 
@@ -4776,7 +4776,7 @@ For those to whom this is all Greek, Atom is used by several companies to brand 
 
 ## Day 1162
 
-*Date: 2025-04-30 | Status: Published | Audience: only_paid*
+*Date: 2025-04-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Free tulips *
 
@@ -4828,7 +4828,7 @@ ibid
 
 ## Day 1163 
 
-*Date: 2025-05-01 | Status: Published | Audience: only_paid*
+*Date: 2025-05-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Public acts of obeisance *
 
@@ -4880,7 +4880,7 @@ $18 million is worth about 36,000 kamikaze fpv drones, approximately. The per-dr
 
 ## Day 1164
 
-*Date: 2025-05-02 | Status: Published | Audience: only_paid*
+*Date: 2025-05-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Imminent danger *
 
@@ -4930,7 +4930,7 @@ The leaders of Team USA have put political goals — their own — ahead of mora
 
 ## Day 1167
 
-*Date: 2025-05-05 | Status: Published | Audience: only_paid*
+*Date: 2025-05-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The bridge in Zvanne*
 
@@ -4980,7 +4980,7 @@ The second round is May 18.
 
 ## Day 1168
 
-*Date: 2025-05-06 | Status: Published | Audience: only_paid*
+*Date: 2025-05-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Zvanne bridge, destroyed again*
 
@@ -5026,7 +5026,7 @@ He posed with Ukrainian janitors in the Czech parliament and talked about rebuil
 
 ## Day 1169 
 
-*Date: 2025-05-07 | Status: Published | Audience: only_paid*
+*Date: 2025-05-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Peformative sound drama *
 
@@ -5068,7 +5068,7 @@ Some Shahed drones have reportedly been upgraded with small jet (turbine) engine
 
 ## Day 1170
 
-*Date: 2025-05-08 | Status: Published | Audience: only_paid*
+*Date: 2025-05-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Fartleks with children*
 
@@ -5098,7 +5098,7 @@ Finally, this vid from [Skala](http://425skala.com) illustrating the futility of
 
 ## Day 1171
 
-*Date: 2025-05-09 | Status: Published | Audience: only_paid*
+*Date: 2025-05-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Parade without invaders*
 
@@ -5146,7 +5146,7 @@ Have a great weekend!
 
 ## Day 1174
 
-*Date: 2025-05-12 | Status: Published | Audience: only_paid*
+*Date: 2025-05-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Total mass confusion *
 
@@ -5198,7 +5198,7 @@ First time trial of the year.
 
 ## Day 1175 
 
-*Date: 2025-05-13 | Status: Published | Audience: only_paid*
+*Date: 2025-05-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Russia's imperial roots*
 
@@ -5253,7 +5253,7 @@ He leaves out entirely “the initial reasons for the conflict” that Team Russ
 
 ## Day 1176
 
-*Date: 2025-05-14 | Status: Published | Audience: only_paid*
+*Date: 2025-05-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *On condition (that) *
 
@@ -5291,7 +5291,7 @@ In other news, Z has announced plans to attend Leo’s sermon this weekend at th
 
 ## Day 1177 
 
-*Date: 2025-05-15 | Status: Published | Audience: only_paid*
+*Date: 2025-05-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Witkoff's intuition*
 
@@ -5363,7 +5363,7 @@ And, finally, today is traditional Ukrainian (Yyshyvanka) Day, when everyone wal
 
 ## Day 1178
 
-*Date: 2025-05-16 | Status: Published | Audience: only_paid*
+*Date: 2025-05-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Toretsk's rising death toll*
 
@@ -5408,7 +5408,7 @@ Have a great weekend!
 
 ## Day 1181
 
-*Date: 2025-05-19 | Status: Published | Audience: only_paid*
+*Date: 2025-05-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Декоративные луки*
 
@@ -5452,7 +5452,7 @@ Madyar puts up a vid showing fpvs appeasing invaders.
 
 ## Day 1182 
 
-*Date: 2025-05-20 | Status: Published | Audience: only_paid*
+*Date: 2025-05-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Not their war *
 
@@ -5488,7 +5488,7 @@ Russia’s Foreign Ministry [listed ‘root causes’ in nauseating detail](http
 
 ## Day 1183
 
-*Date: 2025-05-21 | Status: Published | Audience: only_paid*
+*Date: 2025-05-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Habeas risum maximum*
 
@@ -5526,7 +5526,7 @@ Looking on the bright side, the sun is out and we’re still alive.
 
 ## Day 1184
 
-*Date: 2025-05-22 | Status: Published | Audience: only_paid*
+*Date: 2025-05-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Blindness*
 
@@ -5590,7 +5590,7 @@ And still no retraction.
 
 ## Day 1185 
 
-*Date: 2025-05-23 | Status: Published | Audience: only_paid*
+*Date: 2025-05-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Fallibility pancakes*
 
@@ -5660,7 +5660,7 @@ And why is Donald scooping this?
 
 ## Day 1188
 
-*Date: 2025-05-26 | Status: Published | Audience: only_paid*
+*Date: 2025-05-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Kyiv's birthday under attack*
 
@@ -5700,7 +5700,7 @@ Madyar posts another uplifting fpv video report.
 
 ## Day 1189
 
-*Date: 2025-05-27 | Status: Published | Audience: only_paid*
+*Date: 2025-05-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Desk-bound deadbeats*
 
@@ -5750,7 +5750,7 @@ The Europeans obvi are finding it enormously tedious dealing with Team USA’s �
 
 ## Day 1190 
 
-*Date: 2025-05-28 | Status: Published | Audience: only_paid*
+*Date: 2025-05-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Whatever it takes*
 
@@ -5810,7 +5810,7 @@ Finally, here is Kurt talking about Donald in Copenhagen. I fell asleep in the m
 
 ## Day 1191 
 
-*Date: 2025-05-29 | Status: Published | Audience: only_paid*
+*Date: 2025-05-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Geschäfte bringen Geld ein, Freundschaft fast nie*
 
@@ -5858,7 +5858,7 @@ Finald’s president gets it. Also in the clip is Bridget, recently resigned US 
 
 ## Day 1192
 
-*Date: 2025-05-30 | Status: Published | Audience: only_paid*
+*Date: 2025-05-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Summer again*
 
@@ -5914,7 +5914,7 @@ But that’s another story.
 
 ## Day 1195 
 
-*Date: 2025-06-02 | Status: Published | Audience: only_paid*
+*Date: 2025-06-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Inflexible Poland *
 
@@ -5958,7 +5958,7 @@ Here’s Madyar’s latest fpv drone kill report.
 
 ## Day 1196 
 
-*Date: 2025-06-03 | Status: Published | Audience: only_paid*
+*Date: 2025-06-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Russia's center of gravity*
 
@@ -6012,7 +6012,7 @@ Karol will def attend Donald’s [beano](https://www.theguardian.com/commentisfr
 
 ## Day 1197 
 
-*Date: 2025-06-04 | Status: Published | Audience: only_paid*
+*Date: 2025-06-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Confederacy of dunces*
 
@@ -6076,7 +6076,7 @@ Madyar posts a anti-Russia drone report from the zero line.
 
 ## Day 1198 
 
-*Date: 2025-06-05 | Status: Published | Audience: only_paid*
+*Date: 2025-06-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Our flat-less tire *
 
@@ -6134,7 +6134,7 @@ We are all wondering if Joe at DNI last week failed to tell Gabby to pre-inform 
 
 ## Day 1199
 
-*Date: 2025-06-06 | Status: Published | Audience: only_paid*
+*Date: 2025-06-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Three rescuers killed*
 
@@ -6188,7 +6188,7 @@ Have a great weekend!
 
 ## Day 1202
 
-*Date: 2025-06-09 | Status: Published | Audience: only_paid*
+*Date: 2025-06-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Los Angeles, and martial law*
 
@@ -6226,7 +6226,7 @@ In news of the weird, Greta has been arrested.
 
 ## Day 1203 
 
-*Date: 2025-06-10 | Status: Published | Audience: only_paid*
+*Date: 2025-06-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Structure*
 
@@ -6270,7 +6270,7 @@ This interview with Steve was irritating, espec the bits about Pete deciding to 
 
 ## Day 1204
 
-*Date: 2025-06-11 | Status: Published | Audience: only_paid*
+*Date: 2025-06-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Immigration arrest quotas? *
 
@@ -6320,7 +6320,7 @@ Yesterday I watched Pete’s [miserable performance](https://www.c-span.org/prog
 
 ## Day 1205 
 
-*Date: 2025-06-12 | Status: Published | Audience: only_paid*
+*Date: 2025-06-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Back down or radicalize *
 
@@ -6372,7 +6372,7 @@ And wine!
 
 ## Day 1206 
 
-*Date: 2025-06-13 | Status: Published | Audience: only_paid*
+*Date: 2025-06-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Ballet de la Merlaison*
 
@@ -6432,7 +6432,7 @@ What could go wrong?
 
 ## Day 1210
 
-*Date: 2025-06-17 | Status: Published | Audience: only_paid*
+*Date: 2025-06-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Playground spat *
 
@@ -6488,7 +6488,7 @@ U.S. defense strategy must identify China unequivocally as the top priority for 
 
 ## Day 1211
 
-*Date: 2025-06-18 | Status: Published | Audience: only_paid*
+*Date: 2025-06-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *An ocean of idiots *
 
@@ -6546,7 +6546,7 @@ And [ISW](https://www.understandingwar.org/backgrounder/russian-offensive-campai
 
 ## Day 1212 
 
-*Date: 2025-06-19 | Status: Published | Audience: only_paid*
+*Date: 2025-06-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Running and cyber warfare*
 
@@ -6598,7 +6598,7 @@ New report out by Kiel Institute that will delight the MAGA crowd[2](#footnote-2
 
 ## Day 1213 
 
-*Date: 2025-06-20 | Status: Published | Audience: only_paid*
+*Date: 2025-06-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *NATO helps Ukraine*
 
@@ -6648,7 +6648,7 @@ Have a great weekend!
 
 ## Day 1216
 
-*Date: 2025-06-23 | Status: Published | Audience: only_paid*
+*Date: 2025-06-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Too clever by half*
 
@@ -6672,7 +6672,7 @@ Putin is plenty smart enough to understand and master the reality of his immedia
 
 ## Day 1217
 
-*Date: 2025-06-24 | Status: Published | Audience: only_paid*
+*Date: 2025-06-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *NATO summit disappoints*
 
@@ -6712,7 +6712,7 @@ Sigh. What a disaster.
 
 ## Day 1218
 
-*Date: 2025-06-25 | Status: Published | Audience: only_paid*
+*Date: 2025-06-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Incomplete defenestration*
 
@@ -6778,7 +6778,7 @@ Intelligence gathering and analysis for living can be fun for a couple of years 
 
 ## Day 1219
 
-*Date: 2025-06-26 | Status: Published | Audience: only_paid*
+*Date: 2025-06-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Bendukidze Lane*
 
@@ -6822,7 +6822,7 @@ On the running jacket, Kilian gives a pre-race Western States 100 interview.
 
 ## Day 1220
 
-*Date: 2025-06-27 | Status: Published | Audience: only_paid*
+*Date: 2025-06-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Experiementing with endorphins*
 
@@ -6864,7 +6864,7 @@ Have a great weekend!
 
 ## Day 1223
 
-*Date: 2025-06-30 | Status: Published | Audience: only_paid*
+*Date: 2025-06-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Hungry eyes *
 
@@ -6906,7 +6906,7 @@ Lots of problems esp manpower-related.
 
 ## Day 1224 
 
-*Date: 2025-07-01 | Status: Published | Audience: only_paid*
+*Date: 2025-07-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Failed appeasement*
 
@@ -6958,7 +6958,7 @@ In other news, my biography, c/o Bing’s GPT. I decided to experiment after rea
 
 ## Day 1225
 
-*Date: 2025-07-02 | Status: Published | Audience: only_paid*
+*Date: 2025-07-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *7 tonnes of angst*
 
@@ -7010,7 +7010,7 @@ It’s designed to symbolize seven tonnes of angst.
 
 ## Day 1226 
 
-*Date: 2025-07-03 | Status: Published | Audience: only_paid*
+*Date: 2025-07-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Catch me if you can *
 
@@ -7068,7 +7068,7 @@ And Bridget is chatted up by David.
 
 ## Day 1227 
 
-*Date: 2025-07-04 | Status: Published | Audience: only_paid*
+*Date: 2025-07-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Black hole sun*
 
@@ -7114,7 +7114,7 @@ Happy July 4! Have a great weekend!
 
 ## Day 1229
 
-*Date: 2025-07-07 | Status: Published | Audience: only_paid*
+*Date: 2025-07-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Location faking*
 
@@ -7162,7 +7162,7 @@ Mmmmmmmmmm…. Meh. Until the Q&A part, except Timothy’s answer to the last qu
 
 ## Day 1230 
 
-*Date: 2025-07-08 | Status: Published | Audience: only_paid*
+*Date: 2025-07-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Friendly fire*
 
@@ -7217,7 +7217,7 @@ Whatever that means.
 
 ## Day 1231 
 
-*Date: 2025-07-09 | Status: Published | Audience: only_paid*
+*Date: 2025-07-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Pulverizing Lutsk*
 
@@ -7269,7 +7269,7 @@ And, finally, Tulsi. As always, not a good look.
 
 ## Day 1232 
 
-*Date: 2025-07-10 | Status: Published | Audience: only_paid*
+*Date: 2025-07-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *488 more alerts than days*
 
@@ -7305,7 +7305,7 @@ Sigh. Looks like Keith is missing a tooth.
 
 ## Day 1234
 
-*Date: 2025-07-11 | Status: Published | Audience: only_paid*
+*Date: 2025-07-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Whitaker's NATO appointment*
 
@@ -7371,7 +7371,7 @@ Have a great weekend. Support independent artists!
 
 ## Day 1237
 
-*Date: 2025-07-14 | Status: Published | Audience: only_paid*
+*Date: 2025-07-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Drone warfare, misunderstood*
 
@@ -7419,7 +7419,7 @@ For more info, contact [Brave1](https://brave1.gov.ua/en/).
 
 ## Day 1238
 
-*Date: 2025-07-15 | Status: Published | Audience: only_paid*
+*Date: 2025-07-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Whitaker's star turn*
 
@@ -7459,7 +7459,7 @@ Denys, like his predecessor Rustem (who may become the new Ambassador of Ukraine
 
 ## Day 1239 
 
-*Date: 2025-07-16 | Status: Published | Audience: only_paid*
+*Date: 2025-07-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Hot Dog Day *
 
@@ -7505,7 +7505,7 @@ This explains why I’m no good at push ups.
 
 ## Day 1240
 
-*Date: 2025-07-17 | Status: Published | Audience: only_paid*
+*Date: 2025-07-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Dobropillia under attack*
 
@@ -7547,7 +7547,7 @@ My beloved Ukraine sage is currently stranded somewhere in the Middle East, [dut
 
 ## Day 1241
 
-*Date: 2025-07-18 | Status: Published | Audience: only_paid*
+*Date: 2025-07-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Late to the party *
 
@@ -7601,7 +7601,7 @@ Have a great weekend!
 
 ## Day 1244
 
-*Date: 2025-07-21 | Status: Published | Audience: only_paid*
+*Date: 2025-07-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *1,792 feet tall *
 
@@ -7631,7 +7631,7 @@ To put it in perspective, a stack of $500 million in $100 bills would be approxi
 
 ## Day 1245
 
-*Date: 2025-07-22 | Status: Published | Audience: only_paid*
+*Date: 2025-07-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Friendly fire *
 
@@ -7673,7 +7673,7 @@ A bunch of frontline pics c/o [Reuters](https://www.reuters.com/pictures/scenes-
 
 ## Day 1246
 
-*Date: 2025-07-23 | Status: Published | Audience: only_paid*
+*Date: 2025-07-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The greasy clowns have pushed the horses*
 
@@ -7715,7 +7715,7 @@ The greasy clowns have pushed the horses and now the whole circus is about to co
 
 ## Day 1247 
 
-*Date: 2025-07-24 | Status: Published | Audience: only_paid*
+*Date: 2025-07-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The dogs, they pant*
 
@@ -7741,7 +7741,7 @@ This just in from Team USA:
 
 ## Day 1248
 
-*Date: 2025-07-25 | Status: Published | Audience: only_paid*
+*Date: 2025-07-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Dignity of risk *
 
@@ -7779,7 +7779,7 @@ One might wonder: shouldn't medical staff be encouraging these men to rest, to s
 
 ## Day 1251 
 
-*Date: 2025-07-28 | Status: Published | Audience: only_paid*
+*Date: 2025-07-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A scoundrel's playbook *
 
@@ -7821,7 +7821,7 @@ Pekhno has the latest frontline brief.
 
 ## Day 1252
 
-*Date: 2025-07-29 | Status: Published | Audience: only_paid*
+*Date: 2025-07-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Swift or swallow? *
 
@@ -7873,7 +7873,7 @@ Pekhno has maps. The end of the report shows Pokrovsk at sunrise:
 
 ## Day 1253
 
-*Date: 2025-07-30 | Status: Published | Audience: only_paid*
+*Date: 2025-07-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Government ignores advice*
 
@@ -7943,7 +7943,7 @@ Ending on a positive note, here’s **Lesson #10** from Valeriy Zaluzhny[1](#foo
 
 ## Day 1254
 
-*Date: 2025-07-31 | Status: Published | Audience: only_paid*
+*Date: 2025-07-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Missiles and foreign correspondents*
 
@@ -7985,7 +7985,7 @@ I had planned to write about unflattering details, more of them, involving Z’s
 
 ## Day 1254 (contd) 
 
-*Date: 2025-07-31 | Status: Published | Audience: only_paid*
+*Date: 2025-07-31 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Cardboard kids return*
 
@@ -7999,7 +7999,7 @@ The public is invited to [Mariinskyi Park](https://en.wikipedia.org/wiki/Mariins
 
 ## Day 1255 
 
-*Date: 2025-08-01 | Status: Published | Audience: only_paid*
+*Date: 2025-08-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The golden toilet mafia*
 
@@ -8031,7 +8031,7 @@ The big news yesterday isn’t that Team Russia continues its attempts to erase 
 
 ## Day 1258
 
-*Date: 2025-08-04 | Status: Published | Audience: only_paid*
+*Date: 2025-08-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Crickets and diplomacy*
 
@@ -8059,7 +8059,7 @@ Pekhno has the battlefield sitrep.
 
 ## Day 1259
 
-*Date: 2025-08-05 | Status: Published | Audience: only_paid*
+*Date: 2025-08-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Une Leçon de Démocratie™ selon BHL*
 
@@ -8135,7 +8135,7 @@ And it turns out Z was in Kharkiv yesterday oozing confidence. Hopefully, he hoo
 
 ## Day 1260 
 
-*Date: 2025-08-06 | Status: Published | Audience: only_paid*
+*Date: 2025-08-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *53 broken promises*
 
@@ -8187,7 +8187,7 @@ Pekhno with battlefield analysis here:
 
 ## Day 1261
 
-*Date: 2025-08-07 | Status: Published | Audience: only_paid*
+*Date: 2025-08-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Séance diplomacy *
 
@@ -8252,7 +8252,7 @@ Vladimir Pastukhov, [Telegram](https://t.me/v_pastukhov/1592) (August 6, 2025)
 
 ## Day 1262 
 
-*Date: 2025-08-08 | Status: Published | Audience: only_paid*
+*Date: 2025-08-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Neverland summit*
 
@@ -8298,7 +8298,7 @@ Have a great weekend!
 
 ## Day 1265
 
-*Date: 2025-08-11 | Status: Published | Audience: only_paid*
+*Date: 2025-08-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Alaska, and the ceasefire*
 
@@ -8336,7 +8336,7 @@ Croker the protagonist of Tom Wolfe's 1998 novel "[A Man in Full](https://en.wik
 
 ## Day 1266
 
-*Date: 2025-08-12 | Status: Published | Audience: only_paid*
+*Date: 2025-08-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Pass the pixie dust*
 
@@ -8409,7 +8409,7 @@ Keith, Donald’s special envoy to Ukraine, has, er, disappeared, while Meaghan�
 
 ## Day 1267
 
-*Date: 2025-08-13 | Status: Published | Audience: only_paid*
+*Date: 2025-08-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The 107-year itch*
 
@@ -8455,7 +8455,7 @@ History doesn't repeat, but it sure does rhyme. And right now, it's rhyming in R
 
 ## Day 1268 
 
-*Date: 2025-08-14 | Status: Published | Audience: only_paid*
+*Date: 2025-08-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Stabilizing means still fighting*
 
@@ -8497,7 +8497,7 @@ In not unrelated news, the boys and girls at [The Financial Times](http://ft.com
 
 ## Day 1269
 
-*Date: 2025-08-15 | Status: Published | Audience: only_paid*
+*Date: 2025-08-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Gunia Universe opens*
 
@@ -8553,7 +8553,7 @@ Have a great weekend!
 
 ## Day 1270
 
-*Date: 2025-08-16 | Status: Published | Audience: only_paid*
+*Date: 2025-08-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The horror *
 
@@ -8589,7 +8589,7 @@ Three hours. Zero deals. One diplomatic catastrophe masquerading as "great progr
 
 ## Day 1271
 
-*Date: 2025-08-17 | Status: Published | Audience: only_paid*
+*Date: 2025-08-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Terms of our surrender *
 
@@ -8638,7 +8638,7 @@ The future is bright.
 
 ## Day 1272 
 
-*Date: 2025-08-18 | Status: Published | Audience: only_paid*
+*Date: 2025-08-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Crimea and Donbas are Ukraine*
 
@@ -8694,7 +8694,7 @@ Political science textbooks may define subjectiveness clearly, but confusing it 
 
 ## Day 1273 
 
-*Date: 2025-08-19 | Status: Published | Audience: only_paid*
+*Date: 2025-08-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Peacocking for photographers*
 
@@ -8724,7 +8724,7 @@ Sigh.
 
 ## Day 1274 
 
-*Date: 2025-08-20 | Status: Published | Audience: only_paid*
+*Date: 2025-08-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Period or comma*
 
@@ -8892,7 +8892,7 @@ Russia’s latest key demands for a definitive settlement.
 
 ## Day 1275 
 
-*Date: 2025-08-21 | Status: Published | Audience: only_paid*
+*Date: 2025-08-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Attack of the vengeful peacemaker*
 
@@ -8974,7 +8974,7 @@ Results of Russia’s August 21, 2025 missile/UAV attack:
 
 ## Day 1276 
 
-*Date: 2025-08-22 | Status: Published | Audience: only_paid*
+*Date: 2025-08-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Регистрация домов и проверка*
 
@@ -9042,7 +9042,7 @@ Have a wonderful weekend!
 
 ## Day 1279 
 
-*Date: 2025-08-25 | Status: Published | Audience: only_paid*
+*Date: 2025-08-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Occidental or oriental? *
 
@@ -9076,7 +9076,7 @@ Most predictable outcome? More theoretical frameworks, more spherical cow assump
 
 ## Day 1280 
 
-*Date: 2025-08-26 | Status: Published | Audience: only_paid*
+*Date: 2025-08-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Reliably unreliable *
 
@@ -9128,7 +9128,7 @@ But hey, at least they're consistent in their inconsistency.
 
 ## Day 1281 
 
-*Date: 2025-08-27 | Status: Published | Audience: only_paid*
+*Date: 2025-08-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Performative narcissism *
 
@@ -9192,7 +9192,7 @@ Zaporizhia region is roughly the size of the state of Maryland.
 
 ## Day 1282 
 
-*Date: 2025-08-28 | Status: Published | Audience: only_paid*
+*Date: 2025-08-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Bezerkers*
 
@@ -9274,7 +9274,7 @@ As of 8.30 a.m. emergency workers in Kyiv say eight people were killed, includin
 
 ## Day 1282 (contd) 
 
-*Date: 2025-08-28 | Status: Published | Audience: only_paid*
+*Date: 2025-08-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Precision strikes? *
 
@@ -9321,7 +9321,7 @@ The death count has risen to more than two dozen and Mayor Klitschko has declare
 
 ## Day 1283 
 
-*Date: 2025-08-29 | Status: Published | Audience: only_paid*
+*Date: 2025-08-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Waffle town*
 
@@ -9371,7 +9371,7 @@ Have a great weekend!
 
 ## Day 1284 
 
-*Date: 2025-08-30 | Status: Published | Audience: only_paid*
+*Date: 2025-08-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *One more assassination*
 
@@ -9470,7 +9470,7 @@ I asked AI to give me a list of successful and attempted assassinations since 20
 
 ## Day 1286 
 
-*Date: 2025-09-01 | Status: Published | Audience: only_paid*
+*Date: 2025-09-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Parubiy's assassination*
 
@@ -9518,7 +9518,7 @@ Finally, this:
 
 ## Day 1287
 
-*Date: 2025-09-02 | Status: Published | Audience: only_paid*
+*Date: 2025-09-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Recht präzise*
 
@@ -9558,7 +9558,7 @@ Karol reminds me of a vampire.
 
 ## Day 1288 
 
-*Date: 2025-09-03 | Status: Published | Audience: only_paid*
+*Date: 2025-09-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Missiles, visas, village *
 
@@ -9602,7 +9602,7 @@ The fiddler plays while the roof burns. Xi smirks, Lukashenko limps, Putin plots
 
 ## Day 1289 
 
-*Date: 2025-09-04 | Status: Published | Audience: only_paid*
+*Date: 2025-09-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Harvesting organs *
 
@@ -9662,7 +9662,7 @@ In the context of discussions about prolonging life, Bulgakov’s Woland would p
 
 ## Day 1290 
 
-*Date: 2025-09-05 | Status: Published | Audience: only_paid*
+*Date: 2025-09-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Eye socket repair *
 
@@ -9727,7 +9727,7 @@ Have a great weekend!
 
 ## Day 1293 
 
-*Date: 2025-09-08 | Status: Published | Audience: only_paid*
+*Date: 2025-09-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Where we are *
 
@@ -9779,7 +9779,7 @@ West Virginia State Board of Education v. Barnette, 319 U.S. 624 (1943) - [Jutst
 
 ## Day 1295 
 
-*Date: 2025-09-10 | Status: Published | Audience: only_paid*
+*Date: 2025-09-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *House dance *
 
@@ -9827,7 +9827,7 @@ It's all anti-climactic, until one explodes in your living room. Or your neighbo
 
 ## Day 1296
 
-*Date: 2025-09-11 | Status: Published | Audience: only_paid*
+*Date: 2025-09-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *NATO's funeral pyre*
 
@@ -9897,7 +9897,7 @@ Kirk’s endorsement of Russia's unlawful Crimean occupation and blaming US offi
 
 ## Day 1297
 
-*Date: 2025-09-12 | Status: Published | Audience: only_paid*
+*Date: 2025-09-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Historical tennis without a net *
 
@@ -9972,7 +9972,7 @@ Have a great weekend! Support independent artists!
 
 ## Day 1300 
 
-*Date: 2025-09-15 | Status: Published | Audience: only_paid*
+*Date: 2025-09-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Killing time *
 
@@ -10036,7 +10036,7 @@ But hey, at least NATO knows exactly where they stand with their "time-wasting" 
 
 ## Day 1301 
 
-*Date: 2025-09-16 | Status: Published | Audience: only_paid*
+*Date: 2025-09-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *NATO-backed no-fly zone? *
 
@@ -10072,7 +10072,7 @@ The superhero ballet dancer keeps getting squeezed, but don't worry - the giant 
 
 ## Day 1302 
 
-*Date: 2025-09-17 | Status: Published | Audience: only_paid*
+*Date: 2025-09-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The unshaken*
 
@@ -10116,7 +10116,7 @@ But what happens after we *win* the war is anyone's guess. Should Ukraine embrac
 
 ## Day 1303 
 
-*Date: 2025-09-18 | Status: Published | Audience: only_paid*
+*Date: 2025-09-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The memory police *
 
@@ -10196,7 +10196,7 @@ No. need. to. worry. Kash is going after the money, just like Viktor did.
 
 ## Day 1304 
 
-*Date: 2025-09-19 | Status: Published | Audience: only_paid*
+*Date: 2025-09-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Poem of the week *
 
@@ -10312,7 +10312,7 @@ But then again, when your training teaches you that complex problems require dec
 
 ## Day 1305
 
-*Date: 2025-09-20 | Status: Published | Audience: only_paid*
+*Date: 2025-09-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -10320,7 +10320,7 @@ But then again, when your training teaches you that complex problems require dec
 
 ## Day 1306
 
-*Date: 2025-09-22 | Status: Published | Audience: only_paid*
+*Date: 2025-09-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Putin's four-dimensional chess*
 
@@ -10356,7 +10356,7 @@ What matters is that Stalin seized this assassination to crush all opposition an
 
 ## Day 1307 
 
-*Date: 2025-09-23 | Status: Published | Audience: only_paid*
+*Date: 2025-09-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Purge Paradox*
 
@@ -10430,7 +10430,7 @@ The nuclear balance is collapsing! It’s time to react!
 
 ## Day 1308 
 
-*Date: 2025-09-24 | Status: Published | Audience: only_paid*
+*Date: 2025-09-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The emperor's new analgesic*
 
@@ -10474,7 +10474,7 @@ The answer is that the clothes disappear entirely. And everyone pretends not to 
 
 ## Day 1309 
 
-*Date: 2025-09-25 | Status: Published | Audience: only_paid*
+*Date: 2025-09-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Boredom and abrasion*
 
@@ -10522,7 +10522,7 @@ This gadget provides sustained high-pressure, high-volume air delivery that can 
 
 ## Day 1310 
 
-*Date: 2025-09-26 | Status: Published | Audience: only_paid*
+*Date: 2025-09-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Make some noise*
 
@@ -10586,7 +10586,7 @@ It’s Friday again! Have a great weekend!
 
 ## Day 1313 
 
-*Date: 2025-09-29 | Status: Published | Audience: only_paid*
+*Date: 2025-09-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Moldova and Poland's drones*
 
@@ -10636,7 +10636,7 @@ What a terrible time to be in the US military, which [reportedly](https://editio
 
 ## Day 1315
 
-*Date: 2025-09-30 | Status: Published | Audience: only_paid*
+*Date: 2025-09-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Unification day *
 
@@ -10686,7 +10686,7 @@ Ending on a happy note, here’s one of those jet-propelled drones catching up t
 
 ## Day 1316
 
-*Date: 2025-10-01 | Status: Published | Audience: only_paid*
+*Date: 2025-10-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Animals*
 
@@ -10736,7 +10736,7 @@ Frank O’Hara, [Animals](https://www.frankohara.org/writing/) (1950)
 
 ## Day 1317 
 
-*Date: 2025-10-02 | Status: Published | Audience: only_paid*
+*Date: 2025-10-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Russia's eastern dependency*
 
@@ -10798,7 +10798,7 @@ Tornberg’s nostalgic for ‘90s internet—ICQ’s “talk to random strangers
 
 ## Day 1318 
 
-*Date: 2025-10-03 | Status: Published | Audience: only_paid*
+*Date: 2025-10-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Lubny under attack*
 
@@ -10836,7 +10836,7 @@ Three photo galleries puts me near email length limit, so I’ll follow up with 
 
 ## Day 1318ish
 
-*Date: 2025-10-03 | Status: Published | Audience: only_paid*
+*Date: 2025-10-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Where were we? *
 
@@ -10892,7 +10892,7 @@ Song of the week: Choke enough
 
 ## Day 1321 
 
-*Date: 2025-10-06 | Status: Published | Audience: only_paid*
+*Date: 2025-10-06 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Tomahawks and red lines*
 
@@ -10928,7 +10928,7 @@ And, of course, Kupyansk, which Yuriy mentions in his 1-hour long sitrep.
 
 ## Day 1322 
 
-*Date: 2025-10-07 | Status: Published | Audience: only_paid*
+*Date: 2025-10-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Phase 0 *
 
@@ -10996,7 +10996,7 @@ And this gem, [Evesdropping on Hell](https://www.nsa.gov/portals/75/documents/ab
 
 ## Day 1323 
 
-*Date: 2025-10-08 | Status: Published | Audience: only_paid*
+*Date: 2025-10-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Turning off the lights*
 
@@ -11050,7 +11050,7 @@ Democratic Sen. Jeff Merkley of Oregon [warned](https://edition.cnn.com/us/live-
 
 ## Day 1324 
 
-*Date: 2025-10-09 | Status: Published | Audience: only_paid*
+*Date: 2025-10-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Maps over cheerful pedagogy*
 
@@ -11112,7 +11112,7 @@ Looking on the bright side, Finnish President Alexander will meet w/ Donald at t
 
 ## Day 1325
 
-*Date: 2025-10-10 | Status: Published | Audience: only_paid*
+*Date: 2025-10-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Kyiv loses power*
 
@@ -11168,7 +11168,7 @@ Have a great weekend!
 
 ## Day 1327
 
-*Date: 2025-10-12 | Status: Published | Audience: only_paid*
+*Date: 2025-10-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *A building faces sunrise*
 
@@ -11204,7 +11204,7 @@ I’ll end this post with a video from the Marie Kondo impersonator who stayed o
 
 ## Day 1328
 
-*Date: 2025-10-13 | Status: Published | Audience: only_paid*
+*Date: 2025-10-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Criminal Code Geopolitics*
 
@@ -11248,7 +11248,7 @@ Pastukhov writes about the death of the rules-based order. This article is basic
 
 ## Day 1329 
 
-*Date: 2025-10-14 | Status: Published | Audience: only_paid*
+*Date: 2025-10-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Great power thuggery*
 
@@ -11323,7 +11323,7 @@ The patient is dead. Stop designing better thermometers.
 
 ## Day 1330 
 
-*Date: 2025-10-15 | Status: Published | Audience: only_paid*
+*Date: 2025-10-15 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Kupyansk offensive*
 
@@ -11391,7 +11391,7 @@ Practicing philosopher Volodymyr Pastukhov now has an English-language [Telegram
 
 ## Day 1331 
 
-*Date: 2025-10-16 | Status: Published | Audience: only_paid*
+*Date: 2025-10-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Tragedy as timeline *
 
@@ -11443,7 +11443,7 @@ Nothing much available.
 
 ## Day 1332 
 
-*Date: 2025-10-17 | Status: Published | Audience: only_paid*
+*Date: 2025-10-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Slip and dip *
 
@@ -11538,7 +11538,7 @@ I traversed the sculpture’s interior. The experience was neither immersive nor
 
 ## Day 1334
 
-*Date: 2025-10-20 | Status: Published | Audience: only_paid*
+*Date: 2025-10-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Promissory gestures*
 
@@ -11588,7 +11588,7 @@ Here is practicing philosopher Volodymyr Pastukhov’s opinion about the mess:
 
 ## Day 1336
 
-*Date: 2025-10-21 | Status: Published | Audience: only_paid*
+*Date: 2025-10-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *No kings *
 
@@ -11705,7 +11705,7 @@ Rescue workers evacuate kids from a pre-school in the middle of Kharkiv (populat
 
 ## Day 1338
 
-*Date: 2025-10-23 | Status: Published | Audience: only_paid*
+*Date: 2025-10-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Psycopathic strategic ambivalence*
 
@@ -11839,7 +11839,7 @@ On the Ukraine jacket, the Coalition of the Willing is meeting today in London. 
 
 ## Day 1342
 
-*Date: 2025-10-27 | Status: Published | Audience: only_paid*
+*Date: 2025-10-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The absurdist war economy*
 
@@ -11897,7 +11897,7 @@ The video above and intervening two days have confirmed this diagnosis with depr
 
 ## Day 1343
 
-*Date: 2025-10-28 | Status: Published | Audience: only_paid*
+*Date: 2025-10-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Path to shining future*
 
@@ -11943,7 +11943,7 @@ Looking on the bright side, Madyar says we are shooting down lots of Russian dro
 
 ## Day 1344 
 
-*Date: 2025-10-29 | Status: Published | Audience: only_paid*
+*Date: 2025-10-29 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Crimea's oil depot*
 
@@ -12041,7 +12041,7 @@ Z is in the dog house for unleashing Ukraine’s vertically-integrated law-enfor
 
 ## Day 1347
 
-*Date: 2025-11-01 | Status: Published | Audience: only_paid*
+*Date: 2025-11-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *At which to look at*
 
@@ -12144,7 +12144,7 @@ Have a great weekend!
 
 ## Day 1349
 
-*Date: 2025-11-03 | Status: Published | Audience: only_paid*
+*Date: 2025-11-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Withdraw from Pokrovsk*
 
@@ -12192,7 +12192,7 @@ We’re getting reading for the [Beaver Moon](https://en.tutiempo.net/kyiv.html?
 
 ## Day 1350 
 
-*Date: 2025-11-04 | Status: Published | Audience: only_paid*
+*Date: 2025-11-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Boom! *
 
@@ -12224,7 +12224,7 @@ Matt was US acting US Attorney General after Trump fired Sessions in 2018.
 
 ## Day 1351 
 
-*Date: 2025-11-05 | Status: Published | Audience: only_paid*
+*Date: 2025-11-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Russian casualties, New York art*
 
@@ -12281,7 +12281,7 @@ I could say something snide about ISW’s take, but, as a grandson of a NYC immi
 
 ## Day 1353
 
-*Date: 2025-11-07 | Status: Published | Audience: only_paid*
+*Date: 2025-11-07 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Collapsing pockets*
 
@@ -12353,7 +12353,7 @@ Song of the week?
 
 ## Day 1354
 
-*Date: 2025-11-08 | Status: Published | Audience: only_paid*
+*Date: 2025-11-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Predictive text*
 
@@ -12392,7 +12392,7 @@ A Shahed UAV smashed into a residential building, killing three, including two k
 
 ## Day 1356
 
-*Date: 2025-11-10 | Status: Published | Audience: only_paid*
+*Date: 2025-11-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Blackouts are not normal*
 
@@ -12440,7 +12440,7 @@ As opposed, let’s say, to the prevailing narrative that demands we choose betw
 
 ## Day 1357
 
-*Date: 2025-11-11 | Status: Published | Audience: only_paid*
+*Date: 2025-11-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The impersonator*
 
@@ -12508,7 +12508,7 @@ For the same reason as Pam Bondi[5](#footnote-5).
 
 ## Day 1358 
 
-*Date: 2025-11-12 | Status: Published | Audience: only_paid*
+*Date: 2025-11-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Che *
 
@@ -12576,7 +12576,7 @@ Now we know why.
 
 ## Day 1359 
 
-*Date: 2025-11-13 | Status: Published | Audience: only_paid*
+*Date: 2025-11-13 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *ხაჭაპური*
 
@@ -12616,7 +12616,7 @@ The trolley jumped the rails years ago. Z’s own people saying it means we’re
 
 ## Day 1360
 
-*Date: 2025-11-14 | Status: Published | Audience: only_paid*
+*Date: 2025-11-14 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Missile magnet*
 
@@ -12678,7 +12678,7 @@ Bus/Boz (Latin *Boz nomine*) appears in the *Getica* by Jordanes, written in the
 
 ## Day 1363
 
-*Date: 2025-11-17 | Status: Published | Audience: only_paid*
+*Date: 2025-11-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Questions not asked *
 
@@ -12708,7 +12708,7 @@ Which brings us to the silver lining in all this: if you’re an actual journali
 
 ## Day 1364
 
-*Date: 2025-11-18 | Status: Published | Audience: only_paid*
+*Date: 2025-11-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Variables, scope, persistence*
 
@@ -12802,7 +12802,7 @@ Calls for the president’s chief of staff Andriy Yermak to resign are getting l
 
 ## Day 1366 
 
-*Date: 2025-11-20 | Status: Published | Audience: only_paid*
+*Date: 2025-11-20 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The anti-corruption investigation*
 
@@ -12922,7 +12922,7 @@ Hmmm. Actually no.
 
 ## Day 1367 
 
-*Date: 2025-11-21 | Status: Published | Audience: only_paid*
+*Date: 2025-11-21 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Surrender diplomacy meets Golden Toilet mafia*
 
@@ -12962,7 +12962,7 @@ Have a great weekend!
 
 ## Day 1370 
 
-*Date: 2025-11-24 | Status: Published | Audience: only_paid*
+*Date: 2025-11-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Best talks ever*
 
@@ -13067,7 +13067,7 @@ Best to avoid unlovely bargains altogether.
 
 ## Day 1371 
 
-*Date: 2025-11-25 | Status: Published | Audience: only_paid*
+*Date: 2025-11-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Miami's peace circus*
 
@@ -13125,7 +13125,7 @@ Others meanwhile are grousing that the update below is actually a braised pork r
 
 ## Day 1372
 
-*Date: 2025-11-26 | Status: Published | Audience: only_paid*
+*Date: 2025-11-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Witkoff's Moscow butt dial*
 
@@ -13179,7 +13179,7 @@ It is a shiny piece of shit. Tomorrow I will return it.
 
 ## Day 1373 
 
-*Date: 2025-11-27 | Status: Published | Audience: only_paid*
+*Date: 2025-11-27 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Thanksgiving and Tushino*
 
@@ -13237,7 +13237,7 @@ Capital won’t return if Russia might attack again? Try this: capital won’t r
 
 ## Day 1374 
 
-*Date: 2025-11-28 | Status: Published | Audience: only_paid*
+*Date: 2025-11-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Spirit of Anchorage *
 
@@ -13289,7 +13289,7 @@ Have a great weekend!
 
 ## Day 1374ish
 
-*Date: 2025-11-28 | Status: Published | Audience: only_paid*
+*Date: 2025-11-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Yermak under investigation*
 
@@ -13327,7 +13327,7 @@ A senior source said “planning is carrying on” but the government doesn’t 
 
 ## Day 1377
 
-*Date: 2025-12-01 | Status: Published | Audience: only_paid*
+*Date: 2025-12-01 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Witkoff and Kushner in Moscow*
 
@@ -13361,7 +13361,7 @@ The just-give-Russia-what-it-wants-and-the-war-will-end peace framework plan is 
 
 ## Day 1378 
 
-*Date: 2025-12-02 | Status: Published | Audience: only_paid*
+*Date: 2025-12-02 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *November's air defense totals*
 
@@ -13421,7 +13421,7 @@ That’s a pity. We will def find out later.
 
 ## Day 1379 
 
-*Date: 2025-12-03 | Status: Published | Audience: only_paid*
+*Date: 2025-12-03 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The Children's Crusade *
 
@@ -13463,7 +13463,7 @@ So it goes.
 
 ## Day 1380 
 
-*Date: 2025-12-04 | Status: Published | Audience: only_paid*
+*Date: 2025-12-04 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Operation Midas detectives*
 
@@ -13503,7 +13503,7 @@ Sigh.
 
 ## Day 1381
 
-*Date: 2025-12-05 | Status: Published | Audience: only_paid*
+*Date: 2025-12-05 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Putin wants all of Donbas*
 
@@ -13555,7 +13555,7 @@ Have a great weekend!
 
 ## Day 1384 
 
-*Date: 2025-12-08 | Status: Published | Audience: only_paid*
+*Date: 2025-12-08 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Europe's civilizational erasure*
 
@@ -13591,7 +13591,7 @@ It’s a strategy built on nostalgia for a past that never existed, contempt for
 
 ## Day 1385
 
-*Date: 2025-12-09 | Status: Published | Audience: only_paid*
+*Date: 2025-12-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The open society's unfinished business*
 
@@ -13637,7 +13637,7 @@ Z is in Rome today. Maybe he’ll meet with the pope!
 
 ## Day 1386
 
-*Date: 2025-12-10 | Status: Published | Audience: only_paid*
+*Date: 2025-12-10 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The peace plan nobody read*
 
@@ -13683,7 +13683,7 @@ This looks like fun:
 
 ## Day 1387
 
-*Date: 2025-12-11 | Status: Published | Audience: only_paid*
+*Date: 2025-12-11 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The window has closed*
 
@@ -13734,7 +13734,7 @@ And yet—somehow—Ukraine hasn’t collapsed. Which tells you everything about
 
 ## Day 1388 
 
-*Date: 2025-12-12 | Status: Published | Audience: only_paid*
+*Date: 2025-12-12 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Kyiv goes dark*
 
@@ -13792,7 +13792,7 @@ Have a great weekend!
 
 ## Day 1392 
 
-*Date: 2025-12-16 | Status: Published | Audience: only_paid*
+*Date: 2025-12-16 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Platinum security guarantees*
 
@@ -13834,7 +13834,7 @@ And Pekhno has the daily front-line breakdown, starting with the attack on kilo-
 
 ## Day 1393 
 
-*Date: 2025-12-17 | Status: Published | Audience: only_paid*
+*Date: 2025-12-17 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Waiting for Russia*
 
@@ -13870,7 +13870,7 @@ The siren goes. Again.
 
 ## Day 1394 
 
-*Date: 2025-12-18 | Status: Published | Audience: only_paid*
+*Date: 2025-12-18 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Microdosing on ego death *
 
@@ -13913,7 +13913,7 @@ I enjoyed Anne’s [The Longest Suicide Note in American History](https://archiv
 
 ## Day 1395
 
-*Date: 2025-12-19 | Status: Published | Audience: only_paid*
+*Date: 2025-12-19 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Europe's ninety-billion loan*
 
@@ -13943,7 +13943,7 @@ Have a great weekend!
 
 ## Day 1398
 
-*Date: 2025-12-22 | Status: Published | Audience: only_paid*
+*Date: 2025-12-22 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Rather unconstructive *
 
@@ -13981,7 +13981,7 @@ So, stay tuned!
 
 ## Day 1399
 
-*Date: 2025-12-23 | Status: Published | Audience: only_paid*
+*Date: 2025-12-23 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Trump says Ukraine-Russia talks 'going well'*
 
@@ -14039,7 +14039,7 @@ Putin’s getting “rosy” battlefield reports from his generals, who’ve app
 
 ## Day 1400
 
-*Date: 2025-12-24 | Status: Published | Audience: only_paid*
+*Date: 2025-12-24 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The 20-point peace plan*
 
@@ -14108,7 +14108,7 @@ Drone warfare.
 
 ## Day 1401 
 
-*Date: 2025-12-25 | Status: Published | Audience: only_paid*
+*Date: 2025-12-25 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *The twenty-point plan*
 
@@ -14132,7 +14132,7 @@ There is no “wise use of time” when your negotiating partner’s opening pos
 
 ## Day 1402 
 
-*Date: 2025-12-26 | Status: Published | Audience: only_paid*
+*Date: 2025-12-26 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Odesa's cold winter*
 
@@ -14196,7 +14196,7 @@ This is what I see on my phone.
 
 ## Day 1404
 
-*Date: 2025-12-28 | Status: Published | Audience: only_paid*
+*Date: 2025-12-28 | Status: Published | Audience: only_paid | Type: newsletter*
 
 [Image]
 
@@ -14228,7 +14228,7 @@ Looking on the bright side, here’s a pic of Howard Buffett (son on Warren Buff
 
 ## Day 1406
 
-*Date: 2025-12-30 | Status: Published | Audience: only_paid*
+*Date: 2025-12-30 | Status: Published | Audience: only_paid | Type: newsletter*
 
 *Vyshhorod, Minsk, and resilience*
 
