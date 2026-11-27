@@ -13,7 +13,7 @@
 [Image]
 *(clockwise: prime minister oleksiy honcharuk, economy minister timofiy mylovanov, deputy heads of the national bank kateryna rozhkova, and dmytro sologub, the bank’s head yakiv smolii, deputy finance minister yuriy butsa, finance minister oksana markarova, finance ministry chief economist oleksandra betliy, a meeting to discuss hryvnia fluctuation at the cabinet of ministers building in downtown kyiv, on dec. 16, 2019. photo by kmu.gov.ua)*
 
-ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. however, few expected that the time would come when the standard of competency turned out to be the ability to agree **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), the difference in meaning between *разбрат* (**a** **falling out**) and *разврат* (**debauchery**), or how best to explain macroeconomic policy to a ukraine’s president, who does not know the difference.
+ukrainians have known for years that foreign experts pick up on much less in conversation than native speakers. however, few expected that the time would come when the standard of competency turned out to be the ability to agree that **balance of payments** (*платёжный баланс*) should not be confused with **balance of trade** (*торговый баланс*), the difference in meaning between *разбрат* (**a** **falling out**) and *разврат* (**debauchery**), or how best to explain macroeconomic policy to ukraine’s president, who does not know the difference.
 
 the quality of the unedited [90-minute long audio recording](https://drive.google.com/open?id=1WW73w5Tw4pLTxdcASm24W5aKnLXOU3GC) of the december 16, 2019 meeting is **excellent**. it documents an [attempt](https://www.kmu.gov.ua/en/news/uryad-ta-nacionalnij-bank-ukrayini-obgovorili-monetarnu-politiku-v-mezhah-memorandumu-pro-vzayemodiyu) to enhance coordination of monetary and economic policies under the framework of the [memorandum on cooperation to achieve sustainable economic growth and price stability](https://www.kmu.gov.ua/news/uryad-ta-nbu-pidpisali-memorandum-pro-vzayemodiyu-dlya-dosyagnennya-stijkogo-ekonomichnogo-zrostannya-ta-cinovoyi-stabilnosti), an agreement between the central bank and government signed in october 2019 to coordinate macroeconomic policy.
 
@@ -35,7 +35,7 @@ industrial production in ukraine in november 2019 decreased by 7.5% compared to 
 
 “the prime minister tendered his resignation letter to the president. it would have been easier for him to just drop it off at the central bank, which is closer to the president’s office,” skarshevsky said.
 
-neither ukraine’s industrial slump nor macroeconomic policy were on the agenda during the 10-minute meeting between zelensky and honchaurk on january 17. at the start of their one-on-one meeting posted to facebook, the president said the scandal had created “a very unpleasant situation.” he then added that honcharuk and his team would be given another chance.
+neither ukraine’s industrial slump nor macroeconomic policy were on the agenda during the 10-minute meeting between zelensky and honcharuk on january 17. at the start of their one-on-one meeting posted to facebook, the president said the scandal had created “a very unpleasant situation.” he then added that honcharuk and his team would be given another chance.
 
 the president instead asked the prime minister to resolve the following problems by february 4, 2020: 1) remuneration for ministers and top government officials, 2) bonus payments to naftogaz staff for winning the $2.9 billion stockholm arbitration ruling against gazprom, 3) removal of the least competent cabinet members, optimization of ministries and 4) improvement of cooperation between the government and parliament committees.
 
@@ -85,7 +85,7 @@ pompeo on january 22 [said](https://www.bloombergquint.com/politics/pompeo-says-
 
 [Image]
 
-On March 4, 2020, Ukraine’s Justice Ministry sold 99.8% of Prominvestbank (PIB) shares on the Ukraine’s PFTS Stock Exchange to Russia’s VEB, bypassing the decision of Stockholm arbitration and the standards of the National Bank of Ukraine (NBU).
+On March 4, 2020, Ukraine’s Justice Ministry sold 99.8% of Prominvestbank (PIB) shares on Ukraine’s PFTS Stock Exchange to Russia’s VEB, bypassing the decision of Stockholm arbitration and the standards of the National Bank of Ukraine (NBU).
 
 The Regulator threatened to declare the bank insolvent and the bank’s borrowers in the restructuring process are not aware of who the new owner of the bank is. The asset is “suitcase without a handle” after the sale, because the new management’s future policy will be to aggressively collect collateral and not engage in classic banking.
 
@@ -99,7 +99,7 @@ As for Privat Group, it was represented by a list of 18 companies (Everest Estat
 
 Further, on September 25, 2019, the Kyiv Court of Appeal, in accordance with the provisions of the New York Convention of 1959 on the recognition and enforcement of a foreign arbitral award, seized three Russian state-owned banks: Sberbank, VTB and PIB . At first glance, these banks are the direct property of Russia and can be recovered by the Justice Ministry in compensation for the Crimean assets of Privat Group.
 
-However, a month earlier in August 2019, the Stockholm Chamber of Commerce Arbitration Institute banned Ukraine from selling the arrested shares of PIB. The decision could serve as the basis on several technical points as recognition of the full representation of the party against which the decision was made in court (and Russia usually ignores lawsuits in order to drag out time), such as jurisdiction compliance and others technical legal points.
+However, a month earlier in August 2019, the Stockholm Chamber of Commerce Arbitration Institute banned Ukraine from selling the arrested shares of PIB. The decision could serve as the basis on several technical points as recognition of the full representation of the party against which the decision was made in court (and Russia usually ignores lawsuits in order to drag out time), such as jurisdiction compliance and other technical legal points.
 
 The specified decision of August 2019 was appealed by Ukraine before the full composition of the tribunal of the Stockholm Chamber of Commerce. But the Arbitration Institute of the Stockholm Chamber of Commerce, by its decision of February 28, 2020, dismissed Ukraine’s complaint about the above decision and forbade Ukraine to sell shares of PIB.
 
@@ -115,7 +115,7 @@ Unfortunately, the Justice Ministry will have to answer the following unpleasant
 
 [Image]
 
-All these issues, in hundreds of millions of claims, can settled by the NBU and the Justice Ministry if they recognize that the sale of PIB shares was illegal, an act that perhaps now will benefit no one, including Ukraine.
+All these issues, in hundreds of millions of claims, can be settled by the NBU and the Justice Ministry if they recognize that the sale of PIB shares was illegal, an act that perhaps now will benefit no one, including Ukraine.
 
 ---
 
@@ -129,7 +129,7 @@ All these issues, in hundreds of millions of claims, can settled by the NBU and 
 
 [Image]
 
-On March 4, Justice Ministry officials sold 99.8% of Prominvestbank (PIB) shares on the PFTS, bypassing the decision of Stockholm arbitration and the standards of the National Bank of Ukraine (NBU). Russian shareholders represented by Vnesheconombank (VEB) have already announced their intention to recover the entire market value of PIB from Ukraine. The regulator threatened to declare the bank insolvent and the bank’s borrowers during restructuring process said they were not aware of who the new owner of the bank is. The asset is a “**suitcase without a handle**” after the sale, because the new management’s future policy will be to aggressively collect collateral and not engage in classic banking.
+On March 4, Justice Ministry officials sold 99.8% of Prominvestbank (PIB) shares on the PFTS, bypassing the decision of Stockholm arbitration and the standards of the National Bank of Ukraine (NBU). Russian shareholders represented by Vnesheconombank (VEB) have already announced their intention to recover the entire market value of PIB from Ukraine. The regulator threatened to declare the bank insolvent and the bank’s borrowers during the restructuring process said they were not aware of who the new owner of the bank is. The asset is a “**suitcase without a handle**” after the sale, because the new management’s future policy will be to aggressively collect collateral and not engage in classic banking.
 
 [Image]
 
@@ -169,7 +169,7 @@ Unfortunately, the Justice Ministry will have to answer the following unpleasant
 - *Isn’t this just an attempt to bring high-quality collateral through an administrative resource and earn 100% profitability on “quality work with distressed assets?*
 - *Has the bank not specifically gone bankrupt with local management based on such a scenario?*
 
-**All these issues, in hundreds of millions of dollars worth of claims, can settled by the NBU and the Justice Ministry** ***if*** **they recognize that the sale of PIB shares was illegal, an act that perhaps will benefit no one, except Ukraine.**
+**All these issues, in hundreds of millions of dollars’ worth of claims, can be settled by the NBU and the Justice Ministry** ***if*** **they recognize that the sale of PIB shares was illegal, an act that perhaps will benefit no one, except Ukraine.**
 
 ---
 
@@ -193,7 +193,7 @@ This much is clear. When Ze!Team promised one year ago to punish former top gove
 
 Servant of the People Party parliament faction head David Arakhamia told reporters on March 5 that failure by Prosecutor General Ruslan Ryaboshapka to sign notices of suspicion was the "last straw."
 
-"The notices of suspicion against Poroshenko have been prepared, but no one is doing anything," Aarakhamia said, referring to a [21-page draft](https://www.pravda.com.ua/rus/articles/2020/03/4/7242497/) notice of suspicion published by the Kyiv-based ezine Ukrainska Pravda on March 4.
+"The notices of suspicion against Poroshenko have been prepared, but no one is doing anything," Arakhamia said, referring to a [21-page draft](https://www.pravda.com.ua/rus/articles/2020/03/4/7242497/) notice of suspicion published by the Kyiv-based ezine Ukrainska Pravda on March 4.
 
 Ryaboshapka confirmed that the document was forwarded to him by Ukraine's State Bureau of Investigation (SBI) for signature. The draft notice says Poroshenko is suspected of abuse of office and seizure of state power. The suspicion notice is based on two episodes - the appointment of two members to Ukraine's High Council of Justice (HCJ) and deputy head of the Ukraine's Foreign Intelligence Service.
 
@@ -209,7 +209,7 @@ Servant of the People MP Oleksandr Kachura said the SBI draft notice of suspicio
 
 Parliament sacked Ryaboshapka as Prosecutor General on March 6. He told LIGA that he refused to sign the notice of suspicion because it contained "legally nihilistic" and unproven charges.
 
-Ryaboshapka said he referred the case under Article 364 (abuse of power) to Ukraine's National Anti-Corruption Bureau of Ukraine (NABU), which had jurisdiction of the case. In order words, the SBI was unauthorized to draw up charges against Poroshenko.
+Ryaboshapka said he referred the case under Article 364 (abuse of power) to Ukraine's National Anti-Corruption Bureau of Ukraine (NABU), which had jurisdiction over the case. In other words, the SBI was unauthorized to draw up charges against Poroshenko.
 
 Ryaboshapka transferred Poroshenko's case to NABU before being fired, voiding the SBI's case against the former president.
 
@@ -225,7 +225,7 @@ MP Kachura said SBI detectives compiled a "normal evidentiary base" it case agai
 
 Another MP in the Servant of the Party faction further developed Kachura's idea.
 
-"The SBI has also looked into Ukreximbank. There is also the case involving PrJSC Kuznya on Rybalsky Plant (previously PJSC Leninska Kuznya – a shipbuilding facitily formerly owned by Poroshenko)… And two or three more cases will be added," the MP said.
+"The SBI has also looked into Ukreximbank. There is also the case involving PrJSC Kuznya on Rybalsky Plant (previously PJSC Leninska Kuznya – a shipbuilding facility formerly owned by Poroshenko)… And two or three more cases will be added," the MP said.
 
 Kachura and the MP said the President's Office has set the task of finding a new Prosecutor General "with a steady hand" who will sign notices of suspicion for Poroshenko. They said Servant of the People MP Serhiy Ionushas would be an ideal candidate.
 
@@ -251,7 +251,7 @@ Another anonymous MP from Zelensky's party said acting SBI Director Iryna Venedi
 
 I no longer write columns, but if I did, they would focus on the harassment of Ukraine's fifth President Petro Poroshenko (2015-2019).
 
-Investigators from the State Bureau of Investigations suspect him of "illegally" ordering Ukraine's Naval Forces ships to travel to the Sea of Azov via the Kerch Strait in November 2018. Poroshenko also allegedly evaded paying taxes and subsequently legalized funds for the purchase of the Direct TV channel. He is suspected of illegally appointing of two members of Ukraine's High Court of Justice and illegally interfering in the work of the Kyiv Court of Appeal, as well as in the affairs of the Kyiv Regional Administrative Court involving the nationalization of PrivatBank. In addition, he has been accused of improperly appointing judges and Volodymyr Groysman as prime minister (due to the lack of a majority coalition in parliament). Poroshenko could face additional charges for interfering in the transfer of land plot ownership, failing to secure classified information and for possible tax evasion in the sale of the PrJSC Kuznya on Rybalsky Plant (previously PJSC Leninska Kuznya - a shipbuilding plant sold to Sergey Tigipko). Probably the most ridiculous charge is that he broke the law in 2018 by taking his family on vacation to the Maldives.
+Investigators from the State Bureau of Investigations suspect him of "illegally" ordering Ukraine's Naval Forces ships to travel to the Sea of Azov via the Kerch Strait in November 2018. Poroshenko also allegedly evaded paying taxes and subsequently legalized funds for the purchase of the Direct TV channel. He is suspected of illegally appointing two members of Ukraine's High Court of Justice and illegally interfering in the work of the Kyiv Court of Appeal, as well as in the affairs of the Kyiv Regional Administrative Court involving the nationalization of PrivatBank. In addition, he has been accused of improperly appointing judges and Volodymyr Groysman as prime minister (due to the lack of a majority coalition in parliament). Poroshenko could face additional charges for interfering in the transfer of land plot ownership, failing to secure classified information and for possible tax evasion in the sale of the PrJSC Kuznya on Rybalsky Plant (previously PJSC Leninska Kuznya - a shipbuilding plant sold to Sergey Tigipko). Probably the most ridiculous charge is that he broke the law in 2018 by taking his family on vacation to the Maldives.
 
 **Article 62 of Ukraine’s Constitution reads:** *A person is presumed innocent of committing a crime and shall not be subjected to criminal punishment until his or her guilt is proved through legal procedure and established by a court verdict of guilty. No one is obliged to prove his or her innocence of committing a crime. An accusation shall not be based on illegally obtained evidence as well as on assumptions. All doubts in regard to the proof of guilt of a person are interpreted in his or her favour. In the event that a court verdict is revoked as unjust, the state compensates the material and moral damages inflicted by the groundless conviction.*
 
