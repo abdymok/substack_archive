@@ -60,11 +60,11 @@ My favorite Twitter accounts involving Ukraine belong to [Iuliia](https://twitte
 
 Macroeconomic analysis of the mess will be provided by [Ukraine Economic Outlook](https://www.ukraine-economic-outlook.com/researches), the Kyiv-based macroeconomic analysis and forecasting group near and dear to my heart.
 
-Following Russia’s annexation of Crimea and invasion of eastern Ukraine in 2014, attempts to fix Ukraine’s economy failed, in part because there was no consensus among Ukraine’s benefactors, chiefly the International Monetary Fund, World Bank and U.S. government, who offered flawed guidance about which changes were necessary and which were not.
+Following Russia’s annexation of Crimea and invasion of eastern Ukraine in 2014, attempts to fix Ukraine’s economy failed, in part because there was no consensus among Ukraine’s benefactors, chiefly the International Monetary Fund, the World Bank and the U.S. government, who offered flawed guidance about which changes were necessary and which were not.
 
 There was no consensus then about what the reforms should be. Just like there is none now.
 
-The battle between social-oriented, socialist economists on the Left and libertarian economists on the Right about economic reforms has been fought in the West for at least a century. In Ukraine, they are still fighting.
+The battle between socially oriented, socialist economists on the Left and libertarian economists on the Right about economic reforms has been fought in the West for at least a century. In Ukraine, they are still fighting.
 
 Unfortunately, in 2015, Leftist advice was given to fix the economy – that is, proposals from Leftist economists offering socialist-style remedies. Ukrainian entrepreneurs say there should be *less* government involvement in the economy, the *lowest* possible taxes and concentrated efforts to stimulate business activity and attract foreign investment by all available means[1](#footnote-1).
 
@@ -94,7 +94,7 @@ This clip about Wagner Private Military Company posted by The Wall Street Journa
 
 The way WSJ re-chews execrable bullshit like the various [Vice](https://www.vice.com/en/section/news) franchises, or the video clips posted from the relentlessly vacuous [Kyiv Post](https://kyivpost.com), or the tooth-pulling strident moral advocacy heard on [Kyiv Independent’s Powerline podcasts](https://kyivindependent.com/category/podcasts), is just so bang on you want to lie motionless near a warm radiator.
 
-Do search around – there are now zillion and one Wagner explainers on [YouTube](https://www.youtube.com/results?search_query=Wagner+group), and the tenacious will find pre-invasion clips about corruption floating around torrentially, courtesy of [Bellingcat](https://www.youtube.com/watch?v=87lT2uo_QzU&ab_channel=%D0%A1%D0%B5%D0%B9%D1%87%D0%B0%D1%81).
+Do search around – there are now a zillion and one Wagner explainers on [YouTube](https://www.youtube.com/results?search_query=Wagner+group), and the tenacious will find pre-invasion clips about corruption floating around torrentially, courtesy of [Bellingcat](https://www.youtube.com/watch?v=87lT2uo_QzU&ab_channel=%D0%A1%D0%B5%D0%B9%D1%87%D0%B0%D1%81).
 
 To contrast and compare, watch TV Burp. Or, rather, don’t.
 
@@ -112,7 +112,7 @@ In it [Casey Taft](https://strengthathome.org/about-dr-casey-taft/), a staff psy
 
 [Image]
 
-That the entire country has essentially been **one big war zone** for almost nine years probably makes the situation even more complicated, minus Tinder and the sex toys, plus prohibition of ibogaine, psilocybin and marijuana.
+That the entire country has essentially been **one big war zone** for almost nine years probably makes the situation even more complicated, minus Tinder and the sex toys, plus the prohibition of ibogaine, psilocybin and marijuana.
 
 [1](#footnote-anchor-1)
 
@@ -178,7 +178,7 @@ Which brings me to their official rhetoric, which lately has been over-the-top.
 
 The many selves of Z distributed across time, interviews, acting roles and stand-up comedy routines and the relationship between all of these selves can actually be modeled in a kind of problematic theoretical sense, as if they all were individual agents. Some live in Ukraine’s top leaders, who have already pre-committed to dubious narratives which might intentionally tie their own hands in advance of future challenges, because they realize that some of their future selves can’t — or worse, won’t — be relied on.
 
-Conjure up the Pork Chop from Obolon, hiding donuts at the back of the fridge, [work done by Hal Hirschfield](https://www.youtube.com/watch?v=QBdIeC7FYkU&ab_channel=TheWeekendUniversity) demonstrating that if you show people, for example, virtual reality age progressed versions of their own faces, then they put more money in their piggy banks.
+Conjure up the Pork Chop from Obolon, hiding donuts at the back of the fridge, [work done by Hal Hirschfield](https://www.youtube.com/watch?v=QBdIeC7FYkU&ab_channel=TheWeekendUniversity) demonstrating that if you show people, for example, virtual reality age-progressed versions of their own faces, then they put more money in their piggy banks.
 
 The vivid imagination of Z’s speechwriters in the future will no doubt influence the outcomes of life-and-death decisions which will play out over future generations, at least three of them (about 50 years).
 
@@ -212,7 +212,7 @@ My position on those early web page prototypes called books is clear: I love boo
 
 The above is a rare [cover](https://web.archive.org/web/20010305083541/http://www.cardigan.com/coverage/humour/vlp2.html) for a book that did not as yet exist, at least in English until the early 1980s and my first trip to Cologne. Version one – everybody seemed to think version one was rather good – was drubbed and kicked and held, noses pinched, at arm’s length by the sales force of [Kiepenheuer & Witsch](https://www.kiwi-verlag.de/) for being too mopey. Improved upon in later years.
 
-I recently came in contact with this dreadful jacket for [Demian](https://en.wikipedia.org/wiki/Demian). Almost made me not want to re-read it.
+I recently came across this dreadful jacket for [Demian](https://en.wikipedia.org/wiki/Demian). Almost made me not want to re-read it.
 
 [Image]
 
@@ -230,13 +230,13 @@ It would be interesting to establish the point in history – no doubt somewhere
 
 [Image]
 
-Ongoing battles at night in and around Bakhmut and Soledar in eastern Ukraine again demonstrate how ENVG-Bs make pest control much more safe and efficient. So, keep sending night vision gear, especially thermal NODS and other contraptions[1](#footnote-1)[2](#footnote-2). Kudos to the boys and girls at Techiia Foundation and ATN for being proactive and concluding the deal before the crypto crash[3](#footnote-3).
+Ongoing battles at night in and around Bakhmut and Soledar in eastern Ukraine again demonstrate how ENVG-Bs make pest control much safer and more efficient. So, keep sending night vision gear, especially thermal NODS and other contraptions[1](#footnote-1)[2](#footnote-2). Kudos to the boys and girls at Techiia Foundation and ATN for being proactive and concluding the deal before the crypto crash[3](#footnote-3).
 
-In other news, I came across this annoying paragraph in an op-ed published on January 9, 2022 by Foreign Affairs, titled “[The Long War. The West Needs to Plan for a Protracted Conflict With Russia](https://www.foreignaffairs.com/ukraine/long-war-ukraine-russia-protracted-conflict?utm_medium=social&fbclid=IwAR3AoHVaizlfYb22DjJpBd9YZvRsmcaE9DGykppSc_9aWBRY5eZyaoSsgdc).”
+In other news, I came across this annoying paragraph in an op-ed published on January 9, 2023 by Foreign Affairs, titled “[The Long War. The West Needs to Plan for a Protracted Conflict With Russia](https://www.foreignaffairs.com/ukraine/long-war-ukraine-russia-protracted-conflict?utm_medium=social&fbclid=IwAR3AoHVaizlfYb22DjJpBd9YZvRsmcaE9DGykppSc_9aWBRY5eZyaoSsgdc).”
 
 [Image]
 
-About two thirds of the way through this smug, precious, longwinded yet toweringly unresolved argument – through which [Foreign Policy](https://www.foreignaffairs.com/ukraine/long-war-ukraine-russia-protracted-conflict?utm_medium=social&fbclid=IwAR3AoHVaizlfYb22DjJpBd9YZvRsmcaE9DGykppSc_9aWBRY5eZyaoSsgdc) hacks continue to assert in dainty rhetorical strokes that only one legitimate form of engagement, i.e. Russia containment, remains, that being the sort favored by the cold-eyed strategists of the next American empire; so chipper, so blithely cruel – I concluded that nothing in this life would give me greater pleasure than to sock Ivo and James in the jaw.
+About two-thirds of the way through this smug, precious, long-winded yet toweringly unresolved argument – through which [Foreign Policy](https://www.foreignaffairs.com/ukraine/long-war-ukraine-russia-protracted-conflict?utm_medium=social&fbclid=IwAR3AoHVaizlfYb22DjJpBd9YZvRsmcaE9DGykppSc_9aWBRY5eZyaoSsgdc) hacks continue to assert in dainty rhetorical strokes that only one legitimate form of engagement, i.e. Russia containment, remains, that being the sort favored by the cold-eyed strategists of the next American empire; so chipper, so blithely cruel – I concluded that nothing in this life would give me greater pleasure than to sock Ivo and James in the jaw.
 
 [1](#footnote-anchor-1)
 
@@ -4322,7 +4322,7 @@ Team USA gets zero points on a scale of one to ten for offering us bad advice on
 
 [Image]
 
-About two thirds of the way through David’s smug, precious, yet toweringly unresolved argument – through which he asserts in dainty rhetorical strokes the desire of unnamed U.S. officials that Kyiv **not take advantage of the chaos next door**, that being the sentiment shared by cold eyed strategists dating back to the Obama administration, so chipper, so blithely cruel – I concluded that nothing in this life would give me greater pleasure than to sock them all in the jaw.
+About two-thirds of the way through David’s smug, precious, yet toweringly unresolved argument – through which he asserts in dainty rhetorical strokes the desire of unnamed U.S. officials that Kyiv **not take advantage of the chaos next door**, that being the sentiment shared by cold eyed strategists dating back to the Obama administration, so chipper, so blithely cruel – I concluded that nothing in this life would give me greater pleasure than to sock them all in the jaw.
 
 Now, being here in Kyiv, er, that’s not an option. They are too far away!
 
