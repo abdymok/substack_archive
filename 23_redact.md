@@ -1923,7 +1923,7 @@ Not so fast, said deputy head of the President’s Office Mykhailo Podoliak.
 
 > "The basis for real negotiations with (Russia) is the complete withdrawal of Russian armed groups beyond the internationally recognised borders of Ukraine in 1991. Including #Crimea," he said, according to [Reuters](https://www.reuters.com/world/europe/ukraine-sends-conflicting-signals-crimea-talks-idea-2023-04-06/). "There is no question of any territorial concessions or bargaining of our sovereign rights."
 
-Timila Tasheva, Z’s envoy on Crimea, says Ukraine [will give Russia a choice](https://www.politico.eu/article/ukraine-russia-crimea-war-peace-volodymyr-zelenskyy/) on how to leave Crimea.
+Tamila Tasheva, Z’s envoy on Crimea, says Ukraine [will give Russia a choice](https://www.politico.eu/article/ukraine-russia-crimea-war-peace-volodymyr-zelenskyy/) on how to leave Crimea.
 
 > “To minimize Ukrainian military losses, minimize threats to civilians who live in occupied territories, as well as the destruction of civilian infrastructure, Ukraine plans to give Russia a choice on how to leave Crimea. If they don’t agree to leave voluntarily, Ukraine will continue to liberate its land by military means,” Tasheva [said](https://www.politico.eu/article/ukraine-russia-crimea-war-peace-volodymyr-zelenskyy/).
 
@@ -1951,7 +1951,7 @@ Trying out this whole ‘conveying useful information sincerely’ thing (as opp
 
 No one knows who CNN’s source is or why he/she was granted anonymity, so it’s okay to move this \*news item\* into the trash bin.
 
-Non-predictive intelligence floppery has been a feature — not a bug — of Russia’s years-long attempt to erase Ukraine[1](#footnote-1). That someone uploaded photos from a classified DIA brief about Ukraine’s battle readiness is, er, par for the course. So is the Kyiv Post’s asinine attempt to use the *glowie* to sell Anabel Arto’s shapeware.
+Non-predictive intelligence floppery has been a feature — not a bug — of Russia’s years-long attempt to erase Ukraine[1](#footnote-1). That someone uploaded photos from a classified DIA brief about Ukraine’s battle readiness is, er, par for the course. So is the Kyiv Post’s asinine attempt to use the *glowie* to sell Anabel Arto’s shapewear.
 
 [Image]
 
@@ -2011,7 +2011,7 @@ OG used to mean [Original Gangster](https://www.urbandictionary.com/define.php?t
 
 [1](#footnote-anchor-1)
 
-[No Russia-Ukraine peace talks expected this year, U.S. leak shows.](https://www.washingtonpost.com/national-security/2023/04/12/leaked-documents-ukraine-war/) *The war is expected to spill into 2024 with neither side notching victory and both refusing to negotiate, U.S. intelligence officials surmise* ([The Washington Post](https://www.washingtonpost.com/national-security/2023/04/12/leaked-documents-ukraine-war/). April 12, 2023)
+[No Russia-Ukraine peace talks expected this year, U.S. leak shows.](https://www.washingtonpost.com/national-security/2023/04/12/leaked-documents-ukraine-war/) *The war is expected to spill into 2024 with neither side notching a victory and both refusing to negotiate, U.S. intelligence officials surmise* ([The Washington Post](https://www.washingtonpost.com/national-security/2023/04/12/leaked-documents-ukraine-war/). April 12, 2023)
 
 [2](#footnote-anchor-2)
 
@@ -2031,7 +2031,7 @@ OG used to mean [Original Gangster](https://www.urbandictionary.com/define.php?t
 
 [Image]
 
-Quick quiz for Kyiv lovers. What direction is the woman with the raised sword and shield facing? Northeast. She is looking directly at Oryol, Ryazan, Nizhny Novogorod, in the direction of Moscow. That’s why the right bank of the Dnipro River is *western* (and the left bank vice versa, that is, *eastern*).
+Quick quiz for Kyiv lovers. What direction is the woman with the raised sword and shield facing? Northeast. She is looking directly at Oryol, Ryazan, Nizhny Novgorod, in the direction of Moscow. That’s why the right bank of the Dnipro River is *western* (and the left bank vice versa, that is, *eastern*).
 
 ---
 
@@ -2067,7 +2067,7 @@ A friend stationed temporarily in Sloviansk called yesterday to say happy Easter
 
 Looking at the effect of the floods, it’s clear we were unbelievably lucky compared to others in Brovary — there were emergency rescues in nearby towns. Some people are still without running water or electricity, and damage to roads, homes and businesses will take months to dry up.
 
-Right up the road across the highway, the incredibly accommodating Fisherman’s Market had finished renovating their yard just in time to see the work destroyed, along with angling gear, appliances and much else, including live bait. Their earthen pavillion – and these are *fastidiously* tidy marketeers – is now a football field of mud puddles littered with ruined stalls and waterlogged merchandise.
+Right up the road across the highway, the incredibly accommodating Fisherman’s Market had finished renovating their yard just in time to see the work destroyed, along with angling gear, appliances and much else, including live bait. Their earthen pavilion – and these are *fastidiously* tidy marketeers – is now a football field of mud puddles littered with ruined stalls and waterlogged merchandise.
 
 Later on, I ran to the newly renovated River Port building ([Київський річковий порт та вокзал](https://uk.wikipedia.org/wiki/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D1%96%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB)) to rejuvenate in the sweet electric glow of academia (er, to check on American University’s renovation plans).
 
@@ -2093,7 +2093,7 @@ Okay so [here’s what I worked on](https://www.ukraine-economic-outlook.com/ann
 
 [Image]
 
-I haven’t seen the graphics yet. Run entirely through the browser (no FTP mucky-muck), the report will offer ways to upload, amend and quickly vet detailed information about *how,* actually, the state of Ukraine’s economy is being presented. Eventually, it will be a B2B PHP/MySQL thing, dynamic, based on UEO’s research.
+I haven’t seen the graphics yet. The report, which runs entirely through the browser (no FTP mucky-muck), will offer ways to upload, amend and quickly vet detailed information about *how,* actually, the state of Ukraine’s economy is being presented. Eventually, it will be a B2B PHP/MySQL thing, dynamic, based on UEO’s research.
 
 ---
 
@@ -2125,7 +2125,7 @@ In other news, [Jamie Dettmer](http://@jamiewrit) for Politico explores the poss
 
 [Image]
 
-Mykola Knyazhytsky is not a former minister (but the former business partner of Russian spy Volodymyr Syvkovych). And yes, indeed, Z will be asked to explain, hopefully under oath, wtf he was thinking when he tagged childhood buddy Ivan to run the SBU, Kyrylo to head the National Bank of Ukraine, Andriy to lead the Ministry of Defense, etc ad nauseum.
+Mykola Knyazhytsky is not a former minister (but the former business partner of Russian spy Volodymyr Syvkovych). And yes, indeed, Z will be asked to explain, hopefully under oath, wtf he was thinking when he tagged childhood buddy Ivan to run the SBU, Kyrylo to head the National Bank of Ukraine, Andriy to lead the Ministry of Defense, etc ad nauseam.
 
 The reckoning won’t be pleasant.
 
