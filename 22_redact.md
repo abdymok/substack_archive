@@ -1070,7 +1070,6 @@ Oh, and if anyone comes across the Belarusian saboteurs sent to Ukraine listed b
 [Image]
 *Photo c/o Dmytro Kuleba , c/o Reuters...*
 
-######
 
 Borodyanka, sometimes spelled Borodianka, is an urban-type settlement in Kyiv region and the administrative center of its eponymous district. Population: 13,044, about 1,000 more than 20 years ago.
 
@@ -1101,7 +1100,6 @@ It looked like a happy ending, until the orcs re-invaded and took the town’s r
 [Image]
 *Testing out flight helmets, c/o Old Photos of the World*
 
-######
 
 *Lots of nerdy military updates w/ maps about the mess on Substack. [Here’s one](https://bit.ly/3HHWvY0), if you’re interested. And [this one](https://www.facebook.com/stefan.korshak) on Facebook w/ links to many others.*
 
@@ -1137,7 +1135,6 @@ Conserve letters: **Zaporizhia**. There’s no good reason for double up “***z
 
 [Image]
 
-######
 
 **It goes like this:**
 
@@ -1252,7 +1249,6 @@ Practicing London-based philosopher Vladimir Pastukhov has written another [prag
 
 [Image]
 
-######
 
 [The Dragon](https://litportal.ru/avtory/evgeniy-shvarc/read/page/1/kniga-drakon-31390.html), by [Evgeny Schwartz](https://en.wikipedia.org/wiki/Evgeny_Schwartz). The puppet theatre in Magnitogorsk staged the play in 1979. The same [Viktor Shraiman](https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%B8%D1%87) (from Kharkiv) presented [The Very Same Munchhausen](https://en.wikipedia.org/wiki/The_Very_Same_Munchhausen) there in 1988. I was in the audience and impressed. Vaguely recall getting drunk with the troupe after the play.
 
@@ -1290,7 +1286,6 @@ Over the last two weeks, Russia’s “further military invasion” has followed
 [Image]
 *Volunteer fighters from the United States, UK, Sweden, Lithuania, Brazil, Canada, Poland, Georgia, etc. have arrived.*
 
-######
 
 Whether Ukraine requires the additional fire power to prevent the situation from devolving further into barbarity is no longer debatable. Its own army, territorial defense units and volunteer hit squads have done an excellent job, so far. The last time I checked, officials had even [released](https://www.pravda.com.ua/rus/news/2022/02/27/7326457/) members of the Tornado death squad from prison to help keep the peace.
 
@@ -1390,7 +1385,6 @@ For eight years, U.S. and European diplomats have been dreaming up and proposing
 [Image]
 *Photo c/o Historic Photographs . A German officer and an NCO wearing portable sound locating apparatae to detect enemy aircraft (this was a type of early radar). Western Front, 1917..*
 
-######
 
 Didn’t write much this morning. Too busy *reading* about what might have happened last night.
 
@@ -1437,7 +1431,6 @@ What’s-his-face Podoliak, who advises the President’s Office, has said more 
 [Image]
 *Map c/o Critical Threats*
 
-######
 
 **Russia has lost the war**, and the map above is misleading. The same goes for dozens of forecasts and studies published by [Institute for the Study of War](https://www.criticalthreats.org/the-project) and [Critical Threats](https://www.understandingwar.org/) over the six months leading up to the invasion. Both 501© think tanks are the brainchildren of Fred, who probably means well, but doesn’t have a clue.
 
@@ -1570,11 +1563,9 @@ So depressing.
 [Image]
 *RIP: Yulia, 21, mathematician from Kharkiv, Oleksandra, 24, FoxNews fixer from Kyiv*
 
-######
 
 ---
 
-######
 
 ---
 
@@ -1916,7 +1907,6 @@ Ukraine today does not need NATO troops or NATO advice or NATO training. We need
 [Image]
 *Nathan’s map*
 
-######
 
 Could this be Mad Max, my “[hero](https://www.youtube.com/shorts/ABazdtwIEfU),” from [Day 29](https://abdymok.substack.com/p/day-29?s=w)?
 
@@ -1977,7 +1967,6 @@ My advice is to ignore Andy. Time better spent digesting Violetta’s [Battle fo
 [Image]
 *Kharkiv Economic University. Photo c/o Третя Сила*
 
-######
 
 There's something about senseless destruction in this photograph, which evokes the *Eternal Struggle*, the 1923 American silent drama film.
 
@@ -2043,7 +2032,6 @@ I watched uncle Joe’s [speech](https://www.youtube.com/watch?v=Ou5-_wtoUaQ) in
 [Image]
 *Map c/o Третя Сила*
 
-######
 
 Putin’s Special Operation continues to resemble Carlos Castaneda’s *[A Separate Reality](https://en.wikipedia.org/wiki/A_Separate_Reality)*, without the ibogaine. The apocalypse [forecasted](https://abdymok.substack.com/p/lost-in-translation?s=w) has indeed materialized and momentum continues to build, according to the UK’s [Defense Intelligence](https://twitter.com/DefenceHQ).
 
@@ -2102,7 +2090,6 @@ American legionnaire TikTok-ers, meanwhile, are posting lots of [vids](https://t
 [Image]
 *Nathan’s map .*
 
-######
 
 \*\*\*
 
