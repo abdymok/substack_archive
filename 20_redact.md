@@ -4973,13 +4973,13 @@ Recall what Volodymyr Zelensky said on January 31, 2020 about the COVID-19 pande
 
 [Image]
 
-On March 26, 2000, the president said this:
+On March 26, 2020, the president said this:
 
-> "The Prime Minister has been tasked with resolving the issue of so-called VIP chambers in hospitals and repealing all regulations that require it. …There will be no luxury accomodations for members of the Central Committee," the president [exclaimed](https://www.ukrinform.ua/rubric-polytics/2905762-zelenskij-pro-vippalati-u-nas-ne-sovok-ne-bude-luksovih-palat-dla-cleniv-ck.html).
+> "The Prime Minister has been tasked with resolving the issue of so-called VIP chambers in hospitals and repealing all regulations that require it. …There will be no luxury accommodations for members of the Central Committee," the president [exclaimed](https://www.ukrinform.ua/rubric-polytics/2905762-zelenskij-pro-vippalati-u-nas-ne-sovok-ne-bude-luksovih-palat-dla-cleniv-ck.html).
 
 Zelensky pathetically claimed that no politician or businessman would be afforded better conditions than ordinary Ukrainians infected with COVID-19.
 
-> “You will be in same wards and hospitals that you have built in this country in 28 years. Maybe then you will understand what it is like not to be able to be treated in Switzerland or Israel,” he [said](https://www.ukrinform.ua/rubric-polytics/2905762-zelenskij-pro-vippalati-u-nas-ne-sovok-ne-bude-luksovih-palat-dla-cleniv-ck.html).
+> “You will be in the same wards and hospitals that you have built in this country in 28 years. Maybe then you will understand what it is like not to be able to be treated in Switzerland or Israel,” he [said](https://www.ukrinform.ua/rubric-polytics/2905762-zelenskij-pro-vippalati-u-nas-ne-sovok-ne-bude-luksovih-palat-dla-cleniv-ck.html).
 
 ---
 
@@ -5005,7 +5005,7 @@ I was never a fan of forceful retaliation until I was mugged.
 
 Sheer violence is mute. It might save your life, but violence alone can never be great, even when beating off muggers on S train.
 
-Back in Sophocle’s day, the whole concept of civil disobedience, rule and being ruled, of government and power, belonged in the private rather than the public sphere. That has changed. Now equality - not justice - epitomizes liberty: to be free means to be free from the *inequality* present in rulership and to live in a place where people neither rule nor are ruled, like in modern day Ukraine, parts of Alberta and homesteads in northern Utah.
+Back in Sophocles’ day, the whole concept of civil disobedience, rule and being ruled, of government and power, belonged in the private rather than the public sphere. That has changed. Now equality - not justice - epitomizes liberty: to be free means to be free from the *inequality* present in rulership and to live in a place where people neither rule nor are ruled, like in modern day Ukraine, parts of Alberta and homesteads in northern Utah.
 
 ---
 
@@ -5017,11 +5017,11 @@ Back in Sophocle’s day, the whole concept of civil disobedience, rule and bein
 
 [Image]
 
-Secret state security services these days are walking a tightrope. Any miscalculation, could result in a hilarious failure, such as the recent botched attempt to liquidate Alexey Navalny, or a bloody mess, like the [Battle of Kassam](https://en.wikipedia.org/wiki/Battle_of_Khasham).
+Secret state security services these days are walking a tightrope. Any miscalculation could result in a hilarious failure, such as the recent botched attempt to liquidate Alexey Navalny, or a bloody mess, like the [Battle of Khasham](https://en.wikipedia.org/wiki/Battle_of_Khasham).
 
 OPSEC fuck ups in the United States and former Soviet states in recent years have been manifold. They demonstrate nothing is more corrosive than official anonymity and TOP SECRET security clearances. Not leaving digital clues has become harder, further complicating the enterprise of carrying out clandestine fuckery without getting caught.
 
-Julian Assange and Eduard Snowden a decade ago warned about Big Brother wanting to monitor our phone calls and track our movements. The information age has instead allowed anyone with a computer and a decent Internet connection to keep track of would-be guardians of the state. Shadowing inept operatives has never been easier or more entertaining.
+Julian Assange and Edward Snowden a decade ago warned about Big Brother wanting to monitor our phone calls and track our movements. The information age has instead allowed anyone with a computer and a decent Internet connection to keep track of would-be guardians of the state. Shadowing inept operatives has never been easier or more entertaining.
 
 Which brings us to Ukraine’s state security services and their year-long operation against Russian agents and Wagner PMC (Private Military Company). The plan was to force an emergency landing of the contractor's plane from Minsk in July 2020 as it flew through Ukrainian airspace. The mercenaries - several of whom had fought in eastern Ukraine - would have been arrested. Russian President Putin said the stunt was the brainchild of a joint U.S.-Ukrainian intelligence operation. The President’s Office of Ukraine denies any such operation existed.
 
@@ -5045,9 +5045,9 @@ Which brings us to Ukraine’s state security services and their year-long opera
 
 [Image]
 
-Ex President Petro Poroshenko on said on December 30, 2020 said that he had authorized the operation of the country’s special forces to lure Russian mercenaries, including members of Wagner PMC, to Ukraine in order to detain them.
+Ex-President Petro Poroshenko said on December 30, 2020 that he had authorized the operation of the country’s special forces to lure Russian mercenaries, including members of Wagner PMC, to Ukraine in order to detain them.
 
-> "At the end of 2018, as then Supreme Commander-in-Chief of the Armed Forces, I authorized this operation. …I will not allow to the investigation to be closed, to papered over, lied about or allow persons to evade their responsibility for commission of a crime of treason,” Poroshenko [said](https://www.youtube.com/watch?v=NrojoLqYsX4&ab_channel=5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB).
+> "At the end of 2018, as then Supreme Commander-in-Chief of the Armed Forces, I authorized this operation. …I will not allow the investigation to be closed, papered over, lied about or allow persons to evade their responsibility for the commission of a crime of treason,” Poroshenko [said](https://www.youtube.com/watch?v=NrojoLqYsX4&ab_channel=5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB).
 
 Poroshenko said the targets of the operation included dozens involved in the downing of the MH17 plane, the downing of the IL-76 plane with paratroopers in Luhansk, as well as Russian officials who gave criminal orders.
 
