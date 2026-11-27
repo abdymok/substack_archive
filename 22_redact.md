@@ -7779,7 +7779,7 @@ Oh, and I forgot to mention [Able Archer](https://en.wikipedia.org/wiki/Able_Arc
 
 Another weird interview moment: Fiona mentioned Putin’s willingness to meet Masha Gessen in 2012, understanding this as a sign of his willingness to entertain opposing points of view. Fiona, as I recall, was silent during the [meltdown](https://web.archive.org/web/20121231015020/http://www.worldaffairsjournal.org/blog/judy-bachrach/korn-fired-meltdown-radio-free-europeradio-liberty) of RFE/RL in Moscow after that pow wow.
 
-Masha’s brother Keith – typically unable to establish any sort of authoritative voice before flinging together a few thoughts of comfort to the greedy and the stupid – has [taken the lead](https://www.newyorker.com/culture/annals-of-inquiry/how-the-war-in-ukraine-might-end) in the New Yorker’s steeplechase of hacks making hay out of unspeakable tragedy.
+Masha’s brother Keith – typically unable to establish any sort of authoritative voice before flinging together a few thoughts of comfort to the greedy and the stupid – has [taken the lead](https://www.newyorker.com/culture/annals-of-inquiry/how-the-war-in-ukraine-might-end) in The New Yorker’s steeplechase of hacks making hay out of unspeakable tragedy.
 
 On the Ukraine jacket, there’s not much to report, except Z’s decision yesterday to nationalize everything not nailed down. We’re still somewhere in Phase 3, with less electricity, experiencing an *operational pause* while the warring sides seek to replenish reserves and supply lines as quickly as possible.
 
@@ -7810,14 +7810,14 @@ Stefan provides tactical details about the bloody mess [here](https://www.facebo
 [Image]
 *Forecast c/o Gismeteo.ua*
 
-Bicycle season ends when the temperatures dip below zero. I’ve made the 10K commute to/from work in the city for the last five months. Recent rides have become very technical in order to shave off a few seconds here and there. The bike parkour equivalent of the countdown scene in the movie Blue Thunder, according to Google Fit, the [app](https://www.google.com/fit/) that keeps track of everything. It nags me about the twenty-one minute record I need to beat.
+Bicycle season ends when the temperatures dip below zero. I’ve made the 10K commute to/from work in the city for the last five months. Recent rides have become very technical in order to shave off a few seconds here and there. The bike parkour equivalent of the countdown scene in the movie Blue Thunder, according to Google Fit, the [app](https://www.google.com/fit/) that keeps track of everything. It nags me about the 21-minute record I need to beat.
 
 Riding fast and fluid through Kyiv can be dangerous. When it comes to braking, I often jump off the bike and slow down on foot, and I also can use my foot on the back wheel like a brake (in an emergency). But usually I try to keep riding.
 
 [Image]
 *c/o abdymok*
 
-Everyone crashes from time to time, even with breaks. Staying focused and aware of the jackass in your rear-vew mirror is the best way to stay safe.
+Everyone crashes from time to time, even with brakes. Staying focused and aware of the jackass in your rear-view mirror is the best way to stay safe.
 
 ---
 
@@ -7826,7 +7826,7 @@ Hypoxia is a life-threatening emergency for fish. An hours-long electricity outa
 [Image]
 *A freshwater angelfish*
 
-I am of late – for the first time, and possibly the last – finding myself engaged in the most enjoyable pastime of teaching Ukrainian children how to swear in English. Of course all children come equipped with a threshhold of gullibility, and by any measure it is low, low behaviour for an adult to take advantage of this eagerness to learn, in any language. Nonetheless I hope that some time in the future one of them will have opportunity, when called out or sassed upon an English-speaking street, to shoot back with one of my recommended rejoinders.
+I am of late – for the first time, and possibly the last – finding myself engaged in the most enjoyable pastime of teaching Ukrainian children how to swear in English. Of course all children come equipped with a threshold of gullibility, and by any measure it is low, low behaviour for an adult to take advantage of this eagerness to learn, in any language. Nonetheless I hope that some time in the future one of them will have opportunity, when called out or sassed upon an English-speaking street, to shoot back with one of my recommended rejoinders.
 
 ***Fuck off and die.***
 
@@ -7907,7 +7907,7 @@ Later, rinse, repeat.
 
 ---
 
-Slow dark blackout days in Kyiv are a great foundation for many things: building a long aerobic base, a huge variety in metabolism daily, since there are three-hour chunks at z1 slow movement, but also some z3 in steep non-technical climbs and even some z4 and z5 in certain zones, if you want to go fast.
+Slow dark blackout days in Kyiv are a great foundation for many things: building a long aerobic base, a huge variety in daily metabolism, since there are three-hour chunks at z1 slow movement, but also some z3 in steep non-technical climbs and even some z4 and z5 in certain zones, if you want to go fast.
 
 Unfortunately, there have been plenty of anaerobic-enhanced, non-divergent stunts engineered by self-aggrandizing doucherockets whose mission in life is to make Z look heroic. The latest is a [harebrained decision](https://detector.media/community/article/204942/2022-11-14-khersonskyy-ekstses-yak-poiednaty-interesy-suspilstva-zhurnalistiv-vlady-ta-viyskovykh/) to revoke the accreditation of journalists who arrived in liberated Kherson ahead of the *leader*.
 
@@ -8231,7 +8231,7 @@ I listened to Timothy’s latest and last lecture about the Making of Modern Ukr
 
 The final class is not about unfettered muddling and unclarity during the 2000s, 2010s and 2020s. Tim glosses over [Tuzla](https://www.kyivpost.com/article/content/ukraine-politics/tense-over-tuzla-19153.html), post-Orange Revolution idiocy leading to the election of a Kremlin goon, Kharkiv accords and the lead-up to Russia’s invasion in 2014. The authoritarian populist accelerant to Putin’s decision to decapitate Kyiv is ignored.
 
-Pre-war Ukraine should be remembered as a sham democracy, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings ([2001](https://en.wikipedia.org/wiki/Ukraine_without_Kuchma), [2004](https://en.wikipedia.org/wiki/Orange_Revolution), [2013](https://en.wikipedia.org/wiki/Revolution_of_Dignity)). Absent them, even the illusion of tolerance, much less competency, would not exist. What happens after we win the war is anyone’s guess. Should we embrace pan European socialist-styled remedies? Or should we emulate Ireland?
+Pre-war Ukraine should be remembered as a sham democracy, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings ([2001](https://en.wikipedia.org/wiki/Ukraine_without_Kuchma), [2004](https://en.wikipedia.org/wiki/Orange_Revolution), [2013](https://en.wikipedia.org/wiki/Revolution_of_Dignity)). Absent them, even the illusion of tolerance, much less competency, would not exist. What happens after we win the war is anyone’s guess. Should we embrace pan-European socialist-style remedies? Or should we emulate Ireland?
 
 Which brings me to the non-existent seven-foot tall monument of Ronald Reagan in Kyiv, c/o Jeff Stein at [The Washington Post](https://edition.cnn.com/2022/12/13/politics/us-patriot-missile-defense-system-ukraine/index.html).
 
@@ -8239,11 +8239,11 @@ Which brings me to the non-existent seven-foot tall monument of Ronald Reagan in
 
 Ukraine’s Ayn Rand cult reminded me of this C-Span chit chat between Christopher Hitchens and David Frum 17 years ago.
 
-The article about Zablotskyy’s brainchild followed a long, loopy report, titled, “[War has tamed Ukraine’s oligarchs, creating space for democratic change:](https://www.washingtonpost.com/world/2022/12/08/ukraine-oligarchs-power-war/) *[Ukraine may have the opportunity to rebuild a postwar society that is more democratic, less corrupt and more economically diversified](https://www.washingtonpost.com/world/2022/12/08/ukraine-oligarchs-power-war/)*[.](https://www.washingtonpost.com/world/2022/12/08/ukraine-oligarchs-power-war/)”
+The article about Zablotskyy’s brainchild followed a long, loopy report titled “[War has tamed Ukraine’s oligarchs, creating space for democratic change:](https://www.washingtonpost.com/world/2022/12/08/ukraine-oligarchs-power-war/) *[Ukraine may have the opportunity to rebuild a postwar society that is more democratic, less corrupt and more economically diversified](https://www.washingtonpost.com/world/2022/12/08/ukraine-oligarchs-power-war/)*[.](https://www.washingtonpost.com/world/2022/12/08/ukraine-oligarchs-power-war/)”
 
 Those interviewed include economist Timothy Mylovanov, president of the Kyiv School of Economics and a former government economic development minister, who said Ukrainians’ economic future would follow a U.S. or European model, not a Russian one.
 
-More lawyers and less bribers, concluded Mylovanov, one of the most active and self-aware villians of Ukraine’s macroeconomic mess under Z.
+More lawyers and less bribers, concluded Mylovanov, one of the most active and self-aware villains of Ukraine’s macroeconomic mess under Z.
 
 But that’s another story.
 
@@ -8262,7 +8262,7 @@ But that’s another story.
 
 Imagine you're a pop star signed to a major label who has produced a new song. You really, really want to get it out to a top hits playlist because people who listen to music often use them as a guide to what they should listen to next.
 
-So to do this, your label identifies hardcore fans, lures them to your concerts and fills up Internet with crap that reminds people of you. If your songs are any good, you rise on the charts. And then fans want to hear and see more.
+So to do this, your label identifies hardcore fans, lures them to your concerts and fills up the Internet with crap that reminds people of you. If your songs are any good, you rise on the charts. And then fans want to hear and see more.
 
 The same is true for self-help books sold on Amazon. The practice can even apply to pilgrimages by visiting dignitaries to Bucha outside of Kyiv, which is what I thought when I listened to Serhiy Leshchenko [explain](https://www.youtube.com/watch?v=CeCPBPN7-yo) laboriously to Mark Feygin why Z has been recognized *correctly* as Person of the Year.
 
@@ -8273,9 +8273,9 @@ We must not be distracted by the circular logic of needy operators.
 
 Pop rock stars[1](#footnote-1), Hollywood actors[2](#footnote-2) and presidential pep talks[3](#footnote-3) win fame, not wars. Just like a year ago, when Z was insisting an all-out invasion was unlikely[4](#footnote-4), what’s necessary today is a trained, healthy and fully-equipped fighting force capable of vaporizing the enemy.
 
-Before the February 2022, the outside world lived in fantasy land about Ukraine and Z because of loopy reporting. No one was *that* interested in Kyiv until the blitzkrieg. World leaders have only just recently showed signs of coming to their senses.
+Before February 2022, the outside world lived in fantasyland about Ukraine and Z because of loopy reporting. No one was *that* interested in Kyiv until the blitzkrieg. World leaders have only recently shown signs of coming to their senses.
 
-A lot of people have asked whether Z and his followers can be convinced to reach an accommodation with Vova in order to end the bloodletting. The answer is no for a zillion reasons. Russia’s military forces in Ukraine must be defeated and driven out. It’s a simple as that. The invaders must die. Rinse, repeat.
+A lot of people have asked whether Z and his followers can be convinced to reach an accommodation with Vova in order to end the bloodletting. The answer is no for a zillion reasons. Russia’s military forces in Ukraine must be defeated and driven out. It’s as simple as that. The invaders must die. Rinse, repeat.
 
 Think [JDAM strikes](https://www.youtube.com/watch?v=o5bH7VurGTs&ab_channel=mattezyk69).
 
@@ -8312,7 +8312,7 @@ Think [JDAM strikes](https://www.youtube.com/watch?v=o5bH7VurGTs&ab_channel=matt
 
 **Officials? Advisors to officials? Operators?** Maybe whoever wrote this bullshit doesn’t understand the difference.
 
-The passage reminds of when one-time welfare recipient Diane Francis foamed for the [Kyiv Post](https://kyivpost.com) about Andrey Illarionov’s imagined Kremlin/Washington disinformation campaign to create a full-blown propagandized invasion threat one month before the blitzkrieg.[2](#footnote-2)
+The passage reminds me of when one-time welfare recipient Diane Francis foamed for the [Kyiv Post](https://kyivpost.com) about Andrey Illarionov’s imagined Kremlin/Washington disinformation campaign to create a full-blown propagandized invasion threat one month before the blitzkrieg.[2](#footnote-2)
 
 This brings me back to the main conclusion of yesterday’s post[3](#footnote-3):
 
