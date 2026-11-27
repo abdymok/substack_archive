@@ -74,7 +74,7 @@ On Friday, Tokayev ordered his troops to “shoot to kill without warning” ant
 
 > “Free access to the Internet does not mean you can freely post your musings, slander and insults, your incitements and calls,” he said.
 
-Tokayev is the Kazakh version of Alexander Nevsky, ex-[Grand Prince of Kyiv](https://en.wikipedia.org/wiki/Grand_Prince_of_Kiev), who saved his own neck and the Russian empire in the thirteen century by agreeing to pay homage to the powerful Ulug Ulus.
+Tokayev is the Kazakh version of Alexander Nevsky, ex-[Grand Prince of Kyiv](https://en.wikipedia.org/wiki/Grand_Prince_of_Kiev), who saved his own neck and the Russian empire in the thirteenth century by agreeing to pay homage to the powerful Ulug Ulus.
 
 [Image]
 
@@ -107,7 +107,7 @@ Yesterday Francis wrote an entire column, titled [Vlad’s Bluff](https://www.ky
 
 [Image]
 
-One assumes Illarionov is hoping to reclaim some self esteem after comparing the insurrection in America last January to the Reichstag fire in 1933. Read that for yourself [here.](https://aillarionov.livejournal.com/2021/01/08/) Maybe Francis also agrees with Illarionov that no one knows who *really* won the 2020 U.S. presidential election?
+One assumes Illarionov is hoping to reclaim some self-esteem after comparing the insurrection in America last January to the Reichstag fire in 1933. Read that for yourself [here.](https://aillarionov.livejournal.com/2021/01/08/) Maybe Francis also agrees with Illarionov that no one knows who *really* won the 2020 U.S. presidential election?
 
 In other news, WAPO columnist David Ignatius [informs us](https://www.washingtonpost.com/opinions/2022/01/11/us-russia-debate-ukraine-its-hard-see-wiggle-room/) that U.S. and allied non-permissive environment specialists have already landed in Kyiv and are scheming with indigenous commandos at [Tootsie Club](https://en.tootsie.kiev.ua/) to liberate possible future oppressed residents of the capital.
 
