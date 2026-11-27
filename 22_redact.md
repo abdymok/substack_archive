@@ -3214,7 +3214,7 @@ We should probably remember that pre-invasion Ze was a zero and Ukraine was a sh
 
 [2](#footnote-anchor-2)
 
-Ukraine is a sham democracy, a primitive post-soviet feudal autocracy that is not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance would not exist. [Thug Life](https://abdymok.substack.com/p/thug-life-contd?s=w) (October 5, 2020)
+Ukraine is a sham democracy, a primitive post-Soviet feudal autocracy that is not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance would not exist. [Thug Life](https://abdymok.substack.com/p/thug-life-contd?s=w) (October 5, 2020)
 
 ---
 
@@ -5149,7 +5149,7 @@ Mykola, also known as The Pork Chop from Obolon[1](#footnote-1), hasn’t popped
 
 Mykola and Serhiy. Together. Again. What could go wrong?
 
-Two years ago, I wrote that under Zelensky Ukraine was a sham democracy, a primitive post-soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance would not exist[2](#footnote-2).
+Two years ago, I wrote that under Zelensky Ukraine was a sham democracy, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance would not exist[2](#footnote-2).
 
 I wonder how — or if — the war is changing that.
 
@@ -5217,7 +5217,7 @@ If you want to get close to understanding fascist Russia’s genocidal war in Uk
 
 The last thing you want to screw up if you’re a war correspondent is the story you just wrote. Just ask CJ and Noah, who never retracted their *rebellion* bullshit when the war started[1](#footnote-1).
 
-Eight years later, another ex-marine from the same newspaper [writes](https://www.nytimes.com/by/thomas-gibbons-neff) Ukrainian soldiers can’t figure out how to operate an over-priced French thermal range finder.
+Eight years later, another ex-marine from the same newspaper [writes](https://www.nytimes.com/by/thomas-gibbons-neff) Ukrainian soldiers can’t figure out how to operate an overpriced French thermal range finder.
 
 Yana Dlugy [plugs the story](https://www.nytimes.com/2022/06/06/briefing/russia-ukraine-war-us-britain-weapons-monastery.html) from Paris:
 
@@ -5231,7 +5231,7 @@ The only rebellion in eastern Ukraine in early 2014 was in the heads of clueless
 
 ---
 
-## Callibrated Coercion
+## Calibrated Coercion
 
 *Date: 2022-06-09 | Status: Published | Audience: only_paid | Type: newsletter*
 
@@ -5254,7 +5254,7 @@ Say you're sorry honey, but you never really show
 And I could leave the party without ever letting you know
 Without ever letting you know[3](#footnote-3)
 
-Beth Sanner,[predata](https://www.predata.com/our-company/) advisor,National Security Analyst and former Deputy Director of National Intelligence for Mission Integration [she’s the one who gave drumpy his daily intelligence briefings], tells Julian in the aforementioned NYT article that Team USA *feels* “we are setting ourselves up for another intel failure…”
+Beth Sanner, a [Predata](https://www.predata.com/our-company/) adviser, national security analyst and former Deputy Director of National Intelligence for Mission Integration (she’s the one who gave Drumpy his daily intelligence briefings), tells Julian in the aforementioned NYT article that Team USA *feels* “we are setting ourselves up for another intel failure…”
 
 I have bad news for Beth. The intelligence failure already occurred, under her watch and in Z’s head. It’s just now being compounded daily by an army of Freds and his friends, romantic ex-marines, Deta-A wannabes, et cetera. Non-predictive intelligence floppery is a feature — not a bug — of this war[4](#footnote-4).
 
@@ -5262,9 +5262,9 @@ Recall our key points from Day 11 of this bloody mess[5](#footnote-5).
 
 [Image]
 
-The reason Tiger Team may have less information than they would like about Ukraine’s operations is because it’s not very flattering. And it’s the only job of a platoon of doucherockets not to make it public and to whine about the West not doing enough.
+The reason Tiger Team may have less information than they would like about Ukraine’s operations is that it’s not very flattering. And it’s the only job of a platoon of doucherockets to keep it from becoming public and to whine about the West not doing enough.
 
-Ukraine remains sham democracy, a primitive post-soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance, much less competency, would not exist.
+Ukraine remains a sham democracy, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance, much less competency, would not exist.
 
 Looking on the positive side, Bridget is now resident in Kyiv and [tweeting](https://twitter.com/usembassykyiv) robustly about how much money U.S. taxpayers are going to spend propping up Ukraine’s obliterated economy.
 
@@ -5333,15 +5333,15 @@ Bild, which [announced](https://www.bild.de/politik/ausland/politik-ausland/bild
 
 #### Unity with Russia?
 
-Leaders of Europe’s three richest countries have for the last two decades coddled the meglomaniac from Moscow. The current ones have been looking for an off-ramp for Putin for the last several months, without success.
+Leaders of Europe’s three richest countries have for the last two decades coddled the megalomaniac from Moscow. The current ones have been looking for an off-ramp for Putin for the last several months, without success.
 
 Their visit comes as Ukraine is in danger of losing control of more areas in eastern Ukraine. Russia’s army is advancing slowly and Ukrainian soldiers are running out of ammunition.
 
 [Image]
 
-Italy and Germany lost WWII. France surrendered in 1940 to the Nazis and collaborated with Hitler. Today the governments of the three countries are stacked with bureaucrats on the Kremlin’s payroll, including top ranking military officers.
+Italy and Germany lost WWII. France surrendered in 1940 to the Nazis and collaborated with Hitler. Today the governments of the three countries are stacked with bureaucrats on the Kremlin’s payroll, including top-ranking military officers.
 
-It is unclear whether Germany, France and Italy will help Ukraine out with weapons or ammunition. They haven’t so far, much.
+It is unclear whether Germany, France and Italy will help Ukraine out with weapons or ammunition. They haven’t done much so far.
 
 ---
 
@@ -5359,17 +5359,17 @@ Z ducks the question in his interview with ZDF about why Ukraine failed to heed 
 
 > **[ZDF heute journal](https://www.zdf.de/nachrichten/politik/ukraine-praesident-selenskyj-interview-zdf-heute-journal-100.html):** Biden said he warned you that Russia planned to invade, but you didn't want to hear it…
 >
-> **Zelensky:** I believe that the Ukrainian side should ask a question, and should be addressed to many European leaders, as well as to America’s leader. As Ukraine’s leader, it would have been fair if I had been listened to in advance [of Russia’s invasion], and if they had heeded what we warned them about.
+> **Zelensky:** I believe that the Ukrainian side should ask a question, and it should be addressed to many European leaders, as well as to America’s leader. As Ukraine’s leader, it would have been fair if I had been listened to in advance [of Russia’s invasion], and if they had heeded what we warned them about.
 >
 > I mean about imposing pre-emptive sanctions so the war wouldn’t start. Our strategy for the Black Sea, building a Black Sea Fleet with a partner country. We suggested a plan, we said that Russia would block the Black Sea.
 >
-> We also talked about a missile defense program, I reported on it a year ago and presented the program, what air defenses we needed to protect ourselves. That’s the right answer to your question.
+> We also talked about a missile defense program, I reported on it a year ago and presented the program showing what air defenses we needed to protect ourselves. That’s the right answer to your question.
 >
 > If they [European and American leaders] had listened to me, Ukraine would have had a better chance of stopping Russia’s invasion. The signals you mention, they were all different. Look, if everything had happened like this, if everyone had warned Ukraine that tomorrow there would be a full-scale invasion, then the following questions arise: Why wasn’t a no-fly zone imposed? Why weren't we supplied with weapons before this invasion and why weren’t provisional sanctions [against Russia] introduced, in order to pre-emptively deter Russia’s president?
 >
 > That's how I would answer your question. Let's be honest: we prepared ourselves for this. In the beginning, no one supported us and now I am grateful to all partners for the support we have.
 
-During his chit chat with Latynina on Day 11 (@around 47.00 into the interview), Mykhailo Podoliak acknowledges, albeit grudgingly, that “we made a mistake” by not taking the repeated warnings more seriously[2](#footnote-2).
+During his chit chat with Latynina on Day 11 (at around 47:00 in the interview), Mykhailo Podoliak acknowledges, albeit grudgingly, that “we made a mistake” by not taking the repeated warnings more seriously[2](#footnote-2).
 
 Looking on the positive side, Ukraine’s leaders now realize the mismatch between Putin’s actual decision-making and his choices as a rational decision maker, which he isn’t.
 
@@ -5392,7 +5392,7 @@ Looking on the positive side, Ukraine’s leaders now realize the mismatch betwe
 [Image]
 *Photo c/o abdymok*
 
-Ukraine is rolling out the welcome mat today for a beano with the leaders of The Big Three — Italy, France and Germany, Europe’s richest counties.
+Ukraine is rolling out the welcome mat today for a beano with the leaders of The Big Three — Italy, France and Germany, Europe’s richest countries.
 
 Mario, Emmanuel and Olaf will be strutting across Bankova Street later this morning. They are scheduled to chat up Z about plans to grant EU membership status to Ukraine, conditionally.
 
@@ -5402,7 +5402,7 @@ Emmanuel, abnormally, has talked about an exit from the war, to include European
 
 Fascist Russia’s genocidal campaign has been in full swing since late February and passions are running high, so Z’s office — just in case — has kept the historic visit hush hush for security reasons. As of this writing, no official announcement has been made.
 
-As we already noted, Italy and Germany lost WWII. France surrendered in 1940 to the Nazis and collaborated with Hitler. Today the governments of all three countries are stacked with bureaucrats on the Kremlin’s payroll, including top ranking military officers[1](#footnote-1).
+As we already noted, Italy and Germany lost WWII. France surrendered in 1940 to the Nazis and collaborated with Hitler. Today the governments of all three countries are stacked with bureaucrats on the Kremlin’s payroll, including top-ranking military officers[1](#footnote-1).
 
 [Image]
 *Source: Kiel Institute for World Economy*
@@ -5439,9 +5439,9 @@ Although problems with this approach abound, only a few journalists are [writing
 
 Which brings me to Z’s [hologram](https://www.linkedin.com/feed/update/urn:li:activity:6943235027799339008/) debut and the dream of rebuilding Ukraine as a “fully digital democracy,” whatever that means, during fascist Russia’s genocidal campaign and the bitcoin crash.
 
-Face the facts. Marijuana, Psilocybin and Ibogaine remain *illegal* substances in Ukraine, where same-sex marriage is still impossible.
+Face the facts. Marijuana, psilocybin and ibogaine remain *illegal* substances in Ukraine, where same-sex marriage is still impossible.
 
-We are living in sham democracy, a primitive post-soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance, much less competency, would not exist.
+We are living in a sham democracy, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance, much less competency, would not exist.
 
 ---
 
@@ -5454,7 +5454,7 @@ We are living in sham democracy, a primitive post-soviet feudal autocracy not u
 [Image]
 *With scant options in Ukraine, U.S. and allies prepare for long war (WAPO, June 17, 2022)*
 
-Reading about what people think **about the war you are in** is annoying, because most already discredited themselves too often to take seriously. Non-predictive intelligence floppery has been а hallmark of this bloody mess, thanks in part to the clowns at WAPO, ISW and Rand, where Russia and Ukraine expertise is, er, lacking.
+Reading about what people think **about the war you are in** is annoying, because most already discredited themselves too often to take seriously. Non-predictive intelligence floppery has been a hallmark of this bloody mess, thanks in part to the clowns at WAPO, ISW and Rand, where Russia and Ukraine expertise is, er, lacking.
 
 My all-time favorite bogus ***key assessment*** belongs to Fred, who, in a 35-page report in December 2021, footnotes himself from a 59-page report from June the same year[1](#footnote-1):
 
@@ -5534,7 +5534,7 @@ The president said clear and tough rules, clear and quick steps without dialogue
 
 Democracy means different things to different people.
 
-Since Independence — and I was here for that in 1991 — Ukraine has a remained a *sham democracy*, a primitive post-soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings (2000, 2004, 2014). Absent them, even the illusion of tolerance, much less official competency, would not exist.
+Since Independence — and I was here for that in 1991 — Ukraine has a remained a *sham democracy*, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings (2000, 2004, 2014). Absent them, even the illusion of tolerance, much less official competency, would not exist.
 
 Which brings me to [this](https://www.politico.com/news/2022/06/23/zelenskyy-top-spy-security-failures-00041794?s=09&fbclid=IwAR3ZswXH3ZB4zR1EZVbcraYS862b9lATOimEwQuT0fIT9s8xa_ZfNZ-1Ods):
 
@@ -5596,7 +5596,7 @@ I started running at the end of Phase 2 of fascist Russia’s genocidal campaign
 
 [4](#footnote-anchor-4)
 
-[Callibrated Coercion](https://abdymok.substack.com/p/callibrated-coercion). (June 9, 2022)
+[Calibrated Coercion](https://abdymok.substack.com/p/callibrated-coercion). (June 9, 2022)
 
 ---
 
@@ -6298,7 +6298,7 @@ Which brings me to Taiwan and the unhelpful [op-ed](https://nyti.ms/3Jpeyog) app
 
 Of course, there *is* funny business going on in Kyiv. We don’t dwell on it because it’s not helpful to the war effort. But firing Iryna, Andriy and Ivan [Bakanov - head of Ukraine’s State Security Service] ***is certainly not*** the equivalent of Biden firing Garland and Burns the same day.
 
-Ukraine remains sham democracy, a primitive post-soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance, much less competency, would not exist.
+Ukraine remains a sham democracy, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings. Absent them, even the illusion of tolerance, much less competency, would not exist.
 
 Z’s decisions to dismiss the jackasses he appointed to top government posts are perhaps the best he’s ever made. We applaud them.
 
@@ -7203,7 +7203,7 @@ In related news, dozens of Ukrainian economists, sociologists, legal experts, sc
 
 Defeating Russia should mean it’s time for Ukraine’s top officials to kill the dragon in themselves, but they’re not thinking about Schwartz’s play[3](#footnote-3)[4](#footnote-4).
 
-Ukraine has a remained a *sham democracy*, a primitive post-soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings and war (2000, 2004, 2014, 2022). Absent them, even the illusion of tolerance, much less official competency, would not exist[5](#footnote-5).
+Ukraine has a remained a *sham democracy*, a primitive post-Soviet feudal autocracy not underpinned by elections or coordinated work of institutions, but by popular uprisings and war (2000, 2004, 2014, 2022). Absent them, even the illusion of tolerance, much less official competency, would not exist[5](#footnote-5).
 
 Punchy combinations of frankness and emotional power don’t trump competent governance. In other words, message isn’t as important as reality, minus cuddle parties and pep talks[6](#footnote-6).
 
